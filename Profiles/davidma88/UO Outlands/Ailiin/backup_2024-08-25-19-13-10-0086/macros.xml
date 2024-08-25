@@ -199,4 +199,14 @@
 			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\ProvokNearest" />
 		</actions>
 	</macro>
+	<macro name="Peace+Disc" key="49" mousebutton="0" alt="False" ctrl="True" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\PeaceNearest+Discord" />
+		</actions>
+	</macro>
+	<macro name="GoCustomLoc" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\GoCustomLocation" />
+		</actions>
+	</macro>
 </macros>

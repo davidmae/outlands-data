@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">-925</property>
-	<property name="WindowY" type="System.Int32">618</property>
+	<property name="WindowX" type="System.Int32">-7</property>
+	<property name="WindowY" type="System.Int32">0</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">866</property>
-	<property name="RazorHeight" type="System.Int32">411</property>
+	<property name="RazorWidth" type="System.Int32">761</property>
+	<property name="RazorHeight" type="System.Int32">1039</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -53,7 +53,7 @@
 	<property name="HotKeyStop" type="System.Boolean">False</property>
 	<property name="DiffTargetByType" type="System.Boolean">False</property>
 	<property name="StepThroughMacro" type="System.Boolean">False</property>
-	<property name="ShowTargetSelfLastClearOverhead" type="System.Boolean">True</property>
+	<property name="ShowTargetSelfLastClearOverhead" type="System.Boolean">False</property>
 	<property name="ShowOverheadMessages" type="System.Boolean">False</property>
 	<property name="OverheadFormat" type="System.String">[{msg}]</property>
 	<property name="OverheadStyle" type="System.Int32">1</property>
@@ -209,7 +209,7 @@
 	<macrovariables />
 	<scriptvariables>
 		<scriptvariable serial="0x53D34D" name="CurrentTarget" />
-		<scriptvariable serial="0x11212A" name="mobTwo" />
+		<scriptvariable serial="0x4E660" name="mobTwo" />
 	</scriptvariables>
 	<friends />
 	<textfilters />

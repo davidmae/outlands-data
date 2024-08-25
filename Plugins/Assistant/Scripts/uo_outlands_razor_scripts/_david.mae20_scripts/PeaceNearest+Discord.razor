@@ -7,7 +7,6 @@ endif
 
 @setvar! myKillTarget lasttarget
 
-
 clearignore 
 useskill 'Peacemaking'
 wft 500
@@ -17,8 +16,14 @@ if targetexists
     if insysmsg "You fail to pacify your opponent. You estimate the task to be fairly reasonable."
         overhead "Failed to pacify" 34
         wait 100
+    else
+        wait 5000
+        useskill "Discordance"
+        wft
+        target lasttarget
+        
+        getlabel myKillTarget description
+        overhead description
     endif
-    
-    getlabel myKillTarget description
-    overhead description
 endif
+

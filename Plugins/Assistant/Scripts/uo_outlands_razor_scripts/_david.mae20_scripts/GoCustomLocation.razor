@@ -1,0 +1,8 @@
+if not gumpexists 1482653814
+    say '[SacredJourney'
+elseif gumpexists 1482653814
+    gumpresponse 4
+endif
+if findtype 30528 ground 2091 1 2 as mgate
+    dclick mgate
+endif

@@ -1,9 +1,19 @@
-target closest gray,red
-wft 150
+hotkey 'target closest non-friendly monster'
+wait 200
+if insysmsg "no one matching"
+    overhead  "Nothing to attack" 34
+    stop
+endif
+
 @setvar! myKillTarget lasttarget
-wft 150
+
+
+clearignore 
 useskill 'Discordance'
 wft 500
-target myKillTarget
-wft 150
-target lasttarget
+if targetexists 
+    target myKillTarget
+    wait 150
+    getlabel myKillTarget description
+    overhead description
+endif
