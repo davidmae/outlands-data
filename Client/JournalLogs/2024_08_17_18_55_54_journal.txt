@@ -1,0 +1,549 @@
+[08/17/2024 18:55]  System: WorldMap loading...
+[08/17/2024 18:55]  System: Loading WorldMap markers..
+[08/17/2024 18:55]  System: ..Banks_and_Healers.xml (39)
+[08/17/2024 18:55]  System: ..Dungeons.xml (13)
+[08/17/2024 18:55]  System: ..Dungeon_Gates.xml (388)
+[08/17/2024 18:55]  System: ..Healer_Caravans.xml (42)
+[08/17/2024 18:55]  System: ..Kings_Faire.xml (43)
+[08/17/2024 18:55]  System: ..Moongates.xml (10)
+[08/17/2024 18:55]  System: ..POI.xml (251)
+[08/17/2024 18:55]  System: ..PvP_Locations.xml (71)
+[08/17/2024 18:55]  System: ..Shrines.xml (9)
+[08/17/2024 18:55]  System: ..Sub-Dungeons.xml (4)
+[08/17/2024 18:55]  System: ..Townships.xml (10)
+[08/17/2024 18:55]  System: ..UOAM_Atlas.xml (1887)
+[08/17/2024 18:55]  System: ..UOAM_T-Map.xml (255)
+[08/17/2024 18:55]  System: ..UOAM_Treasure.xml (523)
+[08/17/2024 18:55]  System: WorldMap markers loaded (3545)
+[08/17/2024 18:55]  System: Welcome Eldevil!
+[08/17/2024 18:55]  Wanda: Wanda the blacksmith
+[08/17/2024 18:55]  Komuccap: Komuccap (Young)
+[08/17/2024 18:55]  a pack horse: (tame)
+[08/17/2024 18:55]  a pack horse: [0/2000 stones]
+[08/17/2024 18:55]  a pack horse: a pack horse
+[08/17/2024 18:55]  AskChopper.: Mythical Engineer
+[08/17/2024 18:55]  AskChopper.: [Soldier, SOF]
+[08/17/2024 18:55]  AskChopper.: AskChopper.
+[08/17/2024 18:55]  Crystal: Crystal the tinker
+[08/17/2024 18:55]  Subrey: Subrey the provisioner
+[08/17/2024 18:55]  a sheep: a sheep
+[08/17/2024 18:55]  a sheep: a sheep
+[08/17/2024 18:55]  a sheep: a sheep
+[08/17/2024 18:55]  a sheep: a sheep
+[08/17/2024 18:55]  Ardith: Ardith the tailor
+[08/17/2024 18:55]  Branchsnap: Branchsnap (Young)
+[08/17/2024 18:55]  Draven Stalemate: [Disciple of the First, DTF]
+[08/17/2024 18:55]  Draven Stalemate: Draven Stalemate
+[08/17/2024 18:55]  Jolanta: Jolanta the Paladin
+[08/17/2024 18:55]  Ayisha: Ayisha the weaponsmith
+[08/17/2024 18:55]  Hungry: Hungry (Young)
+[08/17/2024 18:55]  Branchsnap: Branchsnap (Young)
+[08/17/2024 18:56]  Drukk: [Klergka Gukka ^^**, Urk]
+[08/17/2024 18:56]  Drukk: Drukk
+[08/17/2024 18:56]  System: WorldMap loaded!
+[08/17/2024 18:56]  BLUPIIDR: (bonded)
+[08/17/2024 18:56]  BLUPIIDR: BLUPIIDR
+[08/17/2024 18:56]  TIMMOT: (bonded)
+[08/17/2024 18:56]  TIMMOT: TIMMOT
+[08/17/2024 18:56]  Branchsnap: Branchsnap (Young)
+[08/17/2024 18:56]  Amadis: Amadis the armorer
+[08/17/2024 18:56]  EricNorthman: Brilliant
+[08/17/2024 18:56]  EricNorthman: [PiXeL Officer, IDC]
+[08/17/2024 18:56]  EricNorthman: Lord EricNorthman
+[08/17/2024 18:56]  Aesas: [recruit, PEC]
+[08/17/2024 18:56]  Aesas: Aesas
+[08/17/2024 18:56]  Roland Desdain: [Henchman, Syn]
+[08/17/2024 18:56]  Roland Desdain: Roland Desdain
+[08/17/2024 18:57]  Amadis: Amadis the armorer
+[08/17/2024 18:57]  System: Verde has completed the achievement: Monstrous Slayer (Basic).
+[08/17/2024 18:57]  Avery Vein: Legendary Weaponmaster
+[08/17/2024 18:57]  Avery Vein: [High King, ICON]
+[08/17/2024 18:57]  Avery Vein: Lord Avery Vein
+[08/17/2024 18:57]  System: Mickey Rourke has completed the achievement: Treasure Hunter (Advanced).
+[08/17/2024 18:58]  Whatsthebigdeal: Whatsthebigdeal
+[08/17/2024 18:59]  Lewle: Wilderness Hero
+[08/17/2024 18:59]  Lewle: [RDY]
+[08/17/2024 18:59]  Lewle: Lewle
+[08/17/2024 18:59]  Amadis: Amadis the armorer
+[08/17/2024 18:59]  GrimShade: [Piliers des liens, LDS]
+[08/17/2024 18:59]  GrimShade: GrimShade
+[08/17/2024 18:59]  Lewle: Wilderness Hero
+[08/17/2024 18:59]  Lewle: [RDY]
+[08/17/2024 18:59]  Lewle: Lewle
+[08/17/2024 18:59]  Saxon: Saxon the lumberjack
+[08/17/2024 18:59]  Amadis: Amadis the armorer
+[08/17/2024 18:59]  Bilal: Bilal the blacksmith
+[08/17/2024 18:59]  Selina: Selina the jeweler
+[08/17/2024 18:59]  Steph La Couille: Culinary Savvy
+[08/17/2024 18:59]  Steph La Couille: Steph La Couille
+[08/17/2024 18:59]  System: Opening door...
+[08/17/2024 18:59]  a kingfisher: a kingfisher
+[08/17/2024 18:59]  Bilal: Bilal the blacksmith
+[08/17/2024 18:59]  Steph La Couille: Culinary Savvy
+[08/17/2024 18:59]  Steph La Couille: Steph La Couille
+[08/17/2024 18:59]  Asgaroth: Asgaroth (Young)
+[08/17/2024 18:59]  a sheep: a sheep
+[08/17/2024 18:59]  a sheep: a sheep
+[08/17/2024 18:59]  a sheep: a sheep
+[08/17/2024 18:59]  Jolanta: Jolanta the Paladin
+[08/17/2024 18:59]  Ayisha: Ayisha the weaponsmith
+[08/17/2024 18:59]  You see: gold coin : 119
+[08/17/2024 18:59]  Crystal: Crystal the tinker
+[08/17/2024 18:59]  Saxon: Saxon the lumberjack
+[08/17/2024 18:59]  Selina: Selina the jeweler
+[08/17/2024 18:59]  AskChopper.: Mythical Engineer
+[08/17/2024 18:59]  AskChopper.: [Soldier, SOF]
+[08/17/2024 18:59]  AskChopper.: AskChopper.
+[08/17/2024 18:59]  a kingfisher: a kingfisher
+[08/17/2024 18:59]  a warbler: a warbler
+[08/17/2024 18:59]  a crow: a crow
+[08/17/2024 18:59]  Barruch: [Citizen, Yew]
+[08/17/2024 18:59]  Barruch: Barruch
+[08/17/2024 18:59]  Wanda: Wanda the blacksmith
+[08/17/2024 18:59]  a pack horse: (tame)
+[08/17/2024 18:59]  a pack horse: [0/2000 stones]
+[08/17/2024 18:59]  a pack horse: a pack horse
+[08/17/2024 18:59]  Avery Vein: Legendary Weaponmaster
+[08/17/2024 18:59]  Avery Vein: [High King, ICON]
+[08/17/2024 18:59]  Avery Vein: Lord Avery Vein
+[08/17/2024 18:59]  Stormalong: Stormalong
+[08/17/2024 18:59]  Stones the Sum: Stones the Sum
+[08/17/2024 18:59]  Dr.Lexus: Dr.Lexus
+[08/17/2024 18:59]  Witcher: Lifetime Treasure Hunter
+[08/17/2024 18:59]  Witcher: [Virginity Intact, NERD]
+[08/17/2024 18:59]  Witcher: Witcher
+[08/17/2024 18:59]  Avatar of Time: Time Guardian
+[08/17/2024 18:59]  Avatar of Time: Avatar of Time
+[08/17/2024 18:59]  Crazy Cat Lady: Animal Bond
+[08/17/2024 18:59]  Crazy Cat Lady: [Karl, ICON]
+[08/17/2024 18:59]  Crazy Cat Lady: Crazy Cat Lady
+[08/17/2024 18:59]  CrazyKitty: (bonded)
+[08/17/2024 18:59]  CrazyKitty: CrazyKitty
+[08/17/2024 18:59]  ObscureKitty: (bonded)
+[08/17/2024 18:59]  ObscureKitty: ObscureKitty
+[08/17/2024 18:59]  StrangeKitty: (bonded)
+[08/17/2024 18:59]  StrangeKitty: StrangeKitty
+[08/17/2024 18:59]  WingedKitty: (bonded)
+[08/17/2024 18:59]  WingedKitty: WingedKitty
+[08/17/2024 18:59]  WeirdKitty: (bonded)
+[08/17/2024 18:59]  WeirdKitty: WeirdKitty
+[08/17/2024 18:59]  KJane: (bonded)
+[08/17/2024 18:59]  KJane: KJane
+[08/17/2024 18:59]  Annunakiiv: (bonded)
+[08/17/2024 18:59]  Annunakiiv: Annunakiiv
+[08/17/2024 18:59]  Bleeding Warts: Bleeding Warts
+[08/17/2024 18:59]  Wyn: Wyn
+[08/17/2024 18:59]  Arbitrage: [Super Prankster, O|P]
+[08/17/2024 18:59]  Arbitrage: Arbitrage
+[08/17/2024 18:59]  Alkur: Alkur
+[08/17/2024 18:59]  Carol: Carol the miner
+[08/17/2024 18:59]  Bearded.: Legendary Affluence
+[08/17/2024 18:59]  Bearded.: [PwN]
+[08/17/2024 18:59]  Bearded.: Lord Bearded.
+[08/17/2024 18:59]  Mercedes: Mercedes the ranger
+[08/17/2024 18:59]  Mumbojumbo: Mumbojumbo
+[08/17/2024 18:59]  Porbah: Porbah
+[08/17/2024 18:59]  Sassy Lumberjack: Sassy Lumberjack
+[08/17/2024 18:59]  Syn.Tax: Centurion [Andaria]
+[08/17/2024 18:59]  Syn.Tax: Lord Syn.Tax
+[08/17/2024 18:59]  Justice Killer: Lord Justice Killer
+[08/17/2024 18:59]  TUPOC: [ULA]
+[08/17/2024 18:59]  TUPOC: TUPOC
+[08/17/2024 18:59]  Forgotten Rain: Legendary Alchemist
+[08/17/2024 18:59]  Forgotten Rain: [Officer, AOG]
+[08/17/2024 18:59]  Forgotten Rain: Forgotten Rain
+[08/17/2024 18:59]  shoes: shoes
+[08/17/2024 18:59]  Delia Darkmire: Legendary Pickpocket
+[08/17/2024 18:59]  Delia Darkmire: Lady Delia Darkmire
+[08/17/2024 18:59]  Porbah: Porbah
+[08/17/2024 18:59]  Carol: Carol the miner
+[08/17/2024 18:59]  Dooble: [Tets Mall, CFC]
+[08/17/2024 18:59]  Dooble: Dooble
+[08/17/2024 18:59]  A Prickly Pear: [Recruit, gLc]
+[08/17/2024 18:59]  A Prickly Pear: A Prickly Pear
+[08/17/2024 18:59]  Requies: Scientist
+[08/17/2024 18:59]  Requies: [TRT]
+[08/17/2024 18:59]  Requies: Requies
+[08/17/2024 18:59]  Moosebear: Moosebear
+[08/17/2024 18:59]  Floorskin: Skinner
+[08/17/2024 18:59]  Floorskin: Floorskin
+[08/17/2024 18:59]  Favstvs: Artificer Dignitary
+[08/17/2024 18:59]  Favstvs: [Veteran, Syn]
+[08/17/2024 18:59]  Favstvs: Favstvs
+[08/17/2024 18:59]  You Never Know: You Never Know (Young)
+[08/17/2024 18:59]  COACHYARD LLC: Legendary Scribe
+[08/17/2024 18:59]  COACHYARD LLC: COACHYARD LLC
+[08/17/2024 18:59]  Mo Blunts: Mo Blunts
+[08/17/2024 18:59]  You can do it: Legendary Enhancement
+[08/17/2024 18:59]  You can do it: [ExoThrugg Victim, O|P]
+[08/17/2024 18:59]  You can do it: Lord You can do it
+[08/17/2024 18:59]  Dooble: Step right up to 40 vendor spots!
+[08/17/2024 18:59]  Favstvs: Includes Outlands Rune Emporium!
+[08/17/2024 18:59]  Brentan: Brentan the miner
+[08/17/2024 18:59]  COACHYARD LLC: Now gating to the Coachyard LLC!
+[08/17/2024 18:59]  Oh Peaches: [Housekeeping, Inn]
+[08/17/2024 18:59]  Oh Peaches: Oh Peaches
+[08/17/2024 18:59]  shister: (tame)
+[08/17/2024 18:59]  shister: shister
+[08/17/2024 18:59]  Macy: [Private, G.G]
+[08/17/2024 18:59]  Macy: Macy
+[08/17/2024 18:59]  Dirt Mc.Girt: [1CE]
+[08/17/2024 18:59]  Dirt Mc.Girt: Dirt Mc.Girt
+[08/17/2024 18:59]  Snow Gate: Legendary Tailor
+[08/17/2024 18:59]  Snow Gate: [La Recruteuse, LDS]
+[08/17/2024 18:59]  Snow Gate: Snow Gate
+[08/17/2024 18:59]  Dignson: Dignson
+[08/17/2024 18:59]  Cook: Illustrious Gladiator
+[08/17/2024 18:59]  Cook: Cook
+[08/17/2024 18:59]  Craft Her: Craft Her
+[08/17/2024 18:59]  Chillstrand: [Private, G.G]
+[08/17/2024 18:59]  Chillstrand: Chillstrand
+[08/17/2024 18:59]  MasterGaterAlt: MasterGaterAlt
+[08/17/2024 18:59]  NewType mrs: [AHO]
+[08/17/2024 18:59]  NewType mrs: NewType mrs
+[08/17/2024 18:59]  Bobby Possumcods: Affluent
+[08/17/2024 18:59]  Bobby Possumcods: [Im A, BOSS]
+[08/17/2024 18:59]  Bobby Possumcods: Lord Bobby Possumcods
+[08/17/2024 18:59]  Legasus: [Officer, ViPs]
+[08/17/2024 18:59]  Legasus: Legasus
+[08/17/2024 18:59]  Komuccap: Komuccap (Young)
+[08/17/2024 18:59]  A Prickly Pear: VENDOR RENTAL SPOTS AVAILABLE! 5 & 10K!
+[08/17/2024 18:59]  Favstvs: 106 Vendor Spots!
+[08/17/2024 18:59]  Homer Simpsons: Legendary Scribe
+[08/17/2024 18:59]  Homer Simpsons: Homer Simpsons
+[08/17/2024 18:59]  COACHYARD LLC: Now Crafting!! Weapons,Tools,SmokeBombs,DetectLens,WizardSatchels,Spellbooks,MartialManuals
+[08/17/2024 18:59]  a prevalian mage: Legendary Scribe
+[08/17/2024 18:59]  a prevalian mage: a prevalian mage
+[08/17/2024 18:59]  Uber Blue Light: [Teetotaler, NDA]
+[08/17/2024 18:59]  Uber Blue Light: Uber Blue Light
+[08/17/2024 18:59]  A Sillyy Goose: [Senior Officer, TES]
+[08/17/2024 18:59]  A Sillyy Goose: A Sillyy Goose
+[08/17/2024 18:59]  KhalsLibrary: (bonded)
+[08/17/2024 18:59]  KhalsLibrary: KhalsLibrary
+[08/17/2024 19:00]  Walter Gater: Walter Gater
+[08/17/2024 19:00]  COACHYARD LLC: Specialty Items: Rope,FishingNet/MiBs,RareCloth,AspectCores/Distill,CarpetDye,AspectKits,InvulArmor,Melloweed
+[08/17/2024 19:00]  Dignson: **1 SPOT LEFT**
+[08/17/2024 19:00]  Dooble: Thats right folks Updated Daily!
+[08/17/2024 19:00]  Favstvs: Easy run to Prevalia!
+[08/17/2024 19:00]  lilstinky: lilstinky (Young)
+[08/17/2024 19:00]  COACHYARD LLC: Bulk Commodities: Bottles,BlankScrolls,Regs,Potions,Recalls,FOOD,Arrows/Bolts,ShipBombs
+[08/17/2024 19:00]  Uber Blue Light: Vas Rel Por
+[08/17/2024 19:00]  Favstvs: Public Rune Library
+[08/17/2024 19:00]  COACHYARD LLC: And much much more! Everything you need!
+[08/17/2024 19:00]  MasterGaterAlt: New-Player Vendor Mall
+[08/17/2024 19:00]  Floorskin: Vas Rel Por
+[08/17/2024 19:00]  Snow Gate: 24/7 vendor gating for your purchases, Safe shoping
+[08/17/2024 19:00]  Dignson: FISHKILL TOWER GATED 24/7
+[08/17/2024 19:00]  Dooble: 4k/week! Best Deal in Town
+[08/17/2024 19:00]  Favstvs: Scanned by Outland Malls!
+[08/17/2024 19:00]  COACHYARD LLC: OPEN VENDERS
+[08/17/2024 19:00]  MasterGaterAlt: Armor sets always in stock
+[08/17/2024 19:00]  Homer Simpsons: Chromaticcore , Skill Scrolls , Cloths and more and more
+[08/17/2024 19:00]  Vixxal: Vixxal
+[08/17/2024 19:00]  Dirt Mc.Girt: Gating to 1CE Clans Terran vendor mall. Spots available for 10k a week.
+[08/17/2024 19:00]  A Prickly Pear: Leather Suits Stocked!
+[08/17/2024 19:00]  Dignson: *///4k-7.5k  SPOTS\\\*
+[08/17/2024 19:00]  Bobby Possumcods: VENDOR SPOTS 2K!!!
+[08/17/2024 19:00]  Bobby Possumcods: Vas Rel Por
+[08/17/2024 19:00]  Dooble: Step right up to the Salt Docks!
+[08/17/2024 19:00]  Favstvs: Largest Rune Library on Outlands!
+[08/17/2024 19:00]  A Sillyy Goose: Vas Rel Por
+[08/17/2024 19:00]  NewType mrs: AR, just west!   It's a new vendor house!!
+[08/17/2024 19:00]  Legasus: Check out the items for sale at NomNom Manor!!
+[08/17/2024 19:00]  NewType mrs: Vas Rel Por
+[08/17/2024 19:00]  Favstvs: Outlands Rune Emporium!
+[08/17/2024 19:00]  Cook: Vas Rel Por
+[08/17/2024 19:00]  Dignson: SCANNED AUTOMATICALLY TO OUTLANDMALLS
+[08/17/2024 19:00]  Dooble: Biggest Tets Vendor Mall!
+[08/17/2024 19:00]  Favstvs: 2250 Marked Locations!
+[08/17/2024 19:00]  [Razor]: Steps: 0
+[08/17/2024 19:00]  GOLDY IS (3: GOLDY IS (3
+[08/17/2024 19:00]  Don Slayote's Wares: Don Slayote's Wares
+[08/17/2024 19:00]  PREVALIA MOONGATE: PREVALIA MOONGATE
+[08/17/2024 19:00]  Amish's Shop - 8/13: Amish's Shop - 8/13
+[08/17/2024 19:00]  Bunny's Junk: Bunny's Junk
+[08/17/2024 19:00]  Mary Jane's Shop: Mary Jane's Shop
+[08/17/2024 19:00]  Prev Moongate: Prev Moongate
+[08/17/2024 19:00]  SILVER LINKS!!!!!!!!: SILVER LINKS!!!!!!!!
+[08/17/2024 19:00]  Tea's Scam Vendor: Tea's Scam Vendor
+[08/17/2024 19:00]  Smithy Plate & Weps: Smithy Plate & Weps
+[08/17/2024 19:00]  Cheapest Ocean Hip: Cheapest Ocean Hip
+[08/17/2024 19:00]  PREV MG - CORES/RARE: PREV MG - CORES/RARE
+[08/17/2024 19:00]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[08/17/2024 19:00]  PREV MG - LORE/LINKS: PREV MG - LORE/LINKS
+[08/17/2024 19:00]  This and That!: This and That!
+[08/17/2024 19:00]  CHEAP SHIMMER CLOTH!: CHEAP SHIMMER CLOTH!
+[08/17/2024 19:00]  RECSU: RECSU
+[08/17/2024 19:00]  **SHADOW FURN* 11/6: **SHADOW FURN* 11/6
+[08/17/2024 19:00]  XTREME LOOT 11/6: XTREME LOOT 11/6
+[08/17/2024 19:00]  Mesat: [The Tavern], [tT]
+[08/17/2024 19:00]  Mesat: Mesat
+[08/17/2024 19:00]  Sibongile: Sibongile the battle trainer
+[08/17/2024 19:00]  Kravec: Kravec
+[08/17/2024 19:00]  AndyFF: Wilderness Legend
+[08/17/2024 19:00]  AndyFF: Lord AndyFF
+[08/17/2024 19:00]  LilMil: LilMil
+[08/17/2024 19:00]  Latte Jumanj: Latte Jumanj
+[08/17/2024 19:00]  Let Me Touch You: Let Me Touch You
+[08/17/2024 19:00]  Krvilacny Vrah: Krvilacny Vrah
+[08/17/2024 19:00]  Rhekharr: Rhekharr
+[08/17/2024 19:00]  Inasi: Wizard
+[08/17/2024 19:00]  Inasi: [Recruit, G.G]
+[08/17/2024 19:00]  Inasi: Inasi
+[08/17/2024 19:00]  Sir Gobbo: Sir Gobbo
+[08/17/2024 19:00]  Alulu: [Henchman, Syn]
+[08/17/2024 19:00]  Alulu: Alulu
+[08/17/2024 19:00]  Ruiko: Ruiko
+[08/17/2024 19:00]  Liam Fionn: Liam Fionn
+[08/17/2024 19:00]  Lemmi Jenkins: Lemmi Jenkins
+[08/17/2024 19:00]  BrancOvO: BrancOvO
+[08/17/2024 19:00]  GuaxinimBalboa: GuaxinimBalboa
+[08/17/2024 19:00]  a pack llama: (tame)
+[08/17/2024 19:00]  a pack llama: [0/2000 stones]
+[08/17/2024 19:00]  a pack llama: a pack llama
+[08/17/2024 19:00]  Eja Ayo Ti Co: Eja Ayo Ti Co
+[08/17/2024 19:00]  Many Boon: [Recruit, B@D!]
+[08/17/2024 19:00]  Many Boon: Many Boon
+[08/17/2024 19:00]  Rahnwith: Rahnwith
+[08/17/2024 19:00]  Psychobeast: Psychobeast
+[08/17/2024 19:00]  HoodyHooo: HoodyHooo
+[08/17/2024 19:00]  VerSach: VerSach
+[08/17/2024 19:00]  MissRuby: MissRuby
+[08/17/2024 19:00]  NecroMoth: [Stowaway, P.S.]
+[08/17/2024 19:00]  NecroMoth: NecroMoth
+[08/17/2024 19:00]  Fahrettin Koca: Fahrettin Koca
+[08/17/2024 19:00]  a cave bear: (tame)
+[08/17/2024 19:00]  a cave bear: a cave bear
+[08/17/2024 19:00]  a cave bear: (tame)
+[08/17/2024 19:00]  a cave bear: a cave bear
+[08/17/2024 19:00]  a scorpion: (tame)
+[08/17/2024 19:00]  a scorpion: a scorpion
+[08/17/2024 19:00]  a cave bear: (tame)
+[08/17/2024 19:00]  a cave bear: a cave bear
+[08/17/2024 19:00]  a cave bear: (tame)
+[08/17/2024 19:00]  a cave bear: a cave bear
+[08/17/2024 19:00]  Tomlin: Tomlin
+[08/17/2024 19:00]  Hecklez: Hecklez
+[08/17/2024 19:00]  actarus: actarus
+[08/17/2024 19:00]  HIGH END WOOD&INGOTS: HIGH END WOOD&INGOTS
+[08/17/2024 19:00]  Treasure Chest: Treasure Chest
+[08/17/2024 19:00]  Prevalia MG: Prevalia MG
+[08/17/2024 19:00]  SHIP STUFF: SHIP STUFF
+[08/17/2024 19:00]  BirdUP: BirdUP
+[08/17/2024 19:00]  xXLakedaimonasXx: xXLakedaimonasXx
+[08/17/2024 19:00]  SavingForCollege: SavingForCollege
+[08/17/2024 19:00]  Aesas: [recruit, PEC]
+[08/17/2024 19:00]  Aesas: Aesas
+[08/17/2024 19:00]  Mesat: all guard
+[08/17/2024 19:00]  Mesat: Kal Ort Por
+[08/17/2024 19:01]  Spellbooks 52K: Spellbooks 52K
+[08/17/2024 19:01]  ...: ...
+[08/17/2024 19:01]  ...: ...
+[08/17/2024 19:01]  ...: ...
+[08/17/2024 19:01]  ...: ...
+[08/17/2024 19:01]  System: Mr Murder Face has completed the achievement: Wizard (Basic).
+[08/17/2024 19:01]  Mutilates Scrolls: Mutilates Scrolls
+[08/17/2024 19:01]  Mutilates Cores: Mutilates Cores
+[08/17/2024 19:01]  FishFishDog: FishFishDog
+[08/17/2024 19:01]  System: Being perfectly rested, you shove something invisible out of the way.
+[08/17/2024 19:01]  System: You have left the protection of the town guards.
+[08/17/2024 19:01]  Mutilates Cores: Mutilates Cores
+[08/17/2024 19:01]  HIGH END WOOD&INGOTS: HIGH END WOOD&INGOTS
+[08/17/2024 19:01]  Treasure Chest: Treasure Chest
+[08/17/2024 19:01]  Prevalia MG: Prevalia MG
+[08/17/2024 19:01]  SHIP STUFF: SHIP STUFF
+[08/17/2024 19:01]  Mutilates Scrolls: Mutilates Scrolls
+[08/17/2024 19:01]  XTREME LOOT 11/6: XTREME LOOT 11/6
+[08/17/2024 19:01]  Tea's Scam Vendor: Tea's Scam Vendor
+[08/17/2024 19:01]  **SHADOW FURN* 11/6: **SHADOW FURN* 11/6
+[08/17/2024 19:01]  Knowb: Knowb
+[08/17/2024 19:01]  Good Food: Good Food
+[08/17/2024 19:01]  Prev Coins! 18.8k: Prev Coins! 18.8k
+[08/17/2024 19:01]  Lockpickers Emporium: Lockpickers Emporium
+[08/17/2024 19:01]  Cepholar: Cepholar
+[08/17/2024 19:01]  Essence IN STOCK!: Essence IN STOCK!
+[08/17/2024 19:01]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[08/17/2024 19:01]  Abigail Jones: Triggered
+[08/17/2024 19:01]  Abigail Jones: [Officer, MID]
+[08/17/2024 19:01]  Abigail Jones: Abigail Jones
+[08/17/2024 19:01]  System: You are now under the protection of the town guards.
+[08/17/2024 19:01]  a Coke Dealer: Legendarily Triggered
+[08/17/2024 19:01]  a Coke Dealer: [Fixer, MMx]
+[08/17/2024 19:01]  a Coke Dealer: Lord a Coke Dealer
+[08/17/2024 19:01]  FishFishDog: guards
+[08/17/2024 19:01]  FishFishDog: guards
+[08/17/2024 19:01]  System: Sakai Izumi has completed the achievement: Scientist (Basic).
+[08/17/2024 19:01]  : battlement
+[08/17/2024 19:01]  FishFishDog: guards
+[08/17/2024 19:01]  : stone arch
+[08/17/2024 19:01]  Entec: [Simple, Smp]
+[08/17/2024 19:01]  Entec: Entec
+[08/17/2024 19:01]  Entec: all follow
+[08/17/2024 19:01]  ERIKLI: (bonded)
+[08/17/2024 19:01]  ERIKLI: ERIKLI
+[08/17/2024 19:01]  EJDERYA: (bonded)
+[08/17/2024 19:01]  EJDERYA: EJDERYA
+[08/17/2024 19:01]  a prevalian marksman: a prevalian marksman
+[08/17/2024 19:01]  a prevalian knight: a prevalian knight
+[08/17/2024 19:01]  LunnaBleed: [Stowaway, P.S.]
+[08/17/2024 19:01]  LunnaBleed: LunnaBleed
+[08/17/2024 19:01]  a desert ostard: (bonded)
+[08/17/2024 19:01]  a desert ostard: a desert ostard
+[08/17/2024 19:01]  Quackletown: Quackletown
+[08/17/2024 19:01]  System: Being perfectly rested, you shove them out of the way.
+[08/17/2024 19:01]  a forest ostard: (bonded)
+[08/17/2024 19:01]  a forest ostard: a forest ostard
+[08/17/2024 19:01]  a forest ostard: (bonded)
+[08/17/2024 19:01]  a forest ostard: a forest ostard
+[08/17/2024 19:01]  a frenzied ostard: (bonded)
+[08/17/2024 19:01]  a frenzied ostard: a frenzied ostard
+[08/17/2024 19:01]  a frenzied ostard: (bonded)
+[08/17/2024 19:01]  a frenzied ostard: a frenzied ostard
+[08/17/2024 19:01]  a frenzied ostard: (bonded)
+[08/17/2024 19:01]  a frenzied ostard: a frenzied ostard
+[08/17/2024 19:01]  a horse: (bonded)
+[08/17/2024 19:01]  a horse: a horse
+[08/17/2024 19:01]  a horse: (bonded)
+[08/17/2024 19:01]  a horse: a horse
+[08/17/2024 19:01]  a horse: (bonded)
+[08/17/2024 19:01]  a horse: a horse
+[08/17/2024 19:01]  a horse: (bonded)
+[08/17/2024 19:01]  a horse: a horse
+[08/17/2024 19:01]  Flos Mariae: [Legionary, -_-]
+[08/17/2024 19:01]  Flos Mariae: Flos Mariae
+[08/17/2024 19:01]  a llama: (bonded)
+[08/17/2024 19:01]  a llama: a llama
+[08/17/2024 19:01]  a llama: (bonded)
+[08/17/2024 19:01]  a llama: a llama
+[08/17/2024 19:01]  a pack llama: (tame)
+[08/17/2024 19:01]  a pack llama: [0/2000 stones]
+[08/17/2024 19:01]  a pack llama: a pack llama
+[08/17/2024 19:01]  Aw Snaps: Aw Snaps
+[08/17/2024 19:01]  EzTame: [Soldier, DKR]
+[08/17/2024 19:01]  EzTame: EzTame
+[08/17/2024 19:01]  an air elemental: (summoned)
+[08/17/2024 19:01]  an air elemental: an air elemental
+[08/17/2024 19:01]  EastBlockGhandi: EastBlockGhandi
+[08/17/2024 19:01]  Jakesh: Jakesh the Prevalian merchant
+[08/17/2024 19:01]  Holy Knight: Holy Knight
+[08/17/2024 19:01]  Poponfu: [--, LX]
+[08/17/2024 19:01]  Poponfu: Poponfu
+[08/17/2024 19:01]  Orodreth: Nusero Legend
+[08/17/2024 19:01]  Orodreth: [Council, Syn]
+[08/17/2024 19:01]  Orodreth: Lord Orodreth
+[08/17/2024 19:01]  Pombagira: Pombagira
+[08/17/2024 19:01]  ankadium: ankadium
+[08/17/2024 19:01]  Aurelia: Aurelia the Town Crier
+[08/17/2024 19:01]  Jacking Jack: Jacking Jack
+[08/17/2024 19:01]  Smagg: [Warg, Warg]
+[08/17/2024 19:01]  Smagg: Smagg
+[08/17/2024 19:01]  Joki: Joki
+[08/17/2024 19:01]  Ingmar: Ingmar the banker
+[08/17/2024 19:01]  Afrodite Warlord: Monster Hunter Associate
+[08/17/2024 19:01]  Afrodite Warlord: [Legionary, -_-]
+[08/17/2024 19:01]  Afrodite Warlord: Afrodite Warlord
+[08/17/2024 19:01]  vD: [Now Recruiting, vD]
+[08/17/2024 19:01]  vD: vD
+[08/17/2024 19:01]  Vampire Hunter D: Legendary Captain
+[08/17/2024 19:01]  Vampire Hunter D: [Yew]
+[08/17/2024 19:01]  Vampire Hunter D: Vampire Hunter D
+[08/17/2024 19:01]  Calendonia: Calendonia the banker
+[08/17/2024 19:01]  Kallari: Kallari
+[08/17/2024 19:01]  DudeMcguy: [Recruit, E<>E]
+[08/17/2024 19:01]  DudeMcguy: DudeMcguy
+[08/17/2024 19:01]  Dunhill Blues: Dunhill Blues
+[08/17/2024 19:01]  Titania: Titania the Diaphanous Wings Raffle Official
+[08/17/2024 19:01]  Sir Pickles: [JerkMaGherk, O_R]
+[08/17/2024 19:01]  Sir Pickles: Lord Sir Pickles
+[08/17/2024 19:01]  Grimpeh Grimpson: Grimpeh Grimpson
+[08/17/2024 19:01]  Asdenn: Asdenn
+[08/17/2024 19:01]  Qwanny: [Recruit, WaM!]
+[08/17/2024 19:01]  Qwanny: Qwanny
+[08/17/2024 19:01]  Oh Noes: Oh Noes
+[08/17/2024 19:01]  Kujjin: [Quartermaster, P.S.]
+[08/17/2024 19:01]  Kujjin: Kujjin
+[08/17/2024 19:01]  BambuLabb: [Recruit, ok?]
+[08/17/2024 19:01]  BambuLabb: BambuLabb
+[08/17/2024 19:01]  Jada Smith: Jada Smith
+[08/17/2024 19:01]  CoreZero: CoreZero
+[08/17/2024 19:01]  Runescape Bob: Runescape Bob
+[08/17/2024 19:01]  Knowb: Knowb
+[08/17/2024 19:01]  EastBlockGhandi: Kal Vas Xen Hur
+[08/17/2024 19:01]  vD: So join vD today to Profit Tomorrow!
+[08/17/2024 19:01]  EastBlockGhandi: all release
+[08/17/2024 19:01]  EastBlockGhandi: Kal Vas Xen Hur
+[08/17/2024 19:01]  Poponfu: [--, LX]
+[08/17/2024 19:01]  Poponfu: Poponfu
+[08/17/2024 19:01]  Glenn: Glenn the banker
+[08/17/2024 19:01]  Slient Gomez: Slient Gomez
+[08/17/2024 19:01]  Standford: Standford the provisioner
+[08/17/2024 19:01]  Givon: Givon the tailor
+[08/17/2024 19:01]  Kurt: Kurt the real estate broker
+[08/17/2024 19:01]  Aponi: Aponi the cobbler
+[08/17/2024 19:01]  Dirty Zeke: [Thrall, ICON]
+[08/17/2024 19:01]  Dirty Zeke: Dirty Zeke
+[08/17/2024 19:01]  speedoverdoze: speedoverdoze
+[08/17/2024 19:01]  SupaFool: SupaFool
+[08/17/2024 19:01]  Nyssa: Nyssa the tanner
+[08/17/2024 19:01]  Duagloth: Duagloth
+[08/17/2024 19:01]  Nevada: Nevada the architect
+[08/17/2024 19:01]  Margaret: Margaret the baker
+[08/17/2024 19:01]  QuestsFoFree: Scientist
+[08/17/2024 19:01]  QuestsFoFree: [Hostile Lumberjack, HOST]
+[08/17/2024 19:01]  QuestsFoFree: QuestsFoFree
+[08/17/2024 19:01]  Natasha: Natasha the tinker
+[08/17/2024 19:01]  Astrid: Astrid the tailor
+[08/17/2024 19:01]  Martha: Martha the cook
+[08/17/2024 19:01]  Errol: Errol the provisioner
+[08/17/2024 19:01]  vD: Vigilante's Departed Is Now Recruiting! Contact flawed87 on Discord! (Eastern Timezone)
+[08/17/2024 19:02]  a cave bear: *released*
+[08/17/2024 19:02]  a cave bear: a cave bear
+[08/17/2024 19:02]  Thaddeus: Thaddeus the Necromancer
+[08/17/2024 19:02]  Tawnie: Tawnie the bowyer
+[08/17/2024 19:02]  Delmore: Delmore the ranger
+[08/17/2024 19:02]  Louis: Louis the carpenter
+[08/17/2024 19:02]  ankadium: ankadium
+[08/17/2024 19:02]  Pombagira: Pombagira
+[08/17/2024 19:02]  System: Opening door...
+[08/17/2024 19:02]  Delmore: Delmore the ranger
+[08/17/2024 19:02]  Delmore: Delmore the ranger
+[08/17/2024 19:02]  Poponfu: [--, LX]
+[08/17/2024 19:02]  Poponfu: Poponfu
+[08/17/2024 19:02]  Delmore: Greetings.  Have a look around.
+[08/17/2024 19:02]  Oh Noes: Oh Noes
+[08/17/2024 19:02]  Poponfu: [--, LX]
+[08/17/2024 19:02]  Poponfu: Poponfu
+[08/17/2024 19:02]  Delmore: The total of thy purchase is 116 gold.  My thanks for the patronage.
+[08/17/2024 19:02]  : potted tree
+[08/17/2024 19:02]  System: Hiding skillgain: 15.060%
+[08/17/2024 19:02]  Eldevil: You have hidden yourself well.
+[08/17/2024 19:02]  RiPK: Triggered
+[08/17/2024 19:02]  RiPK: [Fresh Blood, RED]
+[08/17/2024 19:02]  RiPK: Lord RiPK
+[08/17/2024 19:02]  System: You feel comfortable enough to begin stealthing.
+[08/17/2024 19:02]  MrFinch: [Aesir, ICON]
+[08/17/2024 19:02]  MrFinch: MrFinch
+[08/17/2024 19:02]  System: The world will save in 15 seconds.
+[08/17/2024 19:02]  LunnaBleed: [Stowaway, P.S.]
+[08/17/2024 19:02]  LunnaBleed: LunnaBleed
+[08/17/2024 19:02]  Oh Noes: Oh Noes
+[08/17/2024 19:03]  System: Gatha Vas Flam has completed the achievement: Guardian of The Mausoleum (Basic).
+[08/17/2024 19:03]  System: The world is saving, please wait.
+[08/17/2024 19:03]  System: World save complete. The entire process took 3.3 seconds.
+[08/17/2024 19:03]  System: Unity (UT) guild has reached prestige level 3.
+[08/17/2024 19:03]  System: Sammy Jones has completed the achievement: Order of Armorers Initiate.
+[08/17/2024 19:03]  Fahrettin: Legendary Boss Slayer
+[08/17/2024 19:03]  Fahrettin: [GALATASARAY, -_-]
+[08/17/2024 19:03]  Fahrettin: Lord Fahrettin
+[08/17/2024 19:03]  Oh Noes: Oh Noes
+[08/17/2024 19:04]  Guilefoyle: [Marine Knight, Sir.]
+[08/17/2024 19:04]  Guilefoyle: Guilefoyle
+[08/17/2024 19:04]  Ice Zombie: Artificer Initiate
+[08/17/2024 19:04]  Ice Zombie: Ice Zombie
+[08/17/2024 19:04]  Poponfu: [--, LX]
+[08/17/2024 19:04]  Poponfu: Poponfu
+[08/17/2024 19:04]  Oh Noes: Oh Noes
+[08/17/2024 19:05]  Melochabrage: [Citizen, Yew]
+[08/17/2024 19:05]  Melochabrage: Melochabrage
+[08/17/2024 19:05]  Melochabrage: [Citizen, Yew]
+[08/17/2024 19:05]  Melochabrage: Melochabrage

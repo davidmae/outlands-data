@@ -1,0 +1,27 @@
+//define var ready
+@setvar! ready 0
+
+while findtype 3553 backpack as kindling and ready = 0
+    dclick kindling
+    wait 500
+    //check if message is 'You fail to ignite the campfire.'
+    if insysmsg "You fail to ignite the campfire."
+        wait 3500
+    else
+        //wait until message 'Your campfire if now secure.'
+        while ready = 0 
+            wait 200
+            if insysmsg "Your campfire is now secure."
+                @setvar! ready 1
+                wait 500
+            endif
+        endwhile
+        wait 200
+        dclicktype atlas
+        waitforgump 341416395
+        gumpresponse 101
+        waitforgump 341416395
+    endif
+endwhile
+
+

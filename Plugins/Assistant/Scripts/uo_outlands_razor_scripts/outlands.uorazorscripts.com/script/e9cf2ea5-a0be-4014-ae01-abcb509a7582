@@ -1,0 +1,608 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/e9cf2ea5-a0be-4014-ae01-abcb509a7582 for latest
+# Automation by Jaseowns
+## Script: Animal Taming Script by DaKlue V3.0.5 (WIP)
+## Created by: daklue#0
+#############################################
+
+///////////////////////////////////////////////////////////
+# Animal Taming Script by DaKlue
+# Version: V3.0.5
+# Added all tamable animals to skill check. If you find an animal is not taming correctly pls DM me on discord daklue in the Jaseowns channel. Some animals names start with A and some start with An so some might not be corrcet in the script.
+# Modified: Shelter Dungeon Animal Taming by Jaseowns
+# UO Outlands
+# How to use: YOU NEED A TANK PET! Recomended a Scarab bonded
+#   as soon as possible.  
+# No longer requires warmode. Will Kill non tameable monster. Will Kill Release animals. 
+# Any questions PM DaKlue on Discord
+# Grammer Mistakes Found by Maybacco - Thanks
+# fixed an overlooked if statement. 3.23.24
+################################
+###### Variables and Timers
+################
+///////////////////////////////////////////////////////////
+@setvar! doYouWantATankPetToTryAndStayAlive 1
+// Set Time For Taming
+@setvar! tamingTimerCd 13000
+// Healing Pet Timer
+@setvar! vetTimerCd 6000
+// Trigger to Drink Heal and Cure Pots
+@setvar! hpCheckToTrigger 25
+// Speech Timer
+@setvar! speechTimerCD 8000
+// Herding Timer
+@setvar! herdTimerCD 4000
+///////////////////////////////////////////////////////////
+################################
+###### Heal Controllers
+################
+@setvar! AutoHeal 1
+@setvar! hpCheckToTriggerGreaterHealSpell 30
+@setvar! hpCheckToTriggerMiniEmergencyHealSpell 60
+@setvar! hpCheckToTriggerHealPotion 45
+
+// Tankpet setup
+if followers = 0
+    overhead 'We need to tame a tank pet.'
+    wait 2000
+    overhead 'Rerun script when you have a tank pet.'
+    break
+elseif followers > 0
+    if not varexist tankpet 
+        overhead 'Please select your tanking pet' 88
+        @setvar! tankpet
+        wft 500
+    endif
+    if not find tankpet ground -1 -1 20
+        overhead 'Cant find tankpet reseting variable'
+        unsetvar tankpet
+    endif
+endif
+    
+
+if not timerexists tamingTimer
+    createtimer tamingTimer
+    settimer tamingTimer tamingTimerCd
+endif
+
+if not timerexists sayTimer
+    createtimer sayTimer
+    settimer sayTimer speechTimerCD
+endif
+
+if not timerexists herdTimer
+    createlist herdTimer
+    settimer herdTimer herdTimerCD
+endif
+
+// Vet Bandage timer 
+if not timerexists vetTimer
+    createtimer vetTimer
+    settimer vetTimer vetTimerCd
+endif
+
+@setvar! overheadHelperTimerCd 2000
+if not timerexists overheadHelperTimer
+    createtimer overheadHelperTimer
+    settimer overheadHelperTimer overheadHelperTimerCd  
+endif
+
+@setvar! skillTimerCd 13000
+if not timerexists skillTimer
+    createtimer skillTimer
+    settimer skillTimer skillTimerCd
+endif
+
+@setvar! AllKillCd 5000
+if not timerexists AllKillTimer
+    createtimer AllKillTimer
+    settimer AllKillTimer AllKillCd
+endif
+
+if followers = 0
+    @setvar! myFollowers 0  
+    settimer sayTimer 0
+elseif followers = 1
+    @setvar! myFollowers 1
+elseif followers = 2
+    @setvar! myFollowers 2
+elseif followers = 3
+    @setvar! myFollowers 3
+elseif followers = 4
+    @setvar! myFollowers 4
+elseif followers = 5
+    @setvar! myFollowers 5
+    overhead "Too many followers - release some!" 88
+    //wait 2000
+    //replay
+endif
+
+@clearignore 
+
+@setvar! tameThisThing 0
+
+
+if insysmsg 'world is saving'
+    for 60
+        overhead 'Waiting for world save...'
+        wait 100
+        if insysmsg 'save complete'
+            overhead 'Save complete - continue on!' 88
+            break
+        endif
+    endfor
+endif
+
+// Trapped
+if paralyzed 
+    if findtype "pouch" backpack 38 
+        yell "[pouch"
+        wait minimumWaitForPing
+    else
+        overhead "Out of Pouches!" 34
+    endif
+endif
+
+if findbuff "weaken" and weight > maxweight 
+    if findtype "gold coin" backpack as item
+        lift item 2000
+        droprelloc 0 0
+        wait minimumWaitForPing
+        if insysmsg "cannot drop anything"
+            drop backpack -1 -1 -1
+        endif
+        wait minimumWaitForPingUnequipping
+    else
+        overhead "We are overweight and cannot drop anything" 34
+    endif
+endif
+
+if hp < maxhp
+// we need to heal
+    if findtype "veterinary supplies" backpack as item
+        dclick item
+        wait 650
+    elseif not bandaging and findtype 'clean bandage%s%'
+        hotkey 'bandage self'
+    endif
+endif
+    
+if skill "Animal Taming" < 60
+    while findtype "a Goat|a barbed Prowler|a Chicken|a Bird|a Cat|a Dog|a Cow|a Hind|a Mongbat|a Giant Rat|a Bull|a Great Hart|a Eagle|a Walrus|a Elk|a Bison|a Giant Bat|a Guar|a Giant Frog|a Cougar|a Wolf|a Llama|a Horse|a Black Bear|a Brown Bear|a Colossal Frog|a Firebat|a Muck|a Primordial Whelp|a Monitor Hatchling|a Shallow Water|a Familiar|a Rock Guar|a Sand Crab|a Grizzly Bear|a Polar Bear|a Flamehound|a Swamp Spider|a Scorpion|a Corpse Eater|a Aegis Rat|a mongbat|a giant rat|a guar|a wolf|a familiar|a giant frog|a primordial whelp|a colossal frog|a giant bat|a monitor hatchling" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 70
+    while findtype "a Giant Spider|a Fire Salamander|a Silverback|a Primordial|a Monitor|a Fire Ant|a Imp|a Cave Bear|a Desert Ostard|a Searing Lizard|a Embear|a Jaguar|a Giant Swamp Slug|a Giant Scorpion|a Carrion Beetle|a Aegis Mongbat|a Winter Wolf|a primordial|a cave bear|a corpse eater|a familiar|a guar|a wolf|a giant frog|a primordial whelp|a colossal frog|a giant bat|a monitor hatchling" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 80
+    while findtype "a Searing Mantis|a Asp|a Scarab|a Cave Bat|a Minion|a Forest Ostard|a Fire Beetle|a Colossal Swamp Slug|a Drake Whelp|a Chameleon|a Aegis Slime|a Trapdoor Spider|a corpse eater|a primordial|a cave bear|a drake whelp|a chameleon" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 85
+    while findtype "a colossal frog|a Searing Imp|a Bullvore|a Ant Lion|a Adder|a Deep Crawler|a Wolfhound|a Devilbat|a deep crawler" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 90
+    while findtype "a Tundra Ostard|a Anaconda|a Drake|a Dragon Whelp|a Blood Ape|a Sabeartooth|a drake|a dragon whelp|a sabeartooth" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 95
+    while findtype "a Fire Minion|a Hellhound|a Giant Poison Dart Frog|a Flame Purger|a Sand Crawler|a Husk Crab|a Vampire Bat|a Skulker|a Stinger|a husk crab" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 100
+    while findtype "a Frenzied Ostard|a Molten Mongbat|a Dragon|a Wyvern Hatchling|a Giant Trapdoor Spider|a dragon|a molten mongbat|a Wolfhound|a Blood Ape" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 105
+    while findtype "a Wisp|a Fire Crawler|a Colossal Poison Dart Frog|a Black Widow|a Army Ant|a Komodo|a Skeletal Dragon|a Nightmare|a Tidal Mantis|a Water Drake|a Reef Serpent|a Shade Wolf|a Devourer Beetle|a Aegis Imp|a Bloodwolf|a Aegis Scorpion|a Dusk Drake|a Arctic Bullvore|a Air Drake|a Rime Guar|a Snowdrift|a skeletal dragon|a dragon|a snowdrift|a wisp|a Wolfhound|a Blood Ape|a nightmare|a manticore" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 110
+    while findtype "a Arboreal Wisp|a Swamp Drake|a Wyvern|a Eldritch Drake|a Ember Drake|a Giant Sandroach|a Manticore|a Aegis Whelp|a Aegis Asp|a Ankheg|a Earth Drake|a Acarid|an eldritch drake|an ember drake|a nightmare|a earth drake|a acarid|a primordial" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 115
+    while findtype "a colossal frog|a giant frog|a Bonfire Wisp|a Giant Black Widow|a Smoke Drake|a Ruby Wyrmling|a Azure Wyrmling|a Sun Wyrmling|a Sphinx|a Cryptwing|a Colossal Searing Scorpion|a Water Dragon|a Corpse Purger|a Nightstalker|a Void Slime|a Aegis Minion|a Aegis Leech|a Blood Scorpion|a Blood Drake|a Blood Courser|a Dusk Dragon|a Air Dragon|a White Wyrmling|a Cave Gorger|a sphix|a aegis minion" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" < 120
+    while findtype "a Swamp Dragon|a Eldritch Dragon|a Ember Dragon|a Temple Guardian|a Colossal Sandroach|a Radiant Burrowbug|a Sand Muck|a Drowned Dragon|a Incubus|a Blood Serpent|a Blood Hunter|a Volt Wisp|a Earth Dragon|a Colossal Frost Scorpion|a Blood Mephit|a Earth Mephit|a Eldritch Mephit|a Fire Mephit|a Frost Mephit|a Poison Mephit|a Gravebug|a Searing Bullvore|a Colossal Black Widow|a Otyugh|a Smoke Dragon|a Harvestman|a Smoke Faerie Dragon|a Ruby Wyrm|a Azure Wyrm|a Sun Wyrm|a Black Cat|a Phoenix|a Colossal Blazing Beetle|a Fiery Leaper|a Fortress Beetle|a Blightmare|a Shadow Minion|a Entozoon|a Darkscale|a Bloodworm|a Blood Dragon|a Colossal Trapdoor Spider|a Lemura|a Barbed Prowler|a White Wyrm|a Frigid Hornbeast|a Corrupted Hornbeast|a earth dragon|a eldritch dragon|a colossal sandroach" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+elseif skill "Animal Taming" >= 120
+    while findtype "a Goat|a barbed Prowler|a Chicken|a Bird|a Cat|a Dog|a Cow|a Hind|a Mongbat|a Giant Rat|a Bull|a Great Hart|a Eagle|a Walrus|a Elk|a Bison|a Giant Bat|a Guar|a Giant Frog|a Cougar|a Wolf|a Llama|a Horse|a Black Bear|a Brown Bear|a Colossal Frog|a Firebat|a Muck|a Primordial Whelp|a Monitor Hatchling|a Shallow Water|a Familiar|a Rock Guar|a Sand Crab|a Grizzly Bear|a Polar Bear|a Flamehound|a Swamp Spider|a Scorpion|a Corpse Eater|a Aegis Rat|a mongbat|a giant rat|a guar|a wolf|a familiar|a giant frog|a primordial whelp|a colossal frog|a giant bat|a monitor hatchling|a Giant Spider|a Fire Salamander|a Silverback|a Primordial|a Monitor|a Fire Ant|a Imp|a Cave Bear|a Desert Ostard|a Searing Lizard|a Embear|a Jaguar|a Giant Swamp Slug|a Giant Scorpion|a Carrion Beetle|a Aegis Mongbat|a Winter Wolf|a primordial|a cave bear|a corpse eater|a familiar|a guar|a wolf|a giant frog|a primordial whelp|a colossal frog|a giant bat|a monitor hatchling|a Searing Mantis|a Asp|a Scarab|a Cave Bat|a Minion|a Forest Ostard|a Fire Beetle|a Colossal Swamp Slug|a Drake Whelp|a Chameleon|a Aegis Slime|a Trapdoor Spider|a corpse eater|a primordial|a cave bear|a drake whelp|a chameleon|a Searing Imp|a Bullvore|a Ant Lion|a Adder|a Deep Crawler|a Wolfhound|a Devilbat|a deep crawler|a Tundra Ostard|a Anaconda|a Drake|a Dragon Whelp|a Blood Ape|a Sabeartooth|a drake|a dragon whelp|a sabeartooth|a Fire Minion|a Hellhound|a Giant Poison Dart Frog|a Flame Purger|a Sand Crawler|a Husk Crab|a Vampire Bat|a Skulker|a Stinger|a husk crab|a Frenzied Ostard|a Molten Mongbat|a Dragon|a Wyvern Hatchling|a Giant Trapdoor Spider|a dragon|a molten mongbat|a Wolfhound|a Blood Ape|a Wisp|a Fire Crawler|a Colossal Poison Dart Frog|a Black Widow|a Army Ant|a Komodo|a Skeletal Dragon|a Nightmare|a Tidal Mantis|a Water Drake|a Reef Serpent|a Shade Wolf|a Devourer Beetle|a Aegis Imp|a Bloodwolf|a Aegis Scorpion|a Dusk Drake|a Arctic Bullvore|a Air Drake|a Rime Guar|a Snowdrift|a skeletal dragon|a dragon|a snowdrift|a wisp|a Wolfhound|a Blood Ape|a nightmare|a manticore|a Arboreal Wisp|a Swamp Drake|a Wyvern|a Eldritch Drake|a Ember Drake|a Giant Sandroach|a Manticore|a Aegis Whelp|a Aegis Asp|a Ankheg|a Earth Drake|a Acarid|an eldritch drake|an ember drake|a nightmare|a earth drake|a acarid|a primordial|a Bonfire Wisp|a Giant Black Widow|a Smoke Drake|a Ruby Wyrmling|a Azure Wyrmling|a Sun Wyrmling|a Sphinx|a Cryptwing|a Colossal Searing Scorpion|a Water Dragon|a Corpse Purger|a Nightstalker|a Void Slime|a Aegis Minion|a Aegis Leech|a Blood Scorpion|a Blood Drake|a Blood Courser|a Dusk Dragon|a Air Dragon|a White Wyrmling|a Cave Gorger|a sphix|a aegis minion|a Swamp Dragon|a Eldritch Dragon|a Ember Dragon|a Temple Guardian|a Colossal Sandroach|a Radiant Burrowbug|a Sand Muck|a Drowned Dragon|a Incubus|a Blood Serpent|a Blood Hunter|a Volt Wisp|a Earth Dragon|a Colossal Frost Scorpion|a Blood Mephit|a Earth Mephit|a Eldritch Mephit|a Fire Mephit|a Frost Mephit|a Poison Mephit|a Gravebug|a Searing Bullvore|a Colossal Black Widow|a Otyugh|a Smoke Dragon|a Harvestman|a Smoke Faerie Dragon|a Ruby Wyrm|a Azure Wyrm|a Sun Wyrm|a Black Cat|a Phoenix|a Colossal Blazing Beetle|a Fiery Leaper|a Fortress Beetle|a Blightmare|a Shadow Minion|a Entozoon|a Darkscale|a Bloodworm|a Blood Dragon|a Colossal Trapdoor Spider|a Lemura|a Barbed Prowler|a White Wyrm|a Frigid Hornbeast|a Corrupted Hornbeast|a earth dragon|a eldritch dragon|a colossal sandroach" ground -1 -1 3 as janimal
+        getlabel janimal desc
+        if "released" in desc
+            // ignore them
+            @ignore janimal
+        elseif "tame" in desc or "bonded" in desc
+            // ignore them
+            @ignore janimal
+        else
+            @setvar! tameThisThing janimal
+            break
+        endif
+    endwhile
+endif
+
+if tameThisThing != 0
+    
+    if timer overheadHelperTimer >= overheadHelperTimerCd
+        overhead "!! attempting to tame !!" 88 tameThisThing 
+        settimer overheadHelperTimer 0
+    endif
+    
+    if skill 'magery' > 50 and findtype "Garlic" 
+        if diffhits >= hpCheckToTriggerGreaterHealSpell and AutoHeal = 1
+            if targetexists 
+                hotkey 'Cancel Current Target'
+            endif
+            while not targetexists 'beneficial'
+                if diffhits >= hpCheckToTriggerMiniEmergencyHealSpell
+                    cast 'Heal'
+                else
+                    cast 'Greater Heal'                
+                endif
+                wait 50
+                if hp = maxhp
+                    hotkey '> Interrupt'
+                    break
+                endif
+            endwhile
+            if targetexists 'beneficial'
+                hotkey 'Target Self'
+            endif
+        endif
+    elseif skill 'veterinary' > 50 and not bandaging and diffhits >= hpCheckToTriggerMiniEmergencyHealSpell and AutoHeal = 1 
+        if findtype "veterinary supplies" backpack as item
+            dclick item
+            wait 650
+        elseif not findtype "veterinary supplies" and findtype "clean bandage%s%" backpack and not bandaging
+            say '[bandageself'
+        endif 
+    endif
+    // Bandage tankpet every 8 seconds
+    if timer vetTimer > vetTimerCd
+        if not bandaging and findtype "clean bandage%s%|veterinary supplies" backpack as item
+            dclick item
+            wft 500
+            target tankpet
+            wait 200
+            hotkey 'Cancel current target'
+        endif
+
+        if insysmsg 'not damaged'
+            settimer 'vetTimer' 4000
+        else
+            settimer 'vetTimer' 0
+        endif
+    endif   
+    clearsysmsg 
+
+    settimer tamingTimer 0
+    @setvar! sayTimerCd 2000
+    
+    if not timerexists sayTimer
+        createtimer sayTimer
+        settimer sayTimer sayTimerCd
+    endif
+    @setvar! isTamed 0
+    @setvar! isTaming 0
+    if isTaming = 0
+        
+        if followers > 0 and timer sayTimer < sayTimerCd
+            wait 200
+            warmode 'on'
+            say "all kill"
+            wft 500
+            if targetexists 
+                target tameThisThing
+            endif
+            settimer sayTimer 0
+        endif
+        @setvar! isTaming 1
+    endif
+ 
+    if isTaming = 1
+        
+    
+        if not find tankpet ground -1 -1 2 and timer sayTimer > sayTimerCd
+            overhead "Waiting for tankpet to be closer Bro!" 88
+            settimer sayTimer 0
+        else
+        
+            say "all stop"
+            wait 2000
+            say "all follow me"
+            wait 2000
+            if find tankpet ground -1 -1 2
+                warmode off  
+            endif
+        endif
+
+        if dead 
+            replay
+        endif
+            
+        if skill 'magery' > 50 and findtype "Garlic"
+            if diffhits >= hpCheckToTriggerGreaterHealSpell and AutoHeal = 1
+                if targetexists 
+                    hotkey 'Cancel Current Target'
+                endif
+                while not targetexists 'beneficial'
+                    if diffhits >= hpCheckToTriggerMiniEmergencyHealSpell
+                        cast 'Heal'
+                    else
+                        cast 'Greater Heal'                
+                    endif
+                    wait 50
+                    if hp = maxhp
+                        hotkey '> Interrupt'
+                        break
+                    endif
+                endwhile
+                if targetexists 'beneficial'
+                    hotkey 'Target Self'
+                endif
+            endif
+        elseif skill 'veterinary' > 50 and not bandaging and diffhits >= hpCheckToTriggerMiniEmergencyHealSpell and AutoHeal = 1 
+            if findtype "veterinary supplies" backpack as item
+                dclick item
+                wait 650
+            elseif not findtype "veterinary supplies" and findtype "clean bandage%s%" backpack and not bandaging
+                say '[bandageself'
+            endif 
+        endif
+            
+        if doYouWantATankPetToTryAndStayAlive = 1 and skill "veterinary" > 0
+            if find tankpet ground -1 -1 2 and timer vetTimer > vetTimerCd
+                if not bandaging and findtype "clean bandage%s%" backpack as item
+                    dclick item
+                    wft 200
+                    target tankpet
+                    settimer healPetCheckTimer 0
+                    if targetexists 
+                        hotkey "Cancel current target"
+                    endif
+                endif        
+            endif
+        endif
+        @setvar! isTaming 2
+    endif
+    
+    if isTaming = 2 
+        
+        if timer skillTimer >= skillTimerCd
+            while not targetexists and not dead
+                useskill "taming"
+                wft 500
+            endwhile
+            if targetexists 
+                target tameThisThing
+                settimer skillTimer 0
+            endif
+        endif
+        clearsysmsg 
+        
+        getlabel tameThisThing isItTamedYetDesc
+        if "tame" in isItTamedYetDesc
+            @setvar! isTamed 1    
+            @setvar! isTaming 0
+            break
+        endif
+        if followers > 2 and isTamed = 1 
+            while not gumpexists 2426193729
+                menu tameThisThing 9
+                wait 50
+            endwhile
+            while gumpexists 2426193729
+                gumpresponse 1 2426193729
+                wait 50
+            endwhile
+        endif
+        
+        wait 200
+    endif 
+
+    if insysmsg 'You have already received the maximum taming skill gain possible from this individual creature.'
+        @setvar! tameThisThing myKillTarget
+        say 'All Kill"
+        wft 500
+
+        while targetexists 
+            target myKillTarget 
+        endwhile
+        while find myKillTarget -1 -1 4
+        endwhile
+    endif
+
+else 
+    if skill 'magery' > 50 and findtype "Garlic" 
+    
+        if diffhits >= hpCheckToTriggerGreaterHealSpell and AutoHeal = 1
+            if targetexists 
+                hotkey 'Cancel Current Target'
+            endif
+            while not targetexists 'beneficial'
+                if diffhits >= hpCheckToTriggerMiniEmergencyHealSpell
+                    cast 'Heal'
+                else
+                    cast 'Greater Heal'                
+                endif
+                wait 50
+                if hp = maxhp
+                    hotkey '> Interrupt'
+                    break
+                endif
+            endwhile
+            if targetexists 'beneficial'
+                hotkey 'Target Self'
+            endif
+        elseif skill 'veterinary' > 50 and not bandaging and diffhits >= hpCheckToTriggerMiniEmergencyHealSpell and AutoHeal = 1 
+            if findtype "veterinary supplies" backpack as item
+                dclick item
+                wait 650
+            elseif not findtype "veterinary supplies" and findtype "clean bandage%s%" backpack and not bandaging
+                say '[bandageself'
+            endif 
+        endif
+    endif
+
+    @hotkey 'Target Closest Non-Friendly Monster'
+    @setvar myKillTarget lasttarget 
+    wait 200
+    say 'All Kill"
+    wft 500
+
+    while targetexists 
+        target myKillTarget 
+    endwhile
+
+    settimer AllKillTimer 0
+    while timer AllKillTimer < AllKillCd
+        // Do nothing
+    endwhile
+
+    if find tankpet ground -1 -1 12
+        overhead "Ï Guarding Ï" 88 tankpet
+        if skill "Herding" > 0
+            menu tankpet 3
+        endif
+    endif
+
+    if targetexists 
+        hotkey 'Cancel Current Target'
+    endif
+      
+    if doYouWantATankPetToTryAndStayAlive = 1 and skill "veterinary" > 0
+        if find tankpet ground -1 -1 2 and timer vetTimer > vetTimerCd
+            if not bandaging and findtype "clean bandage%s%" backpack as item
+                dclick item
+                wft 200
+                target tankpet
+                settimer healPetCheckTimer 0
+                
+                if targetexists 
+                    hotkey "Cancel current target"
+                endif
+            endif        
+        endif
+    endif
+    
+endif
+    
+
+
+wait 100
+replay

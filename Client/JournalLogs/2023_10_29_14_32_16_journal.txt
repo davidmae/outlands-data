@@ -1,0 +1,734 @@
+[10/29/2023 14:32]  System: WorldMap loading...
+[10/29/2023 14:32]  System: Loading WorldMap markers..
+[10/29/2023 14:32]  System: ..Banks_and_Healers.xml (20)
+[10/29/2023 14:32]  System: ..Dungeons.xml (12)
+[10/29/2023 14:32]  System: ..Dungeon_Gates.xml (349)
+[10/29/2023 14:32]  System: ..Healer_Caravans.xml (32)
+[10/29/2023 14:32]  System: ..Kings_Faire.xml (43)
+[10/29/2023 14:32]  System: ..Moongates.xml (9)
+[10/29/2023 14:32]  System: ..POI.xml (176)
+[10/29/2023 14:32]  System: ..PvP_Locations.xml (71)
+[10/29/2023 14:32]  System: ..Shrines.xml (9)
+[10/29/2023 14:32]  System: ..Subterranean.xml (6)
+[10/29/2023 14:32]  System: ..Townships.xml (9)
+[10/29/2023 14:32]  System: ..UOAM_Atlas.xml (1887)
+[10/29/2023 14:32]  System: ..UOAM_T-Map.xml (255)
+[10/29/2023 14:32]  System: ..UOAM_Treasure.xml (523)
+[10/29/2023 14:32]  System: WorldMap markers loaded (3401)
+[10/29/2023 14:32]  System: Welcome Geodoro!
+[10/29/2023 14:32]  COACHYARD LLC: Legendary Scribe
+[10/29/2023 14:32]  COACHYARD LLC: COACHYARD LLC
+[10/29/2023 14:32]  Xedd: Triggered
+[10/29/2023 14:32]  Xedd: [Recruit, HIGS]
+[10/29/2023 14:32]  Xedd: Xedd
+[10/29/2023 14:32]  Duracelle: [Recruit, G.G]
+[10/29/2023 14:32]  Duracelle: Duracelle
+[10/29/2023 14:32]  Temple Guardian: [Worker, HIGS]
+[10/29/2023 14:32]  Temple Guardian: Temple Guardian
+[10/29/2023 14:32]  Black Shawarma: [Veteran, FO]
+[10/29/2023 14:32]  Black Shawarma: Black Shawarma
+[10/29/2023 14:32]  MasterGater: MasterGater
+[10/29/2023 14:32]  Miss Power: Domesticator
+[10/29/2023 14:32]  Miss Power: [She-hulk of, FRND]
+[10/29/2023 14:32]  Miss Power: Lady Miss Power
+[10/29/2023 14:32]  a sheep: a sheep
+[10/29/2023 14:32]  a sheep: a sheep
+[10/29/2023 14:32]  a sheep: a sheep
+[10/29/2023 14:32]  a sheep: a sheep
+[10/29/2023 14:32]  Dees Nuts: [Rogue, HR]
+[10/29/2023 14:32]  Dees Nuts: Dees Nuts
+[10/29/2023 14:32]  Pateksi: Pateksi
+[10/29/2023 14:32]  HonkyTonk: [Syn]
+[10/29/2023 14:32]  HonkyTonk: Lady HonkyTonk
+[10/29/2023 14:32]  Arab: (bonded)
+[10/29/2023 14:32]  Arab: Arab
+[10/29/2023 14:32]  a drake: (bonded)
+[10/29/2023 14:32]  a drake: a drake
+[10/29/2023 14:32]  Fook Tup: [Rogue, HR]
+[10/29/2023 14:32]  Fook Tup: Fook Tup
+[10/29/2023 14:32]  Wanda: Wanda the blacksmith
+[10/29/2023 14:32]  Subrey: Subrey the provisioner
+[10/29/2023 14:32]  Ardith: Ardith the tailor
+[10/29/2023 14:32]  Stocked: Stocked
+[10/29/2023 14:32]  Squelch-O-matic: Squelch-O-matic
+[10/29/2023 14:32]  M-DOG: M-DOG
+[10/29/2023 14:32]  Performance Art: Performance Art
+[10/29/2023 14:32]  L'aiguille: L'aiguille
+[10/29/2023 14:32]  Oflu: Boss Slayer
+[10/29/2023 14:32]  Oflu: [Private, G.G]
+[10/29/2023 14:32]  Oflu: Lady Oflu
+[10/29/2023 14:32]  Lazaroth: [Rookie, NKB]
+[10/29/2023 14:32]  Lazaroth: Lazaroth
+[10/29/2023 14:32]  Crystal: Crystal the tinker
+[10/29/2023 14:32]  System: You must wait to perform another action.
+[10/29/2023 14:32]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/29/2023 14:32]  System: WorldMap loaded!
+[10/29/2023 14:32]  FriarTuck: FriarTuck (Young)
+[10/29/2023 14:32]  System: The world will save in 15 seconds.
+[10/29/2023 14:32]  System: You increase your intelligence by 10.
+[10/29/2023 14:32]  System: Your intelligence has changed by 10.  It is now 20
+[10/29/2023 14:32]  System: Your skill in Meditation has increased by 0.2.  It is now 0.2.
+[10/29/2023 14:32]  You see: extremely common seed
+[10/29/2023 14:32]  System: Your skill in Meditation has increased by 0.2.  It is now 0.4.
+[10/29/2023 14:32]  System: Your skill in Meditation has increased by 0.2.  It is now 0.6.
+[10/29/2023 14:32]  You see: iron ingot : 3
+[10/29/2023 14:32]  System: The world is saving, please wait.
+[10/29/2023 14:32]  System: World save complete. The entire process took 1.8 seconds.
+[10/29/2023 14:32]  System: Your skill in Meditation has increased by 0.2.  It is now 0.8.
+[10/29/2023 14:32]  System: Your skill in Meditation has increased by 0.2.  It is now 1.0.
+[10/29/2023 14:32]  Wanda: Wanda the blacksmith
+[10/29/2023 14:32]  System: Your skill in Meditation has increased by 0.2.  It is now 1.2.
+[10/29/2023 14:32]  System: Your skill in Meditation has increased by 0.2.  It is now 1.4.
+[10/29/2023 14:32]  Pateksi: Pateksi
+[10/29/2023 14:32]  Bodowiz: Brilliant
+[10/29/2023 14:32]  Bodowiz: [Legend, NC]
+[10/29/2023 14:32]  Bodowiz: Lord Bodowiz
+[10/29/2023 14:32]  Carol: Carol the miner
+[10/29/2023 14:32]  System: Your skill in Meditation has increased by 0.2.  It is now 1.6.
+[10/29/2023 14:32]  Hilkat Garibesi: Hilkat Garibesi (Young)
+[10/29/2023 14:32]  System: Your skill in Meditation has increased by 0.2.  It is now 1.8.
+[10/29/2023 14:32]  Selina: Selina the jeweler
+[10/29/2023 14:33]  Saxon: Saxon the lumberjack
+[10/29/2023 14:33]  Pikonex: Pikonex
+[10/29/2023 14:33]  Pateksi: Pateksi
+[10/29/2023 14:33]  a warbler: a warbler
+[10/29/2023 14:33]  Amadis: Amadis the armorer
+[10/29/2023 14:33]  a tern: a tern
+[10/29/2023 14:33]  a crow: a crow
+[10/29/2023 14:33]  Bilal: Bilal the blacksmith
+[10/29/2023 14:33]  a pack horse: (tame)
+[10/29/2023 14:33]  a pack horse: [0/2000 stones]
+[10/29/2023 14:33]  a pack horse: a pack horse
+[10/29/2023 14:33]  Chane: Chane the carpenter
+[10/29/2023 14:33]  Komor: Komor the tanner
+[10/29/2023 14:33]  Kamali: Kamali the butcher
+[10/29/2023 14:33]  Bilal: Bilal the blacksmith
+[10/29/2023 14:33]  Chane: Chane the carpenter
+[10/29/2023 14:33]  Komor: Komor the tanner
+[10/29/2023 14:33]  Kamali: Kamali the butcher
+[10/29/2023 14:33]  Madelyn: Madelyn the shipwright
+[10/29/2023 14:33]  Meg: Meg the bowyer
+[10/29/2023 14:33]  Wijdan: Wijdan the mapmaker
+[10/29/2023 14:33]  Thea: Thea the beggar
+[10/29/2023 14:33]  Komor: Komor the tanner
+[10/29/2023 14:33]  Adara: Adara the bard
+[10/29/2023 14:33]  Meg: Meg the bowyer
+[10/29/2023 14:33]  Thea: Thea the beggar
+[10/29/2023 14:33]  Madelyn: Madelyn the shipwright
+[10/29/2023 14:33]  Thea: Thea the beggar
+[10/29/2023 14:33]  Thea: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[10/29/2023 14:33]  Thea: For less I shall teach thee less.
+[10/29/2023 14:33]  You see: training credits deed
+[10/29/2023 14:33]  You see: (1000 credits remaining)
+[10/29/2023 14:33]  You see: [bound to Geodoro]
+[10/29/2023 14:33]  You see: training credits deed
+[10/29/2023 14:33]  You see: (1000 credits remaining)
+[10/29/2023 14:33]  You see: [bound to Geodoro]
+[10/29/2023 14:33]  System: The training credit deed you wish to use must be in your backpack.
+[10/29/2023 14:33]  Chane: Chane the carpenter
+[10/29/2023 14:33]  Meg: Meg the bowyer
+[10/29/2023 14:33]  a pack horse: (tame)
+[10/29/2023 14:33]  a pack horse: [0/2000 stones]
+[10/29/2023 14:33]  a pack horse: a pack horse
+[10/29/2023 14:34]  Wijdan: Wijdan the mapmaker
+[10/29/2023 14:34]  Bilal: Bilal the blacksmith
+[10/29/2023 14:34]  System: Pearl Hart has completed the achievement: Backstabber (Basic).
+[10/29/2023 14:34]  Amadis: Amadis the armorer
+[10/29/2023 14:34]  a warbler: a warbler
+[10/29/2023 14:34]  a tern: a tern
+[10/29/2023 14:34]  Saxon: Saxon the lumberjack
+[10/29/2023 14:34]  a crow: a crow
+[10/29/2023 14:34]  Ardith: Ardith the tailor
+[10/29/2023 14:34]  Subrey: Subrey the provisioner
+[10/29/2023 14:34]  Selina: Selina the jeweler
+[10/29/2023 14:34]  Crystal: Crystal the tinker
+[10/29/2023 14:34]  Lazaroth: [Rookie, NKB]
+[10/29/2023 14:34]  Lazaroth: Lazaroth
+[10/29/2023 14:34]  Wanda: Wanda the blacksmith
+[10/29/2023 14:34]  L'aiguille: L'aiguille
+[10/29/2023 14:34]  Frights: Legendary Connoisseur
+[10/29/2023 14:34]  Frights: [Squirrel Master, HiTi]
+[10/29/2023 14:34]  Frights: Lord Frights
+[10/29/2023 14:34]  forget: Heralded Gladiator [Terran]
+[10/29/2023 14:34]  forget: [MMx]
+[10/29/2023 14:34]  forget: forget
+[10/29/2023 14:34]  Fook Tup: [Rogue, HR]
+[10/29/2023 14:34]  Fook Tup: Fook Tup
+[10/29/2023 14:34]  Arab: (bonded)
+[10/29/2023 14:34]  Arab: Arab
+[10/29/2023 14:34]  a drake: (bonded)
+[10/29/2023 14:34]  a drake: a drake
+[10/29/2023 14:34]  M-DOG: M-DOG
+[10/29/2023 14:34]  Oflu: Boss Slayer
+[10/29/2023 14:34]  Oflu: [Private, G.G]
+[10/29/2023 14:34]  Oflu: Lady Oflu
+[10/29/2023 14:34]  Brundibal: Legendary Boss Slayer
+[10/29/2023 14:34]  Brundibal: [Officer, AOG]
+[10/29/2023 14:34]  Brundibal: Lord Brundibal
+[10/29/2023 14:34]  a cave bat: (tame)
+[10/29/2023 14:34]  a cave bat: a cave bat
+[10/29/2023 14:34]  a wolfhound: (bonded)
+[10/29/2023 14:34]  a wolfhound: a wolfhound
+[10/29/2023 14:34]  a blood ape: (bonded)
+[10/29/2023 14:34]  a blood ape: a blood ape
+[10/29/2023 14:34]  a dragon whelp: (bonded)
+[10/29/2023 14:34]  a dragon whelp: a dragon whelp
+[10/29/2023 14:34]  vampbot: (bonded)
+[10/29/2023 14:34]  vampbot: vampbot
+[10/29/2023 14:34]  Jake Paul: Nusero Legend
+[10/29/2023 14:34]  Jake Paul: [Hop Hop Hurrr, LDS]
+[10/29/2023 14:34]  Jake Paul: Lady Jake Paul
+[10/29/2023 14:34]  Performance Art: Performance Art
+[10/29/2023 14:34]  Carol: Carol the miner
+[10/29/2023 14:34]  Stocked: Stocked
+[10/29/2023 14:34]  Squelch-O-matic: Squelch-O-matic
+[10/29/2023 14:34]  Mercedes: Mercedes the ranger
+[10/29/2023 14:34]  : water
+[10/29/2023 14:34]  Frights: ty
+[10/29/2023 14:34]  Ardith: Ardith the tailor
+[10/29/2023 14:34]  Saxon: Saxon the lumberjack
+[10/29/2023 14:34]  Frights: Kal Ort Por [Recall]
+[10/29/2023 14:34]  a tern: a tern
+[10/29/2023 14:34]  Amadis: Amadis the armorer
+[10/29/2023 14:34]  a warbler: a warbler
+[10/29/2023 14:34]  a crow: a crow
+[10/29/2023 14:34]  Bilal: Bilal the blacksmith
+[10/29/2023 14:34]  You see: training credits deed
+[10/29/2023 14:34]  You see: (1000 credits remaining)
+[10/29/2023 14:34]  You see: [bound to Geodoro]
+[10/29/2023 14:34]  a pack horse: (tame)
+[10/29/2023 14:34]  a pack horse: [0/2000 stones]
+[10/29/2023 14:34]  a pack horse: a pack horse
+[10/29/2023 14:34]  Chane: Chane the carpenter
+[10/29/2023 14:35]  Amadis: Amadis the armorer
+[10/29/2023 14:35]  Komor: Komor the tanner
+[10/29/2023 14:35]  Kamali: Kamali the butcher
+[10/29/2023 14:35]  Meg: Meg the bowyer
+[10/29/2023 14:35]  Wijdan: Wijdan the mapmaker
+[10/29/2023 14:35]  Madelyn: Madelyn the shipwright
+[10/29/2023 14:35]  Adara: Adara the bard
+[10/29/2023 14:35]  Thea: Thea the beggar
+[10/29/2023 14:35]  a seagull: a seagull
+[10/29/2023 14:35]  Thea: Thea the beggar
+[10/29/2023 14:35]  Thea: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[10/29/2023 14:35]  Thea: For less I shall teach thee less.
+[10/29/2023 14:35]  System: Your skill in Item Identification has increased by 50.0.  It is now 50.0.
+[10/29/2023 14:35]  Meg: Meg the bowyer
+[10/29/2023 14:35]  Chane: Chane the carpenter
+[10/29/2023 14:35]  Wijdan: Wijdan the mapmaker
+[10/29/2023 14:35]  a pack horse: (tame)
+[10/29/2023 14:35]  a pack horse: [0/2000 stones]
+[10/29/2023 14:35]  a pack horse: a pack horse
+[10/29/2023 14:35]  Bilal: Bilal the blacksmith
+[10/29/2023 14:35]  Amadis: Amadis the armorer
+[10/29/2023 14:35]  Ayisha: Ayisha the weaponsmith
+[10/29/2023 14:35]  a warbler: a warbler
+[10/29/2023 14:35]  Saxon: Saxon the lumberjack
+[10/29/2023 14:35]  a tern: a tern
+[10/29/2023 14:35]  a crow: a crow
+[10/29/2023 14:35]  Ardith: Ardith the tailor
+[10/29/2023 14:35]  Subrey: Subrey the provisioner
+[10/29/2023 14:35]  System: Jimmy Longpins has completed the achievement: Undead Slayer (Advanced).
+[10/29/2023 14:35]  System: Never Drinking Again (NDA) guild has reached prestige level 30.
+[10/29/2023 14:35]  Selina: Selina the jeweler
+[10/29/2023 14:35]  Crystal: Crystal the tinker
+[10/29/2023 14:35]  Wanda: Wanda the blacksmith
+[10/29/2023 14:35]  Darkelf Smither: Darkelf Smither (Young)
+[10/29/2023 14:35]  L'aiguille: L'aiguille
+[10/29/2023 14:35]  Whoopa: Whoopa
+[10/29/2023 14:35]  Fook Tup: [Rogue, HR]
+[10/29/2023 14:35]  Fook Tup: Fook Tup
+[10/29/2023 14:35]  Arab: (bonded)
+[10/29/2023 14:35]  Arab: Arab
+[10/29/2023 14:35]  a drake: (bonded)
+[10/29/2023 14:35]  a drake: a drake
+[10/29/2023 14:35]  M-DOG: M-DOG
+[10/29/2023 14:35]  Oflu: Boss Slayer
+[10/29/2023 14:35]  Oflu: [Private, G.G]
+[10/29/2023 14:35]  Oflu: Lady Oflu
+[10/29/2023 14:35]  Hilkat Garibesi: Hilkat Garibesi
+[10/29/2023 14:35]  Jake Paul: Nusero Legend
+[10/29/2023 14:35]  Jake Paul: [Hop Hop Hurrr, LDS]
+[10/29/2023 14:35]  Jake Paul: Lady Jake Paul
+[10/29/2023 14:35]  Performance Art: Performance Art
+[10/29/2023 14:35]  Stocked: Stocked
+[10/29/2023 14:35]  Squelch-O-matic: Squelch-O-matic
+[10/29/2023 14:35]  Mercedes: Mercedes the ranger
+[10/29/2023 14:35]  JoeHarvester: JoeHarvester
+[10/29/2023 14:35]  Two Larges: [Officer, G.G]
+[10/29/2023 14:35]  Two Larges: Two Larges
+[10/29/2023 14:35]  Misha: Triggered
+[10/29/2023 14:35]  Misha: [Soldier, SOF]
+[10/29/2023 14:35]  Misha: Lady Misha
+[10/29/2023 14:35]  Carol: Carol the miner
+[10/29/2023 14:35]  a horse: (tame)
+[10/29/2023 14:35]  a horse: a horse
+[10/29/2023 14:35]  Monsters Inc.: Aegis Keep Legend
+[10/29/2023 14:35]  Monsters Inc.: [BoW]
+[10/29/2023 14:35]  Monsters Inc.: Lord Monsters Inc.
+[10/29/2023 14:35]  Miss Power: Domesticator
+[10/29/2023 14:35]  Miss Power: [She-hulk of, FRND]
+[10/29/2023 14:35]  Miss Power: Lady Miss Power
+[10/29/2023 14:35]  Fuji Heavy: Fuji Heavy
+[10/29/2023 14:35]  Dirt Mc.Girt: [1CE]
+[10/29/2023 14:35]  Dirt Mc.Girt: Dirt Mc.Girt
+[10/29/2023 14:35]  Craft Her: Craft Her
+[10/29/2023 14:35]  Bigest The Mall: Bigest The Mall
+[10/29/2023 14:35]  Kiplet: [Private, L%C]
+[10/29/2023 14:35]  Kiplet: Kiplet
+[10/29/2023 14:35]  Favstvs: Artificer Dignitary
+[10/29/2023 14:35]  Favstvs: [Veteran, Syn]
+[10/29/2023 14:35]  Favstvs: Favstvs
+[10/29/2023 14:35]  DwnWthVwls: [Gate Beard, BB]
+[10/29/2023 14:35]  DwnWthVwls: DwnWthVwls
+[10/29/2023 14:35]  Requies: Scientist
+[10/29/2023 14:35]  Requies: [TRT]
+[10/29/2023 14:35]  Requies: Requies
+[10/29/2023 14:35]  Misha: Triggered
+[10/29/2023 14:35]  Misha: [Soldier, SOF]
+[10/29/2023 14:35]  Misha: Lady Misha
+[10/29/2023 14:35]  Brentan: Brentan the miner
+[10/29/2023 14:35]  Moosebear: Moosebear
+[10/29/2023 14:35]  Darthmier: [Veteran, CFC]
+[10/29/2023 14:35]  Darthmier: Darthmier
+[10/29/2023 14:35]  Cruelz: [Recruit, WaM!]
+[10/29/2023 14:35]  Cruelz: Cruelz
+[10/29/2023 14:35]  Snow Gate: Legendary Tailor
+[10/29/2023 14:35]  Snow Gate: [La Recruteuse, LDS]
+[10/29/2023 14:35]  Snow Gate: Snow Gate
+[10/29/2023 14:35]  Macy: [Recruit, G.G]
+[10/29/2023 14:35]  Macy: Macy
+[10/29/2023 14:35]  Agnerer: Legendary Alchemist
+[10/29/2023 14:35]  Agnerer: [Beard Brother, BB]
+[10/29/2023 14:35]  Agnerer: Agnerer
+[10/29/2023 14:35]  Cpt Black Sack: Cpt Black Sack
+[10/29/2023 14:35]  Mega Tron: [Veteran, Syn]
+[10/29/2023 14:35]  Mega Tron: Mega Tron
+[10/29/2023 14:35]  Cook: Cook
+[10/29/2023 14:35]  COACHYARD LLC: Legendary Scribe
+[10/29/2023 14:35]  COACHYARD LLC: COACHYARD LLC
+[10/29/2023 14:35]  Xedd: Triggered
+[10/29/2023 14:35]  Xedd: [Recruit, HIGS]
+[10/29/2023 14:35]  Xedd: Xedd
+[10/29/2023 14:35]  Black Shawarma: [Veteran, FO]
+[10/29/2023 14:35]  Black Shawarma: Black Shawarma
+[10/29/2023 14:35]  MasterGater: MasterGater
+[10/29/2023 14:35]  afromagi: Scribe
+[10/29/2023 14:35]  afromagi: [Senior Phoenix, OFP]
+[10/29/2023 14:35]  afromagi: afromagi
+[10/29/2023 14:35]  Gadget Stan: Legendary Blacksmith
+[10/29/2023 14:35]  Gadget Stan: [Member, LT]
+[10/29/2023 14:35]  Gadget Stan: Gadget Stan
+[10/29/2023 14:35]  Temple Guardian: [Worker, HIGS]
+[10/29/2023 14:35]  Temple Guardian: Temple Guardian
+[10/29/2023 14:35]  O'Malley: [A Charming Fellow, TRT]
+[10/29/2023 14:35]  O'Malley: O'Malley
+[10/29/2023 14:35]  KrishScribe: [Officer, 1CE]
+[10/29/2023 14:35]  KrishScribe: KrishScribe
+[10/29/2023 14:35]  Duracelle: [Recruit, G.G]
+[10/29/2023 14:35]  Duracelle: Duracelle
+[10/29/2023 14:35]  Uber Blue Light: [Teetotaler, NDA]
+[10/29/2023 14:35]  Uber Blue Light: Uber Blue Light
+[10/29/2023 14:35]  MasterGater: New-Player Vendor Mall
+[10/29/2023 14:35]  Shelter Mechanic: [MMx.]
+[10/29/2023 14:35]  Shelter Mechanic: Shelter Mechanic
+[10/29/2023 14:35]  Bigest The Mall: NEW MALL spot your vendor 3500gp a week cheaper ever
+[10/29/2023 14:35]  Agnerer: Come visit BB Guild Vendors!
+[10/29/2023 14:35]  Mega Tron: ***VENDOR SPOTS TO RENT 10k P/W*** - HIGH TRAFFIC - ANCHORS REST
+[10/29/2023 14:35]  Bigest The Mall: sell everythink you dint need an earn alot of money....few of the best slots rest
+[10/29/2023 14:35]  Agnerer: OPEN SPOTS AVALIABLE!!! 2 Screens from Anchor's Rest Moongate!
+[10/29/2023 14:35]  Duracelle: Board Commodity 70k
+[10/29/2023 14:35]  Duracelle: French Connection Vendor Mail !
+[10/29/2023 14:35]  Bigest The Mall: NEW MALL spot your vendor 3500gp a week cheaper ever
+[10/29/2023 14:35]  Cook: Come view the Winterlands Vendor House!
+[10/29/2023 14:35]  MasterGater: New-Player Vendor Mall
+[10/29/2023 14:35]  Craft Her: Come view the Winterlands Vendor House!
+[10/29/2023 14:35]  Darthmier: Vas Rel Por [Gate Travel]
+[10/29/2023 14:35]  System: Click again to confirm your selection.
+[10/29/2023 14:35]  MasterGater: New-Player Vendor Mall
+[10/29/2023 14:35]  Requies: Vas Rel Por [Gate Travel]
+[10/29/2023 14:35]  Geodoro: You have renounced your Young Player status.
+[10/29/2023 14:35]  Duracelle: French Connection Vendor Mail !
+[10/29/2023 14:35]  Darthmier: CFC Vendor Castle
+[10/29/2023 14:35]  COACHYARD LLC: Now gating to the Coachyard LLC!
+[10/29/2023 14:35]  DwnWthVwls: Anchor's Rest Moongate - Vendor Spots Available
+[10/29/2023 14:35]  MasterGater: New-Player Vendor Mall
+[10/29/2023 14:35]  Cruelz: Cruels Craft Co. *Mastery Chains, Codexes, Kegs, Furniture, Weapons, Armor. Restocked Daily*
+[10/29/2023 14:35]  Gadget Stan: Vas Rel Por [Gate Travel]
+[10/29/2023 14:35]  COACHYARD LLC: Now Crafting!! Weapons,Tools,SmokeBombs,DetectLens,WizardSatchels,Spellbooks,MartialManuals
+[10/29/2023 14:35]  Cook: Vas Rel Por [Gate Travel]
+[10/29/2023 14:35]  Favstvs: Vas Rel Por [Gate Travel]
+[10/29/2023 14:35]  COACHYARD LLC: Specialty Items: Rope,FishingNet/MiBs,RareCloth,AspectCores/Distill,CarpetDye,AspectKits,InvulArmor,Melloweed
+[10/29/2023 14:35]  [Razor]: Steps: 1
+[10/29/2023 14:35]  You see: a shallow water corpse
+[10/29/2023 14:35]  Tea's Scam Vendor: Tea's Scam Vendor
+[10/29/2023 14:35]  XTREME LOOT 14/10: XTREME LOOT 14/10
+[10/29/2023 14:35]  **SHADOW FURN* 27/10: **SHADOW FURN* 27/10
+[10/29/2023 14:35]  BlaCkStArT: BlaCkStArT
+[10/29/2023 14:35]  Ur dungeon loot: Ur dungeon loot
+[10/29/2023 14:35]  PREVS: PREVS
+[10/29/2023 14:35]  **TAMING/CMND**: **TAMING/CMND**
+[10/29/2023 14:35]  INGOTS and Loot: INGOTS and Loot
+[10/29/2023 14:35]  Don Slayote's Wares: Don Slayote's Wares
+[10/29/2023 14:35]  Amish's Shop - 10/14: Amish's Shop - 10/14
+[10/29/2023 14:35]  ThicChics' RideFree: ThicChics' RideFree
+[10/29/2023 14:35]  Prev Moongate: Prev Moongate
+[10/29/2023 14:35]  Mary Jane's Shop: Mary Jane's Shop
+[10/29/2023 14:35]  a horse: (tame)
+[10/29/2023 14:35]  a horse: a horse
+[10/29/2023 14:35]  IcedT: IcedT
+[10/29/2023 14:35]  CORES AND SS CHEAP: CORES AND SS CHEAP
+[10/29/2023 14:35]  MEGA RESTOCK 6/6: MEGA RESTOCK 6/6
+[10/29/2023 14:35]  This and That!: This and That!
+[10/29/2023 14:35]  PREV MG - TOKEN/LINK: PREV MG - TOKEN/LINK
+[10/29/2023 14:35]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[10/29/2023 14:35]  PREV MG - CORES/ORBS: PREV MG - CORES/ORBS
+[10/29/2023 14:35]  CLOTHES/WOOD RESTOCK: CLOTHES/WOOD RESTOCK
+[10/29/2023 14:35]  Smithy Shop: Smithy Shop
+[10/29/2023 14:35]  a water elemental: (summoned)
+[10/29/2023 14:35]  a water elemental: a water elemental
+[10/29/2023 14:35]  Toxicity: Toxicity
+[10/29/2023 14:35]  FarmerNB: FarmerNB
+[10/29/2023 14:35]  Buulder: [Soldier, DKR]
+[10/29/2023 14:35]  Buulder: Buulder
+[10/29/2023 14:35]  I did it again: I did it again
+[10/29/2023 14:35]  BerenBorn: BerenBorn
+[10/29/2023 14:35]  FreshBEEF: FreshBEEF
+[10/29/2023 14:35]  WhoFlungDung: Scribe
+[10/29/2023 14:35]  WhoFlungDung: [Recruit, gLc]
+[10/29/2023 14:35]  WhoFlungDung: WhoFlungDung
+[10/29/2023 14:35]  Nespie: Nespie
+[10/29/2023 14:35]  ThornPrincess: ThornPrincess
+[10/29/2023 14:35]  xKishix: [The Tavern], [tT]
+[10/29/2023 14:35]  xKishix: xKishix
+[10/29/2023 14:35]  Adrien Arcand: Adrien Arcand
+[10/29/2023 14:35]  Ton Rocky Horror: Ton Rocky Horror
+[10/29/2023 14:35]  Smart Contract: Smart Contract
+[10/29/2023 14:35]  Wockiana: [Rookie, NKB]
+[10/29/2023 14:35]  Wockiana: Wockiana
+[10/29/2023 14:35]  Samsiust: [Recruit, EVIL]
+[10/29/2023 14:35]  Samsiust: Samsiust
+[10/29/2023 14:35]  GreatValue: GreatValue
+[10/29/2023 14:35]  StruggleSnuggle: StruggleSnuggle
+[10/29/2023 14:35]  Spectre: Spectre
+[10/29/2023 14:35]  REIS KING: REIS KING
+[10/29/2023 14:35]  The Charlatan: The Charlatan
+[10/29/2023 14:35]  SnkyLilGuy: SnkyLilGuy
+[10/29/2023 14:35]  Malyron: [Druid, BEAR]
+[10/29/2023 14:35]  Malyron: Malyron
+[10/29/2023 14:35]  Black Dow: Black Dow
+[10/29/2023 14:35]  Warbo: Warbo
+[10/29/2023 14:35]  SneakyHands: SneakyHands
+[10/29/2023 14:35]  a lost stoner: a lost stoner
+[10/29/2023 14:35]  Ash Fook: Ash Fook
+[10/29/2023 14:35]  Sibongile: *pacified 32s discord 32s*
+[10/29/2023 14:35]  Sibongile: Sibongile the battle trainer
+[10/29/2023 14:35]  DimeBag Darrall: DimeBag Darrall
+[10/29/2023 14:35]  GogliEye: GogliEye
+[10/29/2023 14:35]  Melgotte: Melgotte
+[10/29/2023 14:35]  Grizzley Addams: Grizzley Addams
+[10/29/2023 14:35]  ...: ...
+[10/29/2023 14:35]  CARPENTRY GEAR!: CARPENTRY GEAR!
+[10/29/2023 14:35]  WIZARD'S SATCHELS: WIZARD'S SATCHELS
+[10/29/2023 14:35]  TAILORING GEAR!: TAILORING GEAR!
+[10/29/2023 14:35]  Spellbooks 52K: Spellbooks 52K
+[10/29/2023 14:35]  MutilatesAspektKits: MutilatesAspektKits
+[10/29/2023 14:35]  Mutilates SS/Misc: Mutilates SS/Misc
+[10/29/2023 14:35]  GogliEye: Guards!
+[10/29/2023 14:35]  XTREME LOOT 14/10: XTREME LOOT 14/10
+[10/29/2023 14:35]  Tea's Scam Vendor: Tea's Scam Vendor
+[10/29/2023 14:36]  **SHADOW FURN* 27/10: **SHADOW FURN* 27/10
+[10/29/2023 14:36]  System: You have left the protection of the town guards.
+[10/29/2023 14:36]  Good Food: Good Food
+[10/29/2023 14:36]  Prev Coins! 18.8k: Prev Coins! 18.8k
+[10/29/2023 14:36]  Lockpickers Emporium: Lockpickers Emporium
+[10/29/2023 14:36]  CORES / DISTILLS: CORES / DISTILLS
+[10/29/2023 14:36]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[10/29/2023 14:36]  Prev Coins in Stock!: Prev Coins in Stock!
+[10/29/2023 14:36]  Spellbooks/Runebooks: Take a look at my goods.
+[10/29/2023 14:36]  Thee Lorax: Prospector
+[10/29/2023 14:36]  Thee Lorax: Thee Lorax
+[10/29/2023 14:36]  You see: Price: 20000
+[10/29/2023 14:36]  You see: runebook
+[10/29/2023 14:36]  You see: [mastercrafted by Pepsikai]
+[10/29/2023 14:36]  You see: Price: 40000
+[10/29/2023 14:36]  You see: exceptional spellbook
+[10/29/2023 14:36]  You see: (64 spells)
+[10/29/2023 14:36]  You see: [blessed and mastercrafted by Pepsikai]
+[10/29/2023 14:36]  System: You are now under the protection of the town guards.
+[10/29/2023 14:36]  Hendrix: Hendrix
+[10/29/2023 14:36]  a prevalian marksman: a prevalian marksman
+[10/29/2023 14:36]  a prevalian knight: a prevalian knight
+[10/29/2023 14:36]  BananaSpidey: (bonded)
+[10/29/2023 14:36]  BananaSpidey: BananaSpidey
+[10/29/2023 14:36]  Bananacore: (bonded)
+[10/29/2023 14:36]  Bananacore: Bananacore
+[10/29/2023 14:36]  a prevalian knight: a prevalian knight
+[10/29/2023 14:36]  a prevalian knight: a prevalian knight
+[10/29/2023 14:36]  Pikonex: Pikonex
+[10/29/2023 14:36]  The Candy Man: The Candy Man
+[10/29/2023 14:36]  Cheap Fence: [Loyal, NKB]
+[10/29/2023 14:36]  Cheap Fence: Cheap Fence
+[10/29/2023 14:36]  Quackletown: Quackletown
+[10/29/2023 14:36]  Mary Sue: Mary Sue
+[10/29/2023 14:36]  a forest ostard: (bonded)
+[10/29/2023 14:36]  a forest ostard: a forest ostard
+[10/29/2023 14:36]  a frenzied ostard: (bonded)
+[10/29/2023 14:36]  a frenzied ostard: a frenzied ostard
+[10/29/2023 14:36]  a frenzied ostard: (bonded)
+[10/29/2023 14:36]  a frenzied ostard: a frenzied ostard
+[10/29/2023 14:36]  a frenzied ostard: (bonded)
+[10/29/2023 14:36]  a frenzied ostard: a frenzied ostard
+[10/29/2023 14:36]  a forest ostard: (bonded)
+[10/29/2023 14:36]  a forest ostard: a forest ostard
+[10/29/2023 14:36]  a forest ostard: (bonded)
+[10/29/2023 14:36]  a forest ostard: a forest ostard
+[10/29/2023 14:36]  a horse: (bonded)
+[10/29/2023 14:36]  a horse: a horse
+[10/29/2023 14:36]  a horse: (bonded)
+[10/29/2023 14:36]  a horse: a horse
+[10/29/2023 14:36]  a horse: (bonded)
+[10/29/2023 14:36]  a horse: a horse
+[10/29/2023 14:36]  a horse: (bonded)
+[10/29/2023 14:36]  a horse: a horse
+[10/29/2023 14:36]  a llama: (bonded)
+[10/29/2023 14:36]  a llama: a llama
+[10/29/2023 14:36]  a llama: (bonded)
+[10/29/2023 14:36]  a llama: a llama
+[10/29/2023 14:36]  Mary Sue: Bonded Mounts for sale! -many more Top-Tier and RARE hues also available- Discord: Quacklebush
+[10/29/2023 14:36]  Roce: Roce
+[10/29/2023 14:36]  Saul Sadmann: Brilliant
+[10/29/2023 14:36]  Saul Sadmann: [Recruit, BoS]
+[10/29/2023 14:36]  Saul Sadmann: Saul Sadmann
+[10/29/2023 14:36]  a cave bear: (bonded)
+[10/29/2023 14:36]  a cave bear: a cave bear
+[10/29/2023 14:36]  tanktank: (bonded)
+[10/29/2023 14:36]  tanktank: tanktank
+[10/29/2023 14:36]  System: pmasunshine has completed the achievement: Order of Armorers Initiate.
+[10/29/2023 14:36]  a komodo: (tame)
+[10/29/2023 14:36]  a komodo: a komodo
+[10/29/2023 14:36]  a komodo: (tame)
+[10/29/2023 14:36]  a komodo: a komodo
+[10/29/2023 14:36]  a komodo: (tame)
+[10/29/2023 14:36]  a komodo: a komodo
+[10/29/2023 14:36]  a komodo: (tame)
+[10/29/2023 14:36]  a komodo: a komodo
+[10/29/2023 14:36]  a komodo: (tame)
+[10/29/2023 14:36]  a komodo: a komodo
+[10/29/2023 14:36]  Jakesh: Jakesh the Prevalian merchant
+[10/29/2023 14:36]  Iwishtoendyou: [Branch Bucker, LOGZ]
+[10/29/2023 14:36]  Iwishtoendyou: Iwishtoendyou
+[10/29/2023 14:36]  Fratus Sinister: Nusero Guardian
+[10/29/2023 14:36]  Fratus Sinister: [Maitre des liens, LDS]
+[10/29/2023 14:36]  Fratus Sinister: Lord Fratus Sinister
+[10/29/2023 14:36]  Saul Sadmann: Visit Saul's place and CALL ME 8-800-SAUL
+[10/29/2023 14:36]  ManifestX: ManifestX
+[10/29/2023 14:36]  snowthree: (bonded)
+[10/29/2023 14:36]  snowthree: snowthree
+[10/29/2023 14:36]  snowone: (bonded)
+[10/29/2023 14:36]  snowone: snowone
+[10/29/2023 14:36]  BigBear Two: [Greenhorn Logger, LOGZ]
+[10/29/2023 14:36]  BigBear Two: BigBear Two
+[10/29/2023 14:36]  Lamb Of God-: The Dread Pirate
+[10/29/2023 14:36]  Lamb Of God-: [Fck Boy, G.G]
+[10/29/2023 14:36]  Lamb Of God-: Lord Lamb Of God-
+[10/29/2023 14:36]  Hendic: Hendic
+[10/29/2023 14:36]  a blood ape: (bonded)
+[10/29/2023 14:36]  a blood ape: a blood ape
+[10/29/2023 14:36]  It wasnt me: It wasnt me
+[10/29/2023 14:36]  Aurelia: Aurelia the Town Crier
+[10/29/2023 14:36]  Ingmar: Ingmar the banker
+[10/29/2023 14:36]  Two-Metre Peter: Two-Metre Peter
+[10/29/2023 14:36]  Dear Esther: [Zakura Azalea, Oak]
+[10/29/2023 14:36]  Dear Esther: Lady Dear Esther
+[10/29/2023 14:36]  Jacob Davis: Jacob Davis
+[10/29/2023 14:36]  Fratus Sinister: Nusero Guardian
+[10/29/2023 14:36]  Fratus Sinister: [Maitre des liens, LDS]
+[10/29/2023 14:36]  Fratus Sinister: Lord Fratus Sinister
+[10/29/2023 14:36]  Quackletown: Road Side Vendors in South Prev come shop our cheap goods! Rent a spot for only 5k/week
+[10/29/2023 14:36]  Calendonia: Calendonia the banker
+[10/29/2023 14:36]  One-of-a-kind Shimmer Hex Moun: One-of-a-kind Shimmer Hex Mount Raffle
+[10/29/2023 14:36]  Eladio: Eladio
+[10/29/2023 14:36]  Hexandra: Hexandra the Hex Mount Raffle Official
+[10/29/2023 14:36]  Fratus Sinister: bank
+[10/29/2023 14:36]  cook me a meal: [Loyal, NKB]
+[10/29/2023 14:36]  cook me a meal: cook me a meal
+[10/29/2023 14:36]  Delbert: Delbert
+[10/29/2023 14:36]  The Gravedigger: The Gravedigger
+[10/29/2023 14:36]  SpriteSprite: SpriteSprite
+[10/29/2023 14:36]  Who dun it: Who dun it
+[10/29/2023 14:36]  Saul Sadmann: Better Call Saul
+[10/29/2023 14:36]  PlayMe: Monster Hunter Initiate
+[10/29/2023 14:36]  PlayMe: [Recruit, IDC]
+[10/29/2023 14:36]  PlayMe: PlayMe
+[10/29/2023 14:36]  Muhamed Ali: Muhamed Ali
+[10/29/2023 14:36]  Kilnem: Legendary Explorer
+[10/29/2023 14:36]  Kilnem: Kilnem
+[10/29/2023 14:36]  Ravanito: Lord Ravanito
+[10/29/2023 14:36]  Tamma: Tamma the banker
+[10/29/2023 14:36]  Georgedin: Georgedin
+[10/29/2023 14:36]  Alodie: Alodie the banker
+[10/29/2023 14:36]  a water elemental: (summoned)
+[10/29/2023 14:36]  a water elemental: a water elemental
+[10/29/2023 14:36]  a dog: a dog
+[10/29/2023 14:36]  a dog: a dog
+[10/29/2023 14:36]  ScarabTank: (bonded)
+[10/29/2023 14:36]  ScarabTank: ScarabTank
+[10/29/2023 14:36]  an arctic bullvore: (bonded)
+[10/29/2023 14:36]  an arctic bullvore: an arctic bullvore
+[10/29/2023 14:36]  ZapTame: Domesticator
+[10/29/2023 14:36]  ZapTame: [Recruit, NP$]
+[10/29/2023 14:36]  ZapTame: ZapTame
+[10/29/2023 14:36]  tirant: Kal Ort Por [Recall]
+[10/29/2023 14:36]  tirant: Lord tirant
+[10/29/2023 14:36]  South Side Gnome: [Recruit, 1CE]
+[10/29/2023 14:36]  South Side Gnome: South Side Gnome
+[10/29/2023 14:36]  Klimop: [Rookie, NKB]
+[10/29/2023 14:36]  Klimop: Klimop
+[10/29/2023 14:36]  PonachkA: Wilderness Guardian
+[10/29/2023 14:36]  PonachkA: [Keeper Of Lies], [D^O]
+[10/29/2023 14:36]  PonachkA: PonachkA
+[10/29/2023 14:36]  Qaz: Qaz
+[10/29/2023 14:36]  BiII: [Recruit, rekt]
+[10/29/2023 14:36]  BiII: BiII
+[10/29/2023 14:36]  Obishe: Wilderness Guardian
+[10/29/2023 14:36]  Obishe: [Recruit, G.G]
+[10/29/2023 14:36]  Obishe: Lady Obishe
+[10/29/2023 14:36]  Sietaha Oni: Sietaha Oni
+[10/29/2023 14:36]  Corntoe: Corntoe
+[10/29/2023 14:36]  Rob Goblin: Transmuter
+[10/29/2023 14:36]  Rob Goblin: Rob Goblin
+[10/29/2023 14:36]  System: Being perfectly rested, you shove them out of the way.
+[10/29/2023 14:36]  Ganso: Ganso
+[10/29/2023 14:36]  Lifter: Lifter
+[10/29/2023 14:36]  BigBear Two: [Greenhorn Logger, LOGZ]
+[10/29/2023 14:36]  BigBear Two: BigBear Two
+[10/29/2023 14:36]  Hexandra: Hexandra the Hex Mount Raffle Official
+[10/29/2023 14:36]  BigBear Two: [Greenhorn Logger, LOGZ]
+[10/29/2023 14:36]  BigBear Two: BigBear Two
+[10/29/2023 14:36]  BigBear Two: [Greenhorn Logger, LOGZ]
+[10/29/2023 14:36]  BigBear Two: BigBear Two
+[10/29/2023 14:36]  Rob Goblin: Transmuter
+[10/29/2023 14:36]  Rob Goblin: Rob Goblin
+[10/29/2023 14:36]  Georgedin: Georgedin
+[10/29/2023 14:36]  Eladio: bank
+[10/29/2023 14:36]  Aurelia: A champagne fountain is on display in Prevalia Town Square to provide you with a token of our appreciation!
+[10/29/2023 14:37]  a water elemental: (summoned)
+[10/29/2023 14:37]  a water elemental: a water elemental
+[10/29/2023 14:37]  System: What do you wish to appraise and identify?
+[10/29/2023 14:37]  System: You are not certain.
+[10/29/2023 14:37]  You see: unidentified magic spellbook
+[10/29/2023 14:37]  [Razor]: Playing Macro '2'...
+[10/29/2023 14:37]  System: Harvesting is not allowed in this area.
+[10/29/2023 14:37]  Georgedin: Georgedin
+[10/29/2023 14:37]  System: What do you wish to appraise and identify?
+[10/29/2023 14:37]  System: Harvesting is not allowed in this area.
+[10/29/2023 14:37]  ExPLiCiT: [EVIL]
+[10/29/2023 14:37]  ExPLiCiT: Lady ExPLiCiT
+[10/29/2023 14:37]  System: You are not certain.
+[10/29/2023 14:37]  System: Harvesting is not allowed in this area.
+[10/29/2023 14:37]  ExPLiCiT: vendor buy bank guards stable room i ban thee
+[10/29/2023 14:37]  System: Harvesting is not allowed in this area.
+[10/29/2023 14:37]  Pikonex: Pikonex
+[10/29/2023 14:37]  System: Harvesting is not allowed in this area.
+[10/29/2023 14:37]  System: Harvesting is not allowed in this area.
+[10/29/2023 14:37]  Sir Irwin: Legendary Domesticator
+[10/29/2023 14:37]  Sir Irwin: [Squire, C-C]
+[10/29/2023 14:37]  Sir Irwin: Lord Sir Irwin
+[10/29/2023 14:37]  Tamma: Your gold balance is 233,671.
+[10/29/2023 14:37]  a water drake: (bonded)
+[10/29/2023 14:37]  a water drake: a water drake
+[10/29/2023 14:37]  a frost mephit: (bonded)
+[10/29/2023 14:37]  a frost mephit: a frost mephit
+[10/29/2023 14:37]  an azure wyrmling: (bonded)
+[10/29/2023 14:37]  an azure wyrmling: an azure wyrmling
+[10/29/2023 14:37]  Thee Lorax: Prospector
+[10/29/2023 14:37]  Thee Lorax: Thee Lorax
+[10/29/2023 14:37]  ExPLiCiT: balance
+[10/29/2023 14:37]  Alodie: Your gold balance is 11,271,814.
+[10/29/2023 14:37]  Thee Lorax: Prospector
+[10/29/2023 14:37]  Thee Lorax: Thee Lorax
+[10/29/2023 14:37]  a water elemental: (summoned)
+[10/29/2023 14:37]  a water elemental: a water elemental
+[10/29/2023 14:37]  Berri Licker: Legendary Relic Hunter
+[10/29/2023 14:37]  Berri Licker: [Journeyman, Path]
+[10/29/2023 14:37]  Berri Licker: Lord Berri Licker
+[10/29/2023 14:37]  Ganso: Ganso
+[10/29/2023 14:37]  ExPLiCiT: Kal Ort Por [Recall]
+[10/29/2023 14:37]  Georgedin: Georgedin
+[10/29/2023 14:37]  Irma Stroganaff: [DoK]
+[10/29/2023 14:37]  Irma Stroganaff: Irma Stroganaff
+[10/29/2023 14:37]  a water elemental: (summoned)
+[10/29/2023 14:37]  a water elemental: a water elemental
+[10/29/2023 14:37]  aice: (bonded)
+[10/29/2023 14:37]  aice: aice
+[10/29/2023 14:37]  TankP: (bonded)
+[10/29/2023 14:37]  TankP: TankP
+[10/29/2023 14:37]  DihoneZ: DihoneZ
+[10/29/2023 14:37]  Tovenaar: Tovenaar
+[10/29/2023 14:37]  System: What do you wish to appraise and identify?
+[10/29/2023 14:37]  a colossal blazing beetle: (tame)
+[10/29/2023 14:37]  a colossal blazing beetle: a colossal blazing beetle
+[10/29/2023 14:37]  Fieryog: (bonded)
+[10/29/2023 14:37]  Fieryog: Fieryog
+[10/29/2023 14:37]  Fri Day: [Master-at-Arms, FS!]
+[10/29/2023 14:37]  Fri Day: Fri Day
+[10/29/2023 14:37]  System: You identify the magical item.
+[10/29/2023 14:37]  You see: potent magic spellbook
+[10/29/2023 14:37]  Geodoro: You are uncertain about the worth of the magical item.
+[10/29/2023 14:37]  Aurelia: In celebration of our 5th Anniversary, a new limited edition Mount Raffle is now available, for a one of a kind, bonded, Shimmer Hex (1299) hued mount of your choosing!
+[10/29/2023 14:37]  You see: potent magic spellbook
+[10/29/2023 14:37]  Duren: Legendary Tailor
+[10/29/2023 14:37]  Duren: [Squire, C-C]
+[10/29/2023 14:37]  Duren: Duren
+[10/29/2023 14:37]  Georgedin: Georgedin
+[10/29/2023 14:38]  Hendrix: Hendrix
+[10/29/2023 14:38]  a water elemental: (summoned)
+[10/29/2023 14:38]  a water elemental: a water elemental
+[10/29/2023 14:38]  Tovenaar: Tovenaar
+[10/29/2023 14:38]  your name here: Artificer Initiate
+[10/29/2023 14:38]  your name here: your name here
+[10/29/2023 14:38]  Bonus Track: Legendary Pirate
+[10/29/2023 14:38]  Bonus Track: [Private, G.G]
+[10/29/2023 14:38]  Bonus Track: Lord Bonus Track
+[10/29/2023 14:38]  Siff: [Juicy, SQzD]
+[10/29/2023 14:38]  Siff: Siff
+[10/29/2023 14:38]  your name here: Artificer Initiate
+[10/29/2023 14:38]  your name here: your name here
+[10/29/2023 14:38]  Georgedin: Georgedin
+[10/29/2023 14:38]  cook me a meal: Kal Ort Por [Recall]
+[10/29/2023 14:38]  Axl: [Soldier, DKR]
+[10/29/2023 14:38]  Axl: Axl
+[10/29/2023 14:38]  a polar bear: (bonded)
+[10/29/2023 14:38]  a polar bear: a polar bear
+[10/29/2023 14:38]  a polar bear: (bonded)
+[10/29/2023 14:38]  a polar bear: a polar bear
+[10/29/2023 14:38]  a polar bear: (bonded)
+[10/29/2023 14:38]  a polar bear: a polar bear
+[10/29/2023 14:38]  a polar bear: (bonded)
+[10/29/2023 14:38]  a polar bear: a polar bear
+[10/29/2023 14:38]  a polar bear: (bonded)
+[10/29/2023 14:38]  a polar bear: a polar bear
+[10/29/2023 14:38]  Eladio: bank
+[10/29/2023 14:38]  Axl: buy bank guards
+[10/29/2023 14:38]  N a k s u: Triggered
+[10/29/2023 14:38]  N a k s u: N a k s u
+[10/29/2023 14:38]  Anna Bohueles: [Caballero, EA]
+[10/29/2023 14:38]  Anna Bohueles: Anna Bohueles
+[10/29/2023 14:38]  Orodreth: Legendary Omni Slayer
+[10/29/2023 14:38]  Orodreth: [Council, Syn]
+[10/29/2023 14:38]  Orodreth: Lord Orodreth
+[10/29/2023 14:38]  a water elemental: (summoned)
+[10/29/2023 14:38]  a water elemental: a water elemental
+[10/29/2023 14:38]  a phoenix: (bonded)
+[10/29/2023 14:38]  a phoenix: a phoenix
+[10/29/2023 14:38]  a lemura: (bonded)
+[10/29/2023 14:38]  a lemura: a lemura
+[10/29/2023 14:38]  Herly: Maester
+[10/29/2023 14:38]  Herly: [Praetor, -_-]
+[10/29/2023 14:38]  Herly: Lord Herly
+[10/29/2023 14:38]  Miss Lambert: [Rookie, NKB]
+[10/29/2023 14:38]  Miss Lambert: Miss Lambert
+[10/29/2023 14:38]  Alodie: Thou art a criminal and my services are not available to thee.
+[10/29/2023 14:38]  Alodie: Thou art a criminal and my services are not available to thee.
+[10/29/2023 14:38]  Alodie: Thou art a criminal and my services are not available to thee.

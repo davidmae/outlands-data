@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<gump type="2" x="123" y="434" serial="1371318332" graphic="60" isminimized="False" />
+	<gump type="2" x="160" y="160" serial="1371318338" graphic="60" isminimized="False" />
+	<gump type="9" x="1568" y="321" serial="3262917" isminimized="False" />
+	<gump type="8" x="-150" y="385" serial="0" isminimized="False" />
+	<gump type="5" x="846" y="4" serial="0" />
+	<gump type="3" x="1548" y="28" serial="0" rows="4" columns="6" rectsize="40">
+		<controls>
+			<control graphic="6585" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="4027" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="7154" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+		</controls>
+	</gump>
+	<gump type="10" x="1534" y="677" serial="0" isminimized="False" height="360" />
+	<gump type="16" x="1415" y="608" serial="0" id="3" />
+	<gump type="21" x="495" y="945" serial="0" />
+	<gump type="18" x="2" y="31" serial="0" />
+</gumps>

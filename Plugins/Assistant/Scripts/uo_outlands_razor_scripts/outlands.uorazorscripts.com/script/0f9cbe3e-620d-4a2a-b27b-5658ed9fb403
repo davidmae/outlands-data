@@ -1,0 +1,147 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/0f9cbe3e-620d-4a2a-b27b-5658ed9fb403 for latest
+# Automation by Jaseowns
+## Script: Simple Logging Script
+## Created by: demlar#0
+#############################################
+
+// Original: Jaseowns
+// Modified: Demlar
+// UO Outlands -  https://youtu.be/jTU_pORdan4
+#Version 1.2
+#Cleaned up setvars 
+# Added Alerts and recall
+
+@setvar! minimumWaitForPing 200
+
+while not dead
+    if lhandempty
+        if findtype 'hatchet' backpack
+            dclicktype 'hatchet' backpack
+            wait 200
+        else
+            overhead 'Time to buy more hatchets' 88
+            stop
+        endif
+    endif
+    
+    // capture world saving outside the loop
+    if insysmsg 'world is saving'
+        for 30
+            overhead 'Waiting for world save...'
+            wait 1000
+            if insysmsg 'save complete'
+                overhead 'Save complete - continue on!' 88
+                replay
+            endif
+        endfor
+    endif
+
+
+    if not varexist jackr_runebook or not find jackr_runebook backpack
+        if counttype "runebook" backpack = 1 and counttype "runetome" backpack = 0 and findtype "runebook" backpack as myBook
+            overhead "Automatically selected your one runebook" 88
+            @setvar jackr_runebook myBook
+        elseif counttype "runebook" backpack = 0 and counttype "runetome" backpack = 1 and findtype "runetome" backpack as myBook
+            overhead "Automatically selected your one runetome" 88
+            @setvar jackr_runebook myBook
+        elseif counttype 7956 backpack = 1 and findtype 7956 backpack as myBook
+            overhead "Automatically selected your one rune" 88
+            @setvar jackr_runebook myBook
+        elseif counttype "runebook" backpack > 0 or counttype 7956 backpack > 0 or counttype "runetome" backpack > 0
+            overhead "Select your escape plan (runebook or runetome)" 88
+            @setvar jackr_runebook 
+        endif
+    endif  
+    
+    if not listexists "alerts"
+        createlist "alerts"
+    endif
+
+
+    if inlist "alerts" "red_alert"
+        overhead "Red Alert!" 34
+        poplist "alerts" "red_alert"
+        # You could also replace this magery bit with your ultimate recaller
+        # Ultimate Recall using Tome or Book as Escape (ALT-M)
+        # https://outlands.uorazorscripts.com/script/5b3fde97-fa90-4707-9f8e-7f56dca6792b
+        # hotkey "Play Script: UltimaRecaller"
+        if skill "Magery" >= 40
+            overhead 'Recalling...'
+            while not targetexists
+                if findtype 8012 backpack as item
+                    dclick item
+                else
+                    cast "Recall"
+                endif
+                wait minimumWaitForPing
+                if insysmsg "You do not have that spell!"
+                    overhead "We cannot recall!" 34
+                    break
+                endif
+            endwhile
+            target jackr_runebook
+        elseif skill "Hiding" >= 40
+            useskill "Hiding"
+        endif
+        overhead "Stopping script..." 34
+        stop
+        # replay
+    endif 
+
+   
+    
+    if skill "Tracking" > 0
+      if not findbuff "tracking"
+          while not gumpexists 4267467659
+                useskill 'tracking'
+                wait 200
+            endwhile
+           if gumpexists 4267467659
+                  while not insysmsg "You will now hunt all hostile players."
+                   gumpresponse 8 4267467659
+                   waitforgump 4267467659 5000
+              endwhile
+              gumpresponse 6 4267467659
+              wait 200
+           endif
+           gumpclose 4267467659
+       endif
+    endif 
+    
+    if not targetexists 
+        hotkey "Use item in hand"
+        wft 500
+    endif
+    
+    if targetexists 
+        hotkey "Target Self"
+    endif
+    
+    for 20
+        wait 750
+        if insysmsg "now tracking"
+            pushlist "alerts" "red_alert"
+            replay
+        endif
+        if insysmsg 'You do not see any'
+            break
+        endif
+        if insysmsg 'That must be equipped for'
+            break
+        endif
+        if insysmsg 'You hack at' or insysmsg 'You chop some'
+            break
+        endif
+        // capture world saving inside the loop
+        if insysmsg 'world is saving'
+            for 30
+                overhead 'Waiting for world save...'
+                wait 1000
+                if insysmsg 'save complete'
+                    overhead 'Save complete - continue on!' 88
+                    replay
+                endif
+            endfor
+        endif
+    endfor    
+endwhile

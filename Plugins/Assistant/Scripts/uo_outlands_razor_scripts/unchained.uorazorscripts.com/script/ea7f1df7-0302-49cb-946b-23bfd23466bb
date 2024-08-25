@@ -1,0 +1,101 @@
+# This is an automated backup - check out https://unchained.uorazorscripts.com/script/ea7f1df7-0302-49cb-946b-23bfd23466bb for latest
+# Automation by Jaseowns
+## Script: Ultimate Lumberjacking EZ
+## Created by: Jaseowns#6694
+#############################################
+
+# Ultimate Lumberjacking by Jaseowns
+# UO Unchained
+if lhandempty
+    if findtype "hatchet" backpack as item
+        lift item
+        drop self lefthand
+        wait 650
+    endif
+endif
+
+# >info and copy serial to line 15  (click the blue box)
+if name = "JaseLumber"
+    @setvar! giantBeetleFriend 0x7224
+else
+    @setvar! giantBeetleFriend 1
+endif
+
+if diffweight < 5 or weight > maxweight
+
+    if giantBeetleFriend = 1
+        overhead "We do not have a beetle" 77
+        overhead "Read the instructions or set giantBeetleFriend to 0 " 34
+        sysmsg "Read the instructions or set giantBeetleFriend to 0" 66
+        sysmsg ">info and copy serial here  (click the blue box)" 88
+        
+    elseif giantBeetleFriend = 0
+        // do nothing
+    else
+        if mounted
+            hotkey "Dismount"
+            wait 500
+        endif
+
+        if not mounted
+            if findtype 7133 backpack
+                while findtype 7133 backpack as logz
+                    hotkey "Use Item in Hand"
+                    wft 500
+                    target logz
+                    ignore logz
+                    wait 650
+                endwhile
+                clearignore
+            endif
+            if findtype 7127 backpack
+                while findtype 7133 backpack as logz
+                    lift logz 60000
+                    drop giantBeetleFriend -1 -1 -1
+                    wait 650
+                endwhile
+                while findtype 7127 backpack as boardz
+                    lift boardz 60000 
+                    drop giantBeetleFriend -1 -1 -1
+                    wait 650
+                endwhile
+            endif
+            wait 650
+            dclick giantBeetleFriend
+        endif
+    endif
+    
+    if diffweight < 5 or weight > maxweight
+        overhead "overweight.." 34
+        wait 1000
+        replay
+    endif
+endif
+
+hotkey "Use item in hand"
+wft 5000
+targetrelloc -1 0
+for 50
+    if insysmsg "use an axe on that"
+        overhead "cannot find tree..." 88
+        wait 500
+        replay
+    elseif insysmsg "you hack"
+        // success but no luck
+        replay
+    elseif insysmsg "you put some" or insysmsg "you chop some"
+        // success and got some
+        replay
+    elseif insysmsg "not enough"
+        // move 
+        overhead "Move new tree..." 88
+        wait 500
+        replay
+    elseif insysmsg "thanks for verifying"
+        // captcha success 
+        overhead "success - playing again" 88
+        wait 500
+        replay
+    endif
+    wait 200
+endfor

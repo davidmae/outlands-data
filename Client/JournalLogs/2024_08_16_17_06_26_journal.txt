@@ -1,0 +1,1905 @@
+[08/16/2024 17:06]  System: WorldMap loading...
+[08/16/2024 17:06]  System: Loading WorldMap markers..
+[08/16/2024 17:06]  System: ..Banks_and_Healers.xml (39)
+[08/16/2024 17:06]  System: ..Dungeons.xml (13)
+[08/16/2024 17:06]  System: ..Dungeon_Gates.xml (388)
+[08/16/2024 17:06]  System: ..Healer_Caravans.xml (42)
+[08/16/2024 17:06]  System: ..Kings_Faire.xml (43)
+[08/16/2024 17:06]  System: ..Moongates.xml (10)
+[08/16/2024 17:06]  System: ..POI.xml (251)
+[08/16/2024 17:06]  System: ..PvP_Locations.xml (71)
+[08/16/2024 17:06]  System: ..Shrines.xml (9)
+[08/16/2024 17:06]  System: ..Sub-Dungeons.xml (4)
+[08/16/2024 17:06]  System: ..Townships.xml (10)
+[08/16/2024 17:06]  System: ..UOAM_Atlas.xml (1887)
+[08/16/2024 17:06]  System: ..UOAM_T-Map.xml (255)
+[08/16/2024 17:06]  System: ..UOAM_Treasure.xml (523)
+[08/16/2024 17:06]  System: WorldMap markers loaded (3545)
+[08/16/2024 17:06]  System: Welcome Jaimito!
+[08/16/2024 17:06]  Jaimito: Jaimito
+[08/16/2024 17:06]  Behind Jungle Junct: Behind Jungle Junct
+[08/16/2024 17:06]  a horse: a horse
+[08/16/2024 17:06]  The Merchant: [The Junction Scanner, CtS]
+[08/16/2024 17:06]  The Merchant: The Merchant
+[08/16/2024 17:06]  CtS Corner Store: [CtS only]
+[08/16/2024 17:06]  CtS Corner Store: CtS Corner Store
+[08/16/2024 17:06]  Shooter Muhgavin: [chumbucket's minion, cA]
+[08/16/2024 17:06]  Shooter Muhgavin: Lord Shooter Muhgavin
+[08/16/2024 17:06]  Delores: Delores
+[08/16/2024 17:06]  FAFE`s Shop: FAFE`s Shop
+[08/16/2024 17:06]  Zie's Vendor: Zie's Vendor
+[08/16/2024 17:06]  Sam's ID Wands!: Sam's ID Wands!
+[08/16/2024 17:06]  Drakes' Wench: Drakes' Wench
+[08/16/2024 17:06]  Req's Goods: Req's Goods
+[08/16/2024 17:06]  Janna: Janna
+[08/16/2024 17:06]  NotYourBehr'sGoods: NotYourBehr'sGoods
+[08/16/2024 17:06]  Gamble: Gamble
+[08/16/2024 17:06]  Sam's BOOM Boxes!: Sam's BOOM Boxes!
+[08/16/2024 17:06]  RandomJunk+Comms: RandomJunk+Comms
+[08/16/2024 17:06]  Woodies Goodies: Woodies Goodies
+[08/16/2024 17:06]  Stanky Snooj: Stanky Snooj
+[08/16/2024 17:06]  Thetmes Jr: Thetmes Jr
+[08/16/2024 17:06]  Elyrions Essentials: Elyrions Essentials
+[08/16/2024 17:06]  Mac-Mart: Mac-Mart
+[08/16/2024 17:06]  Sully's Shop: Sully's Shop
+[08/16/2024 17:06]  JoefishUK: JoefishUK
+[08/16/2024 17:06]  The Splash Pad: The Splash Pad
+[08/16/2024 17:06]  Lockpicking Finds: Lockpicking Finds
+[08/16/2024 17:06]  All the Goodz: All the Goodz
+[08/16/2024 17:06]  RUPPIE DUPPIE: RUPPIE DUPPIE
+[08/16/2024 17:06]  Dash Loot: Dash Loot
+[08/16/2024 17:06]  Loot'R'US: Loot'R'US
+[08/16/2024 17:06]  Senon: Senon
+[08/16/2024 17:06]  Sam's Random Stuff!: Sam's Random Stuff!
+[08/16/2024 17:06]  Knucks Goods: Knucks Goods
+[08/16/2024 17:06]  Rutlands Delights: Rutlands Delights
+[08/16/2024 17:06]  Rizzles Wares: Rizzles Wares
+[08/16/2024 17:06]  Behrlythere: Behrlythere
+[08/16/2024 17:06]  ag Random Crap: ag Random Crap
+[08/16/2024 17:06]  Tai: Tai the battle trainer
+[08/16/2024 17:06]  Ruby's SS and Tmaps: Ruby's SS and Tmaps
+[08/16/2024 17:06]  Core,Leather,Etc: Core,Leather,Etc
+[08/16/2024 17:06]  ag Gear: ag Gear
+[08/16/2024 17:06]  Emerald's Rare Goods: Emerald's Rare Goods
+[08/16/2024 17:06]  The Kmart: The Kmart
+[08/16/2024 17:06]  Loot Daddy Fresh: Loot Daddy Fresh
+[08/16/2024 17:06]  Trevshop: Trevshop
+[08/16/2024 17:06]  Krally Klaus: Krally Klaus
+[08/16/2024 17:06]  (K)amA Mart: (K)amA Mart
+[08/16/2024 17:06]  Cat Daddy: Cat Daddy
+[08/16/2024 17:06]  Adiran: Adiran
+[08/16/2024 17:06]  Peachi: Peachi
+[08/16/2024 17:06]  Headshot: Headshot
+[08/16/2024 17:06]  Bruogha: Bruogha
+[08/16/2024 17:06]  Big Betty: Big Betty
+[08/16/2024 17:06]  Honest Nick: Honest Nick
+[08/16/2024 17:06]  Whatsthebigdeal: Whatsthebigdeal
+[08/16/2024 17:06]  Kallanae: Kallanae
+[08/16/2024 17:06]  Law and Order: Law and Order
+[08/16/2024 17:06]  Duagloth: Duagloth
+[08/16/2024 17:06]  Stache Cashe: Stache Cashe
+[08/16/2024 17:06]  BearMart: BearMart
+[08/16/2024 17:06]  ag Scrolls: ag Scrolls
+[08/16/2024 17:06]  Slug Market: Slug Market
+[08/16/2024 17:06]  Aurek: Aurek
+[08/16/2024 17:06]  Kras Corner: Kras Corner
+[08/16/2024 17:06]  Cores and Such!: Cores and Such!
+[08/16/2024 17:06]  Lyris: Lyris
+[08/16/2024 17:06]  a crow: a crow
+[08/16/2024 17:06]  a grizzly bear: a grizzly bear
+[08/16/2024 17:06]  System: WorldMap loaded!
+[08/16/2024 17:06]  System: Snooping skillgain: 100%
+[08/16/2024 17:06]  System: Your skill in Meditation has decreased by 1.3.  It is now 43.3.
+[08/16/2024 17:06]  System: Your skill in Snooping has increased by 1.3.  It is now 1.3.
+[08/16/2024 17:06]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:06]  Slippery Jane: Kraul Hive Guardian
+[08/16/2024 17:06]  Slippery Jane: [Ripe, SQzD]
+[08/16/2024 17:06]  Slippery Jane: Lady Slippery Jane
+[08/16/2024 17:06]  [Razor]: Select a new target this Action.
+[08/16/2024 17:06]  System: Snooping skillgain: 100%
+[08/16/2024 17:06]  System: Your skill in Meditation has decreased by 1.3.  It is now 42.0.
+[08/16/2024 17:06]  System: Your skill in Snooping has increased by 1.3.  It is now 2.6.
+[08/16/2024 17:06]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:06]  System: You must be a friend of this house, or have a rental vendor, in order to hide here.
+[08/16/2024 17:06]  System: You must be a friend of this house, or have a rental vendor, in order to hide here.
+[08/16/2024 17:06]  System: Snooping skillgain: 100%
+[08/16/2024 17:06]  System: Your skill in Meditation has decreased by 1.3.  It is now 40.7.
+[08/16/2024 17:06]  System: Your skill in Snooping has increased by 1.3.  It is now 3.9.
+[08/16/2024 17:06]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 1.3.  It is now 39.4.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 1.3.  It is now 5.2.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 0.7.  It is now 38.7.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 0.7.  It is now 5.9.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Tolwyn has completed the achievement: Trapper (Basic).
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 0.7.  It is now 38.0.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 0.7.  It is now 6.6.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 0.7.  It is now 37.3.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 0.7.  It is now 7.3.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 0.7.  It is now 36.6.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 0.7.  It is now 8.0.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 0.7.  It is now 35.9.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 0.7.  It is now 8.7.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 0.7.  It is now 35.2.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 0.7.  It is now 9.4.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 0.7.  It is now 34.5.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 0.7.  It is now 10.1.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Player can use up to (33 / 66 / 100) points of printed Hiding skill in place of Snooping skill when Pilfering or Mugging creatures.
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 0.5.  It is now 34.0.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 0.5.  It is now 10.6.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:07]  System: Snooping skillgain: 100%
+[08/16/2024 17:07]  System: Your skill in Meditation has decreased by 0.5.  It is now 33.5.
+[08/16/2024 17:07]  System: Your skill in Snooping has increased by 0.5.  It is now 11.1.
+[08/16/2024 17:07]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.5.  It is now 33.0.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.5.  It is now 11.6.
+[08/16/2024 17:08]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.5.  It is now 32.5.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.5.  It is now 12.1.
+[08/16/2024 17:08]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.5.  It is now 32.0.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.5.  It is now 12.6.
+[08/16/2024 17:08]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.5.  It is now 31.5.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.5.  It is now 13.1.
+[08/16/2024 17:08]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.5.  It is now 31.0.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.5.  It is now 13.6.
+[08/16/2024 17:08]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.5.  It is now 30.5.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.5.  It is now 14.1.
+[08/16/2024 17:08]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:08]  System: Player can use up to (33 / 66 / 100) points of printed Hiding skill in place of Snooping skill when Pilfering or Mugging creatures.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.5.  It is now 30.0.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.5.  It is now 14.6.
+[08/16/2024 17:08]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.5.  It is now 29.5.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.5.  It is now 15.1.
+[08/16/2024 17:08]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.4.  It is now 29.1.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.4.  It is now 15.5.
+[08/16/2024 17:08]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:08]  System: Snooping skillgain: 100%
+[08/16/2024 17:08]  System: Your skill in Meditation has decreased by 0.4.  It is now 28.7.
+[08/16/2024 17:08]  System: Your skill in Snooping has increased by 0.4.  It is now 15.9.
+[08/16/2024 17:08]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:09]  System: Snooping skillgain: 100%
+[08/16/2024 17:09]  System: Your skill in Meditation has decreased by 0.4.  It is now 28.3.
+[08/16/2024 17:09]  System: Your skill in Snooping has increased by 0.4.  It is now 16.3.
+[08/16/2024 17:09]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:09]  System: Snooping skillgain: 100%
+[08/16/2024 17:09]  System: Your skill in Meditation has decreased by 0.4.  It is now 27.9.
+[08/16/2024 17:09]  System: Your skill in Snooping has increased by 0.4.  It is now 16.7.
+[08/16/2024 17:09]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:09]  System: Snooping skillgain: 100%
+[08/16/2024 17:09]  System: Your skill in Meditation has decreased by 0.4.  It is now 27.5.
+[08/16/2024 17:09]  System: Your skill in Snooping has increased by 0.4.  It is now 17.1.
+[08/16/2024 17:09]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:09]  System: Snooping skillgain: 100%
+[08/16/2024 17:09]  System: Your skill in Meditation has decreased by 0.4.  It is now 27.1.
+[08/16/2024 17:09]  System: Your skill in Snooping has increased by 0.4.  It is now 17.5.
+[08/16/2024 17:09]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:09]  System: The world will save in 15 seconds.
+[08/16/2024 17:09]  System: Snooping skillgain: 100%
+[08/16/2024 17:09]  System: Your skill in Meditation has decreased by 0.4.  It is now 26.7.
+[08/16/2024 17:09]  System: Your skill in Snooping has increased by 0.4.  It is now 17.9.
+[08/16/2024 17:09]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:09]  System: Light'G has completed the achievement: Versatility (Basic).
+[08/16/2024 17:09]  System: Snooping skillgain: 100%
+[08/16/2024 17:09]  System: Your skill in Meditation has decreased by 0.4.  It is now 26.3.
+[08/16/2024 17:09]  System: Your skill in Snooping has increased by 0.4.  It is now 18.3.
+[08/16/2024 17:09]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:09]  System: Snooping skillgain: 100%
+[08/16/2024 17:09]  System: Your skill in Meditation has decreased by 0.4.  It is now 25.9.
+[08/16/2024 17:09]  System: Your skill in Snooping has increased by 0.4.  It is now 18.7.
+[08/16/2024 17:09]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:09]  System: The world is saving, please wait.
+[08/16/2024 17:09]  System: World save complete. The entire process took 2.7 seconds.
+[08/16/2024 17:09]  System: You must wait another moment before using the stealing skill.
+[08/16/2024 17:09]  System: Snooping skillgain: 100%
+[08/16/2024 17:09]  System: Your skill in Meditation has decreased by 0.4.  It is now 25.5.
+[08/16/2024 17:09]  System: Your skill in Snooping has increased by 0.4.  It is now 19.1.
+[08/16/2024 17:09]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:09]  System: Snooping skillgain: 100%
+[08/16/2024 17:09]  System: Your skill in Meditation has decreased by 0.4.  It is now 25.1.
+[08/16/2024 17:09]  System: Your skill in Snooping has increased by 0.4.  It is now 19.5.
+[08/16/2024 17:09]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.4.  It is now 24.7.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.4.  It is now 19.9.
+[08/16/2024 17:10]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.4.  It is now 24.3.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.4.  It is now 20.3.
+[08/16/2024 17:10]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.3.  It is now 24.0.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.3.  It is now 20.6.
+[08/16/2024 17:10]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.3.  It is now 23.7.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.3.  It is now 20.9.
+[08/16/2024 17:10]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.3.  It is now 23.4.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.3.  It is now 21.2.
+[08/16/2024 17:10]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.3.  It is now 23.1.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.3.  It is now 21.5.
+[08/16/2024 17:10]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.3.  It is now 22.8.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.3.  It is now 21.8.
+[08/16/2024 17:10]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:10]  System: Shallan DBane has completed the achievement: Affluent (Advanced).
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.3.  It is now 22.5.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.3.  It is now 22.1.
+[08/16/2024 17:10]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.3.  It is now 22.2.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.3.  It is now 22.4.
+[08/16/2024 17:10]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:10]  System: Snooping skillgain: 100%
+[08/16/2024 17:10]  System: Your skill in Meditation has decreased by 0.3.  It is now 21.9.
+[08/16/2024 17:10]  System: Your skill in Snooping has increased by 0.3.  It is now 22.7.
+[08/16/2024 17:10]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 21.6.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 23.0.
+[08/16/2024 17:11]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 21.3.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 23.3.
+[08/16/2024 17:11]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 21.0.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 23.6.
+[08/16/2024 17:11]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 20.7.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 23.9.
+[08/16/2024 17:11]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:11]  System: Eroden has completed the achievement: Raffler (Basic).
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 20.4.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 24.2.
+[08/16/2024 17:11]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 20.1.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 24.5.
+[08/16/2024 17:11]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 19.8.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 24.8.
+[08/16/2024 17:11]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 19.5.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 25.1.
+[08/16/2024 17:11]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 19.2.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 25.4.
+[08/16/2024 17:11]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:11]  System: Snooping skillgain: 100%
+[08/16/2024 17:11]  System: Your skill in Meditation has decreased by 0.3.  It is now 18.9.
+[08/16/2024 17:11]  System: Your skill in Snooping has increased by 0.3.  It is now 25.7.
+[08/16/2024 17:11]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:12]  System: Snooping skillgain: 100%
+[08/16/2024 17:12]  System: Your skill in Meditation has decreased by 0.3.  It is now 18.6.
+[08/16/2024 17:12]  System: Your skill in Snooping has increased by 0.3.  It is now 26.0.
+[08/16/2024 17:12]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:12]  System: Snooping skillgain: 100%
+[08/16/2024 17:12]  System: Your skill in Meditation has decreased by 0.3.  It is now 18.3.
+[08/16/2024 17:12]  System: Your skill in Snooping has increased by 0.3.  It is now 26.3.
+[08/16/2024 17:12]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:12]  a crow: a crow
+[08/16/2024 17:12]  System: Dunhill Blues has completed the achievement: Aspect Mastery (Basic).
+[08/16/2024 17:12]  System: Snooping skillgain: 100%
+[08/16/2024 17:12]  System: Your skill in Meditation has decreased by 0.3.  It is now 18.0.
+[08/16/2024 17:12]  System: Your skill in Snooping has increased by 0.3.  It is now 26.6.
+[08/16/2024 17:12]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:12]  System: Snooping skillgain: 100%
+[08/16/2024 17:12]  System: Your skill in Meditation has decreased by 0.3.  It is now 17.7.
+[08/16/2024 17:12]  System: Your skill in Snooping has increased by 0.3.  It is now 26.9.
+[08/16/2024 17:12]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:12]  a crow: a crow
+[08/16/2024 17:12]  System: Snooping skillgain: 100%
+[08/16/2024 17:12]  System: Your skill in Meditation has decreased by 0.3.  It is now 17.4.
+[08/16/2024 17:12]  System: Your skill in Snooping has increased by 0.3.  It is now 27.2.
+[08/16/2024 17:12]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:12]  System: Roronoa Zorro has completed the achievement: Triggered (Advanced).
+[08/16/2024 17:12]  System: Snooping skillgain: 100%
+[08/16/2024 17:12]  System: Your skill in Meditation has decreased by 0.3.  It is now 17.1.
+[08/16/2024 17:12]  System: Your skill in Snooping has increased by 0.3.  It is now 27.5.
+[08/16/2024 17:12]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:12]  System: Snooping skillgain: 100%
+[08/16/2024 17:12]  System: Your skill in Meditation has decreased by 0.3.  It is now 16.8.
+[08/16/2024 17:12]  System: Your skill in Snooping has increased by 0.3.  It is now 27.8.
+[08/16/2024 17:12]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:12]  System: Snooping skillgain: 100%
+[08/16/2024 17:12]  System: Your skill in Meditation has decreased by 0.3.  It is now 16.5.
+[08/16/2024 17:12]  System: Your skill in Snooping has increased by 0.3.  It is now 28.1.
+[08/16/2024 17:12]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:12]  System: Snooping skillgain: 100%
+[08/16/2024 17:12]  System: Your skill in Meditation has decreased by 0.3.  It is now 16.2.
+[08/16/2024 17:12]  System: Your skill in Snooping has increased by 0.3.  It is now 28.4.
+[08/16/2024 17:12]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.3.  It is now 15.9.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.3.  It is now 28.7.
+[08/16/2024 17:13]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:13]  Victoria'sSecret: Victoria'sSecret
+[08/16/2024 17:13]  a grizzly bear: a grizzly bear
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.3.  It is now 15.6.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.3.  It is now 29.0.
+[08/16/2024 17:13]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.3.  It is now 15.3.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.3.  It is now 29.3.
+[08/16/2024 17:13]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.3.  It is now 15.0.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.3.  It is now 29.6.
+[08/16/2024 17:13]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.3.  It is now 14.7.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.3.  It is now 29.9.
+[08/16/2024 17:13]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.3.  It is now 14.4.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.3.  It is now 30.2.
+[08/16/2024 17:13]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.2.  It is now 14.2.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.2.  It is now 30.4.
+[08/16/2024 17:13]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.2.  It is now 14.0.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.2.  It is now 30.6.
+[08/16/2024 17:13]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.2.  It is now 13.8.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.2.  It is now 30.8.
+[08/16/2024 17:13]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:13]  System: Kleksik has completed the achievement: Alchemist (Advanced).
+[08/16/2024 17:13]  System: Snooping skillgain: 100%
+[08/16/2024 17:13]  System: Your skill in Meditation has decreased by 0.2.  It is now 13.6.
+[08/16/2024 17:13]  System: Your skill in Snooping has increased by 0.2.  It is now 31.0.
+[08/16/2024 17:13]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 13.4.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 31.2.
+[08/16/2024 17:14]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 13.2.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 31.4.
+[08/16/2024 17:14]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 13.0.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 31.6.
+[08/16/2024 17:14]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 12.8.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 31.8.
+[08/16/2024 17:14]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 12.6.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 32.0.
+[08/16/2024 17:14]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 12.4.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 32.2.
+[08/16/2024 17:14]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 12.2.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 32.4.
+[08/16/2024 17:14]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:14]  System: Chilly.X has completed the achievement: Guardian of Kraul Hive (Basic).
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 12.0.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 32.6.
+[08/16/2024 17:14]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 11.8.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 32.8.
+[08/16/2024 17:14]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:14]  System: Snooping skillgain: 100%
+[08/16/2024 17:14]  System: Your skill in Meditation has decreased by 0.2.  It is now 11.6.
+[08/16/2024 17:14]  System: Your skill in Snooping has increased by 0.2.  It is now 33.0.
+[08/16/2024 17:14]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 11.4.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 33.2.
+[08/16/2024 17:15]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 11.2.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 33.4.
+[08/16/2024 17:15]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:15]  System: Minxy Mia has completed the achievement: Raffler (Advanced).
+[08/16/2024 17:15]  System: TearsOfDevill has completed the achievement: Scientist (Basic).
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 11.0.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 33.6.
+[08/16/2024 17:15]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 10.8.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 33.8.
+[08/16/2024 17:15]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:15]  Requiesce: Legendary Backstabber
+[08/16/2024 17:15]  Requiesce: Lord Requiesce
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 10.6.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 34.0.
+[08/16/2024 17:15]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 10.4.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 34.2.
+[08/16/2024 17:15]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 10.2.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 34.4.
+[08/16/2024 17:15]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 10.0.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 34.6.
+[08/16/2024 17:15]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 9.8.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 34.8.
+[08/16/2024 17:15]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:15]  System: Snooping skillgain: 100%
+[08/16/2024 17:15]  System: Your skill in Meditation has decreased by 0.2.  It is now 9.6.
+[08/16/2024 17:15]  System: Your skill in Snooping has increased by 0.2.  It is now 35.0.
+[08/16/2024 17:15]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 9.4.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 35.2.
+[08/16/2024 17:16]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 9.2.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 35.4.
+[08/16/2024 17:16]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 9.0.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 35.6.
+[08/16/2024 17:16]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 8.8.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 35.8.
+[08/16/2024 17:16]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:16]  Requiesce: Legendary Backstabber
+[08/16/2024 17:16]  Requiesce: Lord Requiesce
+[08/16/2024 17:16]  Slippery Jane: Kraul Hive Guardian
+[08/16/2024 17:16]  Slippery Jane: [Ripe, SQzD]
+[08/16/2024 17:16]  Slippery Jane: Lady Slippery Jane
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 8.6.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 36.0.
+[08/16/2024 17:16]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 8.4.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 36.2.
+[08/16/2024 17:16]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 8.2.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 36.4.
+[08/16/2024 17:16]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 8.0.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 36.6.
+[08/16/2024 17:16]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:16]  Requiesce: Legendary Backstabber
+[08/16/2024 17:16]  Requiesce: Lord Requiesce
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 7.8.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 36.8.
+[08/16/2024 17:16]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:16]  System: Snooping skillgain: 100%
+[08/16/2024 17:16]  System: Your skill in Meditation has decreased by 0.2.  It is now 7.6.
+[08/16/2024 17:16]  System: Your skill in Snooping has increased by 0.2.  It is now 37.0.
+[08/16/2024 17:16]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:17]  System: Snooping skillgain: 100%
+[08/16/2024 17:17]  System: Your skill in Meditation has decreased by 0.2.  It is now 7.4.
+[08/16/2024 17:17]  System: Your skill in Snooping has increased by 0.2.  It is now 37.2.
+[08/16/2024 17:17]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:17]  System: Snooping skillgain: 100%
+[08/16/2024 17:17]  System: Your skill in Meditation has decreased by 0.2.  It is now 7.2.
+[08/16/2024 17:17]  System: Your skill in Snooping has increased by 0.2.  It is now 37.4.
+[08/16/2024 17:17]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:17]  System: Snooping skillgain: 100%
+[08/16/2024 17:17]  System: Your skill in Meditation has decreased by 0.2.  It is now 7.0.
+[08/16/2024 17:17]  System: Your skill in Snooping has increased by 0.2.  It is now 37.6.
+[08/16/2024 17:17]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:17]  System: Snooping skillgain: 100%
+[08/16/2024 17:17]  System: Your skill in Meditation has decreased by 0.2.  It is now 6.8.
+[08/16/2024 17:17]  System: Your skill in Snooping has increased by 0.2.  It is now 37.8.
+[08/16/2024 17:17]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:17]  System: Snooping skillgain: 100%
+[08/16/2024 17:17]  System: Your skill in Meditation has decreased by 0.2.  It is now 6.6.
+[08/16/2024 17:17]  System: Your skill in Snooping has increased by 0.2.  It is now 38.0.
+[08/16/2024 17:17]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:17]  System: Snooping skillgain: 100%
+[08/16/2024 17:17]  System: Your skill in Meditation has decreased by 0.2.  It is now 6.4.
+[08/16/2024 17:17]  System: Your skill in Snooping has increased by 0.2.  It is now 38.2.
+[08/16/2024 17:17]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:17]  System: Snooping skillgain: 100%
+[08/16/2024 17:17]  System: Your skill in Meditation has decreased by 0.2.  It is now 6.2.
+[08/16/2024 17:17]  System: Your skill in Snooping has increased by 0.2.  It is now 38.4.
+[08/16/2024 17:17]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:17]  System: Snooping skillgain: 100%
+[08/16/2024 17:17]  System: Your skill in Meditation has decreased by 0.2.  It is now 6.0.
+[08/16/2024 17:17]  System: Your skill in Snooping has increased by 0.2.  It is now 38.6.
+[08/16/2024 17:17]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:17]  System: Snooping skillgain: 100%
+[08/16/2024 17:17]  System: Your skill in Meditation has decreased by 0.2.  It is now 5.8.
+[08/16/2024 17:17]  System: Your skill in Snooping has increased by 0.2.  It is now 38.8.
+[08/16/2024 17:17]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 5.6.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 39.0.
+[08/16/2024 17:18]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:18]  Zombie Ice: Zombie Ice
+[08/16/2024 17:18]  Zombie Ice: Zombie Ice
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 5.4.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 39.2.
+[08/16/2024 17:18]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:18]  Zombie Ice: Zombie Ice
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 5.2.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 39.4.
+[08/16/2024 17:18]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 5.0.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 39.6.
+[08/16/2024 17:18]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 4.8.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 39.8.
+[08/16/2024 17:18]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 4.6.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 40.0.
+[08/16/2024 17:18]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 4.4.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 40.2.
+[08/16/2024 17:18]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 4.2.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 40.4.
+[08/16/2024 17:18]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 4.0.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 40.6.
+[08/16/2024 17:18]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:18]  System: Snooping skillgain: 100%
+[08/16/2024 17:18]  System: Your skill in Meditation has decreased by 0.2.  It is now 3.8.
+[08/16/2024 17:18]  System: Your skill in Snooping has increased by 0.2.  It is now 40.8.
+[08/16/2024 17:18]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 3.6.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 41.0.
+[08/16/2024 17:19]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 3.4.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 41.2.
+[08/16/2024 17:19]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 3.2.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 41.4.
+[08/16/2024 17:19]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 3.0.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 41.6.
+[08/16/2024 17:19]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 2.8.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 41.8.
+[08/16/2024 17:19]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 2.6.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 42.0.
+[08/16/2024 17:19]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 2.4.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 42.2.
+[08/16/2024 17:19]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 2.2.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 42.4.
+[08/16/2024 17:19]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 2.0.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 42.6.
+[08/16/2024 17:19]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:19]  System: Snooping skillgain: 100%
+[08/16/2024 17:19]  System: Your skill in Meditation has decreased by 0.2.  It is now 1.8.
+[08/16/2024 17:19]  System: Your skill in Snooping has increased by 0.2.  It is now 42.8.
+[08/16/2024 17:19]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  System: Your skill in Meditation has decreased by 0.2.  It is now 1.6.
+[08/16/2024 17:20]  System: Your skill in Snooping has increased by 0.2.  It is now 43.0.
+[08/16/2024 17:20]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  System: Your skill in Meditation has decreased by 0.2.  It is now 1.4.
+[08/16/2024 17:20]  System: Your skill in Snooping has increased by 0.2.  It is now 43.2.
+[08/16/2024 17:20]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  System: Your skill in Meditation has decreased by 0.2.  It is now 1.2.
+[08/16/2024 17:20]  System: Your skill in Snooping has increased by 0.2.  It is now 43.4.
+[08/16/2024 17:20]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  System: Your skill in Meditation has decreased by 0.2.  It is now 1.0.
+[08/16/2024 17:20]  System: Your skill in Snooping has increased by 0.2.  It is now 43.6.
+[08/16/2024 17:20]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  System: Your skill in Meditation has decreased by 0.2.  It is now 0.8.
+[08/16/2024 17:20]  System: Your skill in Snooping has increased by 0.2.  It is now 43.8.
+[08/16/2024 17:20]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:20]  a crow: a crow
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  System: Your skill in Meditation has decreased by 0.2.  It is now 0.6.
+[08/16/2024 17:20]  System: Your skill in Snooping has increased by 0.2.  It is now 44.0.
+[08/16/2024 17:20]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:20]  System: Roland has completed the achievement: Tradesman Union Initiate.
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  System: Your skill in Meditation has decreased by 0.2.  It is now 0.4.
+[08/16/2024 17:20]  System: Your skill in Snooping has increased by 0.2.  It is now 44.2.
+[08/16/2024 17:20]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:20]  System: Heads or Tailors has completed the achievement: Order of Armorers Initiate.
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  System: Your skill in Meditation has decreased by 0.2.  It is now 0.2.
+[08/16/2024 17:20]  System: Your skill in Snooping has increased by 0.2.  It is now 44.4.
+[08/16/2024 17:20]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:20]  System: Aldwin Thorne has completed the achievement: Alchemist (Basic).
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  System: Your skill in Meditation has decreased by 0.2.  It is now 0.0.
+[08/16/2024 17:20]  System: Your skill in Snooping has increased by 0.2.  It is now 44.6.
+[08/16/2024 17:20]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:20]  System: Snooping skillgain: 100%
+[08/16/2024 17:20]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:21]  System: Fishing Tism has completed the achievement: Trawler (Basic).
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:21]  a hind: a hind
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:21]  System: The Colector has completed the achievement: Affluent (Basic).
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:21]  a grizzly bear: a grizzly bear
+[08/16/2024 17:21]  a crow: a crow
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:21]  System: Snooping skillgain: 100%
+[08/16/2024 17:21]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:22]  System: Da Moa has completed the achievement: Boss Slayer (Advanced).
+[08/16/2024 17:22]  System: Skimmelsvamp has completed the achievement: Wilderness Hunter (Advanced).
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:22]  a crow: a crow
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:22]  System: Mady has completed the achievement: Aspect Mastery (Basic).
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:22]  System: Snooping skillgain: 100%
+[08/16/2024 17:22]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:23]  System: Snooping skillgain: 100%
+[08/16/2024 17:23]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:23]  System: Snooping skillgain: 100%
+[08/16/2024 17:23]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:23]  System: Snooping skillgain: 100%
+[08/16/2024 17:23]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:23]  System: Snooping skillgain: 100%
+[08/16/2024 17:23]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:23]  System: Snooping skillgain: 100%
+[08/16/2024 17:23]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:23]  System: Snooping skillgain: 100%
+[08/16/2024 17:23]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:23]  System: Snooping skillgain: 100%
+[08/16/2024 17:23]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:23]  a horse: a horse
+[08/16/2024 17:23]  System: Snooping skillgain: 100%
+[08/16/2024 17:23]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:23]  System: Snooping skillgain: 100%
+[08/16/2024 17:23]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:24]  System: Snooping skillgain: 100%
+[08/16/2024 17:24]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:24]  System: Snooping skillgain: 100%
+[08/16/2024 17:24]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:24]  System: The world will save in 15 seconds.
+[08/16/2024 17:24]  System: Snooping skillgain: 100%
+[08/16/2024 17:24]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:24]  a crow: a crow
+[08/16/2024 17:24]  System: Snooping skillgain: 100%
+[08/16/2024 17:24]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:24]  System: Snooping skillgain: 100%
+[08/16/2024 17:24]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:24]  System: The world is saving, please wait.
+[08/16/2024 17:24]  System: World save complete. The entire process took 2.6 seconds.
+[08/16/2024 17:24]  System: You must wait another moment before using the stealing skill.
+[08/16/2024 17:24]  System: Snooping skillgain: 100%
+[08/16/2024 17:24]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:24]  System: Snooping skillgain: 100%
+[08/16/2024 17:24]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:24]  System: Snooping skillgain: 100%
+[08/16/2024 17:24]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:24]  System: Snooping skillgain: 100%
+[08/16/2024 17:24]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:25]  System: Kali Yuga has completed the achievement: Pirate (Epic).
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:25]  a horse: a horse
+[08/16/2024 17:25]  System: Snooping skillgain: 100%
+[08/16/2024 17:25]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:26]  a horse: a horse
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:26]  System: Snooping skillgain: 100%
+[08/16/2024 17:26]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:27]  System: Alsiel has completed the achievement: Guardian of Kraul Hive (Intermediate).
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:27]  System: Mapahontas has completed the achievement: Order of Armorers Associate.
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:27]  System: Snooping skillgain: 100%
+[08/16/2024 17:27]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:28]  System: Busty Crustacean has completed the achievement: Order of Armorers Initiate.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:28]  System: Snooping skillgain: 100%
+[08/16/2024 17:28]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:29]  System: Snooping skillgain: 100%
+[08/16/2024 17:29]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:29]  System: Snooping skillgain: 100%
+[08/16/2024 17:29]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:29]  System: Snooping skillgain: 100%
+[08/16/2024 17:29]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:29]  System: Snooping skillgain: 100%
+[08/16/2024 17:29]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:29]  System: Snooping skillgain: 100%
+[08/16/2024 17:29]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:29]  System: Theren Ashcroft has completed the achievement: Scribe (Basic).
+[08/16/2024 17:29]  System: Snooping skillgain: 100%
+[08/16/2024 17:29]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:29]  System: Snooping skillgain: 100%
+[08/16/2024 17:29]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:29]  System: Snooping skillgain: 100%
+[08/16/2024 17:29]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:29]  a mixologist: Monster Hunter Initiate
+[08/16/2024 17:29]  a mixologist: a mixologist
+[08/16/2024 17:29]  a crow: a crow
+[08/16/2024 17:29]  System: Snooping skillgain: 100%
+[08/16/2024 17:29]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:30]  System: The Ratter Day Saints (RAT) guild has reached prestige level 360.
+[08/16/2024 17:30]  System: Lag Are Great (LAG!) guild has reached prestige level 35.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:30]  System: Snooping skillgain: 100%
+[08/16/2024 17:30]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:31]  System: Snooping skillgain: 100%
+[08/16/2024 17:31]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:32]  System: Kabanche has completed the achievement: Connoisseur (Advanced).
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:32]  System: Snooping skillgain: 100%
+[08/16/2024 17:32]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:33]  System: OstarDD has completed the achievement: Summoning (Basic).
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:33]  System: Snooping skillgain: 100%
+[08/16/2024 17:33]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:34]  Slippery Jane: Kraul Hive Guardian
+[08/16/2024 17:34]  Slippery Jane: [Ripe, SQzD]
+[08/16/2024 17:34]  Slippery Jane: Lady Slippery Jane
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:34]  System: Ulisse has completed the achievement: Guardian of Time (Basic).
+[08/16/2024 17:34]  System: Snooping skillgain: 100%
+[08/16/2024 17:34]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:35]  System: Snooping skillgain: 100%
+[08/16/2024 17:35]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:35]  System: Snooping skillgain: 100%
+[08/16/2024 17:35]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:35]  System: Snooping skillgain: 100%
+[08/16/2024 17:35]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:35]  System: Snooping skillgain: 100%
+[08/16/2024 17:35]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:35]  System: Snooping skillgain: 100%
+[08/16/2024 17:35]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:35]  System: Snooping skillgain: 100%
+[08/16/2024 17:35]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:35]  a hind: a hind
+[08/16/2024 17:35]  System: Snooping skillgain: 100%
+[08/16/2024 17:35]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:35]  System: Ivermectin has completed the achievement: Shipwright (Advanced).
+[08/16/2024 17:35]  System: Snooping skillgain: 100%
+[08/16/2024 17:35]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:35]  System: Snooping skillgain: 100%
+[08/16/2024 17:35]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:36]  System: Night Star has completed the achievement: Enchanter (Basic).
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:36]  a horse: a horse
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:36]  System: Snooping skillgain: 100%
+[08/16/2024 17:36]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:37]  System: Pat Agonia has completed the achievement: Scribe (Basic).
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:37]  sapito: Legendary Tomb Raider
+[08/16/2024 17:37]  sapito: sapito
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:37]  System: Snooping skillgain: 100%
+[08/16/2024 17:37]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:38]  System: Joao Brazuca has completed the achievement: Tailor (Basic).
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:38]  Roan Moonglow: Maester
+[08/16/2024 17:38]  Roan Moonglow: Lord Roan Moonglow
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:38]  System: The world will save in 15 seconds.
+[08/16/2024 17:38]  System: Snooping skillgain: 100%
+[08/16/2024 17:38]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:39]  System: Snooping skillgain: 100%
+[08/16/2024 17:39]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:39]  System: Snooping skillgain: 100%
+[08/16/2024 17:39]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:39]  System: The world is saving, please wait.
+[08/16/2024 17:39]  System: World save complete. The entire process took 2.6 seconds.
+[08/16/2024 17:39]  System: You must wait another moment before using the stealing skill.
+[08/16/2024 17:39]  System: Snooping skillgain: 100%
+[08/16/2024 17:39]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:39]  System: Snooping skillgain: 100%
+[08/16/2024 17:39]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:39]  System: Snooping skillgain: 100%
+[08/16/2024 17:39]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:39]  System: Snooping skillgain: 100%
+[08/16/2024 17:39]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:39]  System: Snooping skillgain: 100%
+[08/16/2024 17:39]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:39]  System: Snooping skillgain: 100%
+[08/16/2024 17:39]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:39]  System: Snooping skillgain: 100%
+[08/16/2024 17:39]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:40]  a crow: a crow
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:40]  sapito: Legendary Tomb Raider
+[08/16/2024 17:40]  sapito: sapito
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:40]  System: Snooping skillgain: 100%
+[08/16/2024 17:40]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:41]  System: Mogs Artificer has completed the achievement: Enchanter (Advanced).
+[08/16/2024 17:41]  System: Snooping skillgain: 100%
+[08/16/2024 17:41]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:41]  a hind: a hind
+[08/16/2024 17:41]  System: Snooping skillgain: 100%
+[08/16/2024 17:41]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:41]  System: Snooping skillgain: 100%
+[08/16/2024 17:41]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:41]  Cinder Willowood: Legendary Prospector
+[08/16/2024 17:41]  Cinder Willowood: [No Panties, L%C]
+[08/16/2024 17:41]  Cinder Willowood: Cinder Willowood
+[08/16/2024 17:41]  System: Snooping skillgain: 100%
+[08/16/2024 17:41]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:41]  System: Snooping skillgain: 100%
+[08/16/2024 17:41]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:41]  System: Snooping skillgain: 100%
+[08/16/2024 17:41]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:41]  System: Snooping skillgain: 100%
+[08/16/2024 17:41]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:41]  System: Snooping skillgain: 100%
+[08/16/2024 17:41]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:41]  Cinder Willowood: Legendary Prospector
+[08/16/2024 17:41]  Cinder Willowood: [No Panties, L%C]
+[08/16/2024 17:41]  Cinder Willowood: Cinder Willowood
+[08/16/2024 17:41]  System: Staff message from Owyn:
+[08/16/2024 17:41]  System: In anticipation of the Kings Faire, a new Raffle is now available at Prevalia Town Square for a blessed pair of Diaphanous Wings in the hue of your choice, from all available hues.
+[08/16/2024 17:41]  System: Snooping skillgain: 100%
+[08/16/2024 17:41]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:41]  System: Staff message from Owyn:
+[08/16/2024 17:41]  System: 5 Winners will be Drawn in the Raffle, meaning there will only ever be 5 pairs of Diaphanous Wings on the shard!
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:42]  Slippery Jane: Kraul Hive Guardian
+[08/16/2024 17:42]  Slippery Jane: [Ripe, SQzD]
+[08/16/2024 17:42]  Slippery Jane: Lady Slippery Jane
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:42]  System: Snooping skillgain: 100%
+[08/16/2024 17:42]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:43]  a crow: a crow
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:43]  : grass
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:43]  a crow: a crow
+[08/16/2024 17:43]  a hind: a hind
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:43]  System: Filia Ul Copt has completed the achievement: Guardian of Ossuary (Basic).
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:43]  System: Snooping skillgain: 100%
+[08/16/2024 17:43]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:43]  System: Jackinon has completed the achievement: Alchemist (Basic).
+[08/16/2024 17:44]  System: Curumo has completed the achievement: Transmutation (Advanced).
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:44]  System: Snooping skillgain: 100%
+[08/16/2024 17:44]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:45]  System: [CCC] A Corpse Creek Contest will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:45]  System: Snooping skillgain: 100%
+[08/16/2024 17:45]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:46]  System: Snooping skillgain: 100%
+[08/16/2024 17:46]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:46]  System: Snooping skillgain: 100%
+[08/16/2024 17:46]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:46]  System: Snooping skillgain: 100%
+[08/16/2024 17:46]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:46]  System: Snooping skillgain: 100%
+[08/16/2024 17:46]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:46]  a crow: a crow
+[08/16/2024 17:46]  System: Snooping skillgain: 100%
+[08/16/2024 17:46]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:46]  System: Snooping skillgain: 100%
+[08/16/2024 17:46]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:46]  Sky Dragon: Sky Dragon
+[08/16/2024 17:46]  System: Snooping skillgain: 100%
+[08/16/2024 17:46]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:46]  Sky Dragon: Sky Dragon
+[08/16/2024 17:46]  System: Snooping skillgain: 100%
+[08/16/2024 17:46]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:46]  System: Snooping skillgain: 100%
+[08/16/2024 17:46]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:46]  System: SaveMe Crater has completed the achievement: Order of Armorers Associate.
+[08/16/2024 17:47]  System: Snooping skillgain: 100%
+[08/16/2024 17:47]  : You successfully avoid disturbing the dip while searching it.
+[08/16/2024 17:47]  System: Snooping skillgain: 100%
+[08/16/2024 17:47]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:47]  System: Snooping skillgain: 100%
+[08/16/2024 17:47]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:47]  Damarli Keko: Damarli Keko
+[08/16/2024 17:47]  System: Snooping skillgain: 100%
+[08/16/2024 17:47]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:47]  System: Snooping skillgain: 100%
+[08/16/2024 17:47]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:47]  System: Snooping skillgain: 100%
+[08/16/2024 17:47]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:47]  System: Vyre has completed the achievement: Culinary Savvy (Basic).
+[08/16/2024 17:47]  System: Snooping skillgain: 100%
+[08/16/2024 17:47]  : You carelessly bump the dip and start it swinging.
+[08/16/2024 17:47]  System: Click again to reset your points distribution.
+[08/16/2024 17:47]  System: Points distribution reset.
+[08/16/2024 17:47]  System: Player can use up to (33 / 66 / 100) points of printed Hiding skill in place of Snooping skill when Pilfering or Mugging creatures.
+[08/16/2024 17:47]  Sky Dragon: Sky Dragon
+[08/16/2024 17:47]  System: You increase the upgrade's tier.
+[08/16/2024 17:47]  System: You increase the upgrade's tier.
+[08/16/2024 17:47]  System: You do not have enough points remaining to increase that upgrade tier.
+[08/16/2024 17:47]  System: You do not have enough points remaining to increase that upgrade tier.
+[08/16/2024 17:47]  System: You do not have enough points remaining to increase that upgrade tier.
+[08/16/2024 17:48]  System: You fail to ignite the campfire.
+[08/16/2024 17:48]  a crow: a crow
+[08/16/2024 17:48]  System: You must wait a few moments before attempting to create another campfire.
+[08/16/2024 17:48]  System: You must wait a few moments before attempting to create another campfire.
+[08/16/2024 17:48]  System: You must wait a few moments before attempting to create another campfire.
+[08/16/2024 17:48]  System: You must wait a few moments before attempting to create another campfire.
+[08/16/2024 17:48]  System: You fail to ignite the campfire.
+[08/16/2024 17:48]  You see: world atlas
+[08/16/2024 17:48]  You see: [blessed]
+[08/16/2024 17:48]  System: Your campfire is now secure.
+[08/16/2024 17:48]  a grizzly bear: a grizzly bear
+[08/16/2024 17:48]  System: You begin hiking to your destination.
+[08/16/2024 17:48]  Jaimito: *hiking to destination*
+[08/16/2024 17:48]  Jaimito: *hiking to destination*
+[08/16/2024 17:48]  Jaimito: *hiking to destination*
+[08/16/2024 17:48]  System: You hike to your destination.
+[08/16/2024 17:48]  Jaimito: *You have arrived at your destination*
+[08/16/2024 17:48]  System: You are no longer hindered.
+[08/16/2024 17:48]  You see: a goblin corpse
+[08/16/2024 17:48]  a goblin: a goblin
+[08/16/2024 17:48]  a gremlin: a gremlin
+[08/16/2024 17:49]  You see: a goblin corpse
+[08/16/2024 17:49]  Jaimito: An Lor Xen
+[08/16/2024 17:49]  Razor: Target: Jaimito
+[08/16/2024 17:49]  System: Magery skillgain: 8.333%
+[08/16/2024 17:49]  [Razor]: Target a new 'Last Target'
+[08/16/2024 17:49]  Razor: Target: a gremlin
+[08/16/2024 17:49]  [Razor]: Last Target set.
+[08/16/2024 17:49]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:49]  You see: a goblin corpse
+[08/16/2024 17:49]  a goblin: a goblin
+[08/16/2024 17:49]  [Razor]: Target a new 'Last Target'
+[08/16/2024 17:49]  Razor: Target: a goblin
+[08/16/2024 17:49]  [Razor]: Last Target set.
+[08/16/2024 17:49]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:49]  Razor: [Stealth Ready]
+[08/16/2024 17:49]  System: Which item will you attempt to steal?
+[08/16/2024 17:49]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:49]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:49]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:49]  You see: a gremlin corpse
+[08/16/2024 17:49]  System: Snooping skillgain: 13.889%
+[08/16/2024 17:49]  Jaimito: You steal 17 gold coin.
+[08/16/2024 17:49]  System: You steal 17 gold coin.
+[08/16/2024 17:49]  System: You have lost a little karma.
+[08/16/2024 17:49]  an effigy: an effigy
+[08/16/2024 17:49]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:49]  an aegis mongbat: an aegis mongbat
+[08/16/2024 17:49]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:49]  Jaimito: An Lor Xen
+[08/16/2024 17:49]  Razor: Target: Jaimito
+[08/16/2024 17:49]  System: Magery skillgain: 8.333%
+[08/16/2024 17:49]  You see: unidentified bone chest
+[08/16/2024 17:49]  Jaimito: An Lor Xen
+[08/16/2024 17:49]  System: Magery skillgain: 8.333%
+[08/16/2024 17:49]  an aegis slime: an aegis slime
+[08/16/2024 17:49]  Jaimito: An Lor Xen
+[08/16/2024 17:49]  System: Magery skillgain: 8.333%
+[08/16/2024 17:49]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:49]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:49]  Razor: [Stealth Ready]
+[08/16/2024 17:49]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:49]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:49]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:49]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:49]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:49]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:49]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 8 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 7 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 6 stealth steps remaining.
+[08/16/2024 17:50]  an aegis minion: an aegis minion
+[08/16/2024 17:50]  System: You have 5 stealth steps remaining.
+[08/16/2024 17:50]  Razor: [Steps]
+[08/16/2024 17:50]  System: You have 4 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 3 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 2 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 1 stealth steps remaining.
+[08/16/2024 17:50]  Guybrushi: [Hat nen goldenen Drachen, DoS]
+[08/16/2024 17:50]  Guybrushi: Guybrushi
+[08/16/2024 17:50]  System: You have 0 stealth steps remaining.
+[08/16/2024 17:50]  Razor: [STOP]
+[08/16/2024 17:50]  a sun wyrmling: (bonded)
+[08/16/2024 17:50]  a sun wyrmling: a sun wyrmling
+[08/16/2024 17:50]  SunniTanki: (bonded)
+[08/16/2024 17:50]  SunniTanki: SunniTanki
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You feel ready to continue stealthing.
+[08/16/2024 17:50]  System: Which item will you attempt to steal?
+[08/16/2024 17:50]  Razor: [Stealth]
+[08/16/2024 17:50]  Razor: [Last Target]
+[08/16/2024 17:50]  a goblin: a goblin
+[08/16/2024 17:50]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:50]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:50]  an aegis slime: an aegis slime
+[08/16/2024 17:50]  Razor: Target: an aegis mongbat
+[08/16/2024 17:50]  System: Snooping skillgain: 13.889%
+[08/16/2024 17:50]  Jaimito: You steal 18 gold coin.
+[08/16/2024 17:50]  System: You steal 18 gold coin.
+[08/16/2024 17:50]  System: You have lost a little karma.
+[08/16/2024 17:50]  Jaimito: An Lor Xen
+[08/16/2024 17:50]  Razor: Target: Jaimito
+[08/16/2024 17:50]  System: Magery skillgain: 8.333%
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:50]  You see: golden moongate
+[08/16/2024 17:50]  You see: (leads to towns)
+[08/16/2024 17:50]  You see: [players may recall and gate near this]
+[08/16/2024 17:50]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:50]  Razor: [Stealth Ready]
+[08/16/2024 17:50]  [Razor]: Target a new 'Last Target'
+[08/16/2024 17:50]  Razor: Target: an effigy
+[08/16/2024 17:50]  [Razor]: Last Target set.
+[08/16/2024 17:50]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:50]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:50]  System: FunkasaurusWrex has completed the achievement: Versatility (Basic).
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You have 8 stealth steps remaining.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You have 7 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 6 stealth steps remaining.
+[08/16/2024 17:50]  System: You have 5 stealth steps remaining.
+[08/16/2024 17:50]  Razor: [Steps]
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You have 4 stealth steps remaining.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: You will automatically stealth when out of steps.
+[08/16/2024 17:50]  Razor: [Continue Stealth]
+[08/16/2024 17:50]  System: You have 3 stealth steps remaining.
+[08/16/2024 17:50]  System: Which item will you attempt to steal?
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  System: Snooping skillgain: 13.889%
+[08/16/2024 17:50]  Jaimito: You steal 28 gold coin.
+[08/16/2024 17:50]  System: You steal 28 gold coin.
+[08/16/2024 17:50]  System: You have lost a little karma.
+[08/16/2024 17:50]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:50]  a goblin: a goblin
+[08/16/2024 17:50]  Shnaps: [Ripe, SQzD]
+[08/16/2024 17:50]  Shnaps: Shnaps
+[08/16/2024 17:50]  a gremlin: a gremlin
+[08/16/2024 17:50]  a goblin: a goblin
+[08/16/2024 17:50]  a chaos footman: a chaos footman
+[08/16/2024 17:50]  a goblin: a goblin
+[08/16/2024 17:51]  Razor: [Last Target]
+[08/16/2024 17:51]  an effigy: an effigy
+[08/16/2024 17:51]  a blood ape: a blood ape
+[08/16/2024 17:51]  an aegis minion: an aegis minion
+[08/16/2024 17:51]  a goblin: a goblin
+[08/16/2024 17:51]  a blood ape: a blood ape
+[08/16/2024 17:51]  an aegis slime: an aegis slime
+[08/16/2024 17:51]  Razor: [Last Target]
+[08/16/2024 17:51]  an effigy: an effigy
+[08/16/2024 17:51]  an aegis slime: an aegis slime
+[08/16/2024 17:51]  an aegis rat: an aegis rat
+[08/16/2024 17:51]  a goblin: a goblin
+[08/16/2024 17:51]  a goblin: a goblin
+[08/16/2024 17:51]  You see: a goblin corpse
+[08/16/2024 17:51]  an aegis rat: an aegis rat
+[08/16/2024 17:51]  a gremlin: a gremlin
+[08/16/2024 17:51]  an aegis slime: an aegis slime
+[08/16/2024 17:51]  Jaimito: An Lor Xen
+[08/16/2024 17:51]  Razor: Target: Jaimito
+[08/16/2024 17:51]  System: Magery skillgain: 8.333%
+[08/16/2024 17:51]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:51]  [Razor]: Target a new 'Last Target'
+[08/16/2024 17:51]  Razor: Target: an aegis slime
+[08/16/2024 17:51]  [Razor]: Last Target set.
+[08/16/2024 17:51]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:51]  Razor: [Stealth Ready]
+[08/16/2024 17:51]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:51]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 8 stealth steps remaining.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You have 7 stealth steps remaining.
+[08/16/2024 17:51]  a wolfhound: a wolfhound
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You have 6 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 5 stealth steps remaining.
+[08/16/2024 17:51]  Razor: [Steps]
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You have 4 stealth steps remaining.
+[08/16/2024 17:51]  a goblin: a goblin
+[08/16/2024 17:51]  System: You have 3 stealth steps remaining.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You will automatically stealth when out of steps.
+[08/16/2024 17:51]  Razor: [Continue Stealth]
+[08/16/2024 17:51]  System: Which item will you attempt to steal?
+[08/16/2024 17:51]  System: Snooping skillgain: 13.889%
+[08/16/2024 17:51]  Jaimito: You steal 38 gold coin.
+[08/16/2024 17:51]  System: You steal 38 gold coin.
+[08/16/2024 17:51]  System: You have lost a little karma.
+[08/16/2024 17:51]  an aegis mongbat: an aegis mongbat
+[08/16/2024 17:51]  a goblin: a goblin
+[08/16/2024 17:51]  a kobold: a kobold
+[08/16/2024 17:51]  a kobold: a kobold
+[08/16/2024 17:51]  a wolfhound: a wolfhound
+[08/16/2024 17:51]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:51]  [Razor]: Target a new 'Last Target'
+[08/16/2024 17:51]  Razor: Target: an aegis mongbat
+[08/16/2024 17:51]  [Razor]: Last Target set.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: A PK IN RL has completed the achievement: Artificer (Basic).
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:51]  System: Which item will you attempt to steal?
+[08/16/2024 17:51]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:51]  Razor: [Stealth Ready]
+[08/16/2024 17:51]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:51]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:51]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:51]  System: Snooping skillgain: 13.889%
+[08/16/2024 17:51]  Jaimito: You steal 19 gold coin.
+[08/16/2024 17:51]  System: You steal 19 gold coin.
+[08/16/2024 17:51]  System: You have lost a little karma.
+[08/16/2024 17:51]  an aegis slime: an aegis slime
+[08/16/2024 17:51]  an aegis rat: an aegis rat
+[08/16/2024 17:51]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:52]  Jaimito: An Lor Xen
+[08/16/2024 17:52]  System: CaBert Smitherin has completed the achievement: Leatherworker (Advanced).
+[08/16/2024 17:52]  Razor: Target: Jaimito
+[08/16/2024 17:52]  System: Magery skillgain: 8.333%
+[08/16/2024 17:52]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:52]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:52]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:52]  Razor: [Stealth Ready]
+[08/16/2024 17:52]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:52]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:52]  a wolfhound: a wolfhound
+[08/16/2024 17:52]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 8 stealth steps remaining.
+[08/16/2024 17:52]  a goblin: a goblin
+[08/16/2024 17:52]  a goblin: a goblin
+[08/16/2024 17:52]  System: You have 7 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 6 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 5 stealth steps remaining.
+[08/16/2024 17:52]  Razor: [Steps]
+[08/16/2024 17:52]  System: You have 4 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 3 stealth steps remaining.
+[08/16/2024 17:52]  an aegis slime: an aegis slime
+[08/16/2024 17:52]  System: You have 2 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 1 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 0 stealth steps remaining.
+[08/16/2024 17:52]  Razor: [STOP]
+[08/16/2024 17:52]  System: You feel ready to continue stealthing.
+[08/16/2024 17:52]  Razor: [Stealth]
+[08/16/2024 17:52]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:52]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 8 stealth steps remaining.
+[08/16/2024 17:52]  an aegis rat: an aegis rat
+[08/16/2024 17:52]  System: You have 7 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 6 stealth steps remaining.
+[08/16/2024 17:52]  an aegis rat: an aegis rat
+[08/16/2024 17:52]  an aegis rat: an aegis rat
+[08/16/2024 17:52]  System: Shnaps has completed the achievement: Guardian of Aegis Keep (Basic).
+[08/16/2024 17:52]  System: You have 5 stealth steps remaining.
+[08/16/2024 17:52]  Razor: [Steps]
+[08/16/2024 17:52]  System: You have 4 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 3 stealth steps remaining.
+[08/16/2024 17:52]  System: It appears to be locked.
+[08/16/2024 17:52]  System: You attempt to remove traps.
+[08/16/2024 17:52]  an aegis slime: an aegis slime
+[08/16/2024 17:52]  System: You make some progress towards clearing it of traps. (53%)
+[08/16/2024 17:52]  System: You continue to remove traps.
+[08/16/2024 17:52]  System: You will automatically stealth when out of steps.
+[08/16/2024 17:52]  Razor: [Continue Stealth]
+[08/16/2024 17:52]  System: You make some progress towards clearing it of traps. (93%)
+[08/16/2024 17:52]  System: You continue to remove traps.
+[08/16/2024 17:52]  System: You have successfully cleared it of traps.
+[08/16/2024 17:52]  System: You attempt to pick the lock.
+[08/16/2024 17:52]  System: You make some progress on the lock. (53%)
+[08/16/2024 17:52]  System: You continue to pick the lock.
+[08/16/2024 17:52]  System: You make some progress on the lock. (94%)
+[08/16/2024 17:52]  System: You continue to pick the lock.
+[08/16/2024 17:52]  System: You have gained a good amount of fame.
+[08/16/2024 17:52]  System: You successfully pick the lock.
+[08/16/2024 17:52]  You see: gold coin : 299
+[08/16/2024 17:52]  System: You have 2 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 1 stealth steps remaining.
+[08/16/2024 17:52]  System: You have 0 stealth steps remaining.
+[08/16/2024 17:52]  System: You feel ready to continue stealthing.
+[08/16/2024 17:52]  Razor: [STOP]
+[08/16/2024 17:52]  Razor: [Stealth]
+[08/16/2024 17:53]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:53]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:53]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:53]  [Razor]: Target a new 'Last Target'
+[08/16/2024 17:53]  Razor: Target: a wolfhound
+[08/16/2024 17:53]  [Razor]: Last Target set.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  an aegis rat: an aegis rat
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You will automatically stealth when out of steps.
+[08/16/2024 17:53]  System: Which item will you attempt to steal?
+[08/16/2024 17:53]  Razor: [Continue Stealth]
+[08/16/2024 17:53]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:53]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:53]  an aegis rat: an aegis rat
+[08/16/2024 17:53]  System: Snooping skillgain: 13.889%
+[08/16/2024 17:53]  Jaimito: You steal 44 gold coin.
+[08/16/2024 17:53]  System: You steal 44 gold coin.
+[08/16/2024 17:53]  System: You have lost a little karma.
+[08/16/2024 17:53]  a kobold: a kobold
+[08/16/2024 17:53]  an aegis mongbat: an aegis mongbat
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  a wolfhound: a wolfhound
+[08/16/2024 17:53]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:53]  System: Bampeiyu has completed the achievement: Monstrous Slayer (Basic).
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:53]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:53]  Razor: [Stealth Ready]
+[08/16/2024 17:53]  System: Which item will you attempt to steal?
+[08/16/2024 17:53]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:53]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:53]  a kobold: a kobold
+[08/16/2024 17:53]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:53]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:53]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:53]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:53]  a kobold: a kobold
+[08/16/2024 17:53]  a goblin: a goblin
+[08/16/2024 17:53]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:53]  System: You have 8 stealth steps remaining.
+[08/16/2024 17:53]  System: You have 7 stealth steps remaining.
+[08/16/2024 17:53]  System: You have 6 stealth steps remaining.
+[08/16/2024 17:53]  System: The NorthFace has completed the achievement: Leatherworker (Basic).
+[08/16/2024 17:53]  Razor: Target: a kobold
+[08/16/2024 17:53]  System: Snooping skillgain: 13.889%
+[08/16/2024 17:53]  Jaimito: You steal 46 gold coin.
+[08/16/2024 17:53]  System: You steal 46 gold coin.
+[08/16/2024 17:53]  System: You have lost a little karma.
+[08/16/2024 17:53]  an aegis minion: an aegis minion
+[08/16/2024 17:53]  Jaimito: An Lor Xen
+[08/16/2024 17:53]  Razor: Target: Jaimito
+[08/16/2024 17:53]  System: Magery skillgain: 8.333%
+[08/16/2024 17:53]  a goblin: a goblin
+[08/16/2024 17:53]  a kobold: a kobold
+[08/16/2024 17:53]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:53]  System: The world will save in 15 seconds.
+[08/16/2024 17:53]  System: It appears to be locked.
+[08/16/2024 17:53]  System: You attempt to remove traps.
+[08/16/2024 17:53]  System: You make some progress towards clearing it of traps. (48%)
+[08/16/2024 17:53]  System: You continue to remove traps.
+[08/16/2024 17:53]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:53]  Razor: [Stealth Ready]
+[08/16/2024 17:53]  System: You make some progress towards clearing it of traps. (87%)
+[08/16/2024 17:53]  System: You continue to remove traps.
+[08/16/2024 17:54]  System: You have successfully cleared it of traps.
+[08/16/2024 17:54]  System: The world is saving, please wait.
+[08/16/2024 17:54]  System: World save complete. The entire process took 2.5 seconds.
+[08/16/2024 17:54]  System: You attempt to pick the lock.
+[08/16/2024 17:54]  System: You make some progress on the lock. (47%)
+[08/16/2024 17:54]  System: You continue to pick the lock.
+[08/16/2024 17:54]  System: You make some progress on the lock. (90%)
+[08/16/2024 17:54]  System: You continue to pick the lock.
+[08/16/2024 17:54]  System: You have gained a good amount of fame.
+[08/16/2024 17:54]  System: You successfully pick the lock.
+[08/16/2024 17:54]  You see: a random spell hue deed
+[08/16/2024 17:54]  You see: (hue 1779: aegis keep)
+[08/16/2024 17:54]  You see: a random spell hue deed
+[08/16/2024 17:54]  You see: (hue 1779: aegis keep)
+[08/16/2024 17:54]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:54]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:54]  a goblin: a goblin
+[08/16/2024 17:54]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:54]  a goblin: a goblin
+[08/16/2024 17:54]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 8 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 7 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 6 stealth steps remaining.
+[08/16/2024 17:54]  a wolfhound: a wolfhound
+[08/16/2024 17:54]  System: You have 5 stealth steps remaining.
+[08/16/2024 17:54]  Razor: [Steps]
+[08/16/2024 17:54]  System: You have 4 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 3 stealth steps remaining.
+[08/16/2024 17:54]  a goblin: a goblin
+[08/16/2024 17:54]  System: You have 2 stealth steps remaining.
+[08/16/2024 17:54]  System: You will automatically stealth when out of steps.
+[08/16/2024 17:54]  Razor: [Continue Stealth]
+[08/16/2024 17:54]  System: You have 1 stealth steps remaining.
+[08/16/2024 17:54]  an aegis rat: an aegis rat
+[08/16/2024 17:54]  System: You have 0 stealth steps remaining.
+[08/16/2024 17:54]  System: You feel ready to continue stealthing.
+[08/16/2024 17:54]  Razor: [STOP]
+[08/16/2024 17:54]  Razor: [Stealth]
+[08/16/2024 17:54]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:54]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:54]  an aegis slime: an aegis slime
+[08/16/2024 17:54]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:54]  an aegis slime: an aegis slime
+[08/16/2024 17:54]  System: You have 8 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 7 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 6 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 5 stealth steps remaining.
+[08/16/2024 17:54]  Razor: [Steps]
+[08/16/2024 17:54]  System: You have 4 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 3 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 2 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 1 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 0 stealth steps remaining.
+[08/16/2024 17:54]  Razor: [STOP]
+[08/16/2024 17:54]  System: You feel ready to continue stealthing.
+[08/16/2024 17:54]  Razor: [Stealth]
+[08/16/2024 17:54]  System: You begin to move quietly. (15 steps)
+[08/16/2024 17:54]  System: You have 14 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 13 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 12 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 11 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 10 stealth steps remaining.
+[08/16/2024 17:54]  an aegis rat: an aegis rat
+[08/16/2024 17:54]  System: You have 9 stealth steps remaining.
+[08/16/2024 17:54]  an aegis rat: an aegis rat
+[08/16/2024 17:54]  System: You have 8 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 7 stealth steps remaining.
+[08/16/2024 17:54]  an aegis rat: an aegis rat
+[08/16/2024 17:54]  a gremlin: a gremlin
+[08/16/2024 17:54]  System: You have 6 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 5 stealth steps remaining.
+[08/16/2024 17:54]  Razor: [Steps]
+[08/16/2024 17:54]  an aegis slime: an aegis slime
+[08/16/2024 17:54]  System: You have 4 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 3 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 2 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 1 stealth steps remaining.
+[08/16/2024 17:54]  System: You have 0 stealth steps remaining.
+[08/16/2024 17:54]  Razor: [STOP]
+[08/16/2024 17:54]  a goblin: a goblin
+[08/16/2024 17:54]  an aegis rat: an aegis rat
+[08/16/2024 17:54]  You see: a goblin corpse
+[08/16/2024 17:54]  PitteD: [Always, RDY]
+[08/16/2024 17:54]  PitteD: PitteD
+[08/16/2024 17:54]  a drake: (bonded)
+[08/16/2024 17:54]  a drake: a drake
+[08/16/2024 17:55]  a blood ape: a blood ape
+[08/16/2024 17:55]  a blood ape: a blood ape
+[08/16/2024 17:55]  a chaos footman: a chaos footman
+[08/16/2024 17:55]  an aegis minion: an aegis minion
+[08/16/2024 17:55]  Jaimito: Rel Por
+[08/16/2024 17:55]  System: You are frozen and cannot move.
+[08/16/2024 17:55]  an aegis mongbat: an aegis mongbat
+[08/16/2024 17:55]  You see: a goblin corpse
+[08/16/2024 17:55]  a gremlin: a gremlin
+[08/16/2024 17:55]  a goblin: a goblin
+[08/16/2024 17:55]  System: Where do you wish to traverse to?
+[08/16/2024 17:55]  System: You are no longer hindered.
+[08/16/2024 17:55]  System: That is too far away.
+[08/16/2024 17:55]  System: Where do you wish to traverse to?
+[08/16/2024 17:55]  an aegis slime: an aegis slime
+[08/16/2024 17:55]  Jaimito: -17
+[08/16/2024 17:55]  System: You are no longer hindered.
+[08/16/2024 17:55]  an effigy: an effigy
+[08/16/2024 17:55]  Jaimito: Rel Por
+[08/16/2024 17:55]  System: You are frozen and cannot move.
+[08/16/2024 17:55]  System: You are frozen and cannot move.
+[08/16/2024 17:55]  System: Your reactive armor spell has expired.
+[08/16/2024 17:55]  System: Your reactive armor spell has been nullified.
+[08/16/2024 17:55]  Jaimito: -12
+[08/16/2024 17:55]  a goblin: a goblin
+[08/16/2024 17:55]  a gremlin: a gremlin
+[08/16/2024 17:55]  a gremlin: a gremlin
+[08/16/2024 17:55]  a gremlin: *readies smoke bomb*
+[08/16/2024 17:55]  Jaimito: You can't seem to hide right now.
+[08/16/2024 17:55]  System: You must wait a few moments to use another skill.
+[08/16/2024 17:55]  Jaimito: An Lor Xen
+[08/16/2024 17:55]  Jaimito: -19
+[08/16/2024 17:55]  System: Your concentration is disturbed, thus ruining thy spell.
+[08/16/2024 17:55]  System: You are now under the protection of the town guards.
+[08/16/2024 17:55]  Jaimito: Your mount returns.
+[08/16/2024 17:55]  a dog: a dog
+[08/16/2024 17:55]  a dog: a dog
+[08/16/2024 17:55]  a dog: a dog
+[08/16/2024 17:55]  Nodin: Nodin the beekeeper
+[08/16/2024 17:55]  a cat: a cat
+[08/16/2024 17:55]  a cat: a cat
+[08/16/2024 17:55]  Daniella: Daniella the miner
+[08/16/2024 17:55]  Douglass: Douglass the bowyer
+[08/16/2024 17:55]  Jaimito: In Vas Mani
+[08/16/2024 17:55]  Jaimito: +32
+[08/16/2024 17:55]  System: some damage has been healed : 32
+[08/16/2024 17:55]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:55]  System: [CCC] A Corpse Creek Contest will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[08/16/2024 17:55]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:55]  Razor: [Stealth Ready]
+[08/16/2024 17:55]  Ryann: Ryann the herbalist
+[08/16/2024 17:55]  Faifuza: Faifuza the tavern keeper
+[08/16/2024 17:55]  Diane: Diane the alchemist
+[08/16/2024 17:55]  a cat: a cat
+[08/16/2024 17:55]  Peg: Peg the waiter
+[08/16/2024 17:55]  Rigby: Rigby the alchemist
+[08/16/2024 17:55]  a dog: a dog
+[08/16/2024 17:55]  Deiene: Deiene the cook
+[08/16/2024 17:55]  Rankin: Rankin the healer
+[08/16/2024 17:55]  Austin: Austin the beggar
+[08/16/2024 17:55]  a dog: a dog
+[08/16/2024 17:55]  a cat: a cat
+[08/16/2024 17:55]  Sheba: Sheba the tinker
+[08/16/2024 17:55]  a dog: a dog
+[08/16/2024 17:55]  Megan: Megan thee Town Crier
+[08/16/2024 17:55]  Ganesa: Ganesa the banker
+[08/16/2024 17:55]  Stephan: Stephan the banker
+[08/16/2024 17:55]  Paloma: Paloma the architect
+[08/16/2024 17:55]  Becca: Becca the banker
+[08/16/2024 17:55]  Kelby: Kelby the real estate broker
+[08/16/2024 17:55]  Subrey: Subrey the scribe
+[08/16/2024 17:55]  Lana: Lana the bard
+[08/16/2024 17:55]  Austin: Austin the beggar
+[08/16/2024 17:55]  a dog: a dog
+[08/16/2024 17:55]  Jaimito: You have hidden yourself well.
+[08/16/2024 17:56]  Stephan: Stephan the banker
+[08/16/2024 17:56]  System: You feel comfortable enough to begin stealthing.
+[08/16/2024 17:56]  Razor: [Stealth Ready]
+[08/16/2024 17:56]  Jaimito: Items: 111/125
+[08/16/2024 17:56]  Jaimito: Total Weight: 2,349
+[08/16/2024 17:56]  Grumbledumps: Mugger
+[08/16/2024 17:56]  Grumbledumps: [Private, NWO]
+[08/16/2024 17:56]  Grumbledumps: Lord Grumbledumps
+[08/16/2024 17:56]  Megan: A new Raffle is now available at Prevalia Town Square for a blessed pair of Diaphanous Wings in the hue of your choice! Be one of 5 Winners!
+[08/16/2024 17:56]  System: Cosey Mo has completed the achievement: Chef (Basic).
+[08/16/2024 17:56]  System: You have unlocked a spell hue: Cure [Aegis Keep].
+[08/16/2024 17:56]  RickRolled: Wilderness Hero
+[08/16/2024 17:56]  RickRolled: [Captain, DKR]
+[08/16/2024 17:56]  RickRolled: Lord RickRolled
+[08/16/2024 17:56]  System: Sweet has completed the achievement: Artificers Enclave Initiate.
+[08/16/2024 17:57]  System: PlayerWellKnown has completed the achievement: Maester (Advanced).
+[08/16/2024 17:57]  Megan: Hear ye, hear ye! The 6th Annual Kings Faire begins on Saturday, August 24, 2024 at 11:00 AM!
+[08/16/2024 17:57]  e: (bonded)
+[08/16/2024 17:57]  e: e
+[08/16/2024 17:57]  c: (bonded)
+[08/16/2024 17:57]  c: c
+[08/16/2024 17:57]  Watatsumi: [Private First Class, TES]
+[08/16/2024 17:57]  Watatsumi: Lord Watatsumi

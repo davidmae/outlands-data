@@ -1,0 +1,26 @@
+@setvar CurrentTarget 0
+   
+while not dead 
+    
+    if not bandaging and hp < maxhp
+        hotkey "Bandage Self"
+    endif
+    wait 100
+    
+    if CurrentTarget = 0
+        hotkey 'Target Closest Grey Monster'
+        @setvar CurrentTarget lasttarget    
+        wait 500
+        attack CurrentTarget
+        wait 500
+    else
+        attack CurrentTarget
+        wait 500
+    endif
+
+    if dead CurrentTarget
+        #overhead "Target is dead" 34
+        @setvar CurrentTarget 0
+    endif
+    
+endwhile

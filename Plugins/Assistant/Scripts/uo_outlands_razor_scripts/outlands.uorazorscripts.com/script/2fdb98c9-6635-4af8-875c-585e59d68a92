@@ -1,0 +1,42 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/2fdb98c9-6635-4af8-875c-585e59d68a92 for latest
+# Automation by Jaseowns
+## Script: TasteID, Healing, Anatomy, Armslore Trainer
+## Created by: psychotics88#0
+#############################################
+
+setvar! myHealTarget
+setvar! food
+
+while not dead and not hidden
+    // Bandaging
+    if not bandaging
+        hotkey "use bandage (no timer)"
+        wft 500
+        target myHealTarget
+        wait 2000 // Pause after bandaging
+    endif
+
+    // Armslore training
+    if skill "armslore" < 100
+        useskill "armslore"
+        wft 500
+        targettype "dagger" backpack
+        wait 2000 // Pause after Armslore training
+    endif
+
+    // Anatomy training
+    if skill "anatomy" < 100
+        useskill "anatomy"
+        wft 500
+        target myHealTarget
+        wait 2000 // Pause after Anatomy training
+    endif
+
+    // Taste Identification
+    if skill "Taste Identification" < 100
+        useskill "TasteIdentification"
+        wft 500
+        target food
+        wait 2000 // Pause after Taste Identification training
+    endif
+endwhile

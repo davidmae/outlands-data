@@ -1,0 +1,1889 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><Pack Name="UOO_Atlas.map" Revision="0">
+<Marker Name="(Lawless region border)" X="1381" Y="1861" Icon="other" Facet="0"/>
+<Marker Name=" [-_-] Guildhouse" X="919" Y="3339" Icon="landmark" Facet="0"/>
+<Marker Name="Abandoned fort" X="2465" Y="3040" Icon="point of interest" Facet="0"/>
+<Marker Name="Abandoned Trading Post" X="3940" Y="1143" Icon="landmark" Facet="0"/>
+<Marker Name="Aegis Keep" X="2167" Y="2074" Icon="dungeon" Facet="0"/>
+<Marker Name="Aegis Peninsula" X="2256" Y="2451" Icon="terrain" Facet="0"/>
+<Marker Name=" Anchor's Rest" X="3754" Y="527" Icon="town" Facet="0"/>
+<Marker Name=" Anchor's Rest Moongate" X="3993" Y="524" Icon="moongate" Facet="0"/>
+<Marker Name=" Anchor's Rest North Caravan" X="3762" Y="391" Icon="healer" Facet="0"/>
+<Marker Name=" Anchor's Rest South Caravan" X="3728" Y="683" Icon="healer" Facet="0"/>
+<Marker Name=" Anchor's Rest West Caravan" X="3583" Y="525" Icon="healer" Facet="0"/>
+<Marker Name=" Andaria" X="2188" Y="659" Icon="town" Facet="0"/>
+<Marker Name=" Andaria Bay" X="2250" Y="390" Icon="Body of Water" Facet="0"/>
+<Marker Name=" Andaria Cemetery" X="2092" Y="512" Icon="graveyard" Facet="0"/>
+<Marker Name=" Andaria Gate" X="1967" Y="946" Icon="point of interest" Facet="0"/>
+<Marker Name=" Andaria Gate Caravan" X="1990" Y="918" Icon="caravan" Facet="0"/>
+<Marker Name=" Andaria Lighthouse" X="2199" Y="852" Icon="scenic" Facet="0"/>
+<Marker Name=" Andaria Moongate" X="2333" Y="639" Icon="moongate" Facet="0"/>
+<Marker Name=" Andaria Prison" X="2079" Y="781" Icon="landmark" Facet="0"/>
+<Marker Name=" Andaria Rolling Hills" X="2473" Y="609" Icon="point of interest" Facet="0"/>
+<Marker Name=" Andaria Ruined Tower" X="2393" Y="508" Icon="point of interest" Facet="0"/>
+<Marker Name=" Andaria Ruins" X="2377" Y="600" Icon="point of interest" Facet="0"/>
+<Marker Name=" Andaria Ruins 2" X="1945" Y="456" Icon="point of interest" Facet="0"/>
+<Marker Name=" Andaria Sacrificial Ruins" X="1938" Y="620" Icon="point of interest" Facet="0"/>
+<Marker Name=" Andarian marsh" X="2435" Y="701" Icon="scenic" Facet="0"/>
+<Marker Name=" Andarian Scout Camp" X="215" Y="1905" Icon="point of interest" Facet="0"/>
+<Marker Name="Arcanist's Cemetery" X="1454" Y="2256" Icon="graveyard" Facet="0"/>
+<Marker Name="Archipelago" X="2674" Y="3604" Icon="island" Facet="0"/>
+<Marker Name="Avadonian Book of TRUTH" X="1208" Y="2426" Icon="shrine" Facet="0"/>
+<Marker Name="Bald Island" X="2164" Y="1108" Icon="island" Facet="0"/>
+<Marker Name="Bath Island" X="2715" Y="3348" Icon="island" Facet="0"/>
+<Marker Name="Beach" X="1779" Y="2395" Icon="terrain" Facet="0"/>
+<Marker Name="Beached Ship" X="1043" Y="2665" Icon="point of interest" Facet="0"/>
+<Marker Name="Beaver Nest" X="2251" Y="1159" Icon="scenic" Facet="0"/>
+<Marker Name="Beaver Nest" X="1851" Y="1391" Icon="scenic" Facet="0"/>
+<Marker Name="Beekeeper" X="4046" Y="1380" Icon="beekeeper" Facet="0"/>
+<Marker Name="Beekeeper" X="4014" Y="1362" Icon="beekeeper" Facet="0"/>
+<Marker Name="Beekeepers" X="4045" Y="1362" Icon="beekeeper" Facet="0"/>
+<Marker Name="Bell" X="868" Y="545" Icon="scenic" Facet="0"/>
+<Marker Name="Black Market" X="894" Y="935" Icon="point of interest" Facet="0"/>
+<Marker Name="Blackthorn's Fort" X="2491" Y="1072" Icon="point of interest" Facet="0"/>
+<Marker Name="Blood Cult Abbey" X="3713" Y="1457" Icon="landmark" Facet="0"/>
+<Marker Name="Blood Cult Island" X="3744" Y="1497" Icon="island" Facet="0"/>
+<Marker Name=" Blood Isle" X="783" Y="2000" Icon="island" Facet="0"/>
+<Marker Name="Bludchok Orc Fort" X="1094" Y="1007" Icon="landmark" Facet="0"/>
+<Marker Name="Bludchok Orc Fort (lawless region border)" X="1194" Y="1024" Icon="exit" Facet="0"/>
+<Marker Name=" Bludchok Orc Fort (lawless region border)" X="1160" Y="973" Icon="exit" Facet="0"/>
+<Marker Name="Bludchok Orc Fort (lawless region border)" X="1165" Y="1046" Icon="exit" Facet="0"/>
+<Marker Name="Bonfire" X="1974" Y="1046" Icon="point of interest" Facet="0"/>
+<Marker Name="Botanical Disaster" X="4036" Y="1615" Icon="landmark" Facet="0"/>
+<Marker Name="Break Pass" X="1407" Y="2556" Icon="scenic" Facet="0"/>
+<Marker Name="Bridge" X="1579" Y="1695" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1802" Y="1060" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1304" Y="1103" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="778" Y="645" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="790" Y="627" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="3937" Y="184" Icon="bridge" Facet="0"/>
+<Marker Name="Brigand base" X="3936" Y="1147" Icon="point of interest" Facet="0"/>
+<Marker Name="Brigand Blind" X="3541" Y="1011" Icon="landmark" Facet="0"/>
+<Marker Name="Brigand Camp 1" X="1466" Y="1275" Icon="point of interest" Facet="0"/>
+<Marker Name="Brigand Camp 2" X="1604" Y="2696" Icon="point of interest" Facet="0"/>
+<Marker Name="Brigand Camp 3" X="1448" Y="1367" Icon="point of interest" Facet="0"/>
+<Marker Name="Brigand Headquarters" X="1792" Y="2240" Icon="point of interest" Facet="0"/>
+<Marker Name="Buccaneer Island" X="2193" Y="3348" Icon="island" Facet="0"/>
+<Marker Name="Burnt Cove" X="1034" Y="1964" Icon="point of interest" Facet="0"/>
+<Marker Name="Burnt Cove Caravan" X="1126" Y="1952" Icon="caravan" Facet="0"/>
+<Marker Name="Burnt farm" X="1074" Y="1993" Icon="point of interest" Facet="0"/>
+<Marker Name="Burnt Farmlands" X="1064" Y="1892" Icon="point of interest" Facet="0"/>
+<Marker Name="Cambria" X="1765" Y="2995" Icon="town" Facet="0"/>
+<Marker Name="Cambria Gate Caravan" X="1470" Y="2844" Icon="caravan" Facet="0"/>
+<Marker Name="Cambria Moongate" X="1693" Y="3153" Icon="moongate" Facet="0"/>
+<Marker Name="Cambrian Excavation" X="1400" Y="2744" Icon="point of interest" Facet="0"/>
+<Marker Name="Cambrian Lighthouse" X="2081" Y="3060" Icon="point of interest" Facet="0"/>
+<Marker Name="The Cambrian Ocean" X="2736" Y="2824" Icon="Body of Water" Facet="0"/>
+<Marker Name=" Camp Betrayal" X="4103" Y="689" Icon="point of interest" Facet="0"/>
+<Marker Name="Castaway Isle" X="2437" Y="1192" Icon="island" Facet="0"/>
+<Marker Name="Cathedral" X="1461" Y="2448" Icon="scenic" Facet="0"/>
+<Marker Name="Cathedral Ruins" X="1210" Y="2067" Icon="point of interest" Facet="0"/>
+<Marker Name="Cathedral St Francis" X="1130" Y="2097" Icon="point of interest" Facet="0"/>
+<Marker Name="Cave" X="2298" Y="1278" Icon="exit" Facet="0"/>
+<Marker Name="Cave tunnel" X="997" Y="491" Icon="stairs" Facet="0"/>
+<Marker Name="Cave tunnel to Nordkeep Isle" X="993" Y="561" Icon="stairs" Facet="0"/>
+<Marker Name="Cave tunnel to Shelter Haven" X="1922" Y="2587" Icon="stairs" Facet="0"/>
+<Marker Name="Cave tunnel to Shelter Island" X="1726" Y="2586" Icon="stairs" Facet="0"/>
+<Marker Name=" Cavernam" X="2726" Y="374" Icon="dungeon" Facet="0"/>
+<Marker Name=" Cedar Forest" X="3244" Y="583" Icon="scenic" Facet="0"/>
+<Marker Name=" Cedar Lookout" X="4149" Y="262" Icon="landmark" Facet="0"/>
+<Marker Name="Central Market of Southern Prevalia" X="1974" Y="1663" Icon="scenic" Facet="0"/>
+<Marker Name="Chaos Island" X="3859" Y="1435" Icon="island" Facet="0"/>
+<Marker Name="Chaos Shrine" X="3856" Y="1399" Icon="shrine" Facet="0"/>
+<Marker Name="Chaos Viewpoint" X="3909" Y="1360" Icon="landmark" Facet="0"/>
+<Marker Name="Circle of stones" X="1837" Y="1763" Icon="scenic" Facet="0"/>
+<Marker Name="Citadel" X="2114" Y="2010" Icon="point of interest" Facet="0"/>
+<Marker Name="Closed entrance" X="1183" Y="1817" Icon="scenic" Facet="0"/>
+<Marker Name="Closed gate" X="1949" Y="1168" Icon="gate" Facet="0"/>
+<Marker Name=" Collapsed Ex-Secret passage" X="2247" Y="551" Icon="other" Facet="0"/>
+<Marker Name="Compassion Shrine" X="1131" Y="2988" Icon="shrine" Facet="0"/>
+<Marker Name="Corpse Creek" X="851" Y="706" Icon="town" Facet="0"/>
+<Marker Name="Corpse Creek battleground" X="954" Y="788" Icon="scenic" Facet="0"/>
+<Marker Name="Corpse Creek Lookout" X="786" Y="576" Icon="point of interest" Facet="0"/>
+<Marker Name="Corpse Creek Merchant (donation)" X="848" Y="670" Icon="merchants guild" Facet="0"/>
+<Marker Name="Corpse Creek Moongate" X="954" Y="822" Icon="moongate" Facet="0"/>
+<Marker Name="Courthouse" X="1898" Y="1602" Icon="landmark" Facet="0"/>
+<Marker Name=" Customs Officer" X="4281" Y="115" Icon="merchants guild" Facet="0"/>
+<Marker Name="Daemon Keep (lawless zone)" X="1263" Y="1746" Icon="landmark" Facet="0"/>
+<Marker Name=" Dammed Bog" X="4151" Y="959" Icon="landmark" Facet="0"/>
+<Marker Name="Darkmire Temple" X="3400" Y="3726" Icon="dungeon" Facet="0"/>
+<Marker Name="Deadman Isle" X="1038" Y="3291" Icon="island" Facet="0"/>
+<Marker Name="Desert Daemon Altar" X="1289" Y="2833" Icon="point of interest" Facet="0"/>
+<Marker Name="Desert Manor" X="1175" Y="2702" Icon="point of interest" Facet="0"/>
+<Marker Name="Desert Outpost" X="1504" Y="2565" Icon="point of interest" Facet="0"/>
+<Marker Name="Desert Pyramid Ruins" X="1189" Y="2947" Icon="point of interest" Facet="0"/>
+<Marker Name="Desert Quarry" X="1372" Y="2810" Icon="point of interest" Facet="0"/>
+<Marker Name="Desert Quarry Caravan" X="1379" Y="2844" Icon="caravan" Facet="0"/>
+<Marker Name="Desert Ruins" X="1173" Y="2521" Icon="point of interest" Facet="0"/>
+<Marker Name="Deserted Island and Ship" X="3237" Y="3363" Icon="point of interest" Facet="0"/>
+<Marker Name="Disgraced Knights tent" X="1356" Y="1345" Icon="point of interest" Facet="0"/>
+<Marker Name="Dock" X="2002" Y="1869" Icon="other" Facet="0"/>
+<Marker Name="Dockmaster" X="1106" Y="1052" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="3234" Y="195" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="4306" Y="109" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="4059" Y="1399" Icon="docks" Facet="0"/>
+<Marker Name="Double waterfall" X="1908" Y="1962" Icon="landmark" Facet="0"/>
+<Marker Name=" Dragon Island" X="944" Y="2831" Icon="island" Facet="0"/>
+<Marker Name=" Dragon Roost" X="1824" Y="936" Icon="point of interest" Facet="0"/>
+<Marker Name=" Dragon's Teeth Bay" X="1299" Y="864" Icon="scenic" Facet="0"/>
+<Marker Name="Drowned City" X="2227" Y="2888" Icon="scenic" Facet="0"/>
+<Marker Name="Druid Cabin" X="1876" Y="2296" Icon="point of interest" Facet="0"/>
+<Marker Name="Druid Circle" X="1998" Y="1961" Icon="point of interest" Facet="0"/>
+<Marker Name=" Druidic Ruins" X="2168" Y="444" Icon="point of interest" Facet="0"/>
+<Marker Name=" Drying fish" X="3682" Y="429" Icon="other" Facet="0"/>
+<Marker Name=" entrance" X="3417" Y="721" Icon="other" Facet="0"/>
+<Marker Name="Everflowing Blood Creek" X="882" Y="656" Icon="scenic" Facet="0"/>
+<Marker Name=" Exacvation Site" X="317" Y="1832" Icon="point of interest" Facet="0"/>
+<Marker Name="Exit to Shelter Haven" X="5515" Y="1768" Icon="exit" Facet="0"/>
+<Marker Name="Exit to Shelter Island" X="5613" Y="1781" Icon="exit" Facet="0"/>
+<Marker Name=" Exit to surface" X="5578" Y="896" Icon="stairs" Facet="0"/>
+<Marker Name="Explorer's camp (underground)" X="1231" Y="1133" Icon="scenic" Facet="0"/>
+<Marker Name="Fallen Manor" X="4005" Y="1148" Icon="landmark" Facet="0"/>
+<Marker Name="Faraonic ruins" X="1330" Y="2666" Icon="point of interest" Facet="0"/>
+<Marker Name="Farmer" X="4037" Y="1381" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="4005" Y="1369" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="4016" Y="1345" Icon="baker" Facet="0"/>
+<Marker Name="Farmlands Caravan" X="1869" Y="1196" Icon="caravan" Facet="0"/>
+<Marker Name=" Field of Souls" X="6311" Y="685" Icon="terrain" Facet="0"/>
+<Marker Name="Fighting pit" X="1093" Y="1023" Icon="other" Facet="0"/>
+<Marker Name=" Fisherman" X="4315" Y="121" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Fishing Hut" X="1323" Y="1981" Icon="scenic" Facet="0"/>
+<Marker Name="Fishing Hut" X="1295" Y="1942" Icon="scenic" Facet="0"/>
+<Marker Name="Fishing Hut" X="1261" Y="1983" Icon="scenic" Facet="0"/>
+<Marker Name="Fissure" X="2208" Y="2641" Icon="scenic" Facet="0"/>
+<Marker Name="Flower grove" X="687" Y="531" Icon="scenic" Facet="0"/>
+<Marker Name="Forsaken Keep" X="1909" Y="1910" Icon="point of interest" Facet="0"/>
+<Marker Name="Fortification" X="1225" Y="1820" Icon="landmark" Facet="0"/>
+<Marker Name=" Fortune Teller" X="4303" Y="476" Icon="point of interest" Facet="0"/>
+<Marker Name=" Fountain" X="3731" Y="645" Icon="other" Facet="0"/>
+<Marker Name=" Fresh Catch" X="4150" Y="774" Icon="landmark" Facet="0"/>
+<Marker Name=" Frost Daemon Temple" X="1412" Y="446" Icon="point of interest" Facet="0"/>
+<Marker Name=" Frost Forest" X="3612" Y="348" Icon="terrain" Facet="0"/>
+<Marker Name=" Frozen Excavation" X="3625" Y="121" Icon="landmark" Facet="0"/>
+<Marker Name="Frozen Nests" X="3742" Y="78" Icon="landmark" Facet="0"/>
+<Marker Name=" Frozen Settlement" X="3610" Y="311" Icon="point of interest" Facet="0"/>
+<Marker Name="Fruit market" X="1365" Y="1234" Icon="scenic" Facet="0"/>
+<Marker Name=" Gargish memorial" X="2435" Y="384" Icon="scenic" Facet="0"/>
+<Marker Name="Gate" X="1887" Y="1097" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1924" Y="1149" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="1157" Y="499" Icon="gate" Facet="0"/>
+<Marker Name=" Gate Fortress" X="1811" Y="910" Icon="point of interest" Facet="0"/>
+<Marker Name="Giant buried Pyramid" X="1368" Y="2709" Icon="landmark" Facet="0"/>
+<Marker Name="Gold Beacon (Major)" X="986" Y="791" Icon="point of interest" Facet="0"/>
+<Marker Name=" Granite Docks" X="3402" Y="919" Icon="landmark" Facet="0"/>
+<Marker Name="Granite Quarry" X="3421" Y="1008" Icon="landmark" Facet="0"/>
+<Marker Name="Grasslands of harpies" X="1092" Y="2265" Icon="point of interest" Facet="0"/>
+<Marker Name=" Graverobber's Dinghy" X="951" Y="1768" Icon="point of interest" Facet="0"/>
+<Marker Name=" Gravestone" X="952" Y="1814" Icon="other" Facet="0"/>
+<Marker Name="The Great Eastern Ocean" X="3158" Y="1452" Icon="Body of Water" Facet="0"/>
+<Marker Name=" The Great Northern Ocean" X="1874" Y="218" Icon="Body of Water" Facet="0"/>
+<Marker Name="The Great Southern Ocean" X="1538" Y="3644" Icon="Body of Water" Facet="0"/>
+<Marker Name=" Great Western Forest" X="1068" Y="750" Icon="scenic" Facet="0"/>
+<Marker Name=" The Great Western Ocean" X="516" Y="2484" Icon="Body of Water" Facet="0"/>
+<Marker Name="Green Beacon (Minor)" X="957" Y="717" Icon="point of interest" Facet="0"/>
+<Marker Name="Green Beacon (Minor)" X="915" Y="853" Icon="point of interest" Facet="0"/>
+<Marker Name=" The Grey Dessert" X="971" Y="3077" Icon="terrain" Facet="0"/>
+<Marker Name=" Greypeak Caldera" X="866" Y="2998" Icon="terrain" Facet="0"/>
+<Marker Name=" Greypeak Isle" X="860" Y="3114" Icon="island" Facet="0"/>
+<Marker Name=" Griffin Gate" X="3808" Y="413" Icon="scenic" Facet="0"/>
+<Marker Name="Guardtower" X="1999" Y="2160" Icon="scenic" Facet="0"/>
+<Marker Name="Guardtower" X="1538" Y="1248" Icon="other" Facet="0"/>
+<Marker Name="Hangman tree" X="1206" Y="1029" Icon="scenic" Facet="0"/>
+<Marker Name="Haven border" X="1500" Y="2471" Icon="other" Facet="0"/>
+<Marker Name="Haven border" X="1373" Y="2456" Icon="other" Facet="0"/>
+<Marker Name="Haven border" X="1386" Y="2516" Icon="other" Facet="0"/>
+<Marker Name="Haven Valley Lodge" X="1309" Y="2526" Icon="landmark" Facet="0"/>
+<Marker Name=" Healer" X="1217" Y="436" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="1601" Y="2565" Icon="healer" Facet="0"/>
+<Marker Name=" Heartland Bog" X="3684" Y="871" Icon="landmark" Facet="0"/>
+<Marker Name=" Hidden Bridge" X="4148" Y="925" Icon="bridge" Facet="0"/>
+<Marker Name="Hidden Valley" X="1446" Y="2941" Icon="point of interest" Facet="0"/>
+<Marker Name="Hollow Hills" X="1840" Y="2077" Icon="point of interest" Facet="0"/>
+<Marker Name=" Hollow Snow Tower" X="1334" Y="620" Icon="point of interest" Facet="0"/>
+<Marker Name=" Honesty Island" X="2984" Y="551" Icon="island" Facet="0"/>
+<Marker Name=" Honesty Shrine" X="2927" Y="611" Icon="shrine" Facet="0"/>
+<Marker Name="Honor Shrine" X="1316" Y="1214" Icon="shrine" Facet="0"/>
+<Marker Name="Horseshoe Bay" X="2043" Y="2238" Icon="town" Facet="0"/>
+<Marker Name="Horseshoe Bay Cemetery" X="2110" Y="2170" Icon="graveyard" Facet="0"/>
+<Marker Name="Horseshoe Bay Moongate" X="2025" Y="2077" Icon="moongate" Facet="0"/>
+<Marker Name="Horseshoe Bay Swamps Caravan" X="2229" Y="2240" Icon="caravan" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3875" Y="435" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1045" Y="2700" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1056" Y="1827" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1092" Y="1152" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1107" Y="1078" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1109" Y="2407" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1115" Y="1533" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="1171" Y="636" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1180" Y="1430" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1233" Y="2173" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1314" Y="2001" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1440" Y="1550" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="1453" Y="892" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="1692" Y="881" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="1856" Y="2319" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="2076" Y="3450" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="2088" Y="1171" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="2182" Y="2665" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="2222" Y="3490" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="2257" Y="1281" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="2275" Y="1151" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="230" Y="1748" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="2829" Y="3314" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="430" Y="875" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="586" Y="750" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="708" Y="3171" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="815" Y="935" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="894" Y="2822" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="940" Y="1720" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="941" Y="1970" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="949" Y="508" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3238" Y="109" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3283" Y="151" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3195" Y="235" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3169" Y="264" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3173" Y="358" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3147" Y="419" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3697" Y="164" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="4165" Y="798" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="4161" Y="735" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="4076" Y="672" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="4157" Y="586" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="4200" Y="573" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="4245" Y="511" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="4226" Y="757" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="4141" Y="1252" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3953" Y="1294" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3950" Y="1223" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3663" Y="1454" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3606" Y="1531" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3753" Y="1552" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3835" Y="1502" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3953" Y="1525" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="4029" Y="1532" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="4030" Y="1497" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3704" Y="1823" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3538" Y="1703" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3615" Y="1661" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3802" Y="1663" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3856" Y="1544" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3497" Y="1113" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (East)" X="3511" Y="1052" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3491" Y="903" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3357" Y="955" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (East)" X="3285" Y="864" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="1007" Y="1565" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="1042" Y="1327" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="1115" Y="2536" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="1164" Y="332" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="1214" Y="2133" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="1267" Y="807" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="1307" Y="565" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="1428" Y="386" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="1445" Y="1610" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="1604" Y="509" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="1729" Y="980" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="1753" Y="1680" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="1889" Y="514" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="2001" Y="426" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="2109" Y="2138" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="2172" Y="3135" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="2276" Y="903" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="2327" Y="3229" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="2398" Y="988" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="2415" Y="3019" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="2500" Y="1022" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="2649" Y="3328" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="2705" Y="448" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="2752" Y="333" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="3057" Y="413" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3060" Y="3403" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3370" Y="3682" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="618" Y="554" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="670" Y="816" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="692" Y="466" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="760" Y="1000" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="768" Y="1703" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="908" Y="2230" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="988" Y="1068" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3297" Y="97" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="3352" Y="104" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="4264" Y="278" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="4087" Y="43" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3971" Y="47" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3834" Y="72" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3683" Y="57" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3639" Y="79" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3543" Y="94" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3455" Y="54" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="3475" Y="108" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="3411" Y="109" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="3450" Y="155" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="3413" Y="158" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="3807" Y="626" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="3879" Y="646" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="4113" Y="592" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="4335" Y="422" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="4347" Y="519" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="4288" Y="693" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="4317" Y="887" Icon="ship" Facet="0"/>
+<Marker Name=" House Boat (South)" X="4375" Y="860" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="4260" Y="1186" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3725" Y="1418" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3640" Y="1502" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3927" Y="1490" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3966" Y="1459" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3998" Y="1496" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="4037" Y="1468" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="4124" Y="1627" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="4094" Y="1743" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="4148" Y="1714" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3720" Y="1789" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3590" Y="1684" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3635" Y="1630" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3687" Y="1652" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3740" Y="1670" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3822" Y="1612" Icon="ship" Facet="0"/>
+<Marker Name="House Boat (South)" X="3868" Y="1605" Icon="ship" Facet="0"/>
+<Marker Name="Humility Shrine" X="1259" Y="2283" Icon="shrine" Facet="0"/>
+<Marker Name="Humility Swamps" X="1342" Y="2274" Icon="point of interest" Facet="0"/>
+<Marker Name=" Hunter's Blind 1" X="1262" Y="961" Icon="point of interest" Facet="0"/>
+<Marker Name="Hunter's Blind 2" X="1338" Y="1913" Icon="point of interest" Facet="0"/>
+<Marker Name="Hunter's Cabin" X="2174" Y="2207" Icon="point of interest" Facet="0"/>
+<Marker Name=" Ice bridge" X="1413" Y="493" Icon="bridge" Facet="0"/>
+<Marker Name=" Ice Bridge" X="3377" Y="130" Icon="bridge" Facet="0"/>
+<Marker Name=" Ice Prison" X="3910" Y="238" Icon="landmark" Facet="0"/>
+<Marker Name=" Ice Prison Caravan" X="3943" Y="253" Icon="healer" Facet="0"/>
+<Marker Name=" Icefalls" X="1787" Y="841" Icon="scenic" Facet="0"/>
+<Marker Name=" Idyllic pond" X="1888" Y="673" Icon="scenic" Facet="0"/>
+<Marker Name=" Illuminated Spring" X="3951" Y="744" Icon="landmark" Facet="0"/>
+<Marker Name="Inferno" X="1998" Y="3233" Icon="dungeon" Facet="0"/>
+<Marker Name=" Island Dragon Roost" X="928" Y="2819" Icon="point of interest" Facet="0"/>
+<Marker Name=" Island Spring" X="712" Y="3218" Icon="landmark" Facet="0"/>
+<Marker Name="Ivory Citadel" X="4121" Y="81" Icon="landmark" Facet="0"/>
+<Marker Name="Jousting Arena" X="1302" Y="2514" Icon="scenic" Facet="0"/>
+<Marker Name="Jungle Baths" X="2744" Y="3391" Icon="point of interest" Facet="0"/>
+<Marker Name="Jungle Hut" X="2225" Y="3071" Icon="other" Facet="0"/>
+<Marker Name="Jungle Hut" X="2215" Y="3448" Icon="scenic" Facet="0"/>
+<Marker Name="Jungle pool" X="2169" Y="3412" Icon="scenic" Facet="0"/>
+<Marker Name=" Justice Shrine" X="1900" Y="808" Icon="shrine" Facet="0"/>
+<Marker Name="King's Faire" X="6465" Y="3066" Icon="terrain" Facet="0"/>
+<Marker Name="A knight's tomb and a ghost" X="2205" Y="2465" Icon="other" Facet="0"/>
+<Marker Name="Koi" X="1538" Y="2527" Icon="scenic" Facet="0"/>
+<Marker Name="Kudzu Tower" X="3544" Y="1752" Icon="landmark" Facet="0"/>
+<Marker Name=" Lair of Eternal Darkness (under sea)" X="2853" Y="590" Icon="landmark" Facet="0"/>
+<Marker Name=" Leodcyning's Burial Mound" X="3714" Y="421" Icon="landmark" Facet="0"/>
+<Marker Name=" Lightning Strike Cinderwood Point" X="3375" Y="538" Icon="point of interest" Facet="0"/>
+<Marker Name=" Lily Bridge" X="3907" Y="347" Icon="bridge" Facet="0"/>
+<Marker Name="Litoral Island" X="2340" Y="1255" Icon="island" Facet="0"/>
+<Marker Name=" Living Earth Cave" X="3257" Y="809" Icon="exit" Facet="0"/>
+<Marker Name="Lizardman scout camp" X="2219" Y="2380" Icon="point of interest" Facet="0"/>
+<Marker Name="Lizardmen Caravan" X="1405" Y="2081" Icon="caravan" Facet="0"/>
+<Marker Name="Lizardmen Fort (Zezech)" X="1356" Y="2160" Icon="point of interest" Facet="0"/>
+<Marker Name="Lizardmen Scout Camp" X="2257" Y="2618" Icon="point of interest" Facet="0"/>
+<Marker Name="Lower Prevalia" X="1944" Y="1683" Icon="town" Facet="0"/>
+<Marker Name="The Mausoleum" X="1456" Y="2234" Icon="dungeon" Facet="0"/>
+<Marker Name="Mellow Retreat (Baker)" X="4334" Y="1116" Icon="baker" Facet="0"/>
+<Marker Name="Midlands Caravan" X="1632" Y="1987" Icon="caravan" Facet="0"/>
+<Marker Name="Midlands Ruins 1" X="1709" Y="1894" Icon="point of interest" Facet="0"/>
+<Marker Name="Midlands Ruins 2" X="1331" Y="1829" Icon="ruins" Facet="0"/>
+<Marker Name="Mine entrance" X="1205" Y="1068" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="3311" Y="606" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="445" Y="2022" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="437" Y="2022" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="3316" Y="646" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="4213" Y="140" Icon="exit" Facet="0"/>
+<Marker Name="Minotaur Island" X="3925" Y="1720" Icon="island" Facet="0"/>
+<Marker Name=" Monster hunter tower" X="676" Y="1221" Icon="landmark" Facet="0"/>
+<Marker Name=" Morthuna" X="967" Y="1761" Icon="island" Facet="0"/>
+<Marker Name="Mount Minotaur" X="3910" Y="1551" Icon="landmark" Facet="0"/>
+<Marker Name="Mount Petram" X="733" Y="769" Icon="dungeon" Facet="0"/>
+<Marker Name="Mountain Meeting Spot" X="1343" Y="2039" Icon="point of interest" Facet="0"/>
+<Marker Name=" Mountain pass" X="511" Y="1958" Icon="bridge" Facet="0"/>
+<Marker Name=" Mountain pass" X="543" Y="2056" Icon="bridge" Facet="0"/>
+<Marker Name=" Mountain pass" X="500" Y="2043" Icon="bridge" Facet="0"/>
+<Marker Name=" Mountain pass" X="332" Y="1973" Icon="bridge" Facet="0"/>
+<Marker Name=" Mountain pass" X="327" Y="1983" Icon="bridge" Facet="0"/>
+<Marker Name=" Mountain pass" X="301" Y="2119" Icon="bridge" Facet="0"/>
+<Marker Name="Muskeg Isle" X="3363" Y="3769" Icon="island" Facet="0"/>
+<Marker Name="Narrow path" X="1031" Y="2019" Icon="other" Facet="0"/>
+<Marker Name="Necromancer's Cathedral" X="473" Y="832" Icon="point of interest" Facet="0"/>
+<Marker Name=" Necromancer's Lair" X="1861" Y="783" Icon="point of interest" Facet="0"/>
+<Marker Name=" Necromancer's Swamp" X="1888" Y="770" Icon="point of interest" Facet="0"/>
+<Marker Name="New Buccaneer's Den Caravan" X="2132" Y="3220" Icon="caravan" Facet="0"/>
+<Marker Name="Newbie Dungeon" X="1913" Y="2566" Icon="dungeon" Facet="0"/>
+<Marker Name="Newbie Dungeon (entrance 2)" X="1950" Y="2527" Icon="dungeon" Facet="0"/>
+<Marker Name="Nomad Desert Camp" X="1130" Y="2606" Icon="point of interest" Facet="0"/>
+<Marker Name="Nomad Outpost Caravan" X="1156" Y="2608" Icon="caravan" Facet="0"/>
+<Marker Name="Nomad Training Area" X="1076" Y="2668" Icon="point of interest" Facet="0"/>
+<Marker Name=" Nordkeep Isle" X="1077" Y="398" Icon="island" Facet="0"/>
+<Marker Name=" Norse Settlement" X="2702" Y="600" Icon="point of interest" Facet="0"/>
+<Marker Name=" Northwest Caravan" X="1445" Y="711" Icon="caravan" Facet="0"/>
+<Marker Name="Noxious Earth" X="1820" Y="2119" Icon="point of interest" Facet="0"/>
+<Marker Name=" Nusero" X="287" Y="1676" Icon="dungeon" Facet="0"/>
+<Marker Name=" Nusero Island" X="539" Y="1888" Icon="island" Facet="0"/>
+<Marker Name=" Nusero Island Caravan" X="307" Y="1757" Icon="caravan" Facet="0"/>
+<Marker Name=" Nusero Signal Fort" X="656" Y="1755" Icon="point of interest" Facet="0"/>
+<Marker Name="Oasis" X="1303" Y="2985" Icon="point of interest" Facet="0"/>
+<Marker Name="Obelisk" X="1229" Y="2923" Icon="scenic" Facet="0"/>
+<Marker Name="Ogre Valley" X="1560" Y="2219" Icon="point of interest" Facet="0"/>
+<Marker Name="Ogre Valley Caravan" X="1717" Y="2302" Icon="caravan" Facet="0"/>
+<Marker Name=" Old Cathedral Entrance (now closed)" X="3381" Y="823" Icon="scenic" Facet="0"/>
+<Marker Name=" Orc Fort 3" X="757" Y="1769" Icon="point of interest" Facet="0"/>
+<Marker Name=" Orc fort entrance" X="807" Y="1824" Icon="exit" Facet="0"/>
+<Marker Name="Orc Rock" X="4018" Y="1855" Icon="landmark" Facet="0"/>
+<Marker Name="Orchish Lighthouse" X="1080" Y="1034" Icon="scenic" Facet="0"/>
+<Marker Name="Ossuary" X="1209" Y="2816" Icon="dungeon" Facet="0"/>
+<Marker Name=" Outpost" X="3047" Y="560" Icon="town" Facet="0"/>
+<Marker Name=" Outpost Moongate" X="2974" Y="611" Icon="moongate" Facet="0"/>
+<Marker Name=" Outpost Ostmark" X="3154" Y="482" Icon="landmark" Facet="0"/>
+<Marker Name="Owen's Cabin" X="2151" Y="1158" Icon="point of interest" Facet="0"/>
+<Marker Name="Passage" X="1425" Y="2870" Icon="stairs" Facet="0"/>
+<Marker Name="Passage" X="1434" Y="2916" Icon="stairs" Facet="0"/>
+<Marker Name=" Passage to Anchor's Rest" X="3610" Y="560" Icon="stairs" Facet="0"/>
+<Marker Name=" Passage to Anchor's Rest" X="3722" Y="609" Icon="stairs" Facet="0"/>
+<Marker Name=" Passage to mainland" X="3671" Y="560" Icon="stairs" Facet="0"/>
+<Marker Name=" Passage to Mainland" X="3721" Y="574" Icon="stairs" Facet="0"/>
+<Marker Name="Passage under blood waterfall" X="796" Y="627" Icon="stairs" Facet="0"/>
+<Marker Name="Picnic area" X="1661" Y="1217" Icon="scenic" Facet="0"/>
+<Marker Name=" Picnic Blanket" X="4264" Y="939" Icon="scenic" Facet="0"/>
+<Marker Name="Pillar with flame" X="1079" Y="1765" Icon="other" Facet="0"/>
+<Marker Name="Pinecone Grove" X="3685" Y="1225" Icon="landmark" Facet="0"/>
+<Marker Name="Pirate Captain's House" X="2216" Y="3320" Icon="scenic" Facet="0"/>
+<Marker Name="Pirate Graveyard" X="2230" Y="3216" Icon="graveyard" Facet="0"/>
+<Marker Name=" Pond" X="905" Y="1018" Icon="scenic" Facet="0"/>
+<Marker Name="Pond" X="702" Y="610" Icon="scenic" Facet="0"/>
+<Marker Name=" Pool Of Power" X="989" Y="1106" Icon="point of interest" Facet="0"/>
+<Marker Name="Prevalia" X="1616" Y="1524" Icon="town" Facet="0"/>
+<Marker Name="Prevalia Bog" X="1477" Y="1700" Icon="point of interest" Facet="0"/>
+<Marker Name="Prevalia Bog Caravan" X="1481" Y="1744" Icon="caravan" Facet="0"/>
+<Marker Name="Prevalia Cemetery" X="1909" Y="1798" Icon="graveyard" Facet="0"/>
+<Marker Name="Prevalia Dam" X="1244" Y="1501" Icon="point of interest" Facet="0"/>
+<Marker Name="Prevalia Gate" X="1189" Y="2396" Icon="point of interest" Facet="0"/>
+<Marker Name="Prevalia Gate Caravan" X="1204" Y="2358" Icon="caravan" Facet="0"/>
+<Marker Name="Prevalia Keep" X="1336" Y="1300" Icon="point of interest" Facet="0"/>
+<Marker Name="Prevalia King's Manor" X="1574" Y="1016" Icon="landmark" Facet="0"/>
+<Marker Name="Prevalia Moongate" X="1474" Y="1487" Icon="moongate" Facet="0"/>
+<Marker Name="Prevalia Signal Outpost" X="1589" Y="2480" Icon="point of interest" Facet="0"/>
+<Marker Name="Prevalia Signal Ridge Caravan" X="1488" Y="1900" Icon="caravan" Facet="0"/>
+<Marker Name="Prevalia Waterfall" X="1808" Y="1019" Icon="point of interest" Facet="0"/>
+<Marker Name="Prevalia Zoo" X="1820" Y="1519" Icon="landmark" Facet="0"/>
+<Marker Name="The Prevalian Castle" X="1765" Y="1407" Icon="scenic" Facet="0"/>
+<Marker Name="Prevalian Cemetery" X="1854" Y="1449" Icon="graveyard" Facet="0"/>
+<Marker Name="Prevalian Cemetery Crypt" X="1895" Y="1788" Icon="point of interest" Facet="0"/>
+<Marker Name="Prevalian merchant (donation)" X="1598" Y="1523" Icon="merchants guild" Facet="0"/>
+<Marker Name="Prevalian Quarry" X="1158" Y="1092" Icon="landmark" Facet="0"/>
+<Marker Name=" Pulma" X="1785" Y="984" Icon="dungeon" Facet="0"/>
+<Marker Name="Ratman Hovel" X="1306" Y="1409" Icon="point of interest" Facet="0"/>
+<Marker Name="Ratman ruins" X="1128" Y="1852" Icon="ruins" Facet="0"/>
+<Marker Name="Ratman Underground Lair" X="1136" Y="1813" Icon="point of interest" Facet="0"/>
+<Marker Name="Reaver Bay" X="1864" Y="2749" Icon="Body of Water" Facet="0"/>
+<Marker Name="Rebel camp" X="1249" Y="1470" Icon="point of interest" Facet="0"/>
+<Marker Name="Rebel soldier trap" X="1642" Y="2440" Icon="trap" Facet="0"/>
+<Marker Name="Rice plantation" X="700" Y="739" Icon="scenic" Facet="0"/>
+<Marker Name=" Rickety Bridge" X="4186" Y="783" Icon="bridge" Facet="0"/>
+<Marker Name=" Rickety Bridge Caravan" X="4182" Y="814" Icon="healer" Facet="0"/>
+<Marker Name="Rift forces defenses" X="1343" Y="1764" Icon="point of interest" Facet="0"/>
+<Marker Name=" River crossing" X="1042" Y="847" Icon="bridge" Facet="0"/>
+<Marker Name=" Riverrun Lodge" X="2816" Y="550" Icon="landmark" Facet="0"/>
+<Marker Name=" Riverrun wandering healer" X="2792" Y="567" Icon="healer" Facet="0"/>
+<Marker Name="Royal Ship" X="1725" Y="1389" Icon="landmark" Facet="0"/>
+<Marker Name="Ruined Cabin" X="2312" Y="1071" Icon="point of interest" Facet="0"/>
+<Marker Name="Ruined House" X="1938" Y="1013" Icon="point of interest" Facet="0"/>
+<Marker Name="Ruined island fort" X="2458" Y="1144" Icon="ruins" Facet="0"/>
+<Marker Name="Ruined Lighthouse" X="2401" Y="1001" Icon="point of interest" Facet="0"/>
+<Marker Name="Ruined Lycaeum" X="1231" Y="1672" Icon="point of interest" Facet="0"/>
+<Marker Name="Ruined Lycaeum Caravan" X="1266" Y="1624" Icon="caravan" Facet="0"/>
+<Marker Name=" Ruined Snow Fortress" X="1693" Y="576" Icon="point of interest" Facet="0"/>
+<Marker Name="Ruins" X="2346" Y="2644" Icon="ruins" Facet="0"/>
+<Marker Name="Ruins" X="1090" Y="1793" Icon="ruins" Facet="0"/>
+<Marker Name=" Ruins" X="467" Y="1991" Icon="ruins" Facet="0"/>
+<Marker Name="Ruins" X="4318" Y="1158" Icon="ruins" Facet="0"/>
+<Marker Name="Ruins on Island 1" X="689" Y="935" Icon="point of interest" Facet="0"/>
+<Marker Name="Ruins on Island 2" X="586" Y="895" Icon="point of interest" Facet="0"/>
+<Marker Name="Sacred Pools and Ruins" X="1397" Y="1913" Icon="point of interest" Facet="0"/>
+<Marker Name="Sacred Waters" X="1255" Y="2487" Icon="point of interest" Facet="0"/>
+<Marker Name="Sacrifice Shrine" X="2442" Y="3275" Icon="shrine" Facet="0"/>
+<Marker Name="Sacrificial Cliffs" X="2046" Y="1854" Icon="point of interest" Facet="0"/>
+<Marker Name=" Sandbar" X="2022" Y="990" Icon="point of interest" Facet="0"/>
+<Marker Name="Savage Fort" X="2364" Y="3068" Icon="point of interest" Facet="0"/>
+<Marker Name="Savage Island" X="2387" Y="3098" Icon="island" Facet="0"/>
+<Marker Name="Savannah and Wattering Hole" X="1316" Y="2915" Icon="point of interest" Facet="0"/>
+<Marker Name="Scallywag Island" X="3305" Y="3540" Icon="island" Facet="0"/>
+<Marker Name=" Secret Beach" X="3607" Y="671" Icon="scenic" Facet="0"/>
+<Marker Name="Secret passage" X="1128" Y="1803" Icon="stairs" Facet="0"/>
+<Marker Name=" Secret passage" X="3061" Y="502" Icon="stairs" Facet="0"/>
+<Marker Name=" Secret passage" X="984" Y="1915" Icon="stairs" Facet="0"/>
+<Marker Name=" Secret passage" X="989" Y="1892" Icon="stairs" Facet="0"/>
+<Marker Name=" Shadowspire Cathedral" X="3382" Y="755" Icon="dungeon" Facet="0"/>
+<Marker Name=" Shadowspire Cathedral Caravan" X="3497" Y="831" Icon="healer" Facet="0"/>
+<Marker Name=" Shadowspire Cathedral Inner Courtyard (LVL3)" X="3436" Y="791" Icon="point of interest" Facet="0"/>
+<Marker Name="Shanty Shack" X="3764" Y="1712" Icon="landmark" Facet="0"/>
+<Marker Name="Shelter Bay" X="1925" Y="2425" Icon="Body of Water" Facet="0"/>
+<Marker Name="Shelter Haven" X="1613" Y="2583" Icon="town" Facet="0"/>
+<Marker Name="Shelter Haven Caravan" X="1601" Y="2567" Icon="caravan" Facet="0"/>
+<Marker Name="Shelter Island" X="1954" Y="2613" Icon="town" Facet="0"/>
+<Marker Name="Shelter Island Moongate" X="1978" Y="2533" Icon="moongate" Facet="0"/>
+<Marker Name="Ship in Bay" X="2330" Y="3318" Icon="point of interest" Facet="0"/>
+<Marker Name="Ship in Cave" X="2304" Y="1302" Icon="point of interest" Facet="0"/>
+<Marker Name="Shipbreaker Bay" X="1847" Y="3417" Icon="landmark" Facet="0"/>
+<Marker Name="Shipwreck" X="2080" Y="1848" Icon="point of interest" Facet="0"/>
+<Marker Name="Signal Fort 1" X="1481" Y="2148" Icon="point of interest" Facet="0"/>
+<Marker Name="Signal Fort 2" X="1470" Y="1952" Icon="point of interest" Facet="0"/>
+<Marker Name=" Signpost" X="3187" Y="490" Icon="other" Facet="0"/>
+<Marker Name=" Simple Palisade Fort" X="1164" Y="742" Icon="point of interest" Facet="0"/>
+<Marker Name=" Small fishing cottage" X="735" Y="1859" Icon="other" Facet="0"/>
+<Marker Name="Smashed boat" X="1964" Y="1280" Icon="other" Facet="0"/>
+<Marker Name=" Smoking Pyre" X="3225" Y="222" Icon="landmark" Facet="0"/>
+<Marker Name="Smuggler's Den" X="1133" Y="1005" Icon="scenic" Facet="0"/>
+<Marker Name=" Smugglers Dock" X="3171" Y="308" Icon="thieves guild" Facet="0"/>
+<Marker Name=" Snow Caves" X="1637" Y="613" Icon="point of interest" Facet="0"/>
+<Marker Name=" Snow Fortress" X="1150" Y="454" Icon="point of interest" Facet="0"/>
+<Marker Name=" Snow Northeast Caravan" X="2889" Y="421" Icon="caravan" Facet="0"/>
+<Marker Name=" Snow Northeast 2 Caravan" X="2468" Y="359" Icon="caravan" Facet="0"/>
+<Marker Name=" Snow Northwest Caravan" X="1527" Y="548" Icon="caravan" Facet="0"/>
+<Marker Name="Southern Ruins Caravan" X="3961" Y="1172" Icon="healer" Facet="0"/>
+<Marker Name="Southreach Inn" X="4022" Y="1371" Icon="tavern" Facet="0"/>
+<Marker Name=" Spider cave" X="1590" Y="553" Icon="exit" Facet="0"/>
+<Marker Name=" Spider cave" X="1626" Y="580" Icon="exit" Facet="0"/>
+<Marker Name=" Spirituality Bay" X="2420" Y="862" Icon="Body of Water" Facet="0"/>
+<Marker Name=" Spirituality Shrine" X="2282" Y="941" Icon="shrine" Facet="0"/>
+<Marker Name="Stable" X="4022" Y="1385" Icon="stable" Facet="0"/>
+<Marker Name=" Stables" X="2803" Y="551" Icon="scenic" Facet="0"/>
+<Marker Name="Stables" X="1295" Y="2530" Icon="scenic" Facet="0"/>
+<Marker Name=" stairs" X="1813" Y="896" Icon="stairs" Facet="0"/>
+<Marker Name="stairs" X="1370" Y="2468" Icon="stairs" Facet="0"/>
+<Marker Name="Standing Stones" X="4134" Y="1323" Icon="point of interest" Facet="0"/>
+<Marker Name=" Strangelands" X="6358" Y="245" Icon="terrain" Facet="0"/>
+<Marker Name="Sunken City" X="326" Y="483" Icon="Body of Water" Facet="0"/>
+<Marker Name="Sunken Sorecerer Pontoon" X="1062" Y="1689" Icon="point of interest" Facet="0"/>
+<Marker Name="Swamp" X="1677" Y="2630" Icon="terrain" Facet="0"/>
+<Marker Name=" Swamp Point Ruins" X="951" Y="2100" Icon="point of interest" Facet="0"/>
+<Marker Name=" Tanner's Northern Fort" X="2631" Y="400" Icon="point of interest" Facet="0"/>
+<Marker Name=" Telescope Island" X="1194" Y="676" Icon="point of interest" Facet="0"/>
+<Marker Name="Temple Island" X="1001" Y="1122" Icon="island" Facet="0"/>
+<Marker Name="Temple of the Chaos Knight" X="1061" Y="1484" Icon="point of interest" Facet="0"/>
+<Marker Name="Terathan Point" X="2300" Y="3500" Icon="point of interest" Facet="0"/>
+<Marker Name=" Terran" X="735" Y="1507" Icon="town" Facet="0"/>
+<Marker Name=" Terran Moongate" X="865" Y="1570" Icon="moongate" Facet="0"/>
+<Marker Name="Throne" X="1082" Y="1005" Icon="scenic" Facet="0"/>
+<Marker Name="to Blood Cult Island" X="3822" Y="1425" Icon="teleporter" Facet="0"/>
+<Marker Name="to Cathedral" X="5605" Y="1450" Icon="stairs" Facet="0"/>
+<Marker Name=" to Cathedral LVL 1" X="3403" Y="715" Icon="exit" Facet="0"/>
+<Marker Name=" to Cathedral LVL2" X="3393" Y="816" Icon="exit" Facet="0"/>
+<Marker Name=" to Cathedral LVL2" X="3408" Y="762" Icon="exit" Facet="0"/>
+<Marker Name="to Chaos Shrine" X="3743" Y="1431" Icon="teleporter" Facet="0"/>
+<Marker Name="to Chaos Shrine" X="3856" Y="1518" Icon="teleporter" Facet="0"/>
+<Marker Name="to Chaos Shrine" X="3924" Y="1349" Icon="teleporter" Facet="0"/>
+<Marker Name="To Darkmire Island" X="1459" Y="2956" Icon="teleporter" Facet="0"/>
+<Marker Name="To Darkmire Island" X="2145" Y="3269" Icon="teleporter" Facet="0"/>
+<Marker Name="To Darkmire Island" X="2808" Y="3482" Icon="teleporter" Facet="0"/>
+<Marker Name="to Dessert Outpost" X="5605" Y="1488" Icon="stairs" Facet="0"/>
+<Marker Name=" To Granite Docks" X="3989" Y="528" Icon="teleporter" Facet="0"/>
+<Marker Name="to Great Western Forest" X="5470" Y="1815" Icon="stairs" Facet="0"/>
+<Marker Name="To Hidden Valley" X="2141" Y="3269" Icon="teleporter" Facet="0"/>
+<Marker Name="To Hidden Valley" X="2804" Y="3482" Icon="teleporter" Facet="0"/>
+<Marker Name="To Hidden Valley" X="3338" Y="3715" Icon="teleporter" Facet="0"/>
+<Marker Name="to Inferno" X="2007" Y="3254" Icon="exit" Facet="0"/>
+<Marker Name="To Inferno Island" X="1455" Y="2960" Icon="teleporter" Facet="0"/>
+<Marker Name="To Inferno Island" X="2804" Y="3486" Icon="teleporter" Facet="0"/>
+<Marker Name="To Inferno Island" X="3338" Y="3719" Icon="teleporter" Facet="0"/>
+<Marker Name="To Jungle Baths Island" X="1459" Y="2960" Icon="teleporter" Facet="0"/>
+<Marker Name="To Jungle Baths Island" X="2145" Y="3273" Icon="teleporter" Facet="0"/>
+<Marker Name="To Jungle Baths Island" X="3342" Y="3719" Icon="teleporter" Facet="0"/>
+<Marker Name=" to Mainland" X="981" Y="1790" Icon="teleporter" Facet="0"/>
+<Marker Name="to Mainland" X="3893" Y="1417" Icon="teleporter" Facet="0"/>
+<Marker Name="to Minotaur Island" X="3840" Y="1474" Icon="teleporter" Facet="0"/>
+<Marker Name="To Morthuna" X="1087" Y="1791" Icon="teleporter" Facet="0"/>
+<Marker Name="to Nordkeep Isle" X="5469" Y="1716" Icon="stairs" Facet="0"/>
+<Marker Name=" to Smoking Pyre Docks" X="3989" Y="520" Icon="teleporter" Facet="0"/>
+<Marker Name=" To Snow Fortress Dungeon" X="1053" Y="453" Icon="stairs" Facet="0"/>
+<Marker Name=" To Snow Fortress Dungeon" X="1096" Y="503" Icon="stairs" Facet="0"/>
+<Marker Name=" To Snow Fortress Dungeon" X="1119" Y="454" Icon="stairs" Facet="0"/>
+<Marker Name=" To Snow Fortress Dungeon" X="1109" Y="420" Icon="stairs" Facet="0"/>
+<Marker Name=" To Snow Fortress Dungeon" X="1164" Y="441" Icon="stairs" Facet="0"/>
+<Marker Name=" To Snow Fortress Dungeon" X="1127" Y="498" Icon="stairs" Facet="0"/>
+<Marker Name=" to Southreach Docks" X="3997" Y="528" Icon="teleporter" Facet="0"/>
+<Marker Name=" to Winter Harbor Docks" X="3997" Y="520" Icon="teleporter" Facet="0"/>
+<Marker Name="trespassing" X="6061" Y="1725" Icon="gate" Facet="0"/>
+<Marker Name="Tribal Camp" X="3121" Y="3412" Icon="point of interest" Facet="0"/>
+<Marker Name="Tribal fanatic hut" X="2244" Y="3362" Icon="scenic" Facet="0"/>
+<Marker Name="Tribal Pyramid" X="2099" Y="3385" Icon="point of interest" Facet="0"/>
+<Marker Name="Tribal Sacrifice Shrine" X="2298" Y="3214" Icon="point of interest" Facet="0"/>
+<Marker Name="Tunnel" X="1506" Y="2510" Icon="stairs" Facet="0"/>
+<Marker Name="Tunnel" X="1502" Y="2480" Icon="stairs" Facet="0"/>
+<Marker Name="Tunnel under the Orc Fort" X="1921" Y="1063" Icon="stairs" Facet="0"/>
+<Marker Name="Tunnel under the Orc Fort" X="1919" Y="1206" Icon="stairs" Facet="0"/>
+<Marker Name="Turdle Beach" X="1546" Y="3244" Icon="island" Facet="0"/>
+<Marker Name="Umbermare fortified village" X="1007" Y="2222" Icon="point of interest" Facet="0"/>
+<Marker Name=" The Undermountain" X="1813" Y="672" Icon="dungeon" Facet="0"/>
+<Marker Name=" The Undermountain" X="1841" Y="782" Icon="dungeon" Facet="0"/>
+<Marker Name=" Unmarked Grave" X="3320" Y="685" Icon="landmark" Facet="0"/>
+<Marker Name=" Ursal Cave" X="3345" Y="260" Icon="point of interest" Facet="0"/>
+<Marker Name="Urukton Bluffs" X="1884" Y="1130" Icon="dungeon" Facet="0"/>
+<Marker Name="Urukton Bluffs orc fort" X="1914" Y="1137" Icon="point of interest" Facet="0"/>
+<Marker Name="Valor Shrine" X="1167" Y="1494" Icon="shrine" Facet="0"/>
+<Marker Name=" Vine-Covered Cave" X="835" Y="1063" Icon="point of interest" Facet="0"/>
+<Marker Name="Volcano 1" X="2043" Y="3236" Icon="point of interest" Facet="0"/>
+<Marker Name=" Volcano 2 (Mount Greypeak)" X="838" Y="3154" Icon="point of interest" Facet="0"/>
+<Marker Name="Vurte Tul Rru" X="3884" Y="1038" Icon="point of interest" Facet="0"/>
+<Marker Name="Walkway of the Emperor" X="1400" Y="1393" Icon="scenic" Facet="0"/>
+<Marker Name=" Wandering Healer" X="3412" Y="725" Icon="healer" Facet="0"/>
+<Marker Name=" Watchtower on Yew tree" X="1200" Y="992" Icon="scenic" Facet="0"/>
+<Marker Name="Water Crossing" X="1753" Y="1168" Icon="bridge" Facet="0"/>
+<Marker Name="Water Crossing" X="1730" Y="1185" Icon="bridge" Facet="0"/>
+<Marker Name="Water crossing" X="1669" Y="1206" Icon="bridge" Facet="0"/>
+<Marker Name="Waterfall" X="1488" Y="2982" Icon="scenic" Facet="0"/>
+<Marker Name=" Waterway crossing" X="2070" Y="986" Icon="bridge" Facet="0"/>
+<Marker Name="Waterway to Prevalia" X="1953" Y="2636" Icon="teleporter" Facet="0"/>
+<Marker Name="Waterway to Shelter Island" X="1642" Y="1644" Icon="teleporter" Facet="0"/>
+<Marker Name="Weaponsmith and Armourer" X="1672" Y="1514" Icon="arms" Facet="0"/>
+<Marker Name="Western Camps" X="3452" Y="1444" Icon="landmark" Facet="0"/>
+<Marker Name=" Western Gate" X="1964" Y="585" Icon="gate" Facet="0"/>
+<Marker Name=" Western Ruins" X="618" Y="1235" Icon="point of interest" Facet="0"/>
+<Marker Name="Western Ruins Brigands 1" X="1192" Y="1262" Icon="point of interest" Facet="0"/>
+<Marker Name="Western Ruins Brigands 2" X="1164" Y="1367" Icon="point of interest" Facet="0"/>
+<Marker Name="Western Ruins Brigands 3" X="1058" Y="1365" Icon="point of interest" Facet="0"/>
+<Marker Name=" Western Ruins Caravan" X="710" Y="1182" Icon="caravan" Facet="0"/>
+<Marker Name="Wildside Caravan" X="1238" Y="1312" Icon="caravan" Facet="0"/>
+<Marker Name=" Winter Harbor" X="4292" Y="121" Icon="landmark" Facet="0"/>
+<Marker Name=" Winter Harbor Caravan" X="4284" Y="153" Icon="healer" Facet="0"/>
+<Marker Name=" Winterlands" X="6811" Y="220" Icon="terrain" Facet="0"/>
+<Marker Name="Winterlands train" X="5441" Y="3555" Icon="point of interest" Facet="0"/>
+<Marker Name=" Winterspire" X="3532" Y="142" Icon="landmark" Facet="0"/>
+<Marker Name=" Wintertop" X="3533" Y="528" Icon="point of interest" Facet="0"/>
+<Marker Name="Wooden box on pedestal" X="953" Y="754" Icon="other" Facet="0"/>
+<Marker Name="Wooden bridge (Lawless region border)" X="1351" Y="1963" Icon="bridge" Facet="0"/>
+<Marker Name="Yew Tree Pond" X="653" Y="705" Icon="scenic" Facet="0"/>
+<Marker Name="Zebra Falls" X="1003" Y="1372" Icon="point of interest" Facet="0"/>
+<Marker Name=" smuggler" X="3169" Y="308" Icon="thieves guild" Facet="0"/>
+<Marker Name="Abandoned Farm" X="1808" Y="1130" Icon="scenic" Facet="0"/>
+<Marker Name="Abandoned Greenhouses" X="1813" Y="1183" Icon="scenic" Facet="0"/>
+<Marker Name="Adventurer (thievery, t-maps)" X="1692" Y="1448" Icon="other" Facet="0"/>
+<Marker Name="Alchemist" X="1918" Y="2618" Icon="reagents" Facet="0"/>
+<Marker Name=" Alchemist" X="2245" Y="688" Icon="reagents" Facet="0"/>
+<Marker Name=" Alchemist" X="2224" Y="598" Icon="reagents" Facet="0"/>
+<Marker Name="Alchemist" X="1696" Y="2907" Icon="reagents" Facet="0"/>
+<Marker Name="Alchemist" X="1730" Y="2909" Icon="reagents" Facet="0"/>
+<Marker Name="Alchemist" X="1996" Y="2245" Icon="reagents" Facet="0"/>
+<Marker Name="Alchemist" X="1907" Y="1700" Icon="reagents" Facet="0"/>
+<Marker Name=" Alchemist" X="761" Y="1486" Icon="reagents" Facet="0"/>
+<Marker Name="Alchemist" X="1639" Y="1472" Icon="reagents" Facet="0"/>
+<Marker Name=" Alchemist" X="3774" Y="520" Icon="reagents" Facet="0"/>
+<Marker Name="Altar" X="1668" Y="2813" Icon="scenic" Facet="0"/>
+<Marker Name="Altar" X="1384" Y="1445" Icon="scenic" Facet="0"/>
+<Marker Name=" Anchor's Rest Bank" X="3732" Y="534" Icon="bank" Facet="0"/>
+<Marker Name=" Anchor's Rest Gate" X="3902" Y="533" Icon="gate" Facet="0"/>
+<Marker Name=" Andaria Market" X="2166" Y="742" Icon="market" Facet="0"/>
+<Marker Name="Apollo, Captain of the Guard" X="1774" Y="1418" Icon="other" Facet="0"/>
+<Marker Name="Apple Orchard" X="1368" Y="1215" Icon="beekeeper" Facet="0"/>
+<Marker Name="Arcane Alley" X="1889" Y="1712" Icon="scenic" Facet="0"/>
+<Marker Name=" Archer's guild" X="750" Y="1550" Icon="archers guild" Facet="0"/>
+<Marker Name="Archery" X="6453" Y="3063" Icon="other" Facet="0"/>
+<Marker Name=" Archery targets" X="789" Y="1426" Icon="other" Facet="0"/>
+<Marker Name="Architect" X="1618" Y="1544" Icon="customs" Facet="0"/>
+<Marker Name="Architect" X="2018" Y="2239" Icon="customs" Facet="0"/>
+<Marker Name="Architect and Real Estate" X="831" Y="709" Icon="customs" Facet="0"/>
+<Marker Name="Arena" X="1911" Y="2635" Icon="warriors guild" Facet="0"/>
+<Marker Name="Arena" X="1729" Y="1526" Icon="landmark" Facet="0"/>
+<Marker Name=" Arena" X="2099" Y="718" Icon="landmark" Facet="0"/>
+<Marker Name=" Arena" X="809" Y="1425" Icon="other" Facet="0"/>
+<Marker Name="Arena entrance" X="1771" Y="2864" Icon="exit" Facet="0"/>
+<Marker Name=" Armorer" X="2155" Y="601" Icon="arms" Facet="0"/>
+<Marker Name="Armorer (blacksmithy, tailoring)" X="1696" Y="1440" Icon="other" Facet="0"/>
+<Marker Name="Armorer and Weaponsmith" X="1812" Y="2893" Icon="arms" Facet="0"/>
+<Marker Name=" Armorer and Weaponsmith" X="3827" Y="559" Icon="arms" Facet="0"/>
+<Marker Name="Armourer" X="1964" Y="2582" Icon="arms" Facet="0"/>
+<Marker Name="Armourer" X="1927" Y="2986" Icon="arms" Facet="0"/>
+<Marker Name="Armourer" X="2024" Y="2224" Icon="arms" Facet="0"/>
+<Marker Name=" Armourer Weaponsmith" X="2173" Y="696" Icon="arms" Facet="0"/>
+<Marker Name="Artificer (alchemy, inscription)" X="1683" Y="1452" Icon="other" Facet="0"/>
+<Marker Name="Axe Toss" X="6429" Y="3099" Icon="other" Facet="0"/>
+<Marker Name="Baker" X="1600" Y="1549" Icon="baker" Facet="0"/>
+<Marker Name=" Baker" X="2172" Y="650" Icon="baker" Facet="0"/>
+<Marker Name="Baker" X="1726" Y="3038" Icon="baker" Facet="0"/>
+<Marker Name="Baker" X="2118" Y="2255" Icon="baker" Facet="0"/>
+<Marker Name="Baker" X="1852" Y="1722" Icon="baker" Facet="0"/>
+<Marker Name="Baker" X="828" Y="713" Icon="baker" Facet="0"/>
+<Marker Name=" Baker" X="3706" Y="572" Icon="baker" Facet="0"/>
+<Marker Name="Baker" X="2048" Y="2258" Icon="baker" Facet="0"/>
+<Marker Name="Bakery" X="1888" Y="3071" Icon="baker" Facet="0"/>
+<Marker Name=" Bakery" X="681" Y="1509" Icon="baker" Facet="0"/>
+<Marker Name=" Bakery" X="3060" Y="544" Icon="baker" Facet="0"/>
+<Marker Name="Bank" X="1956" Y="2583" Icon="bank" Facet="0"/>
+<Marker Name=" Bank" X="2187" Y="628" Icon="bank" Facet="0"/>
+<Marker Name="Bank" X="1750" Y="3003" Icon="bank" Facet="0"/>
+<Marker Name="Bank" X="2021" Y="2241" Icon="bank" Facet="0"/>
+<Marker Name="Bank" X="1928" Y="1704" Icon="bank" Facet="0"/>
+<Marker Name=" Bank" X="725" Y="1507" Icon="bank" Facet="0"/>
+<Marker Name=" Bank" X="3050" Y="545" Icon="bank" Facet="0"/>
+<Marker Name="Bank" X="865" Y="703" Icon="bank" Facet="0"/>
+<Marker Name="Bard" X="1985" Y="2630" Icon="bard" Facet="0"/>
+<Marker Name=" Bard" X="2161" Y="620" Icon="bard" Facet="0"/>
+<Marker Name="Bard" X="1803" Y="2937" Icon="bard" Facet="0"/>
+<Marker Name="Bard" X="1863" Y="3015" Icon="bard" Facet="0"/>
+<Marker Name="Bard" X="2018" Y="2252" Icon="bard" Facet="0"/>
+<Marker Name="Bard" X="1773" Y="1526" Icon="bard" Facet="0"/>
+<Marker Name="Bard" X="1460" Y="2415" Icon="bard" Facet="0"/>
+<Marker Name="Bard" X="1785" Y="1443" Icon="bard" Facet="0"/>
+<Marker Name="Bard" X="1756" Y="1401" Icon="bard" Facet="0"/>
+<Marker Name="Bay Inn" X="2025" Y="2307" Icon="inn" Facet="0"/>
+<Marker Name="Beautiful beach" X="1251" Y="2414" Icon="scenic" Facet="0"/>
+<Marker Name="Beekeeper" X="1742" Y="3036" Icon="beekeeper" Facet="0"/>
+<Marker Name="Beekeeper" X="1587" Y="1234" Icon="beekeeper" Facet="0"/>
+<Marker Name="Beekeeper" X="1417" Y="2465" Icon="beekeeper" Facet="0"/>
+<Marker Name="Beekeeper" X="1601" Y="2610" Icon="beekeeper" Facet="0"/>
+<Marker Name=" Beekeeper" X="3821" Y="539" Icon="beekeeper" Facet="0"/>
+<Marker Name="Beekeepers" X="1536" Y="1221" Icon="beekeeper" Facet="0"/>
+<Marker Name="Beggar" X="1940" Y="2628" Icon="rogues guild" Facet="0"/>
+<Marker Name="Beggar" X="1833" Y="1728" Icon="rogues guild" Facet="0"/>
+<Marker Name="Beggar" X="1820" Y="1544" Icon="rogues guild" Facet="0"/>
+<Marker Name="Beggars living under the bridge" X="1836" Y="1628" Icon="rogues guild" Facet="0"/>
+<Marker Name="Begger" X="1990" Y="2630" Icon="rogues guild" Facet="0"/>
+<Marker Name="Bell Striker" X="6434" Y="3073" Icon="other" Facet="0"/>
+<Marker Name="Blacksmith" X="1974" Y="2587" Icon="blacksmith" Facet="0"/>
+<Marker Name="Blacksmith" X="1979" Y="2555" Icon="blacksmith" Facet="0"/>
+<Marker Name="Blacksmith" X="1648" Y="1545" Icon="blacksmith" Facet="0"/>
+<Marker Name="Blacksmith" X="1642" Y="1509" Icon="blacksmith" Facet="0"/>
+<Marker Name=" Blacksmith" X="2191" Y="700" Icon="blacksmith" Facet="0"/>
+<Marker Name=" Blacksmith" X="2157" Y="592" Icon="blacksmith" Facet="0"/>
+<Marker Name="Blacksmith" X="1801" Y="2897" Icon="blacksmith" Facet="0"/>
+<Marker Name="Blacksmith" X="1867" Y="1674" Icon="blacksmith" Facet="0"/>
+<Marker Name=" Blacksmith" X="695" Y="1518" Icon="blacksmith" Facet="0"/>
+<Marker Name=" Blacksmith" X="3034" Y="539" Icon="blacksmith" Facet="0"/>
+<Marker Name=" Blacksmith" X="2169" Y="694" Icon="blacksmith" Facet="0"/>
+<Marker Name="Blacksmith" X="1441" Y="2436" Icon="blacksmith" Facet="0"/>
+<Marker Name="Blacksmith" X="871" Y="670" Icon="blacksmith" Facet="0"/>
+<Marker Name=" Blacksmith" X="3856" Y="545" Icon="blacksmith" Facet="0"/>
+<Marker Name="Blacksmith" X="2024" Y="2230" Icon="blacksmith" Facet="0"/>
+<Marker Name="Bowyer" X="1970" Y="2606" Icon="bowyer" Facet="0"/>
+<Marker Name="Bowyer" X="1581" Y="1543" Icon="bowyer" Facet="0"/>
+<Marker Name=" Bowyer" X="2200" Y="765" Icon="bowyer" Facet="0"/>
+<Marker Name="Bowyer" X="1799" Y="2916" Icon="bowyer" Facet="0"/>
+<Marker Name="Bowyer" X="2010" Y="2185" Icon="bowyer" Facet="0"/>
+<Marker Name="Bowyer" X="1909" Y="1676" Icon="bowyer" Facet="0"/>
+<Marker Name=" Bowyer" X="3062" Y="512" Icon="bowyer" Facet="0"/>
+<Marker Name="Bowyer" X="866" Y="692" Icon="bowyer" Facet="0"/>
+<Marker Name=" Bowyer" X="3834" Y="544" Icon="bowyer" Facet="0"/>
+<Marker Name="Boxing Match" X="6457" Y="3084" Icon="other" Facet="0"/>
+<Marker Name="Bridge" X="1947" Y="1287" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1620" Y="1335" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1613" Y="1289" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1353" Y="1047" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="2123" Y="794" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="2263" Y="671" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="2140" Y="671" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="2248" Y="750" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1636" Y="3139" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1652" Y="3055" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1950" Y="3002" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1694" Y="2987" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1438" Y="1516" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1534" Y="1516" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1987" Y="1414" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1176" Y="2344" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="967" Y="2163" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1189" Y="2434" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1953" Y="1864" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1412" Y="1552" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1178" Y="1618" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="814" Y="1157" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="2999" Y="629" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="957" Y="702" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="909" Y="675" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="773" Y="718" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="758" Y="694" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1109" Y="1662" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1175" Y="1687" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="1182" Y="1654" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="3744" Y="462" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="3871" Y="533" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge (Lawless region border)" X="898" Y="885" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge with gate (Lawless region border)" X="801" Y="706" Icon="bridge" Facet="0"/>
+<Marker Name="Brigand Outpost" X="1795" Y="2177" Icon="point of interest" Facet="0"/>
+<Marker Name="Brigand outpost" X="1133" Y="1372" Icon="other" Facet="0"/>
+<Marker Name=" Broken wall" X="3732" Y="429" Icon="gate" Facet="0"/>
+<Marker Name="Building under construction" X="1694" Y="2870" Icon="scenic" Facet="0"/>
+<Marker Name=" Buried tomb" X="2122" Y="506" Icon="stairs" Facet="0"/>
+<Marker Name=" Buried tomb" X="2086" Y="490" Icon="stairs" Facet="0"/>
+<Marker Name="Butcher" X="1995" Y="2613" Icon="butcher" Facet="0"/>
+<Marker Name="Butcher" X="1522" Y="1272" Icon="butcher" Facet="0"/>
+<Marker Name=" Butcher" X="2173" Y="642" Icon="butcher" Facet="0"/>
+<Marker Name="Butcher" X="1900" Y="3072" Icon="butcher" Facet="0"/>
+<Marker Name="Butcher" X="1719" Y="3022" Icon="butcher" Facet="0"/>
+<Marker Name="Butcher" X="2171" Y="2204" Icon="butcher" Facet="0"/>
+<Marker Name="Butcher" X="2058" Y="2291" Icon="butcher" Facet="0"/>
+<Marker Name="Butcher" X="1931" Y="1648" Icon="butcher" Facet="0"/>
+<Marker Name="Butcher" X="1454" Y="2470" Icon="butcher" Facet="0"/>
+<Marker Name=" Butcher" X="3685" Y="571" Icon="butcher" Facet="0"/>
+<Marker Name="Calryn" X="1755" Y="1419" Icon="other" Facet="0"/>
+<Marker Name="Cambria West Gate" X="1704" Y="2988" Icon="gate" Facet="0"/>
+<Marker Name="The Cambrian Archaeological Society" X="1702" Y="2923" Icon="guild" Facet="0"/>
+<Marker Name="Camp" X="1978" Y="1977" Icon="ruins" Facet="0"/>
+<Marker Name="Carpenter" X="1977" Y="2606" Icon="carpenter" Facet="0"/>
+<Marker Name="Carpenter" X="1518" Y="1250" Icon="carpenter" Facet="0"/>
+<Marker Name=" Carpenter" X="2227" Y="715" Icon="carpenter" Facet="0"/>
+<Marker Name=" Carpenter" X="2186" Y="764" Icon="carpenter" Facet="0"/>
+<Marker Name="Carpenter" X="1808" Y="2971" Icon="carpenter" Facet="0"/>
+<Marker Name="Carpenter" X="2003" Y="2180" Icon="carpenter" Facet="0"/>
+<Marker Name="Carpenter" X="1851" Y="1730" Icon="carpenter" Facet="0"/>
+<Marker Name="Carpenter" X="1868" Y="1731" Icon="carpenter" Facet="0"/>
+<Marker Name="Carpenter" X="1598" Y="1203" Icon="carpenter" Facet="0"/>
+<Marker Name=" Carpenter" X="678" Y="1481" Icon="carpenter" Facet="0"/>
+<Marker Name=" Carpenter" X="3062" Y="516" Icon="carpenter" Facet="0"/>
+<Marker Name="Carpenter" X="1848" Y="3047" Icon="carpenter" Facet="0"/>
+<Marker Name=" Carpenter" X="3705" Y="536" Icon="carpenter" Facet="0"/>
+<Marker Name="Carpenter and Lumberjacks" X="1132" Y="2272" Icon="carpenter" Facet="0"/>
+<Marker Name="Castle Gate" X="1765" Y="1478" Icon="gate" Facet="0"/>
+<Marker Name="Cave" X="2025" Y="1959" Icon="exit" Facet="0"/>
+<Marker Name="Cave" X="2007" Y="1948" Icon="exit" Facet="0"/>
+<Marker Name=" Cave" X="585" Y="1961" Icon="exit" Facet="0"/>
+<Marker Name=" Cave" X="600" Y="1947" Icon="exit" Facet="0"/>
+<Marker Name="Central Bank of Prevalia" X="1614" Y="1501" Icon="bank" Facet="0"/>
+<Marker Name="City Jail" X="1853" Y="3121" Icon="scenic" Facet="0"/>
+<Marker Name=" The Clock Tower" X="3755" Y="535" Icon="scenic" Facet="0"/>
+<Marker Name=" Cobbler" X="2191" Y="676" Icon="other" Facet="0"/>
+<Marker Name="Cobbler" X="1749" Y="2890" Icon="other" Facet="0"/>
+<Marker Name="Coffin" X="1488" Y="2433" Icon="other" Facet="0"/>
+<Marker Name="Coffins" X="844" Y="716" Icon="other" Facet="0"/>
+<Marker Name=" Conference building" X="2153" Y="636" Icon="landmark" Facet="0"/>
+<Marker Name="Conservatory" X="1766" Y="1501" Icon="bard" Facet="0"/>
+<Marker Name="Cook" X="1506" Y="1247" Icon="tavern" Facet="0"/>
+<Marker Name="Cook" X="1714" Y="3029" Icon="tavern" Facet="0"/>
+<Marker Name="Cook" X="1610" Y="2572" Icon="baker" Facet="0"/>
+<Marker Name="Cook" X="1623" Y="2590" Icon="baker" Facet="0"/>
+<Marker Name="Corpse Creek Gate  (Lawless region border)" X="972" Y="689" Icon="gate" Facet="0"/>
+<Marker Name="Corpse Creek Stylist (donation)" X="848" Y="673" Icon="merchants guild" Facet="0"/>
+<Marker Name=" Customs (Mapmaker)" X="3083" Y="531" Icon="customs" Facet="0"/>
+<Marker Name="Defensive wall under construction" X="880" Y="738" Icon="other" Facet="0"/>
+<Marker Name="Derby" X="6497" Y="3024" Icon="other" Facet="0"/>
+<Marker Name="Dockmaster" X="1701" Y="1620" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="1918" Y="3099" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="1933" Y="3081" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="1926" Y="3049" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="1947" Y="2886" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="2040" Y="2179" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="2036" Y="2212" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="2011" Y="1603" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="2014" Y="1643" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="2017" Y="1659" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="2017" Y="1676" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="2023" Y="1693" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="690" Y="1464" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="670" Y="1545" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="2198" Y="811" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="2173" Y="814" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="2257" Y="700" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="1641" Y="2561" Icon="docks" Facet="0"/>
+<Marker Name="Dockmaster" X="822" Y="743" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="2814" Y="563" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="3802" Y="506" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster" X="3717" Y="472" Icon="docks" Facet="0"/>
+<Marker Name=" Dockmaster and Fisherman" X="3110" Y="531" Icon="docks" Facet="0"/>
+<Marker Name=" Docks" X="2152" Y="801" Icon="docks" Facet="0"/>
+<Marker Name="Docks" X="2046" Y="2207" Icon="docks" Facet="0"/>
+<Marker Name="Dragon statue" X="1383" Y="1426" Icon="scenic" Facet="0"/>
+<Marker Name="Drake nests" X="1770" Y="2103" Icon="point of interest" Facet="0"/>
+<Marker Name="Drinking contest" X="6513" Y="3044" Icon="other" Facet="0"/>
+<Marker Name="Dunk Tank" X="6436" Y="3058" Icon="other" Facet="0"/>
+<Marker Name="Earth elemental valley" X="1334" Y="2570" Icon="point of interest" Facet="0"/>
+<Marker Name="East gate" X="1809" Y="1489" Icon="gate" Facet="0"/>
+<Marker Name="Empty animal pen" X="2007" Y="1715" Icon="other" Facet="0"/>
+<Marker Name=" Empty house" X="1639" Y="992" Icon="scenic" Facet="0"/>
+<Marker Name=" Empty house" X="2121" Y="825" Icon="other" Facet="0"/>
+<Marker Name="Entrance to Palladin's Tomb" X="1676" Y="2809" Icon="exit" Facet="0"/>
+<Marker Name=" Entrance walls" X="3014" Y="581" Icon="other" Facet="0"/>
+<Marker Name="Exchange office" X="1667" Y="1481" Icon="merchants guild" Facet="0"/>
+<Marker Name="Faire Vendor" X="6449" Y="3024" Icon="other" Facet="0"/>
+<Marker Name="Farm" X="888" Y="674" Icon="scenic" Facet="0"/>
+<Marker Name="Farm Vineyard" X="1613" Y="1454" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1953" Y="2570" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="2110" Y="2313" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1715" Y="3038" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1875" Y="2629" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1873" Y="2589" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1507" Y="1278" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1392" Y="1220" Icon="baker" Facet="0"/>
+<Marker Name=" Farmer" X="2287" Y="654" Icon="baker" Facet="0"/>
+<Marker Name=" Farmer" X="2277" Y="753" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1657" Y="3153" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1753" Y="3047" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="2115" Y="2276" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1950" Y="1777" Icon="baker" Facet="0"/>
+<Marker Name=" Farmer" X="805" Y="1399" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1488" Y="1218" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1486" Y="1189" Icon="baker" Facet="0"/>
+<Marker Name=" Farmer" X="749" Y="1432" Icon="baker" Facet="0"/>
+<Marker Name=" Farmer" X="2301" Y="667" Icon="baker" Facet="0"/>
+<Marker Name=" Farmer" X="2546" Y="624" Icon="baker" Facet="0"/>
+<Marker Name=" Farmer" X="2506" Y="631" Icon="baker" Facet="0"/>
+<Marker Name=" Farmer" X="2444" Y="623" Icon="baker" Facet="0"/>
+<Marker Name=" Farmer" X="2471" Y="574" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1392" Y="2451" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1423" Y="2421" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1409" Y="2474" Icon="baker" Facet="0"/>
+<Marker Name="Farmer" X="1606" Y="2595" Icon="baker" Facet="0"/>
+<Marker Name="Farmer and Sheeps" X="1981" Y="1468" Icon="baker" Facet="0"/>
+<Marker Name="Farmer with sheeps" X="1590" Y="2606" Icon="baker" Facet="0"/>
+<Marker Name="Farmers" X="1617" Y="3113" Icon="baker" Facet="0"/>
+<Marker Name=" Ferry" X="3935" Y="533" Icon="ship" Facet="0"/>
+<Marker Name="Ferry to Prevalia" X="6472" Y="2973" Icon="teleporter" Facet="0"/>
+<Marker Name=" Fey Spirits" X="1270" Y="991" Icon="point of interest" Facet="0"/>
+<Marker Name="Field" X="900" Y="749" Icon="other" Facet="0"/>
+<Marker Name="Field" X="907" Y="713" Icon="other" Facet="0"/>
+<Marker Name="Fire Pit" X="1227" Y="1736" Icon="scenic" Facet="0"/>
+<Marker Name="Fisherman" X="1951" Y="2631" Icon="docks" Facet="0"/>
+<Marker Name="Fisherman" X="1886" Y="2648" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Fisherman" X="1878" Y="3013" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Fisherman" X="2021" Y="2196" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Fisherman" X="2044" Y="2309" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Fisherman" X="1993" Y="1648" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Fisherman" X="2015" Y="1691" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Fisherman" X="1640" Y="2568" Icon="fishermans guild" Facet="0"/>
+<Marker Name=" Fisherman" X="3772" Y="504" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Fisherman's Guild" X="1887" Y="3081" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Fishing" X="6482" Y="3087" Icon="other" Facet="0"/>
+<Marker Name=" Fletcher" X="2199" Y="754" Icon="bowyer" Facet="0"/>
+<Marker Name="Food Truck" X="6506" Y="3063" Icon="other" Facet="0"/>
+<Marker Name="Forge and Anvil" X="1975" Y="1394" Icon="other" Facet="0"/>
+<Marker Name="Forge and Anvil" X="834" Y="727" Icon="other" Facet="0"/>
+<Marker Name=" Fortification" X="2122" Y="845" Icon="landmark" Facet="0"/>
+<Marker Name="Fortune Teller" X="6437" Y="3033" Icon="other" Facet="0"/>
+<Marker Name=" Fountain" X="3822" Y="529" Icon="scenic" Facet="0"/>
+<Marker Name=" Gallows" X="2148" Y="679" Icon="other" Facet="0"/>
+<Marker Name="Garrison" X="1570" Y="1485" Icon="warriors guild" Facet="0"/>
+<Marker Name="Garrison building" X="1991" Y="1713" Icon="other" Facet="0"/>
+<Marker Name=" Garrison building" X="3033" Y="569" Icon="other" Facet="0"/>
+<Marker Name="Gate" X="1711" Y="1488" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1997" Y="2225" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="2071" Y="2243" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1795" Y="1707" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1954" Y="1713" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1955" Y="1700" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1976" Y="1738" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="789" Y="1492" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="3052" Y="577" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="3024" Y="524" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="3078" Y="531" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1707" Y="1552" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="2053" Y="682" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1652" Y="1576" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1650" Y="1598" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1671" Y="1598" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1648" Y="2583" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1607" Y="2605" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1591" Y="2573" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1406" Y="1267" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1407" Y="1254" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1387" Y="1275" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1749" Y="1546" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1801" Y="1548" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1285" Y="1765" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1292" Y="1778" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1347" Y="1775" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1331" Y="1762" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1311" Y="1762" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="1902" Y="770" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="879" Y="686" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="859" Y="665" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="820" Y="693" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="868" Y="753" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1109" Y="1640" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1095" Y="1637" Icon="gate" Facet="0"/>
+<Marker Name="gate" X="1072" Y="1664" Icon="gate" Facet="0"/>
+<Marker Name="gate" X="1096" Y="1680" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1135" Y="1686" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="1869" Y="1623" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="2150" Y="584" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="2168" Y="580" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="3088" Y="512" Icon="gate" Facet="0"/>
+<Marker Name=" Gate (Lawless region border)" X="1025" Y="810" Icon="gate" Facet="0"/>
+<Marker Name="Gate to King's Domain" X="1574" Y="1144" Icon="gate" Facet="0"/>
+<Marker Name="Gladiator's Arena" X="1756" Y="2857" Icon="scenic" Facet="0"/>
+<Marker Name=" Gladiators" X="2012" Y="771" Icon="point of interest" Facet="0"/>
+<Marker Name="The Golden Ingot Casino" X="1675" Y="1483" Icon="point of interest" Facet="0"/>
+<Marker Name="The Golden Ingot Casino" X="5849" Y="3302" Icon="point of interest" Facet="0"/>
+<Marker Name=" Guard tower" X="2165" Y="679" Icon="landmark" Facet="0"/>
+<Marker Name="Guardtower" X="1854" Y="1200" Icon="landmark" Facet="0"/>
+<Marker Name="Guardtower" X="1749" Y="1274" Icon="landmark" Facet="0"/>
+<Marker Name="Guardtower Prevalia defenses" X="1579" Y="1753" Icon="landmark" Facet="0"/>
+<Marker Name=" Healer" X="3762" Y="516" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="1907" Y="2585" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="1681" Y="1559" Icon="healer" Facet="0"/>
+<Marker Name=" Healer" X="2231" Y="763" Icon="healer" Facet="0"/>
+<Marker Name=" Healer" X="2177" Y="599" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="1696" Y="2941" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="1845" Y="2906" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="2017" Y="2262" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="1901" Y="1656" Icon="healer" Facet="0"/>
+<Marker Name=" Healer" X="738" Y="1531" Icon="healer" Facet="0"/>
+<Marker Name=" Healer" X="3059" Y="569" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="1436" Y="2238" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="762" Y="764" Icon="healer" Facet="0"/>
+<Marker Name=" Healer" X="1786" Y="998" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="1220" Y="2809" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="3409" Y="3707" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="2067" Y="3228" Icon="healer" Facet="0"/>
+<Marker Name="Healer" X="857" Y="733" Icon="healer" Facet="0"/>
+<Marker Name="Herbalist" X="1880" Y="1701" Icon="reagents" Facet="0"/>
+<Marker Name=" Herbalist" X="2245" Y="681" Icon="reagents" Facet="0"/>
+<Marker Name="Herbalist" X="1763" Y="2887" Icon="reagents" Facet="0"/>
+<Marker Name="Herbalist" X="1609" Y="1482" Icon="reagents" Facet="0"/>
+<Marker Name=" House" X="3706" Y="553" Icon="scenic" Facet="0"/>
+<Marker Name=" House boats area" X="4017" Y="580" Icon="other" Facet="0"/>
+<Marker Name=" House boats area" X="4018" Y="464" Icon="other" Facet="0"/>
+<Marker Name="Iaric IV, King of Prevalia" X="1765" Y="1394" Icon="other" Facet="0"/>
+<Marker Name="Inn" X="2043" Y="2251" Icon="inn" Facet="0"/>
+<Marker Name="Inn" X="1936" Y="2593" Icon="inn" Facet="0"/>
+<Marker Name="Inn" X="1641" Y="1452" Icon="inn" Facet="0"/>
+<Marker Name=" Inn" X="2159" Y="661" Icon="inn" Facet="0"/>
+<Marker Name="Inn" X="1896" Y="3009" Icon="inn" Facet="0"/>
+<Marker Name="Inn" X="1946" Y="1656" Icon="inn" Facet="0"/>
+<Marker Name="Inn" X="1946" Y="1621" Icon="inn" Facet="0"/>
+<Marker Name=" Inn" X="734" Y="1462" Icon="inn" Facet="0"/>
+<Marker Name=" Inn" X="3051" Y="514" Icon="inn" Facet="0"/>
+<Marker Name="Inn" X="1627" Y="2567" Icon="inn" Facet="0"/>
+<Marker Name="Inn" X="823" Y="713" Icon="inn" Facet="0"/>
+<Marker Name=" Inn" X="3843" Y="497" Icon="inn" Facet="0"/>
+<Marker Name="Jeweler" X="2028" Y="2252" Icon="jeweler" Facet="0"/>
+<Marker Name="Jeweler" X="2001" Y="2562" Icon="jeweler" Facet="0"/>
+<Marker Name="Jeweler" X="1562" Y="1548" Icon="jeweler" Facet="0"/>
+<Marker Name=" Jeweler" X="2218" Y="641" Icon="jeweler" Facet="0"/>
+<Marker Name="Jeweler" X="1767" Y="2982" Icon="jeweler" Facet="0"/>
+<Marker Name="Jeweler" X="1872" Y="1649" Icon="jeweler" Facet="0"/>
+<Marker Name="Jeweler" X="1934" Y="1730" Icon="jeweler" Facet="0"/>
+<Marker Name=" Jeweler" X="752" Y="1516" Icon="jeweler" Facet="0"/>
+<Marker Name=" Jeweler" X="3061" Y="528" Icon="jeweler" Facet="0"/>
+<Marker Name="Jeweler" X="838" Y="672" Icon="jeweler" Facet="0"/>
+<Marker Name=" Jeweler" X="3721" Y="519" Icon="jeweler" Facet="0"/>
+<Marker Name="Joust" X="6483" Y="3061" Icon="other" Facet="0"/>
+<Marker Name=" Jousting Arena" X="805" Y="1445" Icon="other" Facet="0"/>
+<Marker Name=" Keep mansion" X="2201" Y="566" Icon="landmark" Facet="0"/>
+<Marker Name=" King's garden" X="1573" Y="975" Icon="scenic" Facet="0"/>
+<Marker Name="King's Manor" X="1706" Y="2836" Icon="scenic" Facet="0"/>
+<Marker Name=" Knight's quarters" X="2048" Y="722" Icon="landmark" Facet="0"/>
+<Marker Name="Ladder Golf" X="6433" Y="3087" Icon="other" Facet="0"/>
+<Marker Name="Large mining cave w zombies" X="1250" Y="1168" Icon="exit" Facet="0"/>
+<Marker Name="Lawless region border" X="930" Y="661" Icon="other" Facet="0"/>
+<Marker Name=" Library" X="680" Y="1517" Icon="library" Facet="0"/>
+<Marker Name="Library" X="1639" Y="1480" Icon="library" Facet="0"/>
+<Marker Name=" Library" X="3752" Y="551" Icon="library" Facet="0"/>
+<Marker Name="Lighthouse under construction" X="1943" Y="2870" Icon="scenic" Facet="0"/>
+<Marker Name="Log and rope bridge" X="896" Y="659" Icon="bridge" Facet="0"/>
+<Marker Name="Log bridge" X="741" Y="611" Icon="bridge" Facet="0"/>
+<Marker Name="Log Cutter" X="6418" Y="3072" Icon="other" Facet="0"/>
+<Marker Name=" Logging camp" X="1938" Y="806" Icon="point of interest" Facet="0"/>
+<Marker Name=" Logging camp" X="1970" Y="762" Icon="point of interest" Facet="0"/>
+<Marker Name="Long Bridge" X="1801" Y="1591" Icon="bridge" Facet="0"/>
+<Marker Name="Lookout Tower" X="925" Y="657" Icon="landmark" Facet="0"/>
+<Marker Name="Lord Woofington III (dog)" X="1785" Y="1435" Icon="other" Facet="0"/>
+<Marker Name="Lumberjack" X="2100" Y="2314" Icon="carpenter" Facet="0"/>
+<Marker Name="Lumberjack" X="1999" Y="2574" Icon="carpenter" Facet="0"/>
+<Marker Name="Lumberjack" X="1882" Y="2557" Icon="carpenter" Facet="0"/>
+<Marker Name="Lumberjack" X="1524" Y="1246" Icon="carpenter" Facet="0"/>
+<Marker Name=" Lumberjack" X="2294" Y="641" Icon="carpenter" Facet="0"/>
+<Marker Name="Lumberjack" X="2168" Y="2211" Icon="carpenter" Facet="0"/>
+<Marker Name="Lumberjack" X="1413" Y="2453" Icon="carpenter" Facet="0"/>
+<Marker Name="Lumberjack" X="1450" Y="2448" Icon="carpenter" Facet="0"/>
+<Marker Name="Mage" X="1999" Y="2250" Icon="mage" Facet="0"/>
+<Marker Name="Mage" X="1919" Y="2623" Icon="mage" Facet="0"/>
+<Marker Name=" Mage" X="2234" Y="688" Icon="mage" Facet="0"/>
+<Marker Name=" Mage" X="2208" Y="599" Icon="mage" Facet="0"/>
+<Marker Name="Mage" X="1760" Y="2981" Icon="mage" Facet="0"/>
+<Marker Name="Mage" X="1702" Y="2907" Icon="mage" Facet="0"/>
+<Marker Name="Mage" X="1880" Y="1726" Icon="mage" Facet="0"/>
+<Marker Name=" Mage" X="755" Y="1495" Icon="mage" Facet="0"/>
+<Marker Name=" Mage" X="3037" Y="514" Icon="mage" Facet="0"/>
+<Marker Name="Mage" X="1610" Y="1474" Icon="mage" Facet="0"/>
+<Marker Name="Mage guild" X="828" Y="681" Icon="mage" Facet="0"/>
+<Marker Name=" Mage Shop" X="3690" Y="546" Icon="mage" Facet="0"/>
+<Marker Name="Mapmaker" X="2018" Y="2242" Icon="shipwright" Facet="0"/>
+<Marker Name="Mapmaker" X="1969" Y="2619" Icon="library" Facet="0"/>
+<Marker Name="Mapmaker" X="1933" Y="2655" Icon="library" Facet="0"/>
+<Marker Name=" Mapmaker" X="2174" Y="793" Icon="library" Facet="0"/>
+<Marker Name="Mapmaker" X="1757" Y="3017" Icon="library" Facet="0"/>
+<Marker Name="Mapmaker" X="1984" Y="1693" Icon="library" Facet="0"/>
+<Marker Name="Mapmaker" X="851" Y="697" Icon="library" Facet="0"/>
+<Marker Name=" Marketplace" X="2172" Y="777" Icon="tavern" Facet="0"/>
+<Marker Name="Meeting Hall" X="1754" Y="2918" Icon="scenic" Facet="0"/>
+<Marker Name="Merchant's Guild" X="1656" Y="1621" Icon="merchants guild" Facet="0"/>
+<Marker Name="The Mess Hall" X="1907" Y="2604" Icon="bardic guild" Facet="0"/>
+<Marker Name="Miner" X="1971" Y="2534" Icon="miners guild" Facet="0"/>
+<Marker Name=" Miner" X="3845" Y="543" Icon="miners guild" Facet="0"/>
+<Marker Name="Miner's Guild" X="1854" Y="3105" Icon="miners guild" Facet="0"/>
+<Marker Name="Mining cave" X="2151" Y="2186" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="2126" Y="2224" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1750" Y="1864" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1788" Y="1850" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1766" Y="1847" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1918" Y="1450" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1954" Y="1414" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1971" Y="1399" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="1947" Y="706" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2460" Y="428" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2533" Y="759" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2566" Y="689" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2620" Y="669" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2596" Y="661" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2587" Y="545" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2639" Y="568" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2661" Y="656" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2731" Y="564" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2793" Y="490" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2789" Y="469" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2772" Y="460" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1546" Y="2701" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1569" Y="2682" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1298" Y="1129" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1316" Y="1145" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1348" Y="1198" Icon="exit" Facet="0"/>
+<Marker Name="Mining cave" X="1421" Y="1197" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="2498" Y="731" Icon="exit" Facet="0"/>
+<Marker Name=" Mining cave" X="1885" Y="749" Icon="exit" Facet="0"/>
+<Marker Name="Mongbat infested property" X="1761" Y="1184" Icon="point of interest" Facet="0"/>
+<Marker Name="Monster hunter (kill creatures and paragons)" X="1684" Y="1448" Icon="other" Facet="0"/>
+<Marker Name="Monumental Tree" X="1470" Y="1091" Icon="landmark" Facet="0"/>
+<Marker Name="Music shop" X="1803" Y="2956" Icon="bardic guild" Facet="0"/>
+<Marker Name="Necromancer" X="1697" Y="2797" Icon="other" Facet="0"/>
+<Marker Name="Ninos Eating Contest" X="6437" Y="3138" Icon="other" Facet="0"/>
+<Marker Name="North Gate" X="1617" Y="1439" Icon="gate" Facet="0"/>
+<Marker Name=" Open air Theatre" X="2237" Y="561" Icon="theater" Facet="0"/>
+<Marker Name="Open air Theatre" X="1762" Y="1517" Icon="theater" Facet="0"/>
+<Marker Name="Oratorium" X="1730" Y="2869" Icon="scenic" Facet="0"/>
+<Marker Name="Palladin" X="1751" Y="1395" Icon="other" Facet="0"/>
+<Marker Name="The Palm's Casino RUNE LIBRARY" X="1510" Y="2836" Icon="sorcerers guild" Facet="0"/>
+<Marker Name="Park" X="1757" Y="2941" Icon="scenic" Facet="0"/>
+<Marker Name="Passage" X="1633" Y="1460" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="1645" Y="1460" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="1103" Y="1686" Icon="exit" Facet="0"/>
+<Marker Name=" Passage" X="3737" Y="502" Icon="exit" Facet="0"/>
+<Marker Name="Passage entrance" X="1118" Y="1702" Icon="exit" Facet="0"/>
+<Marker Name="Passage entrance" X="1079" Y="1666" Icon="exit" Facet="0"/>
+<Marker Name="Pavilion" X="1645" Y="1492" Icon="scenic" Facet="0"/>
+<Marker Name="Peach Orchard" X="1394" Y="1230" Icon="beekeeper" Facet="0"/>
+<Marker Name="Pear Orchard" X="1390" Y="1200" Icon="beekeeper" Facet="0"/>
+<Marker Name="Pirate Shipyard" X="825" Y="734" Icon="shipwright" Facet="0"/>
+<Marker Name="Prevalia Bakery on Docks" X="1680" Y="1622" Icon="baker" Facet="0"/>
+<Marker Name="Prevalia defenses" X="1399" Y="1518" Icon="landmark" Facet="0"/>
+<Marker Name="Prevalia Fish Market" X="1668" Y="1618" Icon="fishermans guild" Facet="0"/>
+<Marker Name="Prevalia Guardtower" X="1597" Y="1369" Icon="landmark" Facet="0"/>
+<Marker Name="Prevalia Guardtower" X="1569" Y="1670" Icon="landmark" Facet="0"/>
+<Marker Name="Prevalia Guardtower" X="1937" Y="1329" Icon="landmark" Facet="0"/>
+<Marker Name="Prevalia Tavern on Docks" X="1689" Y="1604" Icon="tavern" Facet="0"/>
+<Marker Name="Prevalian Exchange Officer" X="848" Y="668" Icon="merchants guild" Facet="0"/>
+<Marker Name="Prevalian Public Forum" X="1664" Y="1455" Icon="scenic" Facet="0"/>
+<Marker Name="Prevalian Stylist (donation)" X="1660" Y="1482" Icon="merchants guild" Facet="0"/>
+<Marker Name="Provisioner" X="1849" Y="1681" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="2019" Y="2210" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="1979" Y="2566" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="1646" Y="1619" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="1619" Y="1542" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="1622" Y="1547" Icon="provisioner" Facet="0"/>
+<Marker Name=" Provisioner" X="2215" Y="764" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="1892" Y="3057" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="1856" Y="3094" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="1673" Y="2919" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="1846" Y="1655" Icon="provisioner" Facet="0"/>
+<Marker Name=" Provisioner" X="681" Y="1522" Icon="provisioner" Facet="0"/>
+<Marker Name=" Provisioner" X="3052" Y="534" Icon="provisioner" Facet="0"/>
+<Marker Name="Provisioner" X="824" Y="705" Icon="provisioner" Facet="0"/>
+<Marker Name=" Provisioner" X="3694" Y="578" Icon="provisioner" Facet="0"/>
+<Marker Name="Pylon Gladiator" X="6507" Y="3073" Icon="other" Facet="0"/>
+<Marker Name="Ranger" X="1871" Y="2654" Icon="bowyer" Facet="0"/>
+<Marker Name="Ranger" X="2181" Y="2198" Icon="other" Facet="0"/>
+<Marker Name="Ranger" X="1965" Y="1770" Icon="other" Facet="0"/>
+<Marker Name="Ranger" X="1129" Y="2282" Icon="bowyer" Facet="0"/>
+<Marker Name="Ranger" X="1111" Y="2304" Icon="bowyer" Facet="0"/>
+<Marker Name="Ranger" X="1271" Y="1633" Icon="other" Facet="0"/>
+<Marker Name=" Reagent Shop" X="3789" Y="547" Icon="reagents" Facet="0"/>
+<Marker Name="Real estate and Architect" X="1774" Y="3016" Icon="library" Facet="0"/>
+<Marker Name=" Real Estate and Architecture shop" X="2211" Y="720" Icon="merchants guild" Facet="0"/>
+<Marker Name=" Real Estate and Architecture shop" X="3733" Y="513" Icon="merchants guild" Facet="0"/>
+<Marker Name="Real estate broker" X="1623" Y="1542" Icon="other" Facet="0"/>
+<Marker Name="Regal Library" X="1778" Y="1403" Icon="library" Facet="0"/>
+<Marker Name=" Region Bonus Board" X="3743" Y="543" Icon="other" Facet="0"/>
+<Marker Name="Rope bridge" X="925" Y="700" Icon="bridge" Facet="0"/>
+<Marker Name=" Royal Palace" X="2068" Y="644" Icon="landmark" Facet="0"/>
+<Marker Name="Ruins" X="2210" Y="2325" Icon="ruins" Facet="0"/>
+<Marker Name="Ruins" X="1619" Y="2620" Icon="ruins" Facet="0"/>
+<Marker Name="Scribe" X="1896" Y="1725" Icon="library" Facet="0"/>
+<Marker Name="Scribe" X="1999" Y="2244" Icon="library" Facet="0"/>
+<Marker Name=" Scribe" X="2219" Y="594" Icon="library" Facet="0"/>
+<Marker Name="Scribe" X="1698" Y="2892" Icon="library" Facet="0"/>
+<Marker Name="Scribe" X="1730" Y="2946" Icon="library" Facet="0"/>
+<Marker Name=" Scribe" X="750" Y="1494" Icon="library" Facet="0"/>
+<Marker Name="Scribe" X="1619" Y="1482" Icon="library" Facet="0"/>
+<Marker Name="Seafarer (naval, fishing)" X="1695" Y="1449" Icon="other" Facet="0"/>
+<Marker Name="Seaside Watch" X="1985" Y="1541" Icon="landmark" Facet="0"/>
+<Marker Name="Secondary entrance" X="1609" Y="1030" Icon="gate" Facet="0"/>
+<Marker Name="Secret entrance to Cambria" X="1803" Y="3125" Icon="exit" Facet="0"/>
+<Marker Name="Secret exit from Cambria" X="1783" Y="3088" Icon="exit" Facet="0"/>
+<Marker Name=" Sectert cemetery entrance" X="2133" Y="496" Icon="stairs" Facet="0"/>
+<Marker Name="Sheep Pen" X="1643" Y="3105" Icon="baker" Facet="0"/>
+<Marker Name="Sheeps" X="1417" Y="2458" Icon="other" Facet="0"/>
+<Marker Name="Shipwreck" X="1616" Y="2721" Icon="scenic" Facet="0"/>
+<Marker Name="Shipwright" X="2028" Y="2187" Icon="shipwright" Facet="0"/>
+<Marker Name="Shipwright" X="1974" Y="2623" Icon="shipwright" Facet="0"/>
+<Marker Name="Shipwright" X="1613" Y="1603" Icon="shipwright" Facet="0"/>
+<Marker Name=" Shipwright" X="2219" Y="782" Icon="shipwright" Facet="0"/>
+<Marker Name="Shipwright" X="1897" Y="3088" Icon="shipwright" Facet="0"/>
+<Marker Name="Shipwright" X="1983" Y="1619" Icon="shipwright" Facet="0"/>
+<Marker Name="Shipwright" X="1988" Y="1599" Icon="shipwright" Facet="0"/>
+<Marker Name=" Shipwright" X="664" Y="1503" Icon="shipwright" Facet="0"/>
+<Marker Name=" Shipwright" X="3090" Y="559" Icon="shipwright" Facet="0"/>
+<Marker Name=" Shipwright" X="3780" Y="489" Icon="shipwright" Facet="0"/>
+<Marker Name=" Small cave" X="2725" Y="611" Icon="exit" Facet="0"/>
+<Marker Name=" Small mining cave" X="2771" Y="557" Icon="exit" Facet="0"/>
+<Marker Name="Small Rune Library" X="1726" Y="3144" Icon="sorcerers guild" Facet="0"/>
+<Marker Name=" Small watchtower" X="2157" Y="775" Icon="other" Facet="0"/>
+<Marker Name="Smuggler's Gate" X="1867" Y="3127" Icon="gate" Facet="0"/>
+<Marker Name="Smuggler's hideout cavern" X="1944" Y="1985" Icon="point of interest" Facet="0"/>
+<Marker Name="Society House" X="1689" Y="1444" Icon="point of interest" Facet="0"/>
+<Marker Name="Sorcerer's Guild" X="1708" Y="2900" Icon="sorcerers guild" Facet="0"/>
+<Marker Name="South-West Gate" X="1569" Y="1584" Icon="gate" Facet="0"/>
+<Marker Name=" Spire Ruins" X="3059" Y="627" Icon="other" Facet="0"/>
+<Marker Name="Squi-Ball" X="6525" Y="3050" Icon="other" Facet="0"/>
+<Marker Name="Stable" X="1935" Y="2608" Icon="stable" Facet="0"/>
+<Marker Name="Stable" X="1591" Y="1481" Icon="stable" Facet="0"/>
+<Marker Name=" Stable" X="2127" Y="760" Icon="stable" Facet="0"/>
+<Marker Name=" Stable" X="2251" Y="590" Icon="stable" Facet="0"/>
+<Marker Name=" Stable" X="2172" Y="661" Icon="stable" Facet="0"/>
+<Marker Name="Stable" X="1808" Y="3033" Icon="stable" Facet="0"/>
+<Marker Name="Stable" X="1680" Y="3039" Icon="stable" Facet="0"/>
+<Marker Name="Stable" X="1521" Y="1176" Icon="stable" Facet="0"/>
+<Marker Name=" Stable" X="3034" Y="557" Icon="stable" Facet="0"/>
+<Marker Name="Stable" X="1591" Y="2589" Icon="stable" Facet="0"/>
+<Marker Name="Stable" X="1639" Y="1464" Icon="stable" Facet="0"/>
+<Marker Name=" Stable" X="3715" Y="649" Icon="stable" Facet="0"/>
+<Marker Name=" Stable" X="3737" Y="492" Icon="stable" Facet="0"/>
+<Marker Name="Stable" X="1700" Y="3033" Icon="stable" Facet="0"/>
+<Marker Name="Stable" X="1729" Y="1442" Icon="stable" Facet="0"/>
+<Marker Name="Stables" X="1810" Y="1678" Icon="stable" Facet="0"/>
+<Marker Name="Stables" X="2053" Y="2310" Icon="stable" Facet="0"/>
+<Marker Name="Stables" X="2059" Y="2261" Icon="stable" Facet="0"/>
+<Marker Name="Stables" X="1807" Y="1657" Icon="stable" Facet="0"/>
+<Marker Name=" Stables" X="740" Y="1447" Icon="stable" Facet="0"/>
+<Marker Name="Stairs" X="1103" Y="1693" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs" X="1100" Y="1690" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs" X="1102" Y="1662" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs" X="1083" Y="1660" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs" X="1082" Y="1671" Icon="stairs" Facet="0"/>
+<Marker Name="stairs" X="1683" Y="2796" Icon="stairs" Facet="0"/>
+<Marker Name="stairs under sea" X="1688" Y="2796" Icon="stairs" Facet="0"/>
+<Marker Name="Stalls" X="1726" Y="2974" Icon="market" Facet="0"/>
+<Marker Name="Statue" X="1384" Y="1307" Icon="scenic" Facet="0"/>
+<Marker Name="Statue" X="1689" Y="1482" Icon="other" Facet="0"/>
+<Marker Name="Sunken buildings" X="1885" Y="2950" Icon="scenic" Facet="0"/>
+<Marker Name="Sunken Cemetery" X="1632" Y="2631" Icon="graveyard" Facet="0"/>
+<Marker Name="Sunken Ship" X="1527" Y="1502" Icon="scenic" Facet="0"/>
+<Marker Name="Suspended bridge" X="1379" Y="2546" Icon="bridge" Facet="0"/>
+<Marker Name="Tailor" X="2010" Y="2178" Icon="tailor" Facet="0"/>
+<Marker Name="Tailor" X="1979" Y="2571" Icon="tailor" Facet="0"/>
+<Marker Name="Tailor" X="1624" Y="1551" Icon="tailor" Facet="0"/>
+<Marker Name=" Tailor" X="2178" Y="724" Icon="tailor" Facet="0"/>
+<Marker Name="Tailor" X="1892" Y="3041" Icon="tailor" Facet="0"/>
+<Marker Name="Tailor" X="1755" Y="2981" Icon="tailor" Facet="0"/>
+<Marker Name="Tailor" X="1859" Y="1703" Icon="tailor" Facet="0"/>
+<Marker Name=" Tailor" X="748" Y="1515" Icon="tailor" Facet="0"/>
+<Marker Name=" Tailor" X="3048" Y="532" Icon="tailor" Facet="0"/>
+<Marker Name="Tailor" X="857" Y="718" Icon="tailor" Facet="0"/>
+<Marker Name=" Tailor" X="3762" Y="556" Icon="tailor" Facet="0"/>
+<Marker Name=" Tailor" X="3764" Y="568" Icon="tailor" Facet="0"/>
+<Marker Name="Tanner" X="2045" Y="2293" Icon="tanner" Facet="0"/>
+<Marker Name="Tanner" X="1990" Y="2613" Icon="tanner" Facet="0"/>
+<Marker Name=" Tanner" X="2155" Y="731" Icon="tanner" Facet="0"/>
+<Marker Name="Tanner" X="1887" Y="3090" Icon="tanner" Facet="0"/>
+<Marker Name=" Tanner" X="789" Y="1541" Icon="tanner" Facet="0"/>
+<Marker Name=" Tanner" X="785" Y="1532" Icon="tanner" Facet="0"/>
+<Marker Name=" Tanner" X="3047" Y="538" Icon="tanner" Facet="0"/>
+<Marker Name="Tavern" X="2023" Y="2294" Icon="tavern" Facet="0"/>
+<Marker Name="Tavern" X="1936" Y="2623" Icon="tavern" Facet="0"/>
+<Marker Name=" Tavern" X="2194" Y="785" Icon="tavern" Facet="0"/>
+<Marker Name=" Tavern" X="2246" Y="621" Icon="tavern" Facet="0"/>
+<Marker Name="Tavern" X="1797" Y="3000" Icon="tavern" Facet="0"/>
+<Marker Name="Tavern" X="1678" Y="3018" Icon="tavern" Facet="0"/>
+<Marker Name="Tavern" X="1997" Y="2207" Icon="tavern" Facet="0"/>
+<Marker Name="Tavern" X="1950" Y="1598" Icon="tavern" Facet="0"/>
+<Marker Name=" Tavern" X="709" Y="1477" Icon="tavern" Facet="0"/>
+<Marker Name=" Tavern" X="3045" Y="514" Icon="tavern" Facet="0"/>
+<Marker Name="Tavern" X="1618" Y="2559" Icon="tavern" Facet="0"/>
+<Marker Name="Tavern" X="1630" Y="2598" Icon="tavern" Facet="0"/>
+<Marker Name="Tavern" X="827" Y="720" Icon="tavern" Facet="0"/>
+<Marker Name=" Tavern" X="3778" Y="545" Icon="tavern" Facet="0"/>
+<Marker Name=" Terran Butcher" X="792" Y="1531" Icon="butcher" Facet="0"/>
+<Marker Name=" Theater" X="3729" Y="553" Icon="theater" Facet="0"/>
+<Marker Name="Thief" X="1941" Y="2591" Icon="thieves guild" Facet="0"/>
+<Marker Name=" Thief" X="2183" Y="738" Icon="thieves guild" Facet="0"/>
+<Marker Name="Thief" X="2030" Y="2298" Icon="thieves guild" Facet="0"/>
+<Marker Name="Thief" X="1930" Y="1668" Icon="thieves guild" Facet="0"/>
+<Marker Name=" Thief" X="755" Y="1416" Icon="thieves guild" Facet="0"/>
+<Marker Name=" Thief" X="3067" Y="516" Icon="thieves guild" Facet="0"/>
+<Marker Name="Thief" X="1446" Y="2445" Icon="thieves guild" Facet="0"/>
+<Marker Name="Thief" X="832" Y="732" Icon="thieves guild" Facet="0"/>
+<Marker Name="Thief and Begger" X="1640" Y="2597" Icon="thieves guild" Facet="0"/>
+<Marker Name="Thief's manor" X="1875" Y="3089" Icon="thieves guild" Facet="0"/>
+<Marker Name=" Thieves Guild" X="3778" Y="561" Icon="thieves guild" Facet="0"/>
+<Marker Name="The Throne Room" X="1764" Y="1397" Icon="scenic" Facet="0"/>
+<Marker Name="Ticket Booth" X="6463" Y="3024" Icon="other" Facet="0"/>
+<Marker Name=" Tinker" X="751" Y="1520" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker" X="2004" Y="2184" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker" X="1619" Y="1550" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker" X="1664" Y="1503" Icon="tinker" Facet="0"/>
+<Marker Name=" Tinker" X="2210" Y="660" Icon="tinker" Facet="0"/>
+<Marker Name=" Tinker" X="2209" Y="643" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker" X="1801" Y="2971" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker" X="1685" Y="2919" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker" X="1864" Y="1653" Icon="tinker" Facet="0"/>
+<Marker Name=" Tinker" X="3057" Y="528" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker" X="828" Y="705" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker" X="1996" Y="2561" Icon="tinker" Facet="0"/>
+<Marker Name=" Tinker" X="3752" Y="519" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker" X="1721" Y="1441" Icon="tinker" Facet="0"/>
+<Marker Name="Tinker's guild" X="1793" Y="2973" Icon="tinkers guild" Facet="0"/>
+<Marker Name=" Tomb" X="2120" Y="525" Icon="stairs" Facet="0"/>
+<Marker Name="Tomb" X="1850" Y="2940" Icon="scenic" Facet="0"/>
+<Marker Name="Tomb" X="1384" Y="1339" Icon="scenic" Facet="0"/>
+<Marker Name="Tomb" X="1384" Y="1406" Icon="scenic" Facet="0"/>
+<Marker Name="Tomb entrance" X="1391" Y="1372" Icon="scenic" Facet="0"/>
+<Marker Name="Training dummies" X="1821" Y="2897" Icon="other" Facet="0"/>
+<Marker Name="Tribal hut" X="1960" Y="2059" Icon="point of interest" Facet="0"/>
+<Marker Name=" Tunnel" X="1876" Y="883" Icon="exit" Facet="0"/>
+<Marker Name=" Tunnel" X="1862" Y="868" Icon="exit" Facet="0"/>
+<Marker Name=" Tunnel" X="2887" Y="594" Icon="stairs" Facet="0"/>
+<Marker Name=" Tunnel to Honesty Island" X="2805" Y="573" Icon="stairs" Facet="0"/>
+<Marker Name=" Underground Norse Fort" X="2634" Y="422" Icon="exit" Facet="0"/>
+<Marker Name="Unused house" X="1808" Y="3052" Icon="other" Facet="0"/>
+<Marker Name=" Wandering Healer" X="2131" Y="541" Icon="healer" Facet="0"/>
+<Marker Name="Wandering Healer" X="2187" Y="2093" Icon="healer" Facet="0"/>
+<Marker Name="Wandering Healer" X="1953" Y="1748" Icon="healer" Facet="0"/>
+<Marker Name="Wandering Healer" X="1834" Y="1467" Icon="healer" Facet="0"/>
+<Marker Name="Warrior's Guild" X="1826" Y="2898" Icon="warriors guild" Facet="0"/>
+<Marker Name=" Watchtower" X="796" Y="1512" Icon="landmark" Facet="0"/>
+<Marker Name=" Watchtower" X="762" Y="1463" Icon="landmark" Facet="0"/>
+<Marker Name="Watchtower" X="887" Y="774" Icon="landmark" Facet="0"/>
+<Marker Name="Watchtower" X="880" Y="705" Icon="landmark" Facet="0"/>
+<Marker Name="Water crossing" X="2027" Y="1437" Icon="bridge" Facet="0"/>
+<Marker Name="Water pass" X="1633" Y="2409" Icon="bridge" Facet="0"/>
+<Marker Name="Water pass" X="1643" Y="2442" Icon="bridge" Facet="0"/>
+<Marker Name="Weaponsmith" X="2016" Y="2226" Icon="blacksmith" Facet="0"/>
+<Marker Name="Weaponsmith" X="1683" Y="1527" Icon="arms" Facet="0"/>
+<Marker Name="Weaponsmith" X="1909" Y="2984" Icon="arms" Facet="0"/>
+<Marker Name="Weaponsmith" X="1896" Y="1668" Icon="arms" Facet="0"/>
+<Marker Name=" Weaponsmith" X="3033" Y="545" Icon="arms" Facet="0"/>
+<Marker Name=" Well" X="754" Y="1533" Icon="other" Facet="0"/>
+<Marker Name="Well" X="1097" Y="1671" Icon="other" Facet="0"/>
+<Marker Name="West Gate" X="1557" Y="1517" Icon="gate" Facet="0"/>
+<Marker Name="Whack-A-Muck" X="6482" Y="3001" Icon="other" Facet="0"/>
+<Marker Name="Wheat fields" X="1752" Y="3077" Icon="scenic" Facet="0"/>
+<Marker Name="Woodworker" X="1580" Y="1555" Icon="carpenter" Facet="0"/>
+<Marker Name="" X="5955" Y="294" Icon="exit" Facet="0"/>
+<Marker Name="" X="5955" Y="279" Icon="exit" Facet="0"/>
+<Marker Name="" X="5957" Y="270" Icon="exit" Facet="0"/>
+<Marker Name="" X="5970" Y="269" Icon="exit" Facet="0"/>
+<Marker Name="" X="5975" Y="258" Icon="exit" Facet="0"/>
+<Marker Name="" X="5954" Y="287" Icon="exit" Facet="0"/>
+<Marker Name="" X="5977" Y="234" Icon="exit" Facet="0"/>
+<Marker Name="" X="5973" Y="251" Icon="exit" Facet="0"/>
+<Marker Name="" X="5963" Y="270" Icon="exit" Facet="0"/>
+<Marker Name="(underground) Dusk dragons room" X="5593" Y="2846" Icon="stairs" Facet="0"/>
+<Marker Name="4 Pyramids Room" X="5628" Y="1135" Icon="scenic" Facet="0"/>
+<Marker Name="5K Statue" X="5578" Y="1070" Icon="scenic" Facet="0"/>
+<Marker Name="[chest] 6" X="5550" Y="1098" Icon="treasure" Facet="0"/>
+<Marker Name="[chest] 6" X="5252" Y="2602" Icon="treasure" Facet="0"/>
+<Marker Name=" [Trap]" X="5665" Y="964" Icon="trap" Facet="0"/>
+<Marker Name=" [Trap]" X="5682" Y="980" Icon="trap" Facet="0"/>
+<Marker Name=" Aegis Keep BOSS High Priest" X="5752" Y="317" Icon="point of interest" Facet="0"/>
+<Marker Name=" Aegis Keep Dungeon" X="5942" Y="110" Icon="Terrain" Facet="0"/>
+<Marker Name=" Aegis Keep Exit [crimsongate]" X="5912" Y="273" Icon="moongate" Facet="0"/>
+<Marker Name=" Aegis Keep Exit [crimsongate]" X="5957" Y="249" Icon="moongate" Facet="0"/>
+<Marker Name="Aegis Keep Exit [goldengate]" X="5899" Y="89" Icon="moongate" Facet="0"/>
+<Marker Name="Aegis Keep Exit [goldengate]" X="5954" Y="84" Icon="moongate" Facet="0"/>
+<Marker Name="Aegis Keep Exit [goldengate]" X="5987" Y="84" Icon="moongate" Facet="0"/>
+<Marker Name=" Aegis Keep Mini-BOSS Sanguineous" X="5863" Y="426" Icon="point of interest" Facet="0"/>
+<Marker Name="Air Dragons and White Wyrms Room" X="5926" Y="1075" Icon="point of interest" Facet="0"/>
+<Marker Name="Air Dragons and White Wyrms Room" X="5939" Y="1036" Icon="mob" Facet="0"/>
+<Marker Name="Altar" X="5864" Y="1094" Icon="scenic" Facet="0"/>
+<Marker Name="Ankh" X="5636" Y="1050" Icon="scenic" Facet="0"/>
+<Marker Name="Ankh" X="5669" Y="1050" Icon="scenic" Facet="0"/>
+<Marker Name="Ankh" X="5241" Y="2534" Icon="scenic" Facet="0"/>
+<Marker Name="the Arena" X="5907" Y="3429" Icon="point of interest" Facet="0"/>
+<Marker Name="Azure Wyrm Egg" X="6128" Y="1693" Icon="scenic" Facet="0"/>
+<Marker Name="Azure Wyrms Lair" X="6134" Y="1762" Icon="scenic" Facet="0"/>
+<Marker Name="Blood Fountain" X="5748" Y="1442" Icon="point of interest" Facet="0"/>
+<Marker Name="Blood fountain" X="6089" Y="1753" Icon="scenic" Facet="0"/>
+<Marker Name="Bloody Ankh" X="5127" Y="2498" Icon="scenic" Facet="0"/>
+<Marker Name="Bloody Ankh" X="5290" Y="2425" Icon="scenic" Facet="0"/>
+<Marker Name="Bloody Ankh" X="5387" Y="2533" Icon="scenic" Facet="0"/>
+<Marker Name="Boat with skelet" X="5468" Y="1368" Icon="other" Facet="0"/>
+<Marker Name="boss" X="5915" Y="1097" Icon="stairs" Facet="0"/>
+<Marker Name="Bridge" X="5964" Y="1107" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="5996" Y="1751" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="6021" Y="1006" Icon="bridge" Facet="0"/>
+<Marker Name=" Bridge" X="5511" Y="441" Icon="bridge" Facet="0"/>
+<Marker Name="Bridge" X="6116" Y="1721" Icon="bridge" Facet="0"/>
+<Marker Name="Burial Chamber" X="5729" Y="1452" Icon="scenic" Facet="0"/>
+<Marker Name="Campfire" X="5969" Y="1052" Icon="scenic" Facet="0"/>
+<Marker Name="Cathedral Entrance" X="5186" Y="2484" Icon="stairs" Facet="0"/>
+<Marker Name="Cave" X="5849" Y="1618" Icon="stairs" Facet="0"/>
+<Marker Name=" Cavernam BOSS Behemoth Basilisk" X="5832" Y="909" Icon="point of interest" Facet="0"/>
+<Marker Name=" Cavernam Dungeon" X="6011" Y="593" Icon="Terrain" Facet="0"/>
+<Marker Name="Cavernam Exit [crimsongate]" X="5957" Y="1097" Icon="moongate" Facet="0"/>
+<Marker Name=" Cavernam Exit [crimsongate]" X="6011" Y="780" Icon="moongate" Facet="0"/>
+<Marker Name=" Cavernam Exit [crimsongate]" X="6039" Y="831" Icon="moongate" Facet="0"/>
+<Marker Name="Cavernam Exit [crimsongate]" X="6059" Y="1020" Icon="moongate" Facet="0"/>
+<Marker Name=" Cavernam Exit [goldengate]" X="6049" Y="598" Icon="moongate" Facet="0"/>
+<Marker Name=" Cavernam Exit [goldengate]" X="6058" Y="571" Icon="moongate" Facet="0"/>
+<Marker Name=" Cavernam Exit [goldengate]" X="6058" Y="641" Icon="moongate" Facet="0"/>
+<Marker Name=" Cavernam Exit [goldengate]" X="6090" Y="619" Icon="moongate" Facet="0"/>
+<Marker Name=" Cavernam Mini-BOSS Great Abyssal Hornbeast" X="6091" Y="866" Icon="point of interest" Facet="0"/>
+<Marker Name=" Corridor" X="5870" Y="228" Icon="stairs" Facet="0"/>
+<Marker Name=" Crypt" X="5505" Y="653" Icon="point of interest" Facet="0"/>
+<Marker Name="Crypt" X="5566" Y="1711" Icon="scenic" Facet="0"/>
+<Marker Name=" Crypt entrance" X="5501" Y="650" Icon="stairs" Facet="0"/>
+<Marker Name="CryptWing" X="5714" Y="1433" Icon="point of interest" Facet="0"/>
+<Marker Name="Darkmire Dungeon" X="5226" Y="1998" Icon="Terrain" Facet="0"/>
+<Marker Name="Darkmire Exit [crimsongate]" X="5331" Y="2014" Icon="moongate" Facet="0"/>
+<Marker Name="Darkmire Exit [crimsongate]" X="5381" Y="2086" Icon="moongate" Facet="0"/>
+<Marker Name="Darkmire Exit [crimsongate]" X="5558" Y="2144" Icon="moongate" Facet="0"/>
+<Marker Name="Darkmire Exit [goldengate]" X="5179" Y="1963" Icon="moongate" Facet="0"/>
+<Marker Name="Darkmire Exit [goldengate]" X="5180" Y="2006" Icon="moongate" Facet="0"/>
+<Marker Name="Darkmire Exit [goldengate]" X="5203" Y="1923" Icon="moongate" Facet="0"/>
+<Marker Name="Darkmire Exit [goldengate]" X="5216" Y="1955" Icon="moongate" Facet="0"/>
+<Marker Name="Darkmire Temple BOSS Lord Bile" X="5204" Y="2125" Icon="point of interest" Facet="0"/>
+<Marker Name="Darkmire Temple Mini-BOSS Terrorwood" X="5472" Y="2096" Icon="point of interest" Facet="0"/>
+<Marker Name="Dead tree" X="5573" Y="1728" Icon="scenic" Facet="0"/>
+<Marker Name="Destroyed mine entrance" X="5998" Y="1054" Icon="scenic" Facet="0"/>
+<Marker Name="Down to LVL2" X="5285" Y="2774" Icon="stairs" Facet="0"/>
+<Marker Name=" Drow Ranger Barracks" X="5393" Y="293" Icon="point of interest" Facet="0"/>
+<Marker Name=" Elder vampire room" X="5358" Y="599" Icon="point of interest" Facet="0"/>
+<Marker Name="Entracne" X="5253" Y="2821" Icon="exit" Facet="0"/>
+<Marker Name="exit" X="5639" Y="1084" Icon="exit" Facet="0"/>
+<Marker Name="exit" X="5632" Y="1090" Icon="exit" Facet="0"/>
+<Marker Name=" Exit to a frozen pit" X="5621" Y="841" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to surface" X="5548" Y="287" Icon="stairs" Facet="0"/>
+<Marker Name="Exit to surface" X="5157" Y="1377" Icon="stairs" Facet="0"/>
+<Marker Name="Exit to surface" X="5162" Y="2021" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to surface" X="5537" Y="530" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to surface" X="5565" Y="409" Icon="stairs" Facet="0"/>
+<Marker Name="Exit to surface" X="5605" Y="2762" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to surface" X="5608" Y="733" Icon="stairs" Facet="0"/>
+<Marker Name="Exit to surface" X="5780" Y="1728" Icon="stairs" Facet="0"/>
+<Marker Name="Exit to surface" X="5895" Y="2104" Icon="stairs" Facet="0"/>
+<Marker Name="Exit to surface" X="5927" Y="1317" Icon="stairs" Facet="0"/>
+<Marker Name="Exit to surface" X="5941" Y="54" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to surface" X="6106" Y="610" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to Surface" X="5567" Y="819" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to Surface" X="5513" Y="850" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to Surface" X="5579" Y="854" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to Surface" X="5556" Y="901" Icon="stairs" Facet="0"/>
+<Marker Name=" Exit to surface" X="5242" Y="350" Icon="stairs" Facet="0"/>
+<Marker Name="Explorer's Camp" X="5675" Y="3060" Icon="scenic" Facet="0"/>
+<Marker Name="Faction Struggle Control Point" X="5168" Y="1259" Icon="point of interest" Facet="0"/>
+<Marker Name="Faction Struggle Control Point" X="5203" Y="1349" Icon="point of interest" Facet="0"/>
+<Marker Name="Fen Daemons room" X="5477" Y="1362" Icon="point of interest" Facet="0"/>
+<Marker Name="Gate" X="6002" Y="1108" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="6007" Y="1104" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="6007" Y="1113" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="6012" Y="1108" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="6016" Y="778" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="6020" Y="774" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="6040" Y="755" Icon="gate" Facet="0"/>
+<Marker Name="Gate" X="5160" Y="1453" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="5584" Y="707" Icon="gate" Facet="0"/>
+<Marker Name=" Gate" X="5509" Y="704" Icon="gate" Facet="0"/>
+<Marker Name="Ghost gate" X="5714" Y="1063" Icon="other" Facet="0"/>
+<Marker Name="Ghost gate" X="5688" Y="1041" Icon="other" Facet="0"/>
+<Marker Name=" Ghost gate" X="5691" Y="979" Icon="other" Facet="0"/>
+<Marker Name="Ghost gate" X="5561" Y="1011" Icon="other" Facet="0"/>
+<Marker Name="Ghost gate" X="5608" Y="1041" Icon="other" Facet="0"/>
+<Marker Name="Ghost gate" X="5639" Y="1090" Icon="other" Facet="0"/>
+<Marker Name="Ghost gate" X="5607" Y="1059" Icon="other" Facet="0"/>
+<Marker Name="Ghost gate" X="5582" Y="1135" Icon="other" Facet="0"/>
+<Marker Name=" Guillotine" X="5388" Y="735" Icon="scenic" Facet="0"/>
+<Marker Name=" Hidden corridor" X="6023" Y="340" Icon="stairs" Facet="0"/>
+<Marker Name="Hidden treasury" X="5733" Y="1056" Icon="scenic" Facet="0"/>
+<Marker Name=" Hotel" X="5337" Y="691" Icon="other" Facet="0"/>
+<Marker Name="Ice bridge" X="5976" Y="1023" Icon="bridge" Facet="0"/>
+<Marker Name="Ice bridge" X="5991" Y="1013" Icon="bridge" Facet="0"/>
+<Marker Name="Ice bridge" X="6058" Y="1008" Icon="bridge" Facet="0"/>
+<Marker Name="Incineration chamber" X="5567" Y="1713" Icon="scenic" Facet="0"/>
+<Marker Name="Inferno BOSS Infernus" X="5791" Y="2194" Icon="point of interest" Facet="0"/>
+<Marker Name="Inferno Dungeon" X="5892" Y="2028" Icon="Terrain" Facet="0"/>
+<Marker Name="Inferno Exit [crimsongate]" X="5538" Y="2361" Icon="moongate" Facet="0"/>
+<Marker Name="Inferno Exit [crimsongate]" X="5623" Y="2493" Icon="moongate" Facet="0"/>
+<Marker Name="Inferno Exit [crimsongate]" X="5768" Y="2491" Icon="moongate" Facet="0"/>
+<Marker Name="Inferno Exit [crimsongate]" X="5820" Y="2321" Icon="moongate" Facet="0"/>
+<Marker Name="Inferno Exit [goldengate]" X="5892" Y="2057" Icon="moongate" Facet="0"/>
+<Marker Name="Inferno Exit [goldengate]" X="5938" Y="2068" Icon="moongate" Facet="0"/>
+<Marker Name="Inferno Exit [goldengate]" X="5959" Y="1977" Icon="moongate" Facet="0"/>
+<Marker Name="Inferno Mini-BOSS Heart of the Mountain" X="5906" Y="2215" Icon="point of interest" Facet="0"/>
+<Marker Name=" Knight statue" X="5180" Y="698" Icon="scenic" Facet="0"/>
+<Marker Name="Knightly Tomb" X="5853" Y="1095" Icon="scenic" Facet="0"/>
+<Marker Name="Lava waterfall" X="6034" Y="1678" Icon="scenic" Facet="0"/>
+<Marker Name=" Major Flashpoint Beacon" X="5606" Y="634" Icon="teleporter" Facet="0"/>
+<Marker Name=" Major Flashpoint Beacon" X="5990" Y="135" Icon="teleporter" Facet="0"/>
+<Marker Name=" Major Flashpoint Beacon" X="5950" Y="600" Icon="teleporter" Facet="0"/>
+<Marker Name="Major Flashpoint Beacon" X="5254" Y="2018" Icon="teleporter" Facet="0"/>
+<Marker Name="Major Flashpoint Beacon" X="5850" Y="1967" Icon="teleporter" Facet="0"/>
+<Marker Name="Major Flashpoint Beacon" X="5518" Y="2815" Icon="teleporter" Facet="0"/>
+<Marker Name="Major Flashpoint Beacon" X="5785" Y="1760" Icon="teleporter" Facet="0"/>
+<Marker Name="Major Flashpoint Beacon" X="5143" Y="1272" Icon="teleporter" Facet="0"/>
+<Marker Name="Major Flashpoint Beacon" X="5796" Y="1373" Icon="teleporter" Facet="0"/>
+<Marker Name=" Mausoleum BOSS Gatekeeper" X="5242" Y="814" Icon="point of interest" Facet="0"/>
+<Marker Name=" Mausoleum Exit [crimsongate]" X="5370" Y="749" Icon="moongate" Facet="0"/>
+<Marker Name=" Mausoleum Exit [crimsongate]" X="5497" Y="744" Icon="moongate" Facet="0"/>
+<Marker Name=" Mausoleum Exit [crimsongate]" X="5203" Y="703" Icon="moongate" Facet="0"/>
+<Marker Name=" Mausoleum Exit [goldengate]" X="5588" Y="717" Icon="moongate" Facet="0"/>
+<Marker Name=" Mausoleum Exit [goldengate]" X="5618" Y="723" Icon="moongate" Facet="0"/>
+<Marker Name=" Mausoleum Exit [goldengate]" X="5626" Y="689" Icon="moongate" Facet="0"/>
+<Marker Name=" Mausoleum Mini-BOSS The Insatiable Maw" X="5243" Y="562" Icon="point of interest" Facet="0"/>
+<Marker Name="Meeting room" X="5554" Y="1695" Icon="scenic" Facet="0"/>
+<Marker Name=" Minor Flashpoint Beacon" X="5570" Y="698" Icon="teleporter" Facet="0"/>
+<Marker Name="Minor Flashpoint Beacon" X="5890" Y="1356" Icon="teleporter" Facet="0"/>
+<Marker Name="Minor Flashpoint Beacon" X="5953" Y="1935" Icon="teleporter" Facet="0"/>
+<Marker Name=" Minor Flashpoint Beacon" X="5928" Y="188" Icon="teleporter" Facet="0"/>
+<Marker Name=" Minor Flashpoint Beacon" X="6056" Y="534" Icon="teleporter" Facet="0"/>
+<Marker Name="Minor Flashpoint Beacon" X="5223" Y="1993" Icon="teleporter" Facet="0"/>
+<Marker Name="Minor Flashpoint Beacon" X="5584" Y="2791" Icon="teleporter" Facet="0"/>
+<Marker Name="Minor Flashpoint Beacon" X="5854" Y="1691" Icon="teleporter" Facet="0"/>
+<Marker Name="Minor Flashpoint Beacon" X="5178" Y="1295" Icon="teleporter" Facet="0"/>
+<Marker Name="Mount Petram BOSS Terathan Goliath" X="5755" Y="3022" Icon="point of interest" Facet="0"/>
+<Marker Name="Mount Petram Dungeon" X="5570" Y="2781" Icon="Terrain" Facet="0"/>
+<Marker Name="Mount Petram Exit [crimsongate]" X="5639" Y="2888" Icon="moongate" Facet="0"/>
+<Marker Name="Mount Petram Exit [crimsongate]" X="5690" Y="2885" Icon="moongate" Facet="0"/>
+<Marker Name="Mount Petram Exit [goldengate]" X="5602" Y="2768" Icon="moongate" Facet="0"/>
+<Marker Name="Mount Petram Exit [goldengate]" X="5610" Y="2800" Icon="moongate" Facet="0"/>
+<Marker Name="Mount Petram Exit [goldengate]" X="5627" Y="2784" Icon="moongate" Facet="0"/>
+<Marker Name="Mount Petram Exit [goldengate]" X="5635" Y="2819" Icon="moongate" Facet="0"/>
+<Marker Name="Mount Petram Mini-BOSS Lodestone" X="5604" Y="3014" Icon="point of interest" Facet="0"/>
+<Marker Name="Mumified corpse" X="5557" Y="1099" Icon="scenic" Facet="0"/>
+<Marker Name="Narrow path passage" X="5693" Y="1085" Icon="scenic" Facet="0"/>
+<Marker Name=" Newbie Dungeon" X="5544" Y="440" Icon="Terrain" Facet="0"/>
+<Marker Name=" Newbie Exit [crimsongate]" X="5601" Y="517" Icon="moongate" Facet="0"/>
+<Marker Name=" Newbie Exit [goldengate]" X="5541" Y="524" Icon="moongate" Facet="0"/>
+<Marker Name="Nusero BOSS Emperor Dragon" X="6026" Y="1462" Icon="point of interest" Facet="0"/>
+<Marker Name="Nusero Dungeon" X="5814" Y="1730" Icon="Terrain" Facet="0"/>
+<Marker Name="Nusero Exit [crimsongate]" X="6000" Y="1672" Icon="moongate" Facet="0"/>
+<Marker Name="Nusero Exit [crimsongate]" X="5832" Y="1556" Icon="moongate" Facet="0"/>
+<Marker Name="Nusero Exit [crimsongate]" X="5967" Y="1679" Icon="moongate" Facet="0"/>
+<Marker Name="Nusero Exit [goldengate]" X="5789" Y="1702" Icon="moongate" Facet="0"/>
+<Marker Name="Nusero Exit [goldengate]" X="5828" Y="1701" Icon="moongate" Facet="0"/>
+<Marker Name="Nusero Exit [goldengate]" X="5840" Y="1728" Icon="moongate" Facet="0"/>
+<Marker Name="Nusero Mini-BOSS Pit Dragon" X="5723" Y="1605" Icon="point of interest" Facet="0"/>
+<Marker Name="Obelisk" X="5603" Y="1060" Icon="scenic" Facet="0"/>
+<Marker Name="Omni Realm Lair" X="6380" Y="3544" Icon="Terrain" Facet="0"/>
+<Marker Name="Omni Realm Lair" X="6372" Y="3356" Icon="Terrain" Facet="0"/>
+<Marker Name="Omni Realm Lair" X="6532" Y="3360" Icon="Terrain" Facet="0"/>
+<Marker Name=" Opilion altar" X="5991" Y="502" Icon="scenic" Facet="0"/>
+<Marker Name="Ossuary Dungeon" X="5916" Y="1343" Icon="Terrain" Facet="0"/>
+<Marker Name="Ossuary Exit [crimsongate]" X="5683" Y="1279" Icon="moongate" Facet="0"/>
+<Marker Name="Ossuary Exit [crimsongate]" X="5724" Y="1333" Icon="moongate" Facet="0"/>
+<Marker Name="Ossuary Exit [goldengate]" X="5870" Y="1310" Icon="moongate" Facet="0"/>
+<Marker Name="Ossuary Exit [goldengate]" X="5926" Y="1326" Icon="moongate" Facet="0"/>
+<Marker Name="Ossuary Exit [goldengate]" X="5926" Y="1351" Icon="moongate" Facet="0"/>
+<Marker Name="Osuarry BOSS Forgotten King" X="6047" Y="1268" Icon="point of interest" Facet="0"/>
+<Marker Name="Osuarry Mini-BOSS Speaker for the Dead" X="5737" Y="1217" Icon="point of interest" Facet="0"/>
+<Marker Name="The Outlands JAIL" X="6006" Y="3978" Icon="landmark" Facet="0"/>
+<Marker Name=" Passage" X="6030" Y="268" Icon="stairs" Facet="0"/>
+<Marker Name=" Passage" X="6032" Y="302" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5654" Y="1329" Icon="bridge" Facet="0"/>
+<Marker Name="Passage" X="5668" Y="1294" Icon="bridge" Facet="0"/>
+<Marker Name=" Passage" X="5960" Y="670" Icon="exit" Facet="0"/>
+<Marker Name=" Passage" X="5961" Y="652" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5967" Y="1766" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5977" Y="1775" Icon="exit" Facet="0"/>
+<Marker Name=" Passage" X="6017" Y="670" Icon="exit" Facet="0"/>
+<Marker Name=" Passage" X="6018" Y="652" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5632" Y="2794" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5918" Y="86" Icon="exit" Facet="0"/>
+<Marker Name=" Passage" X="5918" Y="107" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5403" Y="2017" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5400" Y="1957" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5360" Y="1976" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5935" Y="1604" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5935" Y="1636" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5633" Y="2780" Icon="exit" Facet="0"/>
+<Marker Name=" Passage" X="5956" Y="302" Icon="stairs" Facet="0"/>
+<Marker Name=" Passage" X="5982" Y="234" Icon="stairs" Facet="0"/>
+<Marker Name="Passage" X="5400" Y="1964" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5353" Y="1990" Icon="exit" Facet="0"/>
+<Marker Name=" Passage" X="5968" Y="247" Icon="exit" Facet="0"/>
+<Marker Name=" Passage" X="5968" Y="237" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5361" Y="1959" Icon="exit" Facet="0"/>
+<Marker Name="Passage" X="5593" Y="2859" Icon="exit" Facet="0"/>
+<Marker Name="passage" X="5355" Y="1259" Icon="stairs" Facet="0"/>
+<Marker Name=" Passage" X="5955" Y="145" Icon="gate" Facet="0"/>
+<Marker Name=" Passage" X="6038" Y="352" Icon="exit" Facet="0"/>
+<Marker Name=" Passage" X="5997" Y="268" Icon="exit" Facet="0"/>
+<Marker Name="Pentagram" X="5528" Y="1366" Icon="scenic" Facet="0"/>
+<Marker Name="Pentagram" X="5189" Y="2535" Icon="scenic" Facet="0"/>
+<Marker Name=" Pharaonic ship" X="5577" Y="991" Icon="scenic" Facet="0"/>
+<Marker Name=" Pile of skulls" X="5687" Y="986" Icon="other" Facet="0"/>
+<Marker Name="Pillar circle" X="5747" Y="1475" Icon="point of interest" Facet="0"/>
+<Marker Name="Pits" X="5658" Y="1006" Icon="scenic" Facet="0"/>
+<Marker Name="Poison trap" X="5620" Y="1036" Icon="trap" Facet="0"/>
+<Marker Name="Poison trap" X="5628" Y="1036" Icon="trap" Facet="0"/>
+<Marker Name="Poison trap" X="5623" Y="1042" Icon="trap" Facet="0"/>
+<Marker Name="Poison trap" X="5624" Y="1030" Icon="trap" Facet="0"/>
+<Marker Name="Pulma BOSS Great Sunken Serpent" X="5163" Y="1431" Icon="point of interest" Facet="0"/>
+<Marker Name="Pulma Dungeon" X="5173" Y="1307" Icon="Terrain" Facet="0"/>
+<Marker Name="Pulma Exit [crimsongate]" X="5304" Y="1336" Icon="moongate" Facet="0"/>
+<Marker Name="Pulma Exit [crimsongate]" X="5348" Y="1317" Icon="moongate" Facet="0"/>
+<Marker Name="Pulma Exit [crimsongate]" X="5421" Y="1319" Icon="moongate" Facet="0"/>
+<Marker Name="Pulma Exit [goldengate]" X="5166" Y="1328" Icon="moongate" Facet="0"/>
+<Marker Name="Pulma Exit [goldengate]" X="5195" Y="1351" Icon="moongate" Facet="0"/>
+<Marker Name="Pulma Exit [goldengate]" X="5217" Y="1302" Icon="moongate" Facet="0"/>
+<Marker Name="Pulma Mini-BOSS Ancient Drowned Dragon" X="5431" Y="1192" Icon="point of interest" Facet="0"/>
+<Marker Name="Rift Arena 1 - Stygian Rifts" X="6105" Y="2851" Icon="Terrain" Facet="0"/>
+<Marker Name="Rift Arena 2 - Stygian Rifts" X="6106" Y="2952" Icon="Terrain" Facet="0"/>
+<Marker Name="Rift Arena 3 - Stygian Rifts" X="6106" Y="3055" Icon="Terrain" Facet="0"/>
+<Marker Name="Rift Arena 4 - Stygian Rifts" X="6106" Y="3152" Icon="Terrain" Facet="0"/>
+<Marker Name="Rift Cells" X="6117" Y="3243" Icon="Terrain" Facet="0"/>
+<Marker Name="Ritual table" X="5290" Y="2446" Icon="scenic" Facet="0"/>
+<Marker Name="Rope bridge" X="6060" Y="1672" Icon="bridge" Facet="0"/>
+<Marker Name="Rope Bridge" X="5141" Y="2622" Icon="bridge" Facet="0"/>
+<Marker Name="Ruby Wyrms Lair" X="6089" Y="1733" Icon="scenic" Facet="0"/>
+<Marker Name=" Sacrificial altar" X="5435" Y="623" Icon="scenic" Facet="0"/>
+<Marker Name="safe spot" X="5259" Y="2824" Icon="other" Facet="0"/>
+<Marker Name="Sarcophagus" X="5549" Y="1729" Icon="scenic" Facet="0"/>
+<Marker Name="Scaffold on pentagram" X="5617" Y="1089" Icon="scenic" Facet="0"/>
+<Marker Name=" Scorpion King statue" X="5653" Y="973" Icon="scenic" Facet="0"/>
+<Marker Name="secret access" X="5253" Y="2474" Icon="other" Facet="0"/>
+<Marker Name=" Secret passage" X="5380" Y="650" Icon="exit" Facet="0"/>
+<Marker Name=" Secret passage" X="5475" Y="657" Icon="exit" Facet="0"/>
+<Marker Name=" Secret passage" X="5376" Y="746" Icon="exit" Facet="0"/>
+<Marker Name="Secret passage" X="5608" Y="1278" Icon="exit" Facet="0"/>
+<Marker Name=" Secret passage" X="5454" Y="658" Icon="exit" Facet="0"/>
+<Marker Name=" Secret passage" X="5427" Y="659" Icon="exit" Facet="0"/>
+<Marker Name=" Secret passage" X="5404" Y="659" Icon="exit" Facet="0"/>
+<Marker Name="secret passage to mini-boss" X="5431" Y="1242" Icon="exit" Facet="0"/>
+<Marker Name="secret passage to mini-boss" X="5432" Y="1268" Icon="exit" Facet="0"/>
+<Marker Name="Secret passage to Pillar Circle area" X="5686" Y="1277" Icon="stairs" Facet="0"/>
+<Marker Name="Sewer entrance" X="5567" Y="2071" Icon="exit" Facet="0"/>
+<Marker Name="Sewer entrance" X="5555" Y="2112" Icon="exit" Facet="0"/>
+<Marker Name="Sewer entrance" X="5579" Y="2112" Icon="exit" Facet="0"/>
+<Marker Name="Sewer under Darkmire LVL3" X="5674" Y="2039" Icon="Terrain" Facet="0"/>
+<Marker Name="Shadowspire Cathedral" X="5147" Y="2569" Icon="Terrain" Facet="0"/>
+<Marker Name="Shadowspire Cathedral BOSS" X="5414" Y="2533" Icon="point of interest" Facet="0"/>
+<Marker Name="Shadowspire Cathedral Mini-BOSS" X="5435" Y="2427" Icon="point of interest" Facet="0"/>
+<Marker Name="Shadowspire Exit [crimsongate]" X="5157" Y="2647" Icon="moongate" Facet="0"/>
+<Marker Name="Shadowspire Exit [goldengate]" X="5145" Y="2480" Icon="moongate" Facet="0"/>
+<Marker Name="Shadowspire Exit [goldengate]" X="5175" Y="2489" Icon="moongate" Facet="0"/>
+<Marker Name="shortcut to LVL2" X="5908" Y="1970" Icon="bridge" Facet="0"/>
+<Marker Name="Silver Moongate" X="5263" Y="2601" Icon="moongate" Facet="0"/>
+<Marker Name="Silver Moongate" X="5255" Y="2534" Icon="moongate" Facet="0"/>
+<Marker Name="Silver Moongate" X="5285" Y="2428" Icon="moongate" Facet="0"/>
+<Marker Name="Silver Moongate" X="5323" Y="2535" Icon="moongate" Facet="0"/>
+<Marker Name="Silver Moongate" X="5290" Y="2434" Icon="moongate" Facet="0"/>
+<Marker Name=" Skeletal Dragon" X="5644" Y="533" Icon="point of interest" Facet="0"/>
+<Marker Name="Skeleton room" X="5804" Y="1284" Icon="point of interest" Facet="0"/>
+<Marker Name=" Snow Fortress" X="5567" Y="874" Icon="Terrain" Facet="0"/>
+<Marker Name=" Spider Trap" X="5354" Y="293" Icon="trap" Facet="0"/>
+<Marker Name="stairs" X="5376" Y="2004" Icon="stairs" Facet="0"/>
+<Marker Name="stairs" X="5398" Y="1947" Icon="stairs" Facet="0"/>
+<Marker Name="stairs" X="5348" Y="1994" Icon="stairs" Facet="0"/>
+<Marker Name="stairs" X="5608" Y="1281" Icon="stairs" Facet="0"/>
+<Marker Name="stairs" X="5421" Y="1274" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs" X="5479" Y="656" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs" X="5380" Y="658" Icon="stairs" Facet="0"/>
+<Marker Name="stairs" X="5578" Y="1708" Icon="stairs" Facet="0"/>
+<Marker Name="stairs" X="5578" Y="1666" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs" X="5438" Y="1340" Icon="gate" Facet="0"/>
+<Marker Name=" Stairs down to LVL2" X="5610" Y="407" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL2" X="5211" Y="1249" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL2" X="5251" Y="1959" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL2" X="5252" Y="1981" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL2" X="5514" Y="2777" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs down to LVL2" X="5576" Y="493" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs down to LVL2" X="5628" Y="645" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL2" X="5773" Y="1713" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs down to LVL2" X="5896" Y="604" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL2" X="5908" Y="1330" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs down to LVL2" X="5967" Y="161" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs down to LVL2" X="5627" Y="669" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL2" X="5131" Y="2656" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL3" X="5344" Y="1230" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL3" X="5425" Y="1954" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs down to LVL3" X="5521" Y="637" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL3" X="5568" Y="2885" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL3" X="5786" Y="1327" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs down to LVL3" X="5876" Y="240" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL3" X="5942" Y="1498" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs down to LVL3" X="5979" Y="765" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs down to LVL3" X="5499" Y="630" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL3" X="5369" Y="1258" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL4" X="5683" Y="1363" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs down to LVL4" X="5606" Y="1346" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs still on LVL2" X="5886" Y="246" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs to LVL3" X="5767" Y="376" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs to LVL3" X="5782" Y="357" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL1" X="5329" Y="1416" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL1" X="5349" Y="2075" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL1" X="5364" Y="2095" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL1" X="5419" Y="729" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL1" X="5570" Y="2867" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL1" X="5705" Y="2602" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL1" X="5873" Y="1627" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL1" X="5878" Y="1332" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL1" X="5886" Y="340" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL1" X="6041" Y="785" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL1" X="5608" Y="431" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL1" X="5604" Y="531" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL1" X="5422" Y="750" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL1" X="5275" Y="2640" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL2" X="5200" Y="737" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL2" X="5426" Y="1349" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL2" X="5566" Y="2152" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL2" X="5689" Y="1248" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL2" X="5703" Y="2797" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL2" X="5933" Y="1771" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL2" X="5977" Y="338" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL2" X="6008" Y="1152" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL2" X="5418" Y="610" Icon="stairs" Facet="0"/>
+<Marker Name=" Stairs up to LVL2" X="5180" Y="730" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL2" X="5436" Y="1365" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL3" X="5590" Y="1131" Icon="stairs" Facet="0"/>
+<Marker Name="Stairs up to LVL3" X="5667" Y="1123" Icon="stairs" Facet="0"/>
+<Marker Name="Statue on the altar" X="5547" Y="1138" Icon="scenic" Facet="0"/>
+<Marker Name="Sun Wyrms nest" X="6098" Y="1633" Icon="scenic" Facet="0"/>
+<Marker Name="Swamp Dragon Room" X="5446" Y="1348" Icon="point of interest" Facet="0"/>
+<Marker Name=" Sword in Stone" X="5916" Y="781" Icon="scenic" Facet="0"/>
+<Marker Name=" Teleporter" X="5627" Y="973" Icon="teleporter" Facet="0"/>
+<Marker Name=" teleporter" X="5554" Y="697" Icon="teleporter" Facet="0"/>
+<Marker Name=" teleporter" X="5507" Y="701" Icon="teleporter" Facet="0"/>
+<Marker Name=" teleporter" X="5507" Y="693" Icon="teleporter" Facet="0"/>
+<Marker Name=" teleporter exit" X="5547" Y="696" Icon="teleporter" Facet="0"/>
+<Marker Name=" Teleporter to Aegis Keep" X="5774" Y="223" Icon="teleporter" Facet="0"/>
+<Marker Name="Teleporter to cultist's altar" X="5881" Y="95" Icon="teleporter" Facet="0"/>
+<Marker Name="to BOSS room" X="5421" Y="2452" Icon="exit" Facet="0"/>
+<Marker Name="to BOSS room" X="5937" Y="2413" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="5677" Y="1337" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="5923" Y="2423" Icon="point of interest" Facet="0"/>
+<Marker Name=" to BOSS room" X="5988" Y="928" Icon="point of interest" Facet="0"/>
+<Marker Name=" to BOSS room" X="5958" Y="223" Icon="point of interest" Facet="0"/>
+<Marker Name=" to BOSS room" X="5181" Y="617" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="5473" Y="1263" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="5568" Y="1953" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="5682" Y="1309" Icon="point of interest" Facet="0"/>
+<Marker Name="to Boss room" X="6008" Y="1587" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="5760" Y="2755" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="6109" Y="1597" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="5350" Y="2470" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="5421" Y="2712" Icon="stairs" Facet="0"/>
+<Marker Name=" to BOSS room" X="5220" Y="617" Icon="point of interest" Facet="0"/>
+<Marker Name=" to BOSS room" X="6034" Y="207" Icon="point of interest" Facet="0"/>
+<Marker Name="to BOSS room" X="5764" Y="2757" Icon="point of interest" Facet="0"/>
+<Marker Name=" To demon closed room" X="5957" Y="265" Icon="stairs" Facet="0"/>
+<Marker Name="to Dragon Caverns and Mini-Boss" X="5671" Y="1224" Icon="stairs" Facet="0"/>
+<Marker Name="to Honesty Island and Outpost" X="5612" Y="1678" Icon="exit" Facet="0"/>
+<Marker Name="to lvl 2" X="5823" Y="2200" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL2" X="5884" Y="1994" Icon="stairs" Facet="0"/>
+<Marker Name=" to LVL2" X="5929" Y="289" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL2" X="5904" Y="2252" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL2" X="5790" Y="2248" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5994" Y="1331" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="6068" Y="1509" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5152" Y="1468" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5603" Y="3038" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5162" Y="1497" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5205" Y="2191" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5686" Y="3092" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5748" Y="1658" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5753" Y="1365" Icon="stairs" Facet="0"/>
+<Marker Name=" to LVL3" X="5827" Y="979" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5874" Y="1095" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5991" Y="1290" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="6027" Y="1542" Icon="stairs" Facet="0"/>
+<Marker Name=" to LVL3" X="5169" Y="848" Icon="stairs" Facet="0"/>
+<Marker Name=" to LVL3" X="5243" Y="587" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5431" Y="1214" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5513" Y="2096" Icon="stairs" Facet="0"/>
+<Marker Name=" to LVL3" X="5200" Y="841" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3" X="5693" Y="3081" Icon="stairs" Facet="0"/>
+<Marker Name="to LVL3 ( the inner courtyard)" X="5310" Y="2639" Icon="exit" Facet="0"/>
+<Marker Name="to LVL3 ( the inner courtyard)" X="5436" Y="2471" Icon="exit" Facet="0"/>
+<Marker Name="to LVL3 ( the inner courtyard)" X="5335" Y="2544" Icon="exit" Facet="0"/>
+<Marker Name=" to LVL3 Aegis" X="5906" Y="424" Icon="stairs" Facet="0"/>
+<Marker Name="to Mini-BOSS" X="5507" Y="2528" Icon="stairs" Facet="0"/>
+<Marker Name="to Mini-BOSS" X="5718" Y="1296" Icon="point of interest" Facet="0"/>
+<Marker Name=" to Mini-BOSS room" X="3436" Y="751" Icon="point of interest" Facet="0"/>
+<Marker Name="to Mini-BOSS room" X="5821" Y="2827" Icon="point of interest" Facet="0"/>
+<Marker Name="to Mini-BOSS room" X="5640" Y="2266" Icon="point of interest" Facet="0"/>
+<Marker Name=" to mini-BOSS room" X="6024" Y="376" Icon="point of interest" Facet="0"/>
+<Marker Name=" to mini-BOSS room" X="5244" Y="613" Icon="point of interest" Facet="0"/>
+<Marker Name="to mini-BOSS room" X="5534" Y="2096" Icon="point of interest" Facet="0"/>
+<Marker Name="to Mini-Boss room" X="5958" Y="1705" Icon="point of interest" Facet="0"/>
+<Marker Name=" to Mini-Boss room" X="5940" Y="985" Icon="point of interest" Facet="0"/>
+<Marker Name="to Mini-BOSS room" X="5343" Y="2767" Icon="stairs" Facet="0"/>
+<Marker Name="to Osuarry LVL3" X="5697" Y="1476" Icon="stairs" Facet="0"/>
+<Marker Name="to Riverrun and Mainland" X="5538" Y="1670" Icon="exit" Facet="0"/>
+<Marker Name=" To Side Room" X="5850" Y="284" Icon="stairs" Facet="0"/>
+<Marker Name=" to Side Room" X="5510" Y="648" Icon="stairs" Facet="0"/>
+<Marker Name="to Surface" X="5267" Y="2826" Icon="stairs" Facet="0"/>
+<Marker Name=" Tombstones" X="5347" Y="665" Icon="other" Facet="0"/>
+<Marker Name="Torture chamber" X="5580" Y="1711" Icon="scenic" Facet="0"/>
+<Marker Name="trap" X="5537" Y="1102" Icon="trap" Facet="0"/>
+<Marker Name="trap" X="5532" Y="1101" Icon="trap" Facet="0"/>
+<Marker Name="TRAP (TRAP) (tier 1) (4 gp  hp  0-dmg)" X="5421" Y="1976" Icon="trap" Facet="0"/>
+<Marker Name="TRAP (TRAP) (tier 1) (4 gp  hp  0-dmg)" X="5421" Y="1993" Icon="trap" Facet="0"/>
+<Marker Name="TRAP (TRAP) (tier 1) (4 gp  hp  0-dmg)" X="5428" Y="1976" Icon="trap" Facet="0"/>
+<Marker Name="TRAP (TRAP) (tier 1) (4 gp  hp  0-dmg)" X="5428" Y="1993" Icon="trap" Facet="0"/>
+<Marker Name="TRAP (TRAP) (tier 1) (4 gp  hp  0-dmg)" X="5569" Y="2037" Icon="trap" Facet="0"/>
+<Marker Name="TRAP (TRAP) (tier 1) (4 gp  hp  0-dmg)" X="5569" Y="2056" Icon="trap" Facet="0"/>
+<Marker Name="TRAP (TRAP) (tier 1) (4 gp  hp  0-dmg)" X="5896" Y="2005" Icon="trap" Facet="0"/>
+<Marker Name="TRAP (TRAP) (tier 1) (4 gp  hp  0-dmg)" X="5924" Y="2016" Icon="trap" Facet="0"/>
+<Marker Name="TRAP (TRAP) (tier 1) (4 gp  hp  0-dmg)" X="5953" Y="2016" Icon="trap" Facet="0"/>
+<Marker Name="trap - Moving walls corridor" X="5578" Y="1051" Icon="trap" Facet="0"/>
+<Marker Name="trap - Moving walls corridor" X="5579" Y="1042" Icon="trap" Facet="0"/>
+<Marker Name="Treasure room" X="6115" Y="1747" Icon="scenic" Facet="0"/>
+<Marker Name="Treasure Vault" X="5458" Y="2518" Icon="scenic" Facet="0"/>
+<Marker Name="Treasury chamber" X="5733" Y="1019" Icon="scenic" Facet="0"/>
+<Marker Name="trespassing" X="6061" Y="1700" Icon="gate" Facet="0"/>
+<Marker Name="Trespassing" X="5446" Y="1361" Icon="stairs" Facet="0"/>
+<Marker Name="Trespassing" X="5479" Y="1345" Icon="stairs" Facet="0"/>
+<Marker Name="1 trespassing" X="6088" Y="1690" Icon="gate" Facet="0"/>
+<Marker Name="trespassing" X="6046" Y="1763" Icon="gate" Facet="0"/>
+<Marker Name="trespassing" X="6110" Y="1753" Icon="gate" Facet="0"/>
+<Marker Name="trespassing" X="6100" Y="1753" Icon="gate" Facet="0"/>
+<Marker Name="trespassing" X="6089" Y="1741" Icon="gate" Facet="0"/>
+<Marker Name="trespassing" X="6120" Y="1749" Icon="gate" Facet="0"/>
+<Marker Name="trespassing" X="6119" Y="1695" Icon="gate" Facet="0"/>
+<Marker Name="trespassing" X="6083" Y="1714" Icon="gate" Facet="0"/>
+<Marker Name="trespassing" X="6047" Y="1698" Icon="gate" Facet="0"/>
+<Marker Name="Tresspassing" X="5813" Y="1563" Icon="bridge" Facet="0"/>
+<Marker Name="Tunnel under Urukton Bluffs Orc Fort" X="5581" Y="1369" Icon="stairs" Facet="0"/>
+<Marker Name="Tunnel under Urukton Bluffs Orc Fort" X="5560" Y="1443" Icon="stairs" Facet="0"/>
+<Marker Name=" Underground waterfall" X="5425" Y="557" Icon="scenic" Facet="0"/>
+<Marker Name=" Undermountain Alchemist" X="5460" Y="307" Icon="reagents" Facet="0"/>
+<Marker Name=" The Undermountain Dungeon" X="5370" Y="300" Icon="Terrain" Facet="0"/>
+<Marker Name=" Undermountain Provisioner" X="5283" Y="368" Icon="provisioner" Facet="0"/>
+<Marker Name="Underwater entrance to BOSS room" X="5450" Y="1270" Icon="point of interest" Facet="0"/>
+<Marker Name="Underwater passage to Mini-BOSS room" X="5431" Y="1283" Icon="point of interest" Facet="0"/>
+<Marker Name="Up to LVL 2 of the Cathedral" X="5487" Y="2520" Icon="stairs" Facet="0"/>
+<Marker Name="Up to LVL1" X="5378" Y="2756" Icon="stairs" Facet="0"/>
+<Marker Name="Up to LVL2" X="5381" Y="2894" Icon="stairs" Facet="0"/>
+<Marker Name="Up to LVL2" X="5240" Y="2877" Icon="stairs" Facet="0"/>
+<Marker Name="Up to LVL3" X="5668" Y="2056" Icon="exit" Facet="0"/>
+<Marker Name="Up to LVL3" X="5690" Y="2056" Icon="exit" Facet="0"/>
+<Marker Name="Up to LVL3" X="5678" Y="2012" Icon="exit" Facet="0"/>
+<Marker Name="up to LVL3" X="5717" Y="1271" Icon="stairs" Facet="0"/>
+<Marker Name=" Up to LVL3" X="6089" Y="906" Icon="stairs" Facet="0"/>
+<Marker Name="Up to Surface" X="5185" Y="2848" Icon="stairs" Facet="0"/>
+<Marker Name="Urukton Bluffs" X="5232" Y="2811" Icon="Terrain" Facet="0"/>
+<Marker Name=" Useless teleporter" X="5586" Y="646" Icon="teleporter" Facet="0"/>
+<Marker Name=" Vampires iron extraction site" X="5400" Y="566" Icon="scenic" Facet="0"/>
+<Marker Name="walkway" X="6129" Y="1739" Icon="other" Facet="0"/>
+<Marker Name="walkway" X="6016" Y="1737" Icon="other" Facet="0"/>
+<Marker Name="walkway" X="6064" Y="1745" Icon="other" Facet="0"/>
+<Marker Name="walkway" X="6090" Y="1766" Icon="other" Facet="0"/>
+<Marker Name="walkway" X="6126" Y="1734" Icon="other" Facet="0"/>
+<Marker Name="wall (impassable)" X="5161" Y="2461" Icon="other" Facet="0"/>
+<Marker Name=" Wall (unpassable)" X="5988" Y="252" Icon="trap" Facet="0"/>
+<Marker Name=" Wall (unpassable)" X="6021" Y="256" Icon="trap" Facet="0"/>
+<Marker Name="Wall with mumies" X="5652" Y="1050" Icon="scenic" Facet="0"/>
+<Marker Name="Waterfall" X="5945" Y="1000" Icon="scenic" Facet="0"/>
+<Marker Name="waterfall entrance" X="5474" Y="1271" Icon="other" Facet="0"/>
+<Marker Name="Waterfall passage" X="5594" Y="2901" Icon="exit" Facet="0"/>
+<Marker Name=" Well of blood" X="5634" Y="973" Icon="scenic" Facet="0"/>
+<Marker Name="Winterweed room" X="5985" Y="1100" Icon="point of interest" Facet="0"/>
+<Marker Name="Wooden Bridge" X="5146" Y="2534" Icon="bridge" Facet="0"/>
+</Pack>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="4" matrix_h="2">
+		<gump type="7" x="456" y="884" serial="1014" name="Release item" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="544" y="884" serial="1012" name="Lockdown Item" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="632" y="884" serial="1010" name="Guards" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="720" y="884" serial="1008" name="Open Wiki" graphicId="0" hideLabel="False" scale="1" matrix_x="3" matrix_y="0" />
+		<gump type="7" x="544" y="928" serial="1013" name="Secure Item" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="1" />
+		<gump type="7" x="632" y="928" serial="1011" name="Bank" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="1" />
+		<gump type="7" x="720" y="928" serial="1009" name="Outlands Help Page" graphicId="0" hideLabel="False" scale="1" matrix_x="3" matrix_y="1" />
+	</anchored_group_gump>
+	<gump />
+	<gump />
+	<gump type="4" x="1390" y="132" serial="345126" />
+	<gump />
+	<gump type="2" x="180" y="180" serial="1097214754" graphic="9" isminimized="False" />
+	<gump type="2" x="-17" y="574" serial="1094987807" graphic="60" isminimized="False" />
+	<gump type="9" x="1636" y="574" serial="345126" isminimized="False" />
+	<gump type="24" x="1367" y="84" serial="0" />
+	<gump type="21" x="25" y="879" serial="0" />
+	<gump type="10" x="1158" y="867" serial="0" isminimized="False" height="274" />
+	<gump type="1" x="1612" y="418" serial="0" graphic="30080" direction="1" />
+	<gump type="8" x="9" y="374" serial="0" isminimized="False" />
+	<gump type="7" x="340" y="882" serial="1025" name="Bandagge" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="3" x="816" y="883" serial="0" rows="3" columns="8" rectsize="40">
+		<controls>
+			<control graphic="5370" hue="2799" />
+			<control graphic="3852" hue="0" />
+			<control graphic="3847" hue="0" />
+			<control graphic="3851" hue="0" />
+			<control graphic="3849" hue="0" />
+			<control graphic="3848" hue="0" />
+			<control graphic="3846" hue="0" />
+			<control graphic="3853" hue="0" />
+			<control graphic="3705" hue="38" />
+			<control graphic="3974" hue="0" />
+			<control graphic="3973" hue="0" />
+			<control graphic="3981" hue="0" />
+			<control graphic="3976" hue="0" />
+			<control graphic="3963" hue="0" />
+			<control graphic="3980" hue="0" />
+			<control graphic="3962" hue="0" />
+			<control graphic="3617" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+		</controls>
+	</gump>
+	<gump type="5" x="598" y="4" serial="0" />
+	<gump type="18" x="1604" y="30" serial="0" />
+</gumps>

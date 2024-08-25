@@ -1,0 +1,9 @@
+overhead 'Script started' 88
+if findtype "metal chest" ground any any 2 as chest
+    dclick chest
+    wait 500
+else
+    overhead 'No chest found!' 38
+    stop
+endif
+

@@ -1,0 +1,23 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/80d24cbc-c121-484d-af2f-8fe45c765a2b for latest
+# Automation by Jaseowns
+## Script: Bapeth's Ocean Manual Override (A Stronger Set Last Target)
+## Created by: barryroser#0
+#############################################
+
+# Bapeths Manual Override
+#
+# Script will loop into 'Master Background' if you have it in your script library
+#
+# Use this script in place of your "Set Last Target" hotkey 
+#
+# Script starts here
+hotkey 'Set Last Target'
+getlabel backpack ping
+while targetexists 
+    //do nothing
+endwhile
+if not targetexists 
+    @setvar 'Manual Override' lasttarget
+    overhead "Manual Override Set" 88 
+endif
+script 'Master Background'

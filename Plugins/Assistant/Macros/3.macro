@@ -1,0 +1,8 @@
+!Loop
+Assistant.Macros.UseSkillAction|22
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.PauseAction|00:00:00.5550000
+Assistant.Macros.TargetRelLocAction|3|0
+Assistant.Macros.PauseAction|00:00:05
+Assistant.Macros.DoubleClickTypeAction|3762|True
+Assistant.Macros.PauseAction|00:00:05

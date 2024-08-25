@@ -1,0 +1,58 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/630a65b4-98b2-454f-911a-6fd1930af3c3 for latest
+# Automation by Jaseowns
+## Script: Get sucked into inn room
+## Created by: Jaseowns#6694
+#############################################
+
+# Get sucked into inn room by Jaseowns
+# UO Outlands
+###
+# This script gets called from the Recall Script 
+# or a custom hotkey to enter an inn room
+###
+@setvar! jaseowns_RoomToEnter 100
+@setvar! myRoomDoorToExit 0x486236E2
+
+@setvar! doYouHaveAnInnRoomOnThisCharacter 0
+@setvar! doYouWantToGoToYourInnRoom 1
+
+if name = "Hodler"
+    @setvar! doYouHaveAnInnRoomOnThisCharacter 1
+    @setvar! doYouWantToGoToYourInnRoom 1
+endif
+
+
+
+while not gumpexists 2393832411
+    if find myRoomDoorToExit ground -1 -1 10 as item
+        dclick item
+    else
+        say 'room'
+    endif
+    waitforgump 2393832411 2500
+endwhile
+while gumpexists 2393832411
+    if doYouWantToGoToYourInnRoom = 1
+        gumpresponse 4 2393832411
+        waitforgump 2393832411 500
+        getlabel backpack jaseowns_PingCheck
+    endif
+    if gumpexists 2393832411 
+        if doYouHaveAnInnRoomOnThisCharacter = 1
+            gumpresponse 6 2393832411
+        else
+            gumpresponse 5 2393832411
+        endif
+        waitforgump 2393832411 5000
+        gumpresponse jaseowns_RoomToEnter 2393832411 
+    endif
+endwhile
+
+
+# The auto recaller is in here:
+# Recall script: https://outlands.uorazorscripts.com/script/5b3fde97-fa90-4707-9f8e-7f56dca6792b
+
+# The auto recall from moongate is inside here:
+# Moon gate script: https://outlands.uorazorscripts.com/script/09ae0dd2-3497-4fa5-b3c2-8bcd2694f942
+
+

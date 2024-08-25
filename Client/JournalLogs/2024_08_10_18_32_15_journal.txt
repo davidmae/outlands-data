@@ -1,0 +1,3534 @@
+[08/10/2024 18:32]  System: WorldMap loading...
+[08/10/2024 18:32]  System: Loading WorldMap markers..
+[08/10/2024 18:32]  System: WorldMap loaded!
+[08/10/2024 18:32]  System: ..Banks_and_Healers.xml (39)
+[08/10/2024 18:32]  System: ..Dungeons.xml (13)
+[08/10/2024 18:32]  System: ..Dungeon_Gates.xml (388)
+[08/10/2024 18:32]  System: ..Healer_Caravans.xml (42)
+[08/10/2024 18:32]  System: ..Kings_Faire.xml (43)
+[08/10/2024 18:32]  System: ..Moongates.xml (10)
+[08/10/2024 18:32]  System: ..POI.xml (251)
+[08/10/2024 18:32]  System: ..PvP_Locations.xml (71)
+[08/10/2024 18:32]  System: ..Shrines.xml (9)
+[08/10/2024 18:32]  System: ..Sub-Dungeons.xml (4)
+[08/10/2024 18:32]  System: ..Townships.xml (10)
+[08/10/2024 18:32]  System: ..UOAM_Atlas.xml (1887)
+[08/10/2024 18:32]  System: ..UOAM_T-Map.xml (255)
+[08/10/2024 18:32]  System: ..UOAM_Treasure.xml (523)
+[08/10/2024 18:32]  System: WorldMap markers loaded (3545)
+[08/10/2024 18:32]  System: Welcome Eldevil!
+[08/10/2024 18:32]  Eldevil: Eldevil
+[08/10/2024 18:32]  Carlton: Carlton the stablemaster
+[08/10/2024 18:32]  Tuhkahuilu: [Druid, BEAR]
+[08/10/2024 18:32]  Tuhkahuilu: Tuhkahuilu
+[08/10/2024 18:32]  Khian: Khian (Young)
+[08/10/2024 18:32]  Woundup: [Learners Permit, TES]
+[08/10/2024 18:32]  Woundup: Woundup
+[08/10/2024 18:32]  Graveybug: (bonded)
+[08/10/2024 18:32]  Graveybug: Graveybug
+[08/10/2024 18:32]  a phoenix: (bonded)
+[08/10/2024 18:32]  a phoenix: a phoenix
+[08/10/2024 18:32]  Zara: Zara the scribe
+[08/10/2024 18:32]  Sherwin: Sherwin the mage
+[08/10/2024 18:32]  Archmage Renevak: Archmage Renevak (Young)
+[08/10/2024 18:32]  true named seer: true named seer (Young)
+[08/10/2024 18:32]  Skn Prns Opucugu: Skn Prns Opucugu (Young)
+[08/10/2024 18:32]  Kenelm: Kenelm the tavern keeper
+[08/10/2024 18:32]  DimaOxoTHuK: DimaOxoTHuK
+[08/10/2024 18:32]  Accabadora: Accabadora
+[08/10/2024 18:32]  Zann: Zann the Necromancer
+[08/10/2024 18:32]  Mina Bretta: Monster Hunter Associate
+[08/10/2024 18:32]  Mina Bretta: [TES]
+[08/10/2024 18:32]  Mina Bretta: Lady Mina Bretta
+[08/10/2024 18:32]  Mirkx: Mirkx (Young)
+[08/10/2024 18:32]  Jordan: Jordan the beggar
+[08/10/2024 18:32]  Rosaline: Rosaline the waiter
+[08/10/2024 18:32]  Bly: Bly the fisherman
+[08/10/2024 18:32]  DualNature: DualNature
+[08/10/2024 18:32]  Hack n Slash: The Dread Pirate
+[08/10/2024 18:32]  Hack n Slash: [Elder Pirate, LiT]
+[08/10/2024 18:32]  Hack n Slash: Lord Hack n Slash
+[08/10/2024 18:32]  Karbon Katt: Karbon Katt (Young)
+[08/10/2024 18:32]  Spellslinger: Spellslinger (Young)
+[08/10/2024 18:32]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/10/2024 18:32]  HappyOne: HappyOne (Young)
+[08/10/2024 18:32]  a zombie: (summoned)
+[08/10/2024 18:32]  a zombie: a zombie
+[08/10/2024 18:32]  : stone wall
+[08/10/2024 18:32]  Khian: Khian (Young)
+[08/10/2024 18:32]  Khian: Khian (Young)
+[08/10/2024 18:32]  You see: training credits deed
+[08/10/2024 18:32]  You see: (510 credits remaining)
+[08/10/2024 18:32]  You see: [bound to Eldevil]
+[08/10/2024 18:32]  Kurm: Kurm (Young)
+[08/10/2024 18:32]  a skeleton: (summoned)
+[08/10/2024 18:32]  a skeleton: a skeleton
+[08/10/2024 18:32]  a zombie: (summoned)
+[08/10/2024 18:32]  a zombie: a zombie
+[08/10/2024 18:32]  a zombie: (summoned)
+[08/10/2024 18:32]  a zombie: a zombie
+[08/10/2024 18:32]  a skeleton: (summoned)
+[08/10/2024 18:32]  a skeleton: a skeleton
+[08/10/2024 18:32]  Kasinda: Kasinda the alchemist
+[08/10/2024 18:32]  Mirkx: Mirkx (Young)
+[08/10/2024 18:32]  Jayne: Jayne the innkeeper
+[08/10/2024 18:32]  a bull: (tame)
+[08/10/2024 18:32]  a bull: a bull
+[08/10/2024 18:32]  a bull: (tame)
+[08/10/2024 18:32]  a bull: a bull
+[08/10/2024 18:32]  hey girl hey: hey girl hey
+[08/10/2024 18:32]  Fuller: Fuller the barkeep
+[08/10/2024 18:32]  HappyOne: HappyOne (Young)
+[08/10/2024 18:32]  Giles: Giles the thief
+[08/10/2024 18:32]  Marti: Marti the healer
+[08/10/2024 18:32]  Dusty: Dusty the cook
+[08/10/2024 18:32]  You see: the remains of Yazmayne
+[08/10/2024 18:32]  HappyOne: HappyOne (Young)
+[08/10/2024 18:32]  Butzeboy: Butzeboy (Young)
+[08/10/2024 18:32]  Feyrrow Paper: Feyrrow Paper (Young)
+[08/10/2024 18:32]  Warface: [NWO]
+[08/10/2024 18:32]  Warface: Warface
+[08/10/2024 18:32]  Good Work: [Druid, BEAR]
+[08/10/2024 18:32]  Good Work: Good Work
+[08/10/2024 18:32]  putyknife: putyknife (Young)
+[08/10/2024 18:32]  Dex Reese: Dex Reese (Young)
+[08/10/2024 18:32]  Bardy MCBardson: [Soldier, DKR]
+[08/10/2024 18:32]  Bardy MCBardson: Bardy MCBardson
+[08/10/2024 18:32]  Persivle: [Book Worm, CtS]
+[08/10/2024 18:32]  Persivle: Persivle
+[08/10/2024 18:32]  Pigle: Pigle (Young)
+[08/10/2024 18:32]  BlingBlong: Time Guardian
+[08/10/2024 18:32]  BlingBlong: [Viking, BRvk]
+[08/10/2024 18:32]  BlingBlong: Lord BlingBlong
+[08/10/2024 18:32]  You see: bandage : 348
+[08/10/2024 18:32]  System: Who will you use the bandages on?
+[08/10/2024 18:32]  Carleen: Carleen the guard
+[08/10/2024 18:32]  a: (bonded)
+[08/10/2024 18:32]  a: a
+[08/10/2024 18:32]  a scarab: (bonded)
+[08/10/2024 18:32]  a scarab: a scarab
+[08/10/2024 18:32]  FireLips: (bonded)
+[08/10/2024 18:32]  FireLips: FireLips
+[08/10/2024 18:32]  Trisha Khalen: Backstabber
+[08/10/2024 18:32]  Trisha Khalen: [Juicy, SQzD]
+[08/10/2024 18:32]  Trisha Khalen: Trisha Khalen
+[08/10/2024 18:32]  a mongbat: (tame)
+[08/10/2024 18:32]  a mongbat: a mongbat
+[08/10/2024 18:32]  Talbot: [BRvk]
+[08/10/2024 18:32]  Talbot: Talbot
+[08/10/2024 18:32]  Razor: Target: Eldevil
+[08/10/2024 18:32]  System: That being is not damaged!
+[08/10/2024 18:32]  Xi Chungus: [Book Worm, CtS]
+[08/10/2024 18:32]  Xi Chungus: Xi Chungus
+[08/10/2024 18:33]  Talbot: BRvk, guilda BR está recrutando... Regras antirroubo (se é que vocês entendem)
+[08/10/2024 18:33]  Persivle: Welcome to Outlands! Any new players have any questions or need help with anything?
+[08/10/2024 18:33]  Talbot: Distro de raros, links e sistema de rotatividade de sorteio que facilita crescimento para todos.
+[08/10/2024 18:33]  Alice Manu: Alice Manu (Young)
+[08/10/2024 18:33]  Talbot: ............................................................ Mande mensagem para: julioturatti ou renatoestevao ..............
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Persivle: If so, message me on discord at Trevek. and i'll get back with you as soon as i can!
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  HappyOne: HappyOne (Young)
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Trisha Khalen: Backstabber
+[08/10/2024 18:33]  Trisha Khalen: [Juicy, SQzD]
+[08/10/2024 18:33]  Trisha Khalen: Trisha Khalen
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Generic Killer: Triggered
+[08/10/2024 18:33]  Generic Killer: [Member, NC]
+[08/10/2024 18:33]  Generic Killer: Generic Killer
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  El Chapoo: Weaponmaster
+[08/10/2024 18:33]  El Chapoo: [G.G]
+[08/10/2024 18:33]  El Chapoo: Lord El Chapoo
+[08/10/2024 18:33]  Talbot: BRvk, guilda BR está recrutando... Regras antirroubo (se é que vocês entendem)
+[08/10/2024 18:33]  Talbot: Distro de raros, links e sistema de rotatividade de sorteio que facilita crescimento para todos.
+[08/10/2024 18:33]  Talbot: ............................................................ Mande mensagem para: julioturatti ou renatoestevao ..............
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Persivle: Welcome to Outlands! Any new players have any questions or need help with anything?
+[08/10/2024 18:33]  Persivle: If so, message me on discord at Trevek. and i'll get back with you as soon as i can!
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Giles: Giles the thief
+[08/10/2024 18:33]  System: IsseyMiyake has completed the achievement: Artificers Enclave Dignitary.
+[08/10/2024 18:33]  System: Who will you use the bandages on?
+[08/10/2024 18:33]  System: That being is not damaged!
+[08/10/2024 18:33]  Xi Chungus: An Lor Xen
+[08/10/2024 18:33]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:33]  Moonshaddow: Moonshaddow
+[08/10/2024 18:33]  a bull: (tame)
+[08/10/2024 18:33]  a bull: a bull
+[08/10/2024 18:33]  a great hart: (tame)
+[08/10/2024 18:33]  a great hart: a great hart
+[08/10/2024 18:33]  a great hart: (tame)
+[08/10/2024 18:33]  a great hart: a great hart
+[08/10/2024 18:33]  an eagle: an eagle
+[08/10/2024 18:33]  a hind: a hind
+[08/10/2024 18:33]  System: You have left the protection of the town guards.
+[08/10/2024 18:33]  You see: a wounded harpy corpse
+[08/10/2024 18:33]  You see: the remains of Sumom
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  You see: the remains of Moheev
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  You see: a wounded harpy corpse
+[08/10/2024 18:33]  You see: a wounded harpy corpse
+[08/10/2024 18:33]  You see: a wounded harpy corpse
+[08/10/2024 18:33]  You see: a wounded harpy corpse
+[08/10/2024 18:33]  You see: a wounded harpy corpse
+[08/10/2024 18:33]  You see: a wounded harpy corpse
+[08/10/2024 18:33]  You see: a wounded harpy corpse
+[08/10/2024 18:33]  You see: the remains of Sumom
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  Deano's Chapel: Master of Aspects
+[08/10/2024 18:33]  Deano's Chapel: [Sage, BEAR]
+[08/10/2024 18:33]  Deano's Chapel: Deano's Chapel
+[08/10/2024 18:33]  Ruka Minazuki: Ruka Minazuki
+[08/10/2024 18:33]  Moses Blackson: Triggered
+[08/10/2024 18:33]  Moses Blackson: [Druid, BEAR]
+[08/10/2024 18:33]  Moses Blackson: Moses Blackson
+[08/10/2024 18:33]  an aegis slime: (tame)
+[08/10/2024 18:33]  an aegis slime: an aegis slime
+[08/10/2024 18:33]  RingPoP: Kraul Hive Guardian
+[08/10/2024 18:33]  RingPoP: [Dirty Bonnet Thief.., SQzD]
+[08/10/2024 18:33]  RingPoP: Lady RingPoP
+[08/10/2024 18:33]  HawkThuah: (bonded)
+[08/10/2024 18:33]  HawkThuah: HawkThuah
+[08/10/2024 18:33]  Charon Drakon: Charon Drakon
+[08/10/2024 18:33]  a drake: (bonded)
+[08/10/2024 18:33]  a drake: a drake
+[08/10/2024 18:33]  a dragon: (bonded)
+[08/10/2024 18:33]  a dragon: a dragon
+[08/10/2024 18:33]  a great hart: (tame)
+[08/10/2024 18:33]  a great hart: a great hart
+[08/10/2024 18:33]  Lola Montes: [Piliers des liens, LDS]
+[08/10/2024 18:33]  Lola Montes: Lola Montes
+[08/10/2024 18:33]  Warner the Watch: [Knight, Sir.]
+[08/10/2024 18:33]  Warner the Watch: Warner the Watch
+[08/10/2024 18:33]  a frost mephit: (bonded)
+[08/10/2024 18:33]  a frost mephit: a frost mephit
+[08/10/2024 18:33]  a frigid hornbeast: (bonded)
+[08/10/2024 18:33]  a frigid hornbeast: a frigid hornbeast
+[08/10/2024 18:33]  Cheeech: (bonded)
+[08/10/2024 18:33]  Cheeech: Cheeech
+[08/10/2024 18:33]  Kali Yuga: [VOX]
+[08/10/2024 18:33]  Kali Yuga: Lord Kali Yuga
+[08/10/2024 18:33]  BenAdaephonDelat: BenAdaephonDelat (Young)
+[08/10/2024 18:33]  Case Gibson: Case Gibson (Young)
+[08/10/2024 18:33]  a scavenging guy: a scavenging guy
+[08/10/2024 18:33]  Lillie Snowflake: Legendary Tailor
+[08/10/2024 18:33]  Lillie Snowflake: [G.G]
+[08/10/2024 18:33]  Lillie Snowflake: Lillie Snowflake
+[08/10/2024 18:33]  Afton Aislinn: Afton Aislinn
+[08/10/2024 18:33]  Fowgardd: Fowgardd
+[08/10/2024 18:33]  Abuelo: Abuelo
+[08/10/2024 18:33]  Alander: [Membro, ITA.]
+[08/10/2024 18:33]  Alander: Alander
+[08/10/2024 18:33]  Vinoxanous: [Beard Brother, BB]
+[08/10/2024 18:33]  Vinoxanous: Vinoxanous
+[08/10/2024 18:33]  a fortress beetle: (bonded)
+[08/10/2024 18:33]  a fortress beetle: a fortress beetle
+[08/10/2024 18:33]  Ruka Minazuki: In Mani
+[08/10/2024 18:33]  Ruka Minazuki: In Mani
+[08/10/2024 18:33]  Warner the Watch: *area taunt*
+[08/10/2024 18:33]  You see: a mongbat corpse
+[08/10/2024 18:33]  System: You may not loot this corpse.
+[08/10/2024 18:33]  Ruka Minazuki: In Mani
+[08/10/2024 18:33]  Ruka Minazuki: In Mani
+[08/10/2024 18:33]  Ruka Minazuki: In Mani
+[08/10/2024 18:33]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Spellslinger: Spellslinger (Young)
+[08/10/2024 18:34]  Afton Aislinn: Afton Aislinn
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  Ruka Minazuki: In Mani
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  Warner the Watch: *area taunt*
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  Manatou: [Recruit, DOPE]
+[08/10/2024 18:34]  Manatou: Manatou
+[08/10/2024 18:34]  El illka: El illka
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a headless corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a wounded harpy corpse
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a rotting corpse
+[08/10/2024 18:34]  You see: the remains of Mefedronka
+[08/10/2024 18:34]  Manatou: [Recruit, DOPE]
+[08/10/2024 18:34]  Manatou: Manatou
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  You see: a headless corpse
+[08/10/2024 18:34]  You see: a skeletal corpse
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a giant bat corpse
+[08/10/2024 18:34]  You see: a giant bat corpse
+[08/10/2024 18:34]  You see: a giant bat corpse
+[08/10/2024 18:34]  You see: a giant bat corpse
+[08/10/2024 18:34]  You see: a giant bat corpse
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  an undead pirate: Pirate
+[08/10/2024 18:34]  an undead pirate: [Bon Voyage, Co.]
+[08/10/2024 18:34]  an undead pirate: Lord an undead pirate
+[08/10/2024 18:34]  Skn Prns Opucugu: Skn Prns Opucugu (Young)
+[08/10/2024 18:34]  a mongbat: a mongbat
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  a giant frog: a giant frog
+[08/10/2024 18:34]  Mefedronka: Mefedronka (Young)
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  a colossal frog: a colossal frog
+[08/10/2024 18:34]  a headless: a headless
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  You see: a giant rat corpse
+[08/10/2024 18:34]  Topboy Zi: Topboy Zi
+[08/10/2024 18:34]  a headless: a headless
+[08/10/2024 18:34]  You see: a giant frog corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  Alice Manu: Alice Manu (Young)
+[08/10/2024 18:34]  Warner the Watch: *area taunt*
+[08/10/2024 18:34]  a giant frog: a giant frog
+[08/10/2024 18:34]  System: Dragkiris' has completed the achievement: Alchemist (Basic).
+[08/10/2024 18:34]  AntiVenom: AntiVenom (Young)
+[08/10/2024 18:34]  a mongbat: a mongbat
+[08/10/2024 18:34]  a colossal frog: a colossal frog
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  a mongbat: a mongbat
+[08/10/2024 18:34]  an undead pirate: Pirate
+[08/10/2024 18:34]  an undead pirate: [Bon Voyage, Co.]
+[08/10/2024 18:34]  an undead pirate: Lord an undead pirate
+[08/10/2024 18:34]  a mongbat: a mongbat
+[08/10/2024 18:34]  You see: a wounded harpy corpse
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a headless corpse
+[08/10/2024 18:34]  You see: a headless corpse
+[08/10/2024 18:34]  You see: a headless corpse
+[08/10/2024 18:34]  You see: a corpser corpse
+[08/10/2024 18:34]  You see: a corpser corpse
+[08/10/2024 18:34]  You see: a headless corpse
+[08/10/2024 18:34]  You see: a corpser corpse
+[08/10/2024 18:34]  You see: a headless corpse
+[08/10/2024 18:34]  a giant frog: a giant frog
+[08/10/2024 18:34]  Colobus: [Legionary, -_-]
+[08/10/2024 18:34]  Colobus: Lady Colobus
+[08/10/2024 18:34]  You see: a giant bat corpse
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  a corpser: a corpser
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  You see: a corpser corpse
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  You see: a corpser corpse
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  a llama: (tame)
+[08/10/2024 18:34]  a llama: a llama
+[08/10/2024 18:34]  a llama: (tame)
+[08/10/2024 18:34]  a llama: a llama
+[08/10/2024 18:34]  a robust cambrian steed: (tame)
+[08/10/2024 18:34]  a robust cambrian steed: a robust cambrian steed
+[08/10/2024 18:34]  a dusk drake: (bonded)
+[08/10/2024 18:34]  a dusk drake: a dusk drake
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: Opening door...
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  a feeble ratman: a feeble ratman
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: You may not loot this corpse.
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  System: Opening door...
+[08/10/2024 18:34]  a mongbat: a mongbat
+[08/10/2024 18:34]  You see: a mongbat corpse
+[08/10/2024 18:34]  You see: a corpser corpse
+[08/10/2024 18:34]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:34]  a wounded harpy: a wounded harpy
+[08/10/2024 18:34]  a giant bat: a giant bat
+[08/10/2024 18:34]  System: Opening door...
+[08/10/2024 18:34]  You see: a giant bat corpse
+[08/10/2024 18:34]  You see: a giant bat corpse
+[08/10/2024 18:34]  You see: a giant bat corpse
+[08/10/2024 18:35]  a wounded harpy: a wounded harpy
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  a giant bat: a giant bat
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.2.  It is now 18.6.
+[08/10/2024 18:35]  System: Your skill in Archery has increased by 0.2.  It is now 49.6.
+[08/10/2024 18:35]  a wounded harpy: -61
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.2.  It is now 18.4.
+[08/10/2024 18:35]  System: Your skill in Archery has increased by 0.2.  It is now 49.8.
+[08/10/2024 18:35]  a wounded harpy: -62
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  a giant frog: a giant frog
+[08/10/2024 18:35]  a colossal frog: a colossal frog
+[08/10/2024 18:35]  an undead pirate: Pirate
+[08/10/2024 18:35]  an undead pirate: [Bon Voyage, Co.]
+[08/10/2024 18:35]  an undead pirate: Lord an undead pirate
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.2.  It is now 18.2.
+[08/10/2024 18:35]  System: Your skill in Archery has increased by 0.2.  It is now 50.0.
+[08/10/2024 18:35]  a wounded harpy: -63
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  a wounded harpy: a wounded harpy
+[08/10/2024 18:35]  You see: a wounded harpy corpse
+[08/10/2024 18:35]  a giant bat: a giant bat
+[08/10/2024 18:35]  a wounded harpy: a wounded harpy
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.1.  It is now 18.1.
+[08/10/2024 18:35]  System: Your skill in Archery has increased by 0.1.  It is now 50.1.
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.1.  It is now 18.0.
+[08/10/2024 18:35]  System: Your skill in Tactics has increased by 0.1.  It is now 70.0.
+[08/10/2024 18:35]  a wounded harpy: -48
+[08/10/2024 18:35]  Eldevil: -20
+[08/10/2024 18:35]  System: Who will you use the bandages on?
+[08/10/2024 18:35]  System: You begin applying the bandages.
+[08/10/2024 18:35]  Razor: Bandage: Starting
+[08/10/2024 18:35]  Razor: Bandage: 10s
+[08/10/2024 18:35]  System: You must wait to perform another action.
+[08/10/2024 18:35]  a corpser: a corpser
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  Razor: Bandage: 9s
+[08/10/2024 18:35]  Razor: Bandage: 8s
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:35]  Razor: Bandage: 7s
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.1.  It is now 17.9.
+[08/10/2024 18:35]  System: Your skill in Tactics has increased by 0.1.  It is now 70.1.
+[08/10/2024 18:35]  a wounded harpy: -42
+[08/10/2024 18:35]  Razor: Bandage: 6s
+[08/10/2024 18:35]  Razor: Bandage: 5s
+[08/10/2024 18:35]  Moist Molly: [Hambro's Bro, -_-]
+[08/10/2024 18:35]  Moist Molly: Moist Molly
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.1.  It is now 17.8.
+[08/10/2024 18:35]  System: Your skill in Archery has increased by 0.1.  It is now 50.2.
+[08/10/2024 18:35]  Razor: Bandage: 4s
+[08/10/2024 18:35]  Eldevil: -14
+[08/10/2024 18:35]  System: Your fingers slip!
+[08/10/2024 18:35]  Razor: Bandage: 3s
+[08/10/2024 18:35]  a dusk drake: (bonded)
+[08/10/2024 18:35]  a dusk drake: a dusk drake
+[08/10/2024 18:35]  Razor: Bandage: 2s
+[08/10/2024 18:35]  : dirt
+[08/10/2024 18:35]  Razor: Bandage: 1s
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.1.  It is now 17.7.
+[08/10/2024 18:35]  System: Your skill in Archery has increased by 0.1.  It is now 50.3.
+[08/10/2024 18:35]  a wounded harpy: -55
+[08/10/2024 18:35]  System: You finish applying the bandages.
+[08/10/2024 18:35]  Eldevil: +20
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.4.  It is now 17.3.
+[08/10/2024 18:35]  System: Your skill in Healing has increased by 0.4.  It is now 50.5.
+[08/10/2024 18:35]  System: Who will you use the bandages on?
+[08/10/2024 18:35]  System: You begin applying the bandages.
+[08/10/2024 18:35]  Razor: Bandage: Starting
+[08/10/2024 18:35]  Razor: Bandage: 10s
+[08/10/2024 18:35]  System: You must wait to perform another action.
+[08/10/2024 18:35]  Razor: Bandage: 9s
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.1.  It is now 17.2.
+[08/10/2024 18:35]  System: Your skill in Archery has increased by 0.1.  It is now 50.4.
+[08/10/2024 18:35]  Eldevil: You can't seem to hide right now.
+[08/10/2024 18:35]  Razor: Bandage: 8s
+[08/10/2024 18:35]  Razor: Bandage: 7s
+[08/10/2024 18:35]  a wounded harpy: -47
+[08/10/2024 18:35]  Eldevil: -17
+[08/10/2024 18:35]  System: Your fingers slip!
+[08/10/2024 18:35]  Razor: Bandage: 6s
+[08/10/2024 18:35]  Razor: Bandage: 5s
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.1.  It is now 17.1.
+[08/10/2024 18:35]  System: Your skill in Archery has increased by 0.1.  It is now 50.5.
+[08/10/2024 18:35]  System: You have gained a little fame.
+[08/10/2024 18:35]  System: You have gained a little karma.
+[08/10/2024 18:35]  System: -22
+[08/10/2024 18:35]  You see: a wounded harpy corpse
+[08/10/2024 18:35]  a giant rat: a giant rat
+[08/10/2024 18:35]  a giant bat: a giant bat
+[08/10/2024 18:35]  Razor: Bandage: 4s
+[08/10/2024 18:35]  Razor: Bandage: 3s
+[08/10/2024 18:35]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:35]  Moonshaddow: Moonshaddow
+[08/10/2024 18:35]  a bull: (tame)
+[08/10/2024 18:35]  a bull: a bull
+[08/10/2024 18:35]  a great hart: (tame)
+[08/10/2024 18:35]  a great hart: a great hart
+[08/10/2024 18:35]  a great hart: (tame)
+[08/10/2024 18:35]  a great hart: a great hart
+[08/10/2024 18:35]  Razor: Bandage: 2s
+[08/10/2024 18:35]  Moist Molly: [Hambro's Bro, -_-]
+[08/10/2024 18:35]  Moist Molly: Moist Molly
+[08/10/2024 18:35]  Razor: Bandage: 1s
+[08/10/2024 18:35]  System: You finish applying the bandages.
+[08/10/2024 18:35]  Eldevil: +21
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.4.  It is now 16.7.
+[08/10/2024 18:35]  System: Your skill in Healing has increased by 0.4.  It is now 50.9.
+[08/10/2024 18:35]  System: Who will you use the bandages on?
+[08/10/2024 18:35]  System: You begin applying the bandages.
+[08/10/2024 18:35]  Razor: Bandage: Starting
+[08/10/2024 18:35]  Razor: Bandage: 10s
+[08/10/2024 18:35]  System: You must wait to perform another action.
+[08/10/2024 18:35]  Razor: Bandage: 9s
+[08/10/2024 18:35]  Razor: Bandage: 8s
+[08/10/2024 18:35]  Razor: Bandage: 7s
+[08/10/2024 18:35]  Razor: Bandage: 6s
+[08/10/2024 18:35]  Razor: Bandage: 5s
+[08/10/2024 18:35]  Razor: Bandage: 4s
+[08/10/2024 18:35]  Razor: Bandage: 3s
+[08/10/2024 18:35]  Razor: Bandage: 2s
+[08/10/2024 18:35]  Razor: Bandage: 1s
+[08/10/2024 18:35]  System: You finish applying the bandages.
+[08/10/2024 18:35]  Eldevil: +3
+[08/10/2024 18:35]  System: Your skill in Begging has decreased by 0.4.  It is now 16.3.
+[08/10/2024 18:35]  System: Your skill in Healing has increased by 0.4.  It is now 51.3.
+[08/10/2024 18:35]  a giant rat: a giant rat
+[08/10/2024 18:35]  System: Wonkastar has completed the achievement: Mariner (Advanced).
+[08/10/2024 18:35]  You see: a giant rat corpse
+[08/10/2024 18:35]  a giant rat: a giant rat
+[08/10/2024 18:35]  a giant bat: a giant bat
+[08/10/2024 18:35]  a llama: (tame)
+[08/10/2024 18:35]  a llama: a llama
+[08/10/2024 18:35]  a llama: (tame)
+[08/10/2024 18:35]  a llama: a llama
+[08/10/2024 18:35]  a robust cambrian steed: (tame)
+[08/10/2024 18:35]  a robust cambrian steed: a robust cambrian steed
+[08/10/2024 18:35]  a bull: *looks violently ill*
+[08/10/2024 18:35]  a giant bat: *weakened*
+[08/10/2024 18:35]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a giant rat corpse
+[08/10/2024 18:36]  a giant bat: a giant bat
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  a corpser: a corpser
+[08/10/2024 18:36]  a wounded harpy: a wounded harpy
+[08/10/2024 18:36]  : blood smear
+[08/10/2024 18:36]  : blood smear
+[08/10/2024 18:36]  Karbon Katt: Karbon Katt (Young)
+[08/10/2024 18:36]  Razor: Attack: a wounded harpy
+[08/10/2024 18:36]  a wounded harpy: -46
+[08/10/2024 18:36]  You see: a giant rat corpse
+[08/10/2024 18:36]  a corpser: a corpser
+[08/10/2024 18:36]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:36]  Moonshaddow: Moonshaddow
+[08/10/2024 18:36]  a bull: (tame)
+[08/10/2024 18:36]  a bull: a bull
+[08/10/2024 18:36]  a great hart: (tame)
+[08/10/2024 18:36]  a great hart: a great hart
+[08/10/2024 18:36]  a great hart: (tame)
+[08/10/2024 18:36]  a great hart: a great hart
+[08/10/2024 18:36]  You see: a giant rat corpse
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  a giant rat: a giant rat
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  a wounded harpy: -60
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  a dusk drake: (bonded)
+[08/10/2024 18:36]  a dusk drake: a dusk drake
+[08/10/2024 18:36]  a llama: (tame)
+[08/10/2024 18:36]  a llama: a llama
+[08/10/2024 18:36]  a llama: (tame)
+[08/10/2024 18:36]  a llama: a llama
+[08/10/2024 18:36]  a robust cambrian steed: (tame)
+[08/10/2024 18:36]  a robust cambrian steed: a robust cambrian steed
+[08/10/2024 18:36]  You see: a giant frog corpse
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a corpser corpse
+[08/10/2024 18:36]  You see: a corpser corpse
+[08/10/2024 18:36]  a colossal frog: a colossal frog
+[08/10/2024 18:36]  an undead pirate: Pirate
+[08/10/2024 18:36]  an undead pirate: [Bon Voyage, Co.]
+[08/10/2024 18:36]  an undead pirate: Lord an undead pirate
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  a wounded harpy: a wounded harpy
+[08/10/2024 18:36]  You see: a wounded harpy corpse
+[08/10/2024 18:36]  System: Your shot hinders your target!
+[08/10/2024 18:36]  a wounded harpy: -70
+[08/10/2024 18:36]  Eldevil: -5
+[08/10/2024 18:36]  System: Who will you use the bandages on?
+[08/10/2024 18:36]  System: You begin applying the bandages.
+[08/10/2024 18:36]  Razor: Bandage: Starting
+[08/10/2024 18:36]  Razor: Bandage: 10s
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  Razor: Bandage: 9s
+[08/10/2024 18:36]  Razor: Bandage: 8s
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a wounded harpy corpse
+[08/10/2024 18:36]  a wounded harpy: a wounded harpy
+[08/10/2024 18:36]  Eldevil: -5
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  Razor: Bandage: 7s
+[08/10/2024 18:36]  a giant bat: *shield bashed*
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 16.2.
+[08/10/2024 18:36]  System: Your skill in Archery has increased by 0.1.  It is now 50.6.
+[08/10/2024 18:36]  a wounded harpy: -80
+[08/10/2024 18:36]  Razor: Bandage: 6s
+[08/10/2024 18:36]  Razor: Bandage: 5s
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 16.1.
+[08/10/2024 18:36]  System: Your skill in Focus has increased by 0.1.  It is now 71.4.
+[08/10/2024 18:36]  a wounded harpy: -59
+[08/10/2024 18:36]  Razor: Bandage: 4s
+[08/10/2024 18:36]  Eldevil: -5
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  Razor: Bandage: 3s
+[08/10/2024 18:36]  Razor: Bandage: 2s
+[08/10/2024 18:36]  Razor: Bandage: 1s
+[08/10/2024 18:36]  System: You finish applying the bandages.
+[08/10/2024 18:36]  Eldevil: +13
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.4.  It is now 15.7.
+[08/10/2024 18:36]  System: Your skill in Healing has increased by 0.4.  It is now 51.7.
+[08/10/2024 18:36]  a giant bat: a giant bat
+[08/10/2024 18:36]  a giant bat: *shield bashed*
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 15.6.
+[08/10/2024 18:36]  System: Your skill in Tactics has increased by 0.1.  It is now 70.2.
+[08/10/2024 18:36]  System: Your shot hinders your target!
+[08/10/2024 18:36]  a wounded harpy: -71
+[08/10/2024 18:36]  Eldevil: -6
+[08/10/2024 18:36]  System: Who will you use the bandages on?
+[08/10/2024 18:36]  System: You begin applying the bandages.
+[08/10/2024 18:36]  Razor: Bandage: Starting
+[08/10/2024 18:36]  Razor: Bandage: 10s
+[08/10/2024 18:36]  System: You must wait to perform another action.
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  Razor: Bandage: 9s
+[08/10/2024 18:36]  You see: a wounded harpy corpse
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a wounded harpy corpse
+[08/10/2024 18:36]  Razor: Bandage: 8s
+[08/10/2024 18:36]  a giant bat: *taunted*
+[08/10/2024 18:36]  System: You have gained a little fame.
+[08/10/2024 18:36]  System: You have gained a little karma.
+[08/10/2024 18:36]  System: -14
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a wounded harpy corpse
+[08/10/2024 18:36]  Razor: Bandage: 7s
+[08/10/2024 18:36]  Eldevil: -6
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  Razor: Bandage: 6s
+[08/10/2024 18:36]  Karbon Katt: Karbon Katt (Young)
+[08/10/2024 18:36]  Razor: Bandage: 5s
+[08/10/2024 18:36]  Razor: Bandage: 4s
+[08/10/2024 18:36]  Eldevil: -2
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  Razor: Bandage: 3s
+[08/10/2024 18:36]  Razor: Bandage: 2s
+[08/10/2024 18:36]  Razor: Attack: a giant bat
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 15.5.
+[08/10/2024 18:36]  System: Your skill in Archery has increased by 0.1.  It is now 50.7.
+[08/10/2024 18:36]  Razor: Bandage: 1s
+[08/10/2024 18:36]  Eldevil: -2
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  Eldevil: -5
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  System: You finish applying the bandages.
+[08/10/2024 18:36]  Eldevil: +19
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.4.  It is now 15.1.
+[08/10/2024 18:36]  System: Your skill in Healing has increased by 0.4.  It is now 52.1.
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 15.0.
+[08/10/2024 18:36]  System: Your skill in Archery has increased by 0.1.  It is now 50.8.
+[08/10/2024 18:36]  Eldevil: -2
+[08/10/2024 18:36]  System: Who will you use the bandages on?
+[08/10/2024 18:36]  System: You begin applying the bandages.
+[08/10/2024 18:36]  Razor: Bandage: Starting
+[08/10/2024 18:36]  Razor: Bandage: 10s
+[08/10/2024 18:36]  System: You must wait to perform another action.
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 14.9.
+[08/10/2024 18:36]  System: Your skill in Archery has increased by 0.1.  It is now 50.9.
+[08/10/2024 18:36]  a giant bat: -71
+[08/10/2024 18:36]  Eldevil: -7
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:36]  Razor: Bandage: 9s
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 14.8.
+[08/10/2024 18:36]  System: Your skill in Archery has increased by 0.1.  It is now 51.0.
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 14.7.
+[08/10/2024 18:36]  System: Your skill in Tactics has increased by 0.1.  It is now 70.3.
+[08/10/2024 18:36]  a giant bat: -30
+[08/10/2024 18:36]  Razor: Bandage: 8s
+[08/10/2024 18:36]  Eldevil: -2
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  Razor: Bandage: 7s
+[08/10/2024 18:36]  Eldevil: -2
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 14.6.
+[08/10/2024 18:36]  System: Your skill in Archery has increased by 0.1.  It is now 51.1.
+[08/10/2024 18:36]  a giant bat: -72
+[08/10/2024 18:36]  Razor: Bandage: 6s
+[08/10/2024 18:36]  Razor: Bandage: 5s
+[08/10/2024 18:36]  Eldevil: -2
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 14.5.
+[08/10/2024 18:36]  System: Your skill in Archery has increased by 0.1.  It is now 51.2.
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.1.  It is now 14.4.
+[08/10/2024 18:36]  System: Your skill in Focus has increased by 0.1.  It is now 71.5.
+[08/10/2024 18:36]  System: You have gained a little fame.
+[08/10/2024 18:36]  System: You have gained a little karma.
+[08/10/2024 18:36]  System: -27
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  Razor: Bandage: 4s
+[08/10/2024 18:36]  Eldevil: -2
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  Razor: Bandage: 3s
+[08/10/2024 18:36]  Razor: Bandage: 2s
+[08/10/2024 18:36]  a giant bat: a giant bat
+[08/10/2024 18:36]  You see: a giant bat corpse
+[08/10/2024 18:36]  You see: a wounded harpy corpse
+[08/10/2024 18:36]  Razor: Bandage: 1s
+[08/10/2024 18:36]  Eldevil: -2
+[08/10/2024 18:36]  System: Your fingers slip!
+[08/10/2024 18:36]  System: You finish applying the bandages.
+[08/10/2024 18:36]  Eldevil: +17
+[08/10/2024 18:36]  System: Your skill in Begging has decreased by 0.4.  It is now 14.0.
+[08/10/2024 18:36]  System: Your skill in Healing has increased by 0.4.  It is now 52.5.
+[08/10/2024 18:36]  Eldevil: -2
+[08/10/2024 18:36]  System: Who will you use the bandages on?
+[08/10/2024 18:36]  System: You begin applying the bandages.
+[08/10/2024 18:36]  Razor: Bandage: Starting
+[08/10/2024 18:36]  Razor: Bandage: 10s
+[08/10/2024 18:36]  System: You must wait to perform another action.
+[08/10/2024 18:36]  Razor: Bandage: 9s
+[08/10/2024 18:37]  Razor: Bandage: 8s
+[08/10/2024 18:37]  Eldevil: -2
+[08/10/2024 18:37]  System: Your fingers slip!
+[08/10/2024 18:37]  System: You are no longer bleeding.
+[08/10/2024 18:37]  Razor: Bandage: 7s
+[08/10/2024 18:37]  Razor: Bandage: 6s
+[08/10/2024 18:37]  Razor: Bandage: 5s
+[08/10/2024 18:37]  Razor: Bandage: 4s
+[08/10/2024 18:37]  a wounded harpy: a wounded harpy
+[08/10/2024 18:37]  Razor: Bandage: 3s
+[08/10/2024 18:37]  Razor: Bandage: 2s
+[08/10/2024 18:37]  Razor: Bandage: 1s
+[08/10/2024 18:37]  System: You finish applying the bandages.
+[08/10/2024 18:37]  Eldevil: +2
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.4.  It is now 13.6.
+[08/10/2024 18:37]  System: Your skill in Healing has increased by 0.4.  It is now 52.9.
+[08/10/2024 18:37]  a giant bat: a giant bat
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  a giant bat: a giant bat
+[08/10/2024 18:37]  a wounded harpy: a wounded harpy
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  Razor: Attack: a wounded harpy
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 13.5.
+[08/10/2024 18:37]  System: Your skill in Archery has increased by 0.1.  It is now 51.3.
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 13.4.
+[08/10/2024 18:37]  System: Your skill in Tactics has increased by 0.1.  It is now 70.4.
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a wounded harpy corpse
+[08/10/2024 18:37]  a guar: a guar
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  a wounded harpy: a wounded harpy
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 13.3.
+[08/10/2024 18:37]  System: Your skill in Archery has increased by 0.1.  It is now 51.4.
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 13.2.
+[08/10/2024 18:37]  System: Your skill in Tactics has increased by 0.1.  It is now 70.5.
+[08/10/2024 18:37]  a wounded harpy: -42
+[08/10/2024 18:37]  Karbon Katt: Karbon Katt (Young)
+[08/10/2024 18:37]  a feeble ratman: a feeble ratman
+[08/10/2024 18:37]  a feeble ratman: a feeble ratman
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 13.1.
+[08/10/2024 18:37]  System: Your skill in Archery has increased by 0.1.  It is now 51.5.
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 13.0.
+[08/10/2024 18:37]  System: Your skill in Tactics has increased by 0.1.  It is now 70.6.
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 12.9.
+[08/10/2024 18:37]  System: Your skill in Focus has increased by 0.1.  It is now 71.6.
+[08/10/2024 18:37]  You see: a corpser corpse
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 12.8.
+[08/10/2024 18:37]  System: Your skill in Archery has increased by 0.1.  It is now 51.6.
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 12.7.
+[08/10/2024 18:37]  System: Your skill in Tactics has increased by 0.1.  It is now 70.7.
+[08/10/2024 18:37]  a wounded harpy: -78
+[08/10/2024 18:37]  a giant rat: a giant rat
+[08/10/2024 18:37]  You see: a giant rat corpse
+[08/10/2024 18:37]  a corpser: a corpser
+[08/10/2024 18:37]  a bull: (tame)
+[08/10/2024 18:37]  a bull: a bull
+[08/10/2024 18:37]  a great hart: (tame)
+[08/10/2024 18:37]  a great hart: a great hart
+[08/10/2024 18:37]  a great hart: (tame)
+[08/10/2024 18:37]  a great hart: a great hart
+[08/10/2024 18:37]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:37]  Moonshaddow: Moonshaddow
+[08/10/2024 18:37]  You see: a giant rat corpse
+[08/10/2024 18:37]  You see: a giant rat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant rat corpse
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 12.6.
+[08/10/2024 18:37]  System: Your skill in Tactics has increased by 0.1.  It is now 70.8.
+[08/10/2024 18:37]  Eldevil: -11
+[08/10/2024 18:37]  System: Who will you use the bandages on?
+[08/10/2024 18:37]  System: You begin applying the bandages.
+[08/10/2024 18:37]  Razor: Bandage: Starting
+[08/10/2024 18:37]  Razor: Bandage: 10s
+[08/10/2024 18:37]  You see: a wounded harpy corpse
+[08/10/2024 18:37]  System: You must wait to perform another action.
+[08/10/2024 18:37]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:37]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:37]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:37]  You see: a wounded harpy corpse
+[08/10/2024 18:37]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:37]  a wounded harpy: a wounded harpy
+[08/10/2024 18:37]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:37]  Razor: Bandage: 9s
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 12.5.
+[08/10/2024 18:37]  System: Your skill in Archery has increased by 0.1.  It is now 51.7.
+[08/10/2024 18:37]  System: Your shot hinders your target!
+[08/10/2024 18:37]  a wounded harpy: -71
+[08/10/2024 18:37]  Razor: Bandage: 8s
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  Razor: Bandage: 7s
+[08/10/2024 18:37]  Razor: Bandage: 6s
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 12.4.
+[08/10/2024 18:37]  System: Your skill in Archery has increased by 0.1.  It is now 51.8.
+[08/10/2024 18:37]  a wounded harpy: -74
+[08/10/2024 18:37]  Razor: Bandage: 5s
+[08/10/2024 18:37]  Eldevil: You can't seem to hide right now.
+[08/10/2024 18:37]  System: Sisya has completed the achievement: Tradesman Union Associate.
+[08/10/2024 18:37]  a wounded harpy: -41
+[08/10/2024 18:37]  Razor: Bandage: 4s
+[08/10/2024 18:37]  Razor: Bandage: 3s
+[08/10/2024 18:37]  a wounded harpy: -68
+[08/10/2024 18:37]  Razor: Bandage: 2s
+[08/10/2024 18:37]  Razor: Bandage: 1s
+[08/10/2024 18:37]  You see: a giant rat corpse
+[08/10/2024 18:37]  You see: a giant rat corpse
+[08/10/2024 18:37]  a corpser: a corpser
+[08/10/2024 18:37]  a bull: (tame)
+[08/10/2024 18:37]  a bull: a bull
+[08/10/2024 18:37]  a great hart: (tame)
+[08/10/2024 18:37]  a great hart: a great hart
+[08/10/2024 18:37]  a great hart: (tame)
+[08/10/2024 18:37]  a great hart: a great hart
+[08/10/2024 18:37]  System: You finish applying the bandages.
+[08/10/2024 18:37]  Eldevil: +9
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.4.  It is now 12.0.
+[08/10/2024 18:37]  System: Your skill in Healing has increased by 0.4.  It is now 53.3.
+[08/10/2024 18:37]  a feeble ratman: a feeble ratman
+[08/10/2024 18:37]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:37]  Moonshaddow: Moonshaddow
+[08/10/2024 18:37]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[08/10/2024 18:37]  System: You have gained a little fame.
+[08/10/2024 18:37]  System: You have gained a little karma.
+[08/10/2024 18:37]  System: -26
+[08/10/2024 18:37]  You see: a wounded harpy corpse
+[08/10/2024 18:37]  You see: a giant rat corpse
+[08/10/2024 18:37]  You see: a giant rat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  a giant rat: a giant rat
+[08/10/2024 18:37]  : cave floor
+[08/10/2024 18:37]  Eldevil: -20
+[08/10/2024 18:37]  System: Who will you use the bandages on?
+[08/10/2024 18:37]  System: You begin applying the bandages.
+[08/10/2024 18:37]  a wounded harpy: a wounded harpy
+[08/10/2024 18:37]  Razor: Bandage: Starting
+[08/10/2024 18:37]  Razor: Bandage: 10s
+[08/10/2024 18:37]  System: You must wait to perform another action.
+[08/10/2024 18:37]  Razor: Attack: a wounded harpy
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 11.9.
+[08/10/2024 18:37]  System: Your skill in Archery has increased by 0.1.  It is now 51.9.
+[08/10/2024 18:37]  Razor: Bandage: 9s
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  Razor: Bandage: 8s
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 11.8.
+[08/10/2024 18:37]  System: Your skill in Archery has increased by 0.1.  It is now 52.0.
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 11.7.
+[08/10/2024 18:37]  System: Your skill in Focus has increased by 0.1.  It is now 71.7.
+[08/10/2024 18:37]  a wounded harpy: -51
+[08/10/2024 18:37]  Razor: Bandage: 7s
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant frog corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  You see: a giant bat corpse
+[08/10/2024 18:37]  Donor bro: Donor bro (Young)
+[08/10/2024 18:37]  a colossal frog: a colossal frog
+[08/10/2024 18:37]  a giant frog: a giant frog
+[08/10/2024 18:37]  a dusk drake: (bonded)
+[08/10/2024 18:37]  a dusk drake: a dusk drake
+[08/10/2024 18:37]  Razor: Bandage: 6s
+[08/10/2024 18:37]  a giant bat: a giant bat
+[08/10/2024 18:37]  Razor: Bandage: 5s
+[08/10/2024 18:37]  System: Your skill in Begging has decreased by 0.1.  It is now 11.6.
+[08/10/2024 18:37]  System: Your skill in Focus has increased by 0.1.  It is now 71.8.
+[08/10/2024 18:37]  Razor: Bandage: 4s
+[08/10/2024 18:37]  Razor: Bandage: 3s
+[08/10/2024 18:37]  Eldevil: -16
+[08/10/2024 18:37]  System: Your fingers slip!
+[08/10/2024 18:37]  a wounded harpy: -38
+[08/10/2024 18:37]  Razor: Bandage: 2s
+[08/10/2024 18:38]  Razor: Bandage: 1s
+[08/10/2024 18:38]  System: You finish applying the bandages.
+[08/10/2024 18:38]  Eldevil: +28
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.4.  It is now 11.2.
+[08/10/2024 18:38]  System: Your skill in Healing has increased by 0.4.  It is now 53.7.
+[08/10/2024 18:38]  System: Who will you use the bandages on?
+[08/10/2024 18:38]  System: You begin applying the bandages.
+[08/10/2024 18:38]  Razor: Bandage: Starting
+[08/10/2024 18:38]  Razor: Bandage: 10s
+[08/10/2024 18:38]  System: You must wait to perform another action.
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 11.1.
+[08/10/2024 18:38]  System: Your skill in Archery has increased by 0.1.  It is now 52.1.
+[08/10/2024 18:38]  a wounded harpy: -57
+[08/10/2024 18:38]  Razor: Bandage: 9s
+[08/10/2024 18:38]  Razor: Bandage: 8s
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 11.0.
+[08/10/2024 18:38]  System: Your skill in Focus has increased by 0.1.  It is now 71.9.
+[08/10/2024 18:38]  Razor: Bandage: 7s
+[08/10/2024 18:38]  Razor: Bandage: 6s
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 10.9.
+[08/10/2024 18:38]  System: Your skill in Focus has increased by 0.1.  It is now 72.0.
+[08/10/2024 18:38]  a wounded harpy: -83
+[08/10/2024 18:38]  Razor: Bandage: 5s
+[08/10/2024 18:38]  You see: a giant rat corpse
+[08/10/2024 18:38]  Razor: Bandage: 4s
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 10.8.
+[08/10/2024 18:38]  System: Your skill in Focus has increased by 0.1.  It is now 72.1.
+[08/10/2024 18:38]  Eldevil: -10
+[08/10/2024 18:38]  System: Your fingers slip!
+[08/10/2024 18:38]  Razor: Bandage: 3s
+[08/10/2024 18:38]  Razor: Bandage: 2s
+[08/10/2024 18:38]  Razor: Bandage: 1s
+[08/10/2024 18:38]  System: You finish applying the bandages.
+[08/10/2024 18:38]  Eldevil: +13
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.4.  It is now 10.4.
+[08/10/2024 18:38]  System: Your skill in Healing has increased by 0.4.  It is now 54.1.
+[08/10/2024 18:38]  Eldevil: -19
+[08/10/2024 18:38]  System: Who will you use the bandages on?
+[08/10/2024 18:38]  System: You begin applying the bandages.
+[08/10/2024 18:38]  Razor: Bandage: Starting
+[08/10/2024 18:38]  Razor: Bandage: 10s
+[08/10/2024 18:38]  System: You must wait to perform another action.
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 10.3.
+[08/10/2024 18:38]  System: Your skill in Archery has increased by 0.1.  It is now 52.2.
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 10.2.
+[08/10/2024 18:38]  System: Your skill in Tactics has increased by 0.1.  It is now 70.9.
+[08/10/2024 18:38]  a wounded harpy: -71
+[08/10/2024 18:38]  a giant bat: a giant bat
+[08/10/2024 18:38]  Razor: Bandage: 9s
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 10.1.
+[08/10/2024 18:38]  System: Your skill in Archery has increased by 0.1.  It is now 52.3.
+[08/10/2024 18:38]  a llama: (tame)
+[08/10/2024 18:38]  a llama: a llama
+[08/10/2024 18:38]  a llama: (tame)
+[08/10/2024 18:38]  a llama: a llama
+[08/10/2024 18:38]  a robust cambrian steed: (tame)
+[08/10/2024 18:38]  a robust cambrian steed: a robust cambrian steed
+[08/10/2024 18:38]  Razor: Bandage: 8s
+[08/10/2024 18:38]  Eldevil: -12
+[08/10/2024 18:38]  System: Your fingers slip!
+[08/10/2024 18:38]  Razor: Bandage: 7s
+[08/10/2024 18:38]  a giant bat: *weakened*
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 10.0.
+[08/10/2024 18:38]  System: Your skill in Archery has increased by 0.1.  It is now 52.4.
+[08/10/2024 18:38]  a wounded harpy: -52
+[08/10/2024 18:38]  Razor: Bandage: 6s
+[08/10/2024 18:38]  Razor: Bandage: 5s
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 9.9.
+[08/10/2024 18:38]  System: Your skill in Archery has increased by 0.1.  It is now 52.5.
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 9.8.
+[08/10/2024 18:38]  System: Your skill in Tactics has increased by 0.1.  It is now 71.0.
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.1.  It is now 9.7.
+[08/10/2024 18:38]  System: Your skill in Focus has increased by 0.1.  It is now 72.2.
+[08/10/2024 18:38]  System: You have gained a little fame.
+[08/10/2024 18:38]  System: You have gained a little karma.
+[08/10/2024 18:38]  System: -48
+[08/10/2024 18:38]  You see: a wounded harpy corpse
+[08/10/2024 18:38]  Razor: Bandage: 4s
+[08/10/2024 18:38]  You see: a giant bat corpse
+[08/10/2024 18:38]  Razor: Bandage: 3s
+[08/10/2024 18:38]  Razor: Bandage: 2s
+[08/10/2024 18:38]  Razor: Bandage: 1s
+[08/10/2024 18:38]  System: You finish applying the bandages.
+[08/10/2024 18:38]  Eldevil: +27
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.4.  It is now 9.3.
+[08/10/2024 18:38]  System: Your skill in Healing has increased by 0.4.  It is now 54.5.
+[08/10/2024 18:38]  System: Who will you use the bandages on?
+[08/10/2024 18:38]  System: You begin applying the bandages.
+[08/10/2024 18:38]  Razor: Bandage: Starting
+[08/10/2024 18:38]  Razor: Bandage: 10s
+[08/10/2024 18:38]  a giant bat: a giant bat
+[08/10/2024 18:38]  Razor: Bandage: 9s
+[08/10/2024 18:38]  Razor: Bandage: 8s
+[08/10/2024 18:38]  Razor: Bandage: 7s
+[08/10/2024 18:38]  Razor: Bandage: 6s
+[08/10/2024 18:38]  Razor: Bandage: 5s
+[08/10/2024 18:38]  Razor: Bandage: 4s
+[08/10/2024 18:38]  Razor: Bandage: 3s
+[08/10/2024 18:38]  Razor: Bandage: 2s
+[08/10/2024 18:38]  Razor: Bandage: 1s
+[08/10/2024 18:38]  System: You heal what little damage you had.
+[08/10/2024 18:38]  System: Your skill in Begging has decreased by 0.4.  It is now 8.9.
+[08/10/2024 18:38]  System: Your skill in Healing has increased by 0.4.  It is now 54.9.
+[08/10/2024 18:38]  System: Sando Alkyscrib has completed the achievement: Tailor (Basic).
+[08/10/2024 18:39]  System: The world will save in 15 seconds.
+[08/10/2024 18:39]  You see: a giant bat corpse
+[08/10/2024 18:39]  System: The world is saving, please wait.
+[08/10/2024 18:39]  System: World save complete. The entire process took 2.4 seconds.
+[08/10/2024 18:39]  Alice Manu: Alice Manu (Young)
+[08/10/2024 18:39]  Alice Manu: Alice Manu (Young)
+[08/10/2024 18:39]  a giant bat: a giant bat
+[08/10/2024 18:39]  You see: a giant bat corpse
+[08/10/2024 18:39]  a bull: (tame)
+[08/10/2024 18:39]  a bull: a bull
+[08/10/2024 18:39]  a great hart: (tame)
+[08/10/2024 18:39]  a great hart: a great hart
+[08/10/2024 18:39]  a great hart: (tame)
+[08/10/2024 18:39]  a great hart: a great hart
+[08/10/2024 18:39]  a headless: a headless
+[08/10/2024 18:39]  You see: a giant bat corpse
+[08/10/2024 18:39]  a corpser: a corpser
+[08/10/2024 18:39]  You see: a feeble ratman's corpse
+[08/10/2024 18:39]  You see: a corpser corpse
+[08/10/2024 18:39]  a wounded harpy: a wounded harpy
+[08/10/2024 18:39]  Razor: Attack: a wounded harpy
+[08/10/2024 18:39]  a wounded harpy: -73
+[08/10/2024 18:39]  a wounded harpy: -64
+[08/10/2024 18:39]  Eldevil: -8
+[08/10/2024 18:39]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:39]  System: Who will you use the bandages on?
+[08/10/2024 18:39]  System: You begin applying the bandages.
+[08/10/2024 18:39]  Razor: Bandage: Starting
+[08/10/2024 18:39]  Razor: Bandage: 10s
+[08/10/2024 18:39]  You see: a corpser corpse
+[08/10/2024 18:39]  You see: a giant rat corpse
+[08/10/2024 18:39]  You see: a giant rat corpse
+[08/10/2024 18:39]  a corpser: a corpser
+[08/10/2024 18:39]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:39]  Moonshaddow: Moonshaddow
+[08/10/2024 18:39]  Razor: Bandage: 9s
+[08/10/2024 18:39]  You see: a giant rat corpse
+[08/10/2024 18:39]  You see: a giant rat corpse
+[08/10/2024 18:39]  You see: a giant rat corpse
+[08/10/2024 18:39]  You see: a giant bat corpse
+[08/10/2024 18:39]  You see: a giant bat corpse
+[08/10/2024 18:39]  a headless: a headless
+[08/10/2024 18:39]  a bull: (tame)
+[08/10/2024 18:39]  a bull: a bull
+[08/10/2024 18:39]  a great hart: (tame)
+[08/10/2024 18:39]  a great hart: a great hart
+[08/10/2024 18:39]  a great hart: (tame)
+[08/10/2024 18:39]  a great hart: a great hart
+[08/10/2024 18:39]  You see: a giant bat corpse
+[08/10/2024 18:39]  Razor: Bandage: 8s
+[08/10/2024 18:39]  Eldevil: -2
+[08/10/2024 18:39]  System: Your fingers slip!
+[08/10/2024 18:39]  Eldevil: -7
+[08/10/2024 18:39]  System: Your fingers slip!
+[08/10/2024 18:39]  Razor: Bandage: 7s
+[08/10/2024 18:39]  You see: a headless corpse
+[08/10/2024 18:39]  Razor: Bandage: 6s
+[08/10/2024 18:39]  Razor: Bandage: 5s
+[08/10/2024 18:39]  Eldevil: -2
+[08/10/2024 18:39]  System: Your fingers slip!
+[08/10/2024 18:39]  a wounded harpy: -73
+[08/10/2024 18:39]  Razor: Bandage: 4s
+[08/10/2024 18:39]  a giant bat: a giant bat
+[08/10/2024 18:39]  Razor: Bandage: 3s
+[08/10/2024 18:39]  System: Your skill in Begging has decreased by 0.1.  It is now 8.8.
+[08/10/2024 18:39]  System: Your skill in Focus has increased by 0.1.  It is now 72.3.
+[08/10/2024 18:39]  a wounded harpy: -58
+[08/10/2024 18:39]  Eldevil: -8
+[08/10/2024 18:39]  System: Your fingers slip!
+[08/10/2024 18:39]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:39]  Razor: Bandage: 2s
+[08/10/2024 18:39]  Eldevil: -2
+[08/10/2024 18:39]  System: Your fingers slip!
+[08/10/2024 18:40]  Razor: Bandage: 1s
+[08/10/2024 18:40]  System: Your skill in Begging has decreased by 0.1.  It is now 8.7.
+[08/10/2024 18:40]  System: Your skill in Focus has increased by 0.1.  It is now 72.4.
+[08/10/2024 18:40]  System: Your shot hinders your target!
+[08/10/2024 18:40]  a wounded harpy: -102
+[08/10/2024 18:40]  System: You finish applying the bandages.
+[08/10/2024 18:40]  Eldevil: +24
+[08/10/2024 18:40]  System: Your skill in Begging has decreased by 0.4.  It is now 8.3.
+[08/10/2024 18:40]  System: Your skill in Healing has increased by 0.4.  It is now 55.3.
+[08/10/2024 18:40]  System: Who will you use the bandages on?
+[08/10/2024 18:40]  System: You begin applying the bandages.
+[08/10/2024 18:40]  Razor: Bandage: Starting
+[08/10/2024 18:40]  Razor: Bandage: 10s
+[08/10/2024 18:40]  System: You must wait to perform another action.
+[08/10/2024 18:40]  Razor: Bandage: 9s
+[08/10/2024 18:40]  Eldevil: -2
+[08/10/2024 18:40]  System: Your fingers slip!
+[08/10/2024 18:40]  Eldevil: -2
+[08/10/2024 18:40]  System: Your fingers slip!
+[08/10/2024 18:40]  System: Your skill in Begging has decreased by 0.1.  It is now 8.2.
+[08/10/2024 18:40]  System: Your skill in Archery has increased by 0.1.  It is now 52.6.
+[08/10/2024 18:40]  System: You have gained a little fame.
+[08/10/2024 18:40]  System: You have gained a little karma.
+[08/10/2024 18:40]  System: -30
+[08/10/2024 18:40]  Eldevil: -5
+[08/10/2024 18:40]  System: Your fingers slip!
+[08/10/2024 18:40]  You see: a wounded harpy corpse
+[08/10/2024 18:40]  Razor: Bandage: 8s
+[08/10/2024 18:40]  Razor: Bandage: 7s
+[08/10/2024 18:40]  Razor: Attack: a giant bat
+[08/10/2024 18:40]  System: Your skill in Begging has decreased by 0.1.  It is now 8.1.
+[08/10/2024 18:40]  System: Your skill in Archery has increased by 0.1.  It is now 52.7.
+[08/10/2024 18:40]  a giant bat: -64
+[08/10/2024 18:40]  Razor: Bandage: 6s
+[08/10/2024 18:40]  Eldevil: -2
+[08/10/2024 18:40]  System: Your fingers slip!
+[08/10/2024 18:40]  Eldevil: -2
+[08/10/2024 18:40]  System: Your fingers slip!
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  You see: a wounded harpy corpse
+[08/10/2024 18:40]  You see: a wounded harpy corpse
+[08/10/2024 18:40]  a giant bat: a giant bat
+[08/10/2024 18:40]  Razor: Bandage: 5s
+[08/10/2024 18:40]  System: Your skill in Begging has decreased by 0.1.  It is now 8.0.
+[08/10/2024 18:40]  System: Your skill in Archery has increased by 0.1.  It is now 52.8.
+[08/10/2024 18:40]  a giant bat: -41
+[08/10/2024 18:40]  Razor: Bandage: 4s
+[08/10/2024 18:40]  Razor: Bandage: 3s
+[08/10/2024 18:40]  Eldevil: -2
+[08/10/2024 18:40]  System: Your fingers slip!
+[08/10/2024 18:40]  System: Your skill in Begging has decreased by 0.1.  It is now 7.9.
+[08/10/2024 18:40]  System: Your skill in Archery has increased by 0.1.  It is now 52.9.
+[08/10/2024 18:40]  Razor: Bandage: 2s
+[08/10/2024 18:40]  Razor: Bandage: 1s
+[08/10/2024 18:40]  a giant bat: -73
+[08/10/2024 18:40]  System: You finish applying the bandages.
+[08/10/2024 18:40]  Eldevil: +15
+[08/10/2024 18:40]  System: Your skill in Begging has decreased by 0.3.  It is now 7.6.
+[08/10/2024 18:40]  System: Your skill in Healing has increased by 0.3.  It is now 55.6.
+[08/10/2024 18:40]  Eldevil: -2
+[08/10/2024 18:40]  System: Who will you use the bandages on?
+[08/10/2024 18:40]  System: You begin applying the bandages.
+[08/10/2024 18:40]  Razor: Bandage: Starting
+[08/10/2024 18:40]  Razor: Bandage: 10s
+[08/10/2024 18:40]  System: You must wait to perform another action.
+[08/10/2024 18:40]  System: You have gained a little fame.
+[08/10/2024 18:40]  System: You have gained a little karma.
+[08/10/2024 18:40]  System: -22
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  Razor: Bandage: 9s
+[08/10/2024 18:40]  Eldevil: -2
+[08/10/2024 18:40]  System: Your fingers slip!
+[08/10/2024 18:40]  System: You are no longer bleeding.
+[08/10/2024 18:40]  Razor: Bandage: 8s
+[08/10/2024 18:40]  Razor: Bandage: 7s
+[08/10/2024 18:40]  Razor: Bandage: 6s
+[08/10/2024 18:40]  Razor: Bandage: 5s
+[08/10/2024 18:40]  Razor: Bandage: 4s
+[08/10/2024 18:40]  Razor: Bandage: 3s
+[08/10/2024 18:40]  Razor: Bandage: 2s
+[08/10/2024 18:40]  Razor: Bandage: 1s
+[08/10/2024 18:40]  System: You finish applying the bandages.
+[08/10/2024 18:40]  Eldevil: +2
+[08/10/2024 18:40]  System: Your skill in Begging has decreased by 0.3.  It is now 7.3.
+[08/10/2024 18:40]  System: Your skill in Healing has increased by 0.3.  It is now 55.9.
+[08/10/2024 18:40]  You see: a feeble ratman's corpse
+[08/10/2024 18:40]  You see: a wounded harpy corpse
+[08/10/2024 18:40]  You see: a wounded harpy corpse
+[08/10/2024 18:40]  You see: a wounded harpy corpse
+[08/10/2024 18:40]  You see: a corpser corpse
+[08/10/2024 18:40]  You see: a giant rat corpse
+[08/10/2024 18:40]  You see: a giant rat corpse
+[08/10/2024 18:40]  a corpser: a corpser
+[08/10/2024 18:40]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:40]  Moonshaddow: Moonshaddow
+[08/10/2024 18:40]  You see: a giant rat corpse
+[08/10/2024 18:40]  You see: a giant rat corpse
+[08/10/2024 18:40]  You see: a giant rat corpse
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  a giant rat: a giant rat
+[08/10/2024 18:40]  a bull: (tame)
+[08/10/2024 18:40]  a bull: a bull
+[08/10/2024 18:40]  a great hart: (tame)
+[08/10/2024 18:40]  a great hart: a great hart
+[08/10/2024 18:40]  a great hart: (tame)
+[08/10/2024 18:40]  a great hart: a great hart
+[08/10/2024 18:40]  a giant rat: a giant rat
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  a dusk drake: (bonded)
+[08/10/2024 18:40]  a dusk drake: a dusk drake
+[08/10/2024 18:40]  a llama: (tame)
+[08/10/2024 18:40]  a llama: a llama
+[08/10/2024 18:40]  a llama: (tame)
+[08/10/2024 18:40]  a llama: a llama
+[08/10/2024 18:40]  a robust cambrian steed: (tame)
+[08/10/2024 18:40]  a robust cambrian steed: a robust cambrian steed
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  a giant bat: a giant bat
+[08/10/2024 18:40]  You see: a headless corpse
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  a corpser: a corpser
+[08/10/2024 18:40]  You see: a feeble ratman's corpse
+[08/10/2024 18:40]  You see: a corpser corpse
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  You see: a wounded harpy corpse
+[08/10/2024 18:40]  Karbon Katt: Karbon Katt (Young)
+[08/10/2024 18:40]  a giant bat: a giant bat
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  System: You may not loot this corpse.
+[08/10/2024 18:40]  a giant bat: a giant bat
+[08/10/2024 18:40]  System: You may not loot this corpse.
+[08/10/2024 18:40]  System: You may not loot this corpse.
+[08/10/2024 18:40]  System: You may not loot this corpse.
+[08/10/2024 18:40]  a giant bat: a giant bat
+[08/10/2024 18:40]  You see: a giant bat corpse
+[08/10/2024 18:40]  a wounded harpy: a wounded harpy
+[08/10/2024 18:40]  a guar: a guar
+[08/10/2024 18:41]  Eldevil: -10
+[08/10/2024 18:41]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:41]  System: Who will you use the bandages on?
+[08/10/2024 18:41]  System: You begin applying the bandages.
+[08/10/2024 18:41]  Razor: Bandage: Starting
+[08/10/2024 18:41]  Razor: Bandage: 10s
+[08/10/2024 18:41]  System: You must wait to perform another action.
+[08/10/2024 18:41]  System: You must wait to perform another action.
+[08/10/2024 18:41]  Razor: Bandage: 9s
+[08/10/2024 18:41]  Razor: Bandage: 8s
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  Eldevil: Eldevil
+[08/10/2024 18:41]  Razor: Bandage: 7s
+[08/10/2024 18:41]  Razor: Bandage: 6s
+[08/10/2024 18:41]  Razor: Bandage: 5s
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  Razor: Bandage: 4s
+[08/10/2024 18:41]  Razor: Bandage: 3s
+[08/10/2024 18:41]  Razor: Attack: a giant bat
+[08/10/2024 18:41]  a giant bat: a giant bat
+[08/10/2024 18:41]  Razor: Bandage: 2s
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  Razor: Bandage: 1s
+[08/10/2024 18:41]  System: You finish applying the bandages.
+[08/10/2024 18:41]  Eldevil: +14
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.3.  It is now 7.0.
+[08/10/2024 18:41]  System: Your skill in Healing has increased by 0.3.  It is now 56.2.
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: Who will you use the bandages on?
+[08/10/2024 18:41]  System: You begin applying the bandages.
+[08/10/2024 18:41]  Razor: Bandage: Starting
+[08/10/2024 18:41]  Razor: Bandage: 10s
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 6.9.
+[08/10/2024 18:41]  System: Your skill in Archery has increased by 0.1.  It is now 53.0.
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 6.8.
+[08/10/2024 18:41]  System: Your skill in Tactics has increased by 0.1.  It is now 71.1.
+[08/10/2024 18:41]  System: You must wait to perform another action.
+[08/10/2024 18:41]  Eldevil: -9
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  Razor: Bandage: 9s
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 6.7.
+[08/10/2024 18:41]  System: Your skill in Tactics has increased by 0.1.  It is now 71.2.
+[08/10/2024 18:41]  a giant bat: -74
+[08/10/2024 18:41]  Razor: Bandage: 8s
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  System: You are no longer bleeding.
+[08/10/2024 18:41]  Razor: Bandage: 7s
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 6.6.
+[08/10/2024 18:41]  System: Your skill in Archery has increased by 0.1.  It is now 53.1.
+[08/10/2024 18:41]  a giant bat: -88
+[08/10/2024 18:41]  Eldevil: -8
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  Razor: Bandage: 6s
+[08/10/2024 18:41]  Razor: Bandage: 5s
+[08/10/2024 18:41]  Razor: Bandage: 4s
+[08/10/2024 18:41]  Razor: Bandage: 3s
+[08/10/2024 18:41]  Eldevil: -9
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:41]  System: Your shot hinders your target!
+[08/10/2024 18:41]  System: You have gained a little fame.
+[08/10/2024 18:41]  System: You have gained a little karma.
+[08/10/2024 18:41]  System: -38
+[08/10/2024 18:41]  You see: a giant bat corpse
+[08/10/2024 18:41]  Razor: Bandage: 2s
+[08/10/2024 18:41]  Razor: Bandage: 1s
+[08/10/2024 18:41]  System: You finish applying the bandages.
+[08/10/2024 18:41]  Eldevil: +21
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.3.  It is now 6.3.
+[08/10/2024 18:41]  System: Your skill in Healing has increased by 0.3.  It is now 56.5.
+[08/10/2024 18:41]  System: Who will you use the bandages on?
+[08/10/2024 18:41]  System: You begin applying the bandages.
+[08/10/2024 18:41]  Razor: Bandage: Starting
+[08/10/2024 18:41]  Razor: Bandage: 10s
+[08/10/2024 18:41]  System: You must wait to perform another action.
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  Razor: Bandage: 9s
+[08/10/2024 18:41]  Razor: Bandage: 8s
+[08/10/2024 18:41]  Razor: Bandage: 7s
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  Razor: Bandage: 6s
+[08/10/2024 18:41]  Razor: Bandage: 5s
+[08/10/2024 18:41]  Razor: Bandage: 4s
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  System: You may not loot this corpse.
+[08/10/2024 18:41]  Razor: Bandage: 3s
+[08/10/2024 18:41]  Razor: Bandage: 2s
+[08/10/2024 18:41]  Razor: Bandage: 1s
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  System: You finish applying the bandages.
+[08/10/2024 18:41]  Eldevil: +12
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.3.  It is now 6.0.
+[08/10/2024 18:41]  System: Your skill in Healing has increased by 0.3.  It is now 56.8.
+[08/10/2024 18:41]  System: You may not loot this corpse.
+[08/10/2024 18:41]  System: You may not loot this corpse.
+[08/10/2024 18:41]  System: You may not loot this corpse.
+[08/10/2024 18:41]  a wounded harpy: a wounded harpy
+[08/10/2024 18:41]  System: You may not loot this corpse.
+[08/10/2024 18:41]  System: You may not loot this corpse.
+[08/10/2024 18:41]  Eldevil: -2
+[08/10/2024 18:41]  System: You are no longer bleeding.
+[08/10/2024 18:41]  Razor: Attack: a wounded harpy
+[08/10/2024 18:41]  System: Who will you use the bandages on?
+[08/10/2024 18:41]  System: You begin applying the bandages.
+[08/10/2024 18:41]  Razor: Bandage: Starting
+[08/10/2024 18:41]  Razor: Bandage: 10s
+[08/10/2024 18:41]  System: You must wait to perform another action.
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 5.9.
+[08/10/2024 18:41]  System: Your skill in Tactics has increased by 0.1.  It is now 71.3.
+[08/10/2024 18:41]  a wounded harpy: -77
+[08/10/2024 18:41]  Razor: Bandage: 9s
+[08/10/2024 18:41]  Razor: Bandage: 8s
+[08/10/2024 18:41]  Razor: Bandage: 7s
+[08/10/2024 18:41]  a wounded harpy: -81
+[08/10/2024 18:41]  Razor: Bandage: 6s
+[08/10/2024 18:41]  Razor: Bandage: 5s
+[08/10/2024 18:41]  a wounded harpy: -69
+[08/10/2024 18:41]  Razor: Bandage: 4s
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 5.8.
+[08/10/2024 18:41]  System: Your skill in Archery has increased by 0.1.  It is now 53.2.
+[08/10/2024 18:41]  Razor: Bandage: 3s
+[08/10/2024 18:41]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:41]  Eldevil: -17
+[08/10/2024 18:41]  System: Your fingers slip!
+[08/10/2024 18:41]  Razor: Bandage: 2s
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 5.7.
+[08/10/2024 18:41]  System: Your skill in Archery has increased by 0.1.  It is now 53.3.
+[08/10/2024 18:41]  a wounded harpy: -58
+[08/10/2024 18:41]  Razor: Bandage: 1s
+[08/10/2024 18:41]  System: You finish applying the bandages.
+[08/10/2024 18:41]  Eldevil: +17
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.3.  It is now 5.4.
+[08/10/2024 18:41]  System: Your skill in Healing has increased by 0.3.  It is now 57.1.
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 5.3.
+[08/10/2024 18:41]  System: Your skill in Tactics has increased by 0.1.  It is now 71.4.
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 5.2.
+[08/10/2024 18:41]  System: Your skill in Focus has increased by 0.1.  It is now 72.5.
+[08/10/2024 18:41]  a wounded harpy: -52
+[08/10/2024 18:41]  a wounded harpy: -42
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 5.1.
+[08/10/2024 18:41]  System: Your skill in Tactics has increased by 0.1.  It is now 71.5.
+[08/10/2024 18:41]  System: Your shot hinders your target!
+[08/10/2024 18:41]  System: You have gained a little fame.
+[08/10/2024 18:41]  System: You have gained a little karma.
+[08/10/2024 18:41]  System: -21
+[08/10/2024 18:41]  You see: a wounded harpy corpse
+[08/10/2024 18:41]  System: Your skill in Begging has decreased by 0.1.  It is now 5.0.
+[08/10/2024 18:41]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 50.5.
+[08/10/2024 18:41]  System: You carve materials from the corpse.
+[08/10/2024 18:41]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:41]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:42]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  System: That corpse has already been carved.
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  a guar: a guar
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  System: That is too far away.
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  Razor: Attack: a wounded harpy
+[08/10/2024 18:42]  a wounded harpy: -56
+[08/10/2024 18:42]  Manghul: Manghul
+[08/10/2024 18:42]  System: Your skill in Begging has decreased by 0.1.  It is now 4.9.
+[08/10/2024 18:42]  System: Your skill in Archery has increased by 0.1.  It is now 53.4.
+[08/10/2024 18:42]  System: Your shot hinders your target!
+[08/10/2024 18:42]  a wounded harpy: -73
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  System: Your skill in Begging has decreased by 0.1.  It is now 4.8.
+[08/10/2024 18:42]  System: Your skill in Archery has increased by 0.1.  It is now 53.5.
+[08/10/2024 18:42]  a wounded harpy: -54
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  You see: a feeble ratman's corpse
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  System: You have gained a little fame.
+[08/10/2024 18:42]  System: You have gained a little karma.
+[08/10/2024 18:42]  System: -47
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  a giant bat: a giant bat
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  a guar: a guar
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:42]  System: Your skill in Begging has decreased by 0.1.  It is now 4.7.
+[08/10/2024 18:42]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 50.6.
+[08/10/2024 18:42]  System: You carve materials from the corpse.
+[08/10/2024 18:42]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  You see: a feeble ratman's corpse
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  System: You may not loot this corpse.
+[08/10/2024 18:42]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:42]  a giant bat: a giant bat
+[08/10/2024 18:42]  Razor: Target: Eldevil
+[08/10/2024 18:42]  System: Your skill in Begging has decreased by 0.1.  It is now 4.6.
+[08/10/2024 18:42]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 50.7.
+[08/10/2024 18:42]  System: You carve materials from the corpse.
+[08/10/2024 18:42]  System: Your skill in Begging has decreased by 0.1.  It is now 4.5.
+[08/10/2024 18:42]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 50.8.
+[08/10/2024 18:42]  System: You carve materials from the corpse.
+[08/10/2024 18:42]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:42]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:42]  Eldevil: -15
+[08/10/2024 18:42]  System: Who will you use the bandages on?
+[08/10/2024 18:42]  System: You begin applying the bandages.
+[08/10/2024 18:42]  Razor: Bandage: Starting
+[08/10/2024 18:42]  Razor: Bandage: 10s
+[08/10/2024 18:42]  System: You must wait to perform another action.
+[08/10/2024 18:42]  Razor: Bandage: 9s
+[08/10/2024 18:42]  Razor: Attack: a wounded harpy
+[08/10/2024 18:42]  Eldevil: -9
+[08/10/2024 18:42]  System: Your fingers slip!
+[08/10/2024 18:42]  System: Your skill in Begging has decreased by 0.1.  It is now 4.4.
+[08/10/2024 18:42]  System: Your skill in Archery has increased by 0.1.  It is now 53.6.
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  Razor: Bandage: 8s
+[08/10/2024 18:42]  Razor: Bandage: 7s
+[08/10/2024 18:42]  a wounded harpy: -58
+[08/10/2024 18:42]  Razor: Bandage: 6s
+[08/10/2024 18:42]  Eldevil: -8
+[08/10/2024 18:42]  System: Your fingers slip!
+[08/10/2024 18:42]  Razor: Bandage: 5s
+[08/10/2024 18:42]  System: Your skill in Begging has decreased by 0.1.  It is now 4.3.
+[08/10/2024 18:42]  System: Your skill in Archery has increased by 0.1.  It is now 53.7.
+[08/10/2024 18:42]  a wounded harpy: -70
+[08/10/2024 18:42]  Eldevil: -12
+[08/10/2024 18:42]  System: Your fingers slip!
+[08/10/2024 18:42]  Razor: Bandage: 4s
+[08/10/2024 18:42]  Razor: Bandage: 3s
+[08/10/2024 18:42]  System: Your skill in Begging has decreased by 0.1.  It is now 4.2.
+[08/10/2024 18:42]  System: Your skill in Focus has increased by 0.1.  It is now 72.6.
+[08/10/2024 18:42]  a wounded harpy: -82
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  Eldevil: -8
+[08/10/2024 18:42]  System: Your fingers slip!
+[08/10/2024 18:42]  Razor: Bandage: 2s
+[08/10/2024 18:42]  a giant bat: a giant bat
+[08/10/2024 18:42]  Razor: Bandage: 1s
+[08/10/2024 18:42]  System: You finish applying the bandages.
+[08/10/2024 18:42]  Eldevil: +26
+[08/10/2024 18:42]  System: Your skill in Begging has decreased by 0.3.  It is now 3.9.
+[08/10/2024 18:42]  System: Your skill in Healing has increased by 0.3.  It is now 57.4.
+[08/10/2024 18:42]  System: Who will you use the bandages on?
+[08/10/2024 18:42]  System: You begin applying the bandages.
+[08/10/2024 18:42]  Razor: Bandage: Starting
+[08/10/2024 18:42]  Razor: Bandage: 10s
+[08/10/2024 18:42]  System: You must wait to perform another action.
+[08/10/2024 18:42]  Razor: Bandage: 9s
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:42]  a wounded harpy: a wounded harpy
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  Razor: Bandage: 8s
+[08/10/2024 18:42]  You see: a giant bat corpse
+[08/10/2024 18:42]  You see: a feeble ratman's corpse
+[08/10/2024 18:42]  a giant bat: a giant bat
+[08/10/2024 18:42]  You see: a wounded harpy corpse
+[08/10/2024 18:43]  Razor: Bandage: 7s
+[08/10/2024 18:43]  Eldevil: -13
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  You see: a wounded harpy corpse
+[08/10/2024 18:43]  Razor: Bandage: 6s
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 3.8.
+[08/10/2024 18:43]  System: Your skill in Archery has increased by 0.1.  It is now 53.8.
+[08/10/2024 18:43]  a wounded harpy: -59
+[08/10/2024 18:43]  Razor: Bandage: 5s
+[08/10/2024 18:43]  You see: a wounded harpy corpse
+[08/10/2024 18:43]  Razor: Bandage: 4s
+[08/10/2024 18:43]  a wounded harpy: -50
+[08/10/2024 18:43]  Razor: Bandage: 3s
+[08/10/2024 18:43]  Eldevil: -20
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  Eldevil: -6
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:43]  Razor: Bandage: 2s
+[08/10/2024 18:43]  You see: a giant bat corpse
+[08/10/2024 18:43]  Razor: Bandage: 1s
+[08/10/2024 18:43]  System: You finish applying the bandages.
+[08/10/2024 18:43]  Eldevil: +28
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.3.  It is now 3.5.
+[08/10/2024 18:43]  System: Your skill in Healing has increased by 0.3.  It is now 57.7.
+[08/10/2024 18:43]  System: Who will you use the bandages on?
+[08/10/2024 18:43]  System: You begin applying the bandages.
+[08/10/2024 18:43]  Razor: Bandage: Starting
+[08/10/2024 18:43]  Razor: Bandage: 10s
+[08/10/2024 18:43]  System: You must wait to perform another action.
+[08/10/2024 18:43]  a wounded harpy: -63
+[08/10/2024 18:43]  Razor: Bandage: 9s
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  Eldevil: -5
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:43]  Razor: Bandage: 8s
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 3.4.
+[08/10/2024 18:43]  System: Your skill in Tactics has increased by 0.1.  It is now 71.6.
+[08/10/2024 18:43]  System: You have gained a little fame.
+[08/10/2024 18:43]  System: You have gained a little karma.
+[08/10/2024 18:43]  System: -18
+[08/10/2024 18:43]  You see: a wounded harpy corpse
+[08/10/2024 18:43]  Razor: Bandage: 7s
+[08/10/2024 18:43]  Razor: Bandage: 6s
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  Eldevil: -9
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  Razor: Bandage: 5s
+[08/10/2024 18:43]  Razor: Attack: a giant bat
+[08/10/2024 18:43]  a giant bat: -54
+[08/10/2024 18:43]  Razor: Attack: a giant bat
+[08/10/2024 18:43]  Razor: Bandage: 4s
+[08/10/2024 18:43]  Razor: Bandage: 3s
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 3.3.
+[08/10/2024 18:43]  System: Your skill in Tactics has increased by 0.1.  It is now 71.7.
+[08/10/2024 18:43]  a giant bat: -58
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  You see: a wounded harpy corpse
+[08/10/2024 18:43]  Razor: Bandage: 2s
+[08/10/2024 18:43]  Razor: Bandage: 1s
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 3.2.
+[08/10/2024 18:43]  System: Your skill in Archery has increased by 0.1.  It is now 53.9.
+[08/10/2024 18:43]  a giant bat: -57
+[08/10/2024 18:43]  System: You finish applying the bandages.
+[08/10/2024 18:43]  Eldevil: +25
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.3.  It is now 2.9.
+[08/10/2024 18:43]  System: Your skill in Healing has increased by 0.3.  It is now 58.0.
+[08/10/2024 18:43]  System: Who will you use the bandages on?
+[08/10/2024 18:43]  System: You begin applying the bandages.
+[08/10/2024 18:43]  Razor: Bandage: Starting
+[08/10/2024 18:43]  Razor: Bandage: 10s
+[08/10/2024 18:43]  System: You must wait to perform another action.
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  Razor: Bandage: 9s
+[08/10/2024 18:43]  Eldevil: -6
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 2.8.
+[08/10/2024 18:43]  System: Your skill in Archery has increased by 0.1.  It is now 54.0.
+[08/10/2024 18:43]  Razor: Bandage: 8s
+[08/10/2024 18:43]  Razor: Bandage: 7s
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  System: creepiest uncle has completed the achievement: Tailor (Basic).
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  System: You have gained a little fame.
+[08/10/2024 18:43]  System: You have gained a little karma.
+[08/10/2024 18:43]  System: -31
+[08/10/2024 18:43]  You see: a giant bat corpse
+[08/10/2024 18:43]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:43]  Razor: Bandage: 6s
+[08/10/2024 18:43]  System: You carve materials from the corpse.
+[08/10/2024 18:43]  Razor: Bandage: 5s
+[08/10/2024 18:43]  Razor: Bandage: 4s
+[08/10/2024 18:43]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:43]  Eldevil: -2
+[08/10/2024 18:43]  System: Your fingers slip!
+[08/10/2024 18:43]  System: You are no longer bleeding.
+[08/10/2024 18:43]  Razor: Bandage: 3s
+[08/10/2024 18:43]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:43]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:43]  Razor: Bandage: 1s
+[08/10/2024 18:43]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:43]  System: You finish applying the bandages.
+[08/10/2024 18:43]  Eldevil: +20
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.3.  It is now 2.5.
+[08/10/2024 18:43]  System: Your skill in Healing has increased by 0.3.  It is now 58.3.
+[08/10/2024 18:43]  System: Who will you use the bandages on?
+[08/10/2024 18:43]  System: You begin applying the bandages.
+[08/10/2024 18:43]  You see: a giant bat corpse
+[08/10/2024 18:43]  System: You must wait to perform another action.
+[08/10/2024 18:43]  Razor: Bandage: Starting
+[08/10/2024 18:43]  Razor: Bandage: 10s
+[08/10/2024 18:43]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 2.4.
+[08/10/2024 18:43]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 50.9.
+[08/10/2024 18:43]  System: You carve materials from the corpse.
+[08/10/2024 18:43]  You see: a feeble ratman's corpse
+[08/10/2024 18:43]  Razor: Bandage: 9s
+[08/10/2024 18:43]  Razor: Bandage: 8s
+[08/10/2024 18:43]  Razor: Bandage: 7s
+[08/10/2024 18:43]  Razor: Bandage: 6s
+[08/10/2024 18:43]  Razor: Bandage: 5s
+[08/10/2024 18:43]  Razor: Bandage: 4s
+[08/10/2024 18:43]  You see: skinning knife
+[08/10/2024 18:43]  You see: (498 uses remaining)
+[08/10/2024 18:43]  Razor: Bandage: 3s
+[08/10/2024 18:43]  Razor: Bandage: 2s
+[08/10/2024 18:43]  Razor: Bandage: 1s
+[08/10/2024 18:43]  System: You finish applying the bandages.
+[08/10/2024 18:43]  Eldevil: +20
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.3.  It is now 2.1.
+[08/10/2024 18:43]  System: Your skill in Healing has increased by 0.3.  It is now 58.6.
+[08/10/2024 18:43]  Razor: Attack: a wounded harpy
+[08/10/2024 18:43]  a giant rat: a giant rat
+[08/10/2024 18:43]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:43]  Moonshaddow: Moonshaddow
+[08/10/2024 18:43]  You see: a giant rat corpse
+[08/10/2024 18:43]  Khian: Khian (Young)
+[08/10/2024 18:43]  You see: a giant rat corpse
+[08/10/2024 18:43]  You see: a giant rat corpse
+[08/10/2024 18:43]  You see: a giant rat corpse
+[08/10/2024 18:43]  You see: a giant bat corpse
+[08/10/2024 18:43]  a great hart: (tame)
+[08/10/2024 18:43]  a great hart: a great hart
+[08/10/2024 18:43]  a great hart: (tame)
+[08/10/2024 18:43]  a great hart: a great hart
+[08/10/2024 18:43]  a giant frog: (tame)
+[08/10/2024 18:43]  a giant frog: a giant frog
+[08/10/2024 18:43]  Eldevil: -18
+[08/10/2024 18:43]  System: Who will you use the bandages on?
+[08/10/2024 18:43]  System: You begin applying the bandages.
+[08/10/2024 18:43]  Razor: Bandage: Starting
+[08/10/2024 18:43]  Razor: Bandage: 10s
+[08/10/2024 18:43]  System: You must wait to perform another action.
+[08/10/2024 18:43]  Razor: Attack: a wounded harpy
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 2.0.
+[08/10/2024 18:43]  System: Your skill in Archery has increased by 0.1.  It is now 54.1.
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 1.9.
+[08/10/2024 18:43]  System: Your skill in Focus has increased by 0.1.  It is now 72.7.
+[08/10/2024 18:43]  a wounded harpy: -51
+[08/10/2024 18:43]  Razor: Bandage: 9s
+[08/10/2024 18:43]  Razor: Bandage: 8s
+[08/10/2024 18:43]  a wounded harpy: -50
+[08/10/2024 18:43]  Razor: Bandage: 7s
+[08/10/2024 18:43]  Razor: Bandage: 6s
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 1.8.
+[08/10/2024 18:43]  System: Your skill in Archery has increased by 0.1.  It is now 54.2.
+[08/10/2024 18:43]  a wounded harpy: -39
+[08/10/2024 18:43]  Razor: Bandage: 5s
+[08/10/2024 18:43]  Razor: Bandage: 4s
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 1.7.
+[08/10/2024 18:43]  System: Your skill in Archery has increased by 0.1.  It is now 54.3.
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 1.6.
+[08/10/2024 18:43]  System: Your skill in Tactics has increased by 0.1.  It is now 71.8.
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.1.  It is now 1.5.
+[08/10/2024 18:43]  System: Your skill in Focus has increased by 0.1.  It is now 72.8.
+[08/10/2024 18:43]  a wounded harpy: -37
+[08/10/2024 18:43]  Razor: Bandage: 3s
+[08/10/2024 18:43]  Khian: Khian (Young)
+[08/10/2024 18:43]  Razor: Bandage: 2s
+[08/10/2024 18:43]  a wounded harpy: -58
+[08/10/2024 18:43]  Razor: Bandage: 1s
+[08/10/2024 18:43]  System: You finish applying the bandages.
+[08/10/2024 18:43]  Eldevil: +16
+[08/10/2024 18:43]  System: Your skill in Begging has decreased by 0.3.  It is now 1.2.
+[08/10/2024 18:43]  System: Your skill in Healing has increased by 0.3.  It is now 58.9.
+[08/10/2024 18:43]  a wounded harpy: -52
+[08/10/2024 18:44]  Eldevil: -16
+[08/10/2024 18:44]  System: Who will you use the bandages on?
+[08/10/2024 18:44]  System: You begin applying the bandages.
+[08/10/2024 18:44]  Razor: Bandage: Starting
+[08/10/2024 18:44]  Razor: Bandage: 10s
+[08/10/2024 18:44]  System: You must wait to perform another action.
+[08/10/2024 18:44]  Razor: Bandage: 9s
+[08/10/2024 18:44]  System: Your skill in Begging has decreased by 0.1.  It is now 1.1.
+[08/10/2024 18:44]  System: Your skill in Archery has increased by 0.1.  It is now 54.4.
+[08/10/2024 18:44]  System: Your skill in Begging has decreased by 0.1.  It is now 1.0.
+[08/10/2024 18:44]  System: Your skill in Focus has increased by 0.1.  It is now 72.9.
+[08/10/2024 18:44]  a wounded harpy: -66
+[08/10/2024 18:44]  Razor: Bandage: 8s
+[08/10/2024 18:44]  Razor: Bandage: 7s
+[08/10/2024 18:44]  Razor: Bandage: 6s
+[08/10/2024 18:44]  Razor: Bandage: 5s
+[08/10/2024 18:44]  System: Your skill in Begging has decreased by 0.1.  It is now 0.9.
+[08/10/2024 18:44]  System: Your skill in Archery has increased by 0.1.  It is now 54.5.
+[08/10/2024 18:44]  System: You have gained a little fame.
+[08/10/2024 18:44]  System: You have gained a little karma.
+[08/10/2024 18:44]  System: -47
+[08/10/2024 18:44]  You see: a wounded harpy corpse
+[08/10/2024 18:44]  Razor: Bandage: 4s
+[08/10/2024 18:44]  Razor: Bandage: 3s
+[08/10/2024 18:44]  Razor: Bandage: 2s
+[08/10/2024 18:44]  Razor: Bandage: 1s
+[08/10/2024 18:44]  System: You finish applying the bandages.
+[08/10/2024 18:44]  Eldevil: +14
+[08/10/2024 18:44]  System: Your skill in Begging has decreased by 0.3.  It is now 0.6.
+[08/10/2024 18:44]  System: Your skill in Healing has increased by 0.3.  It is now 59.2.
+[08/10/2024 18:44]  : bones
+[08/10/2024 18:44]  You see: a wounded harpy corpse
+[08/10/2024 18:44]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:44]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:44]  Moonshaddow: Moonshaddow
+[08/10/2024 18:44]  Razor: Target: Eldevil
+[08/10/2024 18:44]  System: Your skill in Begging has decreased by 0.1.  It is now 0.5.
+[08/10/2024 18:44]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 51.0.
+[08/10/2024 18:44]  System: You carve materials from the corpse.
+[08/10/2024 18:44]  System: SaveMe has completed the achievement: Black Marketeer (Basic).
+[08/10/2024 18:44]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:44]  Moonshaddow: Moonshaddow
+[08/10/2024 18:44]  : dirt
+[08/10/2024 18:44]  You see: gold coin : 319
+[08/10/2024 18:44]  You see: a giant bat corpse
+[08/10/2024 18:44]  You see: leather : 46
+[08/10/2024 18:44]  You see: feather : 408
+[08/10/2024 18:44]  You see: a giant bat corpse
+[08/10/2024 18:44]  a corpser: a corpser
+[08/10/2024 18:44]  You see: a corpser corpse
+[08/10/2024 18:44]  Khian: Khian (Young)
+[08/10/2024 18:44]  You see: a giant bat corpse
+[08/10/2024 18:44]  a feeble ratman: a feeble ratman
+[08/10/2024 18:44]  You see: a giant bat corpse
+[08/10/2024 18:44]  You see: a wounded harpy corpse
+[08/10/2024 18:44]  You see: a wounded harpy corpse
+[08/10/2024 18:44]  You see: a giant bat corpse
+[08/10/2024 18:44]  You see: a wounded harpy corpse
+[08/10/2024 18:44]  a giant bat: a giant bat
+[08/10/2024 18:44]  You see: a giant bat corpse
+[08/10/2024 18:44]  Razor: Attack: a giant bat
+[08/10/2024 18:44]  System: Your skill in Begging has decreased by 0.1.  It is now 0.4.
+[08/10/2024 18:44]  System: Your skill in Focus has increased by 0.1.  It is now 73.0.
+[08/10/2024 18:44]  a giant bat: -69
+[08/10/2024 18:44]  You see: a wounded harpy corpse
+[08/10/2024 18:44]  You see: a giant bat corpse
+[08/10/2024 18:44]  System: Your shot hinders your target!
+[08/10/2024 18:44]  a giant bat: -72
+[08/10/2024 18:44]  System: Your skill in Begging has decreased by 0.1.  It is now 0.3.
+[08/10/2024 18:44]  System: Your skill in Focus has increased by 0.1.  It is now 73.1.
+[08/10/2024 18:44]  a giant bat: -33
+[08/10/2024 18:44]  System: Your skill in Begging has decreased by 0.1.  It is now 0.2.
+[08/10/2024 18:44]  System: Your skill in Focus has increased by 0.1.  It is now 73.2.
+[08/10/2024 18:44]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[08/10/2024 18:44]  System: You have gained a little fame.
+[08/10/2024 18:44]  System: You have gained a little karma.
+[08/10/2024 18:44]  System: -26
+[08/10/2024 18:44]  You see: a giant bat corpse
+[08/10/2024 18:44]  a wounded harpy: a wounded harpy
+[08/10/2024 18:44]  a wounded harpy: a wounded harpy
+[08/10/2024 18:44]  a giant bat: a giant bat
+[08/10/2024 18:44]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:44]  System: Your skill in Begging has decreased by 0.1.  It is now 0.1.
+[08/10/2024 18:44]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 51.1.
+[08/10/2024 18:44]  System: You carve materials from the corpse.
+[08/10/2024 18:45]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:45]  Eldevil: -10
+[08/10/2024 18:45]  System: Who will you use the bandages on?
+[08/10/2024 18:45]  System: You begin applying the bandages.
+[08/10/2024 18:45]  Razor: Bandage: Starting
+[08/10/2024 18:45]  Razor: Bandage: 10s
+[08/10/2024 18:45]  System: You must wait to perform another action.
+[08/10/2024 18:45]  Razor: Attack: a giant bat
+[08/10/2024 18:45]  a giant bat: -33
+[08/10/2024 18:45]  Razor: Bandage: 9s
+[08/10/2024 18:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[08/10/2024 18:45]  Razor: Bandage: 8s
+[08/10/2024 18:45]  a giant bat: -56
+[08/10/2024 18:45]  Eldevil: -8
+[08/10/2024 18:45]  System: Your fingers slip!
+[08/10/2024 18:45]  Razor: Bandage: 7s
+[08/10/2024 18:45]  Razor: Bandage: 6s
+[08/10/2024 18:45]  Razor: Bandage: 5s
+[08/10/2024 18:45]  Razor: Bandage: 4s
+[08/10/2024 18:45]  a giant bat: -52
+[08/10/2024 18:45]  Razor: Bandage: 3s
+[08/10/2024 18:45]  Razor: Bandage: 2s
+[08/10/2024 18:45]  System: Your skill in Begging has decreased by 0.1.  It is now 0.0.
+[08/10/2024 18:45]  System: Your skill in Archery has increased by 0.1.  It is now 54.6.
+[08/10/2024 18:45]  a giant bat: -48
+[08/10/2024 18:45]  Razor: Bandage: 1s
+[08/10/2024 18:45]  System: You finish applying the bandages.
+[08/10/2024 18:45]  Eldevil: +16
+[08/10/2024 18:45]  System: You have gained a little fame.
+[08/10/2024 18:45]  System: You have gained a little karma.
+[08/10/2024 18:45]  System: -11
+[08/10/2024 18:45]  You see: a giant bat corpse
+[08/10/2024 18:45]  You see: a wounded harpy corpse
+[08/10/2024 18:45]  a wounded harpy: a wounded harpy
+[08/10/2024 18:45]  Alice Manu: Alice Manu (Young)
+[08/10/2024 18:46]  a giant bat: a giant bat
+[08/10/2024 18:46]  a wounded harpy: a wounded harpy
+[08/10/2024 18:46]  a wounded harpy: a wounded harpy
+[08/10/2024 18:46]  You see: a giant bat corpse
+[08/10/2024 18:46]  a wounded harpy: a wounded harpy
+[08/10/2024 18:46]  You see: a wounded harpy corpse
+[08/10/2024 18:46]  a wounded harpy: a wounded harpy
+[08/10/2024 18:46]  System: Slug Puppet has completed the achievement: Treasure Hunter (Advanced).
+[08/10/2024 18:46]  System: Bubble gut has completed the achievement: Backstabber (Advanced).
+[08/10/2024 18:46]  [Razor]: Target an item to add.
+[08/10/2024 18:46]  a guar: a guar
+[08/10/2024 18:47]  [Razor]: Item added.
+[08/10/2024 18:47]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/10/2024 18:47]  a giant bat: a giant bat
+[08/10/2024 18:47]  Razor: Attack: a giant bat
+[08/10/2024 18:47]  [Razor]: Finished 5 queued actions in 2.4 seconds.
+[08/10/2024 18:47]  a giant bat: -56
+[08/10/2024 18:47]  Eldevil: -6
+[08/10/2024 18:47]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:47]  System: Who will you use the bandages on?
+[08/10/2024 18:47]  System: You begin applying the bandages.
+[08/10/2024 18:47]  Razor: Bandage: Starting
+[08/10/2024 18:47]  Razor: Bandage: 10s
+[08/10/2024 18:47]  System: You must wait to perform another action.
+[08/10/2024 18:47]  a guar: a guar
+[08/10/2024 18:47]  Razor: Bandage: 9s
+[08/10/2024 18:47]  Razor: Bandage: 8s
+[08/10/2024 18:47]  Eldevil: -2
+[08/10/2024 18:47]  System: Your fingers slip!
+[08/10/2024 18:47]  Eldevil: -7
+[08/10/2024 18:47]  System: Your fingers slip!
+[08/10/2024 18:47]  Razor: Bandage: 7s
+[08/10/2024 18:47]  You see: a wounded harpy corpse
+[08/10/2024 18:47]  Razor: Bandage: 6s
+[08/10/2024 18:47]  a giant bat: -48
+[08/10/2024 18:47]  Eldevil: -13
+[08/10/2024 18:47]  System: Your fingers slip!
+[08/10/2024 18:47]  Razor: Bandage: 5s
+[08/10/2024 18:47]  Eldevil: -2
+[08/10/2024 18:47]  System: Your fingers slip!
+[08/10/2024 18:47]  Razor: Bandage: 4s
+[08/10/2024 18:47]  a giant bat: a giant bat
+[08/10/2024 18:47]  Razor: Bandage: 3s
+[08/10/2024 18:47]  Razor: Bandage: 2s
+[08/10/2024 18:47]  Eldevil: -9
+[08/10/2024 18:47]  System: Your fingers slip!
+[08/10/2024 18:47]  a giant bat: -55
+[08/10/2024 18:47]  Eldevil: -2
+[08/10/2024 18:47]  System: Your fingers slip!
+[08/10/2024 18:47]  Razor: Bandage: 1s
+[08/10/2024 18:47]  System: You finish applying the bandages.
+[08/10/2024 18:47]  Eldevil: +30
+[08/10/2024 18:47]  System: Who will you use the bandages on?
+[08/10/2024 18:47]  System: You begin applying the bandages.
+[08/10/2024 18:47]  Razor: Bandage: Starting
+[08/10/2024 18:47]  Razor: Bandage: 10s
+[08/10/2024 18:47]  System: You must wait to perform another action.
+[08/10/2024 18:47]  System: You have gained a little fame.
+[08/10/2024 18:47]  System: You have gained a little karma.
+[08/10/2024 18:47]  System: -41
+[08/10/2024 18:47]  You see: a giant bat corpse
+[08/10/2024 18:47]  Razor: Bandage: 9s
+[08/10/2024 18:47]  a giant bat: a giant bat
+[08/10/2024 18:47]  Eldevil: -2
+[08/10/2024 18:47]  System: Your fingers slip!
+[08/10/2024 18:47]  a wounded harpy: a wounded harpy
+[08/10/2024 18:47]  Razor: Bandage: 8s
+[08/10/2024 18:47]  Razor: Bandage: 7s
+[08/10/2024 18:47]  Razor: Bandage: 6s
+[08/10/2024 18:47]  Eldevil: -2
+[08/10/2024 18:47]  System: Your fingers slip!
+[08/10/2024 18:47]  System: You are no longer bleeding.
+[08/10/2024 18:47]  Razor: Bandage: 5s
+[08/10/2024 18:47]  Razor: Bandage: 4s
+[08/10/2024 18:47]  Razor: Bandage: 3s
+[08/10/2024 18:47]  Razor: Bandage: 2s
+[08/10/2024 18:47]  Razor: Attack: a wounded harpy
+[08/10/2024 18:47]  Razor: Bandage: 1s
+[08/10/2024 18:47]  System: You finish applying the bandages.
+[08/10/2024 18:47]  Eldevil: +10
+[08/10/2024 18:47]  Eldevil: Target: a wounded harpy
+[08/10/2024 18:47]  Razor: Attack: a wounded harpy
+[08/10/2024 18:47]  a wounded harpy: -65
+[08/10/2024 18:47]  System: Thomas Keller has completed the achievement: Enhanced (Advanced).
+[08/10/2024 18:47]  Eldevil: -11
+[08/10/2024 18:47]  System: Who will you use the bandages on?
+[08/10/2024 18:47]  System: You begin applying the bandages.
+[08/10/2024 18:47]  Razor: Bandage: Starting
+[08/10/2024 18:47]  Razor: Bandage: 10s
+[08/10/2024 18:47]  System: You must wait to perform another action.
+[08/10/2024 18:47]  Razor: Bandage: 9s
+[08/10/2024 18:47]  a wounded harpy: -46
+[08/10/2024 18:47]  Razor: Bandage: 8s
+[08/10/2024 18:47]  a wounded harpy: a wounded harpy
+[08/10/2024 18:47]  Razor: Bandage: 7s
+[08/10/2024 18:47]  Eldevil: -14
+[08/10/2024 18:47]  System: Your fingers slip!
+[08/10/2024 18:47]  Razor: Bandage: 6s
+[08/10/2024 18:47]  Razor: Bandage: 5s
+[08/10/2024 18:47]  a wounded harpy: -62
+[08/10/2024 18:47]  Razor: Bandage: 4s
+[08/10/2024 18:47]  Razor: Bandage: 3s
+[08/10/2024 18:47]  Razor: Bandage: 2s
+[08/10/2024 18:47]  Razor: Bandage: 1s
+[08/10/2024 18:47]  System: You finish applying the bandages.
+[08/10/2024 18:47]  Eldevil: +23
+[08/10/2024 18:47]  a wounded harpy: -48
+[08/10/2024 18:47]  You see: a wounded harpy corpse
+[08/10/2024 18:47]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:47]  Razor: Target: Eldevil
+[08/10/2024 18:47]  System: You carve materials from the corpse.
+[08/10/2024 18:47]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:47]  Eldevil: -18
+[08/10/2024 18:47]  System: Who will you use the bandages on?
+[08/10/2024 18:47]  System: You begin applying the bandages.
+[08/10/2024 18:47]  Razor: Bandage: Starting
+[08/10/2024 18:47]  Razor: Bandage: 10s
+[08/10/2024 18:47]  System: You must wait to perform another action.
+[08/10/2024 18:48]  System: Your shot hinders your target!
+[08/10/2024 18:48]  a wounded harpy: -105
+[08/10/2024 18:48]  Razor: Bandage: 9s
+[08/10/2024 18:48]  Razor: Bandage: 7s
+[08/10/2024 18:48]  System: Stealing is not allowed in that location currently.
+[08/10/2024 18:48]  Razor: Bandage: 6s
+[08/10/2024 18:48]  Razor: Bandage: 5s
+[08/10/2024 18:48]  a wounded harpy: -58
+[08/10/2024 18:48]  System: Stealing is not allowed in that location currently.
+[08/10/2024 18:48]  Razor: Bandage: 4s
+[08/10/2024 18:48]  System: You have gained a little fame.
+[08/10/2024 18:48]  System: You have gained a little karma.
+[08/10/2024 18:48]  System: -16
+[08/10/2024 18:48]  Razor: Bandage: 3s
+[08/10/2024 18:48]  You see: a wounded harpy corpse
+[08/10/2024 18:48]  Razor: Bandage: 2s
+[08/10/2024 18:48]  Razor: Bandage: 1s
+[08/10/2024 18:48]  System: You finish applying the bandages.
+[08/10/2024 18:48]  Eldevil: +16
+[08/10/2024 18:48]  System: Stealing is not allowed in that location currently.
+[08/10/2024 18:48]  System: Stealing is not allowed in that location currently.
+[08/10/2024 18:48]  System: You must hide first using the Hiding skill.
+[08/10/2024 18:48]  System: You are not poisoned.
+[08/10/2024 18:48]  a giant bat: a giant bat
+[08/10/2024 18:48]  a giant bat: a giant bat
+[08/10/2024 18:48]  Eldevil: -8
+[08/10/2024 18:48]  System: Who will you use the bandages on?
+[08/10/2024 18:48]  System: You begin applying the bandages.
+[08/10/2024 18:48]  Razor: Bandage: Starting
+[08/10/2024 18:48]  Razor: Bandage: 10s
+[08/10/2024 18:48]  System: You must wait to perform another action.
+[08/10/2024 18:48]  Razor: Bandage: 9s
+[08/10/2024 18:48]  Good Work: [Druid, BEAR]
+[08/10/2024 18:48]  Good Work: Good Work
+[08/10/2024 18:48]  Razor: Bandage: 8s
+[08/10/2024 18:48]  Razor: Bandage: 7s
+[08/10/2024 18:48]  Eldevil: Target: a giant bat
+[08/10/2024 18:48]  Razor: Attack: a giant bat
+[08/10/2024 18:48]  Razor: Bandage: 6s
+[08/10/2024 18:48]  a giant bat: -54
+[08/10/2024 18:48]  Razor: Bandage: 5s
+[08/10/2024 18:48]  Razor: Bandage: 4s
+[08/10/2024 18:48]  Razor: Bandage: 3s
+[08/10/2024 18:48]  Razor: Bandage: 2s
+[08/10/2024 18:48]  a giant bat: -53
+[08/10/2024 18:48]  Razor: Bandage: 1s
+[08/10/2024 18:48]  Eldevil: -9
+[08/10/2024 18:48]  System: Your fingers slip!
+[08/10/2024 18:49]  System: You finish applying the bandages.
+[08/10/2024 18:49]  Eldevil: +15
+[08/10/2024 18:49]  a giant bat: -73
+[08/10/2024 18:49]  System: You have gained a little fame.
+[08/10/2024 18:49]  System: You have gained a little karma.
+[08/10/2024 18:49]  System: -20
+[08/10/2024 18:49]  You see: a giant bat corpse
+[08/10/2024 18:49]  a wounded harpy: a wounded harpy
+[08/10/2024 18:49]  You see: a giant bat corpse
+[08/10/2024 18:49]  Manghul: Manghul
+[08/10/2024 18:49]  a wounded harpy: a wounded harpy
+[08/10/2024 18:49]  You see: a wounded harpy corpse
+[08/10/2024 18:49]  a feeble ratman: a feeble ratman
+[08/10/2024 18:49]  Good Work: [Druid, BEAR]
+[08/10/2024 18:49]  Good Work: Good Work
+[08/10/2024 18:49]  You see: a wounded harpy corpse
+[08/10/2024 18:49]  a feeble ratman: Ttycheuch rachccke ichyck.
+[08/10/2024 18:49]  a feeble ratman: Away with thee!
+[08/10/2024 18:49]  System: Globo Gym (G.G) guild has reached prestige level 1135.
+[08/10/2024 18:49]  a giant bat: a giant bat
+[08/10/2024 18:50]  Karbon Katt: Karbon Katt (Young)
+[08/10/2024 18:50]  a wounded harpy: a wounded harpy
+[08/10/2024 18:50]  a wounded harpy: -56
+[08/10/2024 18:50]  a wounded harpy: -45
+[08/10/2024 18:50]  a wounded harpy: -69
+[08/10/2024 18:50]  You see: a feeble ratman's corpse
+[08/10/2024 18:50]  a wounded harpy: -73
+[08/10/2024 18:50]  Eldevil: -17
+[08/10/2024 18:50]  System: Who will you use the bandages on?
+[08/10/2024 18:50]  System: You begin applying the bandages.
+[08/10/2024 18:50]  Razor: Bandage: Starting
+[08/10/2024 18:50]  Razor: Bandage: 10s
+[08/10/2024 18:50]  System: You must wait to perform another action.
+[08/10/2024 18:50]  a wounded harpy: -56
+[08/10/2024 18:50]  Razor: Bandage: 9s
+[08/10/2024 18:50]  You see: a giant bat corpse
+[08/10/2024 18:50]  Razor: Bandage: 8s
+[08/10/2024 18:50]  Eldevil: -11
+[08/10/2024 18:50]  System: Your fingers slip!
+[08/10/2024 18:50]  Razor: Bandage: 7s
+[08/10/2024 18:50]  a wounded harpy: a wounded harpy
+[08/10/2024 18:50]  Razor: Bandage: 6s
+[08/10/2024 18:50]  Razor: Bandage: 5s
+[08/10/2024 18:50]  Razor: Bandage: 4s
+[08/10/2024 18:50]  a wounded harpy: -58
+[08/10/2024 18:50]  Razor: Bandage: 3s
+[08/10/2024 18:50]  Razor: Bandage: 2s
+[08/10/2024 18:50]  Razor: Bandage: 1s
+[08/10/2024 18:50]  System: You finish applying the bandages.
+[08/10/2024 18:50]  Eldevil: +26
+[08/10/2024 18:50]  a wounded harpy: -31
+[08/10/2024 18:50]  System: You have gained a little fame.
+[08/10/2024 18:50]  System: You have gained a little karma.
+[08/10/2024 18:50]  System: -12
+[08/10/2024 18:50]  You see: a wounded harpy corpse
+[08/10/2024 18:50]  You see: a giant bat corpse
+[08/10/2024 18:50]  a giant bat: a giant bat
+[08/10/2024 18:50]  Eldevil: Eldevil
+[08/10/2024 18:50]  Eldevil: -7
+[08/10/2024 18:50]  System: Who will you use the bandages on?
+[08/10/2024 18:50]  System: You begin applying the bandages.
+[08/10/2024 18:50]  Razor: Bandage: Starting
+[08/10/2024 18:50]  Razor: Bandage: 10s
+[08/10/2024 18:50]  System: You must wait to perform another action.
+[08/10/2024 18:50]  Razor: Bandage: 9s
+[08/10/2024 18:50]  Razor: Bandage: 8s
+[08/10/2024 18:50]  Eldevil: -5
+[08/10/2024 18:50]  System: Your fingers slip!
+[08/10/2024 18:50]  Razor: Bandage: 7s
+[08/10/2024 18:50]  System: Muchacha has completed the achievement: Enhanced (Basic).
+[08/10/2024 18:50]  Razor: Bandage: 6s
+[08/10/2024 18:50]  Eldevil: Target: a giant bat
+[08/10/2024 18:50]  Razor: Attack: a giant bat
+[08/10/2024 18:50]  a giant bat: -58
+[08/10/2024 18:50]  Razor: Bandage: 5s
+[08/10/2024 18:50]  Razor: Bandage: 4s
+[08/10/2024 18:50]  Razor: Bandage: 3s
+[08/10/2024 18:50]  a giant bat: -49
+[08/10/2024 18:50]  Razor: Bandage: 2s
+[08/10/2024 18:50]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:50]  Razor: Bandage: 1s
+[08/10/2024 18:50]  System: You finish applying the bandages.
+[08/10/2024 18:50]  Eldevil: +10
+[08/10/2024 18:50]  You see: a wounded harpy corpse
+[08/10/2024 18:50]  System: You carve materials from the corpse.
+[08/10/2024 18:50]  System: You carve materials from the corpse.
+[08/10/2024 18:50]  System: You carve materials from the corpse.
+[08/10/2024 18:50]  a giant bat: -68
+[08/10/2024 18:50]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:51]  System: You have gained a little fame.
+[08/10/2024 18:51]  System: You have gained a little karma.
+[08/10/2024 18:51]  System: -25
+[08/10/2024 18:51]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:51]  You see: a giant bat corpse
+[08/10/2024 18:51]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:51]  System: You carve materials from the corpse.
+[08/10/2024 18:51]  System: You must wait another moment before you may pick up an item from here.
+[08/10/2024 18:51]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:51]  Razor: Target: Eldevil
+[08/10/2024 18:51]  System: You dont see anything nearby worth carving or investigating.
+[08/10/2024 18:51]  a wounded harpy: a wounded harpy
+[08/10/2024 18:51]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:51]  System: You dont see anything nearby worth carving or investigating.
+[08/10/2024 18:51]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:51]  System: You dont see anything nearby worth carving or investigating.
+[08/10/2024 18:51]  You see: a feeble ratman's corpse
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:51]  a wounded harpy: a wounded harpy
+[08/10/2024 18:51]  You see: a wounded harpy corpse
+[08/10/2024 18:51]  a guar: a guar
+[08/10/2024 18:51]  Eldevil: You fail to hide.
+[08/10/2024 18:51]  a wounded harpy: a wounded harpy
+[08/10/2024 18:51]  Razor: Attack: a wounded harpy
+[08/10/2024 18:51]  System: You must wait a few moments before using another skill.
+[08/10/2024 18:51]  a wounded harpy: -70
+[08/10/2024 18:51]  Eldevil: Eldevil
+[08/10/2024 18:51]  a wounded harpy: -49
+[08/10/2024 18:51]  a giant bat: a giant bat
+[08/10/2024 18:51]  a wounded harpy: -45
+[08/10/2024 18:51]  a guar: a guar
+[08/10/2024 18:51]  a wounded harpy: -54
+[08/10/2024 18:51]  a wounded harpy: -50
+[08/10/2024 18:51]  Eldevil: -13
+[08/10/2024 18:51]  System: Who will you use the bandages on?
+[08/10/2024 18:51]  System: You begin applying the bandages.
+[08/10/2024 18:51]  Razor: Bandage: Starting
+[08/10/2024 18:51]  Razor: Bandage: 10s
+[08/10/2024 18:51]  System: You must wait to perform another action.
+[08/10/2024 18:51]  a wounded harpy: -49
+[08/10/2024 18:51]  Razor: Bandage: 9s
+[08/10/2024 18:51]  System: Your shot hinders your target!
+[08/10/2024 18:51]  a wounded harpy: -80
+[08/10/2024 18:51]  Razor: Bandage: 8s
+[08/10/2024 18:51]  Razor: Bandage: 7s
+[08/10/2024 18:51]  System: You have gained a little fame.
+[08/10/2024 18:51]  System: You have gained a little karma.
+[08/10/2024 18:51]  System: -3
+[08/10/2024 18:51]  You see: a wounded harpy corpse
+[08/10/2024 18:51]  Razor: Bandage: 6s
+[08/10/2024 18:51]  Razor: Bandage: 5s
+[08/10/2024 18:51]  Razor: Bandage: 4s
+[08/10/2024 18:51]  Eldevil: Eldevil
+[08/10/2024 18:51]  Razor: Bandage: 3s
+[08/10/2024 18:51]  System: Skillgain chances will now be displayed.
+[08/10/2024 18:51]  Razor: Bandage: 2s
+[08/10/2024 18:51]  Razor: Bandage: 1s
+[08/10/2024 18:51]  System: You finish applying the bandages.
+[08/10/2024 18:51]  Eldevil: +11
+[08/10/2024 18:51]  System: Healing skillgain: 100%
+[08/10/2024 18:51]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:51]  a wounded harpy: a wounded harpy
+[08/10/2024 18:51]  a giant bat: a giant bat
+[08/10/2024 18:51]  System: Forensics skillgain: 69.444%
+[08/10/2024 18:51]  System: You carve materials from the corpse.
+[08/10/2024 18:51]  System: Gentle Lover has completed the achievement: Enhanced (Basic).
+[08/10/2024 18:51]  Eldevil: You have hidden yourself well.
+[08/10/2024 18:52]  a wounded harpy: a wounded harpy
+[08/10/2024 18:52]  System: You feel comfortable enough to begin stealthing.
+[08/10/2024 18:52]  Razor: [Stealth Ready]
+[08/10/2024 18:52]  System: You begin to move quietly. (13 steps)
+[08/10/2024 18:52]  System: You have 12 stealth steps remaining.
+[08/10/2024 18:52]  [Razor]: Steps: 12
+[08/10/2024 18:52]  System: You have 11 stealth steps remaining.
+[08/10/2024 18:52]  [Razor]: Steps: 11
+[08/10/2024 18:52]  Razor: Attack: a wounded harpy
+[08/10/2024 18:52]  System: Archery skillgain: 100%
+[08/10/2024 18:52]  System: Tactics skillgain: 100%
+[08/10/2024 18:52]  System: Focus skillgain: 100%
+[08/10/2024 18:52]  System: A weapon skill of 80 or higher is required to perform a backstab attack.
+[08/10/2024 18:52]  a wounded harpy: -51
+[08/10/2024 18:52]  System: Archery skillgain: 40.568%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:52]  System: Focus skillgain: 16.622%
+[08/10/2024 18:52]  a wounded harpy: -33
+[08/10/2024 18:52]  a giant bat: a giant bat
+[08/10/2024 18:52]  System: Archery skillgain: 40.568%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:52]  System: Focus skillgain: 16.622%
+[08/10/2024 18:52]  a wounded harpy: -70
+[08/10/2024 18:52]  System: Archery skillgain: 40.568%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:52]  System: Focus skillgain: 16.622%
+[08/10/2024 18:52]  Eldevil: -11
+[08/10/2024 18:52]  System: Who will you use the bandages on?
+[08/10/2024 18:52]  System: You begin applying the bandages.
+[08/10/2024 18:52]  Razor: Bandage: Starting
+[08/10/2024 18:52]  Razor: Bandage: 10s
+[08/10/2024 18:52]  System: You must wait to perform another action.
+[08/10/2024 18:52]  System: Archery skillgain: 40.772%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.706%
+[08/10/2024 18:52]  System: Focus skillgain: 16.706%
+[08/10/2024 18:52]  a wounded harpy: -65
+[08/10/2024 18:52]  Razor: Bandage: 9s
+[08/10/2024 18:52]  System: Archery skillgain: 40.568%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:52]  System: Focus skillgain: 16.622%
+[08/10/2024 18:52]  Razor: Bandage: 8s
+[08/10/2024 18:52]  Eldevil: -11
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Razor: Bandage: 7s
+[08/10/2024 18:52]  Eldevil: -8
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  System: Archery skillgain: 40.772%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.706%
+[08/10/2024 18:52]  System: Focus skillgain: 16.706%
+[08/10/2024 18:52]  Razor: Bandage: 6s
+[08/10/2024 18:52]  Razor: Bandage: 5s
+[08/10/2024 18:52]  Eldevil: -9
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:52]  System: Archery skillgain: 40.568%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:52]  System: Focus skillgain: 16.622%
+[08/10/2024 18:52]  a wounded harpy: -58
+[08/10/2024 18:52]  Razor: Bandage: 4s
+[08/10/2024 18:52]  Eldevil: -10
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Eldevil: -7
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Razor: Bandage: 3s
+[08/10/2024 18:52]  System: Archery skillgain: 40.568%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:52]  System: Focus skillgain: 16.622%
+[08/10/2024 18:52]  a wounded harpy: -63
+[08/10/2024 18:52]  Razor: Bandage: 2s
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Eldevil: -8
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Razor: Bandage: 1s
+[08/10/2024 18:52]  Eldevil: -17
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  System: You finish applying the bandages.
+[08/10/2024 18:52]  Eldevil: +25
+[08/10/2024 18:52]  System: Healing skillgain: 100%
+[08/10/2024 18:52]  System: Your skill in Focus has decreased by 0.3.  It is now 72.9.
+[08/10/2024 18:52]  System: Your skill in Healing has increased by 0.3.  It is now 59.5.
+[08/10/2024 18:52]  System: Who will you use the bandages on?
+[08/10/2024 18:52]  System: You begin applying the bandages.
+[08/10/2024 18:52]  Razor: Bandage: Starting
+[08/10/2024 18:52]  Razor: Bandage: 10s
+[08/10/2024 18:52]  System: Archery skillgain: 40.978%
+[08/10/2024 18:52]  System: Your skill in Focus has decreased by 0.1.  It is now 72.8.
+[08/10/2024 18:52]  System: Your skill in Archery has increased by 0.1.  It is now 54.7.
+[08/10/2024 18:52]  System: Tactics skillgain: 16.790%
+[08/10/2024 18:52]  a wounded harpy: -56
+[08/10/2024 18:52]  System: You must wait to perform another action.
+[08/10/2024 18:52]  a wounded harpy: a wounded harpy
+[08/10/2024 18:52]  a guar: a guar
+[08/10/2024 18:52]  Razor: Bandage: 9s
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  System: Archery skillgain: 40.772%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.706%
+[08/10/2024 18:52]  System: You have gained a little fame.
+[08/10/2024 18:52]  System: You have gained a little karma.
+[08/10/2024 18:52]  System: -4
+[08/10/2024 18:52]  Razor: Bandage: 8s
+[08/10/2024 18:52]  You see: a wounded harpy corpse
+[08/10/2024 18:52]  You see: a wounded harpy corpse
+[08/10/2024 18:52]  Razor: Bandage: 7s
+[08/10/2024 18:52]  Razor: Bandage: 6s
+[08/10/2024 18:52]  a guar: a guar
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Razor: Bandage: 5s
+[08/10/2024 18:52]  Razor: Bandage: 4s
+[08/10/2024 18:52]  Eldevil: -7
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Khian: Khian (Young)
+[08/10/2024 18:52]  Razor: Bandage: 3s
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Razor: Bandage: 2s
+[08/10/2024 18:52]  You see: a wounded harpy corpse
+[08/10/2024 18:52]  Razor: Bandage: 1s
+[08/10/2024 18:52]  Eldevil: Target: a giant bat
+[08/10/2024 18:52]  Razor: Attack: a giant bat
+[08/10/2024 18:52]  System: Archery skillgain: 40.568%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:52]  a giant bat: -59
+[08/10/2024 18:52]  Eldevil: -7
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:52]  System: You finish applying the bandages.
+[08/10/2024 18:52]  Eldevil: +24
+[08/10/2024 18:52]  System: Healing skillgain: 100%
+[08/10/2024 18:52]  System: Your skill in Focus has decreased by 0.3.  It is now 72.5.
+[08/10/2024 18:52]  System: Your skill in Healing has increased by 0.3.  It is now 59.8.
+[08/10/2024 18:52]  System: Who will you use the bandages on?
+[08/10/2024 18:52]  System: You begin applying the bandages.
+[08/10/2024 18:52]  Razor: Bandage: Starting
+[08/10/2024 18:52]  Razor: Bandage: 10s
+[08/10/2024 18:52]  System: You must wait to perform another action.
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  You see: a giant bat corpse
+[08/10/2024 18:52]  You see: a wounded harpy corpse
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  You see: a giant bat corpse
+[08/10/2024 18:52]  a guar: a guar
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  Khian: Khian (Young)
+[08/10/2024 18:52]  Razor: Bandage: 9s
+[08/10/2024 18:52]  System: Archery skillgain: 40.568%
+[08/10/2024 18:52]  System: Your skill in Focus has decreased by 0.1.  It is now 72.4.
+[08/10/2024 18:52]  System: Your skill in Archery has increased by 0.1.  It is now 54.8.
+[08/10/2024 18:52]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:52]  System: Your skill in Focus has decreased by 0.1.  It is now 72.3.
+[08/10/2024 18:52]  System: Your skill in Tactics has increased by 0.1.  It is now 71.9.
+[08/10/2024 18:52]  a giant bat: -58
+[08/10/2024 18:52]  Razor: Bandage: 8s
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Razor: Bandage: 7s
+[08/10/2024 18:52]  Razor: Bandage: 6s
+[08/10/2024 18:52]  Razor: Bandage: 5s
+[08/10/2024 18:52]  [Razor]: Finished 4 queued actions in 1.8 seconds.
+[08/10/2024 18:52]  a wounded harpy: a wounded harpy
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  Eldevil: Target: a giant bat
+[08/10/2024 18:52]  Razor: Attack: a giant bat
+[08/10/2024 18:52]  System: Archery skillgain: 40.568%
+[08/10/2024 18:52]  System: Your skill in Focus has decreased by 0.1.  It is now 72.2.
+[08/10/2024 18:52]  System: Your skill in Archery has increased by 0.1.  It is now 54.9.
+[08/10/2024 18:52]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:52]  Razor: Bandage: 4s
+[08/10/2024 18:52]  Eldevil: -6
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  Razor: Bandage: 3s
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  You see: a wounded harpy corpse
+[08/10/2024 18:52]  Razor: Bandage: 2s
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  Razor: Bandage: 1s
+[08/10/2024 18:52]  System: You finish applying the bandages.
+[08/10/2024 18:52]  Eldevil: +29
+[08/10/2024 18:52]  System: Healing skillgain: 100%
+[08/10/2024 18:52]  System: Your skill in Focus has decreased by 0.3.  It is now 71.9.
+[08/10/2024 18:52]  System: Your skill in Healing has increased by 0.3.  It is now 60.1.
+[08/10/2024 18:52]  System: Archery skillgain: 40.772%
+[08/10/2024 18:52]  System: Tactics skillgain: 16.706%
+[08/10/2024 18:52]  System: Your skill in Focus has decreased by 0.1.  It is now 71.8.
+[08/10/2024 18:52]  System: Your skill in Tactics has increased by 0.1.  It is now 72.0.
+[08/10/2024 18:52]  a giant bat: -53
+[08/10/2024 18:52]  System: Who will you use the bandages on?
+[08/10/2024 18:52]  System: You begin applying the bandages.
+[08/10/2024 18:52]  Razor: Bandage: Starting
+[08/10/2024 18:52]  Razor: Bandage: 10s
+[08/10/2024 18:52]  System: You must wait to perform another action.
+[08/10/2024 18:52]  Eldevil: -8
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 18:52]  You see: a giant bat corpse
+[08/10/2024 18:52]  You see: a wounded harpy corpse
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  You see: a giant bat corpse
+[08/10/2024 18:52]  a guar: a guar
+[08/10/2024 18:52]  Razor: Bandage: 9s
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:52]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:52]  Khian: Khian (Young)
+[08/10/2024 18:52]  Razor: Bandage: 8s
+[08/10/2024 18:52]  Eldevil: -2
+[08/10/2024 18:52]  System: Your fingers slip!
+[08/10/2024 18:53]  System: Archery skillgain: 40.568%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 71.7.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.0.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  Eldevil: -2
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  Razor: Bandage: 7s
+[08/10/2024 18:53]  Razor: Bandage: 6s
+[08/10/2024 18:53]  Eldevil: -2
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  Eldevil: -8
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  Eldevil: -2
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  Razor: Bandage: 5s
+[08/10/2024 18:53]  Eldevil: -2
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  System: Archery skillgain: 32.787%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 71.6.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.1.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.790%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 71.5.
+[08/10/2024 18:53]  System: Your skill in Tactics has increased by 0.1.  It is now 72.1.
+[08/10/2024 18:53]  Razor: Bandage: 4s
+[08/10/2024 18:53]  a wounded harpy: a wounded harpy
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  Razor: Bandage: 3s
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  System: Archery skillgain: 32.622%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 71.4.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.2.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.706%
+[08/10/2024 18:53]  Eldevil: -2
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  Razor: Bandage: 2s
+[08/10/2024 18:53]  Eldevil: -7
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  Razor: Bandage: 1s
+[08/10/2024 18:53]  You see: a wounded harpy corpse
+[08/10/2024 18:53]  Eldevil: -2
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  System: You finish applying the bandages.
+[08/10/2024 18:53]  Eldevil: +19
+[08/10/2024 18:53]  System: Healing skillgain: 100%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.3.  It is now 71.1.
+[08/10/2024 18:53]  System: Your skill in Healing has increased by 0.3.  It is now 60.4.
+[08/10/2024 18:53]  System: Who will you use the bandages on?
+[08/10/2024 18:53]  System: You begin applying the bandages.
+[08/10/2024 18:53]  Razor: Bandage: Starting
+[08/10/2024 18:53]  Razor: Bandage: 10s
+[08/10/2024 18:53]  System: You must wait to perform another action.
+[08/10/2024 18:53]  You see: a giant bat corpse
+[08/10/2024 18:53]  You see: a wounded harpy corpse
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  Eldevil: -2
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  Razor: Bandage: 9s
+[08/10/2024 18:53]  System: Archery skillgain: 32.622%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.706%
+[08/10/2024 18:53]  a guar: a guar
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  Khian: Khian (Young)
+[08/10/2024 18:53]  Eldevil: -2
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  Razor: Bandage: 8s
+[08/10/2024 18:53]  a wounded harpy: a wounded harpy
+[08/10/2024 18:53]  Razor: Bandage: 7s
+[08/10/2024 18:53]  You see: a giant bat corpse
+[08/10/2024 18:53]  You see: a feeble ratman's corpse
+[08/10/2024 18:53]  Razor: Bandage: 6s
+[08/10/2024 18:53]  Karbon Katt: Karbon Katt (Young)
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  System: You have gained a little fame.
+[08/10/2024 18:53]  System: You have gained a little karma.
+[08/10/2024 18:53]  System: -30
+[08/10/2024 18:53]  Eldevil: -2
+[08/10/2024 18:53]  System: Your fingers slip!
+[08/10/2024 18:53]  System: You are no longer bleeding.
+[08/10/2024 18:53]  You see: a giant bat corpse
+[08/10/2024 18:53]  Razor: Bandage: 5s
+[08/10/2024 18:53]  a feeble ratman: a feeble ratman
+[08/10/2024 18:53]  Eldevil: Target: a giant bat
+[08/10/2024 18:53]  Razor: Attack: a giant bat
+[08/10/2024 18:53]  Razor: Bandage: 4s
+[08/10/2024 18:53]  a corpser: a corpser
+[08/10/2024 18:53]  Razor: Bandage: 3s
+[08/10/2024 18:53]  You see: a giant rat corpse
+[08/10/2024 18:53]  a bull: (tame)
+[08/10/2024 18:53]  a bull: a bull
+[08/10/2024 18:53]  a bull: (tame)
+[08/10/2024 18:53]  a bull: a bull
+[08/10/2024 18:53]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:53]  Moonshaddow: Moonshaddow
+[08/10/2024 18:53]  a colossal frog: (tame)
+[08/10/2024 18:53]  a colossal frog: a colossal frog
+[08/10/2024 18:53]  You see: a giant rat corpse
+[08/10/2024 18:53]  Razor: Bandage: 2s
+[08/10/2024 18:53]  Kurm: Kurm (Young)
+[08/10/2024 18:53]  a ghoul: (summoned)
+[08/10/2024 18:53]  a ghoul: a ghoul
+[08/10/2024 18:53]  a zombie: (summoned)
+[08/10/2024 18:53]  a zombie: a zombie
+[08/10/2024 18:53]  System: Archery skillgain: 32.622%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 71.0.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.3.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.706%
+[08/10/2024 18:53]  a giant bat: -43
+[08/10/2024 18:53]  Razor: Bandage: 1s
+[08/10/2024 18:53]  You see: a giant rat corpse
+[08/10/2024 18:53]  You see: a feeble ratman's corpse
+[08/10/2024 18:53]  System: You finish applying the bandages.
+[08/10/2024 18:53]  Eldevil: +32
+[08/10/2024 18:53]  System: Healing skillgain: 100%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.3.  It is now 70.7.
+[08/10/2024 18:53]  System: Your skill in Healing has increased by 0.3.  It is now 60.7.
+[08/10/2024 18:53]  System: Who will you use the bandages on?
+[08/10/2024 18:53]  System: You begin applying the bandages.
+[08/10/2024 18:53]  Razor: Bandage: Starting
+[08/10/2024 18:53]  Razor: Bandage: 10s
+[08/10/2024 18:53]  System: You must wait to perform another action.
+[08/10/2024 18:53]  a guar: a guar
+[08/10/2024 18:53]  a wounded harpy: a wounded harpy
+[08/10/2024 18:53]  Eldevil: Target: a giant bat
+[08/10/2024 18:53]  Razor: Attack: a giant bat
+[08/10/2024 18:53]  Razor: Bandage: 8s
+[08/10/2024 18:53]  You see: a wounded harpy corpse
+[08/10/2024 18:53]  a giant bat: a giant bat
+[08/10/2024 18:53]  You see: a giant bat corpse
+[08/10/2024 18:53]  Razor: Bandage: 7s
+[08/10/2024 18:53]  You see: a wounded harpy corpse
+[08/10/2024 18:53]  Razor: Bandage: 6s
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 70.6.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.4.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  a giant bat: -58
+[08/10/2024 18:53]  Razor: Bandage: 5s
+[08/10/2024 18:53]  Razor: Bandage: 4s
+[08/10/2024 18:53]  You see: a wounded harpy corpse
+[08/10/2024 18:53]  You see: a giant bat corpse
+[08/10/2024 18:53]  You see: a wounded harpy corpse
+[08/10/2024 18:53]  a wounded harpy: a wounded harpy
+[08/10/2024 18:53]  You see: a guar corpse
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  Razor: Bandage: 3s
+[08/10/2024 18:53]  Karbon Katt: Karbon Katt (Young)
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  You see: a wounded harpy corpse
+[08/10/2024 18:53]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  a giant bat: -71
+[08/10/2024 18:53]  Razor: Bandage: 2s
+[08/10/2024 18:53]  Razor: Bandage: 1s
+[08/10/2024 18:53]  You see: a giant bat corpse
+[08/10/2024 18:53]  You see: a feeble ratman's corpse
+[08/10/2024 18:53]  Karbon Katt: Karbon Katt (Young)
+[08/10/2024 18:53]  a wounded harpy: a wounded harpy
+[08/10/2024 18:53]  System: Archery skillgain: 32.622%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 70.5.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.5.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.706%
+[08/10/2024 18:53]  System: You finish applying the bandages.
+[08/10/2024 18:53]  Eldevil: +20
+[08/10/2024 18:53]  System: Healing skillgain: 100%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.3.  It is now 70.2.
+[08/10/2024 18:53]  System: Your skill in Healing has increased by 0.3.  It is now 61.0.
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 70.1.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.6.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  a giant bat: -40
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 70.0.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.7.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  System: You have gained a little fame.
+[08/10/2024 18:53]  System: You have gained a little karma.
+[08/10/2024 18:53]  System: -31
+[08/10/2024 18:53]  You see: a giant bat corpse
+[08/10/2024 18:53]  Eldevil: You have hidden yourself well.
+[08/10/2024 18:53]  System: You have gained a little fame.
+[08/10/2024 18:53]  System: You have gained a little karma.
+[08/10/2024 18:53]  You see: a giant bat corpse
+[08/10/2024 18:53]  Eldevil: Target: a wounded harpy
+[08/10/2024 18:53]  Razor: Attack: a wounded harpy
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  a wounded harpy: -38
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 69.9.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.8.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  a wounded harpy: -73
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 69.8.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 55.9.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 69.7.
+[08/10/2024 18:53]  System: Your skill in Tactics has increased by 0.1.  It is now 72.2.
+[08/10/2024 18:53]  System: Your shot hinders your target!
+[08/10/2024 18:53]  a wounded harpy: -84
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Your skill in Focus has decreased by 0.1.  It is now 69.6.
+[08/10/2024 18:53]  System: Your skill in Archery has increased by 0.1.  It is now 56.0.
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  a wounded harpy: -50
+[08/10/2024 18:53]  You see: a wounded harpy corpse
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  a wounded harpy: -49
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  a wounded harpy: -55
+[08/10/2024 18:53]  Eldevil: -19
+[08/10/2024 18:53]  System: Who will you use the bandages on?
+[08/10/2024 18:53]  System: You begin applying the bandages.
+[08/10/2024 18:53]  Razor: Bandage: Starting
+[08/10/2024 18:53]  Razor: Bandage: 10s
+[08/10/2024 18:53]  System: You must wait to perform another action.
+[08/10/2024 18:53]  System: Archery skillgain: 32.622%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.706%
+[08/10/2024 18:53]  Razor: Bandage: 9s
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  Razor: Bandage: 8s
+[08/10/2024 18:53]  Razor: Bandage: 7s
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  a wounded harpy: -50
+[08/10/2024 18:53]  Razor: Bandage: 6s
+[08/10/2024 18:53]  Razor: Bandage: 5s
+[08/10/2024 18:53]  System: Archery skillgain: 32.459%
+[08/10/2024 18:53]  System: Tactics skillgain: 16.622%
+[08/10/2024 18:53]  System: You have gained a little fame.
+[08/10/2024 18:53]  System: You have gained a little karma.
+[08/10/2024 18:53]  System: -1
+[08/10/2024 18:53]  Razor: Bandage: 4s
+[08/10/2024 18:53]  You see: a wounded harpy corpse
+[08/10/2024 18:53]  System: The world will save in 15 seconds.
+[08/10/2024 18:53]  Razor: Bandage: 3s
+[08/10/2024 18:53]  Razor: Bandage: 2s
+[08/10/2024 18:54]  Razor: Bandage: 1s
+[08/10/2024 18:54]  System: You finish applying the bandages.
+[08/10/2024 18:54]  Eldevil: +17
+[08/10/2024 18:54]  System: Healing skillgain: 100%
+[08/10/2024 18:54]  System: Your skill in Focus has decreased by 0.3.  It is now 69.3.
+[08/10/2024 18:54]  System: Your skill in Healing has increased by 0.3.  It is now 61.3.
+[08/10/2024 18:54]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:54]  System: Forensics skillgain: 69.444%
+[08/10/2024 18:54]  System: You carve materials from the corpse.
+[08/10/2024 18:54]  Khian: Khian (Young)
+[08/10/2024 18:54]  You see: a giant bat corpse
+[08/10/2024 18:54]  System: That is too far away.
+[08/10/2024 18:54]  [Razor]: Finished 6 queued actions in 3.0 seconds.
+[08/10/2024 18:54]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:54]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:54]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:54]  System: What corpse or location do you wish to carve?
+[08/10/2024 18:54]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:54]  You see: a wounded harpy corpse
+[08/10/2024 18:54]  Khian: Khian (Young)
+[08/10/2024 18:54]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 18:54]  You see: a wounded harpy corpse
+[08/10/2024 18:54]  a wounded harpy: a wounded harpy
+[08/10/2024 18:54]  a guar: a guar
+[08/10/2024 18:54]  Eldevil: You have hidden yourself well.
+[08/10/2024 18:54]  a feeble ratman: a feeble ratman
+[08/10/2024 18:54]  a feeble ratman: Ky. Ttakyytett.
+[08/10/2024 18:54]  a feeble ratman: Aaah! That hurt...
+[08/10/2024 18:54]  System: The world is saving, please wait.
+[08/10/2024 18:54]  System: World save complete. The entire process took 2.6 seconds.
+[08/10/2024 18:54]  You see: a feeble ratman's corpse
+[08/10/2024 18:54]  You see: a wounded harpy corpse
+[08/10/2024 18:54]  System: You feel comfortable enough to begin stealthing.
+[08/10/2024 18:54]  Razor: [Stealth Ready]
+[08/10/2024 18:54]  You see: a giant bat corpse
+[08/10/2024 18:54]  Warface: [NWO]
+[08/10/2024 18:54]  Warface: Warface
+[08/10/2024 18:54]  a giant bat: a giant bat
+[08/10/2024 18:54]  a feeble ratman: a feeble ratman
+[08/10/2024 18:54]  Kurm: Kurm (Young)
+[08/10/2024 18:54]  a zombie: (summoned)
+[08/10/2024 18:54]  a zombie: a zombie
+[08/10/2024 18:54]  a skeleton: (summoned)
+[08/10/2024 18:54]  a skeleton: a skeleton
+[08/10/2024 18:54]  a skeleton: (summoned)
+[08/10/2024 18:54]  a skeleton: a skeleton
+[08/10/2024 18:54]  a skeleton: (summoned)
+[08/10/2024 18:54]  a skeleton: a skeleton
+[08/10/2024 18:54]  a zombie: (summoned)
+[08/10/2024 18:54]  a zombie: a zombie
+[08/10/2024 18:54]  You see: a wounded harpy corpse
+[08/10/2024 18:54]  a skeleton: *rattles*
+[08/10/2024 18:54]  Kurm: In Vas Mani
+[08/10/2024 18:54]  You see: a giant bat corpse
+[08/10/2024 18:54]  a ghoul: (summoned)
+[08/10/2024 18:54]  a ghoul: a ghoul
+[08/10/2024 18:55]  System: KyHu Princess has completed the achievement: Aspect Mastery (Basic).
+[08/10/2024 18:55]  a giant bat: a giant bat
+[08/10/2024 18:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[08/10/2024 18:55]  Khian: Khian (Young)
+[08/10/2024 18:55]  a skeleton: *rattles*
+[08/10/2024 18:55]  a feeble ratman: *looks violently ill*
+[08/10/2024 18:55]  a feeble ratman: a feeble ratman
+[08/10/2024 18:55]  You see: a feeble ratman's corpse
+[08/10/2024 18:55]  Kurm: Por Ort Grav
+[08/10/2024 18:55]  a feeble ratman: Ccky. Tta rraprok!
+[08/10/2024 18:55]  a feeble ratman: Away with thee!
+[08/10/2024 18:55]  a feeble ratman: Utccke ykych ttiittat.
+[08/10/2024 18:55]  a feeble ratman: NOOooo!
+[08/10/2024 18:55]  You see: a feeble ratman's corpse
+[08/10/2024 18:55]  System: The Continental has completed the achievement: Order of Armorers Dignitary.
+[08/10/2024 18:55]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:55]  Moonshaddow: Moonshaddow
+[08/10/2024 18:55]  a colossal frog: (tame)
+[08/10/2024 18:55]  a colossal frog: a colossal frog
+[08/10/2024 18:55]  a giant frog: (tame)
+[08/10/2024 18:55]  a giant frog: a giant frog
+[08/10/2024 18:55]  a colossal frog: (tame)
+[08/10/2024 18:55]  a colossal frog: a colossal frog
+[08/10/2024 18:55]  Moonshaddow: All guard me
+[08/10/2024 18:55]  a wounded harpy: a wounded harpy
+[08/10/2024 18:55]  a colossal frog: *regens*
+[08/10/2024 18:55]  a giant bat: a giant bat
+[08/10/2024 18:56]  a giant bat: a giant bat
+[08/10/2024 18:56]  You see: a wounded harpy corpse
+[08/10/2024 18:56]  You see: a wounded harpy corpse
+[08/10/2024 18:56]  a colossal frog: *regens*
+[08/10/2024 18:56]  System: Southern Charm has completed the achievement: Artificers Enclave Patrician.
+[08/10/2024 18:56]  Moonshaddow: 44334
+[08/10/2024 18:56]  Khian: Khian (Young)
+[08/10/2024 18:56]  a guar: a guar
+[08/10/2024 18:56]  a feeble ratman: a feeble ratman
+[08/10/2024 18:56]  a guar: a guar
+[08/10/2024 18:56]  a giant bat: a giant bat
+[08/10/2024 18:56]  a giant bat: a giant bat
+[08/10/2024 18:57]  a feeble ratman: a feeble ratman
+[08/10/2024 18:57]  a giant bat: a giant bat
+[08/10/2024 18:57]  System: Jomby has completed the achievement: Tradesman Union Initiate.
+[08/10/2024 18:57]  a colossal frog: (tame)
+[08/10/2024 18:57]  a colossal frog: a colossal frog
+[08/10/2024 18:57]  a giant frog: (tame)
+[08/10/2024 18:57]  a giant frog: a giant frog
+[08/10/2024 18:57]  a colossal frog: (tame)
+[08/10/2024 18:57]  a colossal frog: a colossal frog
+[08/10/2024 18:57]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 18:57]  Moonshaddow: Moonshaddow
+[08/10/2024 18:57]  You see: a wounded harpy corpse
+[08/10/2024 18:57]  You see: a giant bat corpse
+[08/10/2024 18:57]  a wounded harpy: a wounded harpy
+[08/10/2024 18:58]  Moonshaddow: All kill
+[08/10/2024 18:58]  a colossal frog: *regens*
+[08/10/2024 18:58]  Mefedronka: Mefedronka (Young)
+[08/10/2024 18:58]  a colossal frog: *regens*
+[08/10/2024 18:58]  You see: a wounded harpy corpse
+[08/10/2024 18:58]  You see: a giant bat corpse
+[08/10/2024 18:58]  System: Jedi has completed the achievement: Affluent (Advanced).
+[08/10/2024 18:58]  Mefedronka: Mefedronka (Young)
+[08/10/2024 18:59]  a feeble ratman: a feeble ratman
+[08/10/2024 18:59]  a giant bat: a giant bat
+[08/10/2024 18:59]  a feeble ratman: a feeble ratman
+[08/10/2024 18:59]  a giant bat: a giant bat
+[08/10/2024 18:59]  You see: a feeble ratman's corpse
+[08/10/2024 18:59]  Kurm: Kurm (Young)
+[08/10/2024 18:59]  a zombie: (summoned)
+[08/10/2024 18:59]  a zombie: a zombie
+[08/10/2024 18:59]  a ghoul: (summoned)
+[08/10/2024 18:59]  a ghoul: a ghoul
+[08/10/2024 18:59]  a skeleton: (summoned)
+[08/10/2024 18:59]  a skeleton: a skeleton
+[08/10/2024 18:59]  a skeleton: (summoned)
+[08/10/2024 18:59]  a skeleton: a skeleton
+[08/10/2024 18:59]  a skeleton: (summoned)
+[08/10/2024 18:59]  a skeleton: a skeleton
+[08/10/2024 18:59]  Khian: Khian (Young)
+[08/10/2024 18:59]  a giant bat: a giant bat
+[08/10/2024 18:59]  a giant bat: a giant bat
+[08/10/2024 19:00]  You see: a giant bat corpse
+[08/10/2024 19:00]  Razor: Attack: a wounded harpy
+[08/10/2024 19:00]  System: Archery skillgain: 32.459%
+[08/10/2024 19:00]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:00]  a wounded harpy: -59
+[08/10/2024 19:00]  System: Archery skillgain: 32.459%
+[08/10/2024 19:00]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.1.  It is now 69.2.
+[08/10/2024 19:00]  System: Your skill in Tactics has increased by 0.1.  It is now 72.3.
+[08/10/2024 19:00]  a wounded harpy: -51
+[08/10/2024 19:00]  System: Archery skillgain: 32.459%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.1.  It is now 69.1.
+[08/10/2024 19:00]  System: Your skill in Archery has increased by 0.1.  It is now 56.1.
+[08/10/2024 19:00]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:00]  a wounded harpy: -65
+[08/10/2024 19:00]  a giant bat: a giant bat
+[08/10/2024 19:00]  System: Archery skillgain: 32.459%
+[08/10/2024 19:00]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:00]  System: Archery skillgain: 32.459%
+[08/10/2024 19:00]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:00]  a wounded harpy: -56
+[08/10/2024 19:00]  You see: a wounded harpy corpse
+[08/10/2024 19:00]  You see: a feeble ratman's corpse
+[08/10/2024 19:00]  You see: a wounded harpy corpse
+[08/10/2024 19:00]  You see: a feeble ratman's corpse
+[08/10/2024 19:00]  System: Karl Styner has completed the achievement: Savant (Advanced).
+[08/10/2024 19:00]  You see: a giant bat corpse
+[08/10/2024 19:00]  Eldevil: -10
+[08/10/2024 19:00]  You see: a giant bat corpse
+[08/10/2024 19:00]  System: Who will you use the bandages on?
+[08/10/2024 19:00]  System: You begin applying the bandages.
+[08/10/2024 19:00]  Razor: Bandage: Starting
+[08/10/2024 19:00]  Razor: Bandage: 10s
+[08/10/2024 19:00]  System: You must wait to perform another action.
+[08/10/2024 19:00]  System: Archery skillgain: 32.459%
+[08/10/2024 19:00]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:00]  a wounded harpy: -62
+[08/10/2024 19:00]  Eldevil: -11
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  Razor: Bandage: 9s
+[08/10/2024 19:00]  System: Archery skillgain: 32.459%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.1.  It is now 69.0.
+[08/10/2024 19:00]  System: Your skill in Archery has increased by 0.1.  It is now 56.2.
+[08/10/2024 19:00]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:00]  a wounded harpy: -66
+[08/10/2024 19:00]  Razor: Bandage: 8s
+[08/10/2024 19:00]  System: Kobrakan has completed the achievement: Weaponmastery (Advanced).
+[08/10/2024 19:00]  Razor: Bandage: 7s
+[08/10/2024 19:00]  System: Archery skillgain: 32.459%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.1.  It is now 68.9.
+[08/10/2024 19:00]  System: Your skill in Archery has increased by 0.1.  It is now 56.3.
+[08/10/2024 19:00]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:00]  Razor: Bandage: 6s
+[08/10/2024 19:00]  Razor: Bandage: 5s
+[08/10/2024 19:00]  Eldevil: -8
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 19:00]  System: Archery skillgain: 32.459%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.1.  It is now 68.8.
+[08/10/2024 19:00]  System: Your skill in Archery has increased by 0.1.  It is now 56.4.
+[08/10/2024 19:00]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:00]  System: You have gained a little fame.
+[08/10/2024 19:00]  System: You have gained a little karma.
+[08/10/2024 19:00]  System: -41
+[08/10/2024 19:00]  Razor: Bandage: 4s
+[08/10/2024 19:00]  You see: a wounded harpy corpse
+[08/10/2024 19:00]  Razor: Bandage: 3s
+[08/10/2024 19:00]  Razor: Bandage: 2s
+[08/10/2024 19:00]  Eldevil: -2
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  Razor: Bandage: 1s
+[08/10/2024 19:00]  System: You finish applying the bandages.
+[08/10/2024 19:00]  Eldevil: +27
+[08/10/2024 19:00]  System: Healing skillgain: 100%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.3.  It is now 68.5.
+[08/10/2024 19:00]  System: Your skill in Healing has increased by 0.3.  It is now 61.6.
+[08/10/2024 19:00]  System: Who will you use the bandages on?
+[08/10/2024 19:00]  System: You begin applying the bandages.
+[08/10/2024 19:00]  Razor: Bandage: Starting
+[08/10/2024 19:00]  Razor: Bandage: 10s
+[08/10/2024 19:00]  System: You must wait to perform another action.
+[08/10/2024 19:00]  a giant bat: a giant bat
+[08/10/2024 19:00]  Razor: Bandage: 9s
+[08/10/2024 19:00]  Eldevil: -2
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  Razor: Bandage: 8s
+[08/10/2024 19:00]  Eldevil: -6
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  Warface: [NWO]
+[08/10/2024 19:00]  Warface: Warface
+[08/10/2024 19:00]  Razor: Bandage: 7s
+[08/10/2024 19:00]  Razor: Bandage: 6s
+[08/10/2024 19:00]  Eldevil: -2
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  Razor: Bandage: 5s
+[08/10/2024 19:00]  a wounded harpy: a wounded harpy
+[08/10/2024 19:00]  Razor: Bandage: 4s
+[08/10/2024 19:00]  You see: a giant bat corpse
+[08/10/2024 19:00]  Razor: Bandage: 3s
+[08/10/2024 19:00]  Eldevil: -2
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  Razor: Bandage: 2s
+[08/10/2024 19:00]  Razor: Attack: a giant bat
+[08/10/2024 19:00]  System: Archery skillgain: 32.622%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.1.  It is now 68.4.
+[08/10/2024 19:00]  System: Your skill in Archery has increased by 0.1.  It is now 56.5.
+[08/10/2024 19:00]  System: Tactics skillgain: 16.706%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.1.  It is now 68.3.
+[08/10/2024 19:00]  System: Your skill in Tactics has increased by 0.1.  It is now 72.4.
+[08/10/2024 19:00]  a giant bat: -55
+[08/10/2024 19:00]  Razor: Bandage: 1s
+[08/10/2024 19:00]  System: You finish applying the bandages.
+[08/10/2024 19:00]  Eldevil: +11
+[08/10/2024 19:00]  System: Healing skillgain: 100%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.3.  It is now 68.0.
+[08/10/2024 19:00]  System: Your skill in Healing has increased by 0.3.  It is now 61.9.
+[08/10/2024 19:00]  a wounded harpy: a wounded harpy
+[08/10/2024 19:00]  Eldevil: -2
+[08/10/2024 19:00]  System: You are no longer bleeding.
+[08/10/2024 19:00]  System: Who will you use the bandages on?
+[08/10/2024 19:00]  System: You begin applying the bandages.
+[08/10/2024 19:00]  Razor: Bandage: Starting
+[08/10/2024 19:00]  Razor: Bandage: 10s
+[08/10/2024 19:00]  System: You must wait to perform another action.
+[08/10/2024 19:00]  Razor: Bandage: 9s
+[08/10/2024 19:00]  Eldevil: -8
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  Razor: Bandage: 8s
+[08/10/2024 19:00]  Razor: Bandage: 7s
+[08/10/2024 19:00]  Razor: Bandage: 6s
+[08/10/2024 19:00]  Eldevil: -6
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 19:00]  Razor: Bandage: 5s
+[08/10/2024 19:00]  Razor: Bandage: 4s
+[08/10/2024 19:00]  Razor: Bandage: 3s
+[08/10/2024 19:00]  Eldevil: -2
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  Razor: Bandage: 2s
+[08/10/2024 19:00]  Razor: Bandage: 1s
+[08/10/2024 19:00]  System: You finish applying the bandages.
+[08/10/2024 19:00]  Eldevil: +16
+[08/10/2024 19:00]  System: Healing skillgain: 100%
+[08/10/2024 19:00]  System: Your skill in Focus has decreased by 0.3.  It is now 67.7.
+[08/10/2024 19:00]  System: Your skill in Healing has increased by 0.3.  It is now 62.2.
+[08/10/2024 19:00]  Eldevil: -2
+[08/10/2024 19:00]  Khian: Khian (Young)
+[08/10/2024 19:00]  System: Who will you use the bandages on?
+[08/10/2024 19:00]  System: You begin applying the bandages.
+[08/10/2024 19:00]  Razor: Bandage: Starting
+[08/10/2024 19:00]  Razor: Bandage: 10s
+[08/10/2024 19:00]  System: You must wait to perform another action.
+[08/10/2024 19:00]  Eldevil: -9
+[08/10/2024 19:00]  System: Your fingers slip!
+[08/10/2024 19:00]  System: The creature strikes ferociously, causing you to bleed!
+[08/10/2024 19:00]  a wounded harpy: a wounded harpy
+[08/10/2024 19:00]  Razor: Bandage: 9s
+[08/10/2024 19:00]  a feeble ratman: a feeble ratman
+[08/10/2024 19:01]  a guar: a guar
+[08/10/2024 19:01]  Razor: Bandage: 8s
+[08/10/2024 19:01]  Eldevil: -2
+[08/10/2024 19:01]  System: Your fingers slip!
+[08/10/2024 19:01]  Razor: Bandage: 7s
+[08/10/2024 19:01]  a giant bat: a giant bat
+[08/10/2024 19:01]  Eldevil: -2
+[08/10/2024 19:01]  System: Your fingers slip!
+[08/10/2024 19:01]  Razor: Bandage: 6s
+[08/10/2024 19:01]  Razor: Bandage: 5s
+[08/10/2024 19:01]  Eldevil: -2
+[08/10/2024 19:01]  System: Your fingers slip!
+[08/10/2024 19:01]  Razor: Bandage: 4s
+[08/10/2024 19:01]  Eldevil: -2
+[08/10/2024 19:01]  System: Your fingers slip!
+[08/10/2024 19:01]  Razor: Bandage: 3s
+[08/10/2024 19:01]  Razor: Bandage: 2s
+[08/10/2024 19:01]  Eldevil: -2
+[08/10/2024 19:01]  System: Your fingers slip!
+[08/10/2024 19:01]  Razor: Bandage: 1s
+[08/10/2024 19:01]  Eldevil: -2
+[08/10/2024 19:01]  System: Your fingers slip!
+[08/10/2024 19:01]  System: You finish applying the bandages.
+[08/10/2024 19:01]  Eldevil: +21
+[08/10/2024 19:01]  System: Healing skillgain: 100%
+[08/10/2024 19:01]  System: Your skill in Focus has decreased by 0.3.  It is now 67.4.
+[08/10/2024 19:01]  System: Your skill in Healing has increased by 0.3.  It is now 62.5.
+[08/10/2024 19:01]  You see: a wounded harpy corpse
+[08/10/2024 19:01]  Eldevil: -2
+[08/10/2024 19:01]  System: Who will you use the bandages on?
+[08/10/2024 19:01]  System: You begin applying the bandages.
+[08/10/2024 19:01]  Razor: Bandage: Starting
+[08/10/2024 19:01]  Razor: Bandage: 10s
+[08/10/2024 19:01]  System: You must wait to perform another action.
+[08/10/2024 19:01]  Razor: Bandage: 9s
+[08/10/2024 19:01]  Eldevil: -8
+[08/10/2024 19:01]  System: Your fingers slip!
+[08/10/2024 19:01]  Razor: Bandage: 8s
+[08/10/2024 19:01]  Eldevil: -2
+[08/10/2024 19:01]  System: Your fingers slip!
+[08/10/2024 19:01]  System: You are no longer bleeding.
+[08/10/2024 19:01]  Razor: Bandage: 7s
+[08/10/2024 19:01]  Khian: Khian (Young)
+[08/10/2024 19:01]  Razor: Bandage: 6s
+[08/10/2024 19:01]  Eldevil: -10
+[08/10/2024 19:01]  System: Your fingers slip!
+[08/10/2024 19:01]  a wounded harpy: a wounded harpy
+[08/10/2024 19:01]  Razor: Bandage: 5s
+[08/10/2024 19:01]  Razor: Bandage: 4s
+[08/10/2024 19:01]  a giant bat: a giant bat
+[08/10/2024 19:01]  Razor: Attack: a giant bat
+[08/10/2024 19:01]  System: Archery skillgain: 32.622%
+[08/10/2024 19:01]  System: Tactics skillgain: 16.706%
+[08/10/2024 19:01]  Razor: Bandage: 3s
+[08/10/2024 19:01]  Razor: Bandage: 2s
+[08/10/2024 19:01]  System: Archery skillgain: 32.459%
+[08/10/2024 19:01]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:01]  a giant bat: -60
+[08/10/2024 19:01]  Razor: Bandage: 1s
+[08/10/2024 19:01]  a giant bat: a giant bat
+[08/10/2024 19:01]  System: You finish applying the bandages.
+[08/10/2024 19:01]  Eldevil: +20
+[08/10/2024 19:01]  System: Healing skillgain: 100%
+[08/10/2024 19:01]  System: Your skill in Focus has decreased by 0.3.  It is now 67.1.
+[08/10/2024 19:01]  System: Your skill in Healing has increased by 0.3.  It is now 62.8.
+[08/10/2024 19:01]  System: Archery skillgain: 32.459%
+[08/10/2024 19:01]  System: Your skill in Focus has decreased by 0.1.  It is now 67.0.
+[08/10/2024 19:01]  System: Your skill in Archery has increased by 0.1.  It is now 56.6.
+[08/10/2024 19:01]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:01]  a giant bat: -61
+[08/10/2024 19:01]  Khian: Khian (Young)
+[08/10/2024 19:01]  System: Archery skillgain: 32.459%
+[08/10/2024 19:01]  System: Tactics skillgain: 16.622%
+[08/10/2024 19:01]  System: You have gained a little fame.
+[08/10/2024 19:01]  System: You have gained a little karma.
+[08/10/2024 19:01]  System: -24
+[08/10/2024 19:01]  You see: a giant bat corpse
+[08/10/2024 19:01]  a wounded harpy: a wounded harpy
+[08/10/2024 19:01]  a feeble ratman: a feeble ratman
+[08/10/2024 19:01]  You see: a giant bat corpse
+[08/10/2024 19:01]  You see: a giant bat corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  Moonshaddow: [Recruit, gLc]
+[08/10/2024 19:01]  Moonshaddow: Moonshaddow
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  a colossal frog: (tame)
+[08/10/2024 19:01]  a colossal frog: a colossal frog
+[08/10/2024 19:01]  a giant frog: (tame)
+[08/10/2024 19:01]  a giant frog: a giant frog
+[08/10/2024 19:01]  a colossal frog: (tame)
+[08/10/2024 19:01]  a colossal frog: a colossal frog
+[08/10/2024 19:01]  You see: a corpser corpse
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  a guar: a guar
+[08/10/2024 19:01]  You see: a corpser corpse
+[08/10/2024 19:01]  You see: a colossal frog corpse
+[08/10/2024 19:01]  a giant bat: a giant bat
+[08/10/2024 19:01]  You see: a feeble ratman's corpse
+[08/10/2024 19:01]  a giant frog: a giant frog
+[08/10/2024 19:01]  Eldevil: -18
+[08/10/2024 19:01]  You see: a feeble ratman's corpse
+[08/10/2024 19:01]  System: Who will you use the bandages on?
+[08/10/2024 19:01]  System: You begin applying the bandages.
+[08/10/2024 19:01]  Razor: Bandage: Starting
+[08/10/2024 19:01]  Razor: Bandage: 10s
+[08/10/2024 19:01]  System: You must wait to perform another action.
+[08/10/2024 19:01]  You see: a giant bat corpse
+[08/10/2024 19:01]  You see: a giant frog corpse
+[08/10/2024 19:01]  You see: a bull corpse
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  a wounded harpy: a wounded harpy
+[08/10/2024 19:01]  You see: the remains of Sir Sparhawk
+[08/10/2024 19:01]  a familiar: a familiar
+[08/10/2024 19:01]  You see: a corpser corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  a colossal frog: a colossal frog
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  You see: a skeletal corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  a colossal frog: (tame)
+[08/10/2024 19:01]  a colossal frog: a colossal frog
+[08/10/2024 19:01]  Razor: Bandage: 9s
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  a mongbat: a mongbat
+[08/10/2024 19:01]  a mongbat: a mongbat
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  You see: the remains of Khian
+[08/10/2024 19:01]  Topboy Zi: Topboy Zi
+[08/10/2024 19:01]  Manghul: Manghul
+[08/10/2024 19:01]  a zombie: (summoned)
+[08/10/2024 19:01]  a zombie: a zombie
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  a headless: a headless
+[08/10/2024 19:01]  Rivendal: Rivendal (Young)
+[08/10/2024 19:01]  Razor: Bandage: 8s
+[08/10/2024 19:01]  Rivendal: Por Corp Wis
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  Razor: Bandage: 7s
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  You see: the remains of Mefedronka
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  a giant rat: a giant rat
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  You see: a headless corpse
+[08/10/2024 19:01]  You see: a colossal frog corpse
+[08/10/2024 19:01]  You see: a giant frog corpse
+[08/10/2024 19:01]  You see: a giant frog corpse
+[08/10/2024 19:01]  Razor: Bandage: 6s
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  Eldevil: That is out of my line of sight.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a skeletal corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  Razor: Bandage: 5s
+[08/10/2024 19:01]  Rivendal: Por Corp Wis
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  You see: a rotting corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  Razor: Bandage: 4s
+[08/10/2024 19:01]  Mefedronka: Mefedronka (Young)
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  Deano's Chapel: Master of Aspects
+[08/10/2024 19:01]  Deano's Chapel: [Sage, BEAR]
+[08/10/2024 19:01]  Deano's Chapel: Deano's Chapel
+[08/10/2024 19:01]  Moses Blackson: Triggered
+[08/10/2024 19:01]  Moses Blackson: [Druid, BEAR]
+[08/10/2024 19:01]  Moses Blackson: Moses Blackson
+[08/10/2024 19:01]  an aegis slime: (tame)
+[08/10/2024 19:01]  an aegis slime: an aegis slime
+[08/10/2024 19:01]  Rolderick: Ossuary Legend
+[08/10/2024 19:01]  Rolderick: [Stkz]
+[08/10/2024 19:01]  Rolderick: Rolderick
+[08/10/2024 19:01]  RingPoP: Kraul Hive Guardian
+[08/10/2024 19:01]  RingPoP: [Dirty Bonnet Thief.., SQzD]
+[08/10/2024 19:01]  RingPoP: Lady RingPoP
+[08/10/2024 19:01]  HawkThuah: (bonded)
+[08/10/2024 19:01]  HawkThuah: HawkThuah
+[08/10/2024 19:01]  Charon Drakon: Charon Drakon
+[08/10/2024 19:01]  a drake: (bonded)
+[08/10/2024 19:01]  a drake: a drake
+[08/10/2024 19:01]  a dragon: (bonded)
+[08/10/2024 19:01]  a dragon: a dragon
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  Warner the Watch: [Knight, Sir.]
+[08/10/2024 19:01]  Warner the Watch: Warner the Watch
+[08/10/2024 19:01]  Afton Aislinn: Afton Aislinn
+[08/10/2024 19:01]  Lenhador Ze: Lenhador Ze
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  Razor: Bandage: 3s
+[08/10/2024 19:01]  You see: a mongbat corpse
+[08/10/2024 19:01]  a great hart: (tame)
+[08/10/2024 19:01]  a great hart: a great hart
+[08/10/2024 19:01]  a scavenging guy: a scavenging guy
+[08/10/2024 19:01]  Waryo: Waryo (Young)
+[08/10/2024 19:01]  Alice Manu: Alice Manu (Young)
+[08/10/2024 19:01]  Ruka Minazuki: Ruka Minazuki
+[08/10/2024 19:01]  System: You may not loot this corpse.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  Xi Chungus: [Book Worm, CtS]
+[08/10/2024 19:01]  Xi Chungus: Xi Chungus
+[08/10/2024 19:01]  Generic Killer: Triggered
+[08/10/2024 19:01]  Generic Killer: [Member, NC]
+[08/10/2024 19:01]  Generic Killer: Generic Killer
+[08/10/2024 19:01]  Case Gibson: Case Gibson (Young)
+[08/10/2024 19:01]  Abuelo: Abuelo
+[08/10/2024 19:01]  Vinoxanous: [Beard Brother, BB]
+[08/10/2024 19:01]  Vinoxanous: Vinoxanous
+[08/10/2024 19:01]  a fortress beetle: (bonded)
+[08/10/2024 19:01]  a fortress beetle: a fortress beetle
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  Razor: Bandage: 2s
+[08/10/2024 19:01]  Charon Drakon: *herds followers*
+[08/10/2024 19:01]  Razor: Bandage: 1s
+[08/10/2024 19:01]  Warner the Watch: *area taunt*
+[08/10/2024 19:01]  System: You finish applying the bandages.
+[08/10/2024 19:01]  Eldevil: +16
+[08/10/2024 19:01]  System: Healing skillgain: 100%
+[08/10/2024 19:01]  System: Your skill in Focus has decreased by 0.3.  It is now 66.7.
+[08/10/2024 19:01]  System: Your skill in Healing has increased by 0.3.  It is now 63.1.
+[08/10/2024 19:01]  You see: a giant rat corpse
+[08/10/2024 19:01]  You see: a rotting corpse
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  System: Players cannot commit aggressive actions in that location.
+[08/10/2024 19:01]  a zombie: a zombie
+[08/10/2024 19:01]  System: You are now under the protection of the town guards.
+[08/10/2024 19:01]  a hind: a hind
+[08/10/2024 19:01]  an eagle: an eagle
+[08/10/2024 19:01]  a great hart: a great hart
+[08/10/2024 19:01]  a mongbat: (tame)
+[08/10/2024 19:01]  a mongbat: a mongbat
+[08/10/2024 19:01]  Talbot: [BRvk]
+[08/10/2024 19:01]  Talbot: Talbot
+[08/10/2024 19:01]  Bardy MCBardson: [Soldier, DKR]
+[08/10/2024 19:01]  Bardy MCBardson: Bardy MCBardson
+[08/10/2024 19:01]  Carleen: Carleen the guard
+[08/10/2024 19:01]  Persivle: [Book Worm, CtS]
+[08/10/2024 19:01]  Persivle: Persivle
+[08/10/2024 19:01]  Sukuyu'wera: Sukuyu'wera (Young)
+[08/10/2024 19:01]  a scorpion: (tame)
+[08/10/2024 19:01]  a scorpion: a scorpion
+[08/10/2024 19:01]  a: (bonded)
+[08/10/2024 19:01]  a: a
+[08/10/2024 19:01]  a scarab: (bonded)
+[08/10/2024 19:01]  a scarab: a scarab
+[08/10/2024 19:01]  FireLips: (bonded)
+[08/10/2024 19:01]  FireLips: FireLips
+[08/10/2024 19:01]  Mister Crafty: Mister Crafty (Young)
+[08/10/2024 19:01]  a horse: (tame)
+[08/10/2024 19:01]  a horse: a horse
+[08/10/2024 19:01]  Sir Laugh-A-Lot: Sir Laugh-A-Lot (Young)
+[08/10/2024 19:01]  Skn Prns Opucugu: Skn Prns Opucugu (Young)
+[08/10/2024 19:01]  Butzeboy: Butzeboy (Young)
+[08/10/2024 19:01]  Drupada: Drupada
+[08/10/2024 19:01]  Marti: Marti the healer
+[08/10/2024 19:01]  Talbot: BRvk, guilda BR está recrutando... Regras antirroubo (se é que vocês entendem)
+[08/10/2024 19:01]  Talbot: Distro de raros, links e sistema de rotatividade de sorteio que facilita crescimento para todos.
+[08/10/2024 19:01]  Dusty: Dusty the cook
+[08/10/2024 19:01]  Giles: Giles the thief
+[08/10/2024 19:01]  Jayne: Jayne the innkeeper
+[08/10/2024 19:01]  a mongbat: (tame)
+[08/10/2024 19:01]  a mongbat: a mongbat
+[08/10/2024 19:01]  Talbot: [BRvk]
+[08/10/2024 19:01]  Talbot: Talbot
+[08/10/2024 19:02]  Jayne: Jayne the innkeeper
+[08/10/2024 19:02]  You see: war fork
+[08/10/2024 19:02]  a mongbat: (tame)
+[08/10/2024 19:02]  a mongbat: a mongbat
+[08/10/2024 19:02]  Talbot: [BRvk]
+[08/10/2024 19:02]  Talbot: Talbot
+[08/10/2024 19:02]  Persivle: Welcome to Outlands! Any new players have any questions or need help with anything?
+[08/10/2024 19:02]  Persivle: If so, message me on discord at Trevek. and i'll get back with you as soon as i can!
+[08/10/2024 19:02]  a hind: a hind
+[08/10/2024 19:02]  an eagle: an eagle
+[08/10/2024 19:02]  a great hart: a great hart
+[08/10/2024 19:02]  System: You have left the protection of the town guards.
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: the remains of Mefedronka
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  Deano's Chapel: Master of Aspects
+[08/10/2024 19:02]  Deano's Chapel: [Sage, BEAR]
+[08/10/2024 19:02]  Deano's Chapel: Deano's Chapel
+[08/10/2024 19:02]  a wounded harpy: a wounded harpy
+[08/10/2024 19:02]  Moses Blackson: Triggered
+[08/10/2024 19:02]  Moses Blackson: [Druid, BEAR]
+[08/10/2024 19:02]  Moses Blackson: Moses Blackson
+[08/10/2024 19:02]  an aegis slime: (tame)
+[08/10/2024 19:02]  an aegis slime: an aegis slime
+[08/10/2024 19:02]  Rolderick: Ossuary Legend
+[08/10/2024 19:02]  Rolderick: [Stkz]
+[08/10/2024 19:02]  Rolderick: Rolderick
+[08/10/2024 19:02]  RingPoP: Kraul Hive Guardian
+[08/10/2024 19:02]  RingPoP: [Dirty Bonnet Thief.., SQzD]
+[08/10/2024 19:02]  RingPoP: Lady RingPoP
+[08/10/2024 19:02]  HawkThuah: (bonded)
+[08/10/2024 19:02]  HawkThuah: HawkThuah
+[08/10/2024 19:02]  Charon Drakon: Charon Drakon
+[08/10/2024 19:02]  a drake: (bonded)
+[08/10/2024 19:02]  a drake: a drake
+[08/10/2024 19:02]  a dragon: (bonded)
+[08/10/2024 19:02]  a dragon: a dragon
+[08/10/2024 19:02]  a great hart: (tame)
+[08/10/2024 19:02]  a great hart: a great hart
+[08/10/2024 19:02]  Xi Chungus: [Book Worm, CtS]
+[08/10/2024 19:02]  Xi Chungus: Xi Chungus
+[08/10/2024 19:02]  Generic Killer: Triggered
+[08/10/2024 19:02]  Generic Killer: [Member, NC]
+[08/10/2024 19:02]  Generic Killer: Generic Killer
+[08/10/2024 19:02]  Warner the Watch: [Knight, Sir.]
+[08/10/2024 19:02]  Warner the Watch: Warner the Watch
+[08/10/2024 19:02]  Case Gibson: Case Gibson (Young)
+[08/10/2024 19:02]  a scavenging guy: a scavenging guy
+[08/10/2024 19:02]  Waryo: Waryo (Young)
+[08/10/2024 19:02]  Abuelo: Abuelo
+[08/10/2024 19:02]  Alice Manu: Alice Manu (Young)
+[08/10/2024 19:02]  Vinoxanous: [Beard Brother, BB]
+[08/10/2024 19:02]  Vinoxanous: Vinoxanous
+[08/10/2024 19:02]  a fortress beetle: (bonded)
+[08/10/2024 19:02]  a fortress beetle: a fortress beetle
+[08/10/2024 19:02]  Ruka Minazuki: Ruka Minazuki
+[08/10/2024 19:02]  Lenhador Ze: Lenhador Ze
+[08/10/2024 19:02]  You see: a rotting corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  You see: a mongbat corpse
+[08/10/2024 19:02]  a zombie: a zombie
+[08/10/2024 19:02]  System: You may not loot this corpse.
+[08/10/2024 19:02]  Lenhador Ze: An Lor Xen
+[08/10/2024 19:02]  System: You are now under the protection of the town guards.
+[08/10/2024 19:02]  a hind: a hind
+[08/10/2024 19:02]  an eagle: an eagle
+[08/10/2024 19:02]  a great hart: a great hart
+[08/10/2024 19:02]  a hind: a hind
+[08/10/2024 19:02]  a mongbat: (tame)
+[08/10/2024 19:02]  a mongbat: a mongbat
+[08/10/2024 19:02]  Talbot: [BRvk]
+[08/10/2024 19:02]  Talbot: Talbot
+[08/10/2024 19:02]  Bardy MCBardson: [Soldier, DKR]
+[08/10/2024 19:02]  Bardy MCBardson: Bardy MCBardson
+[08/10/2024 19:02]  Carleen: Carleen the guard
+[08/10/2024 19:02]  Persivle: [Book Worm, CtS]
+[08/10/2024 19:02]  Persivle: Persivle
+[08/10/2024 19:02]  Sukuyu'wera: Sukuyu'wera (Young)
+[08/10/2024 19:02]  a scorpion: (tame)
+[08/10/2024 19:02]  a scorpion: a scorpion
+[08/10/2024 19:02]  a: (bonded)
+[08/10/2024 19:02]  a: a
+[08/10/2024 19:02]  a scarab: (bonded)
+[08/10/2024 19:02]  a scarab: a scarab
+[08/10/2024 19:02]  FireLips: (bonded)
+[08/10/2024 19:02]  FireLips: FireLips
+[08/10/2024 19:02]  Mister Crafty: Mister Crafty (Young)
+[08/10/2024 19:02]  a horse: (tame)
+[08/10/2024 19:02]  a horse: a horse
+[08/10/2024 19:02]  Sir Laugh-A-Lot: Sir Laugh-A-Lot (Young)
+[08/10/2024 19:02]  Skn Prns Opucugu: Skn Prns Opucugu (Young)
+[08/10/2024 19:02]  Butzeboy: Butzeboy (Young)
+[08/10/2024 19:02]  Marti: Marti the healer
+[08/10/2024 19:02]  Dusty: Dusty the cook
+[08/10/2024 19:02]  Giles: Giles the thief
+[08/10/2024 19:02]  Jayne: Jayne the innkeeper
+[08/10/2024 19:02]  Eldevil: You have hidden yourself well.
+[08/10/2024 19:02]  System: Sando Alkyscrib has completed the achievement: Leatherworker (Basic).
+[08/10/2024 19:02]  System: You feel comfortable enough to begin stealthing.
+[08/10/2024 19:02]  Razor: [Stealth Ready]
+[08/10/2024 19:02]  Sir Sparhawk: [Juicy, SQzD]
+[08/10/2024 19:02]  Sir Sparhawk: Lord Sir Sparhawk
+[08/10/2024 19:02]  weird aunt: weird aunt (Young)
+[08/10/2024 19:02]  Persivle: Welcome to Outlands! Any new players have any questions or need help with anything?
+[08/10/2024 19:02]  Persivle: If so, message me on discord at Trevek. and i'll get back with you as soon as i can!
+[08/10/2024 19:03]  Dagerja: [Citizen, Yew]
+[08/10/2024 19:03]  Dagerja: Dagerja
+[08/10/2024 19:03]  a water dragon: (bonded)
+[08/10/2024 19:03]  a water dragon: a water dragon
+[08/10/2024 19:03]  Letmelookinbag: [Journeyman, Path]
+[08/10/2024 19:03]  Letmelookinbag: Letmelookinbag

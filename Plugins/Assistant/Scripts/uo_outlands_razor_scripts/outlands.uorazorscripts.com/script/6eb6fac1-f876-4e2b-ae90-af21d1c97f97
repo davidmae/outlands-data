@@ -1,0 +1,201 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/6eb6fac1-f876-4e2b-ae90-af21d1c97f97 for latest
+# Automation by Jaseowns
+## Script: REALLY Lazy Gardener (Modified)
+## Created by: wolfgeist#0
+#############################################
+
+clearignore
+if findtype 'watering can' backpack as water
+    dclick water
+    pause 250
+    getlabel water wlabel
+    if '250/250' in wlabel
+        pause 5
+    else
+        overhead 'Low on water!' 38
+        pause 1000
+    endif
+endif    
+    
+if counttype 'dirt patch' backpack < 100
+    overhead 'Low on dirt!' 38
+    pause 1000
+endif
+
+//large wooden planter box
+while findtype 'planter' ground 0 0 2 as 'plant'
+        dclick 'plant'
+        pause 350
+        
+        //Set Soil
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "dirt patch" backpack
+        wait 450
+        gumpresponse 2 4024474571
+        wait 450
+        gumpclose 4024474571
+        wait 450
+
+        //Set Water
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "watering can" backpack
+        wait 450
+        gumpresponse 2 3929333591
+        wait 450
+        gumpclose 3929333591
+        wait 450
+        dclicktype "watering can"
+
+        //Toil
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "spade"
+        wait 450
+        gumpresponse 6 1429840072
+        wait 450
+        gumpclose 1429840072
+        wait 450
+        ignore 'plant'
+        pause 250
+        gumpclose 
+endwhile
+
+while findtype 'trough' ground 0 0 2 as 'plant'
+        dclick 'plant'
+        pause 350
+        
+        //Set Soil
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "dirt patch" backpack
+        wait 450
+        gumpresponse 2 4024474571
+        wait 450
+        gumpclose 4024474571
+        wait 450
+
+        //Set Water
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "watering can" backpack
+        wait 450
+        gumpresponse 2 3929333591
+        wait 450
+        gumpclose 3929333591
+        wait 450
+        dclicktype "watering can"
+
+        //Toil
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "spade"
+        wait 450
+        gumpresponse 6 1429840072
+        wait 450
+        gumpclose 1429840072
+        wait 450
+        ignore 'plant'
+        pause 250
+        gumpclose 
+endwhile
+pause 100
+
+//huge clay plant bowl
+while findtype '6330' ground 0 0 2 as 'plant'
+    pause 250
+        dclick 'plant'
+        pause 350
+        
+        //Set Soil
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype 2323 backpack
+        wait 450
+        gumpresponse 2 4024474571
+        wait 450
+        gumpclose 4024474571
+        wait 450
+
+        //Set Water
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "watering can" backpack
+        wait 450
+        gumpresponse 2 3929333591
+        wait 450
+        gumpclose 3929333591
+        wait 450
+   
+
+        //Toil
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "spade"
+        wait 450
+        gumpresponse 6 1429840072
+        wait 450
+        gumpclose 1429840072
+        wait 450
+        gumpclose
+        ignore 'plant'
+        pause 250
+        gumpclose 
+endwhile  
+
+//small wooden planter
+while findtype 'trough' ground 0 0 2 as 'plant'
+        dclick 'plant'
+        pause 350
+        
+        //Set Soil
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "dirt patch" backpack
+        wait 450
+        gumpresponse 2 4024474571
+        wait 450
+        gumpclose 4024474571
+        wait 450
+
+        //Set Water
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "watering can" backpack
+        wait 450
+        gumpresponse 2 3929333591
+        wait 450
+        gumpclose 3929333591
+        wait 450
+        dclicktype "watering can"
+
+        //Toil
+        gumpresponse 2 3224608375
+        waitfortarget 300
+        targettype "spade"
+        wait 450
+        gumpresponse 6 1429840072
+        wait 450
+        gumpclose 1429840072
+        wait 450
+        ignore 'plant'
+        pause 250
+        gumpclose 
+endwhile
+
+pause 250
+gumpclose 3224608375
+
+if findtype 'watering can' backpack as water
+    dclick water
+    pause 250
+    getlabel water wlabel
+    if '250/250' in wlabel
+        pause 5
+    else
+        overhead 'Low on water!' 38
+    endif
+endif    
+
+overhead 'My work here is done, lets check the other plants.'

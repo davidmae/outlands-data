@@ -1,0 +1,2405 @@
+[08/20/2024 00:46]  System: WorldMap loading...
+[08/20/2024 00:46]  System: Loading WorldMap markers..
+[08/20/2024 00:46]  System: ..Banks_and_Healers.xml (39)
+[08/20/2024 00:46]  System: ..Dungeons.xml (13)
+[08/20/2024 00:46]  System: ..Dungeon_Gates.xml (388)
+[08/20/2024 00:46]  System: ..Healer_Caravans.xml (42)
+[08/20/2024 00:46]  System: ..Kings_Faire.xml (43)
+[08/20/2024 00:46]  System: ..Moongates.xml (10)
+[08/20/2024 00:46]  System: ..POI.xml (251)
+[08/20/2024 00:46]  System: ..PvP_Locations.xml (71)
+[08/20/2024 00:46]  System: ..Shrines.xml (9)
+[08/20/2024 00:46]  System: ..Sub-Dungeons.xml (4)
+[08/20/2024 00:46]  System: ..Townships.xml (10)
+[08/20/2024 00:46]  System: ..UOAM_Atlas.xml (1887)
+[08/20/2024 00:46]  System: ..UOAM_T-Map.xml (255)
+[08/20/2024 00:46]  System: ..UOAM_Treasure.xml (523)
+[08/20/2024 00:46]  System: WorldMap markers loaded (3545)
+[08/20/2024 00:46]  System: Welcome Eldevil!
+[08/20/2024 00:46]  Eldevil: Eldevil
+[08/20/2024 00:46]  Don Slayote's Wares: Don Slayote's Wares
+[08/20/2024 00:46]  PREVALIA MOONGATE: PREVALIA MOONGATE
+[08/20/2024 00:46]  Amish's Shop - 8/17: Amish's Shop - 8/17
+[08/20/2024 00:46]  Bunny's Junk: Bunny's Junk
+[08/20/2024 00:46]  Mary Jane's Shop: Mary Jane's Shop
+[08/20/2024 00:46]  Prev Moongate: Prev Moongate
+[08/20/2024 00:46]  Smithy Plate & Weps: Smithy Plate & Weps
+[08/20/2024 00:46]  Cheapest Ocean Hip: Cheapest Ocean Hip
+[08/20/2024 00:46]  PREV MG - CORES/RARE: PREV MG - CORES/RARE
+[08/20/2024 00:46]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[08/20/2024 00:46]  PREV MG - LORE/LINKS: PREV MG - LORE/LINKS
+[08/20/2024 00:46]  This and That!: This and That!
+[08/20/2024 00:46]  CHEAP SHIMMER CLOTH!: CHEAP SHIMMER CLOTH!
+[08/20/2024 00:46]  RECSU: RECSU
+[08/20/2024 00:46]  Dopefiend: Dopefiend
+[08/20/2024 00:46]  HatE.BrEEd: HatE.BrEEd
+[08/20/2024 00:46]  Tevesh: Tevesh
+[08/20/2024 00:46]  Sibongile: Sibongile the battle trainer
+[08/20/2024 00:46]  Grindrrr: Grindrrr
+[08/20/2024 00:46]  The Ringmaster: The Ringmaster
+[08/20/2024 00:46]  Viscount: Viscount
+[08/20/2024 00:46]  Rangus: Rangus
+[08/20/2024 00:46]  Fandangoooo: [Druid, BEAR]
+[08/20/2024 00:46]  Fandangoooo: Fandangoooo
+[08/20/2024 00:46]  Senior: Senior
+[08/20/2024 00:46]  Lexxer: Lexxer
+[08/20/2024 00:46]  Yagia: Yagia
+[08/20/2024 00:46]  Stinkfinger: Stinkfinger
+[08/20/2024 00:46]  Grit Rockweary: Grit Rockweary
+[08/20/2024 00:46]  Mist: Mist
+[08/20/2024 00:46]  Vizzy: Vizzy
+[08/20/2024 00:46]  Grom Anak: Grom Anak
+[08/20/2024 00:46]  Liebe: Liebe
+[08/20/2024 00:46]  BigJoe Mufferaw: BigJoe Mufferaw
+[08/20/2024 00:46]  Temportal: Temportal
+[08/20/2024 00:46]  LuminousLlama: LuminousLlama
+[08/20/2024 00:46]  Fruta Doce: Fruta Doce
+[08/20/2024 00:46]  Jon Ireniccus: [Nordico, BRvk]
+[08/20/2024 00:46]  Jon Ireniccus: Jon Ireniccus
+[08/20/2024 00:46]  tehdizzy: tehdizzy
+[08/20/2024 00:46]  Wrynn Jaden: Domesticator
+[08/20/2024 00:46]  Wrynn Jaden: Wrynn Jaden
+[08/20/2024 00:46]  OneEyeWilly: OneEyeWilly
+[08/20/2024 00:46]  Valden: Valden
+[08/20/2024 00:46]  Paranoia Complex: Paranoia Complex
+[08/20/2024 00:46]  zNitro: zNitro
+[08/20/2024 00:46]  Spider Monkey: Spider Monkey
+[08/20/2024 00:46]  Yosemite'Sam: Yosemite'Sam
+[08/20/2024 00:46]  Alemor: Alemor
+[08/20/2024 00:46]  Two Right Hands: Two Right Hands
+[08/20/2024 00:46]  Inasi: Wizard
+[08/20/2024 00:46]  Inasi: [Recruit, G.G]
+[08/20/2024 00:46]  Inasi: Inasi
+[08/20/2024 00:46]  Mr.Lucky: Mr.Lucky
+[08/20/2024 00:46]  Kane Thun: [Lookout, brg]
+[08/20/2024 00:46]  Kane Thun: Kane Thun
+[08/20/2024 00:46]  Varda: [Learners Permit, TES]
+[08/20/2024 00:46]  Varda: Varda
+[08/20/2024 00:46]  BurningMadTree: BurningMadTree
+[08/20/2024 00:46]  Magmabox: Magmabox
+[08/20/2024 00:46]  Repu: Repu
+[08/20/2024 00:46]  HIGH END WOOD&INGOTS: HIGH END WOOD&INGOTS
+[08/20/2024 00:46]  Treasure Chest: Treasure Chest
+[08/20/2024 00:46]  Prevalia MG: Prevalia MG
+[08/20/2024 00:46]  SHIP STUFF: SHIP STUFF
+[08/20/2024 00:46]  DeathRider OG: DeathRider OG
+[08/20/2024 00:46]  Mutilates Scrolls: Mutilates Scrolls
+[08/20/2024 00:46]  Mutilates Cores: Mutilates Cores
+[08/20/2024 00:46]  Spellbooks 52K: Spellbooks 52K
+[08/20/2024 00:46]  ...: ...
+[08/20/2024 00:46]  ...: ...
+[08/20/2024 00:46]  ...: ...
+[08/20/2024 00:46]  ...: ...
+[08/20/2024 00:46]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 00:46]  System: WorldMap loaded!
+[08/20/2024 00:47]  Samvel: [Recruit, IDC]
+[08/20/2024 00:47]  Samvel: Samvel
+[08/20/2024 00:47]  Overlord Beans: Overlord Beans
+[08/20/2024 00:47]  XTREME LOOT 11/6: XTREME LOOT 11/6
+[08/20/2024 00:47]  Tea's Scam Vendor: Tea's Scam Vendor
+[08/20/2024 00:47]  **SHADOW FURN* 11/6: **SHADOW FURN* 11/6
+[08/20/2024 00:47]  System: You have left the protection of the town guards.
+[08/20/2024 00:47]  Good Food: Good Food
+[08/20/2024 00:47]  Prev Coins! 18.8k: Prev Coins! 18.8k
+[08/20/2024 00:47]  Lockpickers Emporium: Lockpickers Emporium
+[08/20/2024 00:47]  Cepholar: Cepholar
+[08/20/2024 00:47]  Essence IN STOCK!: Essence IN STOCK!
+[08/20/2024 00:47]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[08/20/2024 00:47]  Lessa: Lessa
+[08/20/2024 00:47]  Tsunami Tom: Tsunami Tom
+[08/20/2024 00:47]  Abigail Jones: Triggered
+[08/20/2024 00:47]  Abigail Jones: [Officer, MID]
+[08/20/2024 00:47]  Abigail Jones: Abigail Jones
+[08/20/2024 00:47]  System: You are now under the protection of the town guards.
+[08/20/2024 00:47]  a prevalian marksman: a prevalian marksman
+[08/20/2024 00:47]  a prevalian knight: a prevalian knight
+[08/20/2024 00:47]  Gresy Bellegambe: Gresy Bellegambe
+[08/20/2024 00:47]  a desert ostard: (bonded)
+[08/20/2024 00:47]  a desert ostard: a desert ostard
+[08/20/2024 00:47]  Quackletown: Quackletown
+[08/20/2024 00:47]  a forest ostard: (bonded)
+[08/20/2024 00:47]  a forest ostard: a forest ostard
+[08/20/2024 00:47]  a forest ostard: (bonded)
+[08/20/2024 00:47]  a forest ostard: a forest ostard
+[08/20/2024 00:47]  a frenzied ostard: (bonded)
+[08/20/2024 00:47]  a frenzied ostard: a frenzied ostard
+[08/20/2024 00:47]  a frenzied ostard: (bonded)
+[08/20/2024 00:47]  a frenzied ostard: a frenzied ostard
+[08/20/2024 00:47]  a frenzied ostard: (bonded)
+[08/20/2024 00:47]  a frenzied ostard: a frenzied ostard
+[08/20/2024 00:47]  a horse: (bonded)
+[08/20/2024 00:47]  a horse: a horse
+[08/20/2024 00:47]  a horse: (bonded)
+[08/20/2024 00:47]  a horse: a horse
+[08/20/2024 00:47]  a horse: (bonded)
+[08/20/2024 00:47]  a horse: a horse
+[08/20/2024 00:47]  a horse: (bonded)
+[08/20/2024 00:47]  a horse: a horse
+[08/20/2024 00:47]  a llama: (bonded)
+[08/20/2024 00:47]  a llama: a llama
+[08/20/2024 00:47]  a llama: (bonded)
+[08/20/2024 00:47]  a llama: a llama
+[08/20/2024 00:47]  a horse: (tame)
+[08/20/2024 00:47]  a horse: a horse
+[08/20/2024 00:47]  Tremors: Tremors
+[08/20/2024 00:47]  a dragon: (bonded)
+[08/20/2024 00:47]  a dragon: a dragon
+[08/20/2024 00:47]  Drakkness: Drakkness
+[08/20/2024 00:47]  Jakesh: Jakesh the Prevalian merchant
+[08/20/2024 00:47]  Soprano: Soprano
+[08/20/2024 00:47]  Jacking Jack: Jacking Jack
+[08/20/2024 00:47]  Aurelia: Aurelia the Town Crier
+[08/20/2024 00:47]  Svenomenal: Svenomenal
+[08/20/2024 00:47]  Ingmar: Ingmar the banker
+[08/20/2024 00:47]  Grimpeh Grimpson: Triggered
+[08/20/2024 00:47]  Grimpeh Grimpson: [Thrall, ICON]
+[08/20/2024 00:47]  Grimpeh Grimpson: Grimpeh Grimpson
+[08/20/2024 00:47]  vD: [Now Recruiting, vD]
+[08/20/2024 00:47]  vD: vD
+[08/20/2024 00:47]  MDMAI: MDMAI
+[08/20/2024 00:47]  Calendonia: Calendonia the banker
+[08/20/2024 00:47]  kenijietis: kenijietis
+[08/20/2024 00:47]  rRashin Toast: [Citizen, Yew]
+[08/20/2024 00:47]  rRashin Toast: rRashin Toast
+[08/20/2024 00:47]  Elfi: [Elysian 5, Elfi]
+[08/20/2024 00:47]  Elfi: Elfi
+[08/20/2024 00:47]  Titania: Titania the Diaphanous Wings Raffle Official
+[08/20/2024 00:47]  Vanmarus: [Druid, BEAR]
+[08/20/2024 00:47]  Vanmarus: Vanmarus
+[08/20/2024 00:47]  Afoombra: [The Tavern], [tT]
+[08/20/2024 00:47]  Afoombra: Afoombra
+[08/20/2024 00:47]  X Requiem X: X Requiem X
+[08/20/2024 00:47]  Leordric: Leordric
+[08/20/2024 00:47]  Kujjin: [Quartermaster, P.S.]
+[08/20/2024 00:47]  Kujjin: Kujjin
+[08/20/2024 00:47]  llololol: llololol
+[08/20/2024 00:47]  CritterLord: [Officer, KgB]
+[08/20/2024 00:47]  CritterLord: Lord CritterLord
+[08/20/2024 00:47]  Blackadder: Blackadder
+[08/20/2024 00:47]  Zogor: Lord Zogor
+[08/20/2024 00:47]  GrimmTailor: [Initiate, KoU]
+[08/20/2024 00:47]  GrimmTailor: GrimmTailor
+[08/20/2024 00:47]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/20/2024 00:47]  Standford: Standford the provisioner
+[08/20/2024 00:47]  JR One: [Recruit, TRSH]
+[08/20/2024 00:47]  JR One: JR One
+[08/20/2024 00:47]  Luxury Tax: Luxury Tax
+[08/20/2024 00:47]  Rona Steve: Legendarily Triggered
+[08/20/2024 00:47]  Rona Steve: [The Tavern], [tT]
+[08/20/2024 00:47]  Rona Steve: Lord Rona Steve
+[08/20/2024 00:47]  Westside Gunn: [Druid, BEAR]
+[08/20/2024 00:47]  Westside Gunn: Westside Gunn
+[08/20/2024 00:47]  Givon: Givon the tailor
+[08/20/2024 00:47]  Epididymis: [N-C]
+[08/20/2024 00:47]  Epididymis: Epididymis
+[08/20/2024 00:47]  Kurt: Kurt the real estate broker
+[08/20/2024 00:47]  Aponi: Aponi the cobbler
+[08/20/2024 00:47]  Nyssa: Nyssa the tanner
+[08/20/2024 00:47]  Margaret: Margaret the baker
+[08/20/2024 00:47]  Nevada: Nevada the architect
+[08/20/2024 00:47]  a horse: (tame)
+[08/20/2024 00:47]  a horse: a horse
+[08/20/2024 00:47]  Natasha: Natasha the tinker
+[08/20/2024 00:47]  Astrid: Astrid the tailor
+[08/20/2024 00:47]  NecroMoth: [Stowaway, P.S.]
+[08/20/2024 00:47]  NecroMoth: NecroMoth
+[08/20/2024 00:47]  Qamra: Qamra the blacksmith
+[08/20/2024 00:47]  Red Trashpanda: Red Trashpanda
+[08/20/2024 00:47]  Errol: Errol the provisioner
+[08/20/2024 00:47]  NecroMoth: [Stowaway, P.S.]
+[08/20/2024 00:47]  NecroMoth: NecroMoth
+[08/20/2024 00:47]  Zogor: Lord Zogor
+[08/20/2024 00:47]  Westside Gunn: [Druid, BEAR]
+[08/20/2024 00:47]  Westside Gunn: Westside Gunn
+[08/20/2024 00:47]  Gelly: Legendary Chef
+[08/20/2024 00:47]  Gelly: [Townsfolk, Sir.]
+[08/20/2024 00:47]  Gelly: Lord Gelly
+[08/20/2024 00:47]  an earth elemental: (summoned)
+[08/20/2024 00:47]  an earth elemental: an earth elemental
+[08/20/2024 00:47]  a fire elemental: (summoned)
+[08/20/2024 00:47]  a fire elemental: a fire elemental
+[08/20/2024 00:47]  a fire minion: (summoned)
+[08/20/2024 00:47]  a fire minion: a fire minion
+[08/20/2024 00:47]  Gelly: Kal Ort Por
+[08/20/2024 00:47]  Vanmarus: [Druid, BEAR]
+[08/20/2024 00:47]  Vanmarus: Vanmarus
+[08/20/2024 00:47]  Epididymis: [N-C]
+[08/20/2024 00:47]  Epididymis: Epididymis
+[08/20/2024 00:47]  Limpa-trilho: Limpa-trilho
+[08/20/2024 00:47]  Kujjin: [Quartermaster, P.S.]
+[08/20/2024 00:47]  Kujjin: Kujjin
+[08/20/2024 00:47]  Elfi: [Elysian 5, Elfi]
+[08/20/2024 00:47]  Elfi: Elfi
+[08/20/2024 00:47]  Titania: Titania the Diaphanous Wings Raffle Official
+[08/20/2024 00:47]  GrimmTailor: [Initiate, KoU]
+[08/20/2024 00:47]  GrimmTailor: GrimmTailor
+[08/20/2024 00:47]  Gen X Wannabe: Gen X Wannabe
+[08/20/2024 00:47]  MDMAI: MDMAI
+[08/20/2024 00:47]  vD: [Now Recruiting, vD]
+[08/20/2024 00:47]  vD: vD
+[08/20/2024 00:47]  Grimpeh Grimpson: Triggered
+[08/20/2024 00:47]  Grimpeh Grimpson: [Thrall, ICON]
+[08/20/2024 00:47]  Grimpeh Grimpson: Grimpeh Grimpson
+[08/20/2024 00:47]  Aurelia: Aurelia the Town Crier
+[08/20/2024 00:47]  Jacking Jack: Jacking Jack
+[08/20/2024 00:47]  Soprano: Soprano
+[08/20/2024 00:47]  Nevada: Nevada the architect
+[08/20/2024 00:47]  a horse: (tame)
+[08/20/2024 00:47]  a horse: a horse
+[08/20/2024 00:47]  Jakesh: Jakesh the Prevalian merchant
+[08/20/2024 00:47]  Margaret: Margaret the baker
+[08/20/2024 00:47]  Natasha: Natasha the tinker
+[08/20/2024 00:47]  Tremors: Tremors
+[08/20/2024 00:47]  Astrid: Astrid the tailor
+[08/20/2024 00:47]  Delmore: Delmore the ranger
+[08/20/2024 00:47]  Tawnie: Tawnie the bowyer
+[08/20/2024 00:47]  System: Being perfectly rested, you shove them out of the way.
+[08/20/2024 00:47]  Martha: Martha the cook
+[08/20/2024 00:47]  You Never Know: You Never Know
+[08/20/2024 00:47]  Delmore: Delmore the ranger
+[08/20/2024 00:47]  Delmore: Greetings.  Have a look around.
+[08/20/2024 00:47]  Tawnie: Tawnie the bowyer
+[08/20/2024 00:47]  Tawnie: Greetings.  Have a look around.
+[08/20/2024 00:48]  Caelrhys: Caelrhys
+[08/20/2024 00:48]  Yvessaint: [recruit, PEC]
+[08/20/2024 00:48]  Yvessaint: Yvessaint
+[08/20/2024 00:48]  You Never Know: You Never Know
+[08/20/2024 00:48]  Eldevil: You have hidden yourself well.
+[08/20/2024 00:48]  : wooden fence
+[08/20/2024 00:48]  : wooden fence
+[08/20/2024 00:48]  : wooden stairs
+[08/20/2024 00:48]  : wooden stairs
+[08/20/2024 00:48]  a vampire thrall: (summoned)
+[08/20/2024 00:48]  a vampire thrall: a vampire thrall
+[08/20/2024 00:48]  an ancient mummy: (summoned)
+[08/20/2024 00:48]  an ancient mummy: an ancient mummy
+[08/20/2024 00:48]  Yvessaint: [recruit, PEC]
+[08/20/2024 00:48]  Yvessaint: Yvessaint
+[08/20/2024 00:48]  You see: leather jerkin
+[08/20/2024 00:48]  Margaret: You have nothing I would be interested in.
+[08/20/2024 00:48]  System: You feel comfortable enough to begin stealthing.
+[08/20/2024 00:48]  Trakso: [Ripe, SQzD]
+[08/20/2024 00:48]  Trakso: Trakso
+[08/20/2024 00:48]  You see: emerald : 2
+[08/20/2024 00:48]  bloodwitch: Summoner
+[08/20/2024 00:48]  bloodwitch: [Knight, NEW!]
+[08/20/2024 00:48]  bloodwitch: bloodwitch
+[08/20/2024 00:48]  Pstol: [Loyal, NKB]
+[08/20/2024 00:48]  Pstol: Lord Pstol
+[08/20/2024 00:48]  Pstol: [Loyal, NKB]
+[08/20/2024 00:48]  Pstol: Lord Pstol
+[08/20/2024 00:48]  Caelrhys: Caelrhys
+[08/20/2024 00:48]  Subrrap: [Learners Permit, TES]
+[08/20/2024 00:48]  Subrrap: Subrrap
+[08/20/2024 00:48]  Ximbinha: [Membro, BRA]
+[08/20/2024 00:48]  Ximbinha: Ximbinha
+[08/20/2024 00:48]  System: The world will save in 15 seconds.
+[08/20/2024 00:48]  Thane: Thane the jeweler
+[08/20/2024 00:48]  Kaikara: Kaikara the jeweler
+[08/20/2024 00:48]  a prevalian knight: a prevalian knight
+[08/20/2024 00:48]  a prevalian marksman: a prevalian marksman
+[08/20/2024 00:49]  You Never Know: You Never Know
+[08/20/2024 00:49]  Delmore: Delmore the ranger
+[08/20/2024 00:49]  Tawnie: Tawnie the bowyer
+[08/20/2024 00:49]  Gresy Bellegambe: Gresy Bellegambe
+[08/20/2024 00:49]  a horse: (tame)
+[08/20/2024 00:49]  a horse: a horse
+[08/20/2024 00:49]  Lorasamir: Lord Lorasamir
+[08/20/2024 00:49]  a forest ostard: (bonded)
+[08/20/2024 00:49]  a forest ostard: a forest ostard
+[08/20/2024 00:49]  a forest ostard: (bonded)
+[08/20/2024 00:49]  a forest ostard: a forest ostard
+[08/20/2024 00:49]  a desert ostard: (bonded)
+[08/20/2024 00:49]  a desert ostard: a desert ostard
+[08/20/2024 00:49]  a horse: (bonded)
+[08/20/2024 00:49]  a horse: a horse
+[08/20/2024 00:49]  a horse: (bonded)
+[08/20/2024 00:49]  a horse: a horse
+[08/20/2024 00:49]  a horse: (bonded)
+[08/20/2024 00:49]  a horse: a horse
+[08/20/2024 00:49]  a horse: (bonded)
+[08/20/2024 00:49]  a horse: a horse
+[08/20/2024 00:49]  a frenzied ostard: (bonded)
+[08/20/2024 00:49]  a frenzied ostard: a frenzied ostard
+[08/20/2024 00:49]  a frenzied ostard: (bonded)
+[08/20/2024 00:49]  a frenzied ostard: a frenzied ostard
+[08/20/2024 00:49]  a frenzied ostard: (bonded)
+[08/20/2024 00:49]  a frenzied ostard: a frenzied ostard
+[08/20/2024 00:49]  a llama: (bonded)
+[08/20/2024 00:49]  a llama: a llama
+[08/20/2024 00:49]  Quackletown: Quackletown
+[08/20/2024 00:49]  Tsunami Tom: Tsunami Tom
+[08/20/2024 00:49]  Abigail Jones: Triggered
+[08/20/2024 00:49]  Abigail Jones: [Officer, MID]
+[08/20/2024 00:49]  Abigail Jones: Abigail Jones
+[08/20/2024 00:49]  Lessa: Lessa
+[08/20/2024 00:49]  Overlord Beans: Overlord Beans
+[08/20/2024 00:49]  Deckrd Cain: Deckrd Cain
+[08/20/2024 00:49]  ...: ...
+[08/20/2024 00:49]  ...: ...
+[08/20/2024 00:49]  ...: ...
+[08/20/2024 00:49]  DeathRider OG: DeathRider OG
+[08/20/2024 00:49]  ...: ...
+[08/20/2024 00:49]  Spellbooks 52K: Spellbooks 52K
+[08/20/2024 00:49]  System: The world is saving, please wait.
+[08/20/2024 00:49]  System: World save complete. The entire process took 2.6 seconds.
+[08/20/2024 00:49]  Essence IN STOCK!: Essence IN STOCK!
+[08/20/2024 00:49]  Good Food: Good Food
+[08/20/2024 00:49]  Lockpickers Emporium: Lockpickers Emporium
+[08/20/2024 00:49]  Prev Coins! 18.8k: Prev Coins! 18.8k
+[08/20/2024 00:49]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[08/20/2024 00:49]  Cepholar: Cepholar
+[08/20/2024 00:49]  Mutilates Cores: Mutilates Cores
+[08/20/2024 00:49]  HIGH END WOOD&INGOTS: HIGH END WOOD&INGOTS
+[08/20/2024 00:49]  Treasure Chest: Treasure Chest
+[08/20/2024 00:49]  Prevalia MG: Prevalia MG
+[08/20/2024 00:49]  SHIP STUFF: SHIP STUFF
+[08/20/2024 00:49]  Mutilates Scrolls: Mutilates Scrolls
+[08/20/2024 00:49]  **SHADOW FURN* 11/6: **SHADOW FURN* 11/6
+[08/20/2024 00:49]  Tevesh: Tevesh
+[08/20/2024 00:49]  XTREME LOOT 11/6: XTREME LOOT 11/6
+[08/20/2024 00:49]  The Ringmaster: The Ringmaster
+[08/20/2024 00:49]  Viscount: Viscount
+[08/20/2024 00:49]  Lexxer: Lexxer
+[08/20/2024 00:49]  Stinkfinger: Stinkfinger
+[08/20/2024 00:49]  Mist: Mist
+[08/20/2024 00:49]  Grom Anak: Grom Anak
+[08/20/2024 00:49]  Fruta Doce: Fruta Doce
+[08/20/2024 00:49]  Jon Ireniccus: [Nordico, BRvk]
+[08/20/2024 00:49]  Jon Ireniccus: Jon Ireniccus
+[08/20/2024 00:49]  Valden: Valden
+[08/20/2024 00:49]  Paranoia Complex: Paranoia Complex
+[08/20/2024 00:49]  zNitro: zNitro
+[08/20/2024 00:49]  Alemor: Alemor
+[08/20/2024 00:49]  Two Right Hands: Two Right Hands
+[08/20/2024 00:49]  Inasi: Wizard
+[08/20/2024 00:49]  Inasi: [Recruit, G.G]
+[08/20/2024 00:49]  Inasi: Inasi
+[08/20/2024 00:49]  Mr.Lucky: Mr.Lucky
+[08/20/2024 00:49]  Varda: [Learners Permit, TES]
+[08/20/2024 00:49]  Varda: Varda
+[08/20/2024 00:49]  Repu: Repu
+[08/20/2024 00:49]  System: You have left the protection of the town guards.
+[08/20/2024 00:49]  Dopefiend: Dopefiend
+[08/20/2024 00:49]  Sibongile: Sibongile the battle trainer
+[08/20/2024 00:49]  Rangus: Rangus
+[08/20/2024 00:49]  Fandangoooo: [Druid, BEAR]
+[08/20/2024 00:49]  Fandangoooo: Fandangoooo
+[08/20/2024 00:49]  Senior: Senior
+[08/20/2024 00:49]  Yagia: Yagia
+[08/20/2024 00:49]  Grit Rockweary: Grit Rockweary
+[08/20/2024 00:49]  Vizzy: Vizzy
+[08/20/2024 00:49]  Liebe: Liebe
+[08/20/2024 00:49]  BigJoe Mufferaw: BigJoe Mufferaw
+[08/20/2024 00:49]  Temportal: Temportal
+[08/20/2024 00:49]  LuminousLlama: LuminousLlama
+[08/20/2024 00:49]  tehdizzy: tehdizzy
+[08/20/2024 00:49]  Wrynn Jaden: Domesticator
+[08/20/2024 00:49]  Wrynn Jaden: Wrynn Jaden
+[08/20/2024 00:49]  OneEyeWilly: OneEyeWilly
+[08/20/2024 00:49]  Kane Thun: [Lookout, brg]
+[08/20/2024 00:49]  Kane Thun: Kane Thun
+[08/20/2024 00:49]  BurningMadTree: BurningMadTree
+[08/20/2024 00:49]  Magmabox: Magmabox
+[08/20/2024 00:49]  HatE.BrEEd: HatE.BrEEd
+[08/20/2024 00:49]  Grindrrr: Grindrrr
+[08/20/2024 00:49]  Spider Monkey: Spider Monkey
+[08/20/2024 00:49]  Yosemite'Sam: Yosemite'Sam
+[08/20/2024 00:49]  Tea's Scam Vendor: Tea's Scam Vendor
+[08/20/2024 00:49]  Smithy Plate & Weps: Smithy Plate & Weps
+[08/20/2024 00:49]  PREV MG - CORES/RARE: PREV MG - CORES/RARE
+[08/20/2024 00:49]  PREV MG - LORE/LINKS: PREV MG - LORE/LINKS
+[08/20/2024 00:49]  CHEAP SHIMMER CLOTH!: CHEAP SHIMMER CLOTH!
+[08/20/2024 00:49]  Cheapest Ocean Hip: Cheapest Ocean Hip
+[08/20/2024 00:49]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[08/20/2024 00:49]  This and That!: This and That!
+[08/20/2024 00:49]  RECSU: RECSU
+[08/20/2024 00:49]  Mary Jane's Shop: Mary Jane's Shop
+[08/20/2024 00:49]  Don Slayote's Wares: Don Slayote's Wares
+[08/20/2024 00:49]  PREVALIA MOONGATE: PREVALIA MOONGATE
+[08/20/2024 00:49]  Amish's Shop - 8/17: Amish's Shop - 8/17
+[08/20/2024 00:49]  Bunny's Junk: Bunny's Junk
+[08/20/2024 00:49]  Prev Moongate: Prev Moongate
+[08/20/2024 00:49]  SILVER LINKS!!!!!!!!: SILVER LINKS!!!!!!!!
+[08/20/2024 00:49]  GOLDY IS (3: GOLDY IS (3
+[08/20/2024 00:49]  System: You are now under the protection of the town guards.
+[08/20/2024 00:49]  Pip Reed: Pip Reed
+[08/20/2024 00:49]  [Razor]: Steps: 0
+[08/20/2024 00:49]  MCD/MAPS/RARES/LINKS: MCD/MAPS/RARES/LINKS
+[08/20/2024 00:49]  120Tailor&Cheaper: 120Tailor&Cheaper
+[08/20/2024 00:49]  PARAIBA: PARAIBA
+[08/20/2024 00:49]  Dungeon Loot: Dungeon Loot
+[08/20/2024 00:49]  CHEAP MAN: CHEAP MAN
+[08/20/2024 00:49]  **Consumer Goods**: **Consumer Goods**
+[08/20/2024 00:49]  BuBu(Pirata2): BuBu(Pirata2)
+[08/20/2024 00:49]  a wolf: a wolf
+[08/20/2024 00:49]  CORES DISTILLS SHIT: CORES DISTILLS SHIT
+[08/20/2024 00:49]  CHEAP AS FACKS: CHEAP AS FACKS
+[08/20/2024 00:49]  Kalea: Kalea
+[08/20/2024 00:49]  SCRIBE+BOOKS: SCRIBE+BOOKS
+[08/20/2024 00:49]  BULK REGS BULK REGS: BULK REGS BULK REGS
+[08/20/2024 00:49]  CHEAP: CHEAP
+[08/20/2024 00:49]  Bernard: Bernard
+[08/20/2024 00:49]  BOARDS BOARDS BOARDS: BOARDS BOARDS BOARDS
+[08/20/2024 00:49]  LOTS OF TOTS: LOTS OF TOTS
+[08/20/2024 00:49]  *Cheap Dungeon Loot*: *Cheap Dungeon Loot*
+[08/20/2024 00:49]  Chromatic cores: Chromatic cores
+[08/20/2024 00:49]  BULK REGS BULK REGS: BULK REGS BULK REGS
+[08/20/2024 00:49]  Ish's Goodies: Ish's Goodies
+[08/20/2024 00:49]  Starter Mage/Vet: Starter Mage/Vet
+[08/20/2024 00:49]  Gandalf's Goods: Gandalf's Goods
+[08/20/2024 00:49]  Quinn: Quinn
+[08/20/2024 00:49]  Mintors Cheap Stuff: Mintors Cheap Stuff
+[08/20/2024 00:49]  Erik: Erik
+[08/20/2024 00:49]  Flourish and Blotts: Flourish and Blotts
+[08/20/2024 00:49]  Runako: Runako
+[08/20/2024 00:49]  Potion 4.5K Each: Potion 4.5K Each
+[08/20/2024 00:49]  ^^ ANDARIA MG ^^: ^^ ANDARIA MG ^^
+[08/20/2024 00:49]  MONALISA: MONALISA
+[08/20/2024 00:49]  Cores/Distills/Xbows: Cores/Distills/Xbows
+[08/20/2024 00:49]  Color Wood: Color Wood
+[08/20/2024 00:49]  FOOD/INGOTS/LEATHER: FOOD/INGOTS/LEATHER
+[08/20/2024 00:49]  Greek: Greek
+[08/20/2024 00:49]  Resources commodity: Resources commodity
+[08/20/2024 00:49]  Big Reds Market: Big Reds Market
+[08/20/2024 00:49]  BULK REGS BULK REGS: BULK REGS BULK REGS
+[08/20/2024 00:49]  Urk Vendor itemz: Urk Vendor itemz
+[08/20/2024 00:49]  MORE MUNCHIES!: MORE MUNCHIES!
+[08/20/2024 00:49]  Top Tinker: Top Tinker
+[08/20/2024 00:49]  MASTERY SCROLLS: MASTERY SCROLLS
+[08/20/2024 00:49]  Shimer: Shimer
+[08/20/2024 00:49]  Grom- Wares: Grom- Wares
+[08/20/2024 00:49]  ALCHEMY ALCHEMY: ALCHEMY ALCHEMY
+[08/20/2024 00:49]  KyHu: KyHu
+[08/20/2024 00:49]  Ragbag the Fence: Ragbag the Fence
+[08/20/2024 00:49]  a goat: a goat
+[08/20/2024 00:49]  System: You have left the protection of the town guards.
+[08/20/2024 00:49]  Anissa: Anissa the farmer
+[08/20/2024 00:49]  Marjorie: Marjorie the lumberjack
+[08/20/2024 00:49]  Ravi: Ravi the farmer
+[08/20/2024 00:49]  a sheep: a sheep
+[08/20/2024 00:49]  a sheep: a sheep
+[08/20/2024 00:49]  a sheep: a sheep
+[08/20/2024 00:49]  a cow: a cow
+[08/20/2024 00:49]  System: You are now under the protection of the town guards.
+[08/20/2024 00:49]  Ines: Ines the alchemist
+[08/20/2024 00:49]  Mae: Mae the herbalist
+[08/20/2024 00:49]  Shani: Shani the mage
+[08/20/2024 00:49]  Kelli: Kelli the mage
+[08/20/2024 00:49]  Garz: [Ripe, SQzD]
+[08/20/2024 00:49]  Garz: Garz
+[08/20/2024 00:49]  Oriole: Oriole the dockmaster
+[08/20/2024 00:49]  Cassidy: Cassidy the salvage foreman
+[08/20/2024 00:49]  Slevin: Slevin the scribe
+[08/20/2024 00:49]  Leiko: Leiko the carpenter
+[08/20/2024 00:49]  Brina: Brina the thief
+[08/20/2024 00:49]  Seymour: Seymour the carpenter
+[08/20/2024 00:49]  Kalman: Kalman the healer
+[08/20/2024 00:49]  Namazzi: Namazzi the provisioner
+[08/20/2024 00:49]  Ramsay: Ramsay the shipwright
+[08/20/2024 00:49]  an andarian footman: an andarian footman
+[08/20/2024 00:49]  Karayan: Karayan the bowyer
+[08/20/2024 00:49]  Stephani: Stephani the ranger
+[08/20/2024 00:49]  Sean: Sean the waiter
+[08/20/2024 00:49]  a cat: a cat
+[08/20/2024 00:49]  a cat: a cat
+[08/20/2024 00:49]  Jung: Jung the cook
+[08/20/2024 00:49]  an andarian mage: an andarian mage
+[08/20/2024 00:49]  Thurston: Thurston the carpenter
+[08/20/2024 00:49]  Stephani: Stephani the ranger
+[08/20/2024 00:49]  Stephani: Greetings.  Have a look around.
+[08/20/2024 00:49]  Karayan: Karayan the bowyer
+[08/20/2024 00:50]  Karayan: Karayan the bowyer
+[08/20/2024 00:50]  : wooden shingles
+[08/20/2024 00:50]  Karayan: Karayan the bowyer
+[08/20/2024 00:50]  Karayan: Greetings.  Have a look around.
+[08/20/2024 00:50]  Karayan: Begging thy pardon, but thy bank account lacks these funds.
+[08/20/2024 00:50]  Jung: Jung the cook
+[08/20/2024 00:50]  Karayan: Karayan the bowyer
+[08/20/2024 00:50]  Karayan: Greetings.  Have a look around.
+[08/20/2024 00:50]  Karayan: Begging thy pardon, but thy bank account lacks these funds.
+[08/20/2024 00:50]  Thurston: Thurston the carpenter
+[08/20/2024 00:50]  an andarian mage: an andarian mage
+[08/20/2024 00:50]  Thurston: Thurston the carpenter
+[08/20/2024 00:50]  Jung: Jung the cook
+[08/20/2024 00:50]  Sean: Sean the waiter
+[08/20/2024 00:50]  Ramsay: Ramsay the shipwright
+[08/20/2024 00:50]  a cat: a cat
+[08/20/2024 00:50]  an andarian footman: an andarian footman
+[08/20/2024 00:50]  a cat: a cat
+[08/20/2024 00:50]  Kalman: Kalman the healer
+[08/20/2024 00:50]  Brina: Brina the thief
+[08/20/2024 00:51]  Karlenne: Karlenne the real estate broker
+[08/20/2024 00:51]  Seymour: Seymour the carpenter
+[08/20/2024 00:51]  Seymour: Seymour the carpenter
+[08/20/2024 00:51]  Leiko: Leiko the carpenter
+[08/20/2024 00:51]  Oriole: Oriole the dockmaster
+[08/20/2024 00:51]  Cassidy: Cassidy the salvage foreman
+[08/20/2024 00:51]  Slevin: Slevin the scribe
+[08/20/2024 00:51]  Ines: Ines the alchemist
+[08/20/2024 00:51]  Shani: Shani the mage
+[08/20/2024 00:51]  Kelli: Kelli the mage
+[08/20/2024 00:51]  Grum Tang: [Councilor, Yew]
+[08/20/2024 00:51]  Grum Tang: Grum Tang
+[08/20/2024 00:51]  Mae: Mae the herbalist
+[08/20/2024 00:51]  a sheep: a sheep
+[08/20/2024 00:51]  a sheep: a sheep
+[08/20/2024 00:51]  a cow: a cow
+[08/20/2024 00:51]  Ravi: Ravi the farmer
+[08/20/2024 00:51]  System: You have left the protection of the town guards.
+[08/20/2024 00:51]  a sheep: a sheep
+[08/20/2024 00:51]  Anissa: Anissa the farmer
+[08/20/2024 00:51]  a goat: a goat
+[08/20/2024 00:51]  Marjorie: Marjorie the lumberjack
+[08/20/2024 00:51]  BULK REGS BULK REGS: BULK REGS BULK REGS
+[08/20/2024 00:51]  Mintors Cheap Stuff: Mintors Cheap Stuff
+[08/20/2024 00:51]  Erik: Erik
+[08/20/2024 00:51]  Ish's Goodies: Ish's Goodies
+[08/20/2024 00:51]  Quinn: Quinn
+[08/20/2024 00:51]  Flourish and Blotts: Flourish and Blotts
+[08/20/2024 00:51]  ^^ ANDARIA MG ^^: ^^ ANDARIA MG ^^
+[08/20/2024 00:51]  Starter Mage/Vet: Starter Mage/Vet
+[08/20/2024 00:51]  Gandalf's Goods: Gandalf's Goods
+[08/20/2024 00:51]  Runako: Runako
+[08/20/2024 00:51]  Potion 4.5K Each: Potion 4.5K Each
+[08/20/2024 00:51]  ALCHEMY ALCHEMY: ALCHEMY ALCHEMY
+[08/20/2024 00:51]  Cores/Distills/Xbows: Cores/Distills/Xbows
+[08/20/2024 00:51]  Shimer: Shimer
+[08/20/2024 00:51]  Urk Vendor itemz: Urk Vendor itemz
+[08/20/2024 00:51]  Greek: Greek
+[08/20/2024 00:51]  Ragbag the Fence: Ragbag the Fence
+[08/20/2024 00:51]  BULK REGS BULK REGS: BULK REGS BULK REGS
+[08/20/2024 00:51]  Color Wood: Color Wood
+[08/20/2024 00:51]  Grom- Wares: Grom- Wares
+[08/20/2024 00:51]  Big Reds Market: Big Reds Market
+[08/20/2024 00:51]  KyHu: KyHu
+[08/20/2024 00:51]  MORE MUNCHIES!: MORE MUNCHIES!
+[08/20/2024 00:51]  MASTERY SCROLLS: MASTERY SCROLLS
+[08/20/2024 00:51]  System: You are now under the protection of the town guards.
+[08/20/2024 00:51]  CORES DISTILLS SHIT: CORES DISTILLS SHIT
+[08/20/2024 00:51]  CHEAP AS FACKS: CHEAP AS FACKS
+[08/20/2024 00:51]  Kalea: Kalea
+[08/20/2024 00:51]  SCRIBE+BOOKS: SCRIBE+BOOKS
+[08/20/2024 00:51]  BULK REGS BULK REGS: BULK REGS BULK REGS
+[08/20/2024 00:51]  CHEAP: CHEAP
+[08/20/2024 00:51]  Bernard: Bernard
+[08/20/2024 00:51]  BOARDS BOARDS BOARDS: BOARDS BOARDS BOARDS
+[08/20/2024 00:51]  LOTS OF TOTS: LOTS OF TOTS
+[08/20/2024 00:51]  *Cheap Dungeon Loot*: *Cheap Dungeon Loot*
+[08/20/2024 00:51]  Chromatic cores: Chromatic cores
+[08/20/2024 00:51]  MCD/MAPS/RARES/LINKS: MCD/MAPS/RARES/LINKS
+[08/20/2024 00:51]  120Tailor&Cheaper: 120Tailor&Cheaper
+[08/20/2024 00:51]  PARAIBA: PARAIBA
+[08/20/2024 00:51]  Dungeon Loot: Dungeon Loot
+[08/20/2024 00:51]  CHEAP MAN: CHEAP MAN
+[08/20/2024 00:51]  **Consumer Goods**: **Consumer Goods**
+[08/20/2024 00:51]  BuBu(Pirata2): BuBu(Pirata2)
+[08/20/2024 00:51]  [Razor]: Steps: 0
+[08/20/2024 00:51]  GOLDY IS (3: GOLDY IS (3
+[08/20/2024 00:51]  Don Slayote's Wares: Don Slayote's Wares
+[08/20/2024 00:51]  PREVALIA MOONGATE: PREVALIA MOONGATE
+[08/20/2024 00:51]  Amish's Shop - 8/17: Amish's Shop - 8/17
+[08/20/2024 00:51]  Bunny's Junk: Bunny's Junk
+[08/20/2024 00:51]  Mary Jane's Shop: Mary Jane's Shop
+[08/20/2024 00:51]  Prev Moongate: Prev Moongate
+[08/20/2024 00:51]  SILVER LINKS!!!!!!!!: SILVER LINKS!!!!!!!!
+[08/20/2024 00:51]  Tea's Scam Vendor: Tea's Scam Vendor
+[08/20/2024 00:51]  Smithy Plate & Weps: Smithy Plate & Weps
+[08/20/2024 00:51]  Cheapest Ocean Hip: Cheapest Ocean Hip
+[08/20/2024 00:51]  PREV MG - CORES/RARE: PREV MG - CORES/RARE
+[08/20/2024 00:51]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[08/20/2024 00:51]  PREV MG - LORE/LINKS: PREV MG - LORE/LINKS
+[08/20/2024 00:51]  This and That!: This and That!
+[08/20/2024 00:51]  CHEAP SHIMMER CLOTH!: CHEAP SHIMMER CLOTH!
+[08/20/2024 00:51]  RECSU: RECSU
+[08/20/2024 00:51]  **SHADOW FURN* 11/6: **SHADOW FURN* 11/6
+[08/20/2024 00:51]  XTREME LOOT 11/6: XTREME LOOT 11/6
+[08/20/2024 00:51]  Dopefiend: Dopefiend
+[08/20/2024 00:51]  HatE.BrEEd: HatE.BrEEd
+[08/20/2024 00:51]  Tevesh: Tevesh
+[08/20/2024 00:51]  Arr Three: Legendary Scribe
+[08/20/2024 00:51]  Arr Three: Lord Arr Three
+[08/20/2024 00:51]  Sibongile: Sibongile the battle trainer
+[08/20/2024 00:51]  Grindrrr: Grindrrr
+[08/20/2024 00:51]  The Ringmaster: The Ringmaster
+[08/20/2024 00:51]  Rangus: Rangus
+[08/20/2024 00:51]  Fandangoooo: [Druid, BEAR]
+[08/20/2024 00:51]  Fandangoooo: Fandangoooo
+[08/20/2024 00:51]  Senior: Senior
+[08/20/2024 00:51]  Lexxer: Lexxer
+[08/20/2024 00:51]  Yagia: Yagia
+[08/20/2024 00:51]  Stinkfinger: Stinkfinger
+[08/20/2024 00:51]  Grit Rockweary: Grit Rockweary
+[08/20/2024 00:51]  Mist: Mist
+[08/20/2024 00:51]  Vizzy: Vizzy
+[08/20/2024 00:51]  Grom Anak: Grom Anak
+[08/20/2024 00:51]  Liebe: Liebe
+[08/20/2024 00:51]  BigJoe Mufferaw: BigJoe Mufferaw
+[08/20/2024 00:51]  Temportal: Temportal
+[08/20/2024 00:51]  LuminousLlama: LuminousLlama
+[08/20/2024 00:51]  Fruta Doce: Fruta Doce
+[08/20/2024 00:51]  Jon Ireniccus: [Nordico, BRvk]
+[08/20/2024 00:51]  Jon Ireniccus: Jon Ireniccus
+[08/20/2024 00:51]  tehdizzy: tehdizzy
+[08/20/2024 00:51]  Wrynn Jaden: Domesticator
+[08/20/2024 00:51]  Wrynn Jaden: Wrynn Jaden
+[08/20/2024 00:51]  OneEyeWilly: OneEyeWilly
+[08/20/2024 00:51]  Valden: Valden
+[08/20/2024 00:51]  Paranoia Complex: Paranoia Complex
+[08/20/2024 00:51]  zNitro: zNitro
+[08/20/2024 00:51]  Spider Monkey: Spider Monkey
+[08/20/2024 00:51]  Yosemite'Sam: Yosemite'Sam
+[08/20/2024 00:51]  Alemor: Alemor
+[08/20/2024 00:51]  Two Right Hands: Two Right Hands
+[08/20/2024 00:51]  Inasi: Wizard
+[08/20/2024 00:51]  Inasi: [Recruit, G.G]
+[08/20/2024 00:51]  Inasi: Inasi
+[08/20/2024 00:51]  Mr.Lucky: Mr.Lucky
+[08/20/2024 00:51]  Kane Thun: [Lookout, brg]
+[08/20/2024 00:51]  Kane Thun: Kane Thun
+[08/20/2024 00:51]  Varda: [Learners Permit, TES]
+[08/20/2024 00:51]  Varda: Varda
+[08/20/2024 00:51]  Magmabox: Magmabox
+[08/20/2024 00:51]  Repu: Repu
+[08/20/2024 00:51]  Pip Reed: Pip Reed
+[08/20/2024 00:51]  HIGH END WOOD&INGOTS: HIGH END WOOD&INGOTS
+[08/20/2024 00:51]  Treasure Chest: Treasure Chest
+[08/20/2024 00:51]  Prevalia MG: Prevalia MG
+[08/20/2024 00:51]  SHIP STUFF: SHIP STUFF
+[08/20/2024 00:51]  DeathRider OG: DeathRider OG
+[08/20/2024 00:51]  System: Freakules has completed the achievement: Serial Killer (Basic).
+[08/20/2024 00:51]  System: You have left the protection of the town guards.
+[08/20/2024 00:51]  Spellbooks 52K: Spellbooks 52K
+[08/20/2024 00:51]  ...: ...
+[08/20/2024 00:51]  ...: ...
+[08/20/2024 00:51]  ...: ...
+[08/20/2024 00:51]  ...: ...
+[08/20/2024 00:52]  System: Being perfectly rested, you shove them out of the way.
+[08/20/2024 00:52]  SILVER LINKS!!!!!!!!: SILVER LINKS!!!!!!!!
+[08/20/2024 00:52]  Razor: Attack: Sibongile
+[08/20/2024 00:52]  System: Tactics skillgain: 1.005%
+[08/20/2024 00:52]  Sibongile: -4
+[08/20/2024 00:52]  BurningMadTree: BurningMadTree
+[08/20/2024 00:52]  System: Bahgie has completed the achievement: Guardian of Kraul Hive (Basic).
+[08/20/2024 00:52]  System: Tactics skillgain: 0.999%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.994%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.989%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.989%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.984%
+[08/20/2024 00:52]  Sibongile: -4
+[08/20/2024 00:52]  System: Tactics skillgain: 0.979%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.974%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.974%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.969%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  Harvestovic: Harvestovic
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Your skill in Focus has decreased by 0.1.  It is now 15.1.
+[08/20/2024 00:52]  System: Your skill in Tactics has increased by 0.1.  It is now 86.0.
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  Sibongile: -4
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  Sibongile: -4
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  Sibongile: -4
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  Sibongile: -4
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  Sibongile: -4
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: RON tailor has completed the achievement: Order of Armorers Initiate.
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:52]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  Sibongile: -4
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  Sibongile: -4
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  Sibongile: -4
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  Sibongile: -4
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:53]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  Borcheg: Borcheg
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  Sibongile: -4
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  Sibongile: -4
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  Sibongile: -4
+[08/20/2024 00:54]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  Sibongile: -3
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  Sibongile: -4
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  Sibongile: -3
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  Sibongile: -4
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Your skill in Focus has decreased by 0.1.  It is now 15.0.
+[08/20/2024 00:54]  System: Your skill in Tactics has increased by 0.1.  It is now 86.1.
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  MezierWhere: [Hostile Peasant, HOST]
+[08/20/2024 00:54]  MezierWhere: MezierWhere
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:54]  Sibongile: -4
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  Sibongile: -4
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Your skill in Focus has decreased by 0.1.  It is now 14.9.
+[08/20/2024 00:55]  System: Your skill in Tactics has increased by 0.1.  It is now 86.2.
+[08/20/2024 00:55]  BurningMadTree: BurningMadTree
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  MezierWhere: [Hostile Peasant, HOST]
+[08/20/2024 00:55]  MezierWhere: MezierWhere
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  Sibongile: -3
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  Sibongile: -4
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  The Ringmaster: The Ringmaster
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  Sibongile: -3
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  Sibongile: -2
+[08/20/2024 00:55]  CupOfTea: [Veteran, Path]
+[08/20/2024 00:55]  CupOfTea: CupOfTea
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  Sibongile: -3
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  Sibongile: -4
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  Sibongile: *shocked*
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  Freddie Mercuryy: Freddie Mercuryy
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:55]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  an earth elemental: (summoned)
+[08/20/2024 00:56]  an earth elemental: an earth elemental
+[08/20/2024 00:56]  an earth elemental: (summoned)
+[08/20/2024 00:56]  an earth elemental: an earth elemental
+[08/20/2024 00:56]  Kilcannon: [Syn]
+[08/20/2024 00:56]  Kilcannon: Lord Kilcannon
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  Mirakulix: Mirakulix
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  Sibongile: -3
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  an earth elemental: *regens*
+[08/20/2024 00:56]  Kilcannon: Kal Ort Por
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  Sibongile: -4
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  VeryHotBoy: [Officer, SD]
+[08/20/2024 00:56]  VeryHotBoy: VeryHotBoy
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  a horse: (bonded)
+[08/20/2024 00:56]  a horse: a horse
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  Sibongile: -3
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  Sibongile: -3
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  Harvestovic: Harvestovic
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  Sibongile: -4
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  Sibongile: -4
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Your skill in Focus has decreased by 0.1.  It is now 14.8.
+[08/20/2024 00:56]  System: Your skill in Tactics has increased by 0.1.  It is now 86.3.
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:56]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -4
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  xposipx: xposipx
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Harvestovic: Harvestovic
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -4
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -4
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -4
+[08/20/2024 00:57]  MezierWhere: [Hostile Peasant, HOST]
+[08/20/2024 00:57]  MezierWhere: MezierWhere
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Ana Rose has completed the achievement: Leatherworker (Basic).
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -3
+[08/20/2024 00:57]  Abram Cobhammer: Master of Aspects
+[08/20/2024 00:57]  Abram Cobhammer: Lord Abram Cobhammer
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -4
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -4
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -4
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -3
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:57]  Sibongile: -4
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Sibongile: -4
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Emeryy: Emeryy
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Sibongile: -4
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Sibongile: -4
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Sibongile: -3
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Sibongile: -4
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Sibongile: -4
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Sibongile: -4
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Sibongile: -3
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  Sibongile: -4
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:58]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Sibongile: -4
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Sibongile: -4
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Your skill in Focus has decreased by 0.1.  It is now 14.7.
+[08/20/2024 00:59]  System: Your skill in Tactics has increased by 0.1.  It is now 86.4.
+[08/20/2024 00:59]  System: KewlHandLuke has completed the achievement: Monster Hunter Luminary.
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Your skill in Focus has decreased by 0.1.  It is now 14.6.
+[08/20/2024 00:59]  System: Your skill in Tactics has increased by 0.1.  It is now 86.5.
+[08/20/2024 00:59]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  faito: faito
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Sibongile: -3
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Sibongile: -3
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Malaghor: Malaghor
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Sibongile: -4
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Sibongile: -3
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Ta Ta Tailor: Ta Ta Tailor
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Sibongile: -4
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  Sibongile: -3
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 00:59]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Your skill in Focus has decreased by 0.1.  It is now 14.5.
+[08/20/2024 01:00]  System: Your skill in Tactics has increased by 0.1.  It is now 86.6.
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  Sibongile: -3
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Sinista has completed the achievement: Triggered (Advanced).
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  a frenzied wisp: a frenzied wisp
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  Sibongile: -4
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  Sibongile: -4
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  Sibongile: -3
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  Sibongile: -4
+[08/20/2024 01:00]  MezierWhere: [Hostile Peasant, HOST]
+[08/20/2024 01:00]  MezierWhere: MezierWhere
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:00]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  Sibongile: -4
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Your skill in Focus has decreased by 0.1.  It is now 14.4.
+[08/20/2024 01:01]  System: Your skill in Tactics has increased by 0.1.  It is now 86.7.
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  Rose Hallowbane: Rose Hallowbane
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  Sibongile: -4
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  Sibongile: -4
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  Sibongile: -3
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  Sibongile: -4
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Your skill in Focus has decreased by 0.1.  It is now 14.3.
+[08/20/2024 01:01]  System: Your skill in Tactics has increased by 0.1.  It is now 86.8.
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  Sibongile: -4
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  Sibongile: -4
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:01]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Freddie Mercuryy: Freddie Mercuryy
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  a frenzied wisp: a frenzied wisp
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -4
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -4
+[08/20/2024 01:02]  a frenzied wisp: a frenzied wisp
+[08/20/2024 01:02]  Lumberjackjill: [Book Worm, CtS]
+[08/20/2024 01:02]  Lumberjackjill: Lumberjackjill
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  a horse: (tame)
+[08/20/2024 01:02]  a horse: a horse
+[08/20/2024 01:02]  M: (bonded)
+[08/20/2024 01:02]  M: M
+[08/20/2024 01:02]  K: (bonded)
+[08/20/2024 01:02]  K: K
+[08/20/2024 01:02]  Sumbich: Sumbich
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -3
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -4
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -3
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -4
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -4
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -4
+[08/20/2024 01:02]  a horse: (bonded)
+[08/20/2024 01:02]  a horse: a horse
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Rimmy: [Recruit, N@KD]
+[08/20/2024 01:02]  Rimmy: Rimmy
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -4
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -4
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -4
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Puggles has completed the achievement: Beastmaster (Intermediate).
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  Sibongile: -3
+[08/20/2024 01:02]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:02]  System: Your skill in Focus has decreased by 0.1.  It is now 14.2.
+[08/20/2024 01:02]  System: Your skill in Tactics has increased by 0.1.  It is now 86.9.
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  Sibongile: -3
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  Sibongile: -3
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  Sibongile: -3
+[08/20/2024 01:03]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Kotuzu has completed the achievement: Versatility (Basic).
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  Sibongile: -3
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  Sibongile: -4
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  Sibongile: -4
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: The world will save in 15 seconds.
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  Sibongile: -3
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  Sibongile: -3
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:03]  System: The world is saving, please wait.
+[08/20/2024 01:03]  System: World save complete. The entire process took 2.6 seconds.
+[08/20/2024 01:03]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  VeryHotBoy: [Officer, SD]
+[08/20/2024 01:04]  VeryHotBoy: VeryHotBoy
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  Vandalism: [The Tavern], [tT]
+[08/20/2024 01:04]  Vandalism: Vandalism
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  Sibongile: -4
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  Sibongile: -4
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  Sibongile: -4
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  Sibongile: -4
+[08/20/2024 01:04]  System: Sykosis has completed the achievement: Summoning (Basic).
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  VeryHotBoy: [Officer, SD]
+[08/20/2024 01:04]  VeryHotBoy: VeryHotBoy
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  Sibongile: -4
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  el Ratero: el Ratero
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:04]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Og the Great has completed the achievement: Nobility (Basic).
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  VeryHotBoy: Des Mani
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  VeryHotBoy: In Por Ylem
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Sefirus: Sefirus
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Dissodence: Lord Dissodence
+[08/20/2024 01:05]  Guy Threepwood: Guy Threepwood
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  VeryHotBoy: [Officer, SD]
+[08/20/2024 01:05]  VeryHotBoy: VeryHotBoy
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Sibongile: -4
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Sibongile: -4
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Dissodence: Lord Dissodence
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Sibongile: -4
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Sibongile: -4
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Sibongile: -4
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Sibongile: -4
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Sibongile: -4
+[08/20/2024 01:05]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:05]  Sibongile: -4
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  Sibongile: -3
+[08/20/2024 01:06]  Mr.Lucky: Mr.Lucky
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  Vandalism: [The Tavern], [tT]
+[08/20/2024 01:06]  Vandalism: Vandalism
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  Sibongile: -3
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  Sibongile: -4
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  Sibongile: -4
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  Sibongile: -4
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  Rimmy: [Recruit, N@KD]
+[08/20/2024 01:06]  Rimmy: Rimmy
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:06]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  Sibongile: -2
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  Sibongile: -2
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  Sibongile: -2
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  lopp: lopp
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  Sibongile: -3
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  Sibongile: -4
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  Voltio: Voltio
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  Sibongile: -4
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  Sibongile: -3
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  Duemos: Duemos
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:07]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  BigJoe Mufferaw: BigJoe Mufferaw
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  BigJoe Mufferaw: BigJoe Mufferaw
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -4
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -3
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -3
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Kulprit: Kulprit
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -2
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -3
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Your skill in Focus has decreased by 0.1.  It is now 14.1.
+[08/20/2024 01:08]  System: Your skill in Tactics has increased by 0.1.  It is now 87.0.
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -4
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Lyza Lii: Legendary Backstabber
+[08/20/2024 01:08]  Lyza Lii: [Marbles Map Designer, CtS]
+[08/20/2024 01:08]  Lyza Lii: Lady Lyza Lii
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -4
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -4
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -4
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  Sibongile: -4
+[08/20/2024 01:08]  Evil Drake: [Man! I love Beaaah!, CtS]
+[08/20/2024 01:08]  Evil Drake: Lord Evil Drake
+[08/20/2024 01:08]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:08]  a llama: (bonded)
+[08/20/2024 01:08]  a llama: a llama
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Sibongile: -3
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Sibongile: -4
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: PoisonDhaart has completed the achievement: Guardian of Ossuary (Basic).
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Harvestovic: Harvestovic
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Sibongile: -4
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Svenomenal: Svenomenal
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Sibongile: -4
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Obedience: Obedience
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Sibongile: -4
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Sibongile: -4
+[08/20/2024 01:09]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:09]  Sibongile: -4
+[08/20/2024 01:09]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Your skill in Focus has decreased by 0.1.  It is now 14.0.
+[08/20/2024 01:10]  System: Your skill in Tactics has increased by 0.1.  It is now 87.1.
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  Sibongile: -3
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  Sibongile: -4
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  Sibongile: -4
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  Sibongile: -4
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  Sibongile: -3
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Han Swoleoh has completed the achievement: Aspect Mastery (Basic).
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  Sibongile: -4
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  faito: faito
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  Sibongile: -4
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  VeryHotBoy: [Officer, SD]
+[08/20/2024 01:10]  VeryHotBoy: VeryHotBoy
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  L: (bonded)
+[08/20/2024 01:10]  L: L
+[08/20/2024 01:10]  M: (bonded)
+[08/20/2024 01:10]  M: M
+[08/20/2024 01:10]  K: (bonded)
+[08/20/2024 01:10]  K: K
+[08/20/2024 01:10]  Sumbich: Sumbich
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:10]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  Fishing Tism: Fishing Tism
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  Sibongile: -4
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  Sibongile: -4
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  Sibongile: -3
+[08/20/2024 01:11]  System: Ini Kedi has completed the achievement: Pilferer (Basic).
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  Sibongile: -4
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  Sibongile: -4
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  Sibongile: -4
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  Xikraz: Xikraz
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  Sibongile: -4
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:11]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  Sibongile: -3
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  Sibongile: -4
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  Sibongile: -4
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  iMDMA: Backstabber
+[08/20/2024 01:12]  iMDMA: iMDMA
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  Sibongile: -4
+[08/20/2024 01:12]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  Sibongile: -4
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:12]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  Sibongile: -4
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Your skill in Focus has decreased by 0.1.  It is now 13.9.
+[08/20/2024 01:13]  System: Your skill in Tactics has increased by 0.1.  It is now 87.2.
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  Sibongile: -4
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  Sibongile: -4
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  Sibongile: -3
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  sol rae: [Stowaway, P.S.]
+[08/20/2024 01:13]  sol rae: sol rae
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  Sibongile: -4
+[08/20/2024 01:13]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  Sibongile: -4
+[08/20/2024 01:13]  Gweedo: Gweedo
+[08/20/2024 01:13]  Gweedo: Gweedo
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:13]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Wrynn Jaden: Bank Guards Stables
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -4
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Xikraz: Xikraz
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  The Butler II: The Butler II
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -4
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -4
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -4
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Ivanoff Chipp: [New Player, NP$]
+[08/20/2024 01:14]  Ivanoff Chipp: Ivanoff Chipp
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -3
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -4
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -3
+[08/20/2024 01:14]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[08/20/2024 01:14]  VeryHotBoy: [Officer, SD]
+[08/20/2024 01:14]  VeryHotBoy: VeryHotBoy
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Gweedo: Gweedo
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  VeryHotBoy: [Officer, SD]
+[08/20/2024 01:14]  VeryHotBoy: VeryHotBoy
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -4
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -4
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -4
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -3
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:14]  Sibongile: -4
+[08/20/2024 01:14]  Xikraz: Xikraz
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  Sibongile: -4
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  Sibongile: -4
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  Sibongile: -4
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  Sibongile: -4
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  Sibongile: -4
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  Sibongile: -4
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:15]  System: Your skill in Focus has decreased by 0.1.  It is now 13.8.
+[08/20/2024 01:15]  System: Your skill in Tactics has increased by 0.1.  It is now 87.3.
+[08/20/2024 01:15]  Sibongile: -4
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  Sibongile: -3
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  Sibongile: -4
+[08/20/2024 01:16]  Sibongile: *shocked*
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  Sibongile: -4
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  Sibongile: -4
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Sepphoria has completed the achievement: Scribe (Epic).
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  Sibongile: -4
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:16]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -4
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -4
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -3
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -4
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -4
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -4
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -4
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -3
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -4
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Anti-Life: [Hostile Miner, HOST]
+[08/20/2024 01:17]  Anti-Life: Anti-Life
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -4
+[08/20/2024 01:17]  Gweedo: Gweedo
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Stictecs: [Citizen, Yew]
+[08/20/2024 01:17]  Stictecs: Stictecs
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  links: Enhanced [Terran]
+[08/20/2024 01:17]  links: [Recruit, EVIL]
+[08/20/2024 01:17]  links: links
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  Sibongile: -4
+[08/20/2024 01:17]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:17]  VeryHotBoy: [Officer, SD]
+[08/20/2024 01:17]  VeryHotBoy: VeryHotBoy
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  Sibongile: -4
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  Iridium: [Recruit, G.G]
+[08/20/2024 01:18]  Iridium: Iridium
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  Sibongile: -4
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  Sibongile: -4
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  Power Shell: [Membro, BRA]
+[08/20/2024 01:18]  Power Shell: Power Shell
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: The world will save in 15 seconds.
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: The world is saving, please wait.
+[08/20/2024 01:18]  System: World save complete. The entire process took 2.6 seconds.
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  Sibongile: -2
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  Sibongile: -4
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  Sibongile: -4
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:18]  Sibongile: -4
+[08/20/2024 01:18]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: MyCruels has completed the achievement: Landowner (Advanced).
+[08/20/2024 01:19]  System: MyCruels has completed the achievement: Landowner (Epic).
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  Sibongile: -4
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  Sibongile: -3
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  Iridium: [Recruit, G.G]
+[08/20/2024 01:19]  Iridium: Iridium
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  Sibongile: -4
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  Sibongile: -4
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  Sibongile: -4
+[08/20/2024 01:19]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  Sibongile: -4
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  Sibongile: -4
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:19]  Sibongile: -2
+[08/20/2024 01:19]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  Sibongile: -1
+[08/20/2024 01:20]  Old Magnus: Old Magnus
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Sethvar o'Nidar has completed the achievement: Beastial Slayer (Basic).
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  Sibongile: -3
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Mortley has completed the achievement: Versatility (Basic).
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  Sibongile: -4
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  Sibongile: -4
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:20]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  Sibongile: -4
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  Sibongile: -4
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  Sibongile: -4
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  Sibongile: -4
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  Sibongile: -4
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  Sibongile: -4
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Your skill in Focus has decreased by 0.1.  It is now 13.7.
+[08/20/2024 01:21]  System: Your skill in Tactics has increased by 0.1.  It is now 87.4.
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  Grafa: Grafa
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:21]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -4
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -3
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -4
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -3
+[08/20/2024 01:22]  Xikraz: Xikraz
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  sol rae: [Stowaway, P.S.]
+[08/20/2024 01:22]  sol rae: sol rae
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -3
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Your skill in Focus has decreased by 0.1.  It is now 13.6.
+[08/20/2024 01:22]  System: Your skill in Tactics has increased by 0.1.  It is now 87.5.
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -4
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Old Magnus: Old Magnus
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Nicol Bolas has completed the achievement: Wizard (Basic).
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -4
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -4
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -4
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  Sibongile: -4
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:22]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:23]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:23]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:23]  Sibongile: -4
+[08/20/2024 01:23]  System: Jobsworth jimmy has completed the achievement: Order of Armorers Initiate.
+[08/20/2024 01:23]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:23]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:23]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:23]  System: Tactics skillgain: 0.964%
+[08/20/2024 01:23]  Sibongile: -3

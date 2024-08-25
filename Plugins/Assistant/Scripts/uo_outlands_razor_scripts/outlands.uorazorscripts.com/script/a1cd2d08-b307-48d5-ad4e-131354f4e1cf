@@ -1,0 +1,87 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/a1cd2d08-b307-48d5-ad4e-131354f4e1cf for latest
+# Automation by Jaseowns
+## Script: Bapeth's Ocean Deck Poisoner
+## Created by: barryroser#0
+#############################################
+
+# Bapeths Ship Deck Poisoner
+#
+# This script will search for enemy crewmembers
+# And will poison them if they are not poisoned
+#
+# Script starts here
+if mana >= 9 and not targetexists 
+    for 25
+        hotkey "Next Monster Target"
+        @setvar enemycrew lasttarget
+        if noto "enemycrew" = "hostile"
+            getlabel enemycrew desc
+            if "Ticks" in desc 
+                //do nothing
+            elseif "Poison" in desc
+                //do nothing
+            elseif not targetexists and find enemycrew ground -1 -1 12
+                hotkey '> Interrupt'
+                hotkey 'Cancel Current Target'
+                cast "Poison"
+                wft 2000
+                target enemycrew
+                hotkey "Cancel Current Target"
+                pause 250
+                replay
+            endif
+        elseif noto "enemycrew" = "criminal"
+            getlabel enemycrew desc
+            if "Ticks" in desc
+                //do nothing
+            elseif "Poison" in desc
+                //do nothing
+            elseif not targetexists and find enemycrew ground -1 -1 12
+                hotkey '> Interrupt'
+                hotkey 'Cancel Current Target'
+                cast "Poison"
+                wft 2000
+                target enemycrew
+                hotkey "Cancel Current Target"
+                pause 250
+                replay
+            endif
+        elseif noto "enemycrew" = "murderer"
+            getlabel enemycrew desc
+            if "Ticks" in desc
+                //do nothing
+            elseif "Poison" in desc
+                //do nothing
+            elseif not targetexists and find enemycrew ground -1 -1 12
+                hotkey '> Interrupt'
+                hotkey 'Cancel Current Target'
+                cast "Poison"
+                wft 2000
+                target enemycrew
+                hotkey "Cancel Current Target"
+                pause 250
+                replay
+            endif
+        elseif noto "enemycrew" = "enemy"
+            getlabel enemycrew desc
+            if "Ticks" in desc
+                //do nothing
+            elseif "Poison" in desc
+                //do nothing
+            elseif not targetexists and find enemycrew ground -1 -1 12
+                hotkey '> Interrupt'
+                hotkey 'Cancel Current Target'
+                cast "Poison"
+                wft 2000
+                target enemycrew
+                hotkey "Cancel Current Target"
+                pause 250
+                replay
+            endif
+        endif
+    endfor
+else 
+    overhead "Not enough mana..." 38
+endif
+script "Master Background"
+stop

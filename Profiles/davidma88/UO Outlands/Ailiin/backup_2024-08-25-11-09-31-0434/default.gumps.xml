@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="3" matrix_h="1">
+		<gump type="7" x="684" y="1008" serial="1017" name="Target Self" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="772" y="1008" serial="1016" name="Last Target" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="860" y="1008" serial="1019" name="LastObject" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="1" matrix_h="2">
+		<gump type="7" x="1275" y="962" serial="1028" name="TargetNearest" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1275" y="1006" serial="1033" name="TargetNearest1" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="3" matrix_h="3">
+		<gump type="7" x="1388" y="932" serial="1029" name="PeaceNearest" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="1476" y="932" serial="0" id="9" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="1476" y="932" serial="0" id="9" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="1388" y="976" serial="1034" name="DiscNearest" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="1476" y="976" serial="0" id="15" matrix_x="1" matrix_y="1" />
+		<gump type="16" x="1476" y="976" serial="0" id="15" matrix_x="2" matrix_y="1" />
+		<gump type="7" x="1388" y="1020" serial="1038" name="ProvokNearest" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="2" />
+		<gump type="16" x="1476" y="1020" serial="0" id="22" matrix_x="1" matrix_y="2" />
+		<gump type="16" x="1476" y="1020" serial="0" id="22" matrix_x="2" matrix_y="2" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="7" x="1096" y="69" serial="1035" name="NobleSacr" graphicId="110" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1160" y="69" serial="1036" name="HolyLight" graphicId="111" hideLabel="False" scale="1" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<gump type="4" x="1089" y="3" serial="5891706" />
+	<gump type="9" x="1597" y="5" serial="5891706" isminimized="False" />
+	<gump type="3" x="1882" y="-3" serial="0" rows="27" columns="1" rectsize="40">
+		<controls>
+			<control graphic="3852" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3852" hue="0" key="119" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3847" hue="0" key="101" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3847" hue="0" key="114" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="0" hue="0" key="103" mousebutton="0" alt="False" ctrl="False" shift="False" />
+			<control graphic="3849" hue="0" />
+			<control graphic="3846" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="7956" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3762" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3973" hue="0" />
+			<control graphic="3739" hue="0" />
+			<control graphic="11888" hue="0" />
+			<control graphic="11884" hue="0" />
+			<control graphic="8786" hue="0" />
+			<control graphic="24436" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3821" hue="0" />
+		</controls>
+	</gump>
+	<gump type="10" x="1543" y="740" serial="0" isminimized="False" height="340" />
+	<gump type="2" x="1524" y="393" serial="1547581360" graphic="60" isminimized="False" />
+	<gump type="7" x="1751" y="340" serial="1022" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="1" x="1531" y="10" serial="0" graphic="30079" direction="0" />
+	<gump type="25" x="766" y="26" serial="0" entryname="skill" />
+	<gump type="5" x="766" y="2" serial="0" />
+	<gump type="16" x="1473" y="837" serial="0" id="21" />
+	<gump type="8" x="-149" y="298" serial="0" isminimized="False" />
+	<gump type="24" x="919" y="27" serial="0" />
+	<gump type="21" x="459" y="875" serial="0" />
+	<gump type="18" x="0" y="29" serial="0" />
+	<gump type="6" x="8" y="802" serial="0" />
+</gumps>

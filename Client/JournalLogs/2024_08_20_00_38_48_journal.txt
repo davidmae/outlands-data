@@ -1,0 +1,2179 @@
+[08/20/2024 00:38]  System: WorldMap loading...
+[08/20/2024 00:38]  System: Loading WorldMap markers..
+[08/20/2024 00:38]  System: ..Banks_and_Healers.xml (39)
+[08/20/2024 00:38]  System: ..Dungeons.xml (13)
+[08/20/2024 00:38]  System: ..Dungeon_Gates.xml (388)
+[08/20/2024 00:38]  System: ..Healer_Caravans.xml (42)
+[08/20/2024 00:38]  System: ..Kings_Faire.xml (43)
+[08/20/2024 00:38]  System: ..Moongates.xml (10)
+[08/20/2024 00:38]  System: ..POI.xml (251)
+[08/20/2024 00:38]  System: ..PvP_Locations.xml (71)
+[08/20/2024 00:38]  System: ..Shrines.xml (9)
+[08/20/2024 00:38]  System: ..Sub-Dungeons.xml (4)
+[08/20/2024 00:38]  System: ..Townships.xml (10)
+[08/20/2024 00:38]  System: ..UOAM_Atlas.xml (1887)
+[08/20/2024 00:38]  System: ..UOAM_T-Map.xml (255)
+[08/20/2024 00:38]  System: ..UOAM_Treasure.xml (523)
+[08/20/2024 00:38]  System: WorldMap markers loaded (3545)
+[08/20/2024 00:38]  System: Welcome Jaimito!
+[08/20/2024 00:38]  Jaimito: Your mount finds a quiet place to rest safely.
+[08/20/2024 00:38]  Jaimito: Jaimito
+[08/20/2024 00:38]  Behind Jungle Junct: Behind Jungle Junct
+[08/20/2024 00:38]  The Merchant: [The Junction Scanner, CtS]
+[08/20/2024 00:38]  The Merchant: The Merchant
+[08/20/2024 00:38]  CtS Corner Store: [CtS only]
+[08/20/2024 00:38]  CtS Corner Store: CtS Corner Store
+[08/20/2024 00:38]  Shallan Devar: [Recruit, vD]
+[08/20/2024 00:38]  Shallan Devar: Shallan Devar
+[08/20/2024 00:38]  FAFE`s Shop: FAFE`s Shop
+[08/20/2024 00:38]  Zie's Vendor: Zie's Vendor
+[08/20/2024 00:38]  Sam's ID Wands!: Sam's ID Wands!
+[08/20/2024 00:38]  Drakes' Wench: Drakes' Wench
+[08/20/2024 00:38]  Req's Goods: Req's Goods
+[08/20/2024 00:38]  Janna: Janna
+[08/20/2024 00:38]  NotYourBehr'sGoods: NotYourBehr'sGoods
+[08/20/2024 00:38]  Gamble: Gamble
+[08/20/2024 00:38]  Sam's BOOM Boxes!: Sam's BOOM Boxes!
+[08/20/2024 00:38]  RandomJunk+Comms: RandomJunk+Comms
+[08/20/2024 00:38]  Boards/Cores/Rando: Boards/Cores/Rando
+[08/20/2024 00:38]  Woodies Goodies: Woodies Goodies
+[08/20/2024 00:38]  Stanky Snooj: Stanky Snooj
+[08/20/2024 00:38]  Thetmes Jr: Thetmes Jr
+[08/20/2024 00:38]  Elyrions Essentials: Elyrions Essentials
+[08/20/2024 00:38]  Mac-Mart: Mac-Mart
+[08/20/2024 00:38]  Sully's Shop: Sully's Shop
+[08/20/2024 00:38]  JoefishUK: JoefishUK
+[08/20/2024 00:38]  The Splash Pad: The Splash Pad
+[08/20/2024 00:38]  Lockpicking Finds: Lockpicking Finds
+[08/20/2024 00:38]  All the Goodz: All the Goodz
+[08/20/2024 00:38]  RUPPIE DUPPIE: RUPPIE DUPPIE
+[08/20/2024 00:38]  Dash Loot: Dash Loot
+[08/20/2024 00:38]  Loot'R'US: Loot'R'US
+[08/20/2024 00:38]  Senon: Senon
+[08/20/2024 00:38]  Sam's Random Stuff!: Sam's Random Stuff!
+[08/20/2024 00:38]  Knucks Goods: Knucks Goods
+[08/20/2024 00:38]  Rutlands Delights: Rutlands Delights
+[08/20/2024 00:38]  Rizzles Wares: Rizzles Wares
+[08/20/2024 00:38]  Behrlythere: Behrlythere
+[08/20/2024 00:38]  ag Random Crap: ag Random Crap
+[08/20/2024 00:38]  Tai: Tai the battle trainer
+[08/20/2024 00:38]  Ruby's SS and Tmaps: Ruby's SS and Tmaps
+[08/20/2024 00:38]  Core,Leather,Etc: Core,Leather,Etc
+[08/20/2024 00:38]  ag Gear: ag Gear
+[08/20/2024 00:38]  Emerald's Rare Goods: Emerald's Rare Goods
+[08/20/2024 00:38]  The Kmart: The Kmart
+[08/20/2024 00:38]  Loot Daddy Fresh: Loot Daddy Fresh
+[08/20/2024 00:38]  Trevshop: Trevshop
+[08/20/2024 00:38]  Krally Klaus: Krally Klaus
+[08/20/2024 00:38]  (K)amA Mart: (K)amA Mart
+[08/20/2024 00:38]  Cat Daddy: Cat Daddy
+[08/20/2024 00:38]  Adiran: Adiran
+[08/20/2024 00:38]  Spiritbasher: Spiritbasher
+[08/20/2024 00:38]  Dah Ruffian: [Officer, KAW]
+[08/20/2024 00:38]  Dah Ruffian: Dah Ruffian
+[08/20/2024 00:38]  Darksun: Darksun
+[08/20/2024 00:38]  Carvah: Carvah
+[08/20/2024 00:38]  BearMart: BearMart
+[08/20/2024 00:38]  ag Scrolls: ag Scrolls
+[08/20/2024 00:38]  SLUG MARKET: SLUG MARKET
+[08/20/2024 00:38]  Chungite Reseller: Chungite Reseller
+[08/20/2024 00:38]  FOUNDERS: FOUNDERS
+[08/20/2024 00:38]  Aurek: Aurek
+[08/20/2024 00:38]  Kras Corner: Kras Corner
+[08/20/2024 00:38]  Cores and Such!: Cores and Such!
+[08/20/2024 00:38]  Lyris: Lyris
+[08/20/2024 00:38]  a crow: a crow
+[08/20/2024 00:38]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[08/20/2024 00:38]  System: WorldMap loaded!
+[08/20/2024 00:40]  Kul: Backstabber
+[08/20/2024 00:40]  Kul: Lord Kul
+[08/20/2024 00:40]  System: Praetorians (P) guild has reached prestige level 80.
+[08/20/2024 00:40]  System: Am Shaegaer has completed the achievement: Artificer (Epic).
+[08/20/2024 00:41]  System: Grimpeh Grimpson has completed the achievement: Weaponmastery (Basic).
+[08/20/2024 00:41]  Kul: Backstabber
+[08/20/2024 00:41]  Kul: Lord Kul
+[08/20/2024 00:41]  KillaRup: [CtS]
+[08/20/2024 00:41]  KillaRup: Lord KillaRup
+[08/20/2024 00:42]  a crow: a crow
+[08/20/2024 00:42]  Carvah: Carvah
+[08/20/2024 00:42]  Hibiscus Pick: Legendary Tinker
+[08/20/2024 00:42]  Hibiscus Pick: [Tipsy, GIT]
+[08/20/2024 00:42]  Hibiscus Pick: Hibiscus Pick
+[08/20/2024 00:43]  System: Arakali has completed the achievement: Guardian of The Mausoleum (Basic).
+[08/20/2024 00:44]  OMallsScanGirl: OMallsScanGirl
+[08/20/2024 00:44]  Kul: Backstabber
+[08/20/2024 00:44]  Kul: Lord Kul
+[08/20/2024 00:44]  System: Mas Borracho has completed the achievement: Nobility (Basic).
+[08/20/2024 00:45]  System: Pyewacket has completed the achievement: Connoisseur (Advanced).
+[08/20/2024 00:45]  a crow: a crow
+[08/20/2024 00:45]  System: Jaggo Norris has completed the achievement: Skinner (Basic).
+[08/20/2024 00:45]  System: Giorgio Cagani has completed the achievement: Culinary Savvy (Advanced).
+[08/20/2024 00:45]  System: [TS] A Town Struggle (mounts allowed) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[08/20/2024 00:46]  Von-Richten: Maester
+[08/20/2024 00:46]  Von-Richten: [Sage, CtS]
+[08/20/2024 00:46]  Von-Richten: Lord Von-Richten
+[08/20/2024 00:46]  Razor: Attack: Tai
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 72.7.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 0.4.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 72.3.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 0.8.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 71.9.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 1.2.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 71.5.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 1.6.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 71.1.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 2.0.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 70.7.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 2.4.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 70.3.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 2.8.
+[08/20/2024 00:46]  Tai: -1
+[08/20/2024 00:46]  System: Snooping skillgain: 11.302%
+[08/20/2024 00:46]  : You successfully avoid disturbing the dip while searching it.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 69.9.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 3.2.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 69.5.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 3.6.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 69.1.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 4.0.
+[08/20/2024 00:46]  Tai: -1
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 68.7.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 4.4.
+[08/20/2024 00:46]  Tai: -1
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 68.3.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 4.8.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.4.  It is now 67.9.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.4.  It is now 5.2.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.2.  It is now 67.7.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.2.  It is now 5.4.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.2.  It is now 67.5.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.2.  It is now 5.6.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.2.  It is now 67.3.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.2.  It is now 5.8.
+[08/20/2024 00:46]  Tai: -1
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.2.  It is now 67.1.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.2.  It is now 6.0.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.2.  It is now 66.9.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.2.  It is now 6.2.
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.2.  It is now 66.7.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.2.  It is now 6.4.
+[08/20/2024 00:46]  Tai: -1
+[08/20/2024 00:46]  System: Wrestling skillgain: 100%
+[08/20/2024 00:46]  System: Your skill in Musicianship has decreased by 0.2.  It is now 66.5.
+[08/20/2024 00:46]  System: Your skill in Wrestling has increased by 0.2.  It is now 6.6.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 66.3.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 6.8.
+[08/20/2024 00:47]  Tai: -1
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 66.1.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 7.0.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 65.9.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 7.2.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 65.7.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 7.4.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 65.5.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 7.6.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 65.3.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 7.8.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 65.1.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 8.0.
+[08/20/2024 00:47]  Tai: -1
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 64.9.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 8.2.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 64.7.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 8.4.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 64.5.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 8.6.
+[08/20/2024 00:47]  Tai: -1
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 64.3.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 8.8.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 64.1.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 9.0.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 63.9.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 9.2.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 63.7.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 9.4.
+[08/20/2024 00:47]  Tai: -1
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 63.5.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 9.6.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 63.3.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 9.8.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 63.1.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 10.0.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 62.9.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 10.2.
+[08/20/2024 00:47]  Tai: -1
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 62.7.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 10.4.
+[08/20/2024 00:47]  Tai: -1
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 62.5.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 10.6.
+[08/20/2024 00:47]  Tai: -1
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 62.3.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 10.8.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 62.1.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 11.0.
+[08/20/2024 00:47]  Tai: -1
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 61.9.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 11.2.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 61.7.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 11.4.
+[08/20/2024 00:47]  System: Wrestling skillgain: 100%
+[08/20/2024 00:47]  System: Your skill in Musicianship has decreased by 0.2.  It is now 61.5.
+[08/20/2024 00:47]  System: Your skill in Wrestling has increased by 0.2.  It is now 11.6.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 61.3.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 11.8.
+[08/20/2024 00:48]  Kul: Backstabber
+[08/20/2024 00:48]  Kul: Lord Kul
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 61.1.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 12.0.
+[08/20/2024 00:48]  Tai: -1
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 60.9.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 12.2.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 60.7.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 12.4.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 60.5.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 12.6.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 60.3.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 12.8.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 60.1.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 13.0.
+[08/20/2024 00:48]  Tai: -1
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 59.9.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 13.2.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 59.7.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 13.4.
+[08/20/2024 00:48]  OMallsScanGirl: OMallsScanGirl
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 59.5.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 13.6.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 59.3.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 13.8.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 59.1.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 14.0.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 58.9.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 14.2.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 58.7.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 14.4.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 58.5.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 14.6.
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 58.3.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 14.8.
+[08/20/2024 00:48]  Tai: -1
+[08/20/2024 00:48]  System: Wrestling skillgain: 100%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.2.  It is now 58.1.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.2.  It is now 15.0.
+[08/20/2024 00:48]  Tai: -1
+[08/20/2024 00:48]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:48]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.1.  It is now 58.0.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.1.  It is now 15.1.
+[08/20/2024 00:48]  Tai: -1
+[08/20/2024 00:48]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.9.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.1.  It is now 15.2.
+[08/20/2024 00:48]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.8.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.1.  It is now 15.3.
+[08/20/2024 00:48]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.7.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.1.  It is now 15.4.
+[08/20/2024 00:48]  Tai: -1
+[08/20/2024 00:48]  System: The world will save in 15 seconds.
+[08/20/2024 00:48]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.6.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.1.  It is now 15.5.
+[08/20/2024 00:48]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.5.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.1.  It is now 15.6.
+[08/20/2024 00:48]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:48]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.4.
+[08/20/2024 00:48]  System: Your skill in Wrestling has increased by 0.1.  It is now 15.7.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.3.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 15.8.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.2.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 15.9.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.1.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.0.
+[08/20/2024 00:49]  Tai: -1
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 57.0.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.1.
+[08/20/2024 00:49]  System: The world is saving, please wait.
+[08/20/2024 00:49]  System: World save complete. The entire process took 2.6 seconds.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.9.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.2.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.8.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.3.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.7.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.4.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.6.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.5.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.5.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.6.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.4.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.7.
+[08/20/2024 00:49]  Tai: -1
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.3.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.8.
+[08/20/2024 00:49]  Tai: -1
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.2.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 16.9.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.1.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.0.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  Tai: -1
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 56.0.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.1.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.9.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.2.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.8.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.3.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.7.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.4.
+[08/20/2024 00:49]  Tai: -1
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.6.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.5.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.5.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.6.
+[08/20/2024 00:49]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:49]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.4.
+[08/20/2024 00:49]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.7.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.3.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.8.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.2.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 17.9.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.1.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.0.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 55.0.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.1.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.9.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.2.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.8.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.3.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.7.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.4.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.6.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.5.
+[08/20/2024 00:50]  Tai: -2
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.5.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.6.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.4.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.7.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.3.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.8.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.2.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 18.9.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.1.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.0.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 54.0.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.1.
+[08/20/2024 00:50]  Tai: -1
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.9.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.2.
+[08/20/2024 00:50]  Tai: -1
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.8.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.3.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  Tai: -1
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.7.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.4.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.6.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.5.
+[08/20/2024 00:50]  Tai: -1
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.5.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.6.
+[08/20/2024 00:50]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:50]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.4.
+[08/20/2024 00:50]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.7.
+[08/20/2024 00:51]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.3.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.8.
+[08/20/2024 00:51]  Tai: -1
+[08/20/2024 00:51]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.2.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 19.9.
+[08/20/2024 00:51]  System: Wrestling skillgain: 80.645%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.1.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.0.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 53.0.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.1.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.9.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.2.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.8.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.3.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.7.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.4.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.6.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.5.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  Tai: -1
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.5.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.6.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.4.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.7.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.3.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.8.
+[08/20/2024 00:51]  Tai: -1
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  Tai: -1
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.2.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 20.9.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.1.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.0.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 52.0.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.1.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Freakules has completed the achievement: Serial Killer (Basic).
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  Tai: -1
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.9.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.2.
+[08/20/2024 00:51]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:51]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.8.
+[08/20/2024 00:51]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.3.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Bahgie has completed the achievement: Guardian of Kraul Hive (Basic).
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.7.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.4.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.6.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.5.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.5.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.6.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.4.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.7.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.3.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.8.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  Tai: -1
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.2.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 21.9.
+[08/20/2024 00:52]  Tai: -1
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.1.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.0.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 51.0.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.1.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.9.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.2.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.8.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.3.
+[08/20/2024 00:52]  System: RON tailor has completed the achievement: Order of Armorers Initiate.
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:52]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.7.
+[08/20/2024 00:52]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.4.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.6.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.5.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.5.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.6.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  Tai: -1
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.4.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.7.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.3.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.8.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.2.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 22.9.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.1.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.0.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 50.0.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.1.
+[08/20/2024 00:53]  Tai: -1
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.9.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.2.
+[08/20/2024 00:53]  Tai: -1
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.8.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.3.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.7.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.4.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.6.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.5.
+[08/20/2024 00:53]  Tai: -1
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.5.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.6.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.4.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.7.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.3.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.8.
+[08/20/2024 00:53]  Tai: -1
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.2.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 23.9.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.1.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.0.
+[08/20/2024 00:53]  Tai: -1
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:53]  System: Your skill in Musicianship has decreased by 0.1.  It is now 49.0.
+[08/20/2024 00:53]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.1.
+[08/20/2024 00:53]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.9.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.2.
+[08/20/2024 00:54]  Tai: -1
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.8.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.3.
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.7.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.4.
+[08/20/2024 00:54]  Tai: -1
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.6.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.5.
+[08/20/2024 00:54]  Tai: -1
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.5.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.6.
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.4.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.7.
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.3.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.8.
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.2.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 24.9.
+[08/20/2024 00:54]  Tai: -1
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  Tai: -1
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Wrestling skillgain: 64.516%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.1.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.0.
+[08/20/2024 00:54]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:54]  Zie: [Me, punching bag? Really?, CtS]
+[08/20/2024 00:54]  Zie: Lord Zie
+[08/20/2024 00:54]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 48.0.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.1.
+[08/20/2024 00:54]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:54]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:54]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.9.
+[08/20/2024 00:54]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.2.
+[08/20/2024 00:54]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:54]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:54]  Tai: -1
+[08/20/2024 00:54]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:54]  Tai: -1
+[08/20/2024 00:54]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:54]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:54]  Tai: -1
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.8.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.3.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.7.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.4.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.6.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.5.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.5.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.6.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.4.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.7.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.3.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.8.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.2.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 25.9.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.1.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.0.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 47.0.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.1.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.9.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.2.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.8.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.3.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.7.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.4.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.6.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.5.
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.5.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.6.
+[08/20/2024 00:55]  Tai: -1
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.4.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.7.
+[08/20/2024 00:55]  Tai: -1
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.3.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.8.
+[08/20/2024 00:55]  Emeryy: Emeryy
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.2.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 26.9.
+[08/20/2024 00:55]  Tai: -1
+[08/20/2024 00:55]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:55]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.1.
+[08/20/2024 00:55]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.0.
+[08/20/2024 00:55]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 46.0.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.1.
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.9.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.2.
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.8.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.3.
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.7.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.4.
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.6.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.5.
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  a crow: a crow
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.5.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.6.
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.4.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.7.
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.3.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.8.
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.2.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 27.9.
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.1.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.0.
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 45.0.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.1.
+[08/20/2024 00:56]  Tai: -1
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.9.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.2.
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:56]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.8.
+[08/20/2024 00:56]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.3.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.7.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.4.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  Tai: -1
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.6.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.5.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.5.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.6.
+[08/20/2024 00:57]  Lyza Lii: Legendary Backstabber
+[08/20/2024 00:57]  Lyza Lii: [Marbles Map Designer, CtS]
+[08/20/2024 00:57]  Lyza Lii: Lady Lyza Lii
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.4.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.7.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.3.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.8.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.2.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 28.9.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.1.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.0.
+[08/20/2024 00:57]  Tai: -1
+[08/20/2024 00:57]  System: Ana Rose has completed the achievement: Leatherworker (Basic).
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 44.0.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.1.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.9.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.2.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.8.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.3.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  Tai: -1
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  Tai: -1
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.7.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.4.
+[08/20/2024 00:57]  Tai: -1
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.6.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.5.
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.5.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.6.
+[08/20/2024 00:57]  Tai: -1
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.4.
+[08/20/2024 00:57]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.7.
+[08/20/2024 00:57]  Tai: -1
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:57]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:58]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:58]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.3.
+[08/20/2024 00:58]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.8.
+[08/20/2024 00:58]  Tai: -1
+[08/20/2024 00:58]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:58]  Tai: -1
+[08/20/2024 00:58]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:58]  Tai: -1
+[08/20/2024 00:58]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:58]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.2.
+[08/20/2024 00:58]  System: Your skill in Wrestling has increased by 0.1.  It is now 29.9.
+[08/20/2024 00:58]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:58]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:58]  System: Wrestling skillgain: 53.763%
+[08/20/2024 00:58]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.1.
+[08/20/2024 00:58]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.0.
+[08/20/2024 00:58]  Tai: -1
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Your skill in Musicianship has decreased by 0.1.  It is now 43.0.
+[08/20/2024 00:58]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.1.
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  Tai: -1
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.9.
+[08/20/2024 00:58]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.2.
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  Tai: -1
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.8.
+[08/20/2024 00:58]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.3.
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  Tai: -1
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  Lyza Lii: Legendary Backstabber
+[08/20/2024 00:58]  Lyza Lii: [Marbles Map Designer, CtS]
+[08/20/2024 00:58]  Lyza Lii: Lady Lyza Lii
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  Tai: -1
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.7.
+[08/20/2024 00:58]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.4.
+[08/20/2024 00:58]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:58]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.6.
+[08/20/2024 00:58]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.5.
+[08/20/2024 00:59]  Lyza Lii: Legendary Backstabber
+[08/20/2024 00:59]  Lyza Lii: [Marbles Map Designer, CtS]
+[08/20/2024 00:59]  Lyza Lii: Lady Lyza Lii
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.5.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.6.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.4.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.7.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.3.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.8.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.2.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 30.9.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.1.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.0.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 42.0.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.1.
+[08/20/2024 00:59]  System: KewlHandLuke has completed the achievement: Monster Hunter Luminary.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.9.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.2.
+[08/20/2024 00:59]  Tai: -1
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.8.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.3.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.7.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.4.
+[08/20/2024 00:59]  Tai: -1
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.6.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.5.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.5.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.6.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.4.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.7.
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  Tai: -1
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.3.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.8.
+[08/20/2024 00:59]  Tai: -1
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.2.
+[08/20/2024 00:59]  System: Your skill in Wrestling has increased by 0.1.  It is now 31.9.
+[08/20/2024 00:59]  Tai: -1
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 00:59]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.1.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.0.
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 41.0.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.1.
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.9.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.2.
+[08/20/2024 01:00]  Xiaobai: [Praetor, -_-]
+[08/20/2024 01:00]  Xiaobai: Xiaobai
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.8.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.3.
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.7.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.4.
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  System: Sinista has completed the achievement: Triggered (Advanced).
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.6.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.5.
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  Xiaobai: [Praetor, -_-]
+[08/20/2024 01:00]  Xiaobai: Xiaobai
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.5.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.6.
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.4.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.7.
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.3.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.8.
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  Tai: -1
+[08/20/2024 01:00]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:00]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.2.
+[08/20/2024 01:00]  System: Your skill in Wrestling has increased by 0.1.  It is now 32.9.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.1.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.0.
+[08/20/2024 01:01]  Tai: -1
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 40.0.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.1.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  Tai: -1
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.9.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.2.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  Tai: -1
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.8.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.3.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.7.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.4.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.6.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.5.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.5.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.6.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.4.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.7.
+[08/20/2024 01:01]  Tai: -1
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  Tai: -1
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  Tai: -1
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.3.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.8.
+[08/20/2024 01:01]  Tai: -1
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.2.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 33.9.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.1.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.0.
+[08/20/2024 01:01]  Tai: -1
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 39.0.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.1.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.9.
+[08/20/2024 01:01]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.2.
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:01]  Tai: -1
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  Tai: -1
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.8.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.3.
+[08/20/2024 01:02]  Tai: -1
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.7.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.4.
+[08/20/2024 01:02]  Tai: -1
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.6.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.5.
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.5.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.6.
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.4.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.7.
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.3.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.8.
+[08/20/2024 01:02]  Tai: -1
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.2.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 34.9.
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Wrestling skillgain: 46.083%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.1.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.0.
+[08/20/2024 01:02]  Tai: -1
+[08/20/2024 01:02]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:02]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 38.0.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.1.
+[08/20/2024 01:02]  Tai: -1
+[08/20/2024 01:02]  System: Puggles has completed the achievement: Beastmaster (Intermediate).
+[08/20/2024 01:02]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.9.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.2.
+[08/20/2024 01:02]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:02]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.8.
+[08/20/2024 01:02]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.3.
+[08/20/2024 01:02]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.7.
+[08/20/2024 01:03]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.4.
+[08/20/2024 01:03]  Tai: -1
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.6.
+[08/20/2024 01:03]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.5.
+[08/20/2024 01:03]  Tai: -1
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Kotuzu has completed the achievement: Versatility (Basic).
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  Tai: -1
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.5.
+[08/20/2024 01:03]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.6.
+[08/20/2024 01:03]  Tai: -1
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  Tai: -1
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: The world will save in 15 seconds.
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.4.
+[08/20/2024 01:03]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.7.
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.3.
+[08/20/2024 01:03]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.8.
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  a crow: a crow
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: The world is saving, please wait.
+[08/20/2024 01:03]  System: World save complete. The entire process took 2.6 seconds.
+[08/20/2024 01:03]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:03]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.2.
+[08/20/2024 01:03]  System: Your skill in Wrestling has increased by 0.1.  It is now 35.9.
+[08/20/2024 01:03]  Tai: -1
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.1.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.0.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 37.0.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.1.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.9.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.2.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.8.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.3.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.7.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.4.
+[08/20/2024 01:04]  Tai: -1
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.6.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.5.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  Tai: -1
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Sykosis has completed the achievement: Summoning (Basic).
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  Tai: -1
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.5.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.6.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  Tai: -1
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.4.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.7.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.3.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.8.
+[08/20/2024 01:04]  Tai: -1
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  Tai: -1
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.2.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 36.9.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  Tai: -1
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.1.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.0.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Your skill in Musicianship has decreased by 0.1.  It is now 36.0.
+[08/20/2024 01:04]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.1.
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:04]  System: Og the Great has completed the achievement: Nobility (Basic).
+[08/20/2024 01:04]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.9.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.2.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.8.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.3.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.7.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.4.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.6.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.5.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.5.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.6.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  Tai: -1
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.4.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.7.
+[08/20/2024 01:05]  Tai: -1
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.3.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.8.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.2.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 37.9.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  Tai: -1
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.1.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.0.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 35.0.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.1.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.9.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.2.
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.8.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.3.
+[08/20/2024 01:05]  Tai: -1
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  Tai: -1
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.7.
+[08/20/2024 01:05]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.4.
+[08/20/2024 01:05]  Tai: -1
+[08/20/2024 01:05]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:05]  Tai: -1
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.6.
+[08/20/2024 01:06]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.5.
+[08/20/2024 01:06]  Tai: -1
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.5.
+[08/20/2024 01:06]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.6.
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  Tai: -1
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  Tai: -1
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.4.
+[08/20/2024 01:06]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.7.
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  Tai: -1
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  Tai: -1
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.3.
+[08/20/2024 01:06]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.8.
+[08/20/2024 01:06]  Tai: -1
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:06]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.2.
+[08/20/2024 01:06]  System: Your skill in Wrestling has increased by 0.1.  It is now 38.9.
+[08/20/2024 01:06]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.1.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.0.
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  Tai: -1
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 34.0.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.1.
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  Tai: -1
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  Tai: -1
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.9.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.2.
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.8.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.3.
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.7.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.4.
+[08/20/2024 01:07]  Tai: -1
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.6.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.5.
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  Tai: -1
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  Tai: -1
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.5.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.6.
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.4.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.7.
+[08/20/2024 01:07]  Tai: -1
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.3.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.8.
+[08/20/2024 01:07]  Tai: -1
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.2.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 39.9.
+[08/20/2024 01:07]  System: Wrestling skillgain: 40.323%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.1.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.0.
+[08/20/2024 01:07]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:07]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:07]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:07]  Tai: -1
+[08/20/2024 01:07]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:07]  System: Your skill in Musicianship has decreased by 0.1.  It is now 33.0.
+[08/20/2024 01:07]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.1.
+[08/20/2024 01:07]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:07]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  Tai: -1
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  Tai: -1
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.9.
+[08/20/2024 01:08]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.2.
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  Tai: -1
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.8.
+[08/20/2024 01:08]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.3.
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.7.
+[08/20/2024 01:08]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.4.
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.6.
+[08/20/2024 01:08]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.5.
+[08/20/2024 01:08]  Tai: -1
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.5.
+[08/20/2024 01:08]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.6.
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.4.
+[08/20/2024 01:08]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.7.
+[08/20/2024 01:08]  Tai: -1
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.3.
+[08/20/2024 01:08]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.8.
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:08]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.2.
+[08/20/2024 01:08]  System: Your skill in Wrestling has increased by 0.1.  It is now 40.9.
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.1.
+[08/20/2024 01:09]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.0.
+[08/20/2024 01:09]  Tai: -1
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Your skill in Musicianship has decreased by 0.1.  It is now 32.0.
+[08/20/2024 01:09]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.1.
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.9.
+[08/20/2024 01:09]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.2.
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: PoisonDhaart has completed the achievement: Guardian of Ossuary (Basic).
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  Tai: -1
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  Tai: -1
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.8.
+[08/20/2024 01:09]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.3.
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  Tai: -1
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.7.
+[08/20/2024 01:09]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.4.
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.6.
+[08/20/2024 01:09]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.5.
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  Tai: -1
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.5.
+[08/20/2024 01:09]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.6.
+[08/20/2024 01:09]  Tai: -1
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  Tai: -1
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  Tai: -1
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  Tai: -1
+[08/20/2024 01:09]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:09]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.4.
+[08/20/2024 01:09]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.7.
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  Tai: -1
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.3.
+[08/20/2024 01:10]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.8.
+[08/20/2024 01:10]  Tai: -1
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  Tai: -1
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.2.
+[08/20/2024 01:10]  System: Your skill in Wrestling has increased by 0.1.  It is now 41.9.
+[08/20/2024 01:10]  System: Han Swoleoh has completed the achievement: Aspect Mastery (Basic).
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.1.
+[08/20/2024 01:10]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.0.
+[08/20/2024 01:10]  Tai: -1
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Your skill in Musicianship has decreased by 0.1.  It is now 31.0.
+[08/20/2024 01:10]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.1.
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.9.
+[08/20/2024 01:10]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.2.
+[08/20/2024 01:10]  Tai: -1
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:10]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.8.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.3.
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.7.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.4.
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  Tai: -1
+[08/20/2024 01:11]  System: Ini Kedi has completed the achievement: Pilferer (Basic).
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  Tai: -1
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.6.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.5.
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.5.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.6.
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.4.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.7.
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.3.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.8.
+[08/20/2024 01:11]  Tai: -1
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  Emeryy: Emeryy
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.2.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 42.9.
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  Tai: -1
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.1.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.0.
+[08/20/2024 01:11]  Tai: -1
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  Tai: -1
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  Tai: -1
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 30.0.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.1.
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.9.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.2.
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:11]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.8.
+[08/20/2024 01:11]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.3.
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.7.
+[08/20/2024 01:12]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.4.
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  Tai: -1
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.6.
+[08/20/2024 01:12]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.5.
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  Tai: -1
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  Tai: -1
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.5.
+[08/20/2024 01:12]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.6.
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.4.
+[08/20/2024 01:12]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.7.
+[08/20/2024 01:12]  Tai: -1
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  Emeryy: Emeryy
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.3.
+[08/20/2024 01:12]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.8.
+[08/20/2024 01:12]  a crow: a crow
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.2.
+[08/20/2024 01:12]  System: Your skill in Wrestling has increased by 0.1.  It is now 43.9.
+[08/20/2024 01:12]  Tai: -1
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:12]  Tai: -1
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  Tai: -1
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.1.
+[08/20/2024 01:13]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.0.
+[08/20/2024 01:13]  Tai: -1
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Your skill in Musicianship has decreased by 0.1.  It is now 29.0.
+[08/20/2024 01:13]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.1.
+[08/20/2024 01:13]  Tai: -1
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.9.
+[08/20/2024 01:13]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.2.
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.8.
+[08/20/2024 01:13]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.3.
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  Tai: -1
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.7.
+[08/20/2024 01:13]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.4.
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  Tai: -1
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.6.
+[08/20/2024 01:13]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.5.
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.5.
+[08/20/2024 01:13]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.6.
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.4.
+[08/20/2024 01:13]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.7.
+[08/20/2024 01:13]  Tai: -1
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:13]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.3.
+[08/20/2024 01:13]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.8.
+[08/20/2024 01:13]  Tai: -1
+[08/20/2024 01:13]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:14]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:14]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.2.
+[08/20/2024 01:14]  System: Your skill in Wrestling has increased by 0.1.  It is now 44.9.
+[08/20/2024 01:14]  Tai: -1
+[08/20/2024 01:14]  System: Wrestling skillgain: 35.842%
+[08/20/2024 01:14]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.1.
+[08/20/2024 01:14]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.0.
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  Tai: -1
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Your skill in Musicianship has decreased by 0.1.  It is now 28.0.
+[08/20/2024 01:14]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.1.
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.9.
+[08/20/2024 01:14]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.2.
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  Tai: -1
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  Tai: -1
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  Tai: -1
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.8.
+[08/20/2024 01:14]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.3.
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  Tai: -1
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.7.
+[08/20/2024 01:14]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.4.
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  Tai: -1
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  Tai: -1
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.6.
+[08/20/2024 01:14]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.5.
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:14]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  Tai: -1
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  Tai: -1
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  Tai: -1
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.5.
+[08/20/2024 01:15]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.6.
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.4.
+[08/20/2024 01:15]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.7.
+[08/20/2024 01:15]  Tai: -1
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.3.
+[08/20/2024 01:15]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.8.
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.2.
+[08/20/2024 01:15]  System: Your skill in Wrestling has increased by 0.1.  It is now 45.9.
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.1.
+[08/20/2024 01:15]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.0.
+[08/20/2024 01:15]  Tai: -1
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  Tai: -1
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  Tai: -1
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Your skill in Musicianship has decreased by 0.1.  It is now 27.0.
+[08/20/2024 01:15]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.1.
+[08/20/2024 01:15]  Tai: -1
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  Tai: -1
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.9.
+[08/20/2024 01:15]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.2.
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.8.
+[08/20/2024 01:15]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.3.
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  Rysn: Legendary Captain
+[08/20/2024 01:15]  Rysn: [Mutineer, DKR]
+[08/20/2024 01:15]  Rysn: Lady Rysn
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.7.
+[08/20/2024 01:15]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.4.
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:15]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.6.
+[08/20/2024 01:16]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.5.
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.5.
+[08/20/2024 01:16]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.6.
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.4.
+[08/20/2024 01:16]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.7.
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.3.
+[08/20/2024 01:16]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.8.
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.2.
+[08/20/2024 01:16]  System: Your skill in Wrestling has increased by 0.1.  It is now 46.9.
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:16]  System: Sepphoria has completed the achievement: Scribe (Epic).
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:16]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.1.
+[08/20/2024 01:16]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.0.
+[08/20/2024 01:16]  Tai: -1
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  Tai: -1
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  Tai: -1
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Your skill in Musicianship has decreased by 0.1.  It is now 26.0.
+[08/20/2024 01:17]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.1.
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.9.
+[08/20/2024 01:17]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.2.
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  Tai: -1
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.8.
+[08/20/2024 01:17]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.3.
+[08/20/2024 01:17]  Tai: -1
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  Tai: -1
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.7.
+[08/20/2024 01:17]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.4.
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.6.
+[08/20/2024 01:17]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.5.
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  Tai: -1
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:17]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.5.
+[08/20/2024 01:17]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.6.
+[08/20/2024 01:17]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.4.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.7.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.3.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.8.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.2.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 47.9.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.1.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.0.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: The world will save in 15 seconds.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  Tai: -1
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 25.0.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.1.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  Tai: -1
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.9.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.2.
+[08/20/2024 01:18]  Tai: -1
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.8.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.3.
+[08/20/2024 01:18]  Tai: -1
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: The world is saving, please wait.
+[08/20/2024 01:18]  System: World save complete. The entire process took 2.6 seconds.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.7.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.4.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  Tai: -1
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.6.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.5.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.5.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.6.
+[08/20/2024 01:18]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:18]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.4.
+[08/20/2024 01:18]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.7.
+[08/20/2024 01:18]  Tai: -1
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.3.
+[08/20/2024 01:19]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.8.
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: MyCruels has completed the achievement: Landowner (Advanced).
+[08/20/2024 01:19]  System: MyCruels has completed the achievement: Landowner (Epic).
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.2.
+[08/20/2024 01:19]  System: Your skill in Wrestling has increased by 0.1.  It is now 48.9.
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.1.
+[08/20/2024 01:19]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.0.
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Your skill in Musicianship has decreased by 0.1.  It is now 24.0.
+[08/20/2024 01:19]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.1.
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  Tai: -1
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.9.
+[08/20/2024 01:19]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.2.
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  Tai: -1
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  Tai: -1
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.8.
+[08/20/2024 01:19]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.3.
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.7.
+[08/20/2024 01:19]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.4.
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.6.
+[08/20/2024 01:19]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.5.
+[08/20/2024 01:19]  Tai: -1
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.5.
+[08/20/2024 01:19]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.6.
+[08/20/2024 01:19]  Tai: -1
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:19]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  System: Sethvar o'Nidar has completed the achievement: Beastial Slayer (Basic).
+[08/20/2024 01:20]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  Tai: -1
+[08/20/2024 01:20]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  Tai: -1
+[08/20/2024 01:20]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.4.
+[08/20/2024 01:20]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.7.
+[08/20/2024 01:20]  Tai: -1
+[08/20/2024 01:20]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.3.
+[08/20/2024 01:20]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.8.
+[08/20/2024 01:20]  Tai: -1
+[08/20/2024 01:20]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.2.
+[08/20/2024 01:20]  System: Your skill in Wrestling has increased by 0.1.  It is now 49.9.
+[08/20/2024 01:20]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  System: Wrestling skillgain: 32.258%
+[08/20/2024 01:20]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.1.
+[08/20/2024 01:20]  System: Your skill in Wrestling has increased by 0.1.  It is now 50.0.
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  Tai: -1
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Mortley has completed the achievement: Versatility (Basic).
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  Tai: -1
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  Tai: -1
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Your skill in Musicianship has decreased by 0.1.  It is now 23.0.
+[08/20/2024 01:20]  System: Your skill in Wrestling has increased by 0.1.  It is now 50.1.
+[08/20/2024 01:20]  Tai: -1
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  Tai: -1
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:20]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Your skill in Musicianship has decreased by 0.1.  It is now 22.9.
+[08/20/2024 01:21]  System: Your skill in Wrestling has increased by 0.1.  It is now 50.2.
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  Tai: -1
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Your skill in Musicianship has decreased by 0.1.  It is now 22.8.
+[08/20/2024 01:21]  System: Your skill in Wrestling has increased by 0.1.  It is now 50.3.
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:21]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Nicol Bolas has completed the achievement: Wizard (Basic).
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  Tai: -1
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Your skill in Musicianship has decreased by 0.1.  It is now 22.7.
+[08/20/2024 01:22]  System: Your skill in Wrestling has increased by 0.1.  It is now 50.4.
+[08/20/2024 01:22]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:22]  System: Jobsworth jimmy has completed the achievement: Order of Armorers Initiate.
+[08/20/2024 01:23]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:23]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:23]  Tai: -1
+[08/20/2024 01:23]  System: Wrestling skillgain: 7.416%
+[08/20/2024 01:23]  System: Wrestling skillgain: 7.416%

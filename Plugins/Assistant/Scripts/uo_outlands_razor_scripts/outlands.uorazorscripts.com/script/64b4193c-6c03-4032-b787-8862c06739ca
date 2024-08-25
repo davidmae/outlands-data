@@ -1,0 +1,429 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/64b4193c-6c03-4032-b787-8862c06739ca for latest
+# Automation by Jaseowns
+## Script: Bapeth's Ocean Ultimate Armageddon
+## Created by: barryroser#0
+#############################################
+
+# Bapeths Ship Ultimate Armageddon 
+#
+# This is a powerful one button deck wipe for fighting NPC ships
+#
+# Script is desinged for Necromancers
+# Best aspect is "Madness" but many other spell focused aspects work as well
+#
+# "****REQUIRED****"
+# Bapeths Ship Cooldowns xml file (copy paste into your characters Cooldown file)
+# "COPY" Link to get Bapeths Cooldowns "https://outlands.uorazorscripts.com/script/f1e41e2d-411e-461e-9fd0-c4fc2dc234b1"
+# "PASTE" FILE PATH : C:\Program Files (x86)\Ultima Online Outlands\ClassicUO\Data\Profiles\"YOUR-ACCOUNT-NAME"\UO Outlands\"YOUR-CHARACTER" Open file in notepad
+# The cooldowns with "Tigger Text" Must be adjusted to "your ships stats" and "your Wizard Grimoire upgrades" in the UO in game Options
+#
+# Script will loop into 'Master Background' if you have it in your script library
+#
+# This script will Mass curse, Necro Abilty, Chain Lightning, Meteor Swarm, and Pain spike
+#
+# Script starts here
+if not timerexists leylinetimer 
+    createtimer leylinetimer
+    settimer leylinetimer 3000
+endif
+if mana <= 96 and timer leylinetimer >= 3000 
+    say "[weaponability2"
+    settimer leylinetimer 0
+endif
+
+if mana <= 96
+    overhead 'Warning! Mana levels critical...' 39
+endif
+if followers = 0
+    overhead "No followers... this might hurt" 38
+endif
+if not dead
+    overhead 'Harr Harr!!' 56
+    hotkey '> Interrupt'
+    say 'all guard me' 56
+    pause 1000
+    getlabel backpack ping
+    hotkey "Cancel Current Target"
+    if skill "Alchemy" >= 80
+        //do nothing
+    elseif not cooldown "Telekinesis" and findtype "Purple Potion" backpack and mana >= 9
+        cast "Telekinesis"
+        wft 3000
+        hotkey 'Target Closest Grey Monster'
+        hotkey 'Target Closest Murderer Monster'
+        getlabel backpack ping
+        if insysmsg "any explosive potions thrown"
+            cooldown "Telekinesis" 60000
+            @setvar "TeleTarget" lasttarget 
+        endif
+        pause 250
+    endif
+    if not cooldown "Mass Curse"
+        cast 'Mass Curse'
+        wft 3000
+        hotkey 'Target Closest Grey Monster'
+        hotkey 'Target Closest Murderer Monster'
+        cooldown "Mass Curse" 30000
+        pause 250
+    endif
+    if not cooldown "Chain Lightning"
+        cast "Chain Lightning"
+    endif
+    if hp < 70
+         hotkey 'Drink Heal'
+    endif
+    say '[SendBoarding'
+    wft 500
+    gumpresponse 5
+    getlabel backpack ping
+    target "Manual Override"
+    hotkey 'Target Closest Grey Monster'
+    hotkey 'Cancel Current Target'
+    getlabel backpack ping
+endif
+if insysmsg 'That ship is too far away to board'
+    overhead "Argh, Not close enough to board!" 47
+    gumpclose 2881168634
+    hotkey '> Interrupt'
+    script 'Master Background'
+endif
+if insysmsg 'Your boarding party fails to board the ship.'
+    overhead '*Boarding Failed*' 39
+    overhead '*Assault Aborted*' 39
+    hotkey '> Interrupt'
+    cooldown "Boarding Party" 15000
+    script 'Master Background'
+endif
+if insysmsg 'You successfully board the ship!'
+    overhead "Yar, enemies abound!" 88
+    cooldown "Boarding Party" 15000
+endif
+
+if not dead
+    overhead 'Get Your Position Ready!' 66
+    gumpclose 2881168634
+    pause 2400
+    if not cooldown "Strangle"
+        say '[Strangle'
+        cooldown "Strangle" 30000
+    endif
+    hotkey 'Target Closest Grey Monster'
+    hotkey 'Target Closest Murderer Monster'
+    hotkey 'Cancel Current Target'
+    pause 250
+    if mana <= 96 and timer leylinetimer >= 3000 
+        say "[weaponability2"
+        settimer leylinetimer 0
+    endif
+    if skill "Alchemy" >= 80 and not cooldown "Explosion Potion" and findtype "Purple Potion" backpack as purp
+        clearsysmsg 
+        dclick purp
+        wft 500
+        hotkey 'Target Closest Grey Monster'
+        hotkey 'Target Closest Murderer Monster'
+        getlabel backpack ping
+        if insysmsg "Your explosion potion sticks to your target."
+            cooldown "Explosion Potion" 15000
+        endif
+        hotkey "Cancel Current Target"
+    elseif cooldown "Telekinesis" and not cooldown "Explosion Potion" and findtype "Purple Potion" backpack as purp
+        clearsysmsg 
+        dclick purp
+        wft 500
+        target "TeleTarget"
+        getlabel backpack ping
+        if insysmsg "Your explosion potion sticks to your target."
+            cooldown "Explosion Potion" 15000
+        endif
+        hotkey "Cancel Current Target"
+        cooldown "Telekinesis" 0
+    endif
+    
+    if not cooldown 'Meteor Swarm'
+        cast 'Meteor Swarm'
+        if not cooldown "Evil Omen"
+            say '[EvilOmen'
+            cooldown "Evil Omen" 30000
+            pause 550
+        endif
+        if not cooldown "Corpse Skin"
+            say '[CorpseSkin'
+            cooldown "Corpse Skin" 30000
+        endif
+        if hp <= 70
+            hotkey 'Drink Heal'
+        endif
+        while poisoned and not targetexists and findtype "Orange Potion" backpack as curepot
+          dclick curepot
+        endwhile
+        wft 5000
+        hotkey 'Target Closest Grey Monster'
+        hotkey 'Target Closest Murderer Monster'
+        hotkey 'Cancel Current Target'
+        pause 250
+        if mana <= 96 and timer leylinetimer >= 3000 
+            say "[weaponability2"
+            settimer leylinetimer 0
+        endif
+        if mana <= 73
+            if not cooldown 'Magic Mushroom'
+                dclicktype 'mushroom'
+                getlabel backpack ping
+            endif
+        endif
+    endif
+    
+    if not timerexists damagetimer
+        createtimer damagetimer
+    endif
+    settimer damagetimer 0
+    while timer damagetimer <= 6000
+        if hp <= 32
+            cast 'Heal'
+            wft 1000
+            hotkey 'Target Self'
+            hotkey 'Cancel Current Target' 
+            pause 250
+        elseif hp <= 33 and findtype "Yellow Potion" backpack as healpot
+            dclick healpot
+        elseif hp <= 77
+            cast 'Greater Heal'
+            hotkey 'Target self'
+            pause 1600
+            hotkey 'Cancel Current Target'
+            pause 250
+        elseif hp <= 85
+            cast 'Heal'
+            wft 1000
+            hotkey 'Target Self'
+            hotkey 'Cancel Current Target' 
+            pause 250
+        endif
+        
+        while poisoned and not targetexists 
+            if findtype "Orange Potion" backpack as curepot
+                dclick curepot
+            elseif mana >= 6
+                cast "Cure"
+                wft 2500
+                target self
+                hotkey 'Cancel Current Target'
+            endif
+        endwhile        
+    endwhile
+ 
+    while not findtype "corpse" ground -1 -1 12
+        if hp <= 32
+            cast 'Heal'
+            wft 1000
+            hotkey 'Target Self'
+            hotkey 'Cancel Current Target' 
+            pause 250
+        elseif hp <= 33 and findtype "Yellow Potion" backpack as healpot
+            dclick healpot
+        elseif hp <= 77
+            cast 'Greater Heal'
+            hotkey 'Target self'
+            pause 1600
+            hotkey 'Cancel Current Target'
+            pause 250
+        elseif hp <= 85
+            cast 'Heal'
+            wft 1000
+            hotkey 'Target Self'
+            hotkey 'Cancel Current Target' 
+            pause 250
+        endif
+        
+        if mana <= 96 and timer leylinetimer >= 3000 
+            say "[weaponability2"
+            settimer leylinetimer 0
+        endif
+        
+        while poisoned and not targetexists 
+            if findtype "Orange Potion" backpack as curepot
+                dclick curepot
+            elseif mana >= 6
+                cast "Cure"
+                wft 2500
+                target self
+                hotkey 'Cancel Current Target'
+            endif
+        endwhile
+        
+        if not cooldown "Chain Lightning" and mana >= 40
+            hotkey 'Cancel Current Target'
+            cast "Chain Lightning"
+            while not targetexists 
+                if poisoned and findtype "Orange Potion" backpack as curepot
+                    dclick curepot
+                endif
+                if hits <= 70 and findtype "Yellow Potion" backpack as healpot
+                    dclick healpot
+                endif
+            endwhile
+            hotkey 'Target Closest Grey Monster'
+            hotkey 'Target Closest Murderer Monster'
+            pause 250
+        elseif not cooldown "Meteor Swarm" and mana >= 40
+            hotkey 'Cancel Current Target'
+            cast "Meteor Swarm"
+            while not targetexists 
+                if poisoned and findtype "Orange Potion" backpack as curepot
+                    dclick curepot
+                endif
+                if hits <= 70 and findtype "Yellow Potion" backpack as healpot
+                    dclick healpot
+                endif
+            endwhile
+            hotkey 'Target Closest Grey Monster'
+            hotkey 'Target Closest Murderer Monster'
+            pause 250
+        elseif not cooldown "Magic Arrow" and mana >= 4
+            hotkey 'Cancel Current Target'
+            cast "Magic Arrow"
+            wft 1000
+            hotkey 'Target Random Grey Monster'
+            hotkey 'Target Closest Murderer Monster'
+            pause 250
+        elseif not cooldown "Harm" and mana >= 6
+            hotkey 'Cancel Current Target'
+            cast "Harm"
+            wft 1500
+            hotkey 'Target Random Grey Monster'
+            hotkey 'Target Closest Murderer Monster'
+            pause 250
+        elseif not cooldown "Lightning" and mana >= 11
+            hotkey 'Cancel Current Target'
+            cast "Lightning"
+            wft 2500
+            hotkey 'Target Random Grey Monster'
+            hotkey 'Target Closest Murderer Monster'
+            pause 250
+        endif
+        
+        if mana <= 96 and timer leylinetimer >= 3000 
+            say "[weaponability2"
+            settimer leylinetimer 0
+        endif
+                
+        if mana <= 73
+            if not cooldown 'Magic Mushroom'
+                dclicktype 'mushroom'
+                getlabel backpack ping
+            endif
+        endif
+        
+        if skill "Alchemy" >= 80
+            //do nothing
+        elseif not cooldown "Telekinesis" and not cooldown "Explosion Potion" and findtype "Purple Potion" backpack and mana >= 9
+            clearsysmsg 
+            cast "Telekinesis"
+            wft 3000
+            hotkey 'Target Closest Grey Monster'
+            hotkey 'Target Closest Murderer Monster'
+            getlabel backpack ping
+            if insysmsg "any explosive potions thrown"
+                cooldown "Telekinesis" 60000
+                @setvar "TeleTarget" lasttarget 
+            endif
+            pause 250
+        endif
+        if skill "Alchemy" >= 80 and not queued and not cooldown "Explosion Potion" and findtype "Purple Potion" backpack as purp
+            clearsysmsg 
+            dclick purp
+            wft 500
+            hotkey 'Target Closest Grey Monster'
+            hotkey 'Target Closest Murderer Monster'
+            getlabel backpack ping
+            if insysmsg "Your explosion potion sticks to your target."
+                cooldown "Explosion Potion" 15000
+            endif
+            hotkey "Cancel Current Target"
+        elseif cooldown "Telekinesis" and not queued and not cooldown "Explosion Potion" and findtype "Purple Potion" backpack as purp
+            clearsysmsg 
+            dclick purp
+            wft 500
+            target "TeleTarget"
+            getlabel backpack ping
+            if insysmsg "Your explosion potion sticks to your target."
+                cooldown "Explosion Potion" 15000
+                cooldown "Telekinesis" 0
+            else 
+                cooldown "Explosion Potion" 15000
+                hotkey '> Interrupt'
+                hotkey "Cancel Current Target"
+                dclicktype "Purple Potion"
+                wft 500
+                while targetexists 
+                    overhead "THROW IT OVERBOARD!!!" 38
+                endwhile
+            endif
+            hotkey "Cancel Current Target"
+        endif
+    endwhile
+
+    if mana <= 96 and timer leylinetimer >= 3000 
+        say "[weaponability2"
+        settimer leylinetimer 0
+    endif
+    
+    while not gumpexists 622436516
+        say [necromancyhotbar
+        getlabel backpack ping
+    endwhile
+                        
+    if findtype "corpse" ground -1 -1 12
+        if ingump '20/' 622436516
+            createtimer pain
+        elseif ingump '19/' 622436516
+            createtimer pain
+        elseif ingump '18/' 622436516
+            createtimer pain
+        elseif ingump '17/' 622436516
+            createtimer pain
+        elseif ingump '16/' 622436516
+            createtimer pain
+        elseif ingump '15/' 622436516
+            createtimer pain
+        elseif ingump '14/' 622436516
+            createtimer pain
+        elseif ingump '13/' 622436516
+            createtimer pain
+        elseif ingump '12/' 622436516
+            createtimer pain
+        elseif ingump '11/' 622436516
+            createtimer pain
+        elseif ingump '10/' 622436516
+            createtimer pain
+        elseif ingump '9/' 622436516
+            createtimer pain
+        elseif ingump '8/' 622436516
+            createtimer pain
+        elseif ingump '7/' 622436516
+            createtimer pain
+        elseif ingump '6/' 622436516
+            createtimer pain
+        elseif ingump '5/' 622436516
+            createtimer pain
+        endif
+        if timerexists pain and find "oceantarget" ground -1 -1 12 and not findbuff "Actively Meditating" and not cooldown 'Pain Spike'
+            clearsysmsg
+            if targetexists 
+                hotkey 'Cancel Current Target'
+            endif
+            say '[Painspike'
+            wft 500
+            hotkey 'Target Closest Grey Monster'
+            hotkey 'Target Closest Murderer Monster'
+            getlabel backpack ping
+            if insysmsg "Unholy"
+                cooldown "Pain Spike" 30000
+            endif
+            removetimer pain
+        endif
+    endif
+endif    
+warmode on
+script "Master Background"
+stop

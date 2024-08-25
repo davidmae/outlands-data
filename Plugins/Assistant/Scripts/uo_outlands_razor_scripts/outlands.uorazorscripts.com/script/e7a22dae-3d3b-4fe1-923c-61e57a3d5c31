@@ -1,0 +1,45 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/e7a22dae-3d3b-4fe1-923c-61e57a3d5c31 for latest
+# Automation by Jaseowns
+## Script: Bapeth's Ocean Sea Buff For Mage
+## Created by: barryroser#0
+#############################################
+
+# Bapeths Sea Buff for mages
+#
+# Script will loop into 'Master Background' if you have it in your script library
+#
+# This script will buff you
+clearsysmsg 
+if skill "Cartography" >= 80 and findtype "adventure pack" backpack as advpack
+    dclick advpack
+endif
+if not findbuff "Magic Reflection"
+    cast "Magic Reflection"
+    pause 1800
+endif
+if not findbuff "Reactive Armor"
+    cast "Reactive Armor"
+    pause 1500
+endif
+
+if mana >= 11
+    cast "Arch Protection"
+    wft 2400
+    target self
+    pause 250
+    hotkey "Cancel Current Target"
+else 
+    overhead "Not enough Mana..." 38
+endif
+
+if mana >= 9
+    cast "Bless"
+    wft 2200
+    target self
+    pause 250
+    hotkey "Cancel Current Target"
+else 
+    overhead "Not enough Mana..." 38
+endif
+
+script 'Master Background'

@@ -1,0 +1,114 @@
+# This is an automated backup - check out https://outlands.uorazorscripts.com/script/c9f3271a-6ac0-4877-a7af-e2de6aac28aa for latest
+# Automation by Jaseowns
+## Script: Kings Faire 2024
+## Created by: surpz#0
+#############################################
+
+@setvar! pingDelay 500
+@setvar! retryDelay 2000
+
+clearlist npcList
+createlist npcList
+
+#Alchemissed
+pushlist npcList 0x14164
+#Apple Bobber
+pushlist npcList 0x14165
+#Archery Contest
+pushlist npcList 0x14115
+#Balloon Pop
+pushlist npcList 0x1414A
+#Boxing Match
+pushlist npcList 0x14120
+#Caravan Pusher
+pushlist npcList 0x14158
+#Derby Race
+pushlist npcList 0x14144
+#Dye Dye Dye
+pushlist npcList 0x1418F
+#Eating Contest
+pushlist npcList 0x1413E
+#Fishing Contest
+pushlist npcList 0x14136
+#Jousting
+pushlist npcList 0x14139
+#Log Cutter
+pushlist npcList 0x1413C
+#Packmaster
+pushlist npcList 0x14154
+#Plucky Musician
+pushlist npcList 0x1415A
+#Produce Pitch
+pushlist npcList 0x14149
+#Quartermaster
+pushlist npcList 0x1416B
+#Rage Cage
+pushlist npcList 0x1416C
+#Ship Race
+pushlist npcList 0x1414D
+#Skeet Shooting
+pushlist npcList 0x14155
+#Squiball
+pushlist npcList 0x1413B
+#Statue Carving
+pushlist npcList 0x14152
+#Tomato Justice 
+pushlist npcList 0x14153
+#Totem Stacker
+pushlist npcList 0x14191
+#Whack-a-Muck
+pushlist npcList 0x1413F
+#Ladder Golf
+pushlist npcList 0x1413A
+#Bell Striker
+pushlist npcList 0x14119
+#Dunk Tank
+pushlist npcList 0x1412F
+#Axe Toss
+pushlist npcList 0x14117
+#Log Rolling
+pushlist npcList 0x1414E
+#Pylon Gladiator
+pushlist npcList 0x14148
+#Drinking Contest
+pushlist npcList 0x14128
+
+
+while not dead
+    foreach npc in npcList
+
+        #look for each npc in list and open gump
+        if find npc ground -1 -1 6 as npcFound
+            overhead "¼ NPC Found ¼" 30 npc
+            menu npcFound 1
+            waitforgump 2258988405 1000
+            wait pingDelay
+        
+            #if 0 plays remaining
+            if ingump "have 0 plays remaining" 2258988405
+                overhead "Done with this game for today."
+            
+            #some plays remaining, click Play Event
+            else
+                gumpresponse 2 2258988405
+                wait pingDelay
+                if insysmsg "You are already participating in an event currently"
+                    wait retryDelay
+                elseif insysmsg "You are too far away to participate in this event"
+                    overhead 'Move Closer to NPC.'
+                elseif insysmsg "You join the queue to participate"
+                    overhead "Entered Queue!"
+                elseif insysmsg "You are already queued"
+                    overhead "Already Queued."
+                elseif insysmsg "You have played this event"
+                    overhead "Done with this game for today."
+                elseif insysmsg "You do not have enough tickets in your bank box to participate in this event"
+                    overhead "We need to go buy tickets!" 30
+                endif
+            endif
+        endif
+        
+    endfor
+    wait retryDelay
+    
+endwhile

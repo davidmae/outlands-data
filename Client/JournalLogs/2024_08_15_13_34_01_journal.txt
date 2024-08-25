@@ -1,0 +1,616 @@
+[08/15/2024 13:34]  System: WorldMap loading...
+[08/15/2024 13:34]  System: Loading WorldMap markers..
+[08/15/2024 13:34]  System: ..Banks_and_Healers.xml (39)
+[08/15/2024 13:34]  System: ..Dungeons.xml (13)
+[08/15/2024 13:34]  System: ..Dungeon_Gates.xml (388)
+[08/15/2024 13:34]  System: ..Healer_Caravans.xml (42)
+[08/15/2024 13:34]  System: ..Kings_Faire.xml (43)
+[08/15/2024 13:34]  System: ..Moongates.xml (10)
+[08/15/2024 13:34]  System: ..POI.xml (251)
+[08/15/2024 13:34]  System: ..PvP_Locations.xml (71)
+[08/15/2024 13:34]  System: ..Shrines.xml (9)
+[08/15/2024 13:34]  System: ..Sub-Dungeons.xml (4)
+[08/15/2024 13:34]  System: ..Townships.xml (10)
+[08/15/2024 13:34]  System: ..UOAM_Atlas.xml (1887)
+[08/15/2024 13:34]  System: ..UOAM_T-Map.xml (255)
+[08/15/2024 13:34]  System: ..UOAM_Treasure.xml (523)
+[08/15/2024 13:34]  System: WorldMap markers loaded (3545)
+[08/15/2024 13:34]  System: Welcome Geodoro!
+[08/15/2024 13:34]  Geodoro: Geodoro
+[08/15/2024 13:34]  Rira: [Private First Class, TES]
+[08/15/2024 13:34]  Rira: Lady Rira
+[08/15/2024 13:34]  FRND VENDOR MALL: [Friends, FRND]
+[08/15/2024 13:34]  FRND VENDOR MALL: FRND VENDOR MALL
+[08/15/2024 13:34]  Doctor Bo: Doctor Bo
+[08/15/2024 13:34]  PyroMag: Triggered
+[08/15/2024 13:34]  PyroMag: [Soldier, DKR]
+[08/15/2024 13:34]  PyroMag: PyroMag
+[08/15/2024 13:34]  Tom Jerry: Savant
+[08/15/2024 13:34]  Tom Jerry: Tom Jerry
+[08/15/2024 13:34]  a water elemental: (summoned)
+[08/15/2024 13:34]  a water elemental: a water elemental
+[08/15/2024 13:34]  Caffrey: Caffrey
+[08/15/2024 13:34]  Excalaber: [Private First Class, TES]
+[08/15/2024 13:34]  Excalaber: Excalaber
+[08/15/2024 13:34]  SeFiros: SeFiros
+[08/15/2024 13:34]  Kopie Koks: Kopie Koks
+[08/15/2024 13:34]  Vraskaa: [Legionary, -_-]
+[08/15/2024 13:34]  Vraskaa: Vraskaa
+[08/15/2024 13:34]  Donn: Lady Donn
+[08/15/2024 13:34]  Oh Noes: Oh Noes
+[08/15/2024 13:34]  Calendonia: Calendonia the banker
+[08/15/2024 13:34]  Maldito Space: [El Belicon, TOP]
+[08/15/2024 13:34]  Maldito Space: Maldito Space
+[08/15/2024 13:34]  Glenn: Glenn the banker
+[08/15/2024 13:34]  a dog: a dog
+[08/15/2024 13:34]  Ingmar: Ingmar the banker
+[08/15/2024 13:34]  Kujjin: [Quartermaster, P.S.]
+[08/15/2024 13:34]  Kujjin: Kujjin
+[08/15/2024 13:34]  Sir Gaeralin: Sir Gaeralin
+[08/15/2024 13:34]  Gaeralin: Gaeralin
+[08/15/2024 13:34]  Mim Jorrison: Mim Jorrison
+[08/15/2024 13:34]  Alodie: Alodie the banker
+[08/15/2024 13:34]  Aurelia: Aurelia the Town Crier
+[08/15/2024 13:34]  a horse: (tame)
+[08/15/2024 13:34]  a horse: a horse
+[08/15/2024 13:34]  Throbinhood: [The Tavern], [tT]
+[08/15/2024 13:34]  Throbinhood: Throbinhood
+[08/15/2024 13:34]  Grimpeh Grimpson: Grimpeh Grimpson
+[08/15/2024 13:34]  a scavenging guy: a scavenging guy
+[08/15/2024 13:34]  DudeMcguy: DudeMcguy
+[08/15/2024 13:34]  Taul: Taul
+[08/15/2024 13:34]  Obedience: Obedience
+[08/15/2024 13:34]  Jakesh: Jakesh the Prevalian merchant
+[08/15/2024 13:34]  Jhentari: Jhentari
+[08/15/2024 13:34]  Dos Xipitia: [Soldado, SxS]
+[08/15/2024 13:34]  Dos Xipitia: Dos Xipitia
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:34]  System: WorldMap loaded!
+[08/15/2024 13:34]  [Razor]: Finished 4 queued actions in 1.2 seconds.
+[08/15/2024 13:34]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:34]  Geodoro: bank
+[08/15/2024 13:34]  Geodoro: Items: 18/125
+[08/15/2024 13:34]  Geodoro: Total Weight: 41
+[08/15/2024 13:34]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:34]  System: What do you wish to appraise and identify?
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:34]  System: You are not certain.
+[08/15/2024 13:34]  a water elemental: (summoned)
+[08/15/2024 13:34]  a water elemental: a water elemental
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:34]  System: What do you wish to appraise and identify?
+[08/15/2024 13:34]  [Razor]: Playing Macro '2'...
+[08/15/2024 13:34]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:34]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:34]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:34]  Little Cut: Mausoleum Legend
+[08/15/2024 13:34]  Little Cut: [Praetor, -_-]
+[08/15/2024 13:34]  Little Cut: Lord Little Cut
+[08/15/2024 13:34]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:34]  [Razor]: Playing Macro '2'...
+[08/15/2024 13:34]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:34]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:34]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:34]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:34]  JeanFabrik: [Recruit, G.G]
+[08/15/2024 13:34]  JeanFabrik: JeanFabrik
+[08/15/2024 13:34]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:34]  a water elemental: (summoned)
+[08/15/2024 13:34]  a water elemental: a water elemental
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:34]  : battlement
+[08/15/2024 13:34]  Tritticia: Black Marketeer
+[08/15/2024 13:34]  Tritticia: [AWN]
+[08/15/2024 13:34]  Tritticia: Lady Tritticia
+[08/15/2024 13:34]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:34]  JeanFabrik: [Recruit, G.G]
+[08/15/2024 13:34]  JeanFabrik: JeanFabrik
+[08/15/2024 13:34]  Tritticia: bank room
+[08/15/2024 13:34]  : stone pavers Dark
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:34]  [Razor]: Playing Macro '2'...
+[08/15/2024 13:34]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:34]  JeanFabrik: [Recruit, G.G]
+[08/15/2024 13:34]  JeanFabrik: JeanFabrik
+[08/15/2024 13:34]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:34]  coachyardkitty: (tame)
+[08/15/2024 13:34]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  Aurelia: Hear ye, hear ye! The 6th Annual Kings Faire begins on Saturday, August 24, 2024 at 11:00 AM!
+[08/15/2024 13:35]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:35]  [Razor]: Playing Macro '2'...
+[08/15/2024 13:35]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:35]  [Razor]: Playing Macro '2'...
+[08/15/2024 13:35]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:35]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  System: Harvesting is not allowed in this area.
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:35]  : stone wall
+[08/15/2024 13:35]  : wooden boards
+[08/15/2024 13:35]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:35]  Tritticia: Black Marketeer
+[08/15/2024 13:35]  Tritticia: [AWN]
+[08/15/2024 13:35]  Tritticia: Lady Tritticia
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  System: You identify the magical item.
+[08/15/2024 13:35]  You see: ruin quarter staff
+[08/15/2024 13:35]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  a water elemental: (summoned)
+[08/15/2024 13:35]  a water elemental: a water elemental
+[08/15/2024 13:35]  You see: ruin quarter staff
+[08/15/2024 13:35]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:35]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  Marretta: Marretta
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  a water elemental: (summoned)
+[08/15/2024 13:35]  a water elemental: a water elemental
+[08/15/2024 13:35]  System: You are not certain.
+[08/15/2024 13:35]  JeanFabrik: [Recruit, G.G]
+[08/15/2024 13:35]  JeanFabrik: JeanFabrik
+[08/15/2024 13:35]  Harambe's Ghost: Legendary Beast Slayer
+[08/15/2024 13:35]  Harambe's Ghost: Lord Harambe's Ghost
+[08/15/2024 13:35]  a phoenix: (bonded)
+[08/15/2024 13:35]  a phoenix: a phoenix
+[08/15/2024 13:35]  HARAMBEE: (bonded)
+[08/15/2024 13:35]  HARAMBEE: HARAMBEE
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  You see: ruin quarter staff
+[08/15/2024 13:35]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  System: You are not certain.
+[08/15/2024 13:35]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:35]  System: You must wait a few moments to use another skill.
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  Marretta: Marretta
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  JeanFabrik: [Recruit, G.G]
+[08/15/2024 13:35]  JeanFabrik: JeanFabrik
+[08/15/2024 13:35]  System: Your skill in Item Identification has increased by 0.1.  It is now 50.2.
+[08/15/2024 13:35]  You see: ruin quarter staff
+[08/15/2024 13:35]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  You see: ruin quarter staff
+[08/15/2024 13:35]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  Vlad da Impaler: [Hostile Lumberjack, HOST]
+[08/15/2024 13:35]  Vlad da Impaler: Lord Vlad da Impaler
+[08/15/2024 13:35]  You see: ruin quarter staff
+[08/15/2024 13:35]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  System: You are not certain.
+[08/15/2024 13:35]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  System: You must wait a few moments to use another skill.
+[08/15/2024 13:35]  Harambe's Ghost: Legendary Beast Slayer
+[08/15/2024 13:35]  Harambe's Ghost: Lord Harambe's Ghost
+[08/15/2024 13:35]  a phoenix: (bonded)
+[08/15/2024 13:35]  a phoenix: a phoenix
+[08/15/2024 13:35]  HARAMBEE: (bonded)
+[08/15/2024 13:35]  HARAMBEE: HARAMBEE
+[08/15/2024 13:35]  System: What do you wish to appraise and identify?
+[08/15/2024 13:35]  System: You are not certain.
+[08/15/2024 13:35]  coachyardkitty: (tame)
+[08/15/2024 13:35]  coachyardkitty: coachyardkitty
+[08/15/2024 13:35]  Scavfincher: Scavfincher
+[08/15/2024 13:36]  System: Snaesh has completed the achievement: Affluent (Epic).
+[08/15/2024 13:36]  Aurelia: The Faire will return to Outlands for one week only! This limited engagement is set to occur from August  24th - September 1st, 2024, so be sure to mark your calendars!
+[08/15/2024 13:36]  Harambe's Ghost: Legendary Beast Slayer
+[08/15/2024 13:36]  Harambe's Ghost: Lord Harambe's Ghost
+[08/15/2024 13:36]  a phoenix: (bonded)
+[08/15/2024 13:36]  a phoenix: a phoenix
+[08/15/2024 13:36]  HARAMBEE: (bonded)
+[08/15/2024 13:36]  HARAMBEE: HARAMBEE
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:36]  a horse: (tame)
+[08/15/2024 13:36]  a horse: a horse
+[08/15/2024 13:36]  Tritticia: Black Marketeer
+[08/15/2024 13:36]  Tritticia: [AWN]
+[08/15/2024 13:36]  Tritticia: Lady Tritticia
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  : bench
+[08/15/2024 13:36]  BuckTasti: [Druid Loyalist, BEAR]
+[08/15/2024 13:36]  BuckTasti: BuckTasti
+[08/15/2024 13:36]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  Pepperz: (bonded)
+[08/15/2024 13:36]  Pepperz: Pepperz
+[08/15/2024 13:36]  Spicyy: (bonded)
+[08/15/2024 13:36]  Spicyy: Spicyy
+[08/15/2024 13:36]  System: What do you wish to appraise and identify?
+[08/15/2024 13:36]  BuckTasti: bank
+[08/15/2024 13:36]  System: You are not certain.
+[08/15/2024 13:36]  Scavfincher: Scavfincher
+[08/15/2024 13:36]  Jaki Gefjon: Legendary Backstabber
+[08/15/2024 13:36]  Jaki Gefjon: [-_-]
+[08/15/2024 13:36]  Jaki Gefjon: Lord Jaki Gefjon
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  BuckTasti: bank
+[08/15/2024 13:36]  System: What do you wish to appraise and identify?
+[08/15/2024 13:36]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:36]  System: You are not certain.
+[08/15/2024 13:36]  System: You must wait a few moments to use another skill.
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  Jaki Gefjon: Legendary Backstabber
+[08/15/2024 13:36]  Jaki Gefjon: [-_-]
+[08/15/2024 13:36]  Jaki Gefjon: Lord Jaki Gefjon
+[08/15/2024 13:36]  Franklin Bordeau: Franklin Bordeau
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  Urban Outfitters: Legendary Blacksmith
+[08/15/2024 13:36]  Urban Outfitters: Urban Outfitters
+[08/15/2024 13:36]  JeanFabrik: [Recruit, G.G]
+[08/15/2024 13:36]  JeanFabrik: JeanFabrik
+[08/15/2024 13:36]  System: What do you wish to appraise and identify?
+[08/15/2024 13:36]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:36]  You see: ruin quarter staff
+[08/15/2024 13:36]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:36]  System: You must wait a few moments to use another skill.
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  JeanFabrik: [Recruit, G.G]
+[08/15/2024 13:36]  JeanFabrik: JeanFabrik
+[08/15/2024 13:36]  Garuk: Garuk
+[08/15/2024 13:36]  System: What do you wish to appraise and identify?
+[08/15/2024 13:36]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:36]  System: You are not certain.
+[08/15/2024 13:36]  System: You must wait a few moments to use another skill.
+[08/15/2024 13:36]  Scavfincher: Scavfincher
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  Binkol: [BAKSTON, AWN]
+[08/15/2024 13:36]  Binkol: Binkol
+[08/15/2024 13:36]  a Trusty Patches: a Trusty Patches
+[08/15/2024 13:36]  Tynan-the-Miner: Tynan-the-Miner
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  Garuk: Garuk
+[08/15/2024 13:36]  a water elemental: (summoned)
+[08/15/2024 13:36]  a water elemental: a water elemental
+[08/15/2024 13:36]  System: What do you wish to appraise and identify?
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:36]  Tynan-the-Miner: Tynan-the-Miner
+[08/15/2024 13:36]  System: You are not certain.
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:36]  System: You must wait a few moments to use another skill.
+[08/15/2024 13:36]  Kell Stormhammer: [C-C]
+[08/15/2024 13:36]  Kell Stormhammer: Kell Stormhammer
+[08/15/2024 13:36]  Binkol: bank
+[08/15/2024 13:36]  BuckTasti: all follow me
+[08/15/2024 13:36]  System: What do you wish to appraise and identify?
+[08/15/2024 13:36]  coachyardkitty: (tame)
+[08/15/2024 13:36]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  Aurelia: Hear ye, hear ye! The 6th Annual Kings Faire begins on Saturday, August 24, 2024 at 11:00 AM!
+[08/15/2024 13:37]  Kell Stormhammer: bank
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:37]  Scavfincher: Scavfincher
+[08/15/2024 13:37]  Binkol: [BAKSTON, AWN]
+[08/15/2024 13:37]  Binkol: Binkol
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  System: You are not certain.
+[08/15/2024 13:37]  System: You must wait a few moments to use another skill.
+[08/15/2024 13:37]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:37]  Da Choppa: Da Choppa
+[08/15/2024 13:37]  a water elemental: (summoned)
+[08/15/2024 13:37]  a water elemental: a water elemental
+[08/15/2024 13:37]  a pack horse: (tame)
+[08/15/2024 13:37]  a pack horse: [0/2000 stones]
+[08/15/2024 13:37]  a pack horse: a pack horse
+[08/15/2024 13:37]  Binkol: [BAKSTON, AWN]
+[08/15/2024 13:37]  Binkol: Binkol
+[08/15/2024 13:37]  Alkaia: Alkaia
+[08/15/2024 13:37]  Da Choppa: bank
+[08/15/2024 13:37]  Binkol: [BAKSTON, AWN]
+[08/15/2024 13:37]  Binkol: Binkol
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:37]  Tritticia: Black Marketeer
+[08/15/2024 13:37]  Tritticia: [AWN]
+[08/15/2024 13:37]  Tritticia: Lady Tritticia
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  You see: ruin quarter staff
+[08/15/2024 13:37]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  You see: ruin quarter staff
+[08/15/2024 13:37]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  Marretta: Marretta
+[08/15/2024 13:37]  : stone wall
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  Marretta: bank vendor buy
+[08/15/2024 13:37]  You see: ruin quarter staff
+[08/15/2024 13:37]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:37]  : Emptying trash barrel!
+[08/15/2024 13:37]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  System: You are not certain.
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  You see: ruin quarter staff
+[08/15/2024 13:37]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:37]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  System: You are not certain.
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  You see: ruin quarter staff
+[08/15/2024 13:37]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  System: You are not certain.
+[08/15/2024 13:37]  Scavfincher: Scavfincher
+[08/15/2024 13:37]  System: What do you wish to appraise and identify?
+[08/15/2024 13:37]  You see: ruin quarter staff
+[08/15/2024 13:37]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:37]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:37]  coachyardkitty: (tame)
+[08/15/2024 13:37]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  Scavfincher: Scavfincher
+[08/15/2024 13:38]  Aurelia: The Faire will return to Outlands for one week only! This limited engagement is set to occur from August  24th - September 1st, 2024, so be sure to mark your calendars!
+[08/15/2024 13:38]  femore: Monster Hunter Initiate
+[08/15/2024 13:38]  femore: femore
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:38]  CeroChillTamer: Wilderness Guardian
+[08/15/2024 13:38]  CeroChillTamer: [Hostile Miner, HOST]
+[08/15/2024 13:38]  CeroChillTamer: CeroChillTamer
+[08/15/2024 13:38]  CeroFire: (bonded)
+[08/15/2024 13:38]  CeroFire: CeroFire
+[08/15/2024 13:38]  CeroFenix: (bonded)
+[08/15/2024 13:38]  CeroFenix: CeroFenix
+[08/15/2024 13:38]  Partey: Partey
+[08/15/2024 13:38]  Partey: Partey
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  a water elemental: (summoned)
+[08/15/2024 13:38]  a water elemental: a water elemental
+[08/15/2024 13:38]  Franklin Bordeau: Franklin Bordeau
+[08/15/2024 13:38]  System: What do you wish to appraise and identify?
+[08/15/2024 13:38]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:38]  Jaki Gefjon: Legendary Backstabber
+[08/15/2024 13:38]  Jaki Gefjon: [-_-]
+[08/15/2024 13:38]  Jaki Gefjon: Lord Jaki Gefjon
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  System: You identify the magical item.
+[08/15/2024 13:38]  You see: guarding female leather chest
+[08/15/2024 13:38]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:38]  System: What do you wish to appraise and identify?
+[08/15/2024 13:38]  System: You are not certain.
+[08/15/2024 13:38]  Da Choppa: Da Choppa
+[08/15/2024 13:38]  You see: unidentified ringmail gloves
+[08/15/2024 13:38]  a pack horse: (tame)
+[08/15/2024 13:38]  a pack horse: [0/2000 stones]
+[08/15/2024 13:38]  a pack horse: a pack horse
+[08/15/2024 13:38]  Tritticia: Black Marketeer
+[08/15/2024 13:38]  Tritticia: [AWN]
+[08/15/2024 13:38]  Tritticia: Lady Tritticia
+[08/15/2024 13:38]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:38]  [Razor]: Playing Macro 'itemid'...
+[08/15/2024 13:38]  System: What do you wish to appraise and identify?
+[08/15/2024 13:38]  System: You are not certain.
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  System: What do you wish to appraise and identify?
+[08/15/2024 13:38]  System: You are not certain.
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  You see: unidentified ringmail gloves
+[08/15/2024 13:38]  a water elemental: (summoned)
+[08/15/2024 13:38]  a water elemental: a water elemental
+[08/15/2024 13:38]  System: What do you wish to appraise and identify?
+[08/15/2024 13:38]  You see: ruin quarter staff
+[08/15/2024 13:38]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  Boome: [DOPE]
+[08/15/2024 13:38]  Boome: Lord Boome
+[08/15/2024 13:38]  System: What do you wish to appraise and identify?
+[08/15/2024 13:38]  You see: ruin quarter staff
+[08/15/2024 13:38]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:38]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:38]  System: What do you wish to appraise and identify?
+[08/15/2024 13:38]  Vlad da Impaler: [Hostile Lumberjack, HOST]
+[08/15/2024 13:38]  Vlad da Impaler: Lord Vlad da Impaler
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  You see: ruin quarter staff
+[08/15/2024 13:38]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:38]  System: What do you wish to appraise and identify?
+[08/15/2024 13:38]  You see: ruin quarter staff
+[08/15/2024 13:38]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:38]  Carpe Jugulum: Carpe Jugulum
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  Purplet: Purplet
+[08/15/2024 13:38]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:38]  : stone wall
+[08/15/2024 13:38]  coachyardkitty: (tame)
+[08/15/2024 13:38]  coachyardkitty: coachyardkitty
+[08/15/2024 13:38]  System: What do you wish to appraise and identify?
+[08/15/2024 13:38]  System: You are not certain.
+[08/15/2024 13:38]  System: Your intelligence has changed by 1.  It is now 21
+[08/15/2024 13:39]  You see: unidentified ringmail gloves
+[08/15/2024 13:39]  Aurelia: Hear ye, hear ye! The 6th Annual Kings Faire begins on Saturday, August 24, 2024 at 11:00 AM!
+[08/15/2024 13:39]  [Razor]: Playing Macro 'itemid'...
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  System: You are not certain.
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  System: You identify the magical item.
+[08/15/2024 13:39]  You see: hardening ringmail gloves
+[08/15/2024 13:39]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  [Razor]: The requested target is out of range, last target not executed!
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  Wednesday Addams: Legendary Captain
+[08/15/2024 13:39]  Wednesday Addams: [Loyal To My Hate, NKB]
+[08/15/2024 13:39]  Wednesday Addams: Lady Wednesday Addams
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  System: You are not certain.
+[08/15/2024 13:39]  System: You must wait a few moments to use another skill.
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  MR BLIZZARD: MR BLIZZARD
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  System: You identify the magical item.
+[08/15/2024 13:39]  You see: surpassingly accurate helix staff
+[08/15/2024 13:39]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:39]  Tritticia: Black Marketeer
+[08/15/2024 13:39]  Tritticia: [AWN]
+[08/15/2024 13:39]  Tritticia: Lady Tritticia
+[08/15/2024 13:39]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  System: You are not certain.
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  System: OhvarThur has completed the achievement: Scribe (Basic).
+[08/15/2024 13:39]  ZaXoDu EcJIu chE: Triggered
+[08/15/2024 13:39]  ZaXoDu EcJIu chE: Lord ZaXoDu EcJIu chE
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  System: You identify the magical item.
+[08/15/2024 13:39]  You see: ruin rapier
+[08/15/2024 13:39]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:39]  You see: ruin rapier
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  You see: ruin rapier
+[08/15/2024 13:39]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:39]  System: Your intelligence has changed by 1.  It is now 22
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:39]  System: That is too far away.
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  You see: ruin rapier
+[08/15/2024 13:39]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  You see: ruin rapier
+[08/15/2024 13:39]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:39]  Bunky: [Hostile Peasant, HOST]
+[08/15/2024 13:39]  Bunky: Bunky
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  You see: ruin rapier
+[08/15/2024 13:39]  Geodoro: You are uncertain about the worth of the magical item.
+[08/15/2024 13:39]  : stone wall
+[08/15/2024 13:39]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:39]  [Razor]: Playing Macro 'itemid'...
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  TuneKing: Triggered
+[08/15/2024 13:39]  TuneKing: [NP$]
+[08/15/2024 13:39]  TuneKing: Lord TuneKing
+[08/15/2024 13:39]  System: You are not certain.
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  Tynan-the-Miner: Tynan-the-Miner
+[08/15/2024 13:39]  System: What do you wish to appraise and identify?
+[08/15/2024 13:39]  System: Your skill in Item Identification has increased by 0.1.  It is now 50.3.
+[08/15/2024 13:39]  System: You are not certain.
+[08/15/2024 13:39]  Binkol: [BAKSTON, AWN]
+[08/15/2024 13:39]  Binkol: Binkol
+[08/15/2024 13:39]  : stone wall
+[08/15/2024 13:39]  System: SirPubert has completed the achievement: Savant (Basic).
+[08/15/2024 13:39]  a water elemental: (summoned)
+[08/15/2024 13:39]  a water elemental: a water elemental
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[08/15/2024 13:39]  a water elemental: (summoned)
+[08/15/2024 13:39]  a water elemental: a water elemental
+[08/15/2024 13:39]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[08/15/2024 13:39]  coachyardkitty: (tame)
+[08/15/2024 13:39]  coachyardkitty: coachyardkitty
+[08/15/2024 13:39]  : stone pavers Dark
+[08/15/2024 13:40]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[08/15/2024 13:40]  Unk'Grah: Unk'Grah
+[08/15/2024 13:40]  Franklin Bordeau: Franklin Bordeau
+[08/15/2024 13:40]  coachyardkitty: (tame)
+[08/15/2024 13:40]  coachyardkitty: coachyardkitty
+[08/15/2024 13:40]  Aurelia: The Faire will return to Outlands for one week only! This limited engagement is set to occur from August  24th - September 1st, 2024, so be sure to mark your calendars!

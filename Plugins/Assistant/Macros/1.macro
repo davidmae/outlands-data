@@ -1,0 +1,5 @@
+!Loop
+Assistant.Macros.CastSpellAction|44
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.PauseAction|00:00:03
