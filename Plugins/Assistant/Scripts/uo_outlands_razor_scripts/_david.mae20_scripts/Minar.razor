@@ -1,3 +1,9 @@
+@setvar! move_timer_value 3000
+
+if not timerexists 'move_timer'
+    createtimer 'mover_timer'
+endif
+
 if rhandempty and findtype "pickaxe" backpack as item
     lift item
     drop self Righthand
@@ -6,25 +12,27 @@ if rhandempty and findtype "pickaxe" backpack as item
 else
     hotkey "Use Item in Right Hand"
 endif
-wait 1000
+wait 2000
 
-if insysmsg 'You do not see any harvestable resources nearby.'
-    overhead 'Move!'
+if insysmsg 'You do not see any harvestable resources nearby.' and timer 'move_timer' > move_timer_value
+    overhead '*** Resource depleted ***'
+    settimer 'move_timer' 0
 endif
 
-if insysmsg 'Mining has increased'
-    overhead 'MINING LVLUP!' 88
-endif
 
-if findtype "iron ore" backpack -1 -1 -1 as iron_ore
-    getlabel iron_ore iron
+if findtype 6585 backpack 0 as iron
+    getlabel iron ore
     if insysmsg 'You dig some iron ore and put it in your backpack.'
-        overhead "|> {{iron}} <|" 15
+        overhead "|> {{ore}} <|" 0
     endif
 endif
 
-
-
+if findtype 6585 backpack 2419 as dullcopper
+    getlabel dullcopper ore
+    if insysmsg 'You dig some dull copper ore and put it in your backpack.'
+        overhead "|> {{ore}} <|" 2419
+    endif
+endif
 
 
 loop

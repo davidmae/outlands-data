@@ -46,8 +46,8 @@
 		<gump type="15" x="896" y="29" serial="0" id="44" matrix_x="2" matrix_y="0" />
 		<gump type="7" x="940" y="29" serial="1023" name="Invis" graphicId="0" hideLabel="False" scale="1" matrix_x="3" matrix_y="0" />
 	</anchored_group_gump>
-	<gump type="2" x="1557" y="460" serial="1160050294" graphic="60" isminimized="False" />
 	<gump type="9" x="1609" y="3" serial="1258595" isminimized="False" />
+	<gump type="2" x="1557" y="460" serial="1160050294" graphic="60" isminimized="False" />
 	<gump type="25" x="643" y="30" serial="0" entryname="SmokeBomb" />
 	<gump type="8" x="443" y="-150" serial="0" isminimized="False" />
 	<gump type="5" x="642" y="3" serial="0" />
@@ -94,5 +94,5 @@
 	<gump type="4" x="1183" y="24" serial="1258595" />
 	<gump type="21" x="378" y="876" serial="0" />
 	<gump type="18" x="16" y="26" serial="0" />
-	<gump type="6" x="18" y="588" serial="0" />
+	<gump type="6" x="12" y="638" serial="0" />
 </gumps>
