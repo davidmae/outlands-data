@@ -1,0 +1,1232 @@
+[08/28/2024 20:00]  System: WorldMap loading...
+[08/28/2024 20:00]  System: Loading WorldMap markers..
+[08/28/2024 20:00]  System: ..Banks_and_Healers.xml (39)
+[08/28/2024 20:00]  System: ..Dungeons.xml (13)
+[08/28/2024 20:00]  System: ..Dungeon_Gates.xml (388)
+[08/28/2024 20:00]  System: ..Healer_Caravans.xml (42)
+[08/28/2024 20:00]  System: ..Kings_Faire.xml (49)
+[08/28/2024 20:00]  System: ..Moongates.xml (10)
+[08/28/2024 20:00]  System: ..POI.xml (251)
+[08/28/2024 20:00]  System: ..PvP_Locations.xml (71)
+[08/28/2024 20:00]  System: ..Shrines.xml (9)
+[08/28/2024 20:00]  System: ..Sub-Dungeons.xml (4)
+[08/28/2024 20:00]  System: ..Townships.xml (10)
+[08/28/2024 20:00]  System: ..UOAM_Atlas.xml (1887)
+[08/28/2024 20:00]  System: ..UOAM_T-Map.xml (255)
+[08/28/2024 20:00]  System: ..UOAM_Treasure.xml (523)
+[08/28/2024 20:00]  System: WorldMap markers loaded (3551)
+[08/28/2024 20:00]  System: Welcome Ailiin!
+[08/28/2024 20:00]  Ailiin: Ailiin
+[08/28/2024 20:00]  a prevalian marksman: a prevalian marksman
+[08/28/2024 20:00]  Sir Gobbo: Sir Gobbo
+[08/28/2024 20:00]  Ardelia: Ardelia the waiter
+[08/28/2024 20:00]  Jael: Jael the waiter
+[08/28/2024 20:00]  Merrick: Merrick the barkeep
+[08/28/2024 20:00]  Miles: Miles the innkeeper
+[08/28/2024 20:00]  Marta Rocha: Transmuter
+[08/28/2024 20:00]  Marta Rocha: Marta Rocha
+[08/28/2024 20:00]  a pack horse: (tame)
+[08/28/2024 20:00]  a pack horse: [50/2000 stones]
+[08/28/2024 20:00]  a pack horse: a pack horse
+[08/28/2024 20:00]  wtf Himdula: wtf Himdula
+[08/28/2024 20:00]  Tingah: [Mechanic, MMx]
+[08/28/2024 20:00]  Tingah: Tingah
+[08/28/2024 20:00]  Terrill: Terrill the cook
+[08/28/2024 20:00]  Randi Blythe: [Recruit, ok?]
+[08/28/2024 20:00]  Randi Blythe: Randi Blythe
+[08/28/2024 20:00]  Monroe: Monroe the creature broker
+[08/28/2024 20:00]  Aricin: Aricin the stablemaster
+[08/28/2024 20:00]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/28/2024 20:00]  System: WorldMap loaded!
+[08/28/2024 20:00]  Nibi Gibbi: [Huskari, ICON]
+[08/28/2024 20:00]  Nibi Gibbi: Nibi Gibbi
+[08/28/2024 20:00]  Shashi: [Prospect, DPS]
+[08/28/2024 20:00]  Shashi: Shashi
+[08/28/2024 20:01]  Marden: Marden the alchemist
+[08/28/2024 20:01]  Limpa-trilho: [New Player, NP$]
+[08/28/2024 20:01]  Limpa-trilho: Limpa-trilho
+[08/28/2024 20:01]  Maseu: [BUTTER 120%, AWN]
+[08/28/2024 20:01]  Maseu: Maseu
+[08/28/2024 20:02]  System: The world will save in 15 seconds.
+[08/28/2024 20:02]  NarcoPewPew: Triggered
+[08/28/2024 20:02]  NarcoPewPew: NarcoPewPew
+[08/28/2024 20:02]  Maseu: [BUTTER 120%, AWN]
+[08/28/2024 20:02]  Maseu: Maseu
+[08/28/2024 20:02]  NarcoPewPew: bank, room, guards
+[08/28/2024 20:02]  Nibi Gibbi: [Huskari, ICON]
+[08/28/2024 20:02]  Nibi Gibbi: Nibi Gibbi
+[08/28/2024 20:02]  Nibi Gibbi: room
+[08/28/2024 20:02]  System: The world is saving, please wait.
+[08/28/2024 20:02]  System: World save complete. The entire process took 2.7 seconds.
+[08/28/2024 20:02]  System: Opening door...
+[08/28/2024 20:02]  Edwin: Edwin the scribe
+[08/28/2024 20:02]  Bogy: Bogy
+[08/28/2024 20:02]  Azina: Azina the alchemist
+[08/28/2024 20:02]  Ginger: Ginger the mage
+[08/28/2024 20:02]  Lokelani: Lokelani the farmer
+[08/28/2024 20:02]  S.W.M.G: S.W.M.G
+[08/28/2024 20:02]  Azina: Azina the alchemist
+[08/28/2024 20:02]  Brandy: Brandy the herbalist
+[08/28/2024 20:02]  Raynor: Raynor the herbalist
+[08/28/2024 20:02]  Bentley: Bentley the scribe
+[08/28/2024 20:02]  Liadan: Liadan the scribe
+[08/28/2024 20:02]  Garrett: Garrett the mage
+[08/28/2024 20:02]  Nekros the Dead: [Hostile Peasant, HOST]
+[08/28/2024 20:02]  Nekros the Dead: Nekros the Dead
+[08/28/2024 20:02]  Mulebarn Rd: [J. Phoenix, OFP]
+[08/28/2024 20:02]  Mulebarn Rd: Mulebarn Rd
+[08/28/2024 20:02]  FRND VENDOR MALL: [Friends, FRND]
+[08/28/2024 20:02]  FRND VENDOR MALL: FRND VENDOR MALL
+[08/28/2024 20:02]  Fizzling Star: Fizzling Star
+[08/28/2024 20:02]  Powerminerr: Powerminerr
+[08/28/2024 20:02]  Tantalas: [Recruit, UNW]
+[08/28/2024 20:02]  Tantalas: Tantalas
+[08/28/2024 20:02]  Timo: Timo
+[08/28/2024 20:02]  : lantern
+[08/28/2024 20:02]  Limpa-trilho: [New Player, NP$]
+[08/28/2024 20:02]  Limpa-trilho: Limpa-trilho
+[08/28/2024 20:02]  Requiem Aeternam: Maester
+[08/28/2024 20:02]  Requiem Aeternam: [Guildmaster, OW]
+[08/28/2024 20:02]  Requiem Aeternam: Requiem Aeternam
+[08/28/2024 20:02]  Quillwright: Artificer Luminary
+[08/28/2024 20:02]  Quillwright: [Tethys Mall, GoT]
+[08/28/2024 20:02]  Quillwright: Quillwright
+[08/28/2024 20:02]  Ganymedes: Legendary Zoologist
+[08/28/2024 20:02]  Ganymedes: [-_-]
+[08/28/2024 20:02]  Ganymedes: Ganymedes
+[08/28/2024 20:02]  Brighty: (bonded)
+[08/28/2024 20:02]  Brighty: Brighty
+[08/28/2024 20:02]  Sweatty: (bonded)
+[08/28/2024 20:02]  Sweatty: Sweatty
+[08/28/2024 20:02]  ManMan: ManMan
+[08/28/2024 20:02]  a dog: a dog
+[08/28/2024 20:02]  Calendonia: Calendonia the banker
+[08/28/2024 20:02]  Glenn: Glenn the banker
+[08/28/2024 20:02]  Kenyangi: Kenyangi the juggler
+[08/28/2024 20:02]  ManMan:  /=ANCHOR'S REST=\ 
+[08/28/2024 20:02]  FRND VENDOR MALL: WE HAVE POTION CODEX'S ONLY 39.9K!!!!
+[08/28/2024 20:02]  Fizzling Star: Bulk large ship bombs, ship repair kits, and tinker tools
+[08/28/2024 20:02]  ManMan: ONE SPOT LEFT
+[08/28/2024 20:02]  Limpa-trilho: Rel Sanct
+[08/28/2024 20:02]  FRND VENDOR MALL: [FRND VENDOR MALL] NOW SCANNED MULTIPLE TIMES A DAY!
+[08/28/2024 20:02]  ManMan: THE PARROT'S BITE
+[08/28/2024 20:02]  ManMan:  /=ANCHOR'S REST=\ 
+[08/28/2024 20:02]  Apphend: [The Tavern], [tT]
+[08/28/2024 20:02]  Apphend: Apphend
+[08/28/2024 20:02]  Espardo: Espardo
+[08/28/2024 20:02]  FRND VENDOR MALL: VENDOR PRICE DROP NOW ONLY 4K A WEEK! NO MIN!
+[08/28/2024 20:02]  Tailormar: Tailormar
+[08/28/2024 20:02]  Alodie: Alodie the banker
+[08/28/2024 20:02]  Borcheg: [Recruit, IDC]
+[08/28/2024 20:02]  Borcheg: Borcheg
+[08/28/2024 20:02]  Luni Vidotto: [Recruit, DRED]
+[08/28/2024 20:02]  Luni Vidotto: Luni Vidotto
+[08/28/2024 20:02]  Ace: Ace the miner
+[08/28/2024 20:02]  ManMan: ONE SPOT LEFT
+[08/28/2024 20:02]  Brian Mccoys: [eLy]
+[08/28/2024 20:02]  Brian Mccoys: Brian Mccoys
+[08/28/2024 20:02]  Jacking Jack: Jacking Jack
+[08/28/2024 20:02]  Wingsforevent: Wingsforevent
+[08/28/2024 20:02]  Morgana: Morgana the puppeteer
+[08/28/2024 20:02]  AcidJazz: AcidJazz
+[08/28/2024 20:02]  ManMan: THE PARROT'S BITE
+[08/28/2024 20:02]  Meketreff: Meketreff
+[08/28/2024 20:02]  Ilumina: Adventurer Initiate
+[08/28/2024 20:02]  Ilumina: Ilumina
+[08/28/2024 20:02]  Boloplop: Boloplop
+[08/28/2024 20:02]  Apphend: [The Tavern], [tT]
+[08/28/2024 20:02]  Apphend: Apphend
+[08/28/2024 20:02]  Kuroka Toujou: Kuroka Toujou
+[08/28/2024 20:02]  Proc Lesnar: Legendary Scribe
+[08/28/2024 20:02]  Proc Lesnar: [Jousting Champ, L%C]
+[08/28/2024 20:02]  Proc Lesnar: Proc Lesnar
+[08/28/2024 20:02]  Ackerley: Ackerley the juggler
+[08/28/2024 20:02]  rRashin Toast: [Citizen, Yew]
+[08/28/2024 20:02]  rRashin Toast: rRashin Toast
+[08/28/2024 20:02]  Toxicum: Toxicum
+[08/28/2024 20:02]  Derrick: Derrick the juggler
+[08/28/2024 20:02]  Cali Customs: Cali Customs
+[08/28/2024 20:02]  Babs Kramer: Lady Babs Kramer
+[08/28/2024 20:02]  Christine Jones: Legendary Blacksmith
+[08/28/2024 20:02]  Christine Jones: Christine Jones
+[08/28/2024 20:02]  vD: [Now Recruiting, vD]
+[08/28/2024 20:02]  vD: vD
+[08/28/2024 20:02]  Givon: Givon the tailor
+[08/28/2024 20:02]  Standford: Standford the provisioner
+[08/28/2024 20:02]  Ingmar: Ingmar the banker
+[08/28/2024 20:02]  Apphend: [The Tavern], [tT]
+[08/28/2024 20:02]  Apphend: Apphend
+[08/28/2024 20:02]  rRashin Toast: [Citizen, Yew]
+[08/28/2024 20:02]  rRashin Toast: rRashin Toast
+[08/28/2024 20:02]  Espardo: Espardo
+[08/28/2024 20:02]  showmaker: Seasonal Guild
+[08/28/2024 20:02]  showmaker: [0% Skill, 100% Luck, Syn]
+[08/28/2024 20:02]  showmaker: Lady showmaker
+[08/28/2024 20:02]  Crius: [Ranger, Path]
+[08/28/2024 20:02]  Crius: Crius
+[08/28/2024 20:02]  You see: the remains of RedSP
+[08/28/2024 20:02]  Aurelia: Aurelia the Town Crier
+[08/28/2024 20:02]  Jokester-: Transmuter
+[08/28/2024 20:02]  Jokester-: [Legionary, -_-]
+[08/28/2024 20:02]  Jokester-: Jokester-
+[08/28/2024 20:02]  Llewbach: [Thrall, ICON]
+[08/28/2024 20:02]  Llewbach: Llewbach
+[08/28/2024 20:02]  Calendonia: Calendonia the banker
+[08/28/2024 20:02]  Glenn: Glenn the banker
+[08/28/2024 20:02]  Bran Hammerhands: Weaponmaster
+[08/28/2024 20:02]  Bran Hammerhands: [Finally a big boy!, C-C]
+[08/28/2024 20:02]  Bran Hammerhands: Lord Bran Hammerhands
+[08/28/2024 20:02]  Kenyangi: Kenyangi the juggler
+[08/28/2024 20:02]  DemiPoX: DemiPoX
+[08/28/2024 20:02]  Juniper: Juniper the juggler
+[08/28/2024 20:02]  Nibi Gibbi: [Huskari, ICON]
+[08/28/2024 20:02]  Nibi Gibbi: Nibi Gibbi
+[08/28/2024 20:02]  BingBom: BingBom
+[08/28/2024 20:02]  CarmenSaintDiego: [Soldier, SOF]
+[08/28/2024 20:02]  CarmenSaintDiego: CarmenSaintDiego
+[08/28/2024 20:02]  vD: So join vD today to Profit Tomorrow!
+[08/28/2024 20:02]  Nibi Gibbi: [Huskari, ICON]
+[08/28/2024 20:02]  Nibi Gibbi: Nibi Gibbi
+[08/28/2024 20:02]  System: Being perfectly rested, you shove them out of the way.
+[08/28/2024 20:02]  Brian Mccoys: [eLy]
+[08/28/2024 20:02]  Brian Mccoys: Brian Mccoys
+[08/28/2024 20:02]  Borcheg: [Recruit, IDC]
+[08/28/2024 20:02]  Borcheg: Borcheg
+[08/28/2024 20:02]  Boloplop: Boloplop
+[08/28/2024 20:02]  Kenyangi: Kenyangi the juggler
+[08/28/2024 20:02]  Luni Vidotto: [Recruit, DRED]
+[08/28/2024 20:02]  Luni Vidotto: Luni Vidotto
+[08/28/2024 20:02]  vD: Vigilante's Departed Is Now Recruiting! Contact flawed87 on Discord! (Eastern Timezone)
+[08/28/2024 20:02]  Juniper: King's Faire! King's Faire!
+[08/28/2024 20:02]  tee hee you dead: [Member, NC]
+[08/28/2024 20:02]  tee hee you dead: tee hee you dead
+[08/28/2024 20:02]  Juniper: The King's Faire is here!
+[08/28/2024 20:02]  MrFinch: [ICON]
+[08/28/2024 20:02]  MrFinch: MrFinch
+[08/28/2024 20:03]  MrFinch: Kal Ort Por
+[08/28/2024 20:03]  vD: We are focused on Farming and running End Game content. (New or Veteran player's Welcome)
+[08/28/2024 20:03]  Givon: Givon the tailor
+[08/28/2024 20:03]  Standford: Standford the provisioner
+[08/28/2024 20:03]  Ace: Ace the miner
+[08/28/2024 20:03]  Bond: Bond the blacksmith
+[08/28/2024 20:03]  Bess: Bess the miner
+[08/28/2024 20:03]  Chumlee: Chumlee the pawnbroker
+[08/28/2024 20:03]  Tate: Tate the weaponsmith
+[08/28/2024 20:03]  BABA YUMRUKCU: Aegis Keep Guardian
+[08/28/2024 20:03]  BABA YUMRUKCU: [Yeni Raki 70cl], [tT]
+[08/28/2024 20:03]  BABA YUMRUKCU: BABA YUMRUKCU
+[08/28/2024 20:03]  Damory: Damory
+[08/28/2024 20:03]  a horse: (tame)
+[08/28/2024 20:03]  a horse: a horse
+[08/28/2024 20:03]  Mondarayya: Mondarayya
+[08/28/2024 20:03]  a drake whelp: (bonded)
+[08/28/2024 20:03]  a drake whelp: a drake whelp
+[08/28/2024 20:03]  a deep crawler: (bonded)
+[08/28/2024 20:03]  a deep crawler: a deep crawler
+[08/28/2024 20:03]  a drake whelp: (bonded)
+[08/28/2024 20:03]  a drake whelp: a drake whelp
+[08/28/2024 20:03]  Sergio: Sergio the healer
+[08/28/2024 20:03]  System: Holy symbols remaining: 5/10
+[08/28/2024 20:03]  Razor: [+Paralyze (0s)]
+[08/28/2024 20:03]  System: You are no longer hindered.
+[08/28/2024 20:03]  Razor: [-Paralyze (s)]
+[08/28/2024 20:03]  Kenton: Kenton the healer
+[08/28/2024 20:03]  Qamra: Qamra the blacksmith
+[08/28/2024 20:03]  Sergio: Sergio the healer
+[08/28/2024 20:03]  System: You have left the protection of the town guards.
+[08/28/2024 20:03]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[08/28/2024 20:03]  Razor: [+Hidden/Stealthing (0s)]
+[08/28/2024 20:03]  [Razor]: Steps: 0
+[08/28/2024 20:03]  water elemental: water elemental
+[08/28/2024 20:03]  Kearney: Kearney the wandering healer
+[08/28/2024 20:03]  Razor: [-Hidden/Stealthing (s)]
+[08/28/2024 20:03]  water elemental: water elemental
+[08/28/2024 20:03]  Ailiin: You are entering a sanctuary dungeon.
+[08/28/2024 20:03]  Ailiin: Your mount finds a quiet place to rest safely.
+[08/28/2024 20:03]  You see: a minion corpse
+[08/28/2024 20:03]  You see: a minion corpse
+[08/28/2024 20:03]  shallow water: shallow water
+[08/28/2024 20:03]  a minion: a minion
+[08/28/2024 20:04]  You see: guarding lyric aspect norse helm
+[08/28/2024 20:04]  [Razor]: New target set.
+[08/28/2024 20:04]  Razor: * Target *
+[08/28/2024 20:04]  [Razor]: Ignore List cleared
+[08/28/2024 20:04]  System: What instrument shall you play?
+[08/28/2024 20:04]  System: That is too far away.
+[08/28/2024 20:04]  Razor: shallow water
+[08/28/2024 20:04]  Ailiin: Target: shallow water
+[08/28/2024 20:04]  Ailiin: -8
+[08/28/2024 20:04]  shallow water: -21
+[08/28/2024 20:04]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:04]  System: You smash the unprotected target, dealing significant damage!
+[08/28/2024 20:04]  shallow water: -170
+[08/28/2024 20:04]  [Razor]: New target set.
+[08/28/2024 20:04]  Razor: * Target *
+[08/28/2024 20:04]  [Razor]: Ignore List cleared
+[08/28/2024 20:04]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:04]  System: You play successfully, pacifying your target. (37s)
+[08/28/2024 20:04]  shallow water: *looks calmed*
+[08/28/2024 20:04]  Razor: *pacified 37s* shallow water
+[08/28/2024 20:04]  shallow water: *regens*
+[08/28/2024 20:04]  shallow water: -114
+[08/28/2024 20:04]  [Razor]: New target set.
+[08/28/2024 20:04]  Razor: * Target *
+[08/28/2024 20:04]  [Razor]: Ignore List cleared
+[08/28/2024 20:04]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:04]  shallow water: -91
+[08/28/2024 20:04]  System: You have gained a little fame.
+[08/28/2024 20:04]  System: You have gained a little karma.
+[08/28/2024 20:04]  Ailiin: (Lyric Aspect 481.0/500 xp)
+[08/28/2024 20:04]  System: -484
+[08/28/2024 20:04]  You see: a shallow water corpse
+[08/28/2024 20:04]  System: Max holy symbols earned (10/10)
+[08/28/2024 20:04]  You see: a minion corpse
+[08/28/2024 20:04]  a minion: a minion
+[08/28/2024 20:04]  You see: a minion corpse
+[08/28/2024 20:04]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:04]  [Razor]: New target set.
+[08/28/2024 20:04]  Razor: * Target *
+[08/28/2024 20:04]  [Razor]: Ignore List cleared
+[08/28/2024 20:04]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:04]  You see: a writhing tentacle corpse
+[08/28/2024 20:04]  You see: a writhing tentacle corpse
+[08/28/2024 20:04]  a precursor servitor: a precursor servitor
+[08/28/2024 20:04]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:04]  Ailiin: Target: a minion
+[08/28/2024 20:04]  Ailiin: -8
+[08/28/2024 20:04]  a minion: -84
+[08/28/2024 20:04]  [Razor]: New target set.
+[08/28/2024 20:04]  [Razor]: Ignore List cleared
+[08/28/2024 20:04]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:04]  System: You play successfully, pacifying your target. (37s)
+[08/28/2024 20:04]  a minion: *looks calmed*
+[08/28/2024 20:04]  You see: a writhing tentacle corpse
+[08/28/2024 20:04]  Razor: *pacified 37s* a minion
+[08/28/2024 20:04]  [Razor]: New target set.
+[08/28/2024 20:04]  Razor: * Target *
+[08/28/2024 20:04]  [Razor]: Ignore List cleared
+[08/28/2024 20:04]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:04]  a minion: -73
+[08/28/2024 20:04]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:04]  [Razor]: New target set.
+[08/28/2024 20:04]  [Razor]: Ignore List cleared
+[08/28/2024 20:04]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:04]  a minion: -72
+[08/28/2024 20:04]  [Razor]: New target set.
+[08/28/2024 20:04]  [Razor]: Ignore List cleared
+[08/28/2024 20:04]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:04]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 28s)
+[08/28/2024 20:04]  Razor: *pacified 31s discord 1m 28s* a minion
+[08/28/2024 20:04]  a minion: -94
+[08/28/2024 20:04]  System: Holy symbols remaining: 6/10
+[08/28/2024 20:04]  a minion: -75
+[08/28/2024 20:04]  Alzoneth: Wizard
+[08/28/2024 20:04]  Alzoneth: [Citizen, Yew]
+[08/28/2024 20:04]  Alzoneth: Alzoneth
+[08/28/2024 20:04]  a minion: -117
+[08/28/2024 20:04]  a minion: -89
+[08/28/2024 20:04]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:04]  Alzoneth: Wizard
+[08/28/2024 20:04]  Alzoneth: [Citizen, Yew]
+[08/28/2024 20:04]  Alzoneth: Alzoneth
+[08/28/2024 20:04]  a minion: -92
+[08/28/2024 20:04]  a minion: -118
+[08/28/2024 20:04]  System: You smash the unprotected target, dealing significant damage!
+[08/28/2024 20:04]  System: You have gained a little fame.
+[08/28/2024 20:04]  System: You have gained a little karma.
+[08/28/2024 20:04]  Ailiin: (Lyric Aspect 482.3/500 xp)
+[08/28/2024 20:04]  System: -186
+[08/28/2024 20:04]  You see: a minion corpse
+[08/28/2024 20:04]  System: Lotara Sarrin has completed the achievement: Skill Proficiency (Advanced).
+[08/28/2024 20:04]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:04]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:04]  System: You are now under the effect of a Song of Discordance (6.0% reduced damage from creatures for 15 minutes).
+[08/28/2024 20:04]  Razor: [+Song of Discordance (900s)]
+[08/28/2024 20:04]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:04]  System: Max holy symbols earned (10/10)
+[08/28/2024 20:04]  System: You must wait a few moments before performing another barding song.
+[08/28/2024 20:04]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:04]  System: You are now under the effect of a Song of Provocation (+6.0% damage against creatures for 15 minutes).
+[08/28/2024 20:04]  Razor: [+Song of Provocation (900s)]
+[08/28/2024 20:05]  You see: a precursor servitor corpse
+[08/28/2024 20:05]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:05]  System: You are now under the effect of a Song of Peacemaking (6.0% healing amounts for 15 minutes).
+[08/28/2024 20:05]  Razor: [+Song of Peacemaking (900s)]
+[08/28/2024 20:05]  Limpa-trilho: [New Player, NP$]
+[08/28/2024 20:05]  Limpa-trilho: Limpa-trilho
+[08/28/2024 20:05]  a precursor servitor: a precursor servitor
+[08/28/2024 20:05]  a precursor sentry: a precursor sentry
+[08/28/2024 20:05]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:05]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:05]  a precursor servitor: a precursor servitor
+[08/28/2024 20:05]  a precursor sentry: a precursor sentry
+[08/28/2024 20:05]  a precursor servitor: a precursor servitor
+[08/28/2024 20:05]  You see: a precursor servitor corpse
+[08/28/2024 20:05]  You see: a minion corpse
+[08/28/2024 20:05]  You see: a minion corpse
+[08/28/2024 20:05]  You see: a writhing tentacle corpse
+[08/28/2024 20:05]  You see: a minion corpse
+[08/28/2024 20:05]  You see: a minion corpse
+[08/28/2024 20:05]  You see: a precursor sentry corpse
+[08/28/2024 20:05]  You see: a minion corpse
+[08/28/2024 20:05]  You see: a minion corpse
+[08/28/2024 20:05]  System: Holy symbols remaining: 6/10
+[08/28/2024 20:05]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:05]  [Razor]: New target set.
+[08/28/2024 20:05]  Razor: * Target *
+[08/28/2024 20:05]  shallow water: shallow water
+[08/28/2024 20:05]  [Razor]: Ignore List cleared
+[08/28/2024 20:05]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:05]  System: You play successfully, pacifying your target. (37s)
+[08/28/2024 20:05]  a writhing tentacle: *looks calmed*
+[08/28/2024 20:05]  You see: a writhing tentacle corpse
+[08/28/2024 20:05]  Razor: -96
+[08/28/2024 20:05]  a writhing tentacle: *pacified 37s*
+[08/28/2024 20:05]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:05]  You see: a shallow water corpse
+[08/28/2024 20:05]  You see: a precursor servitor corpse
+[08/28/2024 20:05]  Ailiin: Target: a writhing tentacle
+[08/28/2024 20:05]  a writhing tentacle: -93
+[08/28/2024 20:05]  [Razor]: New target set.
+[08/28/2024 20:05]  Razor: * Target *
+[08/28/2024 20:05]  [Razor]: Ignore List cleared
+[08/28/2024 20:05]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:05]  a writhing tentacle: -75
+[08/28/2024 20:05]  System: You smash the unprotected target, dealing significant damage!
+[08/28/2024 20:05]  a writhing tentacle: -191
+[08/28/2024 20:05]  a writhing tentacle: -92
+[08/28/2024 20:05]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:05]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:05]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:05]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:06]  System: You smash the unprotected target, dealing significant damage!
+[08/28/2024 20:06]  a writhing tentacle: -183
+[08/28/2024 20:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:06]  Razor: * Target *
+[08/28/2024 20:06]  System: You play successfully, pacifying your target. (37s)
+[08/28/2024 20:06]  shallow water: *looks calmed*
+[08/28/2024 20:06]  System: You have gained a little fame.
+[08/28/2024 20:06]  System: You have gained a little karma.
+[08/28/2024 20:06]  Ailiin: (Lyric Aspect 483.2/500 xp)
+[08/28/2024 20:06]  System: -70
+[08/28/2024 20:06]  You see: a writhing tentacle corpse
+[08/28/2024 20:06]  Ailiin: Target: shallow water
+[08/28/2024 20:06]  shallow water: -82
+[08/28/2024 20:06]  shallow water: *regens*
+[08/28/2024 20:06]  System: Being perfectly rested, you shove them out of the way.
+[08/28/2024 20:06]  shallow water: -96
+[08/28/2024 20:06]  [Razor]: New target set.
+[08/28/2024 20:06]  [Razor]: Ignore List cleared
+[08/28/2024 20:06]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:06]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 28s)
+[08/28/2024 20:06]  Razor: *pacified 31s discord 1m 28s* shallow water
+[08/28/2024 20:06]  shallow water: -96
+[08/28/2024 20:06]  System: Max holy symbols earned (10/10)
+[08/28/2024 20:06]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:06]  shallow water: -87
+[08/28/2024 20:06]  Limpa-trilho: [New Player, NP$]
+[08/28/2024 20:06]  Limpa-trilho: Limpa-trilho
+[08/28/2024 20:06]  shallow water: -98
+[08/28/2024 20:06]  shallow water: -96
+[08/28/2024 20:06]  shallow water: -75
+[08/28/2024 20:06]  [Razor]: New target set.
+[08/28/2024 20:06]  Razor: * Target *
+[08/28/2024 20:06]  [Razor]: Ignore List cleared
+[08/28/2024 20:06]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:06]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 28s)
+[08/28/2024 20:06]  Razor: *pacified 21s discord 1m 28s* shallow water
+[08/28/2024 20:06]  shallow water: -110
+[08/28/2024 20:06]  shallow water: -29
+[08/28/2024 20:06]  System: Holy symbols remaining: 6/10
+[08/28/2024 20:06]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:06]  shallow water: *regens*
+[08/28/2024 20:06]  shallow water: -110
+[08/28/2024 20:06]  You see: a precursor servitor corpse
+[08/28/2024 20:06]  System: You have gained a little fame.
+[08/28/2024 20:06]  System: You have gained a little karma.
+[08/28/2024 20:06]  Ailiin: (Lyric Aspect 484.2/500 xp)
+[08/28/2024 20:06]  System: -81
+[08/28/2024 20:06]  You see: a shallow water corpse
+[08/28/2024 20:06]  a precursor servitor: a precursor servitor
+[08/28/2024 20:06]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:06]  You see: an observer corpse
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  You see: a living water corpse
+[08/28/2024 20:06]  You see: a living water corpse
+[08/28/2024 20:06]  shallow water: shallow water
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  You see: a living water corpse
+[08/28/2024 20:06]  You see: a minion corpse
+[08/28/2024 20:06]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:06]  You see: a minion corpse
+[08/28/2024 20:06]  System: Being perfectly rested, you shove them out of the way.
+[08/28/2024 20:06]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:06]  System: Max holy symbols earned (10/10)
+[08/28/2024 20:06]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  a precursor sentry: a precursor sentry
+[08/28/2024 20:06]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:06]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:06]  System: You are currently prevented from performing criminal looting actions.
+[08/28/2024 20:06]  an observer: an observer
+[08/28/2024 20:06]  a writhing tentacle: a writhing tentacle
+[08/28/2024 20:06]  shallow water: shallow water
+[08/28/2024 20:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:06]  Razor: * Target *
+[08/28/2024 20:06]  a writhing tentacle: *looks calmed*
+[08/28/2024 20:06]  a writhing tentacle: *looks calmed*
+[08/28/2024 20:06]  a writhing tentacle: *looks calmed*
+[08/28/2024 20:06]  a writhing tentacle: *looks calmed*
+[08/28/2024 20:06]  a precursor sentry: *looks calmed*
+[08/28/2024 20:06]  a writhing tentacle: *looks calmed*
+[08/28/2024 20:06]  a writhing tentacle: *looks calmed*
+[08/28/2024 20:06]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[08/28/2024 20:06]  System: Holy symbols remaining: 6/10
+[08/28/2024 20:06]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:06]  You see: a precursor lancer corpse
+[08/28/2024 20:06]  You see: a precursor servitor corpse
+[08/28/2024 20:06]  You see: a precursor servitor corpse
+[08/28/2024 20:06]  a precursor servitor: a precursor servitor
+[08/28/2024 20:06]  a precursor sentry: a precursor sentry
+[08/28/2024 20:06]  a precursor warden: a precursor warden
+[08/28/2024 20:06]  a precursor servitor: a precursor servitor
+[08/28/2024 20:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:06]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:06]  a precursor servitor: a precursor servitor
+[08/28/2024 20:06]  Razor: * Target *
+[08/28/2024 20:06]  System: You play successfully, pacifying your target. (37s)
+[08/28/2024 20:06]  a precursor sentry: *looks calmed*
+[08/28/2024 20:07]  a precursor warden: a precursor warden
+[08/28/2024 20:07]  a precursor servitor: a precursor servitor
+[08/28/2024 20:07]  System: DocMarty has completed the achievement: Order of Armorers Initiate.
+[08/28/2024 20:07]  a precursor sentry: *uses searchlight*
+[08/28/2024 20:07]  [Razor]: New target set.
+[08/28/2024 20:07]  System: Max holy symbols earned (10/10)
+[08/28/2024 20:07]  a precursor servitor: a precursor servitor
+[08/28/2024 20:07]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:07]  Razor: MobOne = *pacified 27s* a precursor sentry
+[08/28/2024 20:07]  [Razor]: Select target for variable 'mobTwo'
+[08/28/2024 20:07]  Razor: * Target *
+[08/28/2024 20:07]  Razor: MobTwo = a precursor servitor
+[08/28/2024 20:07]  [Razor]: Ignore List cleared
+[08/28/2024 20:07]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:07]  System: Whom do you wish them to attack?
+[08/28/2024 20:07]  System: That is too far away.
+[08/28/2024 20:07]  [Razor]: New target set.
+[08/28/2024 20:07]  Razor: * Target *
+[08/28/2024 20:07]  Razor: MobOne = *pacified 23s* a precursor sentry
+[08/28/2024 20:07]  [Razor]: Select target for variable 'mobTwo'
+[08/28/2024 20:07]  Razor: * Target *
+[08/28/2024 20:07]  Razor: MobTwo = a precursor servitor
+[08/28/2024 20:07]  [Razor]: Ignore List cleared
+[08/28/2024 20:07]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:07]  System: Whom do you wish them to attack?
+[08/28/2024 20:07]  System: That is too far away.
+[08/28/2024 20:07]  [Razor]: New target set.
+[08/28/2024 20:07]  Razor: * Target *
+[08/28/2024 20:07]  Razor: MobOne = *pacified 21s* a precursor sentry
+[08/28/2024 20:07]  [Razor]: Select target for variable 'mobTwo'
+[08/28/2024 20:07]  Razor: * Target *
+[08/28/2024 20:07]  Razor: MobTwo = a precursor servitor
+[08/28/2024 20:07]  [Razor]: Ignore List cleared
+[08/28/2024 20:07]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:07]  System: Whom do you wish them to attack?
+[08/28/2024 20:07]  System: You play successfully, provoking your targets. (44s)
+[08/28/2024 20:07]  a precursor sentry: *looks furious*
+[08/28/2024 20:07]  a precursor servitor: *looks furious*
+[08/28/2024 20:07]  a precursor sentry: -21
+[08/28/2024 20:07]  a precursor servitor: -18
+[08/28/2024 20:07]  a precursor servitor: -33
+[08/28/2024 20:07]  a precursor sentry: -21
+[08/28/2024 20:07]  System: Holy symbols remaining: 6/10
+[08/28/2024 20:07]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:07]  a precursor sentry: -10
+[08/28/2024 20:07]  a precursor servitor: -15
+[08/28/2024 20:07]  a precursor sentry: -20
+[08/28/2024 20:07]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:07]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:07]  Razor: * Target *
+[08/28/2024 20:07]  System: Whom do you wish them to attack?
+[08/28/2024 20:07]  a precursor servitor: -21
+[08/28/2024 20:07]  Razor: * Target *
+[08/28/2024 20:07]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:07]  System: You play successfully, provoking your targets. (37s)
+[08/28/2024 20:07]  a precursor servitor: *looks furious*
+[08/28/2024 20:07]  a precursor servitor: *looks furious*
+[08/28/2024 20:07]  a precursor servitor: -20
+[08/28/2024 20:07]  a precursor servitor: -21
+[08/28/2024 20:07]  System: Julez has completed the achievement: Transmutation (Basic).
+[08/28/2024 20:07]  a precursor servitor: -42
+[08/28/2024 20:07]  Ailiin: Target: a precursor servitor
+[08/28/2024 20:07]  a precursor guardian: a precursor guardian
+[08/28/2024 20:07]  a precursor servitor: -56
+[08/28/2024 20:07]  a precursor servitor: -16
+[08/28/2024 20:07]  Ailiin: Cleave stance activated.
+[08/28/2024 20:07]  a precursor servitor: -54
+[08/28/2024 20:07]  a precursor servitor: -2
+[08/28/2024 20:07]  System: Your attack crushes their armor!
+[08/28/2024 20:07]  a precursor servitor: -94
+[08/28/2024 20:07]  a precursor servitor: -7
+[08/28/2024 20:07]  System: Max holy symbols earned (10/10)
+[08/28/2024 20:07]  a precursor servitor: -18
+[08/28/2024 20:07]  a precursor servitor: -16
+[08/28/2024 20:07]  a precursor servitor: -57
+[08/28/2024 20:07]  a precursor servitor: -3
+[08/28/2024 20:07]  a precursor engineer: a precursor engineer
+[08/28/2024 20:07]  a precursor servitor: -64
+[08/28/2024 20:07]  a precursor servitor: -3
+[08/28/2024 20:07]  Razor: [Last Target]
+[08/28/2024 20:07]  a precursor engineer: a precursor engineer
+[08/28/2024 20:07]  a precursor guardian: a precursor guardian
+[08/28/2024 20:07]  a precursor servitor: *provoked 21s*
+[08/28/2024 20:07]  a precursor servitor: a precursor servitor
+[08/28/2024 20:07]  a precursor warden: a precursor warden
+[08/28/2024 20:07]  a precursor sentry: *provoked 16s*
+[08/28/2024 20:07]  a precursor sentry: a precursor sentry
+[08/28/2024 20:07]  a precursor servitor: *provoked 21s*
+[08/28/2024 20:07]  a precursor servitor: a precursor servitor
+[08/28/2024 20:07]  You see: a precursor servitor corpse
+[08/28/2024 20:07]  a precursor servitor: -22
+[08/28/2024 20:07]  a precursor servitor: -33
+[08/28/2024 20:07]  a precursor servitor: -64
+[08/28/2024 20:07]  a precursor servitor: -300
+[08/28/2024 20:07]  a precursor servitor: -300
+[08/28/2024 20:07]  a precursor sentry: -300
+[08/28/2024 20:07]  a precursor servitor: -4
+[08/28/2024 20:07]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:07]  a precursor servitor: -21
+[08/28/2024 20:07]  Razor: * Target *
+[08/28/2024 20:07]  System: Whom do you wish them to attack?
+[08/28/2024 20:07]  Razor: * Target *
+[08/28/2024 20:07]  a precursor servitor: -73
+[08/28/2024 20:07]  a precursor servitor: -4
+[08/28/2024 20:07]  System: You play successfully, provoking your targets. (37s)
+[08/28/2024 20:07]  a precursor sentry: *looks furious*
+[08/28/2024 20:07]  a precursor servitor: *looks furious*
+[08/28/2024 20:07]  a precursor sentry: -21
+[08/28/2024 20:07]  a precursor servitor: -18
+[08/28/2024 20:07]  System: Holy symbols remaining: 6/10
+[08/28/2024 20:07]  a precursor servitor: -12
+[08/28/2024 20:07]  a precursor servitor: -65
+[08/28/2024 20:07]  a precursor servitor: -3
+[08/28/2024 20:07]  a precursor sentry: -20
+[08/28/2024 20:07]  System: Your attack crushes their armor!
+[08/28/2024 20:07]  a precursor sentry: -105
+[08/28/2024 20:07]  a precursor servitor: -7
+[08/28/2024 20:07]  a precursor servitor: -15
+[08/28/2024 20:07]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:07]  a precursor sentry: -15
+[08/28/2024 20:07]  a precursor servitor: *barding break*
+[08/28/2024 20:07]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:07]  a precursor servitor: -6
+[08/28/2024 20:07]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:07]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:08]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:08]  You see: a precursor servitor corpse
+[08/28/2024 20:08]  Razor: * Target *
+[08/28/2024 20:08]  System: Whom do you wish them to attack?
+[08/28/2024 20:08]  Razor: * Target *
+[08/28/2024 20:08]  System: You play successfully, provoking your targets. (37s)
+[08/28/2024 20:08]  a precursor sentry: *looks furious*
+[08/28/2024 20:08]  a precursor servitor: -20
+[08/28/2024 20:08]  a precursor servitor: *looks furious*
+[08/28/2024 20:08]  a precursor servitor: -13
+[08/28/2024 20:08]  You see: a precursor lancer corpse
+[08/28/2024 20:08]  Ailiin: Target: a precursor servitor
+[08/28/2024 20:08]  Ailiin: -8
+[08/28/2024 20:08]  a precursor servitor: -67
+[08/28/2024 20:08]  [Razor]: New target set.
+[08/28/2024 20:08]  Razor: * Target *
+[08/28/2024 20:08]  [Razor]: Ignore List cleared
+[08/28/2024 20:08]  System: You have gained a little fame.
+[08/28/2024 20:08]  System: You have gained a little karma.
+[08/28/2024 20:08]  Ailiin: (Lyric Aspect 485.8/500 xp)
+[08/28/2024 20:08]  System: -12
+[08/28/2024 20:08]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:08]  You see: a precursor servitor corpse
+[08/28/2024 20:08]  a precursor engineer: a precursor engineer
+[08/28/2024 20:08]  a precursor warden: a precursor warden
+[08/28/2024 20:08]  Ailiin: Target: a precursor sentry
+[08/28/2024 20:08]  a precursor sentry: -56
+[08/28/2024 20:08]  a precursor servitor: -3
+[08/28/2024 20:08]  [Razor]: New target set.
+[08/28/2024 20:08]  Razor: * Target *
+[08/28/2024 20:08]  [Razor]: Ignore List cleared
+[08/28/2024 20:08]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:08]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 28s)
+[08/28/2024 20:08]  Razor: *provoked 29s discord 1m 28s* a precursor sentry
+[08/28/2024 20:08]  a precursor sentry: -89
+[08/28/2024 20:08]  a precursor servitor: -4
+[08/28/2024 20:08]  System: Max holy symbols earned (10/10)
+[08/28/2024 20:08]  a precursor sentry: -92
+[08/28/2024 20:08]  a precursor servitor: -6
+[08/28/2024 20:08]  System: Your attack crushes their armor!
+[08/28/2024 20:08]  a precursor sentry: -186
+[08/28/2024 20:08]  a precursor servitor: -11
+[08/28/2024 20:08]  System: Holy symbols remaining: 7/10
+[08/28/2024 20:08]  a precursor sentry: -134
+[08/28/2024 20:08]  a precursor servitor: -9
+[08/28/2024 20:08]  System: Holy symbols remaining: 5/10
+[08/28/2024 20:08]  a precursor sentry: -22
+[08/28/2024 20:08]  a precursor servitor: -21
+[08/28/2024 20:08]  a precursor servitor: -34
+[08/28/2024 20:08]  a precursor sentry: -122
+[08/28/2024 20:08]  a precursor servitor: -7
+[08/28/2024 20:08]  System: Holy symbols remaining: 2/10
+[08/28/2024 20:08]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:08]  a precursor sentry: -137
+[08/28/2024 20:08]  a precursor servitor: -8
+[08/28/2024 20:08]  Razor: * Target *
+[08/28/2024 20:08]  System: You play successfully, pacifying your target. (44s)
+[08/28/2024 20:08]  a precursor servitor: *looks calmed*
+[08/28/2024 20:08]  a precursor servitor: -10
+[08/28/2024 20:08]  System: You have gained a little fame.
+[08/28/2024 20:08]  System: You have gained a little karma.
+[08/28/2024 20:08]  Ailiin: (Lyric Aspect 487.5/500 xp)
+[08/28/2024 20:08]  System: -129
+[08/28/2024 20:08]  You see: a precursor sentry corpse
+[08/28/2024 20:08]  Ailiin: Target: a precursor servitor
+[08/28/2024 20:08]  a precursor servitor: -55
+[08/28/2024 20:08]  System: Your attack crushes their armor!
+[08/28/2024 20:08]  a precursor servitor: -110
+[08/28/2024 20:08]  a precursor servitor: -89
+[08/28/2024 20:08]  a precursor servitor: -74
+[08/28/2024 20:08]  a precursor servitor: -67
+[08/28/2024 20:08]  a precursor warden: a precursor warden
+[08/28/2024 20:08]  a precursor servitor: -89
+[08/28/2024 20:08]  a precursor servitor: -75
+[08/28/2024 20:08]  a precursor servitor: -82
+[08/28/2024 20:08]  a precursor servitor: -79
+[08/28/2024 20:08]  Razor: [Last Target]
+[08/28/2024 20:08]  a precursor servitor: *pacified 24s*
+[08/28/2024 20:08]  a precursor servitor: a precursor servitor
+[08/28/2024 20:08]  You see: a precursor servitor corpse
+[08/28/2024 20:08]  You see: a precursor sentry corpse
+[08/28/2024 20:08]  You see: a precursor servitor corpse
+[08/28/2024 20:08]  System: You have gained a little fame.
+[08/28/2024 20:08]  System: You have gained a little karma.
+[08/28/2024 20:08]  Ailiin: (Lyric Aspect 489.1/500 xp)
+[08/28/2024 20:08]  System: -48
+[08/28/2024 20:08]  You see: a precursor servitor corpse
+[08/28/2024 20:08]  System: You must wait another moment before you may pick up an item from here.
+[08/28/2024 20:08]  a precursor engineer: a precursor engineer
+[08/28/2024 20:08]  System: Holy symbols remaining: 4/10
+[08/28/2024 20:08]  a precursor warden: a precursor warden
+[08/28/2024 20:08]  a precursor guardian: a precursor guardian
+[08/28/2024 20:08]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:08]  Razor: * Target *
+[08/28/2024 20:08]  System: Whom do you wish them to attack?
+[08/28/2024 20:08]  Razor: * Target *
+[08/28/2024 20:08]  System: You fail to incite anger amongst your opponents. You estimate the task to be somewhat challenging.
+[08/28/2024 20:09]  You see: a precursor servitor corpse
+[08/28/2024 20:09]  You see: a precursor lancer corpse
+[08/28/2024 20:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:09]  a precursor engineer: a precursor engineer
+[08/28/2024 20:09]  System: You fail to pacify your opponent. You estimate the task to be somewhat challenging.
+[08/28/2024 20:09]  Ailiin: -28
+[08/28/2024 20:09]  Ailiin: -27
+[08/28/2024 20:09]  a precursor engineer: a precursor engineer
+[08/28/2024 20:09]  System: Ferahgo has completed the achievement: Savant (Advanced).
+[08/28/2024 20:09]  a precursor guardian: a precursor guardian
+[08/28/2024 20:09]  You see: a precursor servitor corpse
+[08/28/2024 20:09]  You see: a precursor lancer corpse
+[08/28/2024 20:09]  a precursor servitor: a precursor servitor
+[08/28/2024 20:09]  a precursor servitor: a precursor servitor
+[08/28/2024 20:09]  a precursor guardian: a precursor guardian
+[08/28/2024 20:09]  a precursor engineer: a precursor engineer
+[08/28/2024 20:09]  Razor: [Last Target]
+[08/28/2024 20:09]  a precursor warden: a precursor warden
+[08/28/2024 20:09]  a precursor engineer: a precursor engineer
+[08/28/2024 20:09]  living water: living water
+[08/28/2024 20:09]  a precursor sentry: a precursor sentry
+[08/28/2024 20:09]  pure water: pure water
+[08/28/2024 20:09]  You see: a precursor servitor corpse
+[08/28/2024 20:09]  System: Holy symbols remaining: 5/10
+[08/28/2024 20:09]  System: You must wait a moment before attempting to use another Chivalry ability.
+[08/28/2024 20:09]  a precursor sentry: *uses searchlight*
+[08/28/2024 20:09]  Ailiin: +42
+[08/28/2024 20:09]  System: some damage has been healed : 42
+[08/28/2024 20:09]  System: Holy symbols remaining: 1/10
+[08/28/2024 20:09]  a precursor engineer: a precursor engineer
+[08/28/2024 20:09]  Razor: [Last Target]
+[08/28/2024 20:09]  a precursor warden: a precursor warden
+[08/28/2024 20:09]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:09]  Razor: [Last Target]
+[08/28/2024 20:09]  a precursor warden: a precursor warden
+[08/28/2024 20:09]  living water: living water
+[08/28/2024 20:09]  Razor: [Last Target]
+[08/28/2024 20:09]  a precursor sentry: *uses searchlight*
+[08/28/2024 20:09]  Razor: * Target *
+[08/28/2024 20:09]  System: Whom do you wish them to attack?
+[08/28/2024 20:09]  Razor: * Target *
+[08/28/2024 20:09]  System: You play successfully, provoking your targets. (37s)
+[08/28/2024 20:09]  living water: *looks furious*
+[08/28/2024 20:09]  pure water: *looks furious*
+[08/28/2024 20:09]  a precursor guardian: a precursor guardian
+[08/28/2024 20:09]  pure water: -24
+[08/28/2024 20:09]  a precursor warden: a precursor warden
+[08/28/2024 20:09]  Ailiin: Target: a precursor sentry
+[08/28/2024 20:09]  a precursor servitor: a precursor servitor
+[08/28/2024 20:09]  living water: -44
+[08/28/2024 20:09]  a precursor engineer: a precursor engineer
+[08/28/2024 20:09]  pure water: -33
+[08/28/2024 20:09]  living water: living water
+[08/28/2024 20:09]  Ailiin: Target: a precursor sentry
+[08/28/2024 20:09]  Ailiin: -18
+[08/28/2024 20:09]  Ailiin: Target: a precursor sentry
+[08/28/2024 20:09]  pure water: *barding break*
+[08/28/2024 20:09]  [Razor]: New target set.
+[08/28/2024 20:09]  Razor: * Target *
+[08/28/2024 20:09]  [Razor]: Ignore List cleared
+[08/28/2024 20:09]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:09]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 13s)
+[08/28/2024 20:09]  Ailiin: Your barding skill cooldowns reset.
+[08/28/2024 20:09]  Razor: *discord 1m 13s* a precursor sentry
+[08/28/2024 20:09]  pure water: -23
+[08/28/2024 20:09]  a precursor servitor: a precursor servitor
+[08/28/2024 20:09]  [Razor]: New target set.
+[08/28/2024 20:09]  Razor: * Target *
+[08/28/2024 20:09]  [Razor]: Ignore List cleared
+[08/28/2024 20:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:09]  System: You play successfully, pacifying your target. (44s)
+[08/28/2024 20:09]  a precursor sentry: *looks calmed*
+[08/28/2024 20:09]  Razor: *pacified 44s discord 1m 11s* a precursor sentry
+[08/28/2024 20:09]  System: Your attack crushes their armor!
+[08/28/2024 20:09]  a precursor sentry: -195
+[08/28/2024 20:09]  System: Holy symbols remaining: 2/10
+[08/28/2024 20:09]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:09]  pure water: -4
+[08/28/2024 20:09]  a precursor sentry: -118
+[08/28/2024 20:09]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:09]  a precursor sentry: -102
+[08/28/2024 20:09]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:09]  a precursor sentry: -110
+[08/28/2024 20:09]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:09]  Ailiin: -9
+[08/28/2024 20:09]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:09]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:09]  System: You smash the unprotected target, dealing significant damage!
+[08/28/2024 20:09]  a precursor sentry: -267
+[08/28/2024 20:09]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:09]  a precursor servitor: a precursor servitor
+[08/28/2024 20:09]  a precursor engineer: a precursor engineer
+[08/28/2024 20:09]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:09]  You see: a precursor sentry corpse
+[08/28/2024 20:09]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:09]  You see: a precursor servitor corpse
+[08/28/2024 20:09]  You see: a precursor servitor corpse
+[08/28/2024 20:09]  Razor: * Target *
+[08/28/2024 20:09]  System: Whom do you wish them to attack?
+[08/28/2024 20:09]  Razor: * Target *
+[08/28/2024 20:09]  System: You play successfully, provoking your targets. (37s)
+[08/28/2024 20:09]  living water: *looks furious*
+[08/28/2024 20:09]  pure water: *looks furious*
+[08/28/2024 20:09]  Ailiin: -19
+[08/28/2024 20:10]  living water: living water
+[08/28/2024 20:10]  living water: -14
+[08/28/2024 20:10]  pure water: -18
+[08/28/2024 20:10]  living water: -1
+[08/28/2024 20:10]  Ailiin: Target: pure water
+[08/28/2024 20:10]  : marble floor
+[08/28/2024 20:10]  pure water: -81
+[08/28/2024 20:10]  living water: -8
+[08/28/2024 20:10]  Ailiin: +42
+[08/28/2024 20:10]  System: some damage has been healed : 42
+[08/28/2024 20:10]  pure water: -102
+[08/28/2024 20:10]  living water: -129
+[08/28/2024 20:10]  a precursor sentry: -131
+[08/28/2024 20:10]  System: Holy symbols remaining: 0/10
+[08/28/2024 20:10]  pure water: -16
+[08/28/2024 20:10]  living water: -1
+[08/28/2024 20:10]  pure water: -28
+[08/28/2024 20:10]  living water: -38
+[08/28/2024 20:10]  pure water: -18
+[08/28/2024 20:10]  living water: -1
+[08/28/2024 20:10]  Ailiin: Target: pure water
+[08/28/2024 20:10]  Ailiin: Target: a precursor sentry
+[08/28/2024 20:10]  System: Your attack crushes their armor!
+[08/28/2024 20:10]  a precursor sentry: -119
+[08/28/2024 20:10]  pure water: -10
+[08/28/2024 20:10]  [Razor]: New target set.
+[08/28/2024 20:10]  Razor: * Target *
+[08/28/2024 20:10]  pure water: -30
+[08/28/2024 20:10]  [Razor]: Ignore List cleared
+[08/28/2024 20:10]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:10]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 28s)
+[08/28/2024 20:10]  Razor: *pacified 19s discord 1m 28s* a precursor sentry
+[08/28/2024 20:10]  a precursor sentry: -101
+[08/28/2024 20:10]  pure water: -8
+[08/28/2024 20:10]  living water: -20
+[08/28/2024 20:10]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:10]  a precursor sentry: -101
+[08/28/2024 20:10]  pure water: -8
+[08/28/2024 20:10]  a precursor sentry: -92
+[08/28/2024 20:10]  pure water: -7
+[08/28/2024 20:10]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:10]  a precursor sentry: -108
+[08/28/2024 20:10]  pure water: -9
+[08/28/2024 20:10]  pure water: -20
+[08/28/2024 20:10]  living water: -36
+[08/28/2024 20:10]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:10]  Razor: * Target *
+[08/28/2024 20:10]  System: Whom do you wish them to attack?
+[08/28/2024 20:10]  Razor: * Target *
+[08/28/2024 20:10]  System: You play successfully, provoking your targets. (37s)
+[08/28/2024 20:10]  pure water: *looks furious*
+[08/28/2024 20:10]  living water: *looks furious*
+[08/28/2024 20:10]  a precursor guardian: a precursor guardian
+[08/28/2024 20:10]  pure water: -27
+[08/28/2024 20:10]  System: Holy symbols remaining: 0/10
+[08/28/2024 20:10]  living water: -22
+[08/28/2024 20:10]  Ailiin: Target: a precursor sentry
+[08/28/2024 20:10]  System: You have gained a little fame.
+[08/28/2024 20:10]  System: You have gained a little karma.
+[08/28/2024 20:10]  Ailiin: (Lyric Aspect 490.8/500 xp)
+[08/28/2024 20:10]  System: -56
+[08/28/2024 20:10]  You see: a precursor sentry corpse
+[08/28/2024 20:10]  pure water: -21
+[08/28/2024 20:10]  Ailiin: Target: pure water
+[08/28/2024 20:10]  pure water: -79
+[08/28/2024 20:10]  living water: -8
+[08/28/2024 20:10]  [Razor]: New target set.
+[08/28/2024 20:10]  Razor: * Target *
+[08/28/2024 20:10]  [Razor]: Ignore List cleared
+[08/28/2024 20:10]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:10]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 28s)
+[08/28/2024 20:10]  Razor: *provoked 26s discord 1m 28s* pure water
+[08/28/2024 20:10]  pure water: -23
+[08/28/2024 20:10]  living water: -2
+[08/28/2024 20:10]  living water: -26
+[08/28/2024 20:10]  pure water: -32
+[08/28/2024 20:10]  System: You smash the unprotected target, dealing significant damage!
+[08/28/2024 20:10]  pure water: -197
+[08/28/2024 20:10]  living water: -20
+[08/28/2024 20:10]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:10]  pure water: -127
+[08/28/2024 20:10]  living water: -13
+[08/28/2024 20:10]  living water: -15
+[08/28/2024 20:10]  pure water: -119
+[08/28/2024 20:10]  living water: -13
+[08/28/2024 20:10]  living water: -27
+[08/28/2024 20:10]  [Razor]: New target set.
+[08/28/2024 20:10]  Razor: * Target *
+[08/28/2024 20:10]  Razor: MobOne = *provoked 20s discord 1m 21s* pure water
+[08/28/2024 20:10]  [Razor]: Select target for variable 'mobTwo'
+[08/28/2024 20:10]  pure water: -32
+[08/28/2024 20:10]  living water: -3
+[08/28/2024 20:10]  pure water: -38
+[08/28/2024 20:10]  Razor: * Target *
+[08/28/2024 20:10]  Razor: MobTwo = *provoked 18s* living water
+[08/28/2024 20:10]  [Razor]: Ignore List cleared
+[08/28/2024 20:10]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:10]  System: Whom do you wish them to attack?
+[08/28/2024 20:10]  System: You play successfully, provoking your targets. (44s)
+[08/28/2024 20:10]  pure water: *looks furious*
+[08/28/2024 20:10]  living water: *looks furious*
+[08/28/2024 20:10]  pure water: -34
+[08/28/2024 20:10]  living water: -44
+[08/28/2024 20:10]  Razor: [Last Target]
+[08/28/2024 20:10]  pure water: *provoked 39s discord 1m 14s*
+[08/28/2024 20:10]  pure water: pure water
+[08/28/2024 20:10]  living water: living water
+[08/28/2024 20:10]  living water: *provoked 39s*
+[08/28/2024 20:10]  living water: living water
+[08/28/2024 20:10]  a precursor guardian: a precursor guardian
+[08/28/2024 20:10]  You see: a precursor sentry corpse
+[08/28/2024 20:10]  pure water: -27
+[08/28/2024 20:10]  living water: -48
+[08/28/2024 20:10]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:10]  pure water: -28
+[08/28/2024 20:10]  living water: -46
+[08/28/2024 20:10]  Razor: * Target *
+[08/28/2024 20:10]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 28s)
+[08/28/2024 20:10]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:10]  living water: -34
+[08/28/2024 20:10]  System: Holy symbols remaining: 1/10
+[08/28/2024 20:10]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:10]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:10]  Razor: * Target *
+[08/28/2024 20:10]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 28s)
+[08/28/2024 20:10]  living water: -42
+[08/28/2024 20:10]  System: Timber Nelly has completed the achievement: Carpenter (Basic).
+[08/28/2024 20:10]  Ailiin: Target: pure water
+[08/28/2024 20:10]  pure water: -96
+[08/28/2024 20:10]  living water: -14
+[08/28/2024 20:10]  pure water: -101
+[08/28/2024 20:10]  living water: -14
+[08/28/2024 20:10]  pure water: -28
+[08/28/2024 20:10]  living water: -46
+[08/28/2024 20:10]  System: You have gained some fame.
+[08/28/2024 20:10]  System: You have gained some karma.
+[08/28/2024 20:10]  Ailiin: (Lyric Aspect 493.1/500 xp)
+[08/28/2024 20:10]  System: -52
+[08/28/2024 20:10]  You see: a pure water corpse
+[08/28/2024 20:10]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:10]  Razor: * Target *
+[08/28/2024 20:10]  System: You play successfully, pacifying your target. (44s)
+[08/28/2024 20:10]  living water: *looks calmed*
+[08/28/2024 20:11]  Ailiin: Target: living water
+[08/28/2024 20:11]  living water: -133
+[08/28/2024 20:11]  System: You must wait another moment before you may pick up an item from here.
+[08/28/2024 20:11]  living water: -133
+[08/28/2024 20:11]  living water: -38
+[08/28/2024 20:11]  System: You smash the unprotected target, dealing significant damage!
+[08/28/2024 20:11]  System: You have gained a little fame.
+[08/28/2024 20:11]  System: You have gained a little karma.
+[08/28/2024 20:11]  Ailiin: (Lyric Aspect 494.7/500 xp)
+[08/28/2024 20:11]  System: -189
+[08/28/2024 20:11]  You see: a living water corpse
+[08/28/2024 20:11]  [Razor]: New target set.
+[08/28/2024 20:11]  Razor: * Target *
+[08/28/2024 20:11]  [Razor]: Ignore List cleared
+[08/28/2024 20:11]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:11]  System: You play successfully, pacifying your target. (37s)
+[08/28/2024 20:11]  living water: *looks calmed*
+[08/28/2024 20:11]  Razor: *pacified 37s* living water
+[08/28/2024 20:11]  You see: the remains of del boca vista
+[08/28/2024 20:11]  Ailiin: Target: living water
+[08/28/2024 20:11]  a precursor lancer: a precursor lancer
+[08/28/2024 20:11]  [Razor]: New target set.
+[08/28/2024 20:11]  Razor: * Target *
+[08/28/2024 20:11]  [Razor]: Ignore List cleared
+[08/28/2024 20:11]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:11]  living water: -93
+[08/28/2024 20:11]  living water: -98
+[08/28/2024 20:11]  living water: -22
+[08/28/2024 20:11]  [Razor]: New target set.
+[08/28/2024 20:11]  [Razor]: Ignore List cleared
+[08/28/2024 20:11]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:11]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 28s)
+[08/28/2024 20:11]  Razor: *pacified 29s discord 1m 28s* living water
+[08/28/2024 20:11]  living water: -139
+[08/28/2024 20:11]  a precursor guardian: a precursor guardian
+[08/28/2024 20:11]  living water: -31
+[08/28/2024 20:11]  System: Holy symbols remaining: 3/10
+[08/28/2024 20:11]  living water: -119
+[08/28/2024 20:11]  living water: -115
+[08/28/2024 20:11]  living water: -32
+[08/28/2024 20:11]  System: Holy symbols remaining: 2/10
+[08/28/2024 20:11]  living water: -119
+[08/28/2024 20:11]  living water: -35
+[08/28/2024 20:11]  living water: -127
+[08/28/2024 20:11]  Razor: [Last Target]
+[08/28/2024 20:11]  living water: *pacified 13s discord 1m 12s*
+[08/28/2024 20:11]  living water: living water
+[08/28/2024 20:11]  living water: -35
+[08/28/2024 20:11]  : marble floor
+[08/28/2024 20:11]  living water: -115
+[08/28/2024 20:11]  [Razor]: New target set.
+[08/28/2024 20:11]  Razor: * Target *
+[08/28/2024 20:11]  [Razor]: Ignore List cleared
+[08/28/2024 20:11]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:11]  System: You play successfully, pacifying your target. (44s)
+[08/28/2024 20:11]  living water: *looks calmed*
+[08/28/2024 20:11]  Razor: *pacified 44s discord 1m 8s* living water
+[08/28/2024 20:11]  living water: -157
+[08/28/2024 20:11]  System: You smash the unprotected target, dealing significant damage!
+[08/28/2024 20:11]  System: You have gained a little fame.
+[08/28/2024 20:11]  System: You have gained a little karma.
+[08/28/2024 20:11]  Ailiin: (Lyric Aspect 496.2/500 xp)
+[08/28/2024 20:11]  System: -13
+[08/28/2024 20:11]  You see: a living water corpse
+[08/28/2024 20:11]  a precursor guardian: a precursor guardian
+[08/28/2024 20:11]  a precursor guardian: a precursor guardian
+[08/28/2024 20:11]  You see: the remains of del boca vista
+[08/28/2024 20:11]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:12]  Razor: * Target *
+[08/28/2024 20:12]  System: Whom do you wish them to attack?
+[08/28/2024 20:12]  an observer: an observer
+[08/28/2024 20:12]  Razor: * Target *
+[08/28/2024 20:12]  System: You play successfully, provoking your targets. (37s)
+[08/28/2024 20:12]  a precursor guardian: *looks furious*
+[08/28/2024 20:12]  a precursor guardian: *looks furious*
+[08/28/2024 20:12]  System: Holy symbols remaining: 5/10
+[08/28/2024 20:12]  You see: a living water corpse
+[08/28/2024 20:12]  You see: a pure water corpse
+[08/28/2024 20:12]  You see: a precursor sentry corpse
+[08/28/2024 20:12]  System: Oddeye has completed the achievement: Elemental Slayer (Advanced).
+[08/28/2024 20:12]  a precursor guardian: -32
+[08/28/2024 20:12]  a precursor guardian: -26
+[08/28/2024 20:12]  a precursor guardian: -32
+[08/28/2024 20:12]  a precursor guardian: -30
+[08/28/2024 20:12]  a precursor guardian: -33
+[08/28/2024 20:12]  Ailiin: Target: a precursor lancer
+[08/28/2024 20:12]  a precursor guardian: -34
+[08/28/2024 20:12]  You see: the remains of del boca vista
+[08/28/2024 20:12]  Ailiin: Target: a precursor guardian
+[08/28/2024 20:12]  a precursor guardian: -28
+[08/28/2024 20:12]  a precursor guardian: -34
+[08/28/2024 20:12]  System: Pig the Greater has completed the achievement: Scientist (Basic).
+[08/28/2024 20:12]  a precursor guardian: -32
+[08/28/2024 20:12]  a precursor guardian: -33
+[08/28/2024 20:12]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:12]  System: Whom do you wish them to attack?
+[08/28/2024 20:12]  Razor: * Target *
+[08/28/2024 20:12]  System: You play successfully, provoking your targets. (37s)
+[08/28/2024 20:12]  a precursor guardian: *looks furious*
+[08/28/2024 20:12]  a precursor guardian: *looks furious*
+[08/28/2024 20:12]  a precursor guardian: -24
+[08/28/2024 20:12]  a precursor guardian: -27
+[08/28/2024 20:12]  You see: a living water corpse
+[08/28/2024 20:12]  Ailiin: Target: a precursor lancer
+[08/28/2024 20:12]  a precursor guardian: -32
+[08/28/2024 20:12]  a precursor guardian: -33
+[08/28/2024 20:12]  a precursor guardian: -30
+[08/28/2024 20:12]  Ailiin: Target: a precursor lancer
+[08/28/2024 20:12]  Ailiin: -18
+[08/28/2024 20:12]  a precursor guardian: -20
+[08/28/2024 20:12]  a precursor guardian: -38
+[08/28/2024 20:12]  a precursor lancer: -60
+[08/28/2024 20:12]  [Razor]: New target set.
+[08/28/2024 20:12]  Razor: * Target *
+[08/28/2024 20:12]  [Razor]: Ignore List cleared
+[08/28/2024 20:12]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:12]  System: You play successfully, pacifying your target. (37s)
+[08/28/2024 20:12]  Razor: *looks calmed*
+[08/28/2024 20:12]  a precursor lancer: *pacified 37s*
+[08/28/2024 20:12]  a precursor lancer: a precursor lancer
+[08/28/2024 20:12]  a precursor lancer: *barding break*
+[08/28/2024 20:12]  a precursor lancer: -54
+[08/28/2024 20:12]  Ailiin: -21
+[08/28/2024 20:12]  System: Max holy symbols earned (10/10)
+[08/28/2024 20:12]  a precursor guardian: -33
+[08/28/2024 20:12]  [Razor]: New target set.
+[08/28/2024 20:12]  Razor: * Target *
+[08/28/2024 20:12]  [Razor]: Ignore List cleared
+[08/28/2024 20:12]  a precursor lancer: -50
+[08/28/2024 20:12]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:12]  [Razor]: New target set.
+[08/28/2024 20:12]  [Razor]: Ignore List cleared
+[08/28/2024 20:12]  a precursor guardian: -30
+[08/28/2024 20:12]  a precursor guardian: -34
+[08/28/2024 20:12]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:12]  a precursor guardian: -32
+[08/28/2024 20:12]  Ailiin: +38
+[08/28/2024 20:12]  System: some damage has been healed : 38
+[08/28/2024 20:12]  a precursor lancer: -73
+[08/28/2024 20:12]  System: Holy symbols remaining: 5/10
+[08/28/2024 20:12]  a precursor lancer: -57
+[08/28/2024 20:12]  [Razor]: New target set.
+[08/28/2024 20:12]  [Razor]: Ignore List cleared
+[08/28/2024 20:12]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:12]  a precursor guardian: -34
+[08/28/2024 20:12]  [Razor]: New target set.
+[08/28/2024 20:12]  [Razor]: Ignore List cleared
+[08/28/2024 20:12]  System: Holy symbols remaining: 1/10
+[08/28/2024 20:12]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:12]  Ailiin: Target: a precursor lancer
+[08/28/2024 20:12]  [Razor]: New target set.
+[08/28/2024 20:12]  [Razor]: Ignore List cleared
+[08/28/2024 20:12]  Ailiin: -22
+[08/28/2024 20:12]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:12]  System: Your attack crushes their armor!
+[08/28/2024 20:12]  a precursor lancer: -86
+[08/28/2024 20:12]  a precursor guardian: -33
+[08/28/2024 20:12]  a precursor guardian: -30
+[08/28/2024 20:12]  a precursor guardian: -33
+[08/28/2024 20:12]  a precursor guardian: -33
+[08/28/2024 20:12]  [Razor]: New target set.
+[08/28/2024 20:12]  [Razor]: Ignore List cleared
+[08/28/2024 20:12]  a precursor lancer: -73
+[08/28/2024 20:12]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[08/28/2024 20:12]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:12]  Ailiin: -21
+[08/28/2024 20:12]  System: You play successfully, pacifying your target. (37s)
+[08/28/2024 20:12]  a precursor lancer: *looks calmed*
+[08/28/2024 20:12]  a precursor lancer: -71
+[08/28/2024 20:12]  Ailiin: Target: a precursor lancer
+[08/28/2024 20:12]  a precursor lancer: -85
+[08/28/2024 20:12]  a precursor guardian: -38
+[08/28/2024 20:12]  a precursor lancer: -79
+[08/28/2024 20:12]  System: You must wait a few moments to use another skill.
+[08/28/2024 20:12]  a precursor guardian: -30
+[08/28/2024 20:12]  a precursor guardian: -32
+[08/28/2024 20:12]  Ailiin: Target: a precursor lancer
+[08/28/2024 20:12]  a precursor guardian: -30
+[08/28/2024 20:12]  a precursor lancer: -67
+[08/28/2024 20:12]  a precursor guardian: -33
+[08/28/2024 20:12]  System: You must wait a few moments before you may provoke or pacify another creature.
+[08/28/2024 20:12]  a precursor lancer: -57
+[08/28/2024 20:12]  System: You smash the unprotected target, dealing significant damage!
+[08/28/2024 20:12]  a precursor lancer: -197
+[08/28/2024 20:12]  Ailiin: Aggressive stance activated.
+[08/28/2024 20:12]  a precursor lancer: -84
+[08/28/2024 20:12]  a precursor lancer: -76
+[08/28/2024 20:12]  System: What do you wish to incite? (you may target the ground for a group effect)
+[08/28/2024 20:12]  a precursor lancer: -63
+[08/28/2024 20:12]  Razor: * Target *
+[08/28/2024 20:12]  System: Whom do you wish them to attack?
+[08/28/2024 20:12]  Ailiin: -20
+[08/28/2024 20:12]  Ailiin: -20
+[08/28/2024 20:12]  Razor: * Target *
+[08/28/2024 20:12]  Ailiin: -21
+[08/28/2024 20:12]  System: Your skill in Tactics has decreased by 20.0.  It is now 100.0.
+[08/28/2024 20:12]  System: You have lost a massive amount of fame.
+[08/28/2024 20:12]  Razor: [-Song of Discordance (s)]
+[08/28/2024 20:12]  Razor: [-Song of Provocation (s)]
+[08/28/2024 20:12]  Razor: [-Song of Peacemaking (s)]
+[08/28/2024 20:12]  [Razor]: Warning: Garlic amount is now 0!
+[08/28/2024 20:12]  [Razor]: Warning: Ginseng amount is now 0!
+[08/28/2024 20:12]  [Razor]: Warning: Sulfurous Ash amount is now 0!
+[08/28/2024 20:12]  You see: the remains of Ailiin
+[08/28/2024 20:12]  You see: the remains of Ailiin
+[08/28/2024 20:12]  Ailiin: I am dead and cannot do that.
+[08/28/2024 20:12]  Ailiin: I am dead and cannot do that.
+[08/28/2024 20:12]  Ailiin: I am dead and cannot do that.
+[08/28/2024 20:12]  Ailiin: I am dead and cannot do that.
+[08/28/2024 20:13]  System: You are now under the protection of the town guards.
+[08/28/2024 20:13]  Razor: [+Hidden/Stealthing (0s)]
+[08/28/2024 20:13]  a dog: a dog
+[08/28/2024 20:13]  a cat: a cat
+[08/28/2024 20:13]  Zia: Zia the provisioner
+[08/28/2024 20:13]  a dog: a dog
+[08/28/2024 20:13]  Belinda: Belinda the provisioner
+[08/28/2024 20:13]  Lindsay: Lindsay the fisherman
+[08/28/2024 20:13]  Gretchen: Gretchen the baker
+[08/28/2024 20:13]  a seagull: a seagull
+[08/28/2024 20:13]  Amarante: Amarante the salvage foreman
+[08/28/2024 20:13]  Adiran: Adiran the dockmaster
+[08/28/2024 20:13]  Nori: Nori the dockmaster
+[08/28/2024 20:13]  Razor: [-Hidden/Stealthing (s)]
+[08/28/2024 20:13]  a dog: a dog
+[08/28/2024 20:13]  a dog: a dog
+[08/28/2024 20:13]  a cat: a cat
+[08/28/2024 20:13]  Aristo: Aristo the tavern keeper
+[08/28/2024 20:14]  Belinda: Belinda the provisioner
+[08/28/2024 20:14]  Akando: Akando the blacksmith
+[08/28/2024 20:14]  a prevalian knight: a prevalian knight
+[08/28/2024 20:14]  Natalie: Natalie the armorer
+[08/28/2024 20:14]  the doctor: the doctor  
+[08/28/2024 20:14]  Kenton: Kenton the healer
+[08/28/2024 20:14]  Dario: Dario the healer
+[08/28/2024 20:14]  a horse: (tame)
+[08/28/2024 20:14]  a horse: a horse
+[08/28/2024 20:14]  System: Lan Cillotto has completed the achievement: Cartographer (Basic).
+[08/28/2024 20:14]  a cat: a cat
+[08/28/2024 20:14]  Aristo: Aristo the tavern keeper
+[08/28/2024 20:14]  a dog: a dog
+[08/28/2024 20:14]  System: Adino The Scribe has completed the achievement: Daemonic Slayer (Advanced).
+[08/28/2024 20:14]  a horse: (tame)
+[08/28/2024 20:14]  a horse: a horse
+[08/28/2024 20:14]  a prevalian marksman: a prevalian marksman
+[08/28/2024 20:14]  System: Haniebny has completed the achievement: Nature Slayer (Epic).
+[08/28/2024 20:14]  Qamra: Qamra the blacksmith

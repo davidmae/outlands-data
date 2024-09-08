@@ -1,0 +1,20 @@
+if findtype "spinning wheel" ground -1 -1 2 as wheel
+    while findtype woolorthread backpack -1 -1 -1 as wool
+        dclick wool
+        wait 500
+        target wheel
+        wait 3500
+    endwhile
+endif
+
+if findtype "upright loom" ground -1 -1 2 as loom
+    while findtype "ball%s% of yarn" backpack -1 -1 -1 as yarn
+        dclick yarn
+        wait 500
+        target loom
+        wait 500
+    endwhile
+endif
+
+
+    

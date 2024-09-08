@@ -1,0 +1,561 @@
+[08/26/2024 23:18]  System: WorldMap loading...
+[08/26/2024 23:18]  System: Loading WorldMap markers..
+[08/26/2024 23:18]  System: ..Banks_and_Healers.xml (39)
+[08/26/2024 23:18]  System: ..Dungeons.xml (13)
+[08/26/2024 23:18]  System: ..Dungeon_Gates.xml (388)
+[08/26/2024 23:18]  System: ..Healer_Caravans.xml (42)
+[08/26/2024 23:18]  System: ..Kings_Faire.xml (43)
+[08/26/2024 23:18]  System: ..Moongates.xml (10)
+[08/26/2024 23:18]  System: ..POI.xml (251)
+[08/26/2024 23:18]  System: ..PvP_Locations.xml (71)
+[08/26/2024 23:18]  System: ..Shrines.xml (9)
+[08/26/2024 23:18]  System: ..Sub-Dungeons.xml (4)
+[08/26/2024 23:18]  System: ..Townships.xml (10)
+[08/26/2024 23:18]  System: ..UOAM_Atlas.xml (1887)
+[08/26/2024 23:18]  System: ..UOAM_T-Map.xml (255)
+[08/26/2024 23:18]  System: ..UOAM_Treasure.xml (523)
+[08/26/2024 23:18]  System: WorldMap markers loaded (3545)
+[08/26/2024 23:18]  System: Welcome Jaimito!
+[08/26/2024 23:18]  Carol: Carol the miner
+[08/26/2024 23:18]  Houndd: Legendary Animal Bond
+[08/26/2024 23:18]  Houndd: [Recruit, ViPs]
+[08/26/2024 23:18]  Houndd: Houndd
+[08/26/2024 23:18]  Mercedes: Mercedes the ranger
+[08/26/2024 23:18]  Xandarth: Xandarth
+[08/26/2024 23:18]  FiveStarMan: [Recruit, gLc]
+[08/26/2024 23:18]  FiveStarMan: FiveStarMan
+[08/26/2024 23:18]  alchemik: alchemik
+[08/26/2024 23:18]  UnoDosDead: UnoDosDead
+[08/26/2024 23:18]  Arbitrage: [Super Prankster, O|P]
+[08/26/2024 23:18]  Arbitrage: Arbitrage
+[08/26/2024 23:18]  Juggs Dukeness: Mythic of Aspects
+[08/26/2024 23:18]  Juggs Dukeness: [G.G]
+[08/26/2024 23:18]  Juggs Dukeness: Lord Juggs Dukeness
+[08/26/2024 23:18]  Sinth: Kraul Hive Guardian
+[08/26/2024 23:18]  Sinth: Lord Sinth
+[08/26/2024 23:18]  vend'etta: Serial Killer [Cambria]
+[08/26/2024 23:18]  vend'etta: [frog]
+[08/26/2024 23:18]  vend'etta: vend'etta
+[08/26/2024 23:18]  Wanda: Wanda the blacksmith
+[08/26/2024 23:18]  AskChopper.: Mythical Engineer
+[08/26/2024 23:18]  AskChopper.: [Soldier, SOF]
+[08/26/2024 23:18]  AskChopper.: AskChopper.
+[08/26/2024 23:18]  Luna Mellon: [Syn]
+[08/26/2024 23:18]  Luna Mellon: Luna Mellon
+[08/26/2024 23:18]  Ramoth Rhovain: [Veteran, Syn]
+[08/26/2024 23:18]  Ramoth Rhovain: Ramoth Rhovain
+[08/26/2024 23:18]  Steph La Couille: Culinary Savvy
+[08/26/2024 23:18]  Steph La Couille: Steph La Couille
+[08/26/2024 23:18]  Crystal: Crystal the tinker
+[08/26/2024 23:18]  Golhyrr Ur'thal: Golhyrr Ur'thal
+[08/26/2024 23:18]  Beldroin Ur'thal: Beldroin Ur'thal (Young)
+[08/26/2024 23:18]  Aharo: Triggered
+[08/26/2024 23:18]  Aharo: Aharo
+[08/26/2024 23:18]  Subrey: Subrey the provisioner
+[08/26/2024 23:18]  Selina: Selina the jeweler
+[08/26/2024 23:18]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/26/2024 23:18]  System: WorldMap loaded!
+[08/26/2024 23:18]  Lavalin: Beast Slayer
+[08/26/2024 23:18]  Lavalin: Lord Lavalin
+[08/26/2024 23:18]  Leonard Gonsales: Leonard Gonsales
+[08/26/2024 23:18]  Kalukassi: Kalukassi (Young)
+[08/26/2024 23:18]  Carol: Carol the miner
+[08/26/2024 23:18]  A Prickly Pear: [Recruit, gLc]
+[08/26/2024 23:18]  A Prickly Pear: A Prickly Pear
+[08/26/2024 23:18]  NewType mrs: [AHO]
+[08/26/2024 23:18]  NewType mrs: NewType mrs
+[08/26/2024 23:18]  Floorskin: Skinner
+[08/26/2024 23:18]  Floorskin: Floorskin
+[08/26/2024 23:18]  Favstvs: Artificer Dignitary
+[08/26/2024 23:18]  Favstvs: [Veteran, Syn]
+[08/26/2024 23:18]  Favstvs: Favstvs
+[08/26/2024 23:18]  Moosebear: Moosebear
+[08/26/2024 23:18]  FiveStarMan: [Recruit, gLc]
+[08/26/2024 23:18]  FiveStarMan: FiveStarMan
+[08/26/2024 23:18]  Brentan: Brentan the miner
+[08/26/2024 23:18]  Magvanocks: Magvanocks
+[08/26/2024 23:18]  Favstvs: Outlands Rune Emporium!
+[08/26/2024 23:18]  Cook: Illustrious Gladiator
+[08/26/2024 23:18]  Cook: Cook
+[08/26/2024 23:18]  Generic Pickman: Tomb Raider
+[08/26/2024 23:18]  Generic Pickman: [Officer, BSK]
+[08/26/2024 23:18]  Generic Pickman: Lord Generic Pickman
+[08/26/2024 23:18]  Teeja: [Initiate, KoU]
+[08/26/2024 23:18]  Teeja: Teeja
+[08/26/2024 23:18]  Dignson: Dignson
+[08/26/2024 23:18]  Craft Her: Craft Her
+[08/26/2024 23:18]  Dirt Mc.Girt: [1CE]
+[08/26/2024 23:18]  Dirt Mc.Girt: Dirt Mc.Girt
+[08/26/2024 23:18]  Bobby Possumcods: Affluent
+[08/26/2024 23:18]  Bobby Possumcods: [Im A, BOSS]
+[08/26/2024 23:18]  Bobby Possumcods: Lord Bobby Possumcods
+[08/26/2024 23:18]  MasterGaterAlt: MasterGaterAlt
+[08/26/2024 23:18]  Dove Emry: Dove Emry (Young)
+[08/26/2024 23:18]  Bobby Possumcods: VENDOR SPOTS 2K!!!
+[08/26/2024 23:18]  Homer Simpsons: Legendary Scribe
+[08/26/2024 23:18]  Homer Simpsons: Homer Simpsons
+[08/26/2024 23:18]  A Sillyy Goose: [Senior Officer, TES]
+[08/26/2024 23:18]  A Sillyy Goose: A Sillyy Goose
+[08/26/2024 23:18]  Walter Gater: Walter Gater
+[08/26/2024 23:18]  Favstvs: 2250 Marked Locations!
+[08/26/2024 23:18]  A Prickly Pear: VENDOR RENTAL SPOTS AVAILABLE! 5 & 10K!
+[08/26/2024 23:18]  Bobby Possumcods: VENDOR SPOTS 2K!!!
+[08/26/2024 23:18]  Cook: Come view the Winterlands Vendor House!
+[08/26/2024 23:18]  Favstvs: RUNES AND VENDORS
+[08/26/2024 23:18]  NewType mrs: Great vendor house. cmon baby....
+[08/26/2024 23:18]  Monopolyman: The Dread Pirate
+[08/26/2024 23:18]  Monopolyman: Lord Monopolyman
+[08/26/2024 23:18]  Bobby Possumcods: VENDOR SPOTS 2K!!!
+[08/26/2024 23:18]  Dignson: FISHKILL TOWER GATED 24/7
+[08/26/2024 23:18]  Favstvs: Scanned by Outlands Malls!
+[08/26/2024 23:18]  GOLDY IS (3: GOLDY IS (3
+[08/26/2024 23:18]  Don Slayote's Wares: Don Slayote's Wares
+[08/26/2024 23:18]  PREVALIA MOONGATE: PREVALIA MOONGATE
+[08/26/2024 23:18]  Amish's Shop - 8/24: Amish's Shop - 8/24
+[08/26/2024 23:18]  Bunny's Junk: Bunny's Junk
+[08/26/2024 23:18]  Mary Jane's Shop: Mary Jane's Shop
+[08/26/2024 23:18]  Prev Moongate: Prev Moongate
+[08/26/2024 23:18]  SILVER LINKS!!!!!!!!: SILVER LINKS!!!!!!!!
+[08/26/2024 23:18]  Tea's Scam Vendor: Tea's Scam Vendor
+[08/26/2024 23:18]  Smithy Plate & Weps: Smithy Plate & Weps
+[08/26/2024 23:18]  Cheapest Ocean Hip: Cheapest Ocean Hip
+[08/26/2024 23:18]  PREV MG - CORES/RARE: PREV MG - CORES/RARE
+[08/26/2024 23:18]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[08/26/2024 23:18]  PREV MG - LORE/LINKS: PREV MG - LORE/LINKS
+[08/26/2024 23:18]  This and That!: This and That!
+[08/26/2024 23:18]  CHEAP SHIMMER CLOTH!: CHEAP SHIMMER CLOTH!
+[08/26/2024 23:18]  RECSU: RECSU
+[08/26/2024 23:18]  **SHADOW FURN* 11/6: **SHADOW FURN* 11/6
+[08/26/2024 23:18]  XTREME LOOT 11/6: XTREME LOOT 11/6
+[08/26/2024 23:18]  Sibongile: Sibongile the battle trainer
+[08/26/2024 23:18]  wtf Himdula: wtf Himdula
+[08/26/2024 23:18]  Richard Garyott: Richard Garyott
+[08/26/2024 23:18]  Pavo: Pavo
+[08/26/2024 23:18]  RedHood: RedHood
+[08/26/2024 23:18]  Mosty Ice: Mosty Ice
+[08/26/2024 23:18]  AcidJazz: AcidJazz
+[08/26/2024 23:18]  Nartonia: Nartonia
+[08/26/2024 23:18]  WhiteHearts: WhiteHearts
+[08/26/2024 23:18]  Pinot: Relic Hunter
+[08/26/2024 23:18]  Pinot: [Treasurer, YoCS]
+[08/26/2024 23:18]  Pinot: Pinot
+[08/26/2024 23:18]  Face Foot Style: Face Foot Style
+[08/26/2024 23:18]  Kippenstummel: Kippenstummel
+[08/26/2024 23:18]  an alpine marmot: an alpine marmot
+[08/26/2024 23:18]  an altai marmot: an altai marmot
+[08/26/2024 23:18]  a hoary marmot: a hoary marmot
+[08/26/2024 23:18]  Al-Paka-Man: Al-Paka-Man
+[08/26/2024 23:18]  Junbao: Junbao
+[08/26/2024 23:18]  Wheelchair Bob: Wheelchair Bob
+[08/26/2024 23:18]  Dalha: Dalha
+[08/26/2024 23:18]  DirekPL: [Wang, AWN]
+[08/26/2024 23:18]  DirekPL: Lord DirekPL
+[08/26/2024 23:18]  BlackFlagSwinger: BlackFlagSwinger
+[08/26/2024 23:18]  Szromsonka: [SROM-sonka, AWN]
+[08/26/2024 23:18]  Szromsonka: Szromsonka
+[08/26/2024 23:18]  Zhulenec: Aegis Keep Legend
+[08/26/2024 23:18]  Zhulenec: [The Biggest Drug Lord, AOG]
+[08/26/2024 23:18]  Zhulenec: Lord Zhulenec
+[08/26/2024 23:18]  Luke the Laborer: [Snotling, Urk]
+[08/26/2024 23:18]  Luke the Laborer: Luke the Laborer
+[08/26/2024 23:18]  Moosh Tache: Moosh Tache
+[08/26/2024 23:18]  BolaSpain: Triggered
+[08/26/2024 23:18]  BolaSpain: [Recruit, NEW!]
+[08/26/2024 23:18]  BolaSpain: BolaSpain
+[08/26/2024 23:18]  Kuroka Toujou: Kuroka Toujou
+[08/26/2024 23:18]  Ravish: Ravish
+[08/26/2024 23:18]  HIGH END WOOD&INGOTS: HIGH END WOOD&INGOTS
+[08/26/2024 23:18]  Treasure Chest: Treasure Chest
+[08/26/2024 23:18]  Prevalia MG: Prevalia MG
+[08/26/2024 23:18]  SHIP STUFF: SHIP STUFF
+[08/26/2024 23:18]  Nanmak: Nanmak
+[08/26/2024 23:18]  Spellbooks 52K: Spellbooks 52K
+[08/26/2024 23:18]  ...: ...
+[08/26/2024 23:18]  ...: ...
+[08/26/2024 23:18]  ...: ...
+[08/26/2024 23:18]  ...: ...
+[08/26/2024 23:18]  Mutilates Scrolls: Mutilates Scrolls
+[08/26/2024 23:18]  Mutilates Cores: Mutilates Cores
+[08/26/2024 23:18]  ChronicMStRBaitR: ChronicMStRBaitR
+[08/26/2024 23:18]  Good Food: Good Food
+[08/26/2024 23:18]  System: You have left the protection of the town guards.
+[08/26/2024 23:18]  Prev Coins! 18.8k: Prev Coins! 18.8k
+[08/26/2024 23:18]  Lockpickers Emporium: Lockpickers Emporium
+[08/26/2024 23:18]  Cepholar: Cepholar
+[08/26/2024 23:18]  Essence IN STOCK!: Essence IN STOCK!
+[08/26/2024 23:18]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[08/26/2024 23:18]  System: You are now under the protection of the town guards.
+[08/26/2024 23:18]  Deade Mule: Deade Mule
+[08/26/2024 23:18]  a prevalian marksman: a prevalian marksman
+[08/26/2024 23:18]  You see: lute
+[08/26/2024 23:18]  You see: (126/500 uses remaining)
+[08/26/2024 23:18]  a prevalian knight: a prevalian knight
+[08/26/2024 23:18]  a pack llama: (tame)
+[08/26/2024 23:18]  a pack llama: [0/2000 stones]
+[08/26/2024 23:18]  a pack llama: a pack llama
+[08/26/2024 23:18]  a desert ostard: (bonded)
+[08/26/2024 23:18]  a desert ostard: a desert ostard
+[08/26/2024 23:18]  Quackletown: Quackletown
+[08/26/2024 23:18]  a forest ostard: (bonded)
+[08/26/2024 23:18]  a forest ostard: a forest ostard
+[08/26/2024 23:18]  a forest ostard: (bonded)
+[08/26/2024 23:18]  a forest ostard: a forest ostard
+[08/26/2024 23:18]  a frenzied ostard: (bonded)
+[08/26/2024 23:18]  a frenzied ostard: a frenzied ostard
+[08/26/2024 23:18]  a frenzied ostard: (bonded)
+[08/26/2024 23:18]  a frenzied ostard: a frenzied ostard
+[08/26/2024 23:18]  a frenzied ostard: (bonded)
+[08/26/2024 23:18]  a frenzied ostard: a frenzied ostard
+[08/26/2024 23:18]  a horse: (bonded)
+[08/26/2024 23:18]  a horse: a horse
+[08/26/2024 23:18]  a horse: (bonded)
+[08/26/2024 23:18]  a horse: a horse
+[08/26/2024 23:18]  a horse: (bonded)
+[08/26/2024 23:18]  a horse: a horse
+[08/26/2024 23:18]  a horse: (bonded)
+[08/26/2024 23:18]  a horse: a horse
+[08/26/2024 23:18]  Cenzo Lorenzo: Cenzo Lorenzo
+[08/26/2024 23:18]  Mary Sue: Mary Sue
+[08/26/2024 23:18]  a llama: (bonded)
+[08/26/2024 23:18]  a llama: a llama
+[08/26/2024 23:18]  a llama: (bonded)
+[08/26/2024 23:18]  a llama: a llama
+[08/26/2024 23:18]  Anrak Mithrandir: Anrak Mithrandir
+[08/26/2024 23:18]  an ancient mummy: (summoned)
+[08/26/2024 23:18]  an ancient mummy: an ancient mummy
+[08/26/2024 23:18]  an ancient mummy: (summoned)
+[08/26/2024 23:18]  an ancient mummy: an ancient mummy
+[08/26/2024 23:18]  O Belezo: O Belezo
+[08/26/2024 23:18]  an ancient mummy: (summoned)
+[08/26/2024 23:18]  an ancient mummy: an ancient mummy
+[08/26/2024 23:18]  an ancient mummy: (summoned)
+[08/26/2024 23:18]  an ancient mummy: an ancient mummy
+[08/26/2024 23:18]  Juniper: Juniper the juggler
+[08/26/2024 23:18]  Ailiin: Ailiin
+[08/26/2024 23:18]  Lucy In The Sky: Adventurer Associate
+[08/26/2024 23:18]  Lucy In The Sky: [Recruit, NEW!]
+[08/26/2024 23:18]  Lucy In The Sky: Lady Lucy In The Sky
+[08/26/2024 23:18]  Aurelia: Aurelia the Town Crier
+[08/26/2024 23:18]  Lauros: Lauros
+[08/26/2024 23:18]  Dhago: Dhago
+[08/26/2024 23:18]  You see: the remains of RedSP
+[08/26/2024 23:18]  Ingmar: Ingmar the banker
+[08/26/2024 23:18]  metamaypoi: Triggered
+[08/26/2024 23:18]  metamaypoi: [Master of Meta, HOST]
+[08/26/2024 23:18]  metamaypoi: Lord metamaypoi
+[08/26/2024 23:18]  Taul: Taul
+[08/26/2024 23:18]  xSmoKeYx: xSmoKeYx
+[08/26/2024 23:18]  Harlie: Harlie
+[08/26/2024 23:18]  Espardo: Espardo
+[08/26/2024 23:18]  Calendonia: Calendonia the banker
+[08/26/2024 23:18]  Mirchaud: Monster Hunter Dignitary
+[08/26/2024 23:18]  Mirchaud: [Recruit, Smp]
+[08/26/2024 23:18]  Mirchaud: Mirchaud
+[08/26/2024 23:18]  Orville: Orville the juggler
+[08/26/2024 23:18]  Ackerley: Ackerley the juggler
+[08/26/2024 23:18]  Sir SmoKeS Alot: [Learners Permit, TES]
+[08/26/2024 23:18]  Sir SmoKeS Alot: Sir SmoKeS Alot
+[08/26/2024 23:18]  a tundra ostard: (bonded)
+[08/26/2024 23:18]  a tundra ostard: a tundra ostard
+[08/26/2024 23:18]  Raw Brigade: Raw Brigade
+[08/26/2024 23:18]  vD: [Now Recruiting, vD]
+[08/26/2024 23:18]  vD: vD
+[08/26/2024 23:18]  Mary Sue: Mary Sue
+[08/26/2024 23:18]  Egowulf: Egowulf
+[08/26/2024 23:18]  Eisenhand: [Member, LT]
+[08/26/2024 23:18]  Eisenhand: Eisenhand
+[08/26/2024 23:18]  a horse: (bonded)
+[08/26/2024 23:18]  a horse: a horse
+[08/26/2024 23:18]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/26/2024 23:18]  oppla: oppla
+[08/26/2024 23:18]  Egowulf: Egowulf
+[08/26/2024 23:18]  an ancient mummy: (summoned)
+[08/26/2024 23:18]  an ancient mummy: an ancient mummy
+[08/26/2024 23:18]  Eisenhand: [Member, LT]
+[08/26/2024 23:18]  Eisenhand: Eisenhand
+[08/26/2024 23:18]  an ancient mummy: (summoned)
+[08/26/2024 23:18]  an ancient mummy: an ancient mummy
+[08/26/2024 23:18]  Payroll: Monster Hunter Initiate
+[08/26/2024 23:18]  Payroll: [Ripe, SQzD]
+[08/26/2024 23:18]  Payroll: Payroll
+[08/26/2024 23:18]  a horse: (bonded)
+[08/26/2024 23:18]  a horse: a horse
+[08/26/2024 23:18]  Lucy In The Sky: Kal Ort Por
+[08/26/2024 23:18]  Jaimito: bank
+[08/26/2024 23:18]  Jaimito: Items: 103/125
+[08/26/2024 23:18]  Jaimito: Total Weight: 546
+[08/26/2024 23:18]  ZvenLander: ZvenLander
+[08/26/2024 23:18]  an ancient mummy: *regens*
+[08/26/2024 23:18]  an ancient mummy: *regens*
+[08/26/2024 23:18]  Fearsome Fred: Fearsome Fred
+[08/26/2024 23:18]  Moshique: Moshique
+[08/26/2024 23:18]  ZvenLander: ZvenLander
+[08/26/2024 23:18]  Juniper: Looking for Jakesh? He's at the King's Faire, right through this moongate.
+[08/26/2024 23:18]  Arculano: [>, UN0]
+[08/26/2024 23:18]  Arculano: Lord Arculano
+[08/26/2024 23:18]  KingKnossos: KingKnossos
+[08/26/2024 23:19]  You see: potent magic spellbook
+[08/26/2024 23:19]  Rolim: [Member, vD]
+[08/26/2024 23:19]  Rolim: Rolim
+[08/26/2024 23:19]  Moshique: Moshique
+[08/26/2024 23:19]  Hamsi: Hamsi
+[08/26/2024 23:19]  Felzik: Felzik
+[08/26/2024 23:19]  Rolim: bank
+[08/26/2024 23:19]  a pack horse: (tame)
+[08/26/2024 23:19]  a pack horse: [0/2000 stones]
+[08/26/2024 23:19]  a pack horse: a pack horse
+[08/26/2024 23:19]  an ancient mummy: *regens*
+[08/26/2024 23:19]  You see: durable surpassingly accurate ruin two-handed axe
+[08/26/2024 23:19]  Juniper: Take this moongate to the King's Faire!
+[08/26/2024 23:19]  an ancient mummy: *regens*
+[08/26/2024 23:19]  ZvenLander: ZvenLander
+[08/26/2024 23:19]  Bad Omen: Lord Bad Omen
+[08/26/2024 23:19]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/26/2024 23:19]  Juniper: King's Faire! King's Faire!
+[08/26/2024 23:19]  Jan van Helmont: [Officer, ECP]
+[08/26/2024 23:19]  Jan van Helmont: Jan van Helmont
+[08/26/2024 23:19]  Cranil: Cranil
+[08/26/2024 23:19]  an ancient mummy: *regens*
+[08/26/2024 23:19]  Jan van Helmont: bank
+[08/26/2024 23:19]  an ancient mummy: *regens*
+[08/26/2024 23:19]  Jan van Helmont: Kal Ort Por
+[08/26/2024 23:19]  Monopolyman: The Dread Pirate
+[08/26/2024 23:19]  Monopolyman: Lord Monopolyman
+[08/26/2024 23:19]  Gramsci: [Member, NC]
+[08/26/2024 23:19]  Gramsci: Gramsci
+[08/26/2024 23:19]  System: Axton has completed the achievement: Versatility (Basic).
+[08/26/2024 23:19]  Bomber Man: [Click Click BOOM, O_R]
+[08/26/2024 23:19]  Bomber Man: Lord Bomber Man
+[08/26/2024 23:19]  Juniper: The King's Faire is here!
+[08/26/2024 23:20]  an ancient mummy: *regens*
+[08/26/2024 23:20]  SplashXr: Relic Hunter
+[08/26/2024 23:20]  SplashXr: [Team Kendrick 2 Chainz, CtS]
+[08/26/2024 23:20]  SplashXr: Lord SplashXr
+[08/26/2024 23:20]  an ancient mummy: *regens*
+[08/26/2024 23:20]  Kibdex: Kibdex
+[08/26/2024 23:20]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/26/2024 23:20]  an ancient mummy: *regens*
+[08/26/2024 23:20]  an earth elemental: (summoned)
+[08/26/2024 23:20]  an earth elemental: an earth elemental
+[08/26/2024 23:20]  carpcakes: Affluent
+[08/26/2024 23:20]  carpcakes: [SOF]
+[08/26/2024 23:20]  carpcakes: Lady carpcakes
+[08/26/2024 23:20]  an ancient mummy: *regens*
+[08/26/2024 23:20]  Gramsci: [Member, NC]
+[08/26/2024 23:20]  Gramsci: Gramsci
+[08/26/2024 23:20]  Montiklaus: [Henchman, Syn]
+[08/26/2024 23:20]  Montiklaus: Montiklaus
+[08/26/2024 23:20]  Bad Omen: Lord Bad Omen
+[08/26/2024 23:20]  Juniper: Take this moongate to the King's Faire!
+[08/26/2024 23:20]  Tulio: Time Legend
+[08/26/2024 23:20]  Tulio: [Ogien w Szopie, AWN]
+[08/26/2024 23:20]  Tulio: Lord Tulio
+[08/26/2024 23:20]  Big Bad Don: Legendarily Triggered
+[08/26/2024 23:20]  Big Bad Don: [Private, G.G]
+[08/26/2024 23:20]  Big Bad Don: Big Bad Don
+[08/26/2024 23:20]  Big Bad Don: el banco guards
+[08/26/2024 23:20]  Xavi: Time Legend
+[08/26/2024 23:20]  Xavi: [G.G]
+[08/26/2024 23:20]  Xavi: Xavi
+[08/26/2024 23:20]  he comin: Kraul Hive Guardian
+[08/26/2024 23:20]  he comin: Lord he comin
+[08/26/2024 23:20]  Juniper: Looking for Jakesh? He's at the King's Faire, right through this moongate.
+[08/26/2024 23:20]  Big Bad Don: el banco guards
+[08/26/2024 23:20]  Mythyas: Monster Hunter Initiate
+[08/26/2024 23:20]  Mythyas: [Knight, Sir.]
+[08/26/2024 23:20]  Mythyas: Lord Mythyas
+[08/26/2024 23:21]  Juniper: The King's Faire is here!
+[08/26/2024 23:21]  Big Bad Don: el banco guards
+[08/26/2024 23:21]  eL Manifesto: Legendary Treasure Hunter
+[08/26/2024 23:21]  eL Manifesto: [Officer, TES]
+[08/26/2024 23:21]  eL Manifesto: Lord eL Manifesto
+[08/26/2024 23:21]  System: Zengi of Death has completed the achievement: Nature Slayer (Basic).
+[08/26/2024 23:21]  an ancient mummy: *regens*
+[08/26/2024 23:21]  an ancient mummy: *regens*
+[08/26/2024 23:21]  Kibdex: Kibdex
+[08/26/2024 23:21]  Propagandalf: Kraul Hive Legend
+[08/26/2024 23:21]  Propagandalf: [NP$]
+[08/26/2024 23:21]  Propagandalf: Propagandalf
+[08/26/2024 23:21]  eL Manifesto: Legendary Treasure Hunter
+[08/26/2024 23:21]  eL Manifesto: [Officer, TES]
+[08/26/2024 23:21]  eL Manifesto: Lord eL Manifesto
+[08/26/2024 23:21]  Juniper: The King's Faire is here!
+[08/26/2024 23:21]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/26/2024 23:21]  an ancient mummy: *regens*
+[08/26/2024 23:21]  an ancient mummy: *regens*
+[08/26/2024 23:21]  Xavi: Time Legend
+[08/26/2024 23:21]  Xavi: [G.G]
+[08/26/2024 23:21]  Xavi: Xavi
+[08/26/2024 23:22]  an ancient mummy: *regens*
+[08/26/2024 23:22]  an ancient mummy: *regens*
+[08/26/2024 23:22]  eL Manifesto: Kal Ort Por
+[08/26/2024 23:22]  eL Manifesto: Legendary Treasure Hunter
+[08/26/2024 23:22]  eL Manifesto: [Officer, TES]
+[08/26/2024 23:22]  eL Manifesto: Lord eL Manifesto
+[08/26/2024 23:22]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/26/2024 23:22]  Puggles: Bank! Guards! I ban thee! Dock!
+[08/26/2024 23:22]  Puggles: Scourge of the Seas
+[08/26/2024 23:22]  Puggles: [Veteran, G.G]
+[08/26/2024 23:22]  Puggles: Lord Puggles
+[08/26/2024 23:22]  Puggles: Kal Vas Xen Ylem
+[08/26/2024 23:22]  Kai Hansen: Kai Hansen
+[08/26/2024 23:22]  an ancient mummy: *regens*
+[08/26/2024 23:22]  an earth elemental: (summoned)
+[08/26/2024 23:22]  an earth elemental: an earth elemental
+[08/26/2024 23:22]  Puggles: Kal Vas Xen Flam
+[08/26/2024 23:22]  an ancient mummy: *regens*
+[08/26/2024 23:22]  Lauros: Lauros
+[08/26/2024 23:22]  a fire elemental: (summoned)
+[08/26/2024 23:22]  a fire elemental: a fire elemental
+[08/26/2024 23:22]  Juniper: The King's Faire is here!
+[08/26/2024 23:22]  Gen X Wannabe: Gen X Wannabe
+[08/26/2024 23:23]  AriaFae: Kal Ort Por
+[08/26/2024 23:23]  AriaFae: [SOF]
+[08/26/2024 23:23]  AriaFae: AriaFae
+[08/26/2024 23:23]  Lauros: Lauros
+[08/26/2024 23:23]  Bonefrog: Pirate
+[08/26/2024 23:23]  Bonefrog: [Loyal, NKB]
+[08/26/2024 23:23]  Bonefrog: Lord Bonefrog
+[08/26/2024 23:23]  Ingmar: Your gold balance is 99,272.
+[08/26/2024 23:23]  an ancient mummy: *regens*
+[08/26/2024 23:23]  GrubHopper: GrubHopper
+[08/26/2024 23:23]  an ancient mummy: *regens*
+[08/26/2024 23:23]  ArcaneTree: Triggered
+[08/26/2024 23:23]  ArcaneTree: [Recruit, CFC]
+[08/26/2024 23:23]  ArcaneTree: ArcaneTree
+[08/26/2024 23:23]  Juniper: The King's Faire is here!
+[08/26/2024 23:23]  Bonefrog: Kal Ort Por
+[08/26/2024 23:23]  slapinator: Landowner
+[08/26/2024 23:23]  slapinator: [Veteran, IDC]
+[08/26/2024 23:23]  slapinator: slapinator
+[08/26/2024 23:23]  Grimpeh Grimpson: Triggered
+[08/26/2024 23:23]  Grimpeh Grimpson: [Thrall, ICON]
+[08/26/2024 23:23]  Grimpeh Grimpson: Grimpeh Grimpson
+[08/26/2024 23:23]  Grimpeh Grimpson: bank
+[08/26/2024 23:23]  Fiabo: Roll Player
+[08/26/2024 23:23]  Fiabo: [Console, ITA.]
+[08/26/2024 23:23]  Fiabo: Lord Fiabo
+[08/26/2024 23:23]  Mr Skooma: Monster Hunter Associate
+[08/26/2024 23:23]  Mr Skooma: [Veteran, vD]
+[08/26/2024 23:23]  Mr Skooma: Mr Skooma
+[08/26/2024 23:23]  Lauros: Lauros
+[08/26/2024 23:23]  Alseid: Wilderness Legend
+[08/26/2024 23:23]  Alseid: [Nymph, Syn]
+[08/26/2024 23:23]  Alseid: Lady Alseid
+[08/26/2024 23:23]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/26/2024 23:23]  Mad-ManiaK: Wilderness Legend
+[08/26/2024 23:23]  Mad-ManiaK: [LoK]
+[08/26/2024 23:23]  Mad-ManiaK: Lord Mad-ManiaK
+[08/26/2024 23:23]  an ancient mummy: *regens*
+[08/26/2024 23:23]  AkyKromas: Black Marketeer
+[08/26/2024 23:23]  AkyKromas: [Serpent Slayer, ITA.]
+[08/26/2024 23:23]  AkyKromas: Lady AkyKromas
+[08/26/2024 23:23]  an ancient mummy: *regens*
+[08/26/2024 23:23]  Dhago: Dhago
+[08/26/2024 23:23]  Fearsome Fred: Fearsome Fred
+[08/26/2024 23:24]  JapaBlackSmith: [Nordico, BRvk]
+[08/26/2024 23:24]  JapaBlackSmith: JapaBlackSmith
+[08/26/2024 23:24]  a likeness: a likeness
+[08/26/2024 23:24]  a likeness: a likeness
+[08/26/2024 23:24]  a shady figure: a shady figure
+[08/26/2024 23:24]  Kibdex: Kibdex
+[08/26/2024 23:24]  Kai Hansen: Kai Hansen
+[08/26/2024 23:24]  a shady figure: Let us test your corporeal limits...
+[08/26/2024 23:24]  slapinator: Landowner
+[08/26/2024 23:24]  slapinator: [Veteran, IDC]
+[08/26/2024 23:24]  slapinator: slapinator
+[08/26/2024 23:24]  Juniper: Take this moongate to the King's Faire!
+[08/26/2024 23:24]  an ancient mummy: *regens*
+[08/26/2024 23:24]  slapinator: guards rent bank
+[08/26/2024 23:24]  an ancient mummy: *regens*
+[08/26/2024 23:24]  Silas Lockwood: Silas Lockwood
+[08/26/2024 23:24]  Wreckimus: Lord Wreckimus
+[08/26/2024 23:24]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/26/2024 23:24]  an ancient mummy: *regens*
+[08/26/2024 23:24]  System: Ostruzina has completed the achievement: Monster Hunter Initiate.
+[08/26/2024 23:24]  Arggentino: [-_-]
+[08/26/2024 23:24]  Arggentino: Lord Arggentino
+[08/26/2024 23:24]  an ancient mummy: *regens*
+[08/26/2024 23:24]  Juniper: Looking for Jakesh? He's at the King's Faire, right through this moongate.
+[08/26/2024 23:24]  a phoenix: (bonded)
+[08/26/2024 23:24]  a phoenix: a phoenix
+[08/26/2024 23:24]  a fire mephit: (bonded)
+[08/26/2024 23:24]  a fire mephit: a fire mephit
+[08/26/2024 23:24]  Hess Thundereye: Daemonic Slayer
+[08/26/2024 23:24]  Hess Thundereye: Lord Hess Thundereye
+[08/26/2024 23:24]  K a n a: [-H-]
+[08/26/2024 23:24]  K a n a: Lord K a n a
+[08/26/2024 23:24]  Misty May: [Soldier, DKR]
+[08/26/2024 23:24]  Misty May: Misty May
+[08/26/2024 23:24]  GrubHopper: GrubHopper
+[08/26/2024 23:24]  Grimpeh Grimpson: Kal Ort Por
+[08/26/2024 23:25]  Lauros: Lauros
+[08/26/2024 23:25]  an ancient mummy: *regens*
+[08/26/2024 23:25]  an ancient mummy: *regens*
+[08/26/2024 23:25]  Arggentino: [-_-]
+[08/26/2024 23:25]  Arggentino: Lord Arggentino
+[08/26/2024 23:25]  Mad-Chef: [Recruit, McS]
+[08/26/2024 23:25]  Mad-Chef: Mad-Chef
+[08/26/2024 23:25]  Ingmar: Your gold balance is 1,529,905.
+[08/26/2024 23:25]  Calendonia: Your gold balance is 1,529,905.
+[08/26/2024 23:25]  Juniper: The King's Faire is here!
+[08/26/2024 23:25]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/26/2024 23:25]  Alderon: Alderon
+[08/26/2024 23:25]  an ancient mummy: *regens*
+[08/26/2024 23:25]  Draxax: Monstrous Slayer
+[08/26/2024 23:25]  Draxax: [Juicy, SQzD]
+[08/26/2024 23:25]  Draxax: Lord Draxax
+[08/26/2024 23:25]  an ancient mummy: *regens*
+[08/26/2024 23:25]  WeedMon: [Recruit, CFC]
+[08/26/2024 23:25]  WeedMon: Lord WeedMon
+[08/26/2024 23:25]  Laura Kinney: [Recruit, EVIL]
+[08/26/2024 23:25]  Laura Kinney: Laura Kinney
+[08/26/2024 23:25]  Traveling Trader: Mythical Dungeon Curator
+[08/26/2024 23:25]  Traveling Trader: Traveling Trader
+[08/26/2024 23:25]  Laura Kinney: BANK
+[08/26/2024 23:25]  Juniper: King's Faire! King's Faire!
+[08/26/2024 23:25]  System: Shakib has completed the achievement: Affluent (Basic).
+[08/26/2024 23:25]  Turta: [Beard Brother, BB]
+[08/26/2024 23:25]  Turta: Turta
+[08/26/2024 23:25]  AriaFae: [SOF]
+[08/26/2024 23:25]  AriaFae: AriaFae
+[08/26/2024 23:26]  Rolim: [Member, vD]
+[08/26/2024 23:26]  Rolim: Rolim
+[08/26/2024 23:26]  Rolim: bank
+[08/26/2024 23:26]  Juniper: You have nothing I would be interested in.
+[08/26/2024 23:26]  Juniper: The King's Faire is here!
+[08/26/2024 23:26]  GrubHopper: GrubHopper
+[08/26/2024 23:26]  Laura Kinney: Kal Ort Por
+[08/26/2024 23:26]  GrubHopper: GrubHopper
+[08/26/2024 23:26]  Khorin: Khorin
+[08/26/2024 23:26]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/26/2024 23:26]  Turta: [Beard Brother, BB]
+[08/26/2024 23:26]  Turta: Turta
+[08/26/2024 23:26]  Poe the Fat: [Thrall, ICON]
+[08/26/2024 23:26]  Poe the Fat: Poe the Fat
+[08/26/2024 23:26]  Poe the Fat: vendor buy bank guards
+[08/26/2024 23:26]  Juniper: Looking for Jakesh? He's at the King's Faire, right through this moongate.
+[08/26/2024 23:26]  Anroz Mithrandir: Anroz Mithrandir
+[08/26/2024 23:26]  wafflesplz: [Pay the, Toll]
+[08/26/2024 23:26]  wafflesplz: Lady wafflesplz
+[08/26/2024 23:26]  PeachCarver: PeachCarver
+[08/26/2024 23:26]  wafflesplz: bank guards room
+[08/26/2024 23:26]  Lauros: Lauros
+[08/26/2024 23:26]  PeachCarver: PeachCarver
+[08/26/2024 23:27]  Mick Lovin: [Citizen, Yew]
+[08/26/2024 23:27]  Mick Lovin: Mick Lovin
+[08/26/2024 23:27]  Fully Awake: [Apprentice, COOL]
+[08/26/2024 23:27]  Fully Awake: Fully Awake
+[08/26/2024 23:27]  Evil Palacinka: [Best AOG Player, AOG]
+[08/26/2024 23:27]  Evil Palacinka: Lord Evil Palacinka
+[08/26/2024 23:27]  Turta: [Beard Brother, BB]
+[08/26/2024 23:27]  Turta: Turta
+[08/26/2024 23:27]  BukakkeSaka: Wizard
+[08/26/2024 23:27]  BukakkeSaka: [The Tavern], [tT]
+[08/26/2024 23:27]  BukakkeSaka: BukakkeSaka
+[08/26/2024 23:27]  Lauros: Lauros
+[08/26/2024 23:27]  SplashXr: Kal Ort Por
+[08/26/2024 23:27]  SplashXr: Relic Hunter
+[08/26/2024 23:27]  SplashXr: [Team Kendrick 2 Chainz, CtS]
+[08/26/2024 23:27]  SplashXr: Lord SplashXr
+[08/26/2024 23:27]  Jaimito: You have hidden yourself well.

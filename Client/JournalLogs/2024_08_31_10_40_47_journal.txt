@@ -1,0 +1,1262 @@
+[08/31/2024 10:40]  System: WorldMap loading...
+[08/31/2024 10:40]  System: Loading WorldMap markers..
+[08/31/2024 10:40]  System: ..Banks_and_Healers.xml (39)
+[08/31/2024 10:40]  System: ..Dungeons.xml (13)
+[08/31/2024 10:40]  System: ..Dungeon_Gates.xml (388)
+[08/31/2024 10:40]  System: ..Healer_Caravans.xml (42)
+[08/31/2024 10:40]  System: ..Kings_Faire.xml (49)
+[08/31/2024 10:40]  System: ..Moongates.xml (10)
+[08/31/2024 10:40]  System: ..POI.xml (251)
+[08/31/2024 10:40]  System: ..PvP_Locations.xml (71)
+[08/31/2024 10:40]  System: ..Shrines.xml (9)
+[08/31/2024 10:40]  System: ..Sub-Dungeons.xml (4)
+[08/31/2024 10:40]  System: ..Townships.xml (10)
+[08/31/2024 10:40]  System: ..UOAM_Atlas.xml (1887)
+[08/31/2024 10:40]  System: ..UOAM_T-Map.xml (255)
+[08/31/2024 10:40]  System: ..UOAM_Treasure.xml (523)
+[08/31/2024 10:40]  System: WorldMap markers loaded (3551)
+[08/31/2024 10:40]  System: Welcome Jaimito!
+[08/31/2024 10:40]  Megan: Megan thee Town Crier
+[08/31/2024 10:40]  Becca: Becca the banker
+[08/31/2024 10:40]  Ganesa: Ganesa the banker
+[08/31/2024 10:40]  Stephan: Stephan the banker
+[08/31/2024 10:40]  Lana: Lana the bard
+[08/31/2024 10:40]  Aura: Aura the tanner
+[08/31/2024 10:40]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[08/31/2024 10:40]  System: WorldMap loaded!
+[08/31/2024 10:40]  Jaimito: bank
+[08/31/2024 10:40]  Jaimito: Items: 101/125
+[08/31/2024 10:40]  Jaimito: Total Weight: 574
+[08/31/2024 10:40]  Jaimito: You have hidden yourself well.
+[08/31/2024 10:40]  Megan: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 10:40]  Ainhazard: [Hostile Peasant, HOST]
+[08/31/2024 10:40]  Ainhazard: Ainhazard
+[08/31/2024 10:41]  System: You feel comfortable enough to begin stealthing.
+[08/31/2024 10:41]  Razor: [Stealth Ready]
+[08/31/2024 10:41]  Ainhazard: BAnK
+[08/31/2024 10:41]  Megan: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 10:42]  System: The world will save in 15 seconds.
+[08/31/2024 10:42]  Kaikara: Kaikara the jeweler
+[08/31/2024 10:42]  Sheba: Sheba the tinker
+[08/31/2024 10:42]  Kelby: Kelby the real estate broker
+[08/31/2024 10:42]  a cat: a cat
+[08/31/2024 10:42]  Austin: Austin the beggar
+[08/31/2024 10:42]  Rankin: Rankin the healer
+[08/31/2024 10:42]  Paloma: Paloma the architect
+[08/31/2024 10:42]  Ainhazard: [Hostile Peasant, HOST]
+[08/31/2024 10:42]  Ainhazard: Ainhazard
+[08/31/2024 10:42]  Deiene: Deiene the cook
+[08/31/2024 10:42]  a dog: a dog
+[08/31/2024 10:42]  Rigby: Rigby the alchemist
+[08/31/2024 10:42]  Peg: Peg the waiter
+[08/31/2024 10:42]  Diane: Diane the alchemist
+[08/31/2024 10:42]  Faifuza: Faifuza the tavern keeper
+[08/31/2024 10:42]  a dog: a dog
+[08/31/2024 10:42]  System: You have left the protection of the town guards.
+[08/31/2024 10:42]  Jaimito: Your mount finds a quiet place to rest safely.
+[08/31/2024 10:42]  Faizah: Faizah the juggler
+[08/31/2024 10:42]  Adelle: Adelle the puppeteer
+[08/31/2024 10:42]  Ramiro: Ramiro the ticket taker
+[08/31/2024 10:42]  HOA Enforcement: Landowner
+[08/31/2024 10:42]  HOA Enforcement: [Ripe, SQzD]
+[08/31/2024 10:42]  HOA Enforcement: HOA Enforcement
+[08/31/2024 10:42]  Raven: Raven the ticket taker
+[08/31/2024 10:42]  Kadath: [Veteran, NWO]
+[08/31/2024 10:42]  Kadath: Lord Kadath
+[08/31/2024 10:42]  Jeff Cavaliere: Sergeant [Andaria]
+[08/31/2024 10:42]  Jeff Cavaliere: [Always, RDY]
+[08/31/2024 10:42]  Jeff Cavaliere: Jeff Cavaliere
+[08/31/2024 10:42]  Arger: Legendary Weaponmaster
+[08/31/2024 10:42]  Arger: [Veteran, PwN]
+[08/31/2024 10:42]  Arger: Lord Arger
+[08/31/2024 10:42]  Willscarlet: Illusionist
+[08/31/2024 10:42]  Willscarlet: [Loyal, NKB]
+[08/31/2024 10:42]  Willscarlet: Lord Willscarlet
+[08/31/2024 10:42]  ReeferMadness: ReeferMadness
+[08/31/2024 10:42]  Lander: Lander the juggler
+[08/31/2024 10:42]  System: The world is saving, please wait.
+[08/31/2024 10:42]  System: World save complete. The entire process took 2.7 seconds.
+[08/31/2024 10:42]  Asha: Asha the banker
+[08/31/2024 10:42]  Ophilia: Ophilia the ticketmaster
+[08/31/2024 10:42]  Bahama: [Silent but deadly, COOL]
+[08/31/2024 10:42]  Bahama: Bahama
+[08/31/2024 10:42]  Alexa: Alexa the firebreather
+[08/31/2024 10:42]  Hadrian: Hadrian the ticket taker
+[08/31/2024 10:42]  Mezcall: [Healer, ViPs]
+[08/31/2024 10:42]  Mezcall: Lord Mezcall
+[08/31/2024 10:42]  a muck: a muck
+[08/31/2024 10:42]  carpcakes: Affluent
+[08/31/2024 10:42]  carpcakes: [SOF]
+[08/31/2024 10:42]  carpcakes: Lady carpcakes
+[08/31/2024 10:42]  a muck: a muck
+[08/31/2024 10:42]  a muck: a muck
+[08/31/2024 10:42]  a muck: a muck
+[08/31/2024 10:42]  Bahama: [Silent but deadly, COOL]
+[08/31/2024 10:42]  Bahama: Bahama
+[08/31/2024 10:42]  a muck: a muck
+[08/31/2024 10:42]  a muck: a muck
+[08/31/2024 10:42]  a muck: a muck
+[08/31/2024 10:42]  Asha: Asha the banker
+[08/31/2024 10:42]  Ophilia: Ophilia the ticketmaster
+[08/31/2024 10:42]  a muck: a muck
+[08/31/2024 10:42]  carpcakes: Affluent
+[08/31/2024 10:42]  carpcakes: [SOF]
+[08/31/2024 10:42]  carpcakes: Lady carpcakes
+[08/31/2024 10:42]  Alexa: Alexa the firebreather
+[08/31/2024 10:42]  Hadrian: Hadrian the ticket taker
+[08/31/2024 10:42]  Alexa: *gulp*
+[08/31/2024 10:43]  Mezcall: [Healer, ViPs]
+[08/31/2024 10:43]  Mezcall: Lord Mezcall
+[08/31/2024 10:43]  a muck: a muck
+[08/31/2024 10:43]  Kachine: Kachine the ticket taker
+[08/31/2024 10:43]  a muck: a muck
+[08/31/2024 10:43]  a muck: a muck
+[08/31/2024 10:43]  a muck: a muck
+[08/31/2024 10:43]  a muck: a muck
+[08/31/2024 10:43]  Tobias: Tobias the firebreather
+[08/31/2024 10:43]  Dagan: Dagan the juggler
+[08/31/2024 10:43]  Technobat: Technobat
+[08/31/2024 10:43]  Party Lich: Party Lich
+[08/31/2024 10:43]  System: You join the queue to participate in this event (you must stay nearby to remain in the queue).
+[08/31/2024 10:43]  Tobias: *gulp*
+[08/31/2024 10:43]  System: You earn 1 ticket towards a custom lottery (1 total)
+[08/31/2024 10:43]  System: You now have 0 King's Faire tickets remaining.
+[08/31/2024 10:43]  a bartender: a bartender
+[08/31/2024 10:43]  A: A
+[08/31/2024 10:43]  B: B
+[08/31/2024 10:43]  D: D
+[08/31/2024 10:43]  E: E
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:43]  C: C
+[08/31/2024 10:44]  C: C
+[08/31/2024 10:44]  C: C
+[08/31/2024 10:44]  C: C
+[08/31/2024 10:44]  C: C
+[08/31/2024 10:44]  C: C
+[08/31/2024 10:44]  Jaimito: You earn your 2nd victory
+[08/31/2024 10:44]  Jaimito: Current high score is 19 victories
+[08/31/2024 10:44]  Hadrian: Jaimito earns their 2nd victory
+[08/31/2024 10:44]  Hadrian: Current high score is 19 victories
+[08/31/2024 10:44]  C: C
+[08/31/2024 10:44]  Jeff Cavaliere: Sergeant [Andaria]
+[08/31/2024 10:44]  Jeff Cavaliere: [Always, RDY]
+[08/31/2024 10:44]  Jeff Cavaliere: Jeff Cavaliere
+[08/31/2024 10:44]  Arger: Legendary Weaponmaster
+[08/31/2024 10:44]  Arger: [Veteran, PwN]
+[08/31/2024 10:44]  Arger: Lord Arger
+[08/31/2024 10:44]  Kadath: [Veteran, NWO]
+[08/31/2024 10:44]  Kadath: Lord Kadath
+[08/31/2024 10:44]  Willscarlet: Illusionist
+[08/31/2024 10:44]  Willscarlet: [Loyal, NKB]
+[08/31/2024 10:44]  Willscarlet: Lord Willscarlet
+[08/31/2024 10:44]  ReeferMadness: ReeferMadness
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  Raven: Raven the ticket taker
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  Faizah: Faizah the juggler
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  Adelle: Adelle the puppeteer
+[08/31/2024 10:44]  Lander: Lander the juggler
+[08/31/2024 10:44]  Alexa: Alexa the firebreather
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  Ramiro: Ramiro the ticket taker
+[08/31/2024 10:44]  Ophilia: Ophilia the ticketmaster
+[08/31/2024 10:44]  HOA Enforcement: Landowner
+[08/31/2024 10:44]  HOA Enforcement: [Ripe, SQzD]
+[08/31/2024 10:44]  HOA Enforcement: HOA Enforcement
+[08/31/2024 10:44]  Asha: Asha the banker
+[08/31/2024 10:44]  Mezcall: [Healer, ViPs]
+[08/31/2024 10:44]  Mezcall: Lord Mezcall
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  Bahama: [Silent but deadly, COOL]
+[08/31/2024 10:44]  Bahama: Bahama
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  Alexa: *gulp*
+[08/31/2024 10:44]  Brynn: Brynn the juggler
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  Alexa: *gulp*
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  a muck: a muck
+[08/31/2024 10:44]  System: You are now under the protection of the town guards.
+[08/31/2024 10:44]  Jaimito: Your mount returns.
+[08/31/2024 10:44]  Sun: Sun the banker
+[08/31/2024 10:44]  Whitaker: Whitaker the real estate broker
+[08/31/2024 10:44]  Penthea: Penthea the juggler
+[08/31/2024 10:44]  Alligra: Alligra the banker
+[08/31/2024 10:44]  Sean: Sean the Town Crier
+[08/31/2024 10:44]  Deianira: Deianira the jeweler
+[08/31/2024 10:44]  Alake: Alake the tinker
+[08/31/2024 10:44]  Cador: Cador the scribe
+[08/31/2024 10:44]  Syruss: Pirate
+[08/31/2024 10:44]  Syruss: Syruss
+[08/31/2024 10:44]  Carol: Carol the healer
+[08/31/2024 10:44]  Deedee: Deedee the alchemist
+[08/31/2024 10:44]  Artaxerxes I: Lord Artaxerxes I
+[08/31/2024 10:44]  Jacobe: Jacobe the creature broker
+[08/31/2024 10:44]  Whitaker: Whitaker the real estate broker
+[08/31/2024 10:44]  Kepa: Kepa the fisherman
+[08/31/2024 10:44]  Alake: Alake the tinker
+[08/31/2024 10:44]  Deianira: Deianira the jeweler
+[08/31/2024 10:44]  Amethyst: Amethyst the architect
+[08/31/2024 10:45]  Sean: Sean the Town Crier
+[08/31/2024 10:45]  Cador: Cador the scribe
+[08/31/2024 10:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[08/31/2024 10:45]  Syruss: Pirate
+[08/31/2024 10:45]  Syruss: Syruss
+[08/31/2024 10:45]  Carol: Carol the healer
+[08/31/2024 10:45]  Irma: Irma the healer
+[08/31/2024 10:45]  Deedee: Deedee the alchemist
+[08/31/2024 10:45]  Nantale: Nantale the herbalist
+[08/31/2024 10:45]  System: You have left the protection of the town guards.
+[08/31/2024 10:45]  Jaimito: Your mount finds a quiet place to rest safely.
+[08/31/2024 10:45]  Faizah: Faizah the juggler
+[08/31/2024 10:45]  Adelle: Adelle the puppeteer
+[08/31/2024 10:45]  Ramiro: Ramiro the ticket taker
+[08/31/2024 10:45]  a muck: a muck
+[08/31/2024 10:45]  HOA Enforcement: Landowner
+[08/31/2024 10:45]  HOA Enforcement: [Ripe, SQzD]
+[08/31/2024 10:45]  HOA Enforcement: HOA Enforcement
+[08/31/2024 10:45]  Raven: Raven the ticket taker
+[08/31/2024 10:45]  Kadath: [Veteran, NWO]
+[08/31/2024 10:45]  Kadath: Lord Kadath
+[08/31/2024 10:45]  Jeff Cavaliere: Sergeant [Andaria]
+[08/31/2024 10:45]  Jeff Cavaliere: [Always, RDY]
+[08/31/2024 10:45]  Jeff Cavaliere: Jeff Cavaliere
+[08/31/2024 10:45]  Arger: Legendary Weaponmaster
+[08/31/2024 10:45]  Arger: [Veteran, PwN]
+[08/31/2024 10:45]  Arger: Lord Arger
+[08/31/2024 10:45]  ReeferMadness: ReeferMadness
+[08/31/2024 10:45]  a muck: a muck
+[08/31/2024 10:45]  Lander: Lander the juggler
+[08/31/2024 10:45]  a muck: a muck
+[08/31/2024 10:45]  Willscarlet: Illusionist
+[08/31/2024 10:45]  Willscarlet: [Loyal, NKB]
+[08/31/2024 10:45]  Willscarlet: Lord Willscarlet
+[08/31/2024 10:45]  System: John Antony has completed the achievement: Raffler (Basic).
+[08/31/2024 10:45]  a muck: a muck
+[08/31/2024 10:45]  a muck: a muck
+[08/31/2024 10:45]  Asha: Asha the banker
+[08/31/2024 10:45]  Ophilia: Ophilia the ticketmaster
+[08/31/2024 10:45]  a muck: a muck
+[08/31/2024 10:45]  Brynn: Brynn the juggler
+[08/31/2024 10:45]  Bahama: [Silent but deadly, COOL]
+[08/31/2024 10:45]  Bahama: Bahama
+[08/31/2024 10:45]  Alexa: Alexa the firebreather
+[08/31/2024 10:45]  Mezcall: [Healer, ViPs]
+[08/31/2024 10:45]  Mezcall: Lord Mezcall
+[08/31/2024 10:45]  Alexa: *gulp*
+[08/31/2024 10:45]  a muck: a muck
+[08/31/2024 10:45]  System: You are now under the protection of the town guards.
+[08/31/2024 10:45]  Jaimito: Your mount returns.
+[08/31/2024 10:45]  Rico Lorenzonati: [Private, G.G]
+[08/31/2024 10:45]  Rico Lorenzonati: Rico Lorenzonati
+[08/31/2024 10:45]  Ingmar: Ingmar the banker
+[08/31/2024 10:45]  Ackerley: Ackerley the juggler
+[08/31/2024 10:45]  Idema: Idema
+[08/31/2024 10:45]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:45]  Jacking Jack: Jacking Jack
+[08/31/2024 10:45]  Aurelia: Aurelia the Town Crier
+[08/31/2024 10:45]  feemer: Triggered
+[08/31/2024 10:45]  feemer: feemer
+[08/31/2024 10:45]  a horse: (bonded)
+[08/31/2024 10:45]  a horse: a horse
+[08/31/2024 10:45]  Taul: Alchemist
+[08/31/2024 10:45]  Taul: Taul
+[08/31/2024 10:45]  Kujjin: [Admiral, P.S.]
+[08/31/2024 10:45]  Kujjin: Kujjin
+[08/31/2024 10:45]  Derek Dauntless: [Ripe, SQzD]
+[08/31/2024 10:45]  Derek Dauntless: Derek Dauntless
+[08/31/2024 10:45]  Maethross: Legendary Domesticator
+[08/31/2024 10:45]  Maethross: Maethross
+[08/31/2024 10:45]  KKONAW: (bonded)
+[08/31/2024 10:45]  KKONAW: KKONAW
+[08/31/2024 10:45]  KKONA: (bonded)
+[08/31/2024 10:45]  KKONA: KKONA
+[08/31/2024 10:45]  Veivenit: Veivenit
+[08/31/2024 10:45]  Morgana: Morgana the puppeteer
+[08/31/2024 10:45]  Sew Me: Sew Me
+[08/31/2024 10:45]  Babs Kramer: Lady Babs Kramer
+[08/31/2024 10:45]  Juniper: Juniper the juggler
+[08/31/2024 10:45]  Ray DeTamer: Serial Killer
+[08/31/2024 10:45]  Ray DeTamer: [-_-]
+[08/31/2024 10:45]  Ray DeTamer: Lord Ray DeTamer
+[08/31/2024 10:45]  Devilhawk: Devilhawk
+[08/31/2024 10:45]  Derrick: Derrick the juggler
+[08/31/2024 10:45]  Standford: Standford the provisioner
+[08/31/2024 10:45]  Espardo: Espardo
+[08/31/2024 10:45]  KnownAsQ: KnownAsQ
+[08/31/2024 10:45]  Calendonia: Calendonia the banker
+[08/31/2024 10:45]  Thy Dark Knight: [Veteran, 1CE]
+[08/31/2024 10:45]  Thy Dark Knight: Thy Dark Knight
+[08/31/2024 10:45]  Neriaroc: Neriaroc
+[08/31/2024 10:45]  Genric Himars: Genric Himars
+[08/31/2024 10:45]  Damory: Damory
+[08/31/2024 10:45]  a scavenging guy: [Novices des liens, LDS]
+[08/31/2024 10:45]  a scavenging guy: a scavenging guy
+[08/31/2024 10:45]  Jaimito: You have hidden yourself well.
+[08/31/2024 10:45]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:45]  WanShot: WanShot
+[08/31/2024 10:45]  SkitterMo: [Meat Sweats, DPS]
+[08/31/2024 10:45]  SkitterMo: Lord SkitterMo
+[08/31/2024 10:45]  Juniper: King's Faire! King's Faire!
+[08/31/2024 10:45]  Kelly-Polymer: Kelly-Polymer
+[08/31/2024 10:45]  System: Ship has completed the achievement: Captain (Advanced).
+[08/31/2024 10:45]  System: You feel comfortable enough to begin stealthing.
+[08/31/2024 10:45]  Razor: [Stealth Ready]
+[08/31/2024 10:45]  SkitterMo: Kal Ort Por
+[08/31/2024 10:45]  Damory: Damory
+[08/31/2024 10:45]  Vincha: Armorer Initiate
+[08/31/2024 10:45]  Vincha: Vincha
+[08/31/2024 10:45]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 10:45]  Brave Heart: Skinner
+[08/31/2024 10:45]  Brave Heart: [Veteran, ViPs]
+[08/31/2024 10:45]  Brave Heart: Lord Brave Heart
+[08/31/2024 10:46]  System: Shoyoroll RVCA has completed the achievement: Artificers Enclave Dignitary.
+[08/31/2024 10:46]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:46]  WanShot: WanShot
+[08/31/2024 10:46]  HoKuOKeKaii I: [Shadowmaster, PKs]
+[08/31/2024 10:46]  HoKuOKeKaii I: HoKuOKeKaii I
+[08/31/2024 10:46]  Ruffi: Kal Ort Por
+[08/31/2024 10:46]  Ruffi: Ruffi
+[08/31/2024 10:46]  System: Zylus has completed the achievement: Daemonic Slayer (Advanced).
+[08/31/2024 10:46]  a scavenging guy: [Novices des liens, LDS]
+[08/31/2024 10:46]  a scavenging guy: a scavenging guy
+[08/31/2024 10:46]  Juniper: Looking for the Prevalian Merchant? He's at the King's Faire, right through this moongate.
+[08/31/2024 10:46]  Qwixo: Legendary Brilliance
+[08/31/2024 10:46]  Qwixo: [Golden Boy, LT]
+[08/31/2024 10:46]  Qwixo: Qwixo
+[08/31/2024 10:46]  LynardSkynard: LynardSkynard
+[08/31/2024 10:46]  Shiorin: Legendary Artificer
+[08/31/2024 10:46]  Shiorin: [Citizen, Yew]
+[08/31/2024 10:46]  Shiorin: Shiorin
+[08/31/2024 10:46]  System: Your campfire is now secure.
+[08/31/2024 10:46]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:46]  System: John Antony has completed the achievement: Raffler (Advanced).
+[08/31/2024 10:46]  BEANAR: [Hostile Peasant, HOST]
+[08/31/2024 10:46]  BEANAR: BEANAR
+[08/31/2024 10:46]  a giant swamp slug: (bonded)
+[08/31/2024 10:46]  a giant swamp slug: a giant swamp slug
+[08/31/2024 10:46]  Escabarajo: (bonded)
+[08/31/2024 10:46]  Escabarajo: Escabarajo
+[08/31/2024 10:46]  a cave bear: (bonded)
+[08/31/2024 10:46]  a cave bear: a cave bear
+[08/31/2024 10:46]  Shiorin: bank
+[08/31/2024 10:46]  Bestialis: Legendary Shrine Boss Slayer
+[08/31/2024 10:46]  Bestialis: [Nuclear, ViPs]
+[08/31/2024 10:46]  Bestialis: Lord Bestialis
+[08/31/2024 10:46]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 10:46]  Cole Forhman: Monster Hunter Initiate
+[08/31/2024 10:46]  Cole Forhman: [Novices des liens, LDS]
+[08/31/2024 10:46]  Cole Forhman: Cole Forhman
+[08/31/2024 10:46]  Cole Forhman: Monster Hunter Initiate
+[08/31/2024 10:46]  Cole Forhman: [Novices des liens, LDS]
+[08/31/2024 10:46]  Cole Forhman: Cole Forhman
+[08/31/2024 10:46]  Alzoneth: Wizard
+[08/31/2024 10:46]  Alzoneth: [Citizen, Yew]
+[08/31/2024 10:46]  Alzoneth: Alzoneth
+[08/31/2024 10:46]  Calendonia: Your gold balance is 248,659.
+[08/31/2024 10:46]  Aurelia: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 10:46]  BSteins: Monster Hunter Initiate
+[08/31/2024 10:46]  BSteins: [Apprentice, COOL]
+[08/31/2024 10:46]  BSteins: Lord BSteins
+[08/31/2024 10:47]  Juniper: The King's Faire is here!
+[08/31/2024 10:47]  Tho'r: Legendarily Triggered
+[08/31/2024 10:47]  Tho'r: [Sage, BEAR]
+[08/31/2024 10:47]  Tho'r: Lord Tho'r
+[08/31/2024 10:47]  Vincha: Armorer Initiate
+[08/31/2024 10:47]  Vincha: Vincha
+[08/31/2024 10:47]  Juniper: The King's Faire is here!
+[08/31/2024 10:47]  GATYAPAN: [Private, AHO]
+[08/31/2024 10:47]  GATYAPAN: Lady GATYAPAN
+[08/31/2024 10:47]  Boaty Miner: Boaty Miner
+[08/31/2024 10:47]  Juniper: King's Faire! King's Faire!
+[08/31/2024 10:47]  Ailiin: Ailiin
+[08/31/2024 10:47]  CraftStein: CraftStein
+[08/31/2024 10:47]  Umber: [Speedy Hammer, Fae]
+[08/31/2024 10:47]  Umber: Umber
+[08/31/2024 10:47]  Cole Forhman: Monster Hunter Initiate
+[08/31/2024 10:47]  Cole Forhman: [Novices des liens, LDS]
+[08/31/2024 10:47]  Cole Forhman: Cole Forhman
+[08/31/2024 10:47]  KingKnossos: KingKnossos
+[08/31/2024 10:47]  Rene Redzepi: Chef
+[08/31/2024 10:47]  Rene Redzepi: [1CE]
+[08/31/2024 10:47]  Rene Redzepi: Lord Rene Redzepi
+[08/31/2024 10:47]  Ailiin: Ailiin
+[08/31/2024 10:47]  Calendonia: Your gold balance is 284,849.
+[08/31/2024 10:47]  Aurelia: The weekly lottery has concluded and a new lottery is now underway! Visit the Prevalia Casino to purchase tickets!
+[08/31/2024 10:47]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 10:48]  Cole Forhman: *hiking to destination*
+[08/31/2024 10:48]  Cole Forhman: *hiking to destination*
+[08/31/2024 10:48]  Cole Forhman: *hiking to destination*
+[08/31/2024 10:48]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:48]  System: Mister Map Carty has completed the achievement: Savant (Basic).
+[08/31/2024 10:48]  a pack llama: (tame)
+[08/31/2024 10:48]  a pack llama: [0/2000 stones]
+[08/31/2024 10:48]  a pack llama: a pack llama
+[08/31/2024 10:48]  RedSevenBow: RedSevenBow
+[08/31/2024 10:48]  System: John Quijote has completed the achievement: Expressive (Basic).
+[08/31/2024 10:48]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:48]  BEANAR: [Hostile Peasant, HOST]
+[08/31/2024 10:48]  BEANAR: BEANAR
+[08/31/2024 10:48]  a giant swamp slug: (bonded)
+[08/31/2024 10:48]  a giant swamp slug: a giant swamp slug
+[08/31/2024 10:48]  Escabarajo: (bonded)
+[08/31/2024 10:48]  Escabarajo: Escabarajo
+[08/31/2024 10:48]  a cave bear: (bonded)
+[08/31/2024 10:48]  a cave bear: a cave bear
+[08/31/2024 10:48]  System: Tailorigna has completed the achievement: Order of Armorers Initiate.
+[08/31/2024 10:48]  Kaiku: Legendary Pirate
+[08/31/2024 10:48]  Kaiku: [G.G]
+[08/31/2024 10:48]  Kaiku: Kaiku
+[08/31/2024 10:48]  Knowb: Lord Knowb
+[08/31/2024 10:48]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:48]  Vanira: Vanira
+[08/31/2024 10:48]  Knowb: Bank Guards
+[08/31/2024 10:48]  Juniper: King's Faire! King's Faire!
+[08/31/2024 10:48]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[08/31/2024 10:49]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:49]  Boaty Miner: Boaty Miner
+[08/31/2024 10:49]  Kaiku: Legendary Pirate
+[08/31/2024 10:49]  Kaiku: [G.G]
+[08/31/2024 10:49]  Kaiku: Kaiku
+[08/31/2024 10:49]  Juniper: The King's Faire is here!
+[08/31/2024 10:49]  Tho'r: Kal Ort Por
+[08/31/2024 10:49]  Tho'r: Legendarily Triggered
+[08/31/2024 10:49]  Tho'r: [Sage, BEAR]
+[08/31/2024 10:49]  Tho'r: Lord Tho'r
+[08/31/2024 10:49]  Menacki Driel: Menacki Driel
+[08/31/2024 10:49]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:49]  KnownAsQ: KnownAsQ
+[08/31/2024 10:49]  El Reaper: Legendary Undead Slayer
+[08/31/2024 10:49]  El Reaper: [Sergeant, SOF]
+[08/31/2024 10:49]  El Reaper: El Reaper
+[08/31/2024 10:49]  El Reaper: Legendary Undead Slayer
+[08/31/2024 10:49]  El Reaper: [Sergeant, SOF]
+[08/31/2024 10:49]  El Reaper: El Reaper
+[08/31/2024 10:49]  Fordcu: Fordcu
+[08/31/2024 10:49]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:49]  KingKnossos: KingKnossos
+[08/31/2024 10:49]  Aurelia: New society jobs are now available at Society Masters in Prevalia!
+[08/31/2024 10:49]  Boaty Miner: Boaty Miner
+[08/31/2024 10:50]  CraftStein: CraftStein
+[08/31/2024 10:50]  Boaty Miner: Kal Por Ylem
+[08/31/2024 10:50]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:50]  Boaty Miner: Kal Por Ylem
+[08/31/2024 10:50]  KingKnossos: KingKnossos
+[08/31/2024 10:50]  System: Flavia has completed the achievement: Artificers Enclave Luminary.
+[08/31/2024 10:50]  Boaty Miner: Kal Por Ylem
+[08/31/2024 10:50]  Blondina: Legendary Backstabber
+[08/31/2024 10:50]  Blondina: [Recruit, AOG]
+[08/31/2024 10:50]  Blondina: Blondina
+[08/31/2024 10:50]  Rene Redzepi: Chef
+[08/31/2024 10:50]  Rene Redzepi: [1CE]
+[08/31/2024 10:50]  Rene Redzepi: Lord Rene Redzepi
+[08/31/2024 10:50]  Boaty Miner: Kal Por Ylem
+[08/31/2024 10:50]  El Reaper: Legendary Undead Slayer
+[08/31/2024 10:50]  El Reaper: [Sergeant, SOF]
+[08/31/2024 10:50]  El Reaper: El Reaper
+[08/31/2024 10:50]  Fordcu: Fordcu
+[08/31/2024 10:50]  Barfolot of Puke: Barfolot of Puke
+[08/31/2024 10:50]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:50]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 10:51]  Pottsau: [Mitglied, DoS]
+[08/31/2024 10:51]  Pottsau: Lord Pottsau
+[08/31/2024 10:51]  El Reaper: Legendary Undead Slayer
+[08/31/2024 10:51]  El Reaper: [Sergeant, SOF]
+[08/31/2024 10:51]  El Reaper: El Reaper
+[08/31/2024 10:51]  Juniper: The King's Faire is here!
+[08/31/2024 10:51]  KingKnossos: KingKnossos
+[08/31/2024 10:51]  Rolo Henry: [Lookout, brg]
+[08/31/2024 10:51]  Rolo Henry: Rolo Henry
+[08/31/2024 10:51]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:51]  Mist: Mist
+[08/31/2024 10:51]  System: ARAWN (AWN) guild has reached prestige level 665.
+[08/31/2024 10:51]  NipplelessCage: [Squire, C-C]
+[08/31/2024 10:51]  NipplelessCage: NipplelessCage
+[08/31/2024 10:51]  KnownAsQ: KnownAsQ
+[08/31/2024 10:51]  Anita Runwind: [Juicy AF, SQzD]
+[08/31/2024 10:51]  Anita Runwind: Lady Anita Runwind
+[08/31/2024 10:51]  Aurelia: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 10:52]  System: Flavia has completed the achievement: Order of Armorers Luminary.
+[08/31/2024 10:52]  Celisse: [Squire, C-C]
+[08/31/2024 10:52]  Celisse: Celisse
+[08/31/2024 10:52]  KnownAsQ: KnownAsQ
+[08/31/2024 10:52]  KingKnossos: KingKnossos
+[08/31/2024 10:52]  KnownAsQ: KnownAsQ
+[08/31/2024 10:52]  System: Madvar has completed the achievement: Captain (Master).
+[08/31/2024 10:52]  KnownAsQ: KnownAsQ
+[08/31/2024 10:52]  KnownAsQ: KnownAsQ
+[08/31/2024 10:52]  KnownAsQ: KnownAsQ
+[08/31/2024 10:52]  a forest ostard: (bonded)
+[08/31/2024 10:52]  a forest ostard: a forest ostard
+[08/31/2024 10:52]  KnownAsQ: KnownAsQ
+[08/31/2024 10:52]  Aurelia: The weekly lottery has concluded and a new lottery is now underway! Visit the Prevalia Casino to purchase tickets!
+[08/31/2024 10:53]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 10:53]  Sneaky Slim: Sneaky Slim
+[08/31/2024 10:53]  Onashima: Onashima
+[08/31/2024 10:53]  Onashima: Onashima
+[08/31/2024 10:53]  Celisse: [Squire, C-C]
+[08/31/2024 10:53]  Celisse: Celisse
+[08/31/2024 10:53]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 10:53]  Sneaky Slim: Sneaky Slim
+[08/31/2024 10:53]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:53]  ZenZoneZero: ZenZoneZero
+[08/31/2024 10:53]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[08/31/2024 10:54]  KnownAsQ: KnownAsQ
+[08/31/2024 10:54]  Khalifa Wildrose: Maester
+[08/31/2024 10:54]  Khalifa Wildrose: [Lama Rumena, ITA.]
+[08/31/2024 10:54]  Khalifa Wildrose: Lady Khalifa Wildrose
+[08/31/2024 10:54]  System: Craftworth has completed the achievement: Woodworker (Basic).
+[08/31/2024 10:54]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:54]  System: Your campfire is now secure.
+[08/31/2024 10:54]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:54]  a Coke Dealer: Daemonic Slayer
+[08/31/2024 10:54]  a Coke Dealer: [Runner, PKs]
+[08/31/2024 10:54]  a Coke Dealer: Lord a Coke Dealer
+[08/31/2024 10:54]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 10:54]  Sneaky Slim: Sneaky Slim
+[08/31/2024 10:54]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:54]  KnownAsQ: KnownAsQ
+[08/31/2024 10:54]  Aurelia: New society jobs are now available at Society Masters in Prevalia!
+[08/31/2024 10:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[08/31/2024 10:55]  Olivia Dunne: [onyx]
+[08/31/2024 10:55]  Olivia Dunne: Lady Olivia Dunne
+[08/31/2024 10:55]  Juniper: King's Faire! King's Faire!
+[08/31/2024 10:55]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 10:55]  Sneaky Slim: Sneaky Slim
+[08/31/2024 10:55]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:55]  System: Veivenit has completed the achievement: Echosmith (Basic).
+[08/31/2024 10:55]  NipplelessCage: [Squire, C-C]
+[08/31/2024 10:55]  NipplelessCage: NipplelessCage
+[08/31/2024 10:55]  a pack llama: (tame)
+[08/31/2024 10:55]  a pack llama: [0/2000 stones]
+[08/31/2024 10:55]  a pack llama: a pack llama
+[08/31/2024 10:55]  RedSevenBow: RedSevenBow
+[08/31/2024 10:55]  System: Peter Gryfindork has completed the achievement: Elemental Slayer (Basic).
+[08/31/2024 10:55]  Onashima: Onashima
+[08/31/2024 10:55]  a Coke Dealer: Daemonic Slayer
+[08/31/2024 10:55]  a Coke Dealer: [Runner, PKs]
+[08/31/2024 10:55]  a Coke Dealer: Lord a Coke Dealer
+[08/31/2024 10:55]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:55]  Bruiser Bill: Bruiser Bill
+[08/31/2024 10:55]  System: Haciende has completed the achievement: Order of Armorers Dignitary.
+[08/31/2024 10:55]  Dagorash: Lifetime Guild
+[08/31/2024 10:55]  Dagorash: [Legionary, -_-]
+[08/31/2024 10:55]  Dagorash: Dagorash
+[08/31/2024 10:55]  Corpsefiend: Corpsefiend
+[08/31/2024 10:55]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:55]  KingKnossos: KingKnossos
+[08/31/2024 10:55]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 10:55]  Onashima: Onashima
+[08/31/2024 10:55]  Juniper: You have nothing I would be interested in.
+[08/31/2024 10:55]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 10:56]  Ecio: Cavernam Guardian
+[08/31/2024 10:56]  Ecio: [Membro, ITA.]
+[08/31/2024 10:56]  Ecio: Lady Ecio
+[08/31/2024 10:56]  Ecio: Cavernam Guardian
+[08/31/2024 10:56]  Ecio: [Membro, ITA.]
+[08/31/2024 10:56]  Ecio: Lady Ecio
+[08/31/2024 10:56]  Shiorin: Legendary Artificer
+[08/31/2024 10:56]  Shiorin: [Citizen, Yew]
+[08/31/2024 10:56]  Shiorin: Shiorin
+[08/31/2024 10:56]  Zarine Vetheges: Zarine Vetheges
+[08/31/2024 10:56]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:56]  Dagorash: Lifetime Guild
+[08/31/2024 10:56]  Dagorash: [Legionary, -_-]
+[08/31/2024 10:56]  Dagorash: Dagorash
+[08/31/2024 10:56]  Dagorash: Lifetime Guild
+[08/31/2024 10:56]  Dagorash: [Legionary, -_-]
+[08/31/2024 10:56]  Dagorash: Dagorash
+[08/31/2024 10:56]  BenFromAus: BenFromAus
+[08/31/2024 10:56]  Dagorash: Lifetime Guild
+[08/31/2024 10:56]  Dagorash: [Legionary, -_-]
+[08/31/2024 10:56]  Dagorash: Dagorash
+[08/31/2024 10:56]  Cinali: [Syn]
+[08/31/2024 10:56]  Cinali: Cinali
+[08/31/2024 10:56]  Envenom: Envenom
+[08/31/2024 10:56]  KnownAsQ: KnownAsQ
+[08/31/2024 10:56]  DarkMatter: Daemonic Slayer
+[08/31/2024 10:56]  DarkMatter: [DOPE]
+[08/31/2024 10:56]  DarkMatter: Lord DarkMatter
+[08/31/2024 10:56]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 10:56]  DarkMatter: bank
+[08/31/2024 10:57]  Aurelia: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 10:57]  a pack horse: (tame)
+[08/31/2024 10:57]  a pack horse: [0/2000 stones]
+[08/31/2024 10:57]  a pack horse: a pack horse
+[08/31/2024 10:57]  Bonne: [Ripe, SQzD]
+[08/31/2024 10:57]  Bonne: Bonne
+[08/31/2024 10:57]  Celisse: [Squire, C-C]
+[08/31/2024 10:57]  Celisse: Celisse
+[08/31/2024 10:57]  DarkMatter: Kal Ort Por
+[08/31/2024 10:57]  System: The world will save in 15 seconds.
+[08/31/2024 10:57]  Zylril: Illusionist
+[08/31/2024 10:57]  Zylril: [Pathfinder, Path]
+[08/31/2024 10:57]  Zylril: Lady Zylril
+[08/31/2024 10:57]  System: The world is saving, please wait.
+[08/31/2024 10:57]  System: World save complete. The entire process took 2.9 seconds.
+[08/31/2024 10:57]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:57]  Climats Hands X: Climats Hands X
+[08/31/2024 10:57]  Zylril: Illusionist
+[08/31/2024 10:57]  Zylril: [Pathfinder, Path]
+[08/31/2024 10:57]  Zylril: Lady Zylril
+[08/31/2024 10:57]  DImalex: DImalex
+[08/31/2024 10:57]  emptypackie: (tame)
+[08/31/2024 10:57]  emptypackie: [510/2000 stones]
+[08/31/2024 10:57]  emptypackie: emptypackie
+[08/31/2024 10:57]  Flanno: Triggered
+[08/31/2024 10:57]  Flanno: [Member, PwN]
+[08/31/2024 10:57]  Flanno: Flanno
+[08/31/2024 10:57]  Juniper: The King's Faire is here!
+[08/31/2024 10:57]  KnownAsQ: KnownAsQ
+[08/31/2024 10:57]  BigAngery: BigAngery
+[08/31/2024 10:58]  Aurelia: The weekly lottery has concluded and a new lottery is now underway! Visit the Prevalia Casino to purchase tickets!
+[08/31/2024 10:58]  Piilari: Piilari
+[08/31/2024 10:58]  System: Llewbach has completed the achievement: Wilderness Hunter (Basic).
+[08/31/2024 10:58]  KnownAsQ: KnownAsQ
+[08/31/2024 10:58]  Opworkerpino: Opworkerpino
+[08/31/2024 10:58]  KnownAsQ: KnownAsQ
+[08/31/2024 10:58]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 10:58]  Sneaky Slim: Sneaky Slim
+[08/31/2024 10:58]  Piilari: bank guards room
+[08/31/2024 10:58]  Miss.Tea: Miss.Tea
+[08/31/2024 10:58]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:58]  KingKnossos: KingKnossos
+[08/31/2024 10:58]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:58]  KnownAsQ: KnownAsQ
+[08/31/2024 10:58]  Hakkan: [Druid, BEAR]
+[08/31/2024 10:58]  Hakkan: Hakkan
+[08/31/2024 10:58]  Miss.Tea: Miss.Tea
+[08/31/2024 10:58]  Juniper: King's Faire! King's Faire!
+[08/31/2024 10:59]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[08/31/2024 10:59]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:59]  Oriental: [Member, vD]
+[08/31/2024 10:59]  Oriental: Oriental
+[08/31/2024 10:59]  KraKaren: Master of Aspects
+[08/31/2024 10:59]  KraKaren: [Consigliere, DPS]
+[08/31/2024 10:59]  KraKaren: Lady KraKaren
+[08/31/2024 10:59]  Oriental: [Member, vD]
+[08/31/2024 10:59]  Oriental: Oriental
+[08/31/2024 10:59]  Mc Smashy: [Smashs Stuff in, NWO]
+[08/31/2024 10:59]  Mc Smashy: Lord Mc Smashy
+[08/31/2024 10:59]  KingKnossos: KingKnossos
+[08/31/2024 10:59]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:59]  Hellfight: Pulma Legend
+[08/31/2024 10:59]  Hellfight: [Elder Phoenix, OFP]
+[08/31/2024 10:59]  Hellfight: Lord Hellfight
+[08/31/2024 10:59]  Hellfight: Kal Ort Por
+[08/31/2024 10:59]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 10:59]  KnownAsQ: KnownAsQ
+[08/31/2024 11:00]  Aurelia: New society jobs are now available at Society Masters in Prevalia!
+[08/31/2024 11:00]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:00]  Zinor: Distinguished Veteran [Prevalia]
+[08/31/2024 11:00]  Zinor: [AWN]
+[08/31/2024 11:00]  Zinor: Zinor
+[08/31/2024 11:00]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 11:00]  KingKnossos: KingKnossos
+[08/31/2024 11:00]  System: JedaKiss has completed the achievement: Artificer (Basic).
+[08/31/2024 11:00]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:00]  Miss.Tea: Kal Ort Por
+[08/31/2024 11:00]  sosa shuttle: [Recruit, KOR]
+[08/31/2024 11:00]  sosa shuttle: sosa shuttle
+[08/31/2024 11:00]  System: Harry potter.jr has completed the achievement: Artificers Enclave Associate.
+[08/31/2024 11:00]  Meph: Meph
+[08/31/2024 11:01]  KnownAsQ: KnownAsQ
+[08/31/2024 11:01]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 11:01]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:01]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:01]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:01]  Dagorash: Lifetime Guild
+[08/31/2024 11:01]  Dagorash: [Legionary, -_-]
+[08/31/2024 11:01]  Dagorash: Dagorash
+[08/31/2024 11:02]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:02]  Aurelia: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 11:02]  Dagorash: Lifetime Guild
+[08/31/2024 11:02]  Dagorash: [Legionary, -_-]
+[08/31/2024 11:02]  Dagorash: Dagorash
+[08/31/2024 11:02]  Dagorash: Lifetime Guild
+[08/31/2024 11:02]  Dagorash: [Legionary, -_-]
+[08/31/2024 11:02]  Dagorash: Dagorash
+[08/31/2024 11:02]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:02]  Komatsu: Seasonal Factioner [Prevalia]
+[08/31/2024 11:02]  Komatsu: [Eatbrain League, HoK]
+[08/31/2024 11:02]  Komatsu: Komatsu
+[08/31/2024 11:02]  Ulrik: Cambria
+[08/31/2024 11:02]  Ulrik: [Private, G.G]
+[08/31/2024 11:02]  Ulrik: Ulrik
+[08/31/2024 11:02]  Sire Cornelius: Banner Captain [Cambria]
+[08/31/2024 11:02]  Sire Cornelius: [Veteran, G.G]
+[08/31/2024 11:02]  Sire Cornelius: Sire Cornelius
+[08/31/2024 11:02]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:02]  Lenator: [Prospect, T^C]
+[08/31/2024 11:02]  Lenator: Lenator
+[08/31/2024 11:02]  Lockra: Noble
+[08/31/2024 11:02]  Lockra: [Juicy, SQzD]
+[08/31/2024 11:02]  Lockra: Lord Lockra
+[08/31/2024 11:02]  Lockra: bank guards blackmarket job event
+[08/31/2024 11:03]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:03]  Nightseer: [Pirate, P.S.]
+[08/31/2024 11:03]  Nightseer: Nightseer
+[08/31/2024 11:03]  Aurelia: The weekly lottery has concluded and a new lottery is now underway! Visit the Prevalia Casino to purchase tickets!
+[08/31/2024 11:03]  Lockra: *hiking to destination*
+[08/31/2024 11:03]  Lockra: *hiking to destination*
+[08/31/2024 11:03]  Lockra: *hiking to destination*
+[08/31/2024 11:03]  Nightseer: [Pirate, P.S.]
+[08/31/2024 11:03]  Nightseer: Nightseer
+[08/31/2024 11:03]  System: BEANAR has completed the achievement: Domestication (Basic).
+[08/31/2024 11:04]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:04]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[08/31/2024 11:04]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:04]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:04]  System: Your campfire is now secure.
+[08/31/2024 11:04]  Sheewatch: [Member, LT]
+[08/31/2024 11:04]  Sheewatch: Sheewatch
+[08/31/2024 11:04]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:04]  JaCk SpAzInSki: JaCk SpAzInSki
+[08/31/2024 11:04]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 11:04]  Seli: Seli
+[08/31/2024 11:04]  KnownAsQ: KnownAsQ
+[08/31/2024 11:04]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:04]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:04]  wendi whoppa: [Legionary, -_-]
+[08/31/2024 11:04]  wendi whoppa: wendi whoppa
+[08/31/2024 11:04]  KingKnossos: KingKnossos
+[08/31/2024 11:04]  an earth elemental: (summoned)
+[08/31/2024 11:04]  an earth elemental: an earth elemental
+[08/31/2024 11:04]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:04]  Aluvian Catalyst: [Officer, WIN]
+[08/31/2024 11:04]  Aluvian Catalyst: Aluvian Catalyst
+[08/31/2024 11:05]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:05]  Aurelia: New society jobs are now available at Society Masters in Prevalia!
+[08/31/2024 11:05]  Nightseer: [Pirate, P.S.]
+[08/31/2024 11:05]  Nightseer: Nightseer
+[08/31/2024 11:05]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:05]  System: Ainz Ooal Gown (AOG) guild has reached prestige level 396.
+[08/31/2024 11:05]  Nightseer: [Pirate, P.S.]
+[08/31/2024 11:05]  Nightseer: Nightseer
+[08/31/2024 11:06]  Nightseer: [Pirate, P.S.]
+[08/31/2024 11:06]  Nightseer: Nightseer
+[08/31/2024 11:06]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:06]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:06]  Ruffi: Ruffi
+[08/31/2024 11:06]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:06]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 11:06]  Miss Willow: Miss Willow
+[08/31/2024 11:06]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:06]  a pack llama: (tame)
+[08/31/2024 11:06]  a pack llama: [0/2000 stones]
+[08/31/2024 11:06]  a pack llama: a pack llama
+[08/31/2024 11:06]  RedSevenBow: RedSevenBow
+[08/31/2024 11:06]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:06]  Sandie Shaw: Weaponmaster
+[08/31/2024 11:06]  Sandie Shaw: Sandie Shaw
+[08/31/2024 11:06]  Zarine Vetheges: Zarine Vetheges
+[08/31/2024 11:06]  Calendonia: Your gold balance is 72,838.
+[08/31/2024 11:06]  Ingmar: Your gold balance is 72,838.
+[08/31/2024 11:07]  System: Your campfire is now secure.
+[08/31/2024 11:07]  Rolo Henry: [Lookout, brg]
+[08/31/2024 11:07]  Rolo Henry: Rolo Henry
+[08/31/2024 11:07]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:07]  Juniper: The King's Faire is here!
+[08/31/2024 11:07]  Aurelia: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 11:07]  Kul: Legendary Explorer
+[08/31/2024 11:07]  Kul: Lord Kul
+[08/31/2024 11:07]  KnownAsQ: KnownAsQ
+[08/31/2024 11:07]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:07]  BEANAR: [Hostile Peasant, HOST]
+[08/31/2024 11:07]  BEANAR: BEANAR
+[08/31/2024 11:07]  a cave bear: (bonded)
+[08/31/2024 11:07]  a cave bear: a cave bear
+[08/31/2024 11:07]  Escabarajo: (bonded)
+[08/31/2024 11:07]  Escabarajo: Escabarajo
+[08/31/2024 11:07]  a giant swamp slug: (bonded)
+[08/31/2024 11:07]  a giant swamp slug: a giant swamp slug
+[08/31/2024 11:08]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:08]  Aurelia: The weekly lottery has concluded and a new lottery is now underway! Visit the Prevalia Casino to purchase tickets!
+[08/31/2024 11:08]  Oriental: [Member, vD]
+[08/31/2024 11:08]  Oriental: Oriental
+[08/31/2024 11:08]  Katsumi: [Loyal, NKB]
+[08/31/2024 11:08]  Katsumi: Lord Katsumi
+[08/31/2024 11:08]  Katsumi: bank room
+[08/31/2024 11:08]  System: Quato has completed the achievement: Artificers Enclave Luminary.
+[08/31/2024 11:08]  KnownAsQ: KnownAsQ
+[08/31/2024 11:08]  Ekel: Ekel
+[08/31/2024 11:08]  saville: [Member, NC]
+[08/31/2024 11:08]  saville: saville
+[08/31/2024 11:09]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[08/31/2024 11:09]  KingKnossos: KingKnossos
+[08/31/2024 11:09]  Lenator: [Prospect, T^C]
+[08/31/2024 11:09]  Lenator: Lenator
+[08/31/2024 11:09]  KnownAsQ: KnownAsQ
+[08/31/2024 11:09]  Rolo Henry: [Lookout, brg]
+[08/31/2024 11:09]  Rolo Henry: Rolo Henry
+[08/31/2024 11:09]  Envenom: Envenom
+[08/31/2024 11:09]  KingKnossos: KingKnossos
+[08/31/2024 11:09]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:09]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:09]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:10]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:10]  Aurelia: New society jobs are now available at Society Masters in Prevalia!
+[08/31/2024 11:10]  Grofty: Monstrous Slayer
+[08/31/2024 11:10]  Grofty: Lord Grofty
+[08/31/2024 11:10]  Mona Mayfair: Mona Mayfair
+[08/31/2024 11:10]  TheShadow: Lord TheShadow
+[08/31/2024 11:10]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:10]  TheShadow: Lord TheShadow
+[08/31/2024 11:10]  Arthos: Arthos
+[08/31/2024 11:10]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 11:10]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:10]  Angel-Ring: [CN]
+[08/31/2024 11:10]  Angel-Ring: Lord Angel-Ring
+[08/31/2024 11:11]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:11]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:11]  Roronoa Zorro: Roronoa Zorro
+[08/31/2024 11:11]  KingKnossos: KingKnossos
+[08/31/2024 11:11]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:11]  System: Your campfire is now secure.
+[08/31/2024 11:11]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 11:11]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 11:11]  Oriental: [Member, vD]
+[08/31/2024 11:11]  Oriental: Oriental
+[08/31/2024 11:11]  yumyums: Mythical Dungeon Curator
+[08/31/2024 11:11]  yumyums: [Member, rekt]
+[08/31/2024 11:11]  yumyums: Lord yumyums
+[08/31/2024 11:11]  yumimi: Lord yumimi
+[08/31/2024 11:11]  a pack llama: (tame)
+[08/31/2024 11:11]  a pack llama: [0/2000 stones]
+[08/31/2024 11:11]  a pack llama: a pack llama
+[08/31/2024 11:11]  RedSevenBow: RedSevenBow
+[08/31/2024 11:11]  UNICLO: UNICLO
+[08/31/2024 11:11]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:11]  KnownAsQ: KnownAsQ
+[08/31/2024 11:11]  BenFromAus: BenFromAus
+[08/31/2024 11:11]  BenFromAus: BenFromAus
+[08/31/2024 11:11]  Rolo Henry: [Lookout, brg]
+[08/31/2024 11:11]  Rolo Henry: Rolo Henry
+[08/31/2024 11:11]  Juniper: The King's Faire is here!
+[08/31/2024 11:11]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:11]  System: The world will save in 15 seconds.
+[08/31/2024 11:12]  Veivenit: Veivenit
+[08/31/2024 11:12]  Katsumi: [Loyal, NKB]
+[08/31/2024 11:12]  Katsumi: Lord Katsumi
+[08/31/2024 11:12]  Juniper: King's Faire! King's Faire!
+[08/31/2024 11:12]  System: The world is saving, please wait.
+[08/31/2024 11:12]  System: World save complete. The entire process took 2.8 seconds.
+[08/31/2024 11:12]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:12]  Aurelia: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 11:12]  KingKnossos: KingKnossos
+[08/31/2024 11:12]  System: pytel has completed the achievement: Savant (Basic).
+[08/31/2024 11:12]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:12]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:12]  System: Keyser-Soze has completed the achievement: Mugger (Basic).
+[08/31/2024 11:12]  Ruffi: Ruffi
+[08/31/2024 11:12]  NipplelessCage: [Squire, C-C]
+[08/31/2024 11:12]  NipplelessCage: NipplelessCage
+[08/31/2024 11:12]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:12]  Juniper: The King's Faire is here!
+[08/31/2024 11:12]  Cuddles: Cuddles
+[08/31/2024 11:12]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:13]  Malghannys: [Fogueteiro, FUMO]
+[08/31/2024 11:13]  Malghannys: Malghannys
+[08/31/2024 11:13]  KingKnossos: KingKnossos
+[08/31/2024 11:13]  Onashima: Onashima
+[08/31/2024 11:13]  Cuddles: Cuddles
+[08/31/2024 11:13]  Cuddles: Cuddles
+[08/31/2024 11:13]  SheLee: SheLee
+[08/31/2024 11:13]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:13]  Aurelia: The weekly lottery has concluded and a new lottery is now underway! Visit the Prevalia Casino to purchase tickets!
+[08/31/2024 11:13]  KnownAsQ: KnownAsQ
+[08/31/2024 11:13]  Moshik: Lord Moshik
+[08/31/2024 11:13]  Celisse: [Squire, C-C]
+[08/31/2024 11:13]  Celisse: Celisse
+[08/31/2024 11:13]  Celisse: [Squire, C-C]
+[08/31/2024 11:13]  Celisse: Celisse
+[08/31/2024 11:13]  Trivian: Trivian
+[08/31/2024 11:13]  Juniper: Looking for the Prevalian Merchant? He's at the King's Faire, right through this moongate.
+[08/31/2024 11:13]  Roronoa Zorro: Roronoa Zorro
+[08/31/2024 11:13]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:13]  Juniper: The King's Faire is here!
+[08/31/2024 11:14]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:14]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:14]  Celisse: [Squire, C-C]
+[08/31/2024 11:14]  Celisse: Celisse
+[08/31/2024 11:14]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[08/31/2024 11:14]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:14]  TheShadow: Lord TheShadow
+[08/31/2024 11:14]  TheShadow: balance
+[08/31/2024 11:14]  Ingmar: Your gold balance is 1,127,747.
+[08/31/2024 11:14]  KMO: Legendary Pirate
+[08/31/2024 11:14]  KMO: [Elder Pirate, LiT]
+[08/31/2024 11:14]  KMO: Lord KMO
+[08/31/2024 11:14]  Sumbich: Sumbich
+[08/31/2024 11:14]  TheShadow: bank
+[08/31/2024 11:14]  The.Butcher: [ViPs]
+[08/31/2024 11:14]  The.Butcher: The.Butcher
+[08/31/2024 11:14]  snnooppppy: (bonded)
+[08/31/2024 11:14]  snnooppppy: snnooppppy
+[08/31/2024 11:14]  yumyums: Mythical Dungeon Curator
+[08/31/2024 11:14]  yumyums: [Member, rekt]
+[08/31/2024 11:14]  yumyums: Lord yumyums
+[08/31/2024 11:14]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 11:14]  Juniper: Looking for the Prevalian Merchant? He's at the King's Faire, right through this moongate.
+[08/31/2024 11:15]  Cokane: Versatile
+[08/31/2024 11:15]  Cokane: [Recruit, CFC]
+[08/31/2024 11:15]  Cokane: Cokane
+[08/31/2024 11:15]  Aurelia: New society jobs are now available at Society Masters in Prevalia!
+[08/31/2024 11:15]  Ruffi: Ruffi
+[08/31/2024 11:15]  Trivian: Trivian
+[08/31/2024 11:15]  Arthos: Arthos
+[08/31/2024 11:15]  a Coke Dealer: Daemonic Slayer
+[08/31/2024 11:15]  a Coke Dealer: [Runner, PKs]
+[08/31/2024 11:15]  a Coke Dealer: Lord a Coke Dealer
+[08/31/2024 11:15]  Partey: Partey
+[08/31/2024 11:15]  a Coke Dealer: Daemonic Slayer
+[08/31/2024 11:15]  a Coke Dealer: [Runner, PKs]
+[08/31/2024 11:15]  a Coke Dealer: Lord a Coke Dealer
+[08/31/2024 11:15]  a Coke Dealer: bank
+[08/31/2024 11:15]  jon a tan: Wilderness Guardian
+[08/31/2024 11:15]  jon a tan: [Captain, DKR]
+[08/31/2024 11:15]  jon a tan: Lord jon a tan
+[08/31/2024 11:15]  Sumbich: Sumbich
+[08/31/2024 11:15]  Juniper: Looking for the Prevalian Merchant? He's at the King's Faire, right through this moongate.
+[08/31/2024 11:16]  jon a tan: bank
+[08/31/2024 11:16]  Boaty Miner: Boaty Miner
+[08/31/2024 11:16]  tirant: [Loyal, NKB]
+[08/31/2024 11:16]  tirant: Lord tirant
+[08/31/2024 11:16]  Ruffi: Ruffi
+[08/31/2024 11:16]  Chumdingo: Chumdingo
+[08/31/2024 11:16]  Lenator: [Prospect, T^C]
+[08/31/2024 11:16]  Lenator: Lenator
+[08/31/2024 11:16]  a pack llama: (tame)
+[08/31/2024 11:16]  a pack llama: [0/2000 stones]
+[08/31/2024 11:16]  a pack llama: a pack llama
+[08/31/2024 11:16]  Boaty Miner: Boaty Miner
+[08/31/2024 11:16]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 11:16]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:16]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:16]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:16]  Chumdingo: Chumdingo
+[08/31/2024 11:16]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:16]  NipplelessCage: [Squire, C-C]
+[08/31/2024 11:16]  NipplelessCage: NipplelessCage
+[08/31/2024 11:16]  KnownAsQ: KnownAsQ
+[08/31/2024 11:16]  Ingmar: Your gold balance is 471,046.
+[08/31/2024 11:16]  Calendonia: Your gold balance is 471,046.
+[08/31/2024 11:16]  Nev Vein: [House Of Vein, ICON]
+[08/31/2024 11:16]  Nev Vein: Nev Vein
+[08/31/2024 11:16]  Sumbich: Sumbich
+[08/31/2024 11:17]  Haqin MarSkalith: [The Tavern], [tT]
+[08/31/2024 11:17]  Haqin MarSkalith: Lord Haqin MarSkalith
+[08/31/2024 11:17]  Juniper: The King's Faire is here!
+[08/31/2024 11:17]  Masterinio: Masterinio
+[08/31/2024 11:17]  Aurelia: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 11:17]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:17]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:17]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:17]  ANTeater: (bonded)
+[08/31/2024 11:17]  ANTeater: ANTeater
+[08/31/2024 11:17]  ANThoney: (bonded)
+[08/31/2024 11:17]  ANThoney: ANThoney
+[08/31/2024 11:17]  PantsAnts: (bonded)
+[08/31/2024 11:17]  PantsAnts: PantsAnts
+[08/31/2024 11:17]  BloodiedMonke: (bonded)
+[08/31/2024 11:17]  BloodiedMonke: BloodiedMonke
+[08/31/2024 11:17]  MonkeSmash: (bonded)
+[08/31/2024 11:17]  MonkeSmash: MonkeSmash
+[08/31/2024 11:17]  Llewbach: [Thrall, ICON]
+[08/31/2024 11:17]  Llewbach: Llewbach
+[08/31/2024 11:17]  KnownAsQ: KnownAsQ
+[08/31/2024 11:17]  Sumbich: Sumbich
+[08/31/2024 11:17]  KnownAsQ: KnownAsQ
+[08/31/2024 11:17]  The Green Man: The Green Man
+[08/31/2024 11:17]  Cokane: Versatile
+[08/31/2024 11:17]  Cokane: [Recruit, CFC]
+[08/31/2024 11:17]  Cokane: Cokane
+[08/31/2024 11:18]  Cokane: bank
+[08/31/2024 11:18]  NipplelessCage: [Squire, C-C]
+[08/31/2024 11:18]  NipplelessCage: NipplelessCage
+[08/31/2024 11:18]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:18]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:18]  a pack llama: (tame)
+[08/31/2024 11:18]  a pack llama: [0/2000 stones]
+[08/31/2024 11:18]  a pack llama: a pack llama
+[08/31/2024 11:18]  RedSevenBow: RedSevenBow
+[08/31/2024 11:18]  Aurelia: The weekly lottery has concluded and a new lottery is now underway! Visit the Prevalia Casino to purchase tickets!
+[08/31/2024 11:18]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:18]  Abbarosh: Kal Ort Por
+[08/31/2024 11:18]  Abbarosh: [Lord of the C**ts, gLc]
+[08/31/2024 11:18]  Abbarosh: Lord Abbarosh
+[08/31/2024 11:18]  System: DarkTamer has completed the achievement: Captain (Epic).
+[08/31/2024 11:18]  Chumdingo: Chumdingo
+[08/31/2024 11:18]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:18]  Cokane: Kal Ort Por
+[08/31/2024 11:18]  System: David Icke has completed the achievement: Chef (Basic).
+[08/31/2024 11:18]  Timber P: Timber P
+[08/31/2024 11:18]  DImalex: DImalex
+[08/31/2024 11:18]  Yammingtons: Yammingtons
+[08/31/2024 11:18]  DImalex: bank
+[08/31/2024 11:19]  Miss Willow: Miss Willow
+[08/31/2024 11:19]  a Coke Dealer: Daemonic Slayer
+[08/31/2024 11:19]  a Coke Dealer: [Runner, PKs]
+[08/31/2024 11:19]  a Coke Dealer: Lord a Coke Dealer
+[08/31/2024 11:19]  Idema: Idema
+[08/31/2024 11:19]  Chumdingo: Chumdingo
+[08/31/2024 11:19]  Timber P: Timber P
+[08/31/2024 11:19]  Juniper: King's Faire! King's Faire!
+[08/31/2024 11:19]  Juniper: The King's Faire is here!
+[08/31/2024 11:19]  Juniper: You have nothing I would be interested in.
+[08/31/2024 11:19]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[08/31/2024 11:19]  System: Face (-_-) guild has reached prestige level 3741.
+[08/31/2024 11:19]  Olivia Dunne: [onyx]
+[08/31/2024 11:19]  Olivia Dunne: Lady Olivia Dunne
+[08/31/2024 11:19]  Juniper: Looking for the Prevalian Merchant? He's at the King's Faire, right through this moongate.
+[08/31/2024 11:19]  Wylven: [Squire, Sir.]
+[08/31/2024 11:19]  Wylven: Wylven
+[08/31/2024 11:19]  Luna Girl: Cambria
+[08/31/2024 11:19]  Luna Girl: Luna Girl
+[08/31/2024 11:19]  Ulrik: Cambria
+[08/31/2024 11:19]  Ulrik: [Private, G.G]
+[08/31/2024 11:19]  Ulrik: Ulrik
+[08/31/2024 11:19]  Sire Cornelius: Banner Captain [Cambria]
+[08/31/2024 11:19]  Sire Cornelius: [Veteran, G.G]
+[08/31/2024 11:19]  Sire Cornelius: Sire Cornelius
+[08/31/2024 11:19]  Idema: Idema
+[08/31/2024 11:19]  Lethalboy: [Loyal, NKB]
+[08/31/2024 11:19]  Lethalboy: Lord Lethalboy
+[08/31/2024 11:19]  KingKnossos: KingKnossos
+[08/31/2024 11:19]  Paladini: [Ymir]
+[08/31/2024 11:19]  Paladini: Paladini
+[08/31/2024 11:19]  Wylven: [Squire, Sir.]
+[08/31/2024 11:19]  Wylven: Wylven
+[08/31/2024 11:19]  Idema: Idema
+[08/31/2024 11:19]  Shemikus de Moor: [AOG]
+[08/31/2024 11:19]  Shemikus de Moor: Lord Shemikus de Moor
+[08/31/2024 11:20]  System: Siitaqo has completed the achievement: Shipwright (Advanced).
+[08/31/2024 11:20]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:20]  Sumbich: Sumbich
+[08/31/2024 11:20]  a horse: (tame)
+[08/31/2024 11:20]  a horse: a horse
+[08/31/2024 11:20]  KnownAsQ: KnownAsQ
+[08/31/2024 11:20]  a pack horse: (tame)
+[08/31/2024 11:20]  a pack horse: [0/2000 stones]
+[08/31/2024 11:20]  a pack horse: a pack horse
+[08/31/2024 11:20]  Rimeheart: Rimeheart
+[08/31/2024 11:20]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:20]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:20]  a Coke Dealer: Daemonic Slayer
+[08/31/2024 11:20]  a Coke Dealer: [Runner, PKs]
+[08/31/2024 11:20]  a Coke Dealer: Lord a Coke Dealer
+[08/31/2024 11:20]  Aurelia: New society jobs are now available at Society Masters in Prevalia!
+[08/31/2024 11:20]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:20]  Oriental: [Member, vD]
+[08/31/2024 11:20]  Oriental: Oriental
+[08/31/2024 11:20]  Sumbich: Sumbich
+[08/31/2024 11:20]  SloppySeconds: SloppySeconds
+[08/31/2024 11:20]  Sire Cornelius: Banner Captain [Cambria]
+[08/31/2024 11:20]  Sire Cornelius: [Veteran, G.G]
+[08/31/2024 11:20]  Sire Cornelius: Sire Cornelius
+[08/31/2024 11:20]  Sumbich: Sumbich
+[08/31/2024 11:20]  a Coke Dealer: Daemonic Slayer
+[08/31/2024 11:20]  a Coke Dealer: [Runner, PKs]
+[08/31/2024 11:20]  a Coke Dealer: Lord a Coke Dealer
+[08/31/2024 11:21]  a Coke Dealer: withdraw 500
+[08/31/2024 11:21]  Ingmar: Thou hast withdrawn 500 gold.
+[08/31/2024 11:21]  Calendonia: Thou hast withdrawn 500 gold.
+[08/31/2024 11:21]  Sumbich: Sumbich
+[08/31/2024 11:21]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:21]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:21]  Miss Willow: Miss Willow
+[08/31/2024 11:21]  Sumbich: bank
+[08/31/2024 11:21]  Katsumi: Kal Ort Por
+[08/31/2024 11:21]  Katsumi: [Loyal, NKB]
+[08/31/2024 11:21]  Katsumi: Lord Katsumi
+[08/31/2024 11:21]  Miss Willow: Miss Willow
+[08/31/2024 11:21]  BigAngery: BigAngery
+[08/31/2024 11:21]  Arthos: Arthos
+[08/31/2024 11:21]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 11:21]  KnownAsQ: KnownAsQ
+[08/31/2024 11:21]  PollyPrissyPants: PollyPrissyPants
+[08/31/2024 11:22]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:22]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:22]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:22]  AlSuelo: (bonded)
+[08/31/2024 11:22]  AlSuelo: AlSuelo
+[08/31/2024 11:22]  Aurelia: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 11:22]  KingKnossos: KingKnossos
+[08/31/2024 11:22]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 11:23]  wtf Himdula: wtf Himdula
+[08/31/2024 11:23]  Allan Quatermain: [Guildmaster, SAR]
+[08/31/2024 11:23]  Allan Quatermain: Allan Quatermain
+[08/31/2024 11:23]  Tamacer: Tamacer
+[08/31/2024 11:23]  Aurelia: The weekly lottery has concluded and a new lottery is now underway! Visit the Prevalia Casino to purchase tickets!
+[08/31/2024 11:23]  Garrapato: (bonded)
+[08/31/2024 11:23]  Garrapato: Garrapato
+[08/31/2024 11:23]  Antz: (bonded)
+[08/31/2024 11:23]  Antz: Antz
+[08/31/2024 11:23]  Murtzielago: (bonded)
+[08/31/2024 11:23]  Murtzielago: Murtzielago
+[08/31/2024 11:23]  Bitxo: (bonded)
+[08/31/2024 11:23]  Bitxo: Bitxo
+[08/31/2024 11:23]  Arthos: Arthos
+[08/31/2024 11:23]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:24]  KnownAsQ: KnownAsQ
+[08/31/2024 11:24]  Paladini: [Ymir]
+[08/31/2024 11:24]  Paladini: Paladini
+[08/31/2024 11:24]  KingKnossos: KingKnossos
+[08/31/2024 11:24]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:24]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:24]  Arragon: Arragon
+[08/31/2024 11:24]  an air drake: (tame)
+[08/31/2024 11:24]  an air drake: an air drake
+[08/31/2024 11:24]  an air dragon: (tame)
+[08/31/2024 11:24]  an air dragon: an air dragon
+[08/31/2024 11:24]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:24]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[08/31/2024 11:24]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:24]  Dark Temptation: Dark Temptation
+[08/31/2024 11:25]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:25]  System: Bim Bum Bam has completed the achievement: Elemental Slayer (Basic).
+[08/31/2024 11:25]  a furiosa: Maester
+[08/31/2024 11:25]  a furiosa: [Private, G.G]
+[08/31/2024 11:25]  a furiosa: Lady a furiosa
+[08/31/2024 11:25]  Rainz Zniar: Legendary Roll Player
+[08/31/2024 11:25]  Rainz Zniar: [Wanderer, CFC]
+[08/31/2024 11:25]  Rainz Zniar: Rainz Zniar
+[08/31/2024 11:25]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:25]  KnownAsQ: KnownAsQ
+[08/31/2024 11:25]  Ignore me plz: Ignore me plz
+[08/31/2024 11:25]  a furiosa: Maester
+[08/31/2024 11:25]  a furiosa: [Private, G.G]
+[08/31/2024 11:25]  a furiosa: Lady a furiosa
+[08/31/2024 11:25]  Juniper: The King's Faire is here!
+[08/31/2024 11:25]  Ignore me plz: rent
+[08/31/2024 11:25]  Aurelia: New society jobs are now available at Society Masters in Prevalia!
+[08/31/2024 11:25]  Mom's Touch.: Lady Mom's Touch.
+[08/31/2024 11:25]  Ignore me plz: Vendor Buy Bank Rent Stable Guards
+[08/31/2024 11:25]  Zinor: Kal Ort Por
+[08/31/2024 11:25]  Zinor: Distinguished Veteran [Prevalia]
+[08/31/2024 11:25]  Zinor: [AWN]
+[08/31/2024 11:25]  Zinor: Zinor
+[08/31/2024 11:25]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:25]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:25]  System: TwitchyF has completed the achievement: Alchemist (Epic).
+[08/31/2024 11:25]  Ignore me plz: Ignore me plz
+[08/31/2024 11:25]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:25]  Takoda: [ICON]
+[08/31/2024 11:25]  Takoda: Takoda
+[08/31/2024 11:25]  System: Your campfire is now secure.
+[08/31/2024 11:26]  KnownAsQ: KnownAsQ
+[08/31/2024 11:26]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:26]  a Coke Dealer: Daemonic Slayer
+[08/31/2024 11:26]  a Coke Dealer: [Runner, PKs]
+[08/31/2024 11:26]  a Coke Dealer: Lord a Coke Dealer
+[08/31/2024 11:26]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:26]  Aurelia: A handout stone for the Diaphanous Wings is available next to the Prevalian Merchant at the Fairegrounds!  Double click for your special pair.
+[08/31/2024 11:26]  KnownAsQ: KnownAsQ
+[08/31/2024 11:26]  System: Opus Terium has completed the achievement: Enchanter (Basic).
+[08/31/2024 11:26]  System: The world will save in 15 seconds.
+[08/31/2024 11:26]  KingKnossos: KingKnossos
+[08/31/2024 11:26]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:26]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:27]  System: The world is saving, please wait.
+[08/31/2024 11:27]  System: World save complete. The entire process took 2.8 seconds.
+[08/31/2024 11:27]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:27]  KnownAsQ: KnownAsQ
+[08/31/2024 11:27]  wtf Himdula: wtf Himdula
+[08/31/2024 11:27]  System: El citarito has completed the achievement: Monster Hunter Associate.
+[08/31/2024 11:27]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:27]  Aurelia: The Prevalian Merchant has moved to the Fairegrounds to peddle his wares.  I hear he has Spell Hue Collections this season.. very exciting...
+[08/31/2024 11:27]  Tho'r: Kal Ort Por
+[08/31/2024 11:27]  Tho'r: Legendarily Triggered
+[08/31/2024 11:27]  Tho'r: [Sage, BEAR]
+[08/31/2024 11:27]  Tho'r: Lord Tho'r
+[08/31/2024 11:27]  Hedakles: [Member, LT]
+[08/31/2024 11:27]  Hedakles: Hedakles
+[08/31/2024 11:27]  Genric Himars: Genric Himars
+[08/31/2024 11:27]  Mom's Touch.: Lady Mom's Touch.
+[08/31/2024 11:27]  TommyBoya: [Mechanic, MMx]
+[08/31/2024 11:27]  TommyBoya: TommyBoya
+[08/31/2024 11:27]  wtf Himdula: wtf Himdula
+[08/31/2024 11:27]  NipplelessCage: [Squire, C-C]
+[08/31/2024 11:27]  NipplelessCage: NipplelessCage
+[08/31/2024 11:27]  Juniper: The King's Faire is here!
+[08/31/2024 11:27]  Evil Palacinka: [Best AOG Player, AOG]
+[08/31/2024 11:27]  Evil Palacinka: Lord Evil Palacinka
+[08/31/2024 11:28]  Aurelia: The weekly lottery has concluded and a new lottery is now underway! Visit the Prevalia Casino to purchase tickets!
+[08/31/2024 11:28]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:28]  kenijietis: kenijietis
+[08/31/2024 11:28]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:28]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:28]  Cheksmiks: Cheksmiks
+[08/31/2024 11:28]  Evil Palacinka: Kal Ort Por
+[08/31/2024 11:29]  KnownAsQ: KnownAsQ
+[08/31/2024 11:29]  JaCk SpAzInSki: JaCk SpAzInSki
+[08/31/2024 11:29]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:29]  kenijietis: bank
+[08/31/2024 11:29]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[08/31/2024 11:29]  TheShadow: Lord TheShadow
+[08/31/2024 11:29]  Apex Apox Aprix: Apex Apox Aprix
+[08/31/2024 11:29]  Liyah: Liyah
+[08/31/2024 11:29]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:29]  Jacking Jack: Jacking Jack
+[08/31/2024 11:29]  Jacking Jack: Jacking Jack
+[08/31/2024 11:29]  KnownAsQ: KnownAsQ
+[08/31/2024 11:29]  King Coop II: Aegis Keep Guardian
+[08/31/2024 11:29]  King Coop II: [Rookie, NKB]
+[08/31/2024 11:29]  King Coop II: Lord King Coop II
+[08/31/2024 11:29]  Liyah: bank
+[08/31/2024 11:29]  nDrago: Beastmaster
+[08/31/2024 11:29]  nDrago: [Member, LT]
+[08/31/2024 11:29]  nDrago: Lord nDrago
+[08/31/2024 11:29]  nDrago: wbank
+[08/31/2024 11:29]  Juniper: King's Faire! King's Faire!
+[08/31/2024 11:29]  nDrago: bank
+[08/31/2024 11:29]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:30]  System: StealthBloke has completed the achievement: Connoisseur (Basic).
+[08/31/2024 11:30]  Apex Apox Aprix: Apex Apox Aprix
+[08/31/2024 11:30]  : Emptying trash barrel!
+[08/31/2024 11:30]  a Coke Dealer: Daemonic Slayer
+[08/31/2024 11:30]  a Coke Dealer: [Runner, PKs]
+[08/31/2024 11:30]  a Coke Dealer: Lord a Coke Dealer
+[08/31/2024 11:30]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:30]  Sneaky Slim: [Recruit, E<>E]
+[08/31/2024 11:30]  Sneaky Slim: Sneaky Slim
+[08/31/2024 11:30]  Aurelia: New society jobs are now available at Society Masters in Prevalia!
+[08/31/2024 11:30]  PollyPrissyPants: PollyPrissyPants
+[08/31/2024 11:30]  Sanglant Boucher: Sanglant Boucher
+[08/31/2024 11:30]  PollyPrissyPants: BANK
+[08/31/2024 11:30]  DImalex: DImalex
+[08/31/2024 11:30]  DImalex: bank
+[08/31/2024 11:30]  KnownAsQ: KnownAsQ
+[08/31/2024 11:30]  a grub: [Recruit, WaM!]
+[08/31/2024 11:30]  a grub: a grub
+[08/31/2024 11:30]  Juniper: Take this moongate to the King's Faire!
+[08/31/2024 11:30]  System: Inga-Kritt has completed the achievement: Artificers Enclave Associate.
+[08/31/2024 11:31]  Nev Vein: [House Of Vein, ICON]
+[08/31/2024 11:31]  Nev Vein: Nev Vein

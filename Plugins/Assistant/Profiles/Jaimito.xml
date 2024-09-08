@@ -13,14 +13,14 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">400</property>
-	<property name="WindowY" type="System.Int32">400</property>
-	<property name="CountStealthSteps" type="System.Boolean">False</property>
+	<property name="WindowX" type="System.Int32">-814</property>
+	<property name="WindowY" type="System.Int32">749</property>
+	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
 	<property name="ExemptColor" type="System.Int32">1152</property>
 	<property name="Opacity" type="System.Int32">100</property>
-	<property name="BlockDismount" type="System.Boolean">False</property>
+	<property name="BlockDismount" type="System.Boolean">True</property>
 	<property name="CapFullScreen" type="System.Boolean">False</property>
 	<property name="CapPath" type="System.String">C:\Users\David\OneDrive\Imágenes\RazorScreenShots</property>
 	<property name="CapTimeStamp" type="System.Boolean">True</property>
@@ -153,7 +153,7 @@
 		<counter name="Sulfurous Ash" enabled="True" image="True" />
 	</counters>
 	<agents>
-		<Buy-1 enabled="False">
+		<Buy-1 enabled="True">
 			<item id="3976" amount="20" />
 			<item id="3963" amount="20" />
 			<item id="3980" amount="20" />
@@ -199,14 +199,14 @@
 		<Organizer-19 hotbag="0" />
 		<Organizer-20 hotbag="0" />
 		<Restock-1 hotbag="1160050294">
-			<item id="3976" amount="33" />
-			<item id="3963" amount="33" />
-			<item id="3962" amount="33" />
-			<item id="3980" amount="33" />
-			<item id="3981" amount="33" />
-			<item id="3973" amount="33" />
-			<item id="3974" amount="33" />
-			<item id="3972" amount="33" />
+			<item id="3976" amount="50" />
+			<item id="3963" amount="50" />
+			<item id="3962" amount="50" />
+			<item id="3980" amount="50" />
+			<item id="3981" amount="50" />
+			<item id="3973" amount="50" />
+			<item id="3974" amount="50" />
+			<item id="3972" amount="50" />
 			<item id="29001" amount="1" />
 			<item id="5373" amount="1" />
 			<item id="52149" amount="4" />
@@ -245,7 +245,11 @@
 	</overheadmessages>
 	<containerlabels />
 	<macrovariables />
-	<scriptvariables />
+	<scriptvariables>
+		<scriptvariable serial="0x4686EB27" name="wool" />
+		<scriptvariable serial="0x40000D4F" name="wheelorloom" />
+		<scriptvariable serial="0x468A2AE7" name="woolorthread" />
+	</scriptvariables>
 	<friends />
 	<textfilters />
 	<targetfilters />

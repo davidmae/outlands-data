@@ -1,0 +1,8 @@
+overhead "Go to forge"
+if findtype 'iron ore' backpack -1 -1 -1 as iron
+    dclick iron
+endif
+if findtype 'iron ingot%s' backpack -1 -1 -1 as iingot
+    getlabel iingot ingots
+    overhead ingots
+endif

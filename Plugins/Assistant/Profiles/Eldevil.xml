@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">-7</property>
-	<property name="WindowY" type="System.Int32">0</property>
+	<property name="WindowX" type="System.Int32">82</property>
+	<property name="WindowY" type="System.Int32">92</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,18 +27,18 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">761</property>
-	<property name="RazorHeight" type="System.Int32">1039</property>
+	<property name="RazorWidth" type="System.Int32">803</property>
+	<property name="RazorHeight" type="System.Int32">553</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
 	<property name="AutoStack" type="System.Boolean">False</property>
 	<property name="ActionStatusMsg" type="System.Boolean">False</property>
-	<property name="RangeCheckLT" type="System.Boolean">True</property>
+	<property name="RangeCheckLT" type="System.Boolean">False</property>
 	<property name="LTRange" type="System.Int32">12</property>
 	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
 	<property name="SmartLastTarget" type="System.Boolean">False</property>
-	<property name="LastTargTextFlags" type="System.Boolean">True</property>
+	<property name="LastTargTextFlags" type="System.Boolean">False</property>
 	<property name="AutoFriend" type="System.Boolean">False</property>
 	<property name="MessageLevel" type="System.Int32">0</property>
 	<property name="ForceIP" type="System.String" />
@@ -59,7 +59,7 @@
 	<property name="OverheadStyle" type="System.Int32">1</property>
 	<property name="LightLevel" type="System.Int32">31</property>
 	<property name="LogSkillChanges" type="System.Boolean">False</property>
-	<property name="StealthOverhead" type="System.Boolean">False</property>
+	<property name="StealthOverhead" type="System.Boolean">True</property>
 	<property name="ShowBuffDebuffOverhead" type="System.Boolean">True</property>
 	<property name="BuffDebuffFormat" type="System.String">[{action}{name} ({duration}s)]</property>
 	<property name="ShowAttackTargetOverhead" type="System.Boolean">False</property>
@@ -151,6 +151,7 @@
 		<counter name="Nightshade" enabled="True" image="True" />
 		<counter name="Spider's Silk" enabled="True" image="True" />
 		<counter name="Sulfurous Ash" enabled="True" image="True" />
+		<counter name="Gold" enabled="True" image="True" />
 	</counters>
 	<agents>
 		<Buy-1 enabled="False" />
@@ -164,10 +165,62 @@
 		<Buy-9 enabled="False" />
 		<Buy-10 enabled="False" />
 		<IgnoreList enabled="False" />
-		<Organizer-1 hotbag="0" />
-		<Organizer-2 hotbag="0" />
-		<Organizer-3 hotbag="0" />
-		<Organizer-4 hotbag="0" />
+		<Organizer-1 hotbag="1257982994">
+			<item id="3963" />
+			<item id="3980" />
+			<item id="3962" />
+			<item id="3981" />
+			<item id="3976" />
+			<item id="3974" />
+			<item id="3973" />
+			<item id="3972" />
+			<item id="7998" />
+			<item id="7997" />
+			<item id="8008" />
+		</Organizer-1>
+		<Organizer-2 hotbag="1094065123">
+			<item id="3878" />
+			<item id="3885" />
+			<item id="3862" />
+			<item id="3821" />
+			<item id="3827" />
+			<item id="3865" />
+			<item id="3861" />
+			<item id="3873" />
+			<item id="3877" />
+			<item id="3859" />
+			<item id="3856" />
+		</Organizer-2>
+		<Organizer-3 hotbag="1094065125">
+			<item id="31015" />
+			<item id="31012" />
+			<item id="20012" />
+			<item id="5042" />
+			<item id="5056" />
+			<item id="31027" />
+			<item id="5207" />
+			<item id="3938" />
+			<item id="31003" />
+			<item id="7029" />
+			<item id="3834" />
+			<item id="5115" />
+			<item id="3937" />
+			<item id="5203" />
+			<item id="5143" />
+			<item id="30993" />
+			<item id="31049" />
+			<item id="31025" />
+			<item id="5127" />
+			<item id="5129" />
+		</Organizer-3>
+		<Organizer-4 hotbag="1121942032">
+			<item id="7127" />
+			<item id="7154" />
+			<item id="7163" />
+			<item id="4225" />
+			<item id="2545" />
+			<item id="3827" />
+		</Organizer-4>
 		<Organizer-5 hotbag="0" />
 		<Organizer-6 hotbag="0" />
 		<Organizer-7 hotbag="0" />
@@ -199,7 +252,16 @@
 			<item id="3903" />
 		</Scavenger>
 		<AutoSearchExemptions />
-		<Sell enabled="False" />
+		<Sell enabled="False">
+			<item id="3862" />
+			<item id="3859" />
+			<item id="3861" />
+			<item id="3865" />
+			<item id="3877" />
+			<item id="3885" />
+			<item id="3878" />
+			<item id="3873" />
+		</Sell>
 		<UseOnce />
 	</agents>
 	<dresslists />
@@ -209,9 +271,17 @@
 	<macrovariables />
 	<scriptvariables>
 		<scriptvariable serial="0x53D34D" name="CurrentTarget" />
-		<scriptvariable serial="0x4E660" name="mobTwo" />
+		<scriptvariable serial="0x6A326E" name="mobTwo" />
+		<scriptvariable serial="0xFFFFFFFF" name="scroll" />
+		<scriptvariable serial="0x67748815" name="type" />
+		<scriptvariable serial="0x0" name="myPreviousKillTarget" />
+		<scriptvariable serial="0x49D947B6" name="instrument" />
 	</scriptvariables>
-	<friends />
+	<friends>
+		<group name="outlands" enabled="True" overheadformat="[Friend]" overheadhue="63" overheadenabled="True">
+			<friend name="Bock l'Orc" serial="0xD15E6" />
+		</group>
+	</friends>
 	<textfilters />
 	<targetfilters />
 	<soundfilters />

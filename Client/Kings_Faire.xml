@@ -61,6 +61,16 @@
 <Marker Name="Fishing Contest" X="6484" Y="3086" Icon="kingsfaire" Facet="0"/>
 
 
+<Marker Name="Candyugh Arena" X="6390" Y="3075" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Cannon Bawl" X="6396" Y="3039" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Dye Dye Dye" X="6405" Y="3007" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Totem Stacker" X="6424" Y="2979" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Bar Creep" X="6433" Y="3009" Icon="kingsfaire" Facet="0"/>
+
 
 <Marker Name="Fortune Teller" X="6436" Y="3033" Icon="sparkles" Facet="0"/>
 
@@ -83,6 +93,10 @@
 <Marker Name="Puppet Show" X="6488" Y="3104" Icon="sparkles" Facet="0"/>
 
 <Marker Name="Fashion Show" X="6455" Y="3108" Icon="sparkles" Facet="0"/>
+
+<Marker Name="The Wishing Well" X="6417" Y="3032" Icon="sparkles" Facet="0"/>
+
+
 
 <Marker Name="Teleporter" X="6506" Y="3161" Icon="blankstair" Facet="0"/>
 

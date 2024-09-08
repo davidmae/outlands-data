@@ -1,0 +1,30 @@
+if rhandempty and findtype "pickaxe" backpack as item
+    lift item
+    drop self Righthand
+    wait 650
+    hotkey "Use item in hand"
+else
+    hotkey "Use Item in Right Hand"
+endif
+wait 1000
+
+if insysmsg 'You do not see any harvestable resources nearby.'
+    overhead 'Move!'
+endif
+
+if insysmsg 'Mining has increased'
+    overhead 'MINING LVLUP!' 88
+endif
+
+if findtype "iron ore" backpack -1 -1 -1 as iron_ore
+    getlabel iron_ore iron
+    if insysmsg 'You dig some iron ore and put it in your backpack.'
+        overhead "|> {{iron}} <|" 15
+    endif
+endif
+
+
+
+
+
+loop

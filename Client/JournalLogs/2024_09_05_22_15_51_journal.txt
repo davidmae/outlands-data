@@ -1,0 +1,702 @@
+[09/05/2024 22:15]  System: WorldMap loading...
+[09/05/2024 22:15]  System: Loading WorldMap markers..
+[09/05/2024 22:15]  System: ..Banks_and_Healers.xml (39)
+[09/05/2024 22:15]  System: ..Dungeons.xml (13)
+[09/05/2024 22:15]  System: ..Dungeon_Gates.xml (388)
+[09/05/2024 22:15]  System: ..Healer_Caravans.xml (42)
+[09/05/2024 22:15]  System: ..Kings_Faire.xml (49)
+[09/05/2024 22:15]  System: ..Moongates.xml (10)
+[09/05/2024 22:15]  System: ..POI.xml (251)
+[09/05/2024 22:15]  System: ..PvP_Locations.xml (71)
+[09/05/2024 22:15]  System: ..Shrines.xml (9)
+[09/05/2024 22:15]  System: ..Sub-Dungeons.xml (4)
+[09/05/2024 22:15]  System: ..Townships.xml (10)
+[09/05/2024 22:15]  System: ..UOAM_Atlas.xml (1887)
+[09/05/2024 22:15]  System: ..UOAM_T-Map.xml (255)
+[09/05/2024 22:15]  System: ..UOAM_Treasure.xml (523)
+[09/05/2024 22:15]  System: WorldMap markers loaded (3551)
+[09/05/2024 22:15]  System: Welcome Willisico!
+[09/05/2024 22:15]  Razor: [- (s)]
+[09/05/2024 22:15]  Razor: [+Hidden/Stealthing (0s)]
+[09/05/2024 22:15]  Merlinda Mana: An Lor Xen
+[09/05/2024 22:15]  a mongbat: a mongbat
+[09/05/2024 22:15]  a zombie: a zombie
+[09/05/2024 22:15]  a zombie: a zombie
+[09/05/2024 22:15]  Feral Voidlash: [Farm Around Find Out, DTF]
+[09/05/2024 22:15]  Feral Voidlash: Lady Feral Voidlash
+[09/05/2024 22:15]  Merlinda Mana: Merlinda Mana
+[09/05/2024 22:15]  Louis Armstrong: Louis Armstrong
+[09/05/2024 22:15]  Astori: [Initiate, KoU]
+[09/05/2024 22:15]  Astori: Astori
+[09/05/2024 22:15]  CuttleFish: CuttleFish (Young)
+[09/05/2024 22:15]  a zombie: a zombie
+[09/05/2024 22:15]  Warner the Watch: [Knight, Sir.]
+[09/05/2024 22:15]  Warner the Watch: Warner the Watch
+[09/05/2024 22:15]  Killboy: Killboy (Young)
+[09/05/2024 22:15]  a horse: (tame)
+[09/05/2024 22:15]  a horse: a horse
+[09/05/2024 22:15]  Rosay: Rosay
+[09/05/2024 22:15]  Icewalker: Icewalker
+[09/05/2024 22:15]  Chamone: Chamone (Young)
+[09/05/2024 22:15]  Tapette: Raffler
+[09/05/2024 22:15]  Tapette: [Here We Go Again..., LMAO]
+[09/05/2024 22:15]  Tapette: Lord Tapette
+[09/05/2024 22:15]  Caillou: (bonded)
+[09/05/2024 22:15]  Caillou: Caillou
+[09/05/2024 22:15]  You see: a rotting corpse
+[09/05/2024 22:15]  You see: a rotting corpse
+[09/05/2024 22:15]  You see: a rotting corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  You see: the remains of Tapette
+[09/05/2024 22:15]  Tekito Toyto: Tekito Toyto
+[09/05/2024 22:15]  System: WorldMap loaded!
+[09/05/2024 22:15]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/05/2024 22:15]  Merlinda Mana: An Lor Xen
+[09/05/2024 22:15]  You see: a mongbat corpse
+[09/05/2024 22:15]  CuttleFish: An Lor Xen
+[09/05/2024 22:15]  Merlinda Mana: An Lor Xen
+[09/05/2024 22:15]  Chamone: An Lor Xen
+[09/05/2024 22:15]  Warner the Watch: *area taunt*
+[09/05/2024 22:16]  Merlinda Mana: Merlinda Mana
+[09/05/2024 22:16]  CuttleFish: An Lor Xen
+[09/05/2024 22:16]  CuttleFish: CuttleFish (Young)
+[09/05/2024 22:16]  Razor: [-Hidden/Stealthing (s)]
+[09/05/2024 22:16]  Chamone: An Lor Xen
+[09/05/2024 22:16]  gholge: Backstabber
+[09/05/2024 22:16]  gholge: gholge
+[09/05/2024 22:16]  Craftybear: Armorer Associate
+[09/05/2024 22:16]  Craftybear: [Maker of Things, DofG]
+[09/05/2024 22:16]  Craftybear: Craftybear
+[09/05/2024 22:16]  Gumb: Gumb
+[09/05/2024 22:16]  Malito Jr: Malito Jr
+[09/05/2024 22:16]  its terrifying: its terrifying
+[09/05/2024 22:16]  Louis Armstrong: Louis Armstrong
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  a wounded harpy: a wounded harpy
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  CuttleFish: An Lor Xen
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  System: You are now under the protection of the town guards.
+[09/05/2024 22:16]  a hind: a hind
+[09/05/2024 22:16]  a hind: a hind
+[09/05/2024 22:16]  an eagle: an eagle
+[09/05/2024 22:16]  a great hart: a great hart
+[09/05/2024 22:16]  Bernice Anders: Bernice Anders
+[09/05/2024 22:16]  Jun: Jun the guard
+[09/05/2024 22:16]  vvarmode: Terran
+[09/05/2024 22:16]  vvarmode: [MMx]
+[09/05/2024 22:16]  vvarmode: vvarmode
+[09/05/2024 22:16]  Apumokpamka: Apumokpamka
+[09/05/2024 22:16]  Silverhand: Silverhand
+[09/05/2024 22:16]  a giant rat: (tame)
+[09/05/2024 22:16]  a giant rat: a giant rat
+[09/05/2024 22:16]  novelty: novelty
+[09/05/2024 22:16]  System: You have left the protection of the town guards.
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: the remains of Tapette
+[09/05/2024 22:16]  a wounded harpy: a wounded harpy
+[09/05/2024 22:16]  gholge: Backstabber
+[09/05/2024 22:16]  gholge: gholge
+[09/05/2024 22:16]  Feral Voidlash: [Farm Around Find Out, DTF]
+[09/05/2024 22:16]  Feral Voidlash: Lady Feral Voidlash
+[09/05/2024 22:16]  Merlinda Mana: Merlinda Mana
+[09/05/2024 22:16]  Louis Armstrong: Louis Armstrong
+[09/05/2024 22:16]  Astori: [Initiate, KoU]
+[09/05/2024 22:16]  Astori: Astori
+[09/05/2024 22:16]  CuttleFish: CuttleFish (Young)
+[09/05/2024 22:16]  Craftybear: Armorer Associate
+[09/05/2024 22:16]  Craftybear: [Maker of Things, DofG]
+[09/05/2024 22:16]  Craftybear: Craftybear
+[09/05/2024 22:16]  Gumb: Gumb
+[09/05/2024 22:16]  Malito Jr: Malito Jr
+[09/05/2024 22:16]  its terrifying: its terrifying
+[09/05/2024 22:16]  Tekito Toyto: Tekito Toyto
+[09/05/2024 22:16]  Warner the Watch: [Knight, Sir.]
+[09/05/2024 22:16]  Warner the Watch: Warner the Watch
+[09/05/2024 22:16]  Killboy: Killboy (Young)
+[09/05/2024 22:16]  a horse: (tame)
+[09/05/2024 22:16]  a horse: a horse
+[09/05/2024 22:16]  Rosay: Rosay
+[09/05/2024 22:16]  Icewalker: Icewalker
+[09/05/2024 22:16]  Chamone: Chamone (Young)
+[09/05/2024 22:16]  Tapette: Raffler
+[09/05/2024 22:16]  Tapette: [Here We Go Again..., LMAO]
+[09/05/2024 22:16]  Tapette: Lord Tapette
+[09/05/2024 22:16]  Caillou: (bonded)
+[09/05/2024 22:16]  Caillou: Caillou
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  System: You may not loot this corpse.
+[09/05/2024 22:16]  System: You may not loot this corpse.
+[09/05/2024 22:16]  System: You may not loot this corpse.
+[09/05/2024 22:16]  System: You may not loot this corpse.
+[09/05/2024 22:16]  System: You may not loot this corpse.
+[09/05/2024 22:16]  System: You may not loot this corpse.
+[09/05/2024 22:16]  System: You are now under the protection of the town guards.
+[09/05/2024 22:16]  a hind: a hind
+[09/05/2024 22:16]  a hind: a hind
+[09/05/2024 22:16]  an eagle: an eagle
+[09/05/2024 22:16]  a great hart: a great hart
+[09/05/2024 22:16]  Deo Volente: Legendary Wizard
+[09/05/2024 22:16]  Deo Volente: Lord Deo Volente
+[09/05/2024 22:16]  Bernice Anders: Bernice Anders
+[09/05/2024 22:16]  Jun: Jun the guard
+[09/05/2024 22:16]  vvarmode: Terran
+[09/05/2024 22:16]  vvarmode: [MMx]
+[09/05/2024 22:16]  vvarmode: vvarmode
+[09/05/2024 22:16]  Apumokpamka: Apumokpamka
+[09/05/2024 22:16]  Silverhand: Silverhand
+[09/05/2024 22:16]  a giant rat: (tame)
+[09/05/2024 22:16]  a giant rat: a giant rat
+[09/05/2024 22:16]  novelty: novelty
+[09/05/2024 22:16]  System: You have left the protection of the town guards.
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: a mongbat corpse
+[09/05/2024 22:16]  You see: the remains of Tapette
+[09/05/2024 22:16]  a wounded harpy: a wounded harpy
+[09/05/2024 22:16]  gholge: Backstabber
+[09/05/2024 22:16]  gholge: gholge
+[09/05/2024 22:16]  Feral Voidlash: [Farm Around Find Out, DTF]
+[09/05/2024 22:16]  Feral Voidlash: Lady Feral Voidlash
+[09/05/2024 22:16]  Merlinda Mana: Merlinda Mana
+[09/05/2024 22:16]  Louis Armstrong: Louis Armstrong
+[09/05/2024 22:16]  Astori: [Initiate, KoU]
+[09/05/2024 22:16]  Astori: Astori
+[09/05/2024 22:16]  CuttleFish: CuttleFish (Young)
+[09/05/2024 22:16]  Craftybear: Armorer Associate
+[09/05/2024 22:16]  Craftybear: [Maker of Things, DofG]
+[09/05/2024 22:16]  Craftybear: Craftybear
+[09/05/2024 22:16]  Gumb: Gumb
+[09/05/2024 22:16]  Malito Jr: Malito Jr
+[09/05/2024 22:16]  its terrifying: its terrifying
+[09/05/2024 22:16]  Tekito Toyto: Tekito Toyto
+[09/05/2024 22:16]  Warner the Watch: [Knight, Sir.]
+[09/05/2024 22:16]  Warner the Watch: Warner the Watch
+[09/05/2024 22:16]  Killboy: Killboy (Young)
+[09/05/2024 22:16]  a horse: (tame)
+[09/05/2024 22:16]  a horse: a horse
+[09/05/2024 22:16]  Rosay: Rosay
+[09/05/2024 22:16]  Icewalker: Icewalker
+[09/05/2024 22:16]  Chamone: Chamone (Young)
+[09/05/2024 22:16]  Tapette: Raffler
+[09/05/2024 22:16]  Tapette: [Here We Go Again..., LMAO]
+[09/05/2024 22:16]  Tapette: Lord Tapette
+[09/05/2024 22:16]  Caillou: (bonded)
+[09/05/2024 22:16]  Caillou: Caillou
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  System: That is too far away.
+[09/05/2024 22:16]  Chamone: An Lor Xen
+[09/05/2024 22:16]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/05/2024 22:16]  Malito Jr: An Lor Xen
+[09/05/2024 22:16]  CuttleFish: CuttleFish (Young)
+[09/05/2024 22:16]  System: Players cannot commit aggressive actions in that location.
+[09/05/2024 22:16]  System: You are now under the protection of the town guards.
+[09/05/2024 22:16]  a hind: a hind
+[09/05/2024 22:16]  a hind: a hind
+[09/05/2024 22:16]  an eagle: an eagle
+[09/05/2024 22:16]  a great hart: a great hart
+[09/05/2024 22:16]  a water elemental: (summoned)
+[09/05/2024 22:16]  a water elemental: a water elemental
+[09/05/2024 22:16]  a water elemental: (summoned)
+[09/05/2024 22:16]  a water elemental: a water elemental
+[09/05/2024 22:16]  Bernice Anders: Bernice Anders
+[09/05/2024 22:16]  Jun: Jun the guard
+[09/05/2024 22:16]  vvarmode: Terran
+[09/05/2024 22:16]  vvarmode: [MMx]
+[09/05/2024 22:16]  vvarmode: vvarmode
+[09/05/2024 22:16]  Apumokpamka: Apumokpamka
+[09/05/2024 22:16]  Silverhand: Silverhand
+[09/05/2024 22:16]  a giant rat: (tame)
+[09/05/2024 22:16]  a giant rat: a giant rat
+[09/05/2024 22:16]  novelty: novelty
+[09/05/2024 22:16]  a pack horse: (tame)
+[09/05/2024 22:16]  a pack horse: [14/2000 stones]
+[09/05/2024 22:16]  a pack horse: a pack horse
+[09/05/2024 22:16]  Snow Princess: [La Pecheuse de l'aurore, LDS]
+[09/05/2024 22:16]  Snow Princess: Snow Princess
+[09/05/2024 22:16]  nOokOne: nOokOne (Young)
+[09/05/2024 22:16]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:16]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:16]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:16]  Snow Princess: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[09/05/2024 22:16]  Slayer of Ixx: [Mach]
+[09/05/2024 22:16]  Slayer of Ixx: Slayer of Ixx
+[09/05/2024 22:16]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:16]  Gecky B: [Private First Class, TES]
+[09/05/2024 22:16]  Gecky B: Gecky B
+[09/05/2024 22:16]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:16]  Snow Princess: ■ Outland est bien different des autres serveurs, laisse nous te guider dans ton nouveau départ! 
+[09/05/2024 22:16]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:16]  Snow Princess: ■ Des événements hebdomadaires pour du loot garantie ! 
+[09/05/2024 22:16]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:16]  Tristano: [Henchman, Syn]
+[09/05/2024 22:16]  Tristano: Tristano
+[09/05/2024 22:16]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:16]  a water elemental: (summoned)
+[09/05/2024 22:16]  a water elemental: a water elemental
+[09/05/2024 22:16]  a water elemental: (summoned)
+[09/05/2024 22:16]  a water elemental: a water elemental
+[09/05/2024 22:16]  Marti: Marti the healer
+[09/05/2024 22:16]  Deo Volente: Legendary Wizard
+[09/05/2024 22:16]  Deo Volente: Lord Deo Volente
+[09/05/2024 22:16]  Snow Princess: Bienvenu sur outland! tu recherche une guild FR/QC?
+[09/05/2024 22:16]  a water elemental: (summoned)
+[09/05/2024 22:16]  a water elemental: a water elemental
+[09/05/2024 22:16]  a water elemental: (summoned)
+[09/05/2024 22:16]  a water elemental: a water elemental
+[09/05/2024 22:16]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:16]  Skumsy: Skumsy (Young)
+[09/05/2024 22:16]  Deo Volente: All Follow Me
+[09/05/2024 22:16]  Willisico: Willisico (Young)
+[09/05/2024 22:16]  Snow Princess: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[09/05/2024 22:16]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:16]  Snow Princess: @samxsnow // @idrielle // @youpietlefou // @nibelheim
+[09/05/2024 22:16]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:16]  System: Ready? (RDY) guild has reached prestige level 146.
+[09/05/2024 22:16]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:16]  Snow Princess: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[09/05/2024 22:17]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:17]  You see: training credits deed
+[09/05/2024 22:17]  You see: (1000 credits remaining)
+[09/05/2024 22:17]  You see: [bound to Willisico]
+[09/05/2024 22:17]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:17]  Snow Princess: ■ Outland est bien different des autres serveurs, laisse nous te guider dans ton nouveau départ! 
+[09/05/2024 22:17]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:17]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:17]  Snow Princess: ■ Des événements hebdomadaires pour du loot garantie ! 
+[09/05/2024 22:17]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:17]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:17]  Snow Princess: Bienvenu sur outland! tu recherche une guild FR/QC?
+[09/05/2024 22:17]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:17]  Snow Princess: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[09/05/2024 22:17]  Marti: Marti the healer
+[09/05/2024 22:17]  Snow Princess: @samxsnow // @idrielle // @youpietlefou // @nibelheim
+[09/05/2024 22:17]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:17]  System: An Omni Realm has now become public.
+[09/05/2024 22:17]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:17]  : grass
+[09/05/2024 22:17]  Snow Princess: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[09/05/2024 22:17]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:17]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:17]  Trisha Khalen: Backstabber
+[09/05/2024 22:17]  Trisha Khalen: [Juicy, SQzD]
+[09/05/2024 22:17]  Trisha Khalen: Trisha Khalen
+[09/05/2024 22:17]  Snow Princess: ■ Outland est bien different des autres serveurs, laisse nous te guider dans ton nouveau départ! 
+[09/05/2024 22:17]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:17]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:17]  Trisha Khalen: Kal Ort Por
+[09/05/2024 22:17]  Marti: Marti the healer
+[09/05/2024 22:17]  Snow Princess: ■ Des événements hebdomadaires pour du loot garantie ! 
+[09/05/2024 22:17]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:17]  System: Leo daVinci has completed the achievement: Scientist (Basic).
+[09/05/2024 22:18]  Skumsy: Skumsy (Young)
+[09/05/2024 22:18]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:18]  Snow Princess: Bienvenu sur outland! tu recherche une guild FR/QC?
+[09/05/2024 22:18]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:18]  Snow Princess: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[09/05/2024 22:18]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:18]  Snow Princess: @samxsnow // @idrielle // @youpietlefou // @nibelheim
+[09/05/2024 22:18]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:18]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:18]  Snow Princess: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[09/05/2024 22:18]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:18]  Marti: Marti the healer
+[09/05/2024 22:18]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:18]  Snow Princess: ■ Outland est bien different des autres serveurs, laisse nous te guider dans ton nouveau départ! 
+[09/05/2024 22:18]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:18]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:18]  Shacolaca: Shacolaca (Young)
+[09/05/2024 22:18]  Snow Princess: ■ Des événements hebdomadaires pour du loot garantie ! 
+[09/05/2024 22:18]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:18]  Snow Princess: Bienvenu sur outland! tu recherche une guild FR/QC?
+[09/05/2024 22:18]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:18]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:18]  Snow Princess: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[09/05/2024 22:18]  Snow Princess: @samxsnow // @idrielle // @youpietlefou // @nibelheim
+[09/05/2024 22:18]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:18]  Marti: Marti the healer
+[09/05/2024 22:18]  vvarmode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/05/2024 22:19]  Louis Armstrong: Louis Armstrong
+[09/05/2024 22:19]  vvarmode: New to Ultima Online or looking to speed up your progress?
+[09/05/2024 22:19]  Snow Princess: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[09/05/2024 22:19]  Tyrone Diggums: [Book Worm, CtS]
+[09/05/2024 22:19]  Tyrone Diggums: Tyrone Diggums
+[09/05/2024 22:19]  Ailiin: Ailiin
+[09/05/2024 22:19]  vvarmode: We are here to make the game less confusing and more fun while playing with great people!
+[09/05/2024 22:19]  a skylark: a skylark
+[09/05/2024 22:19]  Slayer of Ixx: [Mach]
+[09/05/2024 22:19]  Slayer of Ixx: Slayer of Ixx
+[09/05/2024 22:19]  Cyrus: Cyrus the lumberjack
+[09/05/2024 22:19]  Snow Princess: ■ Outland est bien different des autres serveurs, laisse nous te guider dans ton nouveau départ! 
+[09/05/2024 22:19]  You see: a bird corpse
+[09/05/2024 22:19]  a skylark: a skylark
+[09/05/2024 22:19]  a magpie: a magpie
+[09/05/2024 22:19]  a sheep: a sheep
+[09/05/2024 22:19]  a woodpecker: a woodpecker
+[09/05/2024 22:19]  Natane: Natane the farmer
+[09/05/2024 22:19]  You see: a bird corpse
+[09/05/2024 22:19]  a sheep: a sheep
+[09/05/2024 22:19]  a sheep: a sheep
+[09/05/2024 22:19]  Fuller: Fuller the barkeep
+[09/05/2024 22:19]  a sheep: a sheep
+[09/05/2024 22:20]  a sheep: a sheep
+[09/05/2024 22:20]  a sheep: a sheep
+[09/05/2024 22:20]  System: Flint Cartinkor has completed the achievement: Tinker (Advanced).
+[09/05/2024 22:21]  a sheep: a sheep
+[09/05/2024 22:21]  a sheep: a sheep
+[09/05/2024 22:21]  Natane: Natane the farmer
+[09/05/2024 22:21]  Skumsy: Skumsy (Young)
+[09/05/2024 22:21]  Marti: I will teach thee all I know, if paid the amount in full.  The price is: 149
+[09/05/2024 22:21]  Marti: For less I shall teach thee less.
+[09/05/2024 22:21]  Natane: Natane the farmer
+[09/05/2024 22:22]  Marti: I will teach thee all I know, if paid the amount in full.  The price is: 353
+[09/05/2024 22:22]  Marti: For less I shall teach thee less.
+[09/05/2024 22:22]  You see: training credits deed
+[09/05/2024 22:22]  You see: (1000 credits remaining)
+[09/05/2024 22:22]  You see: [bound to Willisico]
+[09/05/2024 22:22]  Marti: I will teach thee all I know, if paid the amount in full.  The price is: 129
+[09/05/2024 22:22]  Marti: For less I shall teach thee less.
+[09/05/2024 22:22]  Ailiin: Ailiin
+[09/05/2024 22:23]  [Razor]: Warning: Gold amount is now 0!
+[09/05/2024 22:23]  You see: gold coin : 162
+[09/05/2024 22:23]  Jun: Jun the guard
+[09/05/2024 22:23]  a skylark: a skylark
+[09/05/2024 22:23]  System: Bazzry has completed the achievement: Omni-Realm Invader (Advanced).
+[09/05/2024 22:23]  You see: a bird corpse
+[09/05/2024 22:23]  Natane: Natane the farmer
+[09/05/2024 22:23]  a sheep: a sheep
+[09/05/2024 22:23]  You see: a hind corpse
+[09/05/2024 22:23]  You see: a hind corpse
+[09/05/2024 22:23]  a sheep: a sheep
+[09/05/2024 22:23]  a sheep: a sheep
+[09/05/2024 22:23]  System: Click again to confirm your selection.
+[09/05/2024 22:23]  Willisico: You have renounced your Young Player status.
+[09/05/2024 22:23]  System: You have left the protection of the town guards.
+[09/05/2024 22:23]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/05/2024 22:23]  You see: an umbermare marksman corpse
+[09/05/2024 22:23]  System: Looting this monster corpse will be a criminal act!
+[09/05/2024 22:23]  System: Players must have at least 80 Stealth skill to use this item.
+[09/05/2024 22:23]  You see: smoke bomb
+[09/05/2024 22:23]  System: Players must have at least 80 Stealth skill to use this item.
+[09/05/2024 22:23]  You see: Skamte Foar ús Clan by Umbermare Pryster
+[09/05/2024 22:23]  You see: [5 pages, sealed]
+[09/05/2024 22:23]  System: Target a blank book to copy this book to...
+[09/05/2024 22:23]  System: The contents of this book will not fit in that book.
+[09/05/2024 22:23]  System: Target a blank book to copy this book to...
+[09/05/2024 22:23]  System: The contents of this book will not fit in that book.
+[09/05/2024 22:23]  System: Target a blank book to copy this book to...
+[09/05/2024 22:23]  System: The contents of this book will not fit in that book.
+[09/05/2024 22:23]  System: Target a blank book to copy this book to...
+[09/05/2024 22:23]  System: The contents of this book will not fit in that book.
+[09/05/2024 22:23]  System: Target a blank book to copy this book to...
+[09/05/2024 22:23]  System: The contents of this book will not fit in that book.
+[09/05/2024 22:23]  System: Target a blank book to copy this book to...
+[09/05/2024 22:23]  System: The contents of this book will not fit in that book.
+[09/05/2024 22:23]  System: Target a blank book to copy this book to...
+[09/05/2024 22:23]  System: The contents of this book will not fit in that book.
+[09/05/2024 22:23]  System: Target a blank book to copy this book to...
+[09/05/2024 22:23]  You see: a book by Ailiin
+[09/05/2024 22:23]  You see: [0 pages]
+[09/05/2024 22:24]  Ailiin: Ailiin
+[09/05/2024 22:24]  You see: Skamte Foar ús Clan by Umbermare Pryster
+[09/05/2024 22:24]  You see: [5 pages, sealed]
+[09/05/2024 22:24]  System: Target a blank book to copy this book to...
+[09/05/2024 22:24]  System: The contents of this book will not fit in that book.
+[09/05/2024 22:24]  System: Target a blank book to copy this book to...
+[09/05/2024 22:24]  an earth elemental: (summoned)
+[09/05/2024 22:24]  an earth elemental: an earth elemental
+[09/05/2024 22:24]  an earth elemental: (summoned)
+[09/05/2024 22:24]  an earth elemental: an earth elemental
+[09/05/2024 22:24]  Sadie Farrell: [FS!]
+[09/05/2024 22:24]  Sadie Farrell: Sadie Farrell
+[09/05/2024 22:24]  an earth elemental: *regens*
+[09/05/2024 22:24]  System: Being perfectly rested, you shove them out of the way.
+[09/05/2024 22:24]  System: You are now under the protection of the town guards.
+[09/05/2024 22:24]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/05/2024 22:24]  Razor: [+Hidden/Stealthing (0s)]
+[09/05/2024 22:24]  [Razor]: Steps: 0
+[09/05/2024 22:24]  Komor: Komor the tanner
+[09/05/2024 22:24]  Kamali: Kamali the butcher
+[09/05/2024 22:24]  Madelyn: Madelyn the shipwright
+[09/05/2024 22:24]  Thea: Thea the beggar
+[09/05/2024 22:24]  Adara: Adara the bard
+[09/05/2024 22:25]  System: The world will save in 15 seconds.
+[09/05/2024 22:25]  System: Roland has completed the achievement: Skinner (Basic).
+[09/05/2024 22:25]  System: The world is saving, please wait.
+[09/05/2024 22:25]  System: World save complete. The entire process took 3.0 seconds.
+[09/05/2024 22:25]  Bernice Anders: Bernice Anders
+[09/05/2024 22:26]  System: Adonalsium has completed the achievement: Triggered (Advanced).
+[09/05/2024 22:26]  System: Von Grumbledz has completed the achievement: Order of Armorers Associate.
+[09/05/2024 22:26]  Razor: [-Hidden/Stealthing (s)]
+[09/05/2024 22:26]  Wijdan: Wijdan the mapmaker
+[09/05/2024 22:26]  Meg: Meg the bowyer
+[09/05/2024 22:26]  Chane: Chane the carpenter
+[09/05/2024 22:27]  Ailiin: Ailiin
+[09/05/2024 22:27]  System: a shady figure has completed the achievement: Humanoid Slayer (Basic).
+[09/05/2024 22:27]  System: Victor Dresden has completed the achievement: Humanoid Slayer (Basic).
+[09/05/2024 22:29]  System: Keef Paradise has completed the achievement: Raffler (Basic).
+[09/05/2024 22:30]  I DaVinci I: [Recruit, L%C]
+[09/05/2024 22:30]  I DaVinci I: I DaVinci I
+[09/05/2024 22:31]  System: Harrold Potter has completed the achievement: Construct Slayer (Basic).
+[09/05/2024 22:32]  System: Ainz Ooal Gown (AOG) guild has reached prestige level 399.
+[09/05/2024 22:32]  System: Shopkeeper has completed the achievement: Artificers Enclave Luminary.
+[09/05/2024 22:35]  System: menjas has completed the achievement: Enchanter (Basic).
+[09/05/2024 22:35]  Damarli Keko: Damarli Keko
+[09/05/2024 22:36]  System: Branchy has completed the achievement: Mini-Boss Slayer (Epic).
+[09/05/2024 22:36]  System: Subjects of Ymir (Ymir) guild has reached prestige level 202.
+[09/05/2024 22:36]  System: Stabmellow has completed the achievement: Guardian of Mount Petram (Basic).
+[09/05/2024 22:37]  System: Salty Brock has completed the achievement: Skill Proficiency (Advanced).
+[09/05/2024 22:37]  Flappy Geoff: [Recruit, G.G]
+[09/05/2024 22:37]  Flappy Geoff: Flappy Geoff
+[09/05/2024 22:37]  skellydee: (bonded)
+[09/05/2024 22:37]  skellydee: skellydee
+[09/05/2024 22:37]  wazzadre: (bonded)
+[09/05/2024 22:37]  wazzadre: wazzadre
+[09/05/2024 22:38]  Cobalion: Cobalion (Young)
+[09/05/2024 22:38]  Cobalion: Cobalion (Young)
+[09/05/2024 22:38]  System: Valentina Nappi has completed the achievement: Weaponmastery (Basic).
+[09/05/2024 22:39]  System: The world will save in 15 seconds.
+[09/05/2024 22:40]  System: The world is saving, please wait.
+[09/05/2024 22:40]  System: World save complete. The entire process took 3.0 seconds.
+[09/05/2024 22:40]  Flotte Lotte: Flotte Lotte (Young)
+[09/05/2024 22:40]  Chane: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[09/05/2024 22:40]  Chane: For less I shall teach thee less.
+[09/05/2024 22:44]  a water drake: (bonded)
+[09/05/2024 22:44]  a water drake: a water drake
+[09/05/2024 22:44]  a drowned dragon: (bonded)
+[09/05/2024 22:44]  a drowned dragon: a drowned dragon
+[09/05/2024 22:45]  System: Vial Wizard has completed the achievement: Tailor (Basic).
+[09/05/2024 22:45]  an ancient mummy: (summoned)
+[09/05/2024 22:45]  an ancient mummy: an ancient mummy
+[09/05/2024 22:45]  a lich: (summoned)
+[09/05/2024 22:45]  a lich: a lich
+[09/05/2024 22:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/05/2024 22:45]  Emperor Shredder: Emperor Shredder
+[09/05/2024 22:47]  Blow Pop: Pirate
+[09/05/2024 22:47]  Blow Pop: [I'm Greased Lightning, DTF]
+[09/05/2024 22:47]  Blow Pop: Lord Blow Pop
+[09/05/2024 22:48]  System: Francios has completed the achievement: Monster Hunter Associate.
+[09/05/2024 22:50]  System: OsirAras has completed the achievement: Maester (Advanced).
+[09/05/2024 22:50]  Ras al Gul: Ras al Gul
+[09/05/2024 22:51]  Johnny Danger: Johnny Danger
+[09/05/2024 22:51]  a water drake: (bonded)
+[09/05/2024 22:51]  a water drake: a water drake
+[09/05/2024 22:51]  a drowned dragon: (bonded)
+[09/05/2024 22:51]  a drowned dragon: a drowned dragon
+[09/05/2024 22:52]  System: Archabald Killin has completed the achievement: Beastial Slayer (Epic).
+[09/05/2024 22:52]  System: Brazilian Vikings (BRvk) guild has reached prestige level 126.
+[09/05/2024 22:52]  System: Dolgthrasir has completed the achievement: Artificers Enclave Dignitary.
+[09/05/2024 22:53]  System: Khano has completed the achievement: Salvager (Advanced).
+[09/05/2024 22:53]  System: Babe the Blue has completed the achievement: Treasure Hunter (Basic).
+[09/05/2024 22:54]  Louis Armstrong: Louis Armstrong
+[09/05/2024 22:54]  System: The world will save in 15 seconds.
+[09/05/2024 22:54]  a water drake: (bonded)
+[09/05/2024 22:54]  a water drake: a water drake
+[09/05/2024 22:54]  System: The world is saving, please wait.
+[09/05/2024 22:55]  System: World save complete. The entire process took 3.0 seconds.
+[09/05/2024 22:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/05/2024 22:55]  Kark: Kark (Young)
+[09/05/2024 22:55]  System: Wraskly has completed the achievement: Netherzone Hunter (Basic).
+[09/05/2024 22:56]  System: LA GGGGGILDA (ITA.) guild has reached prestige level 208.
+[09/05/2024 22:56]  System: Strwant has completed the achievement: Order of Armorers Initiate.
+[09/05/2024 22:57]  McLaine: McLaine
+[09/05/2024 22:57]  MuCaCoBoeC: MuCaCoBoeC
+[09/05/2024 22:57]  Aboena: Aboena
+[09/05/2024 22:57]  Aboena: Aboena
+[09/05/2024 22:57]  Dhaktari: Dhaktari (Young)
+[09/05/2024 22:57]  Flotte Lotte: Flotte Lotte (Young)
+[09/05/2024 22:58]  System: mya has completed the achievement: Relic Hunter (Basic).
+[09/05/2024 22:59]  System: pytel has completed the achievement: Scribe (Epic).
+[09/05/2024 22:59]  I ama Hotdog: I ama Hotdog (Young)
+[09/05/2024 22:59]  McLaine: McLaine
+[09/05/2024 23:00]  System: [SR] A Stygian Rifts event has begun!
+[09/05/2024 23:01]  System: Eugen has completed the achievement: Aspect Mastery (Advanced).
+[09/05/2024 23:02]  System: Kaizu has completed the achievement: Versatility (Advanced).
+[09/05/2024 23:03]  System: Vator has completed the achievement: Nobility (Basic).
+[09/05/2024 23:03]  Blarrb: Blarrb (Young)
+[09/05/2024 23:04]  Haater: Haater (Young)
+[09/05/2024 23:04]  System: Laokoon has completed the achievement: Wilderness Hunter (Advanced).
+[09/05/2024 23:06]  System: New Kids On The Block (NKB) guild has reached prestige level 638.
+[09/05/2024 23:06]  McMineface: McMineface (Young)
+[09/05/2024 23:06]  Haater: Haater (Young)
+[09/05/2024 23:07]  System: Leo daVinci has completed the achievement: Aspect Mastery (Basic).
+[09/05/2024 23:07]  Haater: Haater (Young)
+[09/05/2024 23:08]  System: Dolgthrasir has completed the achievement: Enchanter (Basic).
+[09/05/2024 23:09]  System: The world will save in 15 seconds.
+[09/05/2024 23:09]  System: The world is saving, please wait.
+[09/05/2024 23:09]  System: World save complete. The entire process took 3.1 seconds.
+[09/05/2024 23:11]  System: Peppa has completed the achievement: Savant (Basic).
+[09/05/2024 23:11]  Taming Panda: Taming Panda (Young)
+[09/05/2024 23:11]  System: Imo has completed the achievement: Mini-Boss Slayer (Basic).
+[09/05/2024 23:12]  System: Fundaris has completed the achievement: Scientist (Basic).
+[09/05/2024 23:12]  System: Caster Nemesis has completed the achievement: Triggered (Epic).
+[09/05/2024 23:12]  System: Nezuk o has completed the achievement: Scribe (Advanced).
+[09/05/2024 23:13]  TestBelo: TestBelo
+[09/05/2024 23:13]  nOok-MC: nOok-MC (Young)
+[09/05/2024 23:14]  Dhaktari: Dhaktari (Young)
+[09/05/2024 23:15]  Dhaktari: Dhaktari (Young)
+[09/05/2024 23:16]  System: Nicol Bolas has completed the achievement: Mini-Boss Slayer (Basic).
+[09/05/2024 23:17]  BrownDorf: BrownDorf (Young)
+[09/05/2024 23:17]  System: Havanna has completed the achievement: Versatility (Advanced).
+[09/05/2024 23:18]  System: Tatar has completed the achievement: Guardian of Aegis Keep (Intermediate).
+[09/05/2024 23:21]  Flotte Lotte: Flotte Lotte (Young)
+[09/05/2024 23:22]  System: TehParsleySauce has completed the achievement: Aspect Mastery (Basic).
+[09/05/2024 23:22]  System: CrafterTree has completed the achievement: Savant (Advanced).
+[09/05/2024 23:22]  System: Allie Brewbonnet has completed the achievement: Chef (Basic).
+[09/05/2024 23:24]  System: The world will save in 15 seconds.
+[09/05/2024 23:24]  System: The world is saving, please wait.
+[09/05/2024 23:24]  System: World save complete. The entire process took 3.1 seconds.
+[09/05/2024 23:24]  System: Jake Paul has completed the achievement: Wilderness Hunter (Intermediate).
+[09/05/2024 23:25]  System: Staff message from Owyn:
+[09/05/2024 23:25]  System: The Prevalian Merchant will continue to sell King's Faire goods until Saturday, September 7th!  Be sure to check out the new Spell Hue Collections and all the NEVER RETURNING items!
+[09/05/2024 23:25]  BrownDorf: BrownDorf (Young)
+[09/05/2024 23:26]  BrownDorf: BrownDorf (Young)
+[09/05/2024 23:26]  a horse: (tame)
+[09/05/2024 23:26]  a horse: a horse
+[09/05/2024 23:26]  System: Moonglow Mechanics (MMx) guild has reached prestige level 286.
+[09/05/2024 23:27]  System: Mixing Man has completed the achievement: Enchanter (Basic).
+[09/05/2024 23:27]  Riksus: Riksus
+[09/05/2024 23:28]  System: Kitty Malone has completed the achievement: Expressive (Advanced).
+[09/05/2024 23:28]  System: Damarli Keko has completed the achievement: Wizard (Basic).
+[09/05/2024 23:28]  Antoinette: Antoinette (Young)
+[09/05/2024 23:29]  Meg: I will teach thee all I know, if paid the amount in full.  The price is: 10
+[09/05/2024 23:29]  Meg: For less I shall teach thee less.
+[09/05/2024 23:29]  Chane: I cannot teach thee, for thou knowest all I can teach!
+[09/05/2024 23:29]  Chane: I will teach thee all I know, if paid the amount in full.  The price is: 490
+[09/05/2024 23:29]  Chane: For less I shall teach thee less.
+[09/05/2024 23:30]  Flotte Lotte: Flotte Lotte (Young)
+[09/05/2024 23:30]  Flotte Lotte: Flotte Lotte (Young)
+[09/05/2024 23:30]  Astori: [Initiate, KoU]
+[09/05/2024 23:30]  Astori: Astori
+[09/05/2024 23:31]  Clonks: [DKR]
+[09/05/2024 23:31]  Clonks: Lord Clonks
+[09/05/2024 23:32]  Ras al Gul: Ras al Gul
+[09/05/2024 23:32]  System: Opus Terium has completed the achievement: Alchemist (Advanced).
+[09/05/2024 23:32]  Ras al Gul: Ras al Gul
+[09/05/2024 23:33]  System: Korgan Blooddaxe has completed the achievement: Nature Slayer (Basic).
+[09/05/2024 23:34]  Flotte Lotte: Flotte Lotte (Young)
+[09/05/2024 23:34]  a wolf: (tame)
+[09/05/2024 23:34]  a wolf: a wolf
+[09/05/2024 23:34]  a sand crab: (tame)
+[09/05/2024 23:34]  a sand crab: a sand crab
+[09/05/2024 23:34]  a brown bear: (tame)
+[09/05/2024 23:34]  a brown bear: a brown bear
+[09/05/2024 23:34]  a cave bear: (tame)
+[09/05/2024 23:34]  a cave bear: a cave bear
+[09/05/2024 23:34]  a sand crab: (tame)
+[09/05/2024 23:34]  a sand crab: a sand crab
+[09/05/2024 23:34]  McLaine: McLaine
+[09/05/2024 23:35]  Ssa'hir: Ssa'hir
+[09/05/2024 23:35]  System: MILF-Hunter has completed the achievement: Scientist (Basic).
+[09/05/2024 23:38]  System: Krusty The Dog has completed the achievement: Monster Hunter Associate.
+[09/05/2024 23:39]  System: The world will save in 15 seconds.
+[09/05/2024 23:39]  System: The world is saving, please wait.
+[09/05/2024 23:39]  System: World save complete. The entire process took 3.1 seconds.
+[09/05/2024 23:42]  Crush DeMaul: [Druid, BEAR]
+[09/05/2024 23:42]  Crush DeMaul: Lord Crush DeMaul
+[09/05/2024 23:42]  ThouNotPass: ThouNotPass (Young)
+[09/05/2024 23:42]  Los Alamos: Versatile
+[09/05/2024 23:42]  Los Alamos: [Lovely Beard, BB]
+[09/05/2024 23:42]  Los Alamos: Los Alamos
+[09/05/2024 23:43]  a water drake: (bonded)
+[09/05/2024 23:43]  a water drake: a water drake
+[09/05/2024 23:43]  a drowned dragon: (bonded)
+[09/05/2024 23:43]  a drowned dragon: a drowned dragon
+[09/05/2024 23:43]  System: kelebrimbor has completed the achievement: Savant (Basic).
+[09/05/2024 23:44]  System: WildThing has completed the achievement: Maester (Epic).
+[09/05/2024 23:44]  Jinjo: Jinjo (Young)
+[09/05/2024 23:45]  Peg LEg Pete: Seafarer Associate
+[09/05/2024 23:45]  Peg LEg Pete: [BOATER, NP$]
+[09/05/2024 23:45]  Peg LEg Pete: Peg LEg Pete
+[09/05/2024 23:45]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/05/2024 23:46]  System: SEULINDO has completed the achievement: Connoisseur (Epic).
+[09/05/2024 23:46]  Peg LEg Pete: Seafarer Associate
+[09/05/2024 23:46]  Peg LEg Pete: [BOATER, NP$]
+[09/05/2024 23:46]  Peg LEg Pete: Peg LEg Pete
+[09/05/2024 23:48]  System: Farmboi has completed the achievement: Cartographer (Basic).
+[09/05/2024 23:48]  System: Dragomir has completed the achievement: Carpenter (Epic).
+[09/05/2024 23:48]  System: Poronico has completed the achievement: Enhanced (Advanced).
+[09/05/2024 23:48]  Stonedowner: Stonedowner (Young)
+[09/05/2024 23:49]  System: Ohantas has completed the achievement: Transmutation (Basic).
+[09/05/2024 23:49]  Nitros: Nitros (Young)
+[09/05/2024 23:50]  Indignatia: Indignatia (Young)
+[09/05/2024 23:50]  Adara: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[09/05/2024 23:50]  Adara: For less I shall teach thee less.
+[09/05/2024 23:50]  Kokou: Kokou
+[09/05/2024 23:50]  Ailiin: Ailiin
+[09/05/2024 23:50]  Adara: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[09/05/2024 23:50]  Adara: For less I shall teach thee less.
+[09/05/2024 23:50]  Adara: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[09/05/2024 23:50]  Adara: For less I shall teach thee less.
+[09/05/2024 23:50]  You see: spellbook
+[09/05/2024 23:50]  You see: (11 spells)
+[09/05/2024 23:50]  You see: [blessed]
+[09/05/2024 23:50]  System: You add 15 spells from your backpack into the spellbook.
+[09/05/2024 23:50]  You see: spellbook
+[09/05/2024 23:50]  You see: (26 spells)
+[09/05/2024 23:50]  You see: [blessed]
+[09/05/2024 23:50]  Indignatia: Indignatia (Young)
+[09/05/2024 23:50]  You see: magic reflect scroll : 6
+[09/05/2024 23:50]  You see: dispel field scroll
+[09/05/2024 23:50]  You see: recall scroll
+[09/05/2024 23:50]  You see: greater heal scroll : 3
+[09/05/2024 23:50]  System: Namio has completed the achievement: Elemental Slayer (Basic).
+[09/05/2024 23:50]  You see: reveal scroll
+[09/05/2024 23:51]  You see: training credits deed
+[09/05/2024 23:51]  You see: (1000 credits remaining)
+[09/05/2024 23:51]  You see: [bound to Willisico]
+[09/05/2024 23:51]  System: Training credit deeds may be given to vendors in place of gold when requesting training for skills.
+[09/05/2024 23:51]  Kokou: how do you buy weapons or armor? not giving "Buy" option
+[09/05/2024 23:51]  Big Hat Tibs: Big Hat Tibs (Young)
+[09/05/2024 23:51]  You see: gold coin : 162
+[09/05/2024 23:51]  Dhaktari: Dhaktari (Young)
+[09/05/2024 23:51]  Big Hat Tibs: Big Hat Tibs (Young)
+[09/05/2024 23:51]  Dhaktari: Dhaktari (Young)
+[09/05/2024 23:51]  Big Hat Tibs: Big Hat Tibs (Young)
+[09/05/2024 23:51]  Dumonts: Dumonts (Young)
+[09/05/2024 23:52]  System: Dah Ruffian has completed the achievement: Transmutation (Advanced).
+[09/05/2024 23:52]  Indignatia: Indignatia (Young)
+[09/05/2024 23:52]  Dumonts: Dumonts (Young)
+[09/05/2024 23:52]  System: Illyanna-Tohka has completed the achievement: Enhanced (Basic).
+[09/05/2024 23:52]  System: Illyanna-Tohka has completed the achievement: Enhanced (Advanced).
+[09/05/2024 23:52]  Dhaktari: Dhaktari (Young)
+[09/05/2024 23:53]  Gobert: [New Player, NP$]
+[09/05/2024 23:53]  Gobert: Gobert
+[09/05/2024 23:53]  System: The world will save in 15 seconds.
+[09/05/2024 23:54]  System: The world is saving, please wait.
+[09/05/2024 23:54]  System: World save complete. The entire process took 3.3 seconds.
