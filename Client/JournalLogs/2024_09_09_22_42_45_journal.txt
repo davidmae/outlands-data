@@ -1,0 +1,707 @@
+[09/09/2024 22:42]  System: WorldMap loading...
+[09/09/2024 22:42]  System: Loading WorldMap markers..
+[09/09/2024 22:42]  System: ..Banks_and_Healers.xml (39)
+[09/09/2024 22:42]  System: ..Dungeons.xml (13)
+[09/09/2024 22:42]  System: ..Dungeon_Gates.xml (388)
+[09/09/2024 22:42]  System: ..Healer_Caravans.xml (42)
+[09/09/2024 22:42]  System: ..Kings_Faire.xml (49)
+[09/09/2024 22:42]  System: ..Moongates.xml (10)
+[09/09/2024 22:42]  System: ..POI.xml (251)
+[09/09/2024 22:42]  System: ..PvP_Locations.xml (71)
+[09/09/2024 22:42]  System: ..Shrines.xml (9)
+[09/09/2024 22:42]  System: ..Sub-Dungeons.xml (4)
+[09/09/2024 22:42]  System: ..Townships.xml (10)
+[09/09/2024 22:42]  System: ..UOAM_Atlas.xml (1887)
+[09/09/2024 22:42]  System: ..UOAM_T-Map.xml (255)
+[09/09/2024 22:42]  System: ..UOAM_Treasure.xml (523)
+[09/09/2024 22:42]  System: WorldMap markers loaded (3551)
+[09/09/2024 22:42]  System: Welcome Geodoro!
+[09/09/2024 22:42]  de naglostd: Legendarily Triggered
+[09/09/2024 22:42]  de naglostd: [Recruit, IDC]
+[09/09/2024 22:42]  de naglostd: Lord de naglostd
+[09/09/2024 22:42]  Caterpie: Caterpie
+[09/09/2024 22:42]  SkeletalDragon: (bonded)
+[09/09/2024 22:42]  SkeletalDragon: SkeletalDragon
+[09/09/2024 22:42]  an air drake: (bonded)
+[09/09/2024 22:42]  an air drake: an air drake
+[09/09/2024 22:42]  Mastishhh: Mastishhh
+[09/09/2024 22:42]  coachyardkitty: (tame)
+[09/09/2024 22:42]  coachyardkitty: coachyardkitty
+[09/09/2024 22:42]  ShinoTenshi: ShinoTenshi
+[09/09/2024 22:42]  Youranape: (bonded)
+[09/09/2024 22:42]  Youranape: Youranape
+[09/09/2024 22:42]  Ghazrilla: (bonded)
+[09/09/2024 22:42]  Ghazrilla: Ghazrilla
+[09/09/2024 22:42]  Gozzrilla: (bonded)
+[09/09/2024 22:42]  Gozzrilla: Gozzrilla
+[09/09/2024 22:42]  shelley: (bonded)
+[09/09/2024 22:42]  shelley: shelley
+[09/09/2024 22:42]  Calendonia: Calendonia the banker
+[09/09/2024 22:42]  Glenn: Glenn the banker
+[09/09/2024 22:42]  MissMoldyTomb: [Private First Class, TES]
+[09/09/2024 22:42]  MissMoldyTomb: MissMoldyTomb
+[09/09/2024 22:42]  DrizzyGlizzy: (bonded)
+[09/09/2024 22:42]  DrizzyGlizzy: DrizzyGlizzy
+[09/09/2024 22:42]  RickRossBoss: (bonded)
+[09/09/2024 22:42]  RickRossBoss: RickRossBoss
+[09/09/2024 22:42]  a dog: a dog
+[09/09/2024 22:42]  DyingOatmeal: DyingOatmeal
+[09/09/2024 22:42]  Ingmar: Ingmar the banker
+[09/09/2024 22:42]  building company: building company
+[09/09/2024 22:42]  Scuz Bucket: Scuz Bucket
+[09/09/2024 22:42]  Toxicum: Toxicum
+[09/09/2024 22:42]  Alodie: Alodie the banker
+[09/09/2024 22:42]  Beetlejuice-: Beetlejuice-
+[09/09/2024 22:42]  Aurelia: Aurelia the Town Crier
+[09/09/2024 22:42]  MonkeSmash: (bonded)
+[09/09/2024 22:42]  MonkeSmash: MonkeSmash
+[09/09/2024 22:42]  BloodiedMonke: (bonded)
+[09/09/2024 22:42]  BloodiedMonke: BloodiedMonke
+[09/09/2024 22:42]  ANTeater: (bonded)
+[09/09/2024 22:42]  ANTeater: ANTeater
+[09/09/2024 22:42]  gugutz: Pirate
+[09/09/2024 22:42]  gugutz: gugutz
+[09/09/2024 22:42]  Llewbach: [Aesir, ICON]
+[09/09/2024 22:42]  Llewbach: Llewbach
+[09/09/2024 22:42]  Mandrake Scream: Legend of Aspects
+[09/09/2024 22:42]  Mandrake Scream: Mandrake Scream
+[09/09/2024 22:42]  Kujjin: [Admiral, P.S.]
+[09/09/2024 22:42]  Kujjin: Kujjin
+[09/09/2024 22:42]  Jacking Jack: Jacking Jack
+[09/09/2024 22:42]  Derek Dauntless: [Ripe, SQzD]
+[09/09/2024 22:42]  Derek Dauntless: Derek Dauntless
+[09/09/2024 22:42]  Metralleta: Metralleta
+[09/09/2024 22:42]  II DaVinci II: [Private, L%C]
+[09/09/2024 22:42]  II DaVinci II: II DaVinci II
+[09/09/2024 22:42]  Surfrats: [Almost, RDY]
+[09/09/2024 22:42]  Surfrats: Surfrats
+[09/09/2024 22:42]  Kibosh Onec: Kibosh Onec
+[09/09/2024 22:42]  rRashin Toast: [Citizen, Yew]
+[09/09/2024 22:42]  rRashin Toast: rRashin Toast
+[09/09/2024 22:42]  coffee inc: coffee inc
+[09/09/2024 22:42]  Jakesh: Jakesh the Prevalian merchant
+[09/09/2024 22:42]  VanDamage: VanDamage
+[09/09/2024 22:42]  You see: the remains of Pythadinus
+[09/09/2024 22:42]  You see: the remains of emphy
+[09/09/2024 22:42]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/09/2024 22:42]  System: WorldMap loaded!
+[09/09/2024 22:42]  coachyardkitty: (tame)
+[09/09/2024 22:42]  coachyardkitty: coachyardkitty
+[09/09/2024 22:42]  MissMoldyTomb: All Guard
+[09/09/2024 22:42]  Dekato: Proficient
+[09/09/2024 22:42]  Dekato: [Wanderer, CFC]
+[09/09/2024 22:42]  Dekato: Dekato
+[09/09/2024 22:42]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:42]  coachyardkitty: (tame)
+[09/09/2024 22:42]  coachyardkitty: coachyardkitty
+[09/09/2024 22:42]  Joleene: Joleene
+[09/09/2024 22:42]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:43]  Rep: Lady Rep
+[09/09/2024 22:43]  DragonDzNutz: [Sea Dog, P.S.]
+[09/09/2024 22:43]  DragonDzNutz: DragonDzNutz
+[09/09/2024 22:43]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:43]  System: Campaneta has completed the achievement: Engineer (Advanced).
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  Steele Cunning: Transmuter
+[09/09/2024 22:43]  Steele Cunning: [New Player, NP$]
+[09/09/2024 22:43]  Steele Cunning: Steele Cunning
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:43]  Pickinlocks: [Grishord on Twitch, TWCH]
+[09/09/2024 22:43]  Pickinlocks: Pickinlocks
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:43]  You see: rental room credits deed
+[09/09/2024 22:43]  You see: (10,000 gold credit)
+[09/09/2024 22:43]  You see: [bound to Geodoro]
+[09/09/2024 22:43]  Blackhand Mike: Blackhand Mike
+[09/09/2024 22:43]  coachyardkitty: (tame)
+[09/09/2024 22:43]  coachyardkitty: coachyardkitty
+[09/09/2024 22:43]  You see: rental room credits deed
+[09/09/2024 22:43]  You see: (10,000 gold credit)
+[09/09/2024 22:43]  You see: [bound to Geodoro]
+[09/09/2024 22:43]  ZaXoDu EcJIu chE: Monstrous Slayer
+[09/09/2024 22:43]  ZaXoDu EcJIu chE: Lord ZaXoDu EcJIu chE
+[09/09/2024 22:43]  You see: training credits deed
+[09/09/2024 22:43]  You see: (500 credits remaining)
+[09/09/2024 22:43]  You see: [bound to Geodoro]
+[09/09/2024 22:43]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:44]  You see: backpack
+[09/09/2024 22:44]  You see: (7 items, 11 stones)
+[09/09/2024 22:44]  You see: backpack
+[09/09/2024 22:44]  You see: (7 items, 11 stones)
+[09/09/2024 22:44]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:44]  a sand muck: (bonded)
+[09/09/2024 22:44]  a sand muck: a sand muck
+[09/09/2024 22:44]  a sand muck: (bonded)
+[09/09/2024 22:44]  a sand muck: a sand muck
+[09/09/2024 22:44]  a sand muck: (bonded)
+[09/09/2024 22:44]  a sand muck: a sand muck
+[09/09/2024 22:44]  a sand muck: (bonded)
+[09/09/2024 22:44]  a sand muck: a sand muck
+[09/09/2024 22:44]  a sand muck: (bonded)
+[09/09/2024 22:44]  a sand muck: a sand muck
+[09/09/2024 22:44]  a sand muck: *regens*
+[09/09/2024 22:44]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:44]  Geodoro: bank room vendor buy
+[09/09/2024 22:44]  Geodoro: Items: 27/125
+[09/09/2024 22:44]  Geodoro: Total Weight: 64
+[09/09/2024 22:44]  Geodoro: Items: 27/125
+[09/09/2024 22:44]  Geodoro: Total Weight: 64
+[09/09/2024 22:44]  a sand muck: *regens*
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  queenofthepride: Kal Ort Por
+[09/09/2024 22:44]  queenofthepride: Seasoned Zoologist
+[09/09/2024 22:44]  queenofthepride: [Farm Around Find Out, DTF]
+[09/09/2024 22:44]  queenofthepride: Lady queenofthepride
+[09/09/2024 22:44]  You see: arcane essence : 688
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  Surfrats: [Almost, RDY]
+[09/09/2024 22:44]  Surfrats: Surfrats
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  Wheen: Wheen
+[09/09/2024 22:44]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  Wixa: [Recruit, TI]
+[09/09/2024 22:44]  Wixa: Wixa
+[09/09/2024 22:44]  Keyshawn: Keyshawn
+[09/09/2024 22:44]  System: Your campfire is now secure.
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:44]  DragonDzNutz: [Sea Dog, P.S.]
+[09/09/2024 22:44]  DragonDzNutz: DragonDzNutz
+[09/09/2024 22:44]  SkeletalDragon: (bonded)
+[09/09/2024 22:44]  SkeletalDragon: SkeletalDragon
+[09/09/2024 22:44]  an air drake: (bonded)
+[09/09/2024 22:44]  an air drake: an air drake
+[09/09/2024 22:44]  Caterpie: Caterpie
+[09/09/2024 22:44]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  GanjalfTheGreen: [Pirate, P.S.]
+[09/09/2024 22:44]  GanjalfTheGreen: GanjalfTheGreen
+[09/09/2024 22:44]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:44]  coachyardkitty: (tame)
+[09/09/2024 22:44]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/09/2024 22:45]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:45]  Hess Thundereye: Daemonic Slayer
+[09/09/2024 22:45]  Hess Thundereye: Lord Hess Thundereye
+[09/09/2024 22:45]  Lilikairy: Domesticator
+[09/09/2024 22:45]  Lilikairy: Lilikairy
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  LunaLove: [Lost in Time, NEW!]
+[09/09/2024 22:45]  LunaLove: LunaLove
+[09/09/2024 22:45]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  Marlenia: Triggered
+[09/09/2024 22:45]  Marlenia: Lady Marlenia
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:45]  Marlenia: Triggered
+[09/09/2024 22:45]  Marlenia: Lady Marlenia
+[09/09/2024 22:45]  Jaimito: Jaimito
+[09/09/2024 22:45]  Tia Rosi: [Keeper Of Lies], [D^O]
+[09/09/2024 22:45]  Tia Rosi: Tia Rosi
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:45]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:45]  Tia Rosi: [Keeper Of Lies], [D^O]
+[09/09/2024 22:45]  Tia Rosi: Tia Rosi
+[09/09/2024 22:45]  Teguz: Teguz
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  Jaimito: Jaimito
+[09/09/2024 22:45]  Seduction: Roll Player
+[09/09/2024 22:45]  Seduction: [Private, G.G]
+[09/09/2024 22:45]  Seduction: Seduction
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  Porba: [Rookie, NKB]
+[09/09/2024 22:45]  Porba: Porba
+[09/09/2024 22:45]  Four Loko: Four Loko
+[09/09/2024 22:45]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:45]  Matralus: [Druid, BEAR]
+[09/09/2024 22:45]  Matralus: Matralus
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  a pack llama: (tame)
+[09/09/2024 22:45]  a pack llama: [0/2000 stones]
+[09/09/2024 22:45]  a pack llama: a pack llama
+[09/09/2024 22:45]  Glenn: Your gold balance is 29,061.
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  Dolangue: [FUMO]
+[09/09/2024 22:45]  Dolangue: Dolangue
+[09/09/2024 22:45]  F l a w e D: Legend of Aspects
+[09/09/2024 22:45]  F l a w e D: [Guildmaster, vD]
+[09/09/2024 22:45]  F l a w e D: Lord F l a w e D
+[09/09/2024 22:45]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  Mezisto: Wilderness Hero
+[09/09/2024 22:45]  Mezisto: [Sulu, AWN]
+[09/09/2024 22:45]  Mezisto: Lord Mezisto
+[09/09/2024 22:45]  coachyardkitty: (tame)
+[09/09/2024 22:45]  coachyardkitty: coachyardkitty
+[09/09/2024 22:45]  Dolangue: [FUMO]
+[09/09/2024 22:45]  Dolangue: Dolangue
+[09/09/2024 22:46]  coachyardkitty: (tame)
+[09/09/2024 22:46]  coachyardkitty: coachyardkitty
+[09/09/2024 22:46]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:46]  Jaimito: Jaimito
+[09/09/2024 22:46]  coachyardkitty: (tame)
+[09/09/2024 22:46]  coachyardkitty: coachyardkitty
+[09/09/2024 22:46]  Jaimito: Jaimito
+[09/09/2024 22:46]  Fraggles: Relic Hunter
+[09/09/2024 22:46]  Fraggles: Fraggles
+[09/09/2024 22:46]  coachyardkitty: (tame)
+[09/09/2024 22:46]  coachyardkitty: coachyardkitty
+[09/09/2024 22:46]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:46]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:46]  ZaXoDu EcJIu chE: Monstrous Slayer
+[09/09/2024 22:46]  ZaXoDu EcJIu chE: Lord ZaXoDu EcJIu chE
+[09/09/2024 22:46]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:46]  a dog: a dog
+[09/09/2024 22:46]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:46]  Jaimito: Bank Room Vendor buy
+[09/09/2024 22:46]  coachyardkitty: (tame)
+[09/09/2024 22:46]  coachyardkitty: coachyardkitty
+[09/09/2024 22:46]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:46]  a dog: a dog
+[09/09/2024 22:46]  coachyardkitty: (tame)
+[09/09/2024 22:46]  coachyardkitty: coachyardkitty
+[09/09/2024 22:46]  Hatefull: Hatefull
+[09/09/2024 22:46]  Fero Reign: Fero Reign
+[09/09/2024 22:46]  Artross: Artross
+[09/09/2024 22:46]  MacDaddySlim: MacDaddySlim
+[09/09/2024 22:46]  System: TheCarver has completed the achievement: Order of Armorers Patrician.
+[09/09/2024 22:46]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:46]  System: Azrael has registered an antiquity: Infernal Ring
+[09/09/2024 22:46]  coachyardkitty: (tame)
+[09/09/2024 22:46]  coachyardkitty: coachyardkitty
+[09/09/2024 22:46]  a horse: (tame)
+[09/09/2024 22:46]  a horse: a horse
+[09/09/2024 22:46]  Stabadabado: Stabadabado
+[09/09/2024 22:46]  Mhalachai: Mhalachai
+[09/09/2024 22:46]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:46]  coachyardkitty: (tame)
+[09/09/2024 22:46]  coachyardkitty: coachyardkitty
+[09/09/2024 22:46]  You see: chainmail coif
+[09/09/2024 22:46]  You see: chainmail gorget
+[09/09/2024 22:46]  coachyardkitty: (tame)
+[09/09/2024 22:46]  coachyardkitty: coachyardkitty
+[09/09/2024 22:46]  Stabadabado: Stabadabado
+[09/09/2024 22:46]  Idorn: [Citizen, T^C]
+[09/09/2024 22:46]  Idorn: Idorn
+[09/09/2024 22:46]  coachyardkitty: (tame)
+[09/09/2024 22:46]  coachyardkitty: coachyardkitty
+[09/09/2024 22:46]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:47]  Seduction: Roll Player
+[09/09/2024 22:47]  Seduction: [Private, G.G]
+[09/09/2024 22:47]  Seduction: Seduction
+[09/09/2024 22:47]  Fero Reign: Fero Reign
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  You see: unidentified rampart crossbow
+[09/09/2024 22:47]  System: Midget Gem has registered an antiquity: Golden Ophidian Statue
+[09/09/2024 22:47]  Von Fusrtenburg: Von Fusrtenburg
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  Porba: [Rookie, NKB]
+[09/09/2024 22:47]  Porba: Porba
+[09/09/2024 22:47]  Anya: Peerless Gladiator
+[09/09/2024 22:47]  Anya: [RDY]
+[09/09/2024 22:47]  Anya: Lady Anya
+[09/09/2024 22:47]  a lich: (summoned)
+[09/09/2024 22:47]  a lich: a lich
+[09/09/2024 22:47]  an ancient mummy: (summoned)
+[09/09/2024 22:47]  an ancient mummy: an ancient mummy
+[09/09/2024 22:47]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:47]  Zephyra: [Private First Class, TES]
+[09/09/2024 22:47]  Zephyra: Zephyra
+[09/09/2024 22:47]  Bigginn: (bonded)
+[09/09/2024 22:47]  Bigginn: Bigginn
+[09/09/2024 22:47]  a giant locust: (tame)
+[09/09/2024 22:47]  a giant locust: a giant locust
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  Bock l'Orc: [Member, LEET]
+[09/09/2024 22:47]  Bock l'Orc: Bock l'Orc
+[09/09/2024 22:47]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:47]  an ancient mummy: *regens*
+[09/09/2024 22:47]  Bock l'Orc: bank
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:47]  Zephyra: [Private First Class, TES]
+[09/09/2024 22:47]  Zephyra: Zephyra
+[09/09/2024 22:47]  Bigginn: (bonded)
+[09/09/2024 22:47]  Bigginn: Bigginn
+[09/09/2024 22:47]  a giant locust: (tame)
+[09/09/2024 22:47]  a giant locust: a giant locust
+[09/09/2024 22:47]  of Gore: of Gore
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  an aegis imp: (bonded)
+[09/09/2024 22:47]  an aegis imp: an aegis imp
+[09/09/2024 22:47]  an aegis imp: (bonded)
+[09/09/2024 22:47]  an aegis imp: an aegis imp
+[09/09/2024 22:47]  an aegis imp: (bonded)
+[09/09/2024 22:47]  an aegis imp: an aegis imp
+[09/09/2024 22:47]  sadtfgsg: (bonded)
+[09/09/2024 22:47]  sadtfgsg: sadtfgsg
+[09/09/2024 22:47]  an aegis imp: (bonded)
+[09/09/2024 22:47]  an aegis imp: an aegis imp
+[09/09/2024 22:47]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:47]  a dog: a dog
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  Zephyra: [Private First Class, TES]
+[09/09/2024 22:47]  Zephyra: Zephyra
+[09/09/2024 22:47]  Bigginn: (bonded)
+[09/09/2024 22:47]  Bigginn: Bigginn
+[09/09/2024 22:47]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:47]  Donkamingo: Donkamingo
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:47]  You see: blank scroll : 2
+[09/09/2024 22:47]  You see: the remains of emphy
+[09/09/2024 22:47]  of Gore: of Gore
+[09/09/2024 22:47]  an ancient mummy: *regens*
+[09/09/2024 22:47]  an aegis imp: (bonded)
+[09/09/2024 22:47]  an aegis imp: an aegis imp
+[09/09/2024 22:47]  an aegis imp: (bonded)
+[09/09/2024 22:47]  an aegis imp: an aegis imp
+[09/09/2024 22:47]  an aegis imp: (bonded)
+[09/09/2024 22:47]  an aegis imp: an aegis imp
+[09/09/2024 22:47]  sadtfgsg: (bonded)
+[09/09/2024 22:47]  sadtfgsg: sadtfgsg
+[09/09/2024 22:47]  an aegis imp: (bonded)
+[09/09/2024 22:47]  an aegis imp: an aegis imp
+[09/09/2024 22:47]  coachyardkitty: (tame)
+[09/09/2024 22:47]  coachyardkitty: coachyardkitty
+[09/09/2024 22:48]  coachyardkitty: (tame)
+[09/09/2024 22:48]  coachyardkitty: coachyardkitty
+[09/09/2024 22:48]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:48]  coachyardkitty: (tame)
+[09/09/2024 22:48]  coachyardkitty: coachyardkitty
+[09/09/2024 22:48]  Alexi ZephyrMage: [Druid, BEAR]
+[09/09/2024 22:48]  Alexi ZephyrMage: Alexi ZephyrMage
+[09/09/2024 22:48]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:48]  Alodie: Your gold balance is 1,750.
+[09/09/2024 22:48]  You see: extremely common seed
+[09/09/2024 22:48]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:48]  Mhalachai: Mhalachai
+[09/09/2024 22:48]  coachyardkitty: (tame)
+[09/09/2024 22:48]  coachyardkitty: coachyardkitty
+[09/09/2024 22:48]  coachyardkitty: (tame)
+[09/09/2024 22:48]  coachyardkitty: coachyardkitty
+[09/09/2024 22:48]  You see: scissors
+[09/09/2024 22:48]  You see: [blessed]
+[09/09/2024 22:48]  coachyardkitty: (tame)
+[09/09/2024 22:48]  coachyardkitty: coachyardkitty
+[09/09/2024 22:48]  Jack The Dieu: Wilderness Guardian [Andaria]
+[09/09/2024 22:48]  Jack The Dieu: [Runner, PKs]
+[09/09/2024 22:48]  Jack The Dieu: Lord Jack The Dieu
+[09/09/2024 22:48]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:48]  SpeedStarr: Elite Mercenary [Cambria]
+[09/09/2024 22:48]  SpeedStarr: [LEET]
+[09/09/2024 22:48]  SpeedStarr: SpeedStarr
+[09/09/2024 22:48]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:48]  Emperor Shredder: Emperor Shredder
+[09/09/2024 22:48]  You see: ruin great bow
+[09/09/2024 22:48]  You see: might bow
+[09/09/2024 22:48]  DaSkink: DaSkink
+[09/09/2024 22:48]  coachyardkitty: (tame)
+[09/09/2024 22:48]  coachyardkitty: coachyardkitty
+[09/09/2024 22:48]  DaSkink: bank
+[09/09/2024 22:48]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:48]  Redeye Jedi: [Private First Class, TES]
+[09/09/2024 22:48]  Redeye Jedi: Lord Redeye Jedi
+[09/09/2024 22:48]  Sekhzerul: [Praetor, -_-]
+[09/09/2024 22:48]  Sekhzerul: Sekhzerul
+[09/09/2024 22:48]  coachyardkitty: (tame)
+[09/09/2024 22:48]  coachyardkitty: coachyardkitty
+[09/09/2024 22:48]  Emperor Shredder: Emperor Shredder
+[09/09/2024 22:48]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:48]  You see: training credits deed
+[09/09/2024 22:48]  You see: (500 credits remaining)
+[09/09/2024 22:48]  You see: [bound to Geodoro]
+[09/09/2024 22:48]  coachyardkitty: (tame)
+[09/09/2024 22:48]  coachyardkitty: coachyardkitty
+[09/09/2024 22:48]  : bench
+[09/09/2024 22:48]  Geodoro: Geodoro
+[09/09/2024 22:48]  You see: bag
+[09/09/2024 22:48]  You see: (9 items, 25 stones)
+[09/09/2024 22:48]  coachyardkitty: (tame)
+[09/09/2024 22:48]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  Alexi ZephyrMage: [Druid, BEAR]
+[09/09/2024 22:49]  Alexi ZephyrMage: Alexi ZephyrMage
+[09/09/2024 22:49]  a water elemental: (summoned)
+[09/09/2024 22:49]  a water elemental: a water elemental
+[09/09/2024 22:49]  AlexiPackhorse: (tame)
+[09/09/2024 22:49]  AlexiPackhorse: [0/2000 stones]
+[09/09/2024 22:49]  AlexiPackhorse: AlexiPackhorse
+[09/09/2024 22:49]  slapinator: Landowner
+[09/09/2024 22:49]  slapinator: [Veteran, IDC]
+[09/09/2024 22:49]  slapinator: slapinator
+[09/09/2024 22:49]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:49]  Canuckles: [Prankster, O|P]
+[09/09/2024 22:49]  Canuckles: Canuckles
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  Jimmy Jack: [Hostile Miner, HOST]
+[09/09/2024 22:49]  Jimmy Jack: Jimmy Jack
+[09/09/2024 22:49]  Redeye Jedi: [Private First Class, TES]
+[09/09/2024 22:49]  Redeye Jedi: Lord Redeye Jedi
+[09/09/2024 22:49]  Redeye Jedi: Bank Room I ban thee guards
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  Blackhand Mike: Blackhand Mike
+[09/09/2024 22:49]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:49]  Mhalachai: Mhalachai
+[09/09/2024 22:49]  a dog: a dog
+[09/09/2024 22:49]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:49]  bytheway: [Keeper Of Lies], [D^O]
+[09/09/2024 22:49]  bytheway: bytheway
+[09/09/2024 22:49]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:49]  Your wife: Legendary Domesticator
+[09/09/2024 22:49]  Your wife: [Yew]
+[09/09/2024 22:49]  Your wife: Lady Your wife
+[09/09/2024 22:49]  Wheen: Wheen
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  Hatefull: Hatefull
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:49]  Jaimito: Kal Ort Por
+[09/09/2024 22:49]  ZaXoDu EcJIu chE: Monstrous Slayer
+[09/09/2024 22:49]  ZaXoDu EcJIu chE: Lord ZaXoDu EcJIu chE
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  coachyardkitty: (tame)
+[09/09/2024 22:49]  coachyardkitty: coachyardkitty
+[09/09/2024 22:49]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:49]  ZaXoDu EcJIu chE: Monstrous Slayer
+[09/09/2024 22:49]  ZaXoDu EcJIu chE: Lord ZaXoDu EcJIu chE
+[09/09/2024 22:50]  Xurian: Mount Petram Guardian
+[09/09/2024 22:50]  Xurian: [WUMN]
+[09/09/2024 22:50]  Xurian: Lord Xurian
+[09/09/2024 22:50]  Grill u Gawrona: Grill u Gawrona
+[09/09/2024 22:50]  ZaXoDu EcJIu chE: Monstrous Slayer
+[09/09/2024 22:50]  ZaXoDu EcJIu chE: Lord ZaXoDu EcJIu chE
+[09/09/2024 22:50]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:50]  Pythadinus: Pythadinus
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  Bunzy: Bunzy
+[09/09/2024 22:50]  Teguz: Teguz
+[09/09/2024 22:50]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:50]  Longinus: Longinus
+[09/09/2024 22:50]  Giftmanden: [Ripe, SQzD]
+[09/09/2024 22:50]  Giftmanden: Giftmanden
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:50]  Handy Omen: Legendary Alchemist
+[09/09/2024 22:50]  Handy Omen: Handy Omen
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  Ingmar: Your gold balance is 133,966.
+[09/09/2024 22:50]  Calendonia: Your gold balance is 133,966.
+[09/09/2024 22:50]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:50]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  System: AbiliTree has completed the achievement: Artificers Enclave Initiate.
+[09/09/2024 22:50]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:50]  I Have No Legs: Legendary Daemonic Slayer
+[09/09/2024 22:50]  I Have No Legs: [Juicy AF, SQzD]
+[09/09/2024 22:50]  I Have No Legs: Lord I Have No Legs
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  I Have No Legs: withdraw 500
+[09/09/2024 22:50]  Ingmar: Thou hast withdrawn 500 gold.
+[09/09/2024 22:50]  Alodie: Thou hast withdrawn 500 gold.
+[09/09/2024 22:50]  Glenn: Thou hast withdrawn 500 gold.
+[09/09/2024 22:50]  a dog: a dog
+[09/09/2024 22:50]  coachyardkitty: (tame)
+[09/09/2024 22:50]  coachyardkitty: coachyardkitty
+[09/09/2024 22:50]  Grill u Gawrona: Grill u Gawrona
+[09/09/2024 22:51]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  Phantom Agony: Transmuter
+[09/09/2024 22:51]  Phantom Agony: [Simple, Smp]
+[09/09/2024 22:51]  Phantom Agony: Phantom Agony
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  Bunzy: Bunzy
+[09/09/2024 22:51]  Phantom Agony: bank
+[09/09/2024 22:51]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  Idorn: [Citizen, T^C]
+[09/09/2024 22:51]  Idorn: Idorn
+[09/09/2024 22:51]  The Shocker: The Shocker
+[09/09/2024 22:51]  mooilk: [GNU/Linux evangelist, OLNX]
+[09/09/2024 22:51]  mooilk: mooilk
+[09/09/2024 22:51]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:51]  Landry: [Squire, Sir.]
+[09/09/2024 22:51]  Landry: Landry
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:51]  Calendonia: Thou hast withdrawn 500 gold.
+[09/09/2024 22:51]  Teguz: Teguz
+[09/09/2024 22:51]  an air drake: (bonded)
+[09/09/2024 22:51]  an air drake: an air drake
+[09/09/2024 22:51]  MrDragon: (bonded)
+[09/09/2024 22:51]  MrDragon: MrDragon
+[09/09/2024 22:51]  DragonDzNutz: [Sea Dog, P.S.]
+[09/09/2024 22:51]  DragonDzNutz: DragonDzNutz
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  The Shocker: bank
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  Giftmanden: [Ripe, SQzD]
+[09/09/2024 22:51]  Giftmanden: Giftmanden
+[09/09/2024 22:51]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:51]  I Have No Legs: Legendary Daemonic Slayer
+[09/09/2024 22:51]  I Have No Legs: [Juicy AF, SQzD]
+[09/09/2024 22:51]  I Have No Legs: Lord I Have No Legs
+[09/09/2024 22:51]  Giftmanden: bank
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  DImalex: DImalex
+[09/09/2024 22:51]  I Have No Legs: Legendary Daemonic Slayer
+[09/09/2024 22:51]  I Have No Legs: [Juicy AF, SQzD]
+[09/09/2024 22:51]  I Have No Legs: Lord I Have No Legs
+[09/09/2024 22:51]  Skoll the Mad: Skoll the Mad
+[09/09/2024 22:51]  Keyshawn: Keyshawn
+[09/09/2024 22:51]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  coachyardkitty: (tame)
+[09/09/2024 22:51]  coachyardkitty: coachyardkitty
+[09/09/2024 22:51]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/09/2024 22:51]  Bunzy: *hiking to destination*
+[09/09/2024 22:51]  System: The world will save in 15 seconds.
+[09/09/2024 22:52]  coachyardkitty: (tame)
+[09/09/2024 22:52]  coachyardkitty: coachyardkitty
+[09/09/2024 22:52]  Bunzy: *hiking to destination*
+[09/09/2024 22:52]  Bunzy: *hiking to destination*
+[09/09/2024 22:52]  Giftmanden: [Ripe, SQzD]
+[09/09/2024 22:52]  Giftmanden: Giftmanden
+[09/09/2024 22:52]  Mary Jo Harper: [Veteran, NWO]
+[09/09/2024 22:52]  Mary Jo Harper: Lady Mary Jo Harper
+[09/09/2024 22:52]  coachyardkitty: (tame)
+[09/09/2024 22:52]  coachyardkitty: coachyardkitty
+[09/09/2024 22:52]  Kutik: Mythical Loremaster
+[09/09/2024 22:52]  Kutik: [Veteran, AOG]
+[09/09/2024 22:52]  Kutik: Lord Kutik
+[09/09/2024 22:52]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/09/2024 22:52]  Nicolai IV: [Member, NC]
+[09/09/2024 22:52]  Nicolai IV: Nicolai IV
+[09/09/2024 22:52]  coachyardkitty: (tame)
+[09/09/2024 22:52]  coachyardkitty: coachyardkitty
+[09/09/2024 22:52]  System: The world is saving, please wait.
+[09/09/2024 22:52]  System: World save complete. The entire process took 2.5 seconds.
+[09/09/2024 22:52]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/09/2024 22:52]  Grill u Gawrona: Grill u Gawrona

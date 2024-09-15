@@ -1,0 +1,11 @@
+removelist containerIDS
+createlist containerIDS
+pushlist containerIDS 2472 back
+pushlist containerIDS 3702 back
+
+foreach container in containerIDS
+    if findtype container ground -1 -1 5 as container
+        dclick container
+        wait 500
+    endif
+endfor

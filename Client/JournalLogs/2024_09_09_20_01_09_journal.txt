@@ -1,0 +1,2458 @@
+[09/09/2024 20:01]  System: WorldMap loading...
+[09/09/2024 20:01]  System: Loading WorldMap markers..
+[09/09/2024 20:01]  System: ..Banks_and_Healers.xml (39)
+[09/09/2024 20:01]  System: ..Dungeons.xml (13)
+[09/09/2024 20:01]  System: ..Dungeon_Gates.xml (388)
+[09/09/2024 20:01]  System: ..Healer_Caravans.xml (42)
+[09/09/2024 20:01]  System: ..Kings_Faire.xml (49)
+[09/09/2024 20:01]  System: ..Moongates.xml (10)
+[09/09/2024 20:01]  System: ..POI.xml (251)
+[09/09/2024 20:01]  System: ..PvP_Locations.xml (71)
+[09/09/2024 20:01]  System: ..Shrines.xml (9)
+[09/09/2024 20:01]  System: ..Sub-Dungeons.xml (4)
+[09/09/2024 20:01]  System: ..Townships.xml (10)
+[09/09/2024 20:01]  System: ..UOAM_Atlas.xml (1887)
+[09/09/2024 20:01]  System: ..UOAM_T-Map.xml (255)
+[09/09/2024 20:01]  System: ..UOAM_Treasure.xml (523)
+[09/09/2024 20:01]  System: WorldMap markers loaded (3551)
+[09/09/2024 20:01]  System: Welcome Fierro!
+[09/09/2024 20:01]  Fierro: Fierro (Young)
+[09/09/2024 20:01]  Brentan: Brentan the miner
+[09/09/2024 20:01]  U Me: U Me
+[09/09/2024 20:01]  Carol: Carol the miner
+[09/09/2024 20:01]  Mercedes: Mercedes the ranger
+[09/09/2024 20:01]  Sassy Lumberjack: Sassy Lumberjack
+[09/09/2024 20:01]  Olivetii: Olivetii
+[09/09/2024 20:01]  Lunette Dawnstar: Legendary Weaponmaster
+[09/09/2024 20:01]  Lunette Dawnstar: [As Seen on Discord, DTF]
+[09/09/2024 20:01]  Lunette Dawnstar: Lady Lunette Dawnstar
+[09/09/2024 20:01]  Tessie Gatherer: Tessie Gatherer (Young)
+[09/09/2024 20:01]  a pack llama: (tame)
+[09/09/2024 20:01]  a pack llama: [1770/2000 stones]
+[09/09/2024 20:01]  a pack llama: a pack llama
+[09/09/2024 20:01]  Yunuguk'yug: [orq]
+[09/09/2024 20:01]  Yunuguk'yug: Yunuguk'yug
+[09/09/2024 20:01]  SnowFox: Pirate
+[09/09/2024 20:01]  SnowFox: [NVOS, DoK]
+[09/09/2024 20:01]  SnowFox: Lady SnowFox
+[09/09/2024 20:01]  Crazy Legs: [Elite, NC]
+[09/09/2024 20:01]  Crazy Legs: Lord Crazy Legs
+[09/09/2024 20:01]  Arbitrage: [Super Prankster, O|P]
+[09/09/2024 20:01]  Arbitrage: Arbitrage
+[09/09/2024 20:01]  Benzo Snake: [Druid, BEAR]
+[09/09/2024 20:01]  Benzo Snake: Lord Benzo Snake
+[09/09/2024 20:01]  a swashbuckler: Pirate
+[09/09/2024 20:01]  a swashbuckler: [DoK]
+[09/09/2024 20:01]  a swashbuckler: a swashbuckler
+[09/09/2024 20:01]  Wanda: Wanda the blacksmith
+[09/09/2024 20:01]  Bilbo Stabbins: [J. Phoenix, OFP]
+[09/09/2024 20:01]  Bilbo Stabbins: Bilbo Stabbins
+[09/09/2024 20:01]  JoStone: Legendary Paragon Hunter
+[09/09/2024 20:01]  JoStone: [Legendary Bard, OFP]
+[09/09/2024 20:01]  JoStone: Lady JoStone
+[09/09/2024 20:01]  Crystal: Crystal the tinker
+[09/09/2024 20:01]  Thalid: Legendarily Colorful
+[09/09/2024 20:01]  Thalid: [Aegis HO, DOPE]
+[09/09/2024 20:01]  Thalid: Lord Thalid
+[09/09/2024 20:01]  Selina: Selina the jeweler
+[09/09/2024 20:01]  Vreto: Vreto
+[09/09/2024 20:01]  System: WorldMap loaded!
+[09/09/2024 20:01]  [Razor]: Finished 3 queued actions in 1.3 seconds.
+[09/09/2024 20:01]  System: Captcha successful.
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:01]  jaji: jaji (Young)
+[09/09/2024 20:01]  Chilly.X: Wizard
+[09/09/2024 20:01]  Chilly.X: [The Dream, Team]
+[09/09/2024 20:01]  Chilly.X: Lord Chilly.X
+[09/09/2024 20:01]  Olympia: Skinner
+[09/09/2024 20:01]  Olympia: Olympia
+[09/09/2024 20:01]  Cayk: Legendary Boss Slayer
+[09/09/2024 20:01]  Cayk: [Veteran, AOG]
+[09/09/2024 20:01]  Cayk: Lord Cayk
+[09/09/2024 20:01]  Khyrll: Aegis Keep Guardian
+[09/09/2024 20:01]  Khyrll: [Simple, Smp]
+[09/09/2024 20:01]  Khyrll: Lord Khyrll
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:01]  Razor: |> iron ore : 31 <|
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:01]  Razor: |> iron ore : 32 <|
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:01]  System: Worm Rapier has completed the achievement: Connoisseur (Basic).
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:01]  System: You must wait to perform another action.
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:01]  BateFofo: BateFofo (Young)
+[09/09/2024 20:01]  Razor: |> iron ore : 33 <|
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:01]  BateFofo: BateFofo (Young)
+[09/09/2024 20:01]  Olympia: Skinner
+[09/09/2024 20:01]  Olympia: Olympia
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:01]  Razor: |> iron ore : 34 <|
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:01]  System: Not'Me has completed the achievement: Wilderness Hunter (Basic).
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:01]  Razor: |> iron ore : 35 <|
+[09/09/2024 20:01]  System: Mining skillgain: 2.355%
+[09/09/2024 20:01]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:02]  Razor: |> iron ore : 36 <|
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  Olympia: Skinner
+[09/09/2024 20:02]  Olympia: Olympia
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:02]  Razor: |> iron ore : 37 <|
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  Chilly.X: Wizard
+[09/09/2024 20:02]  Chilly.X: [The Dream, Team]
+[09/09/2024 20:02]  Chilly.X: Lord Chilly.X
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  Noomli: Noomli
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  BateFofo: BateFofo (Young)
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  Brentan: Brentan the miner
+[09/09/2024 20:02]  SnowFox: Pirate
+[09/09/2024 20:02]  SnowFox: [NVOS, DoK]
+[09/09/2024 20:02]  SnowFox: Lady SnowFox
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  shoes: shoes
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  Dooble: [Tets Mall, CFC]
+[09/09/2024 20:02]  Dooble: Dooble
+[09/09/2024 20:02]  Requies: Scientist
+[09/09/2024 20:02]  Requies: [TRT]
+[09/09/2024 20:02]  Requies: Requies
+[09/09/2024 20:02]  Favstvs: Artificer Dignitary
+[09/09/2024 20:02]  Favstvs: [Veteran, Syn]
+[09/09/2024 20:02]  Favstvs: Favstvs
+[09/09/2024 20:02]  Moosebear: Moosebear
+[09/09/2024 20:02]  Floorskin: Skinner
+[09/09/2024 20:02]  Floorskin: Floorskin
+[09/09/2024 20:02]  Trancoso-Jarbas: Trancoso-Jarbas
+[09/09/2024 20:02]  COACHYARD LLC: Legendary Scribe
+[09/09/2024 20:02]  COACHYARD LLC: COACHYARD LLC
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  Crystal: Crystal the tinker
+[09/09/2024 20:02]  Selina: Selina the jeweler
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  shoes: shoes
+[09/09/2024 20:02]  Olympia: Skinner
+[09/09/2024 20:02]  Olympia: Olympia
+[09/09/2024 20:02]  Requies: Scientist
+[09/09/2024 20:02]  Requies: [TRT]
+[09/09/2024 20:02]  Requies: Requies
+[09/09/2024 20:02]  Favstvs: Artificer Dignitary
+[09/09/2024 20:02]  Favstvs: [Veteran, Syn]
+[09/09/2024 20:02]  Favstvs: Favstvs
+[09/09/2024 20:02]  Moosebear: Moosebear
+[09/09/2024 20:02]  Floorskin: Skinner
+[09/09/2024 20:02]  Floorskin: Floorskin
+[09/09/2024 20:02]  Trancoso-Jarbas: Trancoso-Jarbas
+[09/09/2024 20:02]  COACHYARD LLC: Legendary Scribe
+[09/09/2024 20:02]  COACHYARD LLC: COACHYARD LLC
+[09/09/2024 20:02]  SnowFox: Pirate
+[09/09/2024 20:02]  SnowFox: [NVOS, DoK]
+[09/09/2024 20:02]  SnowFox: Lady SnowFox
+[09/09/2024 20:02]  BateFofo: BateFofo (Young)
+[09/09/2024 20:02]  Dead Skin Mask: Wizard
+[09/09/2024 20:02]  Dead Skin Mask: Lord Dead Skin Mask
+[09/09/2024 20:02]  Carol: Carol the miner
+[09/09/2024 20:02]  Oh Peaches: [Concierge, Inn]
+[09/09/2024 20:02]  Oh Peaches: Oh Peaches
+[09/09/2024 20:02]  Dooble: [Tets Mall, CFC]
+[09/09/2024 20:02]  Dooble: Dooble
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  U Me: U Me
+[09/09/2024 20:02]  Yunuguk'yug: [orq]
+[09/09/2024 20:02]  Yunuguk'yug: Yunuguk'yug
+[09/09/2024 20:02]  Brentan: Brentan the miner
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  Heffeestis: Heffeestis (Young)
+[09/09/2024 20:02]  Generic Pickman: Tomb Raider
+[09/09/2024 20:02]  Generic Pickman: [Officer, BSK]
+[09/09/2024 20:02]  Generic Pickman: Lord Generic Pickman
+[09/09/2024 20:02]  Macy: [Private, G.G]
+[09/09/2024 20:02]  Macy: Macy
+[09/09/2024 20:02]  Dirt Mc.Girt: [1CE]
+[09/09/2024 20:02]  Dirt Mc.Girt: Dirt Mc.Girt
+[09/09/2024 20:02]  Marlen: Marlen
+[09/09/2024 20:02]  Chillstrand: [Private, G.G]
+[09/09/2024 20:02]  Chillstrand: Chillstrand
+[09/09/2024 20:02]  Dignson: Dignson
+[09/09/2024 20:02]  Bobby Possumcods: Affluent
+[09/09/2024 20:02]  Bobby Possumcods: [Im A, BOSS]
+[09/09/2024 20:02]  Bobby Possumcods: Lord Bobby Possumcods
+[09/09/2024 20:02]  Legasus: [Officer, ViPs]
+[09/09/2024 20:02]  Legasus: Legasus
+[09/09/2024 20:02]  MasterGater OG: MasterGater OG
+[09/09/2024 20:02]  Pacificator: Pacificator
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  Oh Peaches: [Concierge, Inn]
+[09/09/2024 20:02]  Oh Peaches: Oh Peaches
+[09/09/2024 20:02]  a prevalian mage: Legendary Scribe
+[09/09/2024 20:02]  a prevalian mage: a prevalian mage
+[09/09/2024 20:02]  A Sillyy Goose: [Senior Officer, TES]
+[09/09/2024 20:02]  A Sillyy Goose: A Sillyy Goose
+[09/09/2024 20:02]  KhalsLibrary: (bonded)
+[09/09/2024 20:02]  KhalsLibrary: KhalsLibrary
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:02]  Walter Gater: Walter Gater
+[09/09/2024 20:02]  Uber Blue Light: [Teetotaler, NDA]
+[09/09/2024 20:02]  Uber Blue Light: Uber Blue Light
+[09/09/2024 20:02]  Razor: *** Resource depleted ***
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  Spamson: Artificer
+[09/09/2024 20:02]  Spamson: [Guildmaster, FOU]
+[09/09/2024 20:02]  Spamson: Lord Spamson
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  Spamson: Artificer
+[09/09/2024 20:02]  Spamson: [Guildmaster, FOU]
+[09/09/2024 20:02]  Spamson: Lord Spamson
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:02]  System: Mining skillgain: 2.355%
+[09/09/2024 20:02]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:03]  Razor: |> iron ore : 38 <|
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:03]  Razor: |> iron ore : 39 <|
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:03]  Razor: |> iron ore : 40 <|
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:03]  Razor: |> iron ore : 41 <|
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:03]  Razor: |> iron ore : 42 <|
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:03]  Razor: |> iron ore : 43 <|
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:03]  Ainhazard: [Hostile Peasant, HOST]
+[09/09/2024 20:03]  Ainhazard: Ainhazard
+[09/09/2024 20:03]  System: Mining skillgain: 2.355%
+[09/09/2024 20:03]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:03]  Razor: |> iron ore : 44 <|
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Alkur: Alkur
+[09/09/2024 20:03]  Chiketckuki: [the, help]
+[09/09/2024 20:03]  Chiketckuki: Chiketckuki
+[09/09/2024 20:03]  Heffeestis: Heffeestis (Young)
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Legasus: [Officer, ViPs]
+[09/09/2024 20:03]  Legasus: Legasus
+[09/09/2024 20:03]  Argus: Argus the guard
+[09/09/2024 20:03]  a pack horse: (tame)
+[09/09/2024 20:03]  a pack horse: [5/2000 stones]
+[09/09/2024 20:03]  a pack horse: a pack horse
+[09/09/2024 20:03]  MasterGater OG: MasterGater OG
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  a hind: a hind
+[09/09/2024 20:03]  a hind: a hind
+[09/09/2024 20:03]  an eagle: an eagle
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Dooble: [Tets Mall, CFC]
+[09/09/2024 20:03]  Dooble: Dooble
+[09/09/2024 20:03]  Dead Skin Mask: Wizard
+[09/09/2024 20:03]  Dead Skin Mask: Lord Dead Skin Mask
+[09/09/2024 20:03]  BateFofo: BateFofo (Young)
+[09/09/2024 20:03]  Carol: Carol the miner
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Heffeestis: Heffeestis (Young)
+[09/09/2024 20:03]  a prevalian mage: Legendary Scribe
+[09/09/2024 20:03]  a prevalian mage: a prevalian mage
+[09/09/2024 20:03]  KhalsLibrary: (bonded)
+[09/09/2024 20:03]  KhalsLibrary: KhalsLibrary
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Pacificator: Pacificator
+[09/09/2024 20:03]  Dirt Mc.Girt: [1CE]
+[09/09/2024 20:03]  Dirt Mc.Girt: Dirt Mc.Girt
+[09/09/2024 20:03]  Marlen: Marlen
+[09/09/2024 20:03]  Chillstrand: [Private, G.G]
+[09/09/2024 20:03]  Chillstrand: Chillstrand
+[09/09/2024 20:03]  Dignson: Dignson
+[09/09/2024 20:03]  Bobby Possumcods: Affluent
+[09/09/2024 20:03]  Bobby Possumcods: [Im A, BOSS]
+[09/09/2024 20:03]  Bobby Possumcods: Lord Bobby Possumcods
+[09/09/2024 20:03]  Legasus: [Officer, ViPs]
+[09/09/2024 20:03]  Legasus: Legasus
+[09/09/2024 20:03]  MasterGater OG: MasterGater OG
+[09/09/2024 20:03]  Razor: *** Resource depleted ***
+[09/09/2024 20:03]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:03]  Brentan: Brentan the miner
+[09/09/2024 20:04]  Yunuguk'yug: [orq]
+[09/09/2024 20:04]  Yunuguk'yug: Yunuguk'yug
+[09/09/2024 20:04]  Walter Gater: Walter Gater
+[09/09/2024 20:04]  Dirt Mc.Girt: [1CE]
+[09/09/2024 20:04]  Dirt Mc.Girt: Dirt Mc.Girt
+[09/09/2024 20:04]  Carol: Carol the miner
+[09/09/2024 20:04]  Razor: *** Resource depleted ***
+[09/09/2024 20:04]  Argus: Argus the guard
+[09/09/2024 20:04]  BateFofo: BateFofo (Young)
+[09/09/2024 20:04]  Pacificator: Pacificator
+[09/09/2024 20:04]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:04]  Uber Blue Light: [Teetotaler, NDA]
+[09/09/2024 20:04]  Uber Blue Light: Uber Blue Light
+[09/09/2024 20:04]  Alkur: Alkur
+[09/09/2024 20:04]  Generic Pickman: Tomb Raider
+[09/09/2024 20:04]  Generic Pickman: [Officer, BSK]
+[09/09/2024 20:04]  Generic Pickman: Lord Generic Pickman
+[09/09/2024 20:04]  Razor: *** Resource depleted ***
+[09/09/2024 20:04]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:04]  Macy: [Private, G.G]
+[09/09/2024 20:04]  Macy: Macy
+[09/09/2024 20:04]  Heffeestis: Heffeestis (Young)
+[09/09/2024 20:04]  Dooble: [Tets Mall, CFC]
+[09/09/2024 20:04]  Dooble: Dooble
+[09/09/2024 20:04]  a prevalian mage: Legendary Scribe
+[09/09/2024 20:04]  a prevalian mage: a prevalian mage
+[09/09/2024 20:04]  KhalsLibrary: (bonded)
+[09/09/2024 20:04]  KhalsLibrary: KhalsLibrary
+[09/09/2024 20:04]  Requies: Scientist
+[09/09/2024 20:04]  Requies: [TRT]
+[09/09/2024 20:04]  Requies: Requies
+[09/09/2024 20:04]  Razor: *** Resource depleted ***
+[09/09/2024 20:04]  Trancoso-Jarbas: Trancoso-Jarbas
+[09/09/2024 20:04]  Floorskin: Skinner
+[09/09/2024 20:04]  Floorskin: Floorskin
+[09/09/2024 20:04]  Dead Skin Mask: Wizard
+[09/09/2024 20:04]  Dead Skin Mask: Lord Dead Skin Mask
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  Oh Peaches: [Concierge, Inn]
+[09/09/2024 20:04]  Oh Peaches: Oh Peaches
+[09/09/2024 20:04]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:04]  Razor: *** Resource depleted ***
+[09/09/2024 20:04]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:04]  Oh Peaches: [Concierge, Inn]
+[09/09/2024 20:04]  Oh Peaches: Oh Peaches
+[09/09/2024 20:04]  Moosebear: Moosebear
+[09/09/2024 20:04]  Favstvs: Artificer Dignitary
+[09/09/2024 20:04]  Favstvs: [Veteran, Syn]
+[09/09/2024 20:04]  Favstvs: Favstvs
+[09/09/2024 20:04]  COACHYARD LLC: Legendary Scribe
+[09/09/2024 20:04]  COACHYARD LLC: COACHYARD LLC
+[09/09/2024 20:04]  shoes: shoes
+[09/09/2024 20:04]  mapquest: [END]
+[09/09/2024 20:04]  mapquest: mapquest
+[09/09/2024 20:04]  Sassy Lumberjack: Sassy Lumberjack
+[09/09/2024 20:04]  Lunette Dawnstar: Legendary Weaponmaster
+[09/09/2024 20:04]  Lunette Dawnstar: [As Seen on Discord, DTF]
+[09/09/2024 20:04]  Lunette Dawnstar: Lady Lunette Dawnstar
+[09/09/2024 20:04]  Crazy Legs: [Elite, NC]
+[09/09/2024 20:04]  Crazy Legs: Lord Crazy Legs
+[09/09/2024 20:04]  Mercedes: Mercedes the ranger
+[09/09/2024 20:04]  Razor: *** Resource depleted ***
+[09/09/2024 20:04]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:04]  Tessie Gatherer: Tessie Gatherer (Young)
+[09/09/2024 20:04]  a pack llama: (tame)
+[09/09/2024 20:04]  a pack llama: [1770/2000 stones]
+[09/09/2024 20:04]  a pack llama: a pack llama
+[09/09/2024 20:04]  Olivetii: Olivetii
+[09/09/2024 20:04]  Wanda: Wanda the blacksmith
+[09/09/2024 20:04]  Bilbo Stabbins: [J. Phoenix, OFP]
+[09/09/2024 20:04]  Bilbo Stabbins: Bilbo Stabbins
+[09/09/2024 20:04]  JoStone: Legendary Paragon Hunter
+[09/09/2024 20:04]  JoStone: [Legendary Bard, OFP]
+[09/09/2024 20:04]  JoStone: Lady JoStone
+[09/09/2024 20:04]  Arbitrage: [Super Prankster, O|P]
+[09/09/2024 20:04]  Arbitrage: Arbitrage
+[09/09/2024 20:04]  Razor: *** Resource depleted ***
+[09/09/2024 20:04]  Cayk: Legendary Boss Slayer
+[09/09/2024 20:04]  Cayk: [Veteran, AOG]
+[09/09/2024 20:04]  Cayk: Lord Cayk
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  Dooble: [Tets Mall, CFC]
+[09/09/2024 20:04]  Dooble: Dooble
+[09/09/2024 20:04]  Requies: Scientist
+[09/09/2024 20:04]  Requies: [TRT]
+[09/09/2024 20:04]  Requies: Requies
+[09/09/2024 20:04]  Favstvs: Artificer Dignitary
+[09/09/2024 20:04]  Favstvs: [Veteran, Syn]
+[09/09/2024 20:04]  Favstvs: Favstvs
+[09/09/2024 20:04]  Moosebear: Moosebear
+[09/09/2024 20:04]  Floorskin: Skinner
+[09/09/2024 20:04]  Floorskin: Floorskin
+[09/09/2024 20:04]  Trancoso-Jarbas: Trancoso-Jarbas
+[09/09/2024 20:04]  COACHYARD LLC: Legendary Scribe
+[09/09/2024 20:04]  COACHYARD LLC: COACHYARD LLC
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:04]  Razor: |> iron ore : 45 <|
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:04]  Razor: |> iron ore : 46 <|
+[09/09/2024 20:04]  Lillakat: Lillakat
+[09/09/2024 20:04]  Mrs Zippo: Legendary Backstabber
+[09/09/2024 20:04]  Mrs Zippo: [Lady in Pink, DoK]
+[09/09/2024 20:04]  Mrs Zippo: Lady Mrs Zippo
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  Reefer Madness: [NWO]
+[09/09/2024 20:04]  Reefer Madness: Reefer Madness
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:04]  Razor: |> iron ore : 47 <|
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:04]  Razor: |> iron ore : 48 <|
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  Spamson: Artificer
+[09/09/2024 20:04]  Spamson: [Guildmaster, FOU]
+[09/09/2024 20:04]  Spamson: Lord Spamson
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  Dwarfx: Seasonal Slayer
+[09/09/2024 20:04]  Dwarfx: Dwarfx
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:04]  Razor: |> iron ore : 49 <|
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  Olympia: Skinner
+[09/09/2024 20:04]  Olympia: Olympia
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:04]  Razor: |> iron ore : 50 <|
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:04]  Razor: |> iron ore : 51 <|
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:04]  Razor: |> iron ore : 52 <|
+[09/09/2024 20:04]  DyingOatmeal: DyingOatmeal
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:04]  Razor: |> iron ore : 53 <|
+[09/09/2024 20:04]  System: Mining skillgain: 2.355%
+[09/09/2024 20:04]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Razor: |> iron ore : 54 <|
+[09/09/2024 20:05]  NewType mrs: [AHO]
+[09/09/2024 20:05]  NewType mrs: NewType mrs
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  Tessie Gatherer: Tessie Gatherer (Young)
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  a pack llama: (tame)
+[09/09/2024 20:05]  a pack llama: [18/2000 stones]
+[09/09/2024 20:05]  a pack llama: a pack llama
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Razor: |> iron ore : 55 <|
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  FarmerDan: FarmerDan (Young)
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Razor: |> iron ore : 56 <|
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  Cherry Kai: The Dread Pirate
+[09/09/2024 20:05]  Cherry Kai: [DoK]
+[09/09/2024 20:05]  Cherry Kai: Lady Cherry Kai
+[09/09/2024 20:05]  Theder: Heralded Gladiator
+[09/09/2024 20:05]  Theder: [PKs]
+[09/09/2024 20:05]  Theder: Theder
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Riddom: Aegis Keep Hero
+[09/09/2024 20:05]  Riddom: [Veteran, onyx]
+[09/09/2024 20:05]  Riddom: Lord Riddom
+[09/09/2024 20:05]  Razor: |> iron ore : 57 <|
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  System: New World Order (NWO) guild has reached prestige level 478.
+[09/09/2024 20:05]  Razor: |> iron ore : 58 <|
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Great Mylenko has completed the achievement: Zoologist (Basic).
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Razor: |> iron ore : 59 <|
+[09/09/2024 20:05]  Reefer Madness: *farts*
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Quacklebush: [Captain, Argh]
+[09/09/2024 20:05]  Quacklebush: Quacklebush
+[09/09/2024 20:05]  Razor: |> iron ore : 60 <|
+[09/09/2024 20:05]  Slavic: Captain
+[09/09/2024 20:05]  Slavic: [I <3 Poison, NC]
+[09/09/2024 20:05]  Slavic: Lady Slavic
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  Demigong: Wilderness Hero
+[09/09/2024 20:05]  Demigong: [xBu]
+[09/09/2024 20:05]  Demigong: Demigong
+[09/09/2024 20:05]  Quacklebush: [Captain, Argh]
+[09/09/2024 20:05]  Quacklebush: Quacklebush
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Razor: |> iron ore : 61 <|
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Razor: |> iron ore : 62 <|
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Razor: |> iron ore : 63 <|
+[09/09/2024 20:05]  System: Mining skillgain: 2.355%
+[09/09/2024 20:05]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:05]  Razor: |> iron ore : 64 <|
+[09/09/2024 20:05]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:05]  Razor: *** Resource depleted ***
+[09/09/2024 20:05]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  Hatefull: Hatefull
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Theder: Heralded Gladiator
+[09/09/2024 20:06]  Theder: [PKs]
+[09/09/2024 20:06]  Theder: Theder
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Benzo Snake: [Druid, BEAR]
+[09/09/2024 20:06]  Benzo Snake: Lord Benzo Snake
+[09/09/2024 20:06]  Crystal: Crystal the tinker
+[09/09/2024 20:06]  Thalid: Legendarily Colorful
+[09/09/2024 20:06]  Thalid: [Aegis HO, DOPE]
+[09/09/2024 20:06]  Thalid: Lord Thalid
+[09/09/2024 20:06]  DyingOatmeal: DyingOatmeal
+[09/09/2024 20:06]  Selina: Selina the jeweler
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Lillakat: Lillakat
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Subrey: Subrey the provisioner
+[09/09/2024 20:06]  Selina: Selina the jeweler
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  Ardith: Ardith the tailor
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Selina: Selina the jeweler
+[09/09/2024 20:06]  System: A contested ocean boss will spawn shortly at (1516, 6042, -5)
+[09/09/2024 20:06]  Legasus: [Officer, ViPs]
+[09/09/2024 20:06]  Legasus: Legasus
+[09/09/2024 20:06]  Reefer Madness: [NWO]
+[09/09/2024 20:06]  Reefer Madness: Reefer Madness
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Saxon: Saxon the lumberjack
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Arragon: [Recruit, Ok?]
+[09/09/2024 20:06]  Arragon: Arragon
+[09/09/2024 20:06]  MasterGater OG: MasterGater OG
+[09/09/2024 20:06]  Arbitrage: [Super Prankster, O|P]
+[09/09/2024 20:06]  Arbitrage: Arbitrage
+[09/09/2024 20:06]  Legasus: [Officer, ViPs]
+[09/09/2024 20:06]  Legasus: Legasus
+[09/09/2024 20:06]  A Sillyy Goose: [Senior Officer, TES]
+[09/09/2024 20:06]  A Sillyy Goose: A Sillyy Goose
+[09/09/2024 20:06]  Bobby Possumcods: Affluent
+[09/09/2024 20:06]  Bobby Possumcods: [Im A, BOSS]
+[09/09/2024 20:06]  Bobby Possumcods: Lord Bobby Possumcods
+[09/09/2024 20:06]  Yunuguk'yug: [orq]
+[09/09/2024 20:06]  Yunuguk'yug: Yunuguk'yug
+[09/09/2024 20:06]  Crazy Legs: [Elite, NC]
+[09/09/2024 20:06]  Crazy Legs: Lord Crazy Legs
+[09/09/2024 20:06]  Carol: Carol the miner
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  Marlen: Marlen
+[09/09/2024 20:06]  Olivetii: Olivetii
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  Brentan: Brentan the miner
+[09/09/2024 20:06]  Mercedes: Mercedes the ranger
+[09/09/2024 20:06]  Sassy Lumberjack: Sassy Lumberjack
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  Ardith: Ardith the tailor
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  Dane: Dane the farmer
+[09/09/2024 20:06]  Arragon: [Recruit, Ok?]
+[09/09/2024 20:06]  Arragon: Arragon
+[09/09/2024 20:06]  Jolanta: Jolanta the Paladin
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  Ayisha: Ayisha the weaponsmith
+[09/09/2024 20:06]  Len: Len the banker
+[09/09/2024 20:06]  System: Mining skillgain: 2.355%
+[09/09/2024 20:06]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:06]  Jake: Jake the barkeep
+[09/09/2024 20:06]  Razor: |> iron ore : 65 <|
+[09/09/2024 20:06]  System: Mining skillgain: 2.355%
+[09/09/2024 20:06]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:06]  System: Mining skillgain: 2.355%
+[09/09/2024 20:06]  System: Your skill in Mining has increased by 0.1.  It is now 72.0.
+[09/09/2024 20:06]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:06]  Razor: |> iron ore : 66 <|
+[09/09/2024 20:06]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:06]  BateFofo: BateFofo (Young)
+[09/09/2024 20:06]  Razor: *** Resource depleted ***
+[09/09/2024 20:06]  System: Mining skillgain: 2.355%
+[09/09/2024 20:06]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:06]  System: Mining skillgain: 2.355%
+[09/09/2024 20:06]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:06]  Razor: |> iron ore : 67 <|
+[09/09/2024 20:06]  a sheep: a sheep
+[09/09/2024 20:06]  System: Mining skillgain: 2.355%
+[09/09/2024 20:06]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:06]  System: Mining skillgain: 2.355%
+[09/09/2024 20:06]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:06]  System: Mining skillgain: 2.355%
+[09/09/2024 20:06]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:06]  System: Mining skillgain: 2.355%
+[09/09/2024 20:06]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:07]  Razor: |> iron ore : 68 <|
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:07]  Razor: |> iron ore : 69 <|
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  a sheep: a sheep
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:07]  Razor: |> iron ore : 70 <|
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:07]  Razor: |> iron ore : 71 <|
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:07]  Razor: |> iron ore : 72 <|
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: Your skill in Mining has increased by 0.1.  It is now 72.1.
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:07]  Razor: |> iron ore : 73 <|
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:07]  Razor: |> iron ore : 74 <|
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:07]  System: Mining skillgain: 2.355%
+[09/09/2024 20:07]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:07]  Razor: |> iron ore : 75 <|
+[09/09/2024 20:07]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:07]  Razor: *** Resource depleted ***
+[09/09/2024 20:07]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:07]  a sheep: a sheep
+[09/09/2024 20:07]  Razor: *** Resource depleted ***
+[09/09/2024 20:07]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:07]  Razor: *** Resource depleted ***
+[09/09/2024 20:07]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:07]  Razor: *** Resource depleted ***
+[09/09/2024 20:07]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:07]  Razor: *** Resource depleted ***
+[09/09/2024 20:07]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:07]  Tessie Gatherer: Tessie Gatherer (Young)
+[09/09/2024 20:07]  Razor: *** Resource depleted ***
+[09/09/2024 20:07]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:07]  Razor: *** Resource depleted ***
+[09/09/2024 20:07]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:08]  Razor: *** Resource depleted ***
+[09/09/2024 20:08]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:08]  Razor: *** Resource depleted ***
+[09/09/2024 20:08]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:08]  Razor: *** Resource depleted ***
+[09/09/2024 20:08]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:08]  a sheep: a sheep
+[09/09/2024 20:08]  Razor: *** Resource depleted ***
+[09/09/2024 20:08]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:08]  Razor: *** Resource depleted ***
+[09/09/2024 20:08]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:08]  Razor: *** Resource depleted ***
+[09/09/2024 20:08]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:08]  Razor: *** Resource depleted ***
+[09/09/2024 20:08]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:08]  Jolanta: Jolanta the Paladin
+[09/09/2024 20:08]  Ayisha: Ayisha the weaponsmith
+[09/09/2024 20:08]  Razor: *** Resource depleted ***
+[09/09/2024 20:08]  Jolanta: Jolanta the Paladin
+[09/09/2024 20:08]  Ayisha: Ayisha the weaponsmith
+[09/09/2024 20:08]  Jake: Jake the barkeep
+[09/09/2024 20:08]  Len: Len the banker
+[09/09/2024 20:08]  Srok: Srok (Young)
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You dig some shadow iron ore and put it in your backpack.
+[09/09/2024 20:08]  Razor: |> shadow iron ore <|
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  Dusty: Dusty the cook
+[09/09/2024 20:08]  Ayisha: Ayisha the weaponsmith
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  Dusty: Dusty the cook
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:08]  Razor: |> iron ore : 76 <|
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:08]  Razor: |> iron ore : 77 <|
+[09/09/2024 20:08]  Dusty: Dusty the cook
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You dig some shadow iron ore and put it in your backpack.
+[09/09/2024 20:08]  Razor: |> shadow iron ore : 2 <|
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:08]  Razor: |> iron ore : 78 <|
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:08]  System: Mining skillgain: 2.355%
+[09/09/2024 20:08]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You dig some shadow iron ore and put it in your backpack.
+[09/09/2024 20:09]  Razor: |> shadow iron ore : 3 <|
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:09]  System: YewBicches has completed the achievement: Wilderness Hunter (Advanced).
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:09]  System: The world will save in 15 seconds.
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You dig some shadow iron ore and put it in your backpack.
+[09/09/2024 20:09]  Razor: |> shadow iron ore : 4 <|
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:09]  Razor: |> iron ore : 79 <|
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:09]  System: The world is saving, please wait.
+[09/09/2024 20:09]  System: World save complete. The entire process took 2.7 seconds.
+[09/09/2024 20:09]  You see: iron ore : 79
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:09]  Razor: |> iron ore : 80 <|
+[09/09/2024 20:09]  System: Mining skillgain: 2.355%
+[09/09/2024 20:09]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:09]  Dusty: Dusty the cook
+[09/09/2024 20:09]  Razor: |> iron ore : 81 <|
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  a sheep: a sheep
+[09/09/2024 20:09]  Tessie Gatherer: Tessie Gatherer (Young)
+[09/09/2024 20:09]  a pack llama: (tame)
+[09/09/2024 20:09]  a pack llama: [18/2000 stones]
+[09/09/2024 20:09]  a pack llama: a pack llama
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:09]  Ayisha: Ayisha the weaponsmith
+[09/09/2024 20:09]  Razor: *** Resource depleted ***
+[09/09/2024 20:09]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  System: Hellblazer has completed the achievement: Boss Slayer (Basic).
+[09/09/2024 20:10]  System: EnergyBolt has completed the achievement: Boss Slayer (Basic).
+[09/09/2024 20:10]  System: I Don't Care (IDC) guild has reached prestige level 200.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  Jolanta: Jolanta the Paladin
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:10]  Razor: *** Resource depleted ***
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:10]  Razor: |> iron ore : 82 <|
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:10]  Razor: |> iron ore : 83 <|
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:10]  Razor: |> iron ore : 84 <|
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:10]  System: Mining skillgain: 2.355%
+[09/09/2024 20:10]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You dig some dull copper ore and put it in your backpack.
+[09/09/2024 20:11]  Razor: |> dull copper ore <|
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  Tessie Gatherer: Tessie Gatherer (Young)
+[09/09/2024 20:11]  a pack llama: (tame)
+[09/09/2024 20:11]  a pack llama: [18/2000 stones]
+[09/09/2024 20:11]  a pack llama: a pack llama
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  Columbus: [New Player, NP$]
+[09/09/2024 20:11]  Columbus: Columbus
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:11]  Razor: |> iron ore : 85 <|
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:11]  Razor: |> iron ore : 86 <|
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You dig some dull copper ore and put it in your backpack.
+[09/09/2024 20:11]  Razor: |> dull copper ore : 2 <|
+[09/09/2024 20:11]  System: Mining skillgain: 2.355%
+[09/09/2024 20:11]  System: You dig some dull copper ore and put it in your backpack.
+[09/09/2024 20:11]  Razor: |> dull copper ore : 3 <|
+[09/09/2024 20:12]  System: Mining skillgain: 2.355%
+[09/09/2024 20:12]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:12]  System: Mining skillgain: 2.355%
+[09/09/2024 20:12]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:12]  System: Mining skillgain: 2.355%
+[09/09/2024 20:12]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:12]  System: Mining skillgain: 2.355%
+[09/09/2024 20:12]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:12]  Razor: |> iron ore : 87 <|
+[09/09/2024 20:12]  System: Mining skillgain: 2.355%
+[09/09/2024 20:12]  System: You dig some dull copper ore and put it in your backpack.
+[09/09/2024 20:12]  Razor: |> dull copper ore : 4 <|
+[09/09/2024 20:12]  System: Mining skillgain: 2.355%
+[09/09/2024 20:12]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:12]  System: Mining skillgain: 2.355%
+[09/09/2024 20:12]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:12]  System: Mining skillgain: 2.355%
+[09/09/2024 20:12]  System: You dig some dull copper ore and put it in your backpack.
+[09/09/2024 20:12]  Razor: |> dull copper ore : 5 <|
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:12]  Razor: *** Resource depleted ***
+[09/09/2024 20:12]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  Srok: Srok (Young)
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:13]  BateFofo: BateFofo (Young)
+[09/09/2024 20:13]  Razor: *** Resource depleted ***
+[09/09/2024 20:13]  vvar mode: [MMx]
+[09/09/2024 20:13]  vvar mode: vvar mode
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:13]  Zemeckis: Weaponmaster
+[09/09/2024 20:13]  Zemeckis: Zemeckis
+[09/09/2024 20:13]  Apumokpamka: Apumokpamka
+[09/09/2024 20:13]  a horse: (tame)
+[09/09/2024 20:13]  a horse: a horse
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:13]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:13]  Razor: |> iron ore : 88 <|
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:13]  Razor: |> iron ore : 89 <|
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:13]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:13]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: Your skill in Mining has increased by 0.1.  It is now 72.2.
+[09/09/2024 20:13]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:13]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:13]  Razor: |> iron ore : 90 <|
+[09/09/2024 20:13]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:13]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:13]  Francis Harper: Francis Harper (Young)
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:13]  Razor: |> iron ore : 91 <|
+[09/09/2024 20:13]  System: Mining skillgain: 2.355%
+[09/09/2024 20:13]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:13]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:13]  Razor: |> iron ore : 92 <|
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:14]  Razor: |> iron ore : 93 <|
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:14]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:14]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:14]  Razor: |> iron ore : 94 <|
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:14]  System: High Society II has completed the achievement: Tailor (Basic).
+[09/09/2024 20:14]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: Your skill in Mining has increased by 0.1.  It is now 72.3.
+[09/09/2024 20:14]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:14]  Razor: |> iron ore : 95 <|
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:14]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:14]  Razor: |> iron ore : 96 <|
+[09/09/2024 20:14]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:14]  Razor: |> iron ore : 97 <|
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  X Columbus X: [New Player, NP$]
+[09/09/2024 20:14]  X Columbus X: X Columbus X
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  Zonrox: Zonrox (Young)
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Kylock Linoge: Kylock Linoge
+[09/09/2024 20:14]  Zonrox: Zonrox (Young)
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Zonrox: Zonrox (Young)
+[09/09/2024 20:14]  Apumokpamka: Apumokpamka
+[09/09/2024 20:14]  a horse: (tame)
+[09/09/2024 20:14]  a horse: a horse
+[09/09/2024 20:14]  opprogram: (bonded)
+[09/09/2024 20:14]  opprogram: opprogram
+[09/09/2024 20:14]  King Marlboro: [NP$]
+[09/09/2024 20:14]  King Marlboro: King Marlboro
+[09/09/2024 20:14]  a bull: (tame)
+[09/09/2024 20:14]  a bull: a bull
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  a colossal frog: *released*
+[09/09/2024 20:14]  a colossal frog: a colossal frog
+[09/09/2024 20:14]  a brown bear: (tame)
+[09/09/2024 20:14]  a brown bear: a brown bear
+[09/09/2024 20:14]  a black bear: (tame)
+[09/09/2024 20:14]  a black bear: a black bear
+[09/09/2024 20:14]  a black bear: (tame)
+[09/09/2024 20:14]  a black bear: a black bear
+[09/09/2024 20:14]  Jun: Jun the guard
+[09/09/2024 20:14]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:14]  Gedeon: Gedeon
+[09/09/2024 20:14]  a horse: (tame)
+[09/09/2024 20:14]  a horse: a horse
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  Hawk Tuha: [King's Overseer, ICON]
+[09/09/2024 20:14]  Hawk Tuha: Hawk Tuha
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Tim Bur: [Squire, C-C]
+[09/09/2024 20:14]  Tim Bur: Tim Bur
+[09/09/2024 20:14]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:14]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Wednesday: Terran
+[09/09/2024 20:14]  Wednesday: [Fate]
+[09/09/2024 20:14]  Wednesday: Wednesday
+[09/09/2024 20:14]  Noomli: Noomli
+[09/09/2024 20:14]  Kylock Linoge: Kylock Linoge
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  BateFofo: BateFofo (Young)
+[09/09/2024 20:14]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:14]  an eagle: an eagle
+[09/09/2024 20:14]  an eagle: an eagle
+[09/09/2024 20:14]  a great hart: a great hart
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:14]  Wednesday: Terran
+[09/09/2024 20:14]  Wednesday: [Fate]
+[09/09/2024 20:14]  Wednesday: Wednesday
+[09/09/2024 20:14]  an eagle: an eagle
+[09/09/2024 20:14]  Razor: *** Resource depleted ***
+[09/09/2024 20:14]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:14]  System: Mining skillgain: 2.355%
+[09/09/2024 20:14]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:14]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:14]  a great hart: a great hart
+[09/09/2024 20:14]  Razor: |> iron ore : 98 <|
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:15]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:15]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:15]  Tessie Gatherer: Tessie Gatherer (Young)
+[09/09/2024 20:15]  a pack llama: (tame)
+[09/09/2024 20:15]  a pack llama: [18/2000 stones]
+[09/09/2024 20:15]  a pack llama: a pack llama
+[09/09/2024 20:15]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:15]  Razor: |> iron ore : 99 <|
+[09/09/2024 20:15]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:15]  Razor: |> iron ore : 100 <|
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:15]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:15]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:15]  Columbus: [New Player, NP$]
+[09/09/2024 20:15]  Columbus: Columbus
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:15]  Razor: |> iron ore : 101 <|
+[09/09/2024 20:15]  System: The Spaced Guild has completed the achievement: Enchanter (Basic).
+[09/09/2024 20:15]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:15]  Razor: |> iron ore : 102 <|
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:15]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:15]  a monitor hatchling: (summoned)
+[09/09/2024 20:15]  a monitor hatchling: a monitor hatchling
+[09/09/2024 20:15]  an aegis rat: (summoned)
+[09/09/2024 20:15]  an aegis rat: an aegis rat
+[09/09/2024 20:15]  a firebat: (summoned)
+[09/09/2024 20:15]  a firebat: a firebat
+[09/09/2024 20:15]  a flamehound: (summoned)
+[09/09/2024 20:15]  a flamehound: a flamehound
+[09/09/2024 20:15]  a polar bear: (summoned)
+[09/09/2024 20:15]  a polar bear: a polar bear
+[09/09/2024 20:15]  Xnor Druhy: Xnor Druhy (Young)
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:15]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:15]  Razor: |> iron ore : 103 <|
+[09/09/2024 20:15]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:15]  Zonrox: Zonrox (Young)
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:15]  a bull: (tame)
+[09/09/2024 20:15]  a bull: a bull
+[09/09/2024 20:15]  Razor: |> iron ore : 104 <|
+[09/09/2024 20:15]  System: Mining skillgain: 2.355%
+[09/09/2024 20:15]  System: Your skill in Mining has increased by 0.1.  It is now 72.4.
+[09/09/2024 20:15]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:15]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:15]  Razor: |> iron ore : 105 <|
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:15]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:15]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  Kilia: [Druid Loyalist, BEAR]
+[09/09/2024 20:15]  Kilia: Kilia
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:15]  Kilia: [Druid Loyalist, BEAR]
+[09/09/2024 20:15]  Kilia: Kilia
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  Kilia: [Druid Loyalist, BEAR]
+[09/09/2024 20:15]  Kilia: Kilia
+[09/09/2024 20:15]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:15]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:15]  Razor: *** Resource depleted ***
+[09/09/2024 20:16]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:16]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:16]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:16]  Razor: *** Resource depleted ***
+[09/09/2024 20:16]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:16]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:16]  Razor: *** Resource depleted ***
+[09/09/2024 20:16]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:16]  Razor: *** Resource depleted ***
+[09/09/2024 20:16]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:16]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:16]  Razor: *** Resource depleted ***
+[09/09/2024 20:16]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:16]  Razor: *** Resource depleted ***
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:16]  Razor: |> iron ore : 106 <|
+[09/09/2024 20:16]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:16]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:16]  Zonrox: Zonrox (Young)
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  Noomli: Noomli
+[09/09/2024 20:16]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:16]  Zonrox: Zonrox (Young)
+[09/09/2024 20:16]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  Zonrox: Zonrox (Young)
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:16]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:16]  Razor: |> iron ore : 107 <|
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:16]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  System: RealJusderaisin has completed the achievement: Triggered (Advanced).
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: Your skill in Mining has increased by 0.1.  It is now 72.5.
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:16]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:16]  System: Mining skillgain: 2.355%
+[09/09/2024 20:16]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  Noomli: Noomli
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:17]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:17]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:17]  Razor: |> iron ore : 108 <|
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:17]  Xnor Druhy: Kal Xen
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:17]  Razor: |> iron ore : 109 <|
+[09/09/2024 20:17]  System: ManyMarsh has completed the achievement: Chef (Advanced).
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:17]  a zombie: (summoned)
+[09/09/2024 20:17]  a zombie: a zombie
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  Morcego: [Recruit, G.G]
+[09/09/2024 20:17]  Morcego: Morcego
+[09/09/2024 20:17]  Noomli: Noomli
+[09/09/2024 20:17]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:17]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:17]  Razor: |> iron ore : 110 <|
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:17]  Razor: |> iron ore : 111 <|
+[09/09/2024 20:17]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: Your skill in Mining has increased by 0.1.  It is now 72.6.
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:17]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:17]  Razor: |> iron ore : 112 <|
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  Noomli: Noomli
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:17]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:17]  Razor: |> iron ore : 113 <|
+[09/09/2024 20:17]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:17]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:17]  System: Mining skillgain: 2.355%
+[09/09/2024 20:17]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:18]  a hind: a hind
+[09/09/2024 20:18]  System: Mining skillgain: 2.355%
+[09/09/2024 20:18]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:18]  BateFofo: BateFofo (Young)
+[09/09/2024 20:18]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:18]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:18]  System: Mining skillgain: 2.355%
+[09/09/2024 20:18]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:18]  Noomli: Noomli
+[09/09/2024 20:18]  System: Mining skillgain: 2.355%
+[09/09/2024 20:18]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:18]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:18]  Razor: |> iron ore : 114 <|
+[09/09/2024 20:18]  System: Mining skillgain: 2.355%
+[09/09/2024 20:18]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:18]  System: Mining skillgain: 2.355%
+[09/09/2024 20:18]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:18]  Razor: |> iron ore : 115 <|
+[09/09/2024 20:18]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:18]  System: Mining skillgain: 2.355%
+[09/09/2024 20:18]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:18]  Razor: |> iron ore : 116 <|
+[09/09/2024 20:18]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:18]  System: Mining skillgain: 2.355%
+[09/09/2024 20:18]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:18]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:18]  System: Mining skillgain: 2.355%
+[09/09/2024 20:18]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:18]  System: Didius has completed the achievement: Daemonic Slayer (Advanced).
+[09/09/2024 20:18]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:18]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:18]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:18]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:18]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:18]  System: Captcha successful.
+[09/09/2024 20:18]  System: Mining skillgain: 2.355%
+[09/09/2024 20:18]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:18]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:18]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:18]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:18]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:18]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:18]  GucciFlipFlops: Legendarily Triggered
+[09/09/2024 20:18]  GucciFlipFlops: [Recruit, NEW!]
+[09/09/2024 20:18]  GucciFlipFlops: Lord GucciFlipFlops
+[09/09/2024 20:18]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:18]  GucciFlipFlops: Legendarily Triggered
+[09/09/2024 20:18]  GucciFlipFlops: [Recruit, NEW!]
+[09/09/2024 20:18]  GucciFlipFlops: Lord GucciFlipFlops
+[09/09/2024 20:18]  System: Rep has completed the achievement: Versatility (Advanced).
+[09/09/2024 20:18]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:18]  a giant frog: (tame)
+[09/09/2024 20:18]  a giant frog: a giant frog
+[09/09/2024 20:18]  Old Man Steve: [New Player, NP$]
+[09/09/2024 20:18]  Old Man Steve: Old Man Steve (Young)
+[09/09/2024 20:18]  SirOden: SirOden (Young)
+[09/09/2024 20:19]  Noomli: Noomli
+[09/09/2024 20:19]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:19]  SirOden: SirOden (Young)
+[09/09/2024 20:19]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:19]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:19]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:19]  System: The Fellowship ! (FS!) guild has reached prestige level 499.
+[09/09/2024 20:19]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:19]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:19]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:19]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:19]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:19]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:19]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:19]  Noomli: Noomli
+[09/09/2024 20:19]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:19]  an aegis slime: (bonded)
+[09/09/2024 20:19]  an aegis slime: an aegis slime
+[09/09/2024 20:19]  Koros: [Inn]
+[09/09/2024 20:19]  Koros: Lord Koros
+[09/09/2024 20:19]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:19]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:19]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:19]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:19]  Noomli: Noomli
+[09/09/2024 20:19]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:20]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:20]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:20]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:20]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:20]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:20]  System: Trakso has completed the achievement: Daemonic Slayer (Advanced).
+[09/09/2024 20:20]  Morcego: [Recruit, G.G]
+[09/09/2024 20:20]  Morcego: Morcego
+[09/09/2024 20:20]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:20]  Noomli: Noomli
+[09/09/2024 20:20]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:20]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:20]  a hind: a hind
+[09/09/2024 20:20]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:20]  a horse: (tame)
+[09/09/2024 20:20]  a horse: a horse
+[09/09/2024 20:20]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:20]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:20]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:20]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:20]  Surfantxl: [rekt]
+[09/09/2024 20:20]  Surfantxl: Surfantxl
+[09/09/2024 20:20]  BearJim: (bonded)
+[09/09/2024 20:20]  BearJim: BearJim
+[09/09/2024 20:20]  BearMax: (bonded)
+[09/09/2024 20:20]  BearMax: BearMax
+[09/09/2024 20:20]  Windstone: Windstone (Young)
+[09/09/2024 20:20]  an eagle: an eagle
+[09/09/2024 20:20]  System: Disasterpiece has completed the achievement: Expressive (Epic).
+[09/09/2024 20:20]  Tim Bur: Vas Rel Por
+[09/09/2024 20:20]  Hungry Joe: Terran
+[09/09/2024 20:20]  Hungry Joe: [EVIL]
+[09/09/2024 20:20]  Hungry Joe: Hungry Joe
+[09/09/2024 20:20]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:20]  Old Man Steve: [New Player, NP$]
+[09/09/2024 20:20]  Old Man Steve: Old Man Steve (Young)
+[09/09/2024 20:20]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:20]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:20]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:20]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:21]  a zombie: (summoned)
+[09/09/2024 20:21]  a zombie: a zombie
+[09/09/2024 20:21]  a firebat: (summoned)
+[09/09/2024 20:21]  a firebat: a firebat
+[09/09/2024 20:21]  Xnor Druhy: Xnor Druhy (Young)
+[09/09/2024 20:21]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:21]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:21]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:21]  Xnor Druhy: Xnor Druhy (Young)
+[09/09/2024 20:21]  Tim Bur: [Squire, C-C]
+[09/09/2024 20:21]  Tim Bur: Tim Bur
+[09/09/2024 20:21]  Cyrus: Cyrus the lumberjack
+[09/09/2024 20:21]  a magpie: a magpie
+[09/09/2024 20:21]  a swallow: a swallow
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: Your skill in Mining has increased by 0.1.  It is now 72.7.
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  a nuthatch: a nuthatch
+[09/09/2024 20:21]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:21]  Razor: |> iron ore : 117 <|
+[09/09/2024 20:21]  Noomli: Noomli
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:21]  System: Rowe DuCott has completed the achievement: Lumberjack (Basic).
+[09/09/2024 20:21]  Razor: |> iron ore : 118 <|
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  Windstone: Windstone (Young)
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  BearJim: (bonded)
+[09/09/2024 20:21]  BearJim: BearJim
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:21]  Razor: |> iron ore : 119 <|
+[09/09/2024 20:21]  System: Timber Nelly has completed the achievement: Tradesman Union Luminary.
+[09/09/2024 20:21]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  The Landlady: The Landlady
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  Noomli: Noomli
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  a cave bear: (tame)
+[09/09/2024 20:21]  a cave bear: a cave bear
+[09/09/2024 20:21]  Old Man Steve: [New Player, NP$]
+[09/09/2024 20:21]  Old Man Steve: Old Man Steve (Young)
+[09/09/2024 20:21]  a magpie: a magpie
+[09/09/2024 20:21]  Old Man Steve: [New Player, NP$]
+[09/09/2024 20:21]  Old Man Steve: Old Man Steve (Young)
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:21]  Razor: |> iron ore : 120 <|
+[09/09/2024 20:21]  System: Mining skillgain: 2.355%
+[09/09/2024 20:21]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:21]  Tim Bur: Vas Rel Por
+[09/09/2024 20:21]  Razor: |> iron ore : 121 <|
+[09/09/2024 20:21]  OneShote: OneShote (Young)
+[09/09/2024 20:22]  System: Mining skillgain: 2.355%
+[09/09/2024 20:22]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:22]  an eagle: an eagle
+[09/09/2024 20:22]  Razor: |> iron ore : 122 <|
+[09/09/2024 20:22]  System: Mining skillgain: 2.355%
+[09/09/2024 20:22]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:22]  Razor: |> iron ore : 123 <|
+[09/09/2024 20:22]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  Noomli: Noomli
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Smokedog: Smokedog (Young)
+[09/09/2024 20:22]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:22]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:22]  Razor: *** Resource depleted ***
+[09/09/2024 20:23]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:23]  Razor: *** Resource depleted ***
+[09/09/2024 20:23]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:23]  Razor: *** Resource depleted ***
+[09/09/2024 20:23]  King Marlboro: NP$ is looking for New players. I run the PvP division but we do it all! Discord: opprogram
+[09/09/2024 20:23]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:23]  System: Sean O'Griffey has completed the achievement: Leatherworker (Basic).
+[09/09/2024 20:23]  Razor: *** Resource depleted ***
+[09/09/2024 20:23]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:23]  Razor: *** Resource depleted ***
+[09/09/2024 20:23]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:23]  Razor: *** Resource depleted ***
+[09/09/2024 20:23]  BearJim: (bonded)
+[09/09/2024 20:23]  BearJim: BearJim
+[09/09/2024 20:23]  Windstone: Windstone (Young)
+[09/09/2024 20:23]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:23]  an eagle: an eagle
+[09/09/2024 20:23]  a hind: a hind
+[09/09/2024 20:23]  a great hart: a great hart
+[09/09/2024 20:23]  Razor: *** Resource depleted ***
+[09/09/2024 20:23]  a hind: a hind
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:23]  Razor: |> iron ore : 124 <|
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:23]  Razor: |> iron ore : 125 <|
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:23]  Razor: |> iron ore : 126 <|
+[09/09/2024 20:23]  Smokedog: Smokedog (Young)
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: Your skill in Mining has increased by 0.1.  It is now 72.8.
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:23]  Razor: |> iron ore : 127 <|
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:23]  Razor: |> iron ore : 128 <|
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:23]  Razor: |> iron ore : 129 <|
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: The world will save in 15 seconds.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:23]  System: Mining skillgain: 2.355%
+[09/09/2024 20:23]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:23]  Razor: |> iron ore : 130 <|
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: Your skill in Mining has increased by 0.1.  It is now 72.9.
+[09/09/2024 20:24]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:24]  Razor: |> iron ore : 131 <|
+[09/09/2024 20:24]  System: The world is saving, please wait.
+[09/09/2024 20:24]  System: World save complete. The entire process took 2.7 seconds.
+[09/09/2024 20:24]  You see: shadow iron ore : 4
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:24]  Razor: |> iron ore : 132 <|
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:24]  System: Mining skillgain: 2.355%
+[09/09/2024 20:24]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:24]  Razor: |> iron ore : 133 <|
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  a hind: a hind
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:24]  Razor: *** Resource depleted ***
+[09/09/2024 20:24]  Mastishhh: Mastishhh
+[09/09/2024 20:24]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:25]  Razor: *** Resource depleted ***
+[09/09/2024 20:25]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:25]  Razor: *** Resource depleted ***
+[09/09/2024 20:25]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:25]  Razor: *** Resource depleted ***
+[09/09/2024 20:25]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:25]  Windstone: Windstone (Young)
+[09/09/2024 20:25]  Razor: *** Resource depleted ***
+[09/09/2024 20:25]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:25]  Razor: *** Resource depleted ***
+[09/09/2024 20:25]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:25]  Razor: *** Resource depleted ***
+[09/09/2024 20:25]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:25]  Razor: *** Resource depleted ***
+[09/09/2024 20:25]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:25]  Razor: *** Resource depleted ***
+[09/09/2024 20:25]  You see: dull copper ore : 5
+[09/09/2024 20:25]  System: Mining skillgain: 2.355%
+[09/09/2024 20:25]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:25]  System: Mining skillgain: 2.355%
+[09/09/2024 20:25]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:25]  Razor: |> iron ore : 134 <|
+[09/09/2024 20:25]  System: Mining skillgain: 2.355%
+[09/09/2024 20:25]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:26]  System: Fahrettin has completed the achievement: Skill Mastery (Epic).
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:26]  Razor: |> iron ore : 135 <|
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:26]  Razor: |> iron ore : 136 <|
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:26]  Razor: |> iron ore : 137 <|
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:26]  Razor: |> iron ore : 138 <|
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:26]  Razor: |> iron ore : 139 <|
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:26]  Razor: |> iron ore : 140 <|
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:26]  System: Mining skillgain: 2.355%
+[09/09/2024 20:26]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:26]  Razor: |> iron ore : 141 <|
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:26]  Razor: *** Resource depleted ***
+[09/09/2024 20:26]  You see: iron ore : 141
+[09/09/2024 20:28]  System: Radiancee has completed the achievement: Wizard (Basic).
+[09/09/2024 20:28]  System: Yi Jongmu has completed the achievement: Humanoid Slayer (Advanced).
+[09/09/2024 20:28]  System: a shady figure has completed the achievement: Enhanced (Advanced).
+[09/09/2024 20:29]  System: Limp Biscuit has completed the achievement: Guardian of The Mausoleum (Basic).
+[09/09/2024 20:29]  System: MaxHogan has completed the achievement: Beastial Slayer (Advanced).
+[09/09/2024 20:30]  System: Amplisa II has completed the achievement: Wilderness Hunter (Basic).
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  Pinay: Pinay
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  System: Azrael has registered an antiquity: Mining Pan
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:32]  Razor: *** Resource depleted ***
+[09/09/2024 20:32]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:33]  Razor: *** Resource depleted ***
+[09/09/2024 20:33]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:33]  Razor: *** Resource depleted ***
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:33]  Razor: |> iron ore : 142 <|
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:33]  Razor: |> iron ore : 143 <|
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  a hind: a hind
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  a nuthatch: a nuthatch
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:33]  Razor: |> iron ore : 144 <|
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:33]  Razor: |> iron ore : 145 <|
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:33]  Razor: |> iron ore : 146 <|
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: Your skill in Mining has increased by 0.1.  It is now 73.0.
+[09/09/2024 20:33]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:33]  Razor: |> iron ore : 147 <|
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You loosen some rocks but fail to find any useable ore.
+[09/09/2024 20:33]  System: Mining skillgain: 2.355%
+[09/09/2024 20:33]  System: You dig some iron ore and put it in your backpack.
+[09/09/2024 20:33]  Razor: |> iron ore : 148 <|
+[09/09/2024 20:33]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:33]  Razor: *** Resource depleted ***
+[09/09/2024 20:33]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:33]  Razor: *** Resource depleted ***
+[09/09/2024 20:33]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:33]  Razor: *** Resource depleted ***
+[09/09/2024 20:33]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  a magpie: a magpie
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:34]  Razor: *** Resource depleted ***
+[09/09/2024 20:34]  a great hart: a great hart
+[09/09/2024 20:35]  a magpie: a magpie
+[09/09/2024 20:35]  a swallow: a swallow
+[09/09/2024 20:35]  System: Captcha successful.
+[09/09/2024 20:35]  System: You do not see any harvestable resources nearby.
+[09/09/2024 20:35]  a hind: a hind
+[09/09/2024 20:35]  a hind: a hind
+[09/09/2024 20:35]  a nuthatch: a nuthatch
+[09/09/2024 20:35]  a magpie: a magpie
+[09/09/2024 20:35]  a hind: a hind
+[09/09/2024 20:35]  a great hart: a great hart
+[09/09/2024 20:35]  Cyrus: Cyrus the lumberjack
+[09/09/2024 20:35]  a colossal frog: *released*
+[09/09/2024 20:35]  a colossal frog: a colossal frog
+[09/09/2024 20:35]  Jun: Jun the guard
+[09/09/2024 20:35]  opprogram: (bonded)
+[09/09/2024 20:35]  opprogram: opprogram
+[09/09/2024 20:35]  Apumokpamka: Apumokpamka
+[09/09/2024 20:35]  a brown bear: (tame)
+[09/09/2024 20:35]  a brown bear: a brown bear
+[09/09/2024 20:35]  a black bear: (tame)
+[09/09/2024 20:35]  a black bear: a black bear
+[09/09/2024 20:35]  a black bear: (tame)
+[09/09/2024 20:35]  a black bear: a black bear
+[09/09/2024 20:35]  Gedeon: Gedeon
+[09/09/2024 20:35]  a horse: (tame)
+[09/09/2024 20:35]  a horse: a horse
+[09/09/2024 20:35]  Gedeon: Gedeon
+[09/09/2024 20:35]  a horse: (tame)
+[09/09/2024 20:35]  a horse: a horse
+[09/09/2024 20:35]  a colossal frog: *released*
+[09/09/2024 20:35]  a colossal frog: a colossal frog
+[09/09/2024 20:35]  a brown bear: (tame)
+[09/09/2024 20:35]  a brown bear: a brown bear
+[09/09/2024 20:35]  a black bear: (tame)
+[09/09/2024 20:35]  a black bear: a black bear
+[09/09/2024 20:35]  a black bear: (tame)
+[09/09/2024 20:35]  a black bear: a black bear
+[09/09/2024 20:35]  Jun: Jun the guard
+[09/09/2024 20:35]  opprogram: (bonded)
+[09/09/2024 20:35]  opprogram: opprogram
+[09/09/2024 20:35]  King Marlboro: [NP$]
+[09/09/2024 20:35]  King Marlboro: King Marlboro
+[09/09/2024 20:35]  Apumokpamka: Apumokpamka
+[09/09/2024 20:35]  a horse: (tame)
+[09/09/2024 20:35]  a horse: a horse
+[09/09/2024 20:35]  Zemeckis: Weaponmaster
+[09/09/2024 20:35]  Zemeckis: Zemeckis
+[09/09/2024 20:35]  You see: a giant frog corpse
+[09/09/2024 20:35]  Marti: Marti the healer
+[09/09/2024 20:35]  vvar mode: [MMx]
+[09/09/2024 20:35]  vvar mode: vvar mode
+[09/09/2024 20:35]  Tessie Gatherer: Tessie Gatherer (Young)
+[09/09/2024 20:35]  Fudgy the Whale: Fudgy the Whale
+[09/09/2024 20:35]  a pack llama: (tame)
+[09/09/2024 20:35]  a pack llama: [18/2000 stones]
+[09/09/2024 20:35]  a pack llama: a pack llama
+[09/09/2024 20:35]  vvar mode: New to Ultima Online or looking to speed up your progress?
+[09/09/2024 20:35]  Dusty: Dusty the cook
+[09/09/2024 20:35]  Giles: Giles the thief
+[09/09/2024 20:35]  vvar mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/09/2024 20:35]  Alicia: Alicia the tavern keeper
+[09/09/2024 20:35]  Lukius: Lukius (Young)
+[09/09/2024 20:35]  vvar mode: Join Moonglow Mechanics [MMx]! Message @vvarmode on Discord
+[09/09/2024 20:35]  Jake: Jake the barkeep
+[09/09/2024 20:35]  Len: Len the banker
+[09/09/2024 20:35]  Dane: Dane the farmer
+[09/09/2024 20:35]  Dusty: Dusty the cook
+[09/09/2024 20:35]  a sheep: a sheep
+[09/09/2024 20:35]  Ayisha: Ayisha the weaponsmith
+[09/09/2024 20:35]  Jolanta: Jolanta the Paladin
+[09/09/2024 20:35]  a sheep: a sheep
+[09/09/2024 20:35]  a sheep: a sheep
+[09/09/2024 20:35]  a sheep: a sheep
+[09/09/2024 20:35]  Subrey: Subrey the provisioner
+[09/09/2024 20:35]  Ardith: Ardith the tailor
+[09/09/2024 20:35]  Wanda: Wanda the blacksmith
+[09/09/2024 20:35]  Bilbo Stabbins: [J. Phoenix, OFP]
+[09/09/2024 20:35]  Bilbo Stabbins: Bilbo Stabbins
+[09/09/2024 20:35]  Dane: Dane the farmer
+[09/09/2024 20:35]  Ink Stain: Ink Stain
+[09/09/2024 20:35]  DyingOatmeal: DyingOatmeal
+[09/09/2024 20:35]  Crystal: Crystal the tinker
+[09/09/2024 20:35]  Thalid: Legendarily Colorful
+[09/09/2024 20:35]  Thalid: [Aegis HO, DOPE]
+[09/09/2024 20:35]  Thalid: Lord Thalid
+[09/09/2024 20:35]  CrazyDaze: Legendary Domesticator
+[09/09/2024 20:35]  CrazyDaze: [Farm Around Find Out, DTF]
+[09/09/2024 20:35]  CrazyDaze: CrazyDaze
+[09/09/2024 20:35]  Selina: Selina the jeweler
+[09/09/2024 20:35]  Saxon: Saxon the lumberjack
+[09/09/2024 20:35]  MasterGater OG: MasterGater OG
+[09/09/2024 20:35]  Arbitrage: [Super Prankster, O|P]
+[09/09/2024 20:35]  Arbitrage: Arbitrage
+[09/09/2024 20:35]  Olivetii: Olivetii
+[09/09/2024 20:35]  Legasus: [Officer, ViPs]
+[09/09/2024 20:35]  Legasus: Legasus
+[09/09/2024 20:36]  Legasus: [Officer, ViPs]
+[09/09/2024 20:36]  Legasus: Legasus
+[09/09/2024 20:36]  Razor: Go to forge
+[09/09/2024 20:36]  System: You smelt the ore removing the impurities and put the metal in your backpack.
+[09/09/2024 20:36]  Razor: iron ingot : 645
+[09/09/2024 20:36]  System: You smelt the ore removing the impurities and put the metal in your backpack.
+[09/09/2024 20:36]  Razor: dull copper ingot : 42
+[09/09/2024 20:36]  System: You smelt the ore removing the impurities and put the metal in your backpack.
+[09/09/2024 20:36]  Razor: shadow iron ingot : 14
+[09/09/2024 20:36]  IronBaNanA: [Learners Permit, TES]
+[09/09/2024 20:36]  IronBaNanA: IronBaNanA
+[09/09/2024 20:36]  Razor: Go to forge
+[09/09/2024 20:36]  Razor: iron ingot : 645
+[09/09/2024 20:36]  Razor: dull copper ingot : 42
+[09/09/2024 20:36]  Razor: shadow iron ingot : 14
+[09/09/2024 20:36]  Razor: Go to forge
+[09/09/2024 20:36]  Razor: iron ingot : 645
+[09/09/2024 20:36]  Razor: dull copper ingot : 42
+[09/09/2024 20:36]  IronBaNanA: [Learners Permit, TES]
+[09/09/2024 20:36]  IronBaNanA: IronBaNanA
+[09/09/2024 20:36]  Razor: shadow iron ingot : 14
+[09/09/2024 20:36]  You see: iron ingot : 645
+[09/09/2024 20:36]  Gary Pudles: Legendary Prospector
+[09/09/2024 20:36]  Gary Pudles: Lord Gary Pudles
+[09/09/2024 20:36]  Helkaithilion: [Wanderer, CFC]
+[09/09/2024 20:36]  Helkaithilion: Helkaithilion
+[09/09/2024 20:36]  Selina: Selina the jeweler
+[09/09/2024 20:36]  Helkaithilion: Thanks!
+[09/09/2024 20:36]  CrazyDaze: thanks!
+[09/09/2024 20:37]  Helkaithilion: now i am totally broke lol
+[09/09/2024 20:37]  CrazyDaze: haha
+[09/09/2024 20:37]  CrazyDaze: Me too
+[09/09/2024 20:37]  CrazyDaze: :)
+[09/09/2024 20:37]  Helkaithilion: Kal Ort Por
+[09/09/2024 20:37]  CrazyDaze: Kal Ort Por
+[09/09/2024 20:38]  System: Sindsyg has completed the achievement: Beastial Slayer (Advanced).
+[09/09/2024 20:38]  Gary Pudles: Legendary Prospector
+[09/09/2024 20:38]  Gary Pudles: Lord Gary Pudles
+[09/09/2024 20:38]  Mastishhh: Mastishhh
+[09/09/2024 20:38]  Gary Pudles: Legendary Prospector
+[09/09/2024 20:38]  Gary Pudles: Lord Gary Pudles
+[09/09/2024 20:38]  Clyde Hatchet: Clyde Hatchet
+[09/09/2024 20:38]  System: The world will save in 15 seconds.
+[09/09/2024 20:38]  System: The world is saving, please wait.
+[09/09/2024 20:39]  System: World save complete. The entire process took 2.7 seconds.
+[09/09/2024 20:39]  Shadoh: Time Legend
+[09/09/2024 20:39]  Shadoh: Lord Shadoh
+[09/09/2024 20:39]  Selina: Selina the jeweler
+[09/09/2024 20:39]  Selina: Selina the jeweler
+[09/09/2024 20:39]  identificamente: identificamente (Young)
+[09/09/2024 20:39]  Clyde Hatchet: Clyde Hatchet
+[09/09/2024 20:40]  Geralt De Riv-: [LMAO]
+[09/09/2024 20:40]  Geralt De Riv-: Geralt De Riv-
+[09/09/2024 20:40]  Wheen: Wheen
+[09/09/2024 20:40]  identificamente: identificamente (Young)
+[09/09/2024 20:40]  Marys'dog: Legendary Roll Player
+[09/09/2024 20:40]  Marys'dog: [7n]
+[09/09/2024 20:40]  Marys'dog: Marys'dog
+[09/09/2024 20:40]  identificamente: identificamente (Young)
+[09/09/2024 20:40]  identificamente: identificamente (Young)
+[09/09/2024 20:41]  System: Donald D has completed the achievement: Artificers Enclave Associate.
+[09/09/2024 20:41]  Tooski: [Purveyor], [D^O]
+[09/09/2024 20:41]  Tooski: Tooski
+[09/09/2024 20:41]  waku: [NC]
+[09/09/2024 20:41]  waku: waku
+[09/09/2024 20:41]  Guilefoyle: [Blood Marine, Sir.]
+[09/09/2024 20:41]  Guilefoyle: Guilefoyle
+[09/09/2024 20:41]  Tooski: [Purveyor], [D^O]
+[09/09/2024 20:41]  Tooski: Tooski
+[09/09/2024 20:41]  IronBaNanA: [Learners Permit, TES]
+[09/09/2024 20:41]  IronBaNanA: IronBaNanA
+[09/09/2024 20:41]  UltimatePvM: Legendary Weaponmaster
+[09/09/2024 20:41]  UltimatePvM: [Emissario, ITA.]
+[09/09/2024 20:41]  UltimatePvM: Lady UltimatePvM
+[09/09/2024 20:41]  Zylex: [Ranger, Path]
+[09/09/2024 20:41]  Zylex: Zylex
+[09/09/2024 20:41]  iDigRocks: [Pirate, P.S.]
+[09/09/2024 20:41]  iDigRocks: iDigRocks
+[09/09/2024 20:42]  Selina: Selina the jeweler
+[09/09/2024 20:42]  Satzumi: Satzumi
+[09/09/2024 20:43]  Moxy Arcana: [Disciple, Fate]
+[09/09/2024 20:43]  Moxy Arcana: Moxy Arcana
+[09/09/2024 20:43]  Moxy Arcana: [Disciple, Fate]
+[09/09/2024 20:43]  Moxy Arcana: Moxy Arcana
+[09/09/2024 20:43]  Unloved Jr: Backstabber
+[09/09/2024 20:43]  Unloved Jr: [Member, EVIL]
+[09/09/2024 20:43]  Unloved Jr: Unloved Jr
+[09/09/2024 20:43]  System: Bobzera has completed the achievement: Transmutation (Epic).
+[09/09/2024 20:44]  System: Tailor Maid has completed the achievement: Order of Armorers Dignitary.
+[09/09/2024 20:44]  System: Hellblazer has completed the achievement: Beastial Slayer (Advanced).
+[09/09/2024 20:44]  System: Gol D Atrex has completed the achievement: Remodeler (Basic).
+[09/09/2024 20:44]  System: Identificoforte has completed the achievement: Tinker (Advanced).
+[09/09/2024 20:44]  Moxy Arcana: [Disciple, Fate]
+[09/09/2024 20:44]  Moxy Arcana: Moxy Arcana
+[09/09/2024 20:44]  Bradley Knox: [Rookie, NKB]
+[09/09/2024 20:44]  Bradley Knox: Bradley Knox
+[09/09/2024 20:44]  Vaccine: [Veteran, NWO]
+[09/09/2024 20:44]  Vaccine: Vaccine
+[09/09/2024 20:44]  System: Mike Ox-Long has completed the achievement: Transmutation (Basic).
+[09/09/2024 20:45]  System: Klondike Company has completed the achievement: Carpenter (Advanced).
+[09/09/2024 20:45]  Marcus Vitel: Pulma Hero
+[09/09/2024 20:45]  Marcus Vitel: [Member, LT]
+[09/09/2024 20:45]  Marcus Vitel: Lord Marcus Vitel
+[09/09/2024 20:45]  Daze: Triggered
+[09/09/2024 20:45]  Daze: [Guild Leader, LT]
+[09/09/2024 20:45]  Daze: Daze
+[09/09/2024 20:45]  Daze: Triggered
+[09/09/2024 20:45]  Daze: [Guild Leader, LT]
+[09/09/2024 20:45]  Daze: Daze
+[09/09/2024 20:45]  Kilia: [Druid Loyalist, BEAR]
+[09/09/2024 20:45]  Kilia: Kilia
+[09/09/2024 20:45]  Kilia: [Druid Loyalist, BEAR]
+[09/09/2024 20:45]  Kilia: Kilia
+[09/09/2024 20:45]  Vere: Legendarily Triggered
+[09/09/2024 20:45]  Vere: Lord Vere
+[09/09/2024 20:45]  Shug Dug: Shug Dug
+[09/09/2024 20:45]  Shug Dug: Shug Dug
+[09/09/2024 20:45]  System: [TS] A Town Struggle (mountless) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[09/09/2024 20:45]  Mastishhh: Mastishhh
+[09/09/2024 20:46]  Selina: Selina the jeweler
+[09/09/2024 20:46]  System: Dragomir has completed the achievement: Blacksmith (Basic).
+[09/09/2024 20:46]  System: BabyPrincess has completed the achievement: Maester (Basic).
+[09/09/2024 20:46]  Shaddai: [Recruit, WaM!]
+[09/09/2024 20:46]  Shaddai: Shaddai
+[09/09/2024 20:47]  System: xPorter has completed the achievement: Weaponmastery (Basic).
+[09/09/2024 20:47]  System: Xclusive has completed the achievement: Triggered (Advanced).
+[09/09/2024 20:47]  Mastishhh: Mastishhh
+[09/09/2024 20:47]  Leannan Cioch: [Druid, BEAR]
+[09/09/2024 20:47]  Leannan Cioch: Leannan Cioch
+[09/09/2024 20:48]  Ailiin: Ailiin
+[09/09/2024 20:48]  System: Sylvaris the Red has completed the achievement: Captain (Basic).
+[09/09/2024 20:48]  a swashbuckler: Pirate
+[09/09/2024 20:48]  a swashbuckler: [DoK]
+[09/09/2024 20:48]  a swashbuckler: a swashbuckler
+[09/09/2024 20:48]  a swashbuckler: Pirate
+[09/09/2024 20:48]  a swashbuckler: [DoK]
+[09/09/2024 20:48]  a swashbuckler: a swashbuckler
+[09/09/2024 20:48]  Skoll the Mad: Skoll the Mad
+[09/09/2024 20:49]  Friend Best-O: Proficient
+[09/09/2024 20:49]  Friend Best-O: Friend Best-O
+[09/09/2024 20:49]  System: Fresh Squeezed (SQzD) guild has reached prestige level 729.
+[09/09/2024 20:49]  Bardenix: Bardenix (Young)
+[09/09/2024 20:49]  System: Kelly Key has completed the achievement: Artificer (Basic).
+[09/09/2024 20:49]  Honey Dip: [Recruit, G.G]
+[09/09/2024 20:49]  Honey Dip: Honey Dip
+[09/09/2024 20:50]  a swashbuckler: Pirate
+[09/09/2024 20:50]  a swashbuckler: [DoK]
+[09/09/2024 20:50]  a swashbuckler: a swashbuckler
+[09/09/2024 20:50]  a sailor: Pirate
+[09/09/2024 20:50]  a sailor: [Skeleton, Crew]
+[09/09/2024 20:50]  a sailor: a sailor
+[09/09/2024 20:51]  a sailor: Pirate
+[09/09/2024 20:51]  a sailor: [Skeleton, Crew]
+[09/09/2024 20:51]  a sailor: a sailor
+[09/09/2024 20:51]  Grom Anak: [Fixer, MMx]
+[09/09/2024 20:51]  Grom Anak: Grom Anak
+[09/09/2024 20:52]  System: Not'Me has completed the achievement: Nature Slayer (Basic).
+[09/09/2024 20:52]  System: Mady has completed the achievement: Mini-Boss Slayer (Basic).
+[09/09/2024 20:52]  Ldfv: [-_-]
+[09/09/2024 20:52]  Ldfv: Lord Ldfv
+[09/09/2024 20:53]  System: The world will save in 15 seconds.
+[09/09/2024 20:53]  System: The world is saving, please wait.
+[09/09/2024 20:53]  System: World save complete. The entire process took 2.8 seconds.
+[09/09/2024 20:53]  System: Hezu Rara has completed the achievement: Captain (Epic).
+[09/09/2024 20:54]  Ziggyfizy: Ziggyfizy
+[09/09/2024 20:54]  Ziggyfizy: Ziggyfizy
+[09/09/2024 20:54]  JacoBR: JacoBR (Young)
+[09/09/2024 20:54]  JacoBR: JacoBR (Young)
+[09/09/2024 20:55]  Mr.MakeItRain: Shadowspire Legend
+[09/09/2024 20:55]  Mr.MakeItRain: Lord Mr.MakeItRain
+[09/09/2024 20:55]  System: Nox Venombane has completed the achievement: Humanoid Slayer (Advanced).
+[09/09/2024 20:55]  iDigRocks: [Pirate, P.S.]
+[09/09/2024 20:55]  iDigRocks: iDigRocks
+[09/09/2024 20:55]  System: Bad Box has completed the achievement: Aspect Mastery (Basic).
+[09/09/2024 20:55]  Mhalachai: Mhalachai
+[09/09/2024 20:55]  System: Groman Ak has completed the achievement: Enchanter (Basic).
+[09/09/2024 20:56]  Mr.MakeItRain: Shadowspire Legend
+[09/09/2024 20:56]  Mr.MakeItRain: Lord Mr.MakeItRain
+[09/09/2024 20:56]  Razor: Go to forge
+[09/09/2024 20:56]  Razor: iron ingot : 645
+[09/09/2024 20:56]  Razor: dull copper ingot : 42
+[09/09/2024 20:56]  Razor: shadow iron ingot : 14
+[09/09/2024 20:56]  Sangue: Monstrous Slayer
+[09/09/2024 20:56]  Sangue: [Emissario, ITA.]
+[09/09/2024 20:56]  Sangue: Lord Sangue
+[09/09/2024 20:57]  Zinedine Zidane: Aegis Keep Guardian
+[09/09/2024 20:57]  Zinedine Zidane: [Recruit, DOPE]
+[09/09/2024 20:57]  Zinedine Zidane: Zinedine Zidane
+[09/09/2024 20:58]  Ailiin: Ailiin
+[09/09/2024 20:58]  System: Chilly.X has completed the achievement: Alchemist (Basic).
+[09/09/2024 20:58]  Ailiin: Ailiin
+[09/09/2024 20:58]  Selina: Selina the jeweler
+[09/09/2024 20:59]  Selina: Selina the jeweler
+[09/09/2024 20:59]  a sheep: a sheep

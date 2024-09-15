@@ -1,0 +1,379 @@
+[09/13/2024 00:22]  System: WorldMap loading...
+[09/13/2024 00:22]  System: Loading WorldMap markers..
+[09/13/2024 00:22]  System: ..Banks_and_Healers.xml (39)
+[09/13/2024 00:22]  System: ..Dungeons.xml (13)
+[09/13/2024 00:22]  System: ..Dungeon_Gates.xml (388)
+[09/13/2024 00:22]  System: ..Healer_Caravans.xml (42)
+[09/13/2024 00:22]  System: ..Kings_Faire.xml (49)
+[09/13/2024 00:22]  System: ..Moongates.xml (10)
+[09/13/2024 00:22]  System: ..POI.xml (251)
+[09/13/2024 00:22]  System: ..PvP_Locations.xml (71)
+[09/13/2024 00:22]  System: ..Shrines.xml (9)
+[09/13/2024 00:22]  System: ..Sub-Dungeons.xml (4)
+[09/13/2024 00:22]  System: ..Townships.xml (10)
+[09/13/2024 00:22]  System: ..UOAM_Atlas.xml (1887)
+[09/13/2024 00:22]  System: ..UOAM_T-Map.xml (255)
+[09/13/2024 00:22]  System: ..UOAM_Treasure.xml (523)
+[09/13/2024 00:22]  System: WorldMap markers loaded (3551)
+[09/13/2024 00:22]  System: Welcome Fierro!
+[09/13/2024 00:22]  Fierro: Fierro (Young)
+[09/13/2024 00:22]  Vexxy: Vexxy
+[09/13/2024 00:22]  Beejer.: [WILDLANDS, -_-]
+[09/13/2024 00:22]  Beejer.: Lord Beejer.
+[09/13/2024 00:22]  Elija: Time Guardian
+[09/13/2024 00:22]  Elija: [Rebel, HR]
+[09/13/2024 00:22]  Elija: Lord Elija
+[09/13/2024 00:22]  Wanda: Wanda the blacksmith
+[09/13/2024 00:22]  a pack llama: (tame)
+[09/13/2024 00:22]  a pack llama: [838/2000 stones]
+[09/13/2024 00:22]  a pack llama: a pack llama
+[09/13/2024 00:22]  Minetheserocks: Minetheserocks (Young)
+[09/13/2024 00:22]  a pack llama: (tame)
+[09/13/2024 00:22]  a pack llama: [0/2000 stones]
+[09/13/2024 00:22]  a pack llama: a pack llama
+[09/13/2024 00:22]  AskChopper.: Mythical Engineer
+[09/13/2024 00:22]  AskChopper.: [Soldier, SOF]
+[09/13/2024 00:22]  AskChopper.: AskChopper.
+[09/13/2024 00:22]  George Nakashima: George Nakashima (Young)
+[09/13/2024 00:22]  Crystal: Crystal the tinker
+[09/13/2024 00:22]  Gearloose: [Veteran, NWO]
+[09/13/2024 00:22]  Gearloose: Gearloose
+[09/13/2024 00:22]  Subrey: Subrey the provisioner
+[09/13/2024 00:22]  Selina: Selina the jeweler
+[09/13/2024 00:22]  Ardith: Ardith the tailor
+[09/13/2024 00:22]  System: WorldMap loaded!
+[09/13/2024 00:22]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/13/2024 00:22]  peddaa: peddaa
+[09/13/2024 00:22]  Seraphine Lorn: Seraphine Lorn
+[09/13/2024 00:22]  BrownDorf: BrownDorf
+[09/13/2024 00:23]  Akidos: Akidos
+[09/13/2024 00:23]  Sir Pickles: Sir Pickles
+[09/13/2024 00:23]  Terris: Legendary Engineer
+[09/13/2024 00:23]  Terris: [Book Worm, CtS]
+[09/13/2024 00:23]  Terris: Terris
+[09/13/2024 00:23]  miner maid: [Ripe, SQzD]
+[09/13/2024 00:23]  miner maid: miner maid
+[09/13/2024 00:23]  Jaimito: Jaimito
+[09/13/2024 00:24]  eL Manifesto: Legendary Treasure Hunter
+[09/13/2024 00:24]  eL Manifesto: [Officer, TES]
+[09/13/2024 00:24]  eL Manifesto: Lord eL Manifesto
+[09/13/2024 00:24]  Butler Jackie: [Legionary, -_-]
+[09/13/2024 00:24]  Butler Jackie: Butler Jackie
+[09/13/2024 00:24]  Saxon: Saxon the lumberjack
+[09/13/2024 00:24]  miner maid: Kal Ort Por
+[09/13/2024 00:24]  a sheep: a sheep
+[09/13/2024 00:24]  a sheep: a sheep
+[09/13/2024 00:24]  a crow: a crow
+[09/13/2024 00:24]  Amadis: Amadis the armorer
+[09/13/2024 00:24]  a finch: a finch
+[09/13/2024 00:24]  a kingfisher: a kingfisher
+[09/13/2024 00:24]  Bilal: Bilal the blacksmith
+[09/13/2024 00:24]  Subrey: Subrey the provisioner
+[09/13/2024 00:24]  Butler Jackie: [Legionary, -_-]
+[09/13/2024 00:24]  Butler Jackie: Butler Jackie
+[09/13/2024 00:24]  Zander Zeitgeist: Zander Zeitgeist
+[09/13/2024 00:24]  Saxon: Saxon the lumberjack
+[09/13/2024 00:24]  Sir Pickles: Sir Pickles
+[09/13/2024 00:24]  Saxon: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[09/13/2024 00:24]  Saxon: For less I shall teach thee less.
+[09/13/2024 00:24]  System: Your skill in Lumberjacking has increased by 50.0.  It is now 50.0.
+[09/13/2024 00:24]  Saxon: Let me show thee something of how this is done.
+[09/13/2024 00:24]  System: Your skill level increases.
+[09/13/2024 00:25]  Saxon: Saxon the lumberjack
+[09/13/2024 00:25]  Saxon: Greetings.  Have a look around.
+[09/13/2024 00:25]  Saxon: The total of thy purchase is 75 gold.  My thanks for the patronage.
+[09/13/2024 00:25]  You see: gold coin : 1182
+[09/13/2024 00:25]  You see: hatchet
+[09/13/2024 00:25]  You see: (500 uses remaining)
+[09/13/2024 00:25]  Fierro: Fierro (Young)
+[09/13/2024 00:25]  Ninja Farts: Ninja Farts
+[09/13/2024 00:25]  Toodles: Toodles (Young)
+[09/13/2024 00:25]  Ardith: Ardith the tailor
+[09/13/2024 00:25]  Subrey: Subrey the provisioner
+[09/13/2024 00:25]  Bilal: Bilal the blacksmith
+[09/13/2024 00:25]  System: Your skill in Tactics has decreased by 1.0.  It is now 6.8.
+[09/13/2024 00:25]  Selina: Selina the jeweler
+[09/13/2024 00:25]  [Razor]: Select a new target this Action.
+[09/13/2024 00:25]  Selina: Selina the jeweler
+[09/13/2024 00:26]  System: Select an item or mobile to view/inspect
+[09/13/2024 00:26]  Ninja Farts: Ninja Farts
+[09/13/2024 00:26]  [Razor]: LanguageString "ScriptCopied" not found!
+[09/13/2024 00:26]  Selina: Selina the jeweler
+[09/13/2024 00:26]  [Razor]: Ignore List cleared
+[09/13/2024 00:26]  Razor: Target queue cleared.
+[09/13/2024 00:26]  Razor: a talar!
+[09/13/2024 00:26]  [Razor]: Ignore List cleared
+[09/13/2024 00:26]  Ninja Farts: Ninja Farts
+[09/13/2024 00:26]  [Razor]: Ignore List cleared
+[09/13/2024 00:26]  Razor: Target queue cleared.
+[09/13/2024 00:26]  Razor: a talar!
+[09/13/2024 00:26]  [Razor]: Ignore List cleared
+[09/13/2024 00:26]  System: Kroh'Gor has completed the achievement: Savant (Epic).
+[09/13/2024 00:26]  ole heavy miner: [Druid, BEAR]
+[09/13/2024 00:26]  ole heavy miner: ole heavy miner (Young)
+[09/13/2024 00:26]  Ninja Farts: Ninja Farts
+[09/13/2024 00:27]  Ardith: Ardith the tailor
+[09/13/2024 00:27]  a hind: a hind
+[09/13/2024 00:27]  I Love To Jack: I Love To Jack (Young)
+[09/13/2024 00:27]  an eagle: an eagle
+[09/13/2024 00:27]  You see: gold coin : 1182
+[09/13/2024 00:27]  an eagle: an eagle
+[09/13/2024 00:27]  Fierro: The food is scarcely edible (measly).
+[09/13/2024 00:27]  Razor: [+Food Satisfaction (3600s)]
+[09/13/2024 00:27]  [Razor]: Ignore List cleared
+[09/13/2024 00:27]  Razor: Target queue cleared.
+[09/13/2024 00:27]  Razor: a talar!
+[09/13/2024 00:27]  [Razor]: Ignore List cleared
+[09/13/2024 00:28]  System: What do you want to use this item on?
+[09/13/2024 00:28]  System: Your skill in Tactics has increased by 1.0.  It is now 7.8.
+[09/13/2024 00:28]  System: Captcha successful.
+[09/13/2024 00:28]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:28]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:28]  System: Your skill in Tactics has decreased by 1.0.  It is now 6.8.
+[09/13/2024 00:28]  Butler Jackie: [Legionary, -_-]
+[09/13/2024 00:28]  Butler Jackie: Butler Jackie
+[09/13/2024 00:28]  a great hart: a great hart
+[09/13/2024 00:28]  [Razor]: Ignore List cleared
+[09/13/2024 00:28]  Razor: Target queue cleared.
+[09/13/2024 00:28]  Razor: a talar!
+[09/13/2024 00:28]  [Razor]: Ignore List cleared
+[09/13/2024 00:28]  Kobato: [Recruit, O|P]
+[09/13/2024 00:28]  Kobato: Kobato
+[09/13/2024 00:29]  [Razor]: Ignore List cleared
+[09/13/2024 00:29]  Razor: Target queue cleared.
+[09/13/2024 00:29]  Razor: a talar!
+[09/13/2024 00:29]  Fierro: Fierro (Young)
+[09/13/2024 00:29]  : walnut leaves
+[09/13/2024 00:29]  : walnut leaves
+[09/13/2024 00:29]  System: What do you want to use this item on?
+[09/13/2024 00:29]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:29]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:29]  Razor: *** Resource depleted ***
+[09/13/2024 00:29]  System: Senhor Corvo has completed the achievement: Skill Proficiency (Basic).
+[09/13/2024 00:29]  System: What do you want to use this item on?
+[09/13/2024 00:29]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:29]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:29]  Razor: *** Resource depleted ***
+[09/13/2024 00:29]  a great hart: a great hart
+[09/13/2024 00:29]  Crystal: Crystal the tinker
+[09/13/2024 00:29]  Selina: Selina the jeweler
+[09/13/2024 00:29]  Gearloose: [Veteran, NWO]
+[09/13/2024 00:29]  Gearloose: Gearloose
+[09/13/2024 00:29]  System: What do you want to use this item on?
+[09/13/2024 00:29]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:29]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:29]  [Razor]: Ignore List cleared
+[09/13/2024 00:29]  Razor: Target queue cleared.
+[09/13/2024 00:29]  Razor: a talar!
+[09/13/2024 00:30]  [Razor]: Ignore List cleared
+[09/13/2024 00:30]  Razor: Target queue cleared.
+[09/13/2024 00:30]  Razor: a talar!
+[09/13/2024 00:30]  Glorscht: Aegis Keep Legend
+[09/13/2024 00:30]  Glorscht: [I want your seed, O|P]
+[09/13/2024 00:30]  Glorscht: Lord Glorscht
+[09/13/2024 00:30]  System: What do you want to use this item on?
+[09/13/2024 00:30]  Razor: Target: Fierro
+[09/13/2024 00:30]  Razor: * Target *
+[09/13/2024 00:30]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:30]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 50.1.
+[09/13/2024 00:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:30]  blizzard wizard: blizzard wizard (Young)
+[09/13/2024 00:31]  a finch: a finch
+[09/13/2024 00:31]  Anrak Mithrandir: [Fixer, MMx]
+[09/13/2024 00:31]  Anrak Mithrandir: Anrak Mithrandir
+[09/13/2024 00:31]  [Razor]: Script Error: dclick - invalid serial (Line: 1)
+[09/13/2024 00:31]  Noxifi: [Member, LEET]
+[09/13/2024 00:31]  Noxifi: Noxifi
+[09/13/2024 00:31]  System: a buccaneer has completed the achievement: Scribe (Advanced).
+[09/13/2024 00:31]  System: The world will save in 15 seconds.
+[09/13/2024 00:32]  System: The world is saving, please wait.
+[09/13/2024 00:32]  System: World save complete. The entire process took 2.7 seconds.
+[09/13/2024 00:32]  Ginkbur: [A#1], [tT]
+[09/13/2024 00:32]  Ginkbur: Lord Ginkbur
+[09/13/2024 00:32]  jaji: jaji
+[09/13/2024 00:32]  Blackwrath: [BLK]
+[09/13/2024 00:32]  Blackwrath: Lord Blackwrath
+[09/13/2024 00:32]  a bonehorn: (tame)
+[09/13/2024 00:32]  a bonehorn: a bonehorn
+[09/13/2024 00:32]  a bonehorn: (tame)
+[09/13/2024 00:32]  a bonehorn: a bonehorn
+[09/13/2024 00:33]  a finch: a finch
+[09/13/2024 00:34]  System: What do you want to use this item on?
+[09/13/2024 00:34]  w.o.o.o.o.o.o.o.: Aegis Keep Hero
+[09/13/2024 00:34]  w.o.o.o.o.o.o.o.: [m.o.o.o.o.o.o.o, -_-]
+[09/13/2024 00:34]  w.o.o.o.o.o.o.o.: w.o.o.o.o.o.o.o.
+[09/13/2024 00:34]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:34]  Glorscht: Aegis Keep Legend
+[09/13/2024 00:34]  Glorscht: [I want your seed, O|P]
+[09/13/2024 00:34]  Glorscht: Lord Glorscht
+[09/13/2024 00:34]  Qi Shi Zhi Men: Qi Shi Zhi Men
+[09/13/2024 00:34]  Kobato: [Recruit, O|P]
+[09/13/2024 00:34]  Kobato: Kobato
+[09/13/2024 00:34]  [Razor]: Ignore List cleared
+[09/13/2024 00:34]  Razor: Target queue cleared.
+[09/13/2024 00:34]  Razor: a talar!
+[09/13/2024 00:34]  System: What do you want to use this item on?
+[09/13/2024 00:34]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:34]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 50.2.
+[09/13/2024 00:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:34]  ganji: [Yew]
+[09/13/2024 00:34]  ganji: ganji
+[09/13/2024 00:34]  System: Fatand Uglee has completed the achievement: Leatherworker (Basic).
+[09/13/2024 00:34]  [Razor]: Ignore List cleared
+[09/13/2024 00:34]  Razor: Target queue cleared.
+[09/13/2024 00:34]  Razor: a talar!
+[09/13/2024 00:34]  System: What do you want to use this item on?
+[09/13/2024 00:35]  System: What do you want to use this item on?
+[09/13/2024 00:35]  [Razor]: Ignore List cleared
+[09/13/2024 00:35]  Razor: Target queue cleared.
+[09/13/2024 00:35]  Razor: a talar!
+[09/13/2024 00:35]  System: What do you want to use this item on?
+[09/13/2024 00:35]  System: Woundup has completed the achievement: Guardian of Inferno (Basic).
+[09/13/2024 00:35]  System: What do you want to use this item on?
+[09/13/2024 00:35]  System: What do you want to use this item on?
+[09/13/2024 00:35]  KotharWaKhasis: KotharWaKhasis
+[09/13/2024 00:35]  System: What do you want to use this item on?
+[09/13/2024 00:35]  You see: You cannot produce any wood from that.
+[09/13/2024 00:35]  System: What do you want to use this item on?
+[09/13/2024 00:35]  Razor: Target: Fierro
+[09/13/2024 00:35]  Razor: * Target *
+[09/13/2024 00:35]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:35]  [Razor]: Ignore List cleared
+[09/13/2024 00:35]  Razor: Target queue cleared.
+[09/13/2024 00:35]  Razor: a talar!
+[09/13/2024 00:35]  System: What do you want to use this item on?
+[09/13/2024 00:35]  Sqrtn: Sqrtn
+[09/13/2024 00:36]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:36]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:36]  System: What do you want to use this item on?
+[09/13/2024 00:36]  blizzard wizard: blizzard wizard (Young)
+[09/13/2024 00:36]  Beezow-doo: Beezow-doo
+[09/13/2024 00:36]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:36]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:36]  System: What do you want to use this item on?
+[09/13/2024 00:36]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:36]  System: You chop some logs and put them in your backpack.
+[09/13/2024 00:36]  a finch: a finch
+[09/13/2024 00:36]  [Razor]: Ignore List cleared
+[09/13/2024 00:36]  Razor: Target queue cleared.
+[09/13/2024 00:36]  Razor: a talar!
+[09/13/2024 00:36]  System: What do you want to use this item on?
+[09/13/2024 00:36]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:36]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 50.3.
+[09/13/2024 00:36]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:36]  System: What do you want to use this item on?
+[09/13/2024 00:36]  Parvati: [Crusader, C-C]
+[09/13/2024 00:36]  Parvati: Parvati
+[09/13/2024 00:37]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:37]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 50.4.
+[09/13/2024 00:37]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:37]  System: What do you want to use this item on?
+[09/13/2024 00:37]  Razor: *** Resource depleted ***
+[09/13/2024 00:37]  [Razor]: Ignore List cleared
+[09/13/2024 00:37]  Razor: Target queue cleared.
+[09/13/2024 00:37]  Razor: a talar!
+[09/13/2024 00:37]  System: What do you want to use this item on?
+[09/13/2024 00:37]  blizzard wizard: blizzard wizard (Young)
+[09/13/2024 00:37]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:37]  System: You chop some logs and put them in your backpack.
+[09/13/2024 00:37]  System: What do you want to use this item on?
+[09/13/2024 00:37]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:37]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:37]  Razor: *** Resource depleted ***
+[09/13/2024 00:37]  System: What do you want to use this item on?
+[09/13/2024 00:37]  I ama Hotdog: I ama Hotdog (Young)
+[09/13/2024 00:37]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:37]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 50.5.
+[09/13/2024 00:37]  System: You chop some logs and put them in your backpack.
+[09/13/2024 00:38]  System: Kulu has completed the achievement: Colorful (Basic).
+[09/13/2024 00:38]  [Razor]: Ignore List cleared
+[09/13/2024 00:38]  Razor: Target queue cleared.
+[09/13/2024 00:38]  Lithium Orotate: Lithium Orotate
+[09/13/2024 00:38]  Razor: a talar!
+[09/13/2024 00:38]  System: What do you want to use this item on?
+[09/13/2024 00:38]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:38]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:38]  a finch: a finch
+[09/13/2024 00:38]  an eagle: an eagle
+[09/13/2024 00:38]  System: Satunaka has completed the achievement: Aspect Mastery (Advanced).
+[09/13/2024 00:38]  a hind: a hind
+[09/13/2024 00:38]  Razor: *** Resource depleted ***
+[09/13/2024 00:38]  Lithium Orotate: Lithium Orotate
+[09/13/2024 00:38]  System: What do you want to use this item on?
+[09/13/2024 00:38]  a great hart: a great hart
+[09/13/2024 00:38]  Lithium Orotate: Lithium Orotate
+[09/13/2024 00:38]  Lithium Orotate: Lithium Orotate
+[09/13/2024 00:38]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:38]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 50.6.
+[09/13/2024 00:38]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:38]  System: What do you want to use this item on?
+[09/13/2024 00:38]  a great hart: a great hart
+[09/13/2024 00:38]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:38]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:38]  System: What do you want to use this item on?
+[09/13/2024 00:38]  System: Nathan Explosion has completed the achievement: Monstrous Slayer (Basic).
+[09/13/2024 00:38]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:38]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:38]  System: What do you want to use this item on?
+[09/13/2024 00:38]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:38]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:38]  System: What do you want to use this item on?
+[09/13/2024 00:38]  : tree
+[09/13/2024 00:38]  System: Penta Zero Miedo has registered an antiquity: Fortress Beetle Figurine
+[09/13/2024 00:38]  System: Penta Zero Miedo has completed the achievement: Dungeon Antiquities (Epic).
+[09/13/2024 00:38]  : tree
+[09/13/2024 00:38]  : tree
+[09/13/2024 00:38]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:38]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 50.7.
+[09/13/2024 00:38]  System: You chop some logs and put them in your backpack.
+[09/13/2024 00:38]  Razor: [Last Target]
+[09/13/2024 00:38]  Fierro: Fierro (Young)
+[09/13/2024 00:38]  System: What do you want to use this item on?
+[09/13/2024 00:38]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:38]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/13/2024 00:38]  System: What do you want to use this item on?
+[09/13/2024 00:38]  System: Lumberjacking skillgain: 34.483%
+[09/13/2024 00:38]  System: You chop some logs and put them in your backpack.
+[09/13/2024 00:38]  System: What do you want to use this item on?
+[09/13/2024 00:38]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:38]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:38]  I ama Hotdog: I ama Hotdog (Young)
+[09/13/2024 00:39]  I ama Hotdog: I ama Hotdog (Young)
+[09/13/2024 00:39]  Razor: *** Resource depleted ***
+[09/13/2024 00:39]  System: What do you want to use this item on?
+[09/13/2024 00:39]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:39]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:39]  Razor: *** Resource depleted ***
+[09/13/2024 00:39]  System: What do you want to use this item on?
+[09/13/2024 00:39]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:39]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:39]  System: Chuck Nova has completed the achievement: Wilderness Hunter (Advanced).
+[09/13/2024 00:39]  Razor: *** Resource depleted ***
+[09/13/2024 00:39]  System: What do you want to use this item on?
+[09/13/2024 00:39]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:39]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:39]  Razor: *** Resource depleted ***
+[09/13/2024 00:39]  System: What do you want to use this item on?
+[09/13/2024 00:39]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:39]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:39]  [Razor]: Ignore List cleared
+[09/13/2024 00:39]  Razor: Target queue cleared.
+[09/13/2024 00:39]  Razor: a talar!
+[09/13/2024 00:39]  System: What do you want to use this item on?
+[09/13/2024 00:39]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:39]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:39]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/13/2024 00:39]  [Razor]: Ignore List cleared
+[09/13/2024 00:39]  Razor: Target queue cleared.
+[09/13/2024 00:39]  Razor: a talar!
+[09/13/2024 00:39]  System: What do you want to use this item on?
+[09/13/2024 00:39]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:39]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:39]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/13/2024 00:39]  Razor: *** Resource depleted ***
+[09/13/2024 00:39]  System: What do you want to use this item on?
+[09/13/2024 00:39]  System: You do not see any harvestable resources nearby.
+[09/13/2024 00:39]  Fierro: You cannot produce any wood from that.
+[09/13/2024 00:40]  a great hart: a great hart

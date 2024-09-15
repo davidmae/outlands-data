@@ -1,0 +1,246 @@
+removelist ItemTypes
+createlist ItemTypes
+
+@pushlist ItemTypes 31191 
+@pushlist ItemTypes 5056
+@pushlist ItemTypes 5059
+@pushlist ItemTypes 5060
+@pushlist ItemTypes 5061
+@pushlist ItemTypes 5063
+@pushlist ItemTypes 5070
+@pushlist ItemTypes 5074
+@pushlist ItemTypes 5075
+@pushlist ItemTypes 5076
+@pushlist ItemTypes 5078
+@pushlist ItemTypes 5085
+@pushlist ItemTypes 5089
+@pushlist ItemTypes 5090
+@pushlist ItemTypes 5101
+@pushlist ItemTypes 5103
+@pushlist ItemTypes 5105
+@pushlist ItemTypes 5106
+@pushlist ItemTypes 5129
+@pushlist ItemTypes 5131
+@pushlist ItemTypes 5132
+@pushlist ItemTypes 5135
+@pushlist ItemTypes 5138
+@pushlist ItemTypes 5139
+@pushlist ItemTypes 5142
+@pushlist ItemTypes 5143
+@pushlist ItemTypes 5144
+@pushlist ItemTypes 5146
+@pushlist ItemTypes 5201
+@pushlist ItemTypes 5203
+@pushlist ItemTypes 5204
+@pushlist ItemTypes 5205
+@pushlist ItemTypes 5207
+@pushlist ItemTypes 7169
+@pushlist ItemTypes 7170
+@pushlist ItemTypes 7173
+@pushlist ItemTypes 7175
+@pushlist ItemTypes 7177
+@pushlist ItemTypes 7179
+@pushlist ItemTypes 7181
+@pushlist ItemTypes 7610
+@pushlist ItemTypes 7947
+@pushlist ItemTypes 31003
+@pushlist ItemTypes 31004
+@pushlist ItemTypes 31005
+@pushlist ItemTypes 31006
+@pushlist ItemTypes 31007
+@pushlist ItemTypes 31008
+@pushlist ItemTypes 31009
+@pushlist ItemTypes 31010
+@pushlist ItemTypes 31011
+@pushlist ItemTypes 31012
+@pushlist ItemTypes 31015
+
+@pushlist ItemTypes 3834
+@pushlist ItemTypes 6238
+@pushlist ItemTypes 8786
+@pushlist ItemTypes 8787
+@pushlist ItemTypes 8901
+@pushlist ItemTypes 11881
+@pushlist ItemTypes 11882
+@pushlist ItemTypes 11883
+@pushlist ItemTypes 11884
+@pushlist ItemTypes 11885
+@pushlist ItemTypes 11886
+@pushlist ItemTypes 11887
+@pushlist ItemTypes 11888
+@pushlist ItemTypes 11889
+@pushlist ItemTypes 11890
+@pushlist ItemTypes 11891
+@pushlist ItemTypes 11893
+@pushlist ItemTypes 11895
+@pushlist ItemTypes 29103
+@pushlist ItemTypes 29104
+@pushlist ItemTypes 29105
+@pushlist ItemTypes 41471
+@pushlist ItemTypes 42516
+@pushlist ItemTypes 45340
+@pushlist ItemTypes 45823
+@pushlist ItemTypes 3568
+@pushlist ItemTypes 3570
+@pushlist ItemTypes 3571
+@pushlist ItemTypes 3572
+@pushlist ItemTypes 3573
+@pushlist ItemTypes 3713
+@pushlist ItemTypes 3719
+@pushlist ItemTypes 3721
+@pushlist ItemTypes 3740
+@pushlist ItemTypes 3742
+@pushlist ItemTypes 3762
+@pushlist ItemTypes 3763
+@pushlist ItemTypes 3834
+@pushlist ItemTypes 3909
+@pushlist ItemTypes 3911
+@pushlist ItemTypes 3913
+@pushlist ItemTypes 3915
+@pushlist ItemTypes 3917
+@pushlist ItemTypes 3920
+@pushlist ItemTypes 3922
+@pushlist ItemTypes 3932
+@pushlist ItemTypes 3934
+@pushlist ItemTypes 3937
+@pushlist ItemTypes 3938
+@pushlist ItemTypes 5040
+@pushlist ItemTypes 5042
+@pushlist ItemTypes 5044
+@pushlist ItemTypes 5046
+@pushlist ItemTypes 5049
+@pushlist ItemTypes 5112
+@pushlist ItemTypes 5115
+@pushlist ItemTypes 5117
+@pushlist ItemTypes 5119
+@pushlist ItemTypes 5121
+@pushlist ItemTypes 5123
+@pushlist ItemTypes 5125
+@pushlist ItemTypes 5127
+@pushlist ItemTypes 5177
+@pushlist ItemTypes 5179
+@pushlist ItemTypes 5181
+@pushlist ItemTypes 5182
+@pushlist ItemTypes 5185
+@pushlist ItemTypes 5187
+@pushlist ItemTypes 7026
+@pushlist ItemTypes 7027
+@pushlist ItemTypes 7029
+@pushlist ItemTypes 7031
+@pushlist ItemTypes 7033
+@pushlist ItemTypes 7034
+@pushlist ItemTypes 7035
+@pushlist ItemTypes 7107
+@pushlist ItemTypes 7109
+@pushlist ItemTypes 10245
+@pushlist ItemTypes 20006
+@pushlist ItemTypes 20008
+@pushlist ItemTypes 20010
+@pushlist ItemTypes 20012
+@pushlist ItemTypes 20014
+@pushlist ItemTypes 20016
+@pushlist ItemTypes 22187
+@pushlist ItemTypes 30988
+@pushlist ItemTypes 30989
+@pushlist ItemTypes 30990
+@pushlist ItemTypes 30991
+@pushlist ItemTypes 30992
+@pushlist ItemTypes 30993
+@pushlist ItemTypes 30994
+@pushlist ItemTypes 30995
+@pushlist ItemTypes 30996
+@pushlist ItemTypes 30997
+@pushlist ItemTypes 30998
+@pushlist ItemTypes 30999
+@pushlist ItemTypes 31000
+@pushlist ItemTypes 31001
+@pushlist ItemTypes 31002
+@pushlist ItemTypes 31014
+@pushlist ItemTypes 31017
+@pushlist ItemTypes 31019
+@pushlist ItemTypes 31021
+@pushlist ItemTypes 31023
+@pushlist ItemTypes 31025
+@pushlist ItemTypes 31027
+@pushlist ItemTypes 31029
+@pushlist ItemTypes 31031
+@pushlist ItemTypes 31033
+@pushlist ItemTypes 31035
+@pushlist ItemTypes 31037
+@pushlist ItemTypes 31038
+@pushlist ItemTypes 31041
+@pushlist ItemTypes 31043
+@pushlist ItemTypes 31045
+@pushlist ItemTypes 31047
+@pushlist ItemTypes 31049
+@pushlist ItemTypes 31051
+@pushlist ItemTypes 31053
+@pushlist ItemTypes 31055
+@pushlist ItemTypes 31128
+@pushlist ItemTypes 31130
+@pushlist ItemTypes 31141
+@pushlist ItemTypes 31142
+@pushlist ItemTypes 31176
+@pushlist ItemTypes 31178
+@pushlist ItemTypes 31180
+@pushlist ItemTypes 31182
+@pushlist ItemTypes 31184
+@pushlist ItemTypes 31186
+@pushlist ItemTypes 31188
+@pushlist ItemTypes 31190
+
+
+if findtype 3702 ground -1 -1 2 as bag
+    dclick bag  
+    wait 500 
+    foreach x in ItemTypes
+        if findtype x bag as found
+            hotkey 'set last target'
+            target found
+            @setvar myVariable lasttarget
+            wait 200
+            getlabel 'myVariable' myLabel
+            if 'unidentified' in myLabel
+                skill 'itemidentification'
+                waitfortarget
+                target myVariable
+                wait 425
+            endif
+            sysmsg myLabel 85
+            wait 600
+        endif
+    endfor
+endif
+
+if findtype 3702 ground -1 -1 2 as bag
+    dclick bag  
+    wait 500 
+    foreach x in ItemTypes
+        if findtype x bag as found
+            hotkey 'set last target'
+            target found
+            @setvar myVariable lasttarget
+            wait 200
+            getlabel 'myVariable' myLabel
+            if 'defense' in myLabel
+                lift found
+                wait 500
+                drop backpack
+            elseif 'guarding' in myLabel
+                lift found
+                wait 500
+                drop backpack
+            elseif 'ruin' in myLabel
+                lift found
+                wait 500
+                drop backpack
+            elseif 'melodious' in myLabel
+                lift found
+                wait 500
+                drop backpack
+            endif               
+        endif
+    endfor
+endif 
+
+sysmsg 'Done'

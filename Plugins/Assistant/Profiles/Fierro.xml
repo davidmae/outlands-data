@@ -13,7 +13,7 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">635</property>
+	<property name="WindowX" type="System.Int32">-902</property>
 	<property name="WindowY" type="System.Int32">0</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">160</property>
-	<property name="RazorHeight" type="System.Int32">28</property>
+	<property name="RazorWidth" type="System.Int32">909</property>
+	<property name="RazorHeight" type="System.Int32">411</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -206,7 +206,9 @@
 	</overheadmessages>
 	<containerlabels />
 	<macrovariables />
-	<scriptvariables />
+	<scriptvariables>
+		<scriptvariable serial="0x47D8B523" name="harvesting_tool" />
+	</scriptvariables>
 	<friends />
 	<textfilters />
 	<targetfilters />

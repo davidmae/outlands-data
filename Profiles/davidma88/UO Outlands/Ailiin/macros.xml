@@ -57,7 +57,7 @@
 	</macro>
 	<macro name="Bank" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="bank room vendor buy" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\EasySays\BankRoomMain" />
 		</actions>
 	</macro>
 	<macro name="Lockdown Item" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -88,11 +88,6 @@
 	<macro name="Target Self" key="0" mousebutton="8" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="23" subcode="0" submenutype="0" />
-		</actions>
-	</macro>
-	<macro name="Pouch" key="98" mousebutton="0" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="[pouch" />
 		</actions>
 	</macro>
 	<macro name="LastObject" key="122" mousebutton="0" alt="False" ctrl="True" shift="False">
@@ -211,14 +206,9 @@
 			<action code="1" subcode="0" submenutype="2" text="[SacredJourney" />
 		</actions>
 	</macro>
-	<macro name="Escape" key="109" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Escape" key="98" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\Escape" />
-		</actions>
-	</macro>
-	<macro name="ProvokeNearest2" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\ProvokNearest" />
 		</actions>
 	</macro>
 	<macro name="DropLootBank" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -249,6 +239,31 @@
 	<macro name="BardBuff" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\BardBuff" />
+		</actions>
+	</macro>
+	<macro name="PeaceNear2" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\PeaceNearest" />
+		</actions>
+	</macro>
+	<macro name="Prevalia" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\GoPrevalia" />
+		</actions>
+	</macro>
+	<macro name="Terran" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\GoTerran" />
+		</actions>
+	</macro>
+	<macro name="DressPVE#1" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\ToggleDressPVE#1" />
+		</actions>
+	</macro>
+	<macro name="Stats" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[playerstats" />
 		</actions>
 	</macro>
 </macros>

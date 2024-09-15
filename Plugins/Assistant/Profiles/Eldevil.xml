@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">82</property>
-	<property name="WindowY" type="System.Int32">92</property>
+	<property name="WindowX" type="System.Int32">227</property>
+	<property name="WindowY" type="System.Int32">371</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">803</property>
-	<property name="RazorHeight" type="System.Int32">553</property>
+	<property name="RazorWidth" type="System.Int32">160</property>
+	<property name="RazorHeight" type="System.Int32">28</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -191,10 +191,9 @@
 			<item id="3859" />
 			<item id="3856" />
 		</Organizer-2>
-		<Organizer-3 hotbag="1094065125">
+		<Organizer-3 hotbag="1458969872">
 			<item id="31015" />
 			<item id="31012" />
-			<item id="20012" />
 			<item id="5042" />
 			<item id="5056" />
 			<item id="31027" />
@@ -264,21 +263,39 @@
 		</Sell>
 		<UseOnce />
 	</agents>
-	<dresslists />
+	<dresslists>
+		<list name="pve_1" undressbag="0x5F3EE3E7">
+			<item serial="1094065127" />
+			<item serial="1590849092" />
+			<item serial="1595939888" />
+			<item serial="1590849089" />
+			<item serial="1547581378" />
+			<item serial="1547581379" />
+			<item serial="1595884572" />
+			<item serial="1590849090" />
+			<item serial="1590849093" />
+			<item serial="1744868368" />
+			<item serial="1754287071" />
+			<item serial="1133672942" />
+			<item serial="1631537910" />
+		</list>
+	</dresslists>
 	<hotkeys />
-	<overheadmessages />
+	<overheadmessages>
+		<overheadmessage searchtext="Your shot hinders your target!" message="*** Special Attack: Hinder Target ***" hue="605" />
+	</overheadmessages>
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x53D34D" name="CurrentTarget" />
-		<scriptvariable serial="0x6A326E" name="mobTwo" />
+		<scriptvariable serial="0x806C4E" name="CurrentTarget" />
+		<scriptvariable serial="0x399931" name="mobTwo" />
 		<scriptvariable serial="0xFFFFFFFF" name="scroll" />
 		<scriptvariable serial="0x67748815" name="type" />
 		<scriptvariable serial="0x0" name="myPreviousKillTarget" />
 		<scriptvariable serial="0x49D947B6" name="instrument" />
 	</scriptvariables>
 	<friends>
-		<group name="outlands" enabled="True" overheadformat="[Friend]" overheadhue="63" overheadenabled="True">
+		<group name="outlands" enabled="True" overheadformat="[Friend]" overheadhue="63" overheadenabled="False">
 			<friend name="Bock l'Orc" serial="0xD15E6" />
 		</group>
 	</friends>

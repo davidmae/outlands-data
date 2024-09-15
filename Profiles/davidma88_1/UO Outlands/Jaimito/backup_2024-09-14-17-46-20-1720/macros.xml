@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<macros>
+	<macro name="Paperdoll" key="112" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="10" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Options" key="111" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="9" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Journal" key="106" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="12" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Open Status Bar" key="115" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="11" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Backpack" key="105" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="16" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Radar" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="17" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Bow" key="98" mousebutton="0" alt="False" ctrl="True" shift="False">
+		<actions>
+			<action code="18" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Salute" key="115" mousebutton="0" alt="False" ctrl="True" shift="False">
+		<actions>
+			<action code="19" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Open Wiki" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[wiki" />
+		</actions>
+	</macro>
+	<macro name="Outlands Help Page" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[help" />
+		</actions>
+	</macro>
+	<macro name="Guards" key="1073741882" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="Guards!" />
+		</actions>
+	</macro>
+	<macro name="Lockdown Item" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="I wish to lock this down" />
+		</actions>
+	</macro>
+	<macro name="Secure Item" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="I wish to secure this" />
+		</actions>
+	</macro>
+	<macro name="Release item" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="I wish to release this" />
+		</actions>
+	</macro>
+	<macro name="Circle Trans" key="54" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="29" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Last Target" key="0" mousebutton="7" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="22" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Target Self" key="0" mousebutton="8" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="23" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Pouch" key="98" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[pouch" />
+		</actions>
+	</macro>
+	<macro name="LastObject" key="122" mousebutton="0" alt="False" ctrl="True" shift="False">
+		<actions>
+			<action code="17" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="stable" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[stable" />
+		</actions>
+	</macro>
+	<macro name="show names" key="32" mousebutton="0" alt="False" ctrl="False" shift="True">
+		<actions>
+			<action code="21" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="InfoItem" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;info" />
+		</actions>
+	</macro>
+	<macro name="Invis" key="113" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="105" submenutype="1" />
+			<action code="25" subcode="0" submenutype="0" />
+			<action code="23" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Nearest Chest" key="0" mousebutton="5" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\near chest" />
+		</actions>
+	</macro>
+	<macro name="Black Market" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="Black Market" />
+		</actions>
+	</macro>
+	<macro name="RestockBank" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\Restock Reagents" />
+		</actions>
+	</macro>
+	<macro name="CampingRecall" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\CampingRecall" />
+		</actions>
+	</macro>
+	<macro name="CampingRecall2" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\CampingRecall2" />
+		</actions>
+	</macro>
+	<macro name="TargetNearest" key="0" mousebutton="4" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="50" subcode="205" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="PrepareSteal" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="13" subcode="53" submenutype="1" />
+			<action code="22" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="OpenContainers" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\OpenContainers" />
+		</actions>
+	</macro>
+	<macro name="BankRoomVendor" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\EasySays\BankRoomVendor" />
+		</actions>
+	</macro>
+</macros>

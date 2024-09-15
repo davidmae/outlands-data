@@ -1,0 +1,25 @@
+@setvar! bank 1323385254
+
+while not dead 
+        
+    skill 'Poisoning'
+    wait 500
+
+    if not findtype "Green Potion" backpack -1 0 -1 
+        if findtype "Green Potion" bank -1 -1 1 as regsbank
+            lift regsbank 1
+            wait 500
+            drop backpack -1 -1 -1
+            wait 500
+        endif
+    endif
+     
+
+    if findtype 'Green Potion' backpack -1 -1 -1 as poti
+        target poti
+        wft
+        targettype '5125'
+        wait 5000
+    endif 
+      
+endwhile

@@ -1,0 +1,69 @@
+
+##### ingots #####
+if findtype 6585 backpack 0 as iron
+    dclick iron
+endif
+if findtype 7154 backpack 0 as iingot
+    getlabel iingot ingots
+    overhead ingots 0
+endif
+wait 500
+
+if findtype 6585 backpack 2419 as iron
+    dclick iron
+endif
+if findtype 7154 backpack 2419 as iingot
+    getlabel iingot ingots
+    overhead ingots 2419
+endif
+wait 500
+
+if findtype 6585 backpack 2406 as iron
+    dclick iron
+endif
+if findtype 7154 backpack 2406 as iingot
+    getlabel iingot ingots
+    overhead ingots 2406
+endif
+wait 500
+
+if findtype 6585 backpack 2413 as iron
+    dclick iron
+endif
+if findtype 7154 backpack 2413 as iingot
+    getlabel iingot ingots
+    overhead ingots 2413
+endif
+wait 500
+
+
+
+##### boards #####
+
+if findtype "hatchet" self as tool
+    @setvar! _tool tool
+endif
+
+if findtype 7133 backpack 0 as wood
+    dclick _tool
+    wft
+    target wood
+    wait 3000
+endif
+if findtype 7127 backpack 0 as board
+    getlabel board boards
+    overhead boards 0
+endif
+wait 500
+
+if findtype 7133 backpack 2419 as wood
+    dclick _tool
+    wft
+    target wood
+    wait 3000
+endif
+if findtype 7127 backpack 2419 as board
+    getlabel board boards
+    overhead boards 2419
+endif
+wait 500

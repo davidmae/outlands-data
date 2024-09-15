@@ -1,0 +1,21 @@
+say '[SacredJourney'
+waitforgump 1482653814
+wait 500
+
+gumpresponse 1
+wait 2000
+
+if findtype 30528 ground 2091 1 2 as mgate
+    dclick mgate
+    wait 500
+endif
+
+waitforgump 3773199800
+waitforgump 1387930325
+gumpresponse 16
+waitforgump 3773199800
+waitforgump 1387930325
+gumpresponse 2
+
+
+stop
