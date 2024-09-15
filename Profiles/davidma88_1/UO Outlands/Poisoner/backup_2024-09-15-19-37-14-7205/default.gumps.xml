@@ -40,11 +40,9 @@
 		<gump type="16" x="1246" y="542" serial="0" id="36" matrix_x="0" matrix_y="1" />
 		<gump type="16" x="1246" y="542" serial="0" id="36" matrix_x="1" matrix_y="1" />
 	</anchored_group_gump>
-	<gump type="2" x="1238" y="387" serial="1323385254" graphic="74" isminimized="False" />
-	<gump type="2" x="1529" y="423" serial="1323385255" graphic="60" isminimized="False" />
 	<gump type="9" x="1612" y="26" serial="3247949" isminimized="False" />
 	<gump type="10" x="1546" y="699" serial="0" isminimized="False" height="420" />
-	<gump type="7" x="1659" y="358" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="2" x="1529" y="423" serial="1323385255" graphic="60" isminimized="False" />
 	<gump type="3" x="1877" y="-3" serial="0" rows="27" columns="1" rectsize="40">
 		<controls>
 			<control graphic="52149" hue="2876" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -57,7 +55,7 @@
 			<control graphic="0" hue="0" />
 			<control graphic="7956" hue="0" />
 			<control graphic="0" hue="0" />
-			<control graphic="3739" hue="0" />
+			<control graphic="0" hue="0" />
 			<control graphic="3854" hue="0" />
 			<control graphic="3974" hue="0" />
 			<control graphic="3963" hue="0" />
@@ -89,7 +87,8 @@
 	<gump type="7" x="1421" y="891" serial="1030" name="OpenContainers" graphicId="705" hideLabel="False" scale="1.8" />
 	<gump type="4" x="1178" y="21" serial="3247949" />
 	<gump type="7" x="462" y="35" serial="1032" name="CT" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="7" x="1659" y="358" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
 	<gump type="21" x="460" y="881" serial="0" />
 	<gump type="18" x="0" y="2" serial="0" />
-	<gump type="6" x="12" y="569" serial="0" />
+	<gump type="6" x="11" y="430" serial="0" />
 </gumps>

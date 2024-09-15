@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 504,
-  "default_scale": 0.9,
+  "default_scale": 0.9000001,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -91,8 +91,8 @@
   "hold_shift_to_split_stack": false,
   "lock_follower_rename": false,
   "window_client_bounds": {
-    "X": 2560,
-    "Y": 1440
+    "X": 1920,
+    "Y": 1080
   },
   "game_window_position": {
     "X": 0,
@@ -102,8 +102,8 @@
   "game_window_full_size": true,
   "window_borderless": true,
   "game_window_size": {
-    "X": 2048,
-    "Y": 1152
+    "X": 1920,
+    "Y": 1080
   },
   "topbar_gump_position": {
     "X": 3,
@@ -172,7 +172,7 @@
   "drag_select_start_x": 554,
   "drag_select_start_y": 438,
   "drag_select_as_anchor": true,
-  "last_active_name_overhead_option": "All",
+  "last_active_name_overhead_option": "Mobiles only",
   "name_overhead_toggled": false,
   "keep_overhead_manager_gump_open": true,
   "show_target_range_indicator": true,

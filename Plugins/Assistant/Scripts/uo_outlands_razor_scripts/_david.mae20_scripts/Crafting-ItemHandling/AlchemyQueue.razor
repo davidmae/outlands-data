@@ -1,0 +1,41 @@
+@setvar! bank 1323385254
+@setvar! regtarget 3981
+@setvar! stopskill 70
+
+while not dead
+
+    if not findtype regtarget backpack -1 5 -1 
+        if findtype regtarget bank -1 -1 -1 as regsbank
+            lift regsbank 500
+            wait 500
+            drop backpack -1 -1 -1
+            wait 500
+        endif
+    endif
+
+    if skill 'alchemy' = stopskill
+        gumpresponse 7
+        waitforgump 453554062
+        waitforgump 949095101
+    endif
+
+    if findtype 3850 backpack -1 25 -1 as potis_poison
+        lift potis_poison 25
+        wait 500
+        drop bank 80 105 0
+    endif
+
+    if findtype 3846 backpack -1 25 -1 as potis_resist
+        lift potis_resist 25
+        wait 500
+        drop bank 80 105 0
+    endif
+    #
+    #skill 'tasteidentification'
+    #wait 500
+    #if findtype 2429 backpack -1 -1 -1 as food
+    #    target food
+    #    wait 3333
+    #endif
+
+endwhile
