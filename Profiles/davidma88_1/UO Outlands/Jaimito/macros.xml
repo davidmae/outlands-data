@@ -85,7 +85,7 @@
 			<action code="23" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
-	<macro name="Pouch" key="98" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Pouch" key="118" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="[pouch" />
 		</actions>
@@ -166,6 +166,11 @@
 	<macro name="CT" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="29" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Escape" key="98" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\Escape" />
 		</actions>
 	</macro>
 </macros>

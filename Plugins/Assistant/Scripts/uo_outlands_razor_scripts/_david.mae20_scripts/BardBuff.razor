@@ -1,19 +1,36 @@
-if not findbuff "Song of Peacemaking"
-    skill 'Peacemaking'
-    wft
-    target backpack
-    wait 10000
-endif
-if not findbuff "Song of Discordance"
-    skill 'Discordance'
-    wft
-    target backpack
-    wait 10000
-endif
-if not findbuff "Song of Provocation"
-    skill 'Provocation'
-    wft
-    target backpack
-    wait 10000
-endif
-loop
+overhead "[+Start 'BardBuff']" 111
+
+@setvar! buffed_pec 0
+@setvar! buffed_dir 0
+@setvar! buffed_pro 0
+
+while not dead
+    if not findbuff "Song of Peacemaking"
+        skill 'Peacemaking'
+        wft
+        target backpack
+        wait 13000
+        @setvar! buffed_pec 1
+    endif
+    if not findbuff "Song of Discordance"
+        skill 'Discordance'
+        wft
+        target backpack
+        wait 13000
+        @setvar! buffed_dis 1
+    endif
+    if not findbuff "Song of Provocation"
+        skill 'Provocation'
+        wft
+        target backpack
+        wait 13000
+        @setvar! buffed_pro 1
+    endif
+
+
+    if buffed_pec = 1 and buffed_dis = 1 and buffed_pro = 1
+        overhead "[+End 'BardBuff']" 1111
+        stop
+    endif
+
+endwhile

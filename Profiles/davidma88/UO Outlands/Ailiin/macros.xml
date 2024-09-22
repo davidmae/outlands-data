@@ -223,7 +223,7 @@
 	</macro>
 	<macro name="DiscNearest2" key="0" mousebutton="5" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\DiscordNearest" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\PVM\DiscordNearest" />
 		</actions>
 	</macro>
 	<macro name="ProvokeNearestAuto" key="0" mousebutton="2" alt="False" ctrl="True" shift="False">
@@ -233,17 +233,12 @@
 	</macro>
 	<macro name="UltraBuff" key="97" mousebutton="0" alt="True" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\UltraBuff" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\PVM\UltraBuff" />
 		</actions>
 	</macro>
 	<macro name="BardBuff" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\BardBuff" />
-		</actions>
-	</macro>
-	<macro name="PeaceNear2" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\PeaceNearest" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\PVM\BardBuff" />
 		</actions>
 	</macro>
 	<macro name="Prevalia" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -251,9 +246,9 @@
 			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\GoPrevalia" />
 		</actions>
 	</macro>
-	<macro name="Terran" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Terran" key="98" mousebutton="0" alt="True" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\GoTerran" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\Mobility\Terran" />
 		</actions>
 	</macro>
 	<macro name="DressPVE#1" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -264,6 +259,21 @@
 	<macro name="Stats" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="[playerstats" />
+		</actions>
+	</macro>
+	<macro name="SplitGold" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\PVM\SplitGold" />
+		</actions>
+	</macro>
+	<macro name="BardBot" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\PVM\BardBot" />
+		</actions>
+	</macro>
+	<macro name="Carve" key="103" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\PVM\Carve" />
 		</actions>
 	</macro>
 </macros>

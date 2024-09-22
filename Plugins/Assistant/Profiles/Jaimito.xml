@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">-7</property>
-	<property name="WindowY" type="System.Int32">0</property>
+	<property name="WindowX" type="System.Int32">1598</property>
+	<property name="WindowY" type="System.Int32">311</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">974</property>
-	<property name="RazorHeight" type="System.Int32">1039</property>
+	<property name="RazorWidth" type="System.Int32">776</property>
+	<property name="RazorHeight" type="System.Int32">411</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -179,7 +179,9 @@
 		<Organizer-1 hotbag="1350201521">
 			<item id="29001" />
 		</Organizer-1>
-		<Organizer-2 hotbag="0" />
+		<Organizer-2 hotbag="1458969872">
+			<item id="4032" />
+		</Organizer-2>
 		<Organizer-3 hotbag="0" />
 		<Organizer-4 hotbag="0" />
 		<Organizer-5 hotbag="0" />
@@ -213,7 +215,9 @@
 			<item id="5370" amount="9" />
 			<item id="7956" amount="1" />
 		</Restock-1>
-		<Restock-2 hotbag="0" />
+		<Restock-2 hotbag="1160050294">
+			<item id="4032" amount="111" />
+		</Restock-2>
 		<Restock-3 hotbag="0" />
 		<Restock-4 hotbag="0" />
 		<Restock-5 hotbag="0" />

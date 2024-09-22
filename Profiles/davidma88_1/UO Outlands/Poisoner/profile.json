@@ -1,8 +1,8 @@
 {
   "enable_sound": true,
-  "sound_volume": 66,
+  "sound_volume": 55,
   "enable_music": true,
-  "music_volume": 15,
+  "music_volume": 51,
   "foot_steps_volume": 19,
   "loop_music": true,
   "enable_footsteps_sound": true,
@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 90,
   "circle_of_transparency_type": 2,
   "vendor_gump_height": 504,
-  "default_scale": 0.9,
+  "default_scale": 0.6999999,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -102,8 +102,8 @@
   "game_window_full_size": true,
   "window_borderless": true,
   "game_window_size": {
-    "X": 1920,
-    "Y": 1080
+    "X": 2048,
+    "Y": 1152
   },
   "topbar_gump_position": {
     "X": 0,
@@ -274,7 +274,7 @@
   "world_map_top_most": false,
   "world_map_free_view": false,
   "world_map_show_party": true,
-  "world_map_zoom_index": 6,
+  "world_map_zoom_index": 4,
   "world_map_show_coordinates": true,
   "world_map_show_mobiles": true,
   "world_map_show_player_name": true,

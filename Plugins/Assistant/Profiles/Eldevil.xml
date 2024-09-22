@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">-7</property>
-	<property name="WindowY" type="System.Int32">0</property>
+	<property name="WindowX" type="System.Int32">1616</property>
+	<property name="WindowY" type="System.Int32">242</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">160</property>
-	<property name="RazorHeight" type="System.Int32">28</property>
+	<property name="RazorWidth" type="System.Int32">776</property>
+	<property name="RazorHeight" type="System.Int32">411</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -54,7 +54,7 @@
 	<property name="DiffTargetByType" type="System.Boolean">False</property>
 	<property name="StepThroughMacro" type="System.Boolean">False</property>
 	<property name="ShowTargetSelfLastClearOverhead" type="System.Boolean">False</property>
-	<property name="ShowOverheadMessages" type="System.Boolean">False</property>
+	<property name="ShowOverheadMessages" type="System.Boolean">True</property>
 	<property name="OverheadFormat" type="System.String">[{msg}]</property>
 	<property name="OverheadStyle" type="System.Int32">1</property>
 	<property name="LightLevel" type="System.Int32">31</property>
@@ -177,6 +177,10 @@
 			<item id="7998" />
 			<item id="7997" />
 			<item id="8008" />
+			<item id="8018" />
+			<item id="8009" />
+			<item id="8013" />
+			<item id="4032" />
 		</Organizer-1>
 		<Organizer-2 hotbag="1094065123">
 			<item id="3878" />
@@ -236,7 +240,12 @@
 		<Organizer-18 hotbag="0" />
 		<Organizer-19 hotbag="0" />
 		<Organizer-20 hotbag="0" />
-		<Restock-1 hotbag="0" />
+		<Restock-1 hotbag="0">
+			<item id="3617" amount="100" />
+			<item id="8012" amount="10" />
+			<item id="5370" amount="8" />
+			<item id="3903" amount="500" />
+		</Restock-1>
 		<Restock-2 hotbag="0" />
 		<Restock-3 hotbag="0" />
 		<Restock-4 hotbag="0" />
@@ -249,6 +258,7 @@
 		<Scavenger enabled="True">
 			<item id="3821" />
 			<item id="3903" />
+			<item id="7163" />
 		</Scavenger>
 		<AutoSearchExemptions />
 		<Sell enabled="False">
@@ -265,34 +275,37 @@
 	</agents>
 	<dresslists>
 		<list name="pve_1" undressbag="0x5F3EE3E7">
-			<item serial="1094065127" />
-			<item serial="1590849092" />
-			<item serial="1595939888" />
-			<item serial="1590849089" />
-			<item serial="1547581378" />
-			<item serial="1547581379" />
-			<item serial="1595884572" />
-			<item serial="1590849090" />
-			<item serial="1590849093" />
+			<item serial="1365614378" />
+			<item serial="1212107664" />
+			<item serial="1589520469" />
+			<item serial="1364875013" />
+			<item serial="1365614377" />
 			<item serial="1744868368" />
-			<item serial="1754287071" />
-			<item serial="1133672942" />
+			<item serial="1590849089" />
+			<item serial="1595884572" />
+			<item serial="1590849093" />
 			<item serial="1631537910" />
+			<item serial="1547581378" />
+			<item serial="1595939888" />
+			<item serial="1094065127" />
+			<item serial="1418457552" />
+		</list>
+		<list name="weapon/shield">
+			<item serial="1453275421" />
 		</list>
 	</dresslists>
-	<hotkeys />
+	<hotkeys>
+		<key mod="1" key="32" send="True">Restock Agent-01</key>
+	</hotkeys>
 	<overheadmessages>
-		<overheadmessage searchtext="Your shot hinders your target!" message="*** Special Attack: Hinder Target ***" hue="605" />
+		<overheadmessage searchtext="Your shot hinders your target!" message="*** Hinder Target ***" hue="605" />
+		<overheadmessage searchtext="No one matching that was found on your screen." message="**** No Enemy ***" hue="709" />
 	</overheadmessages>
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x806C4E" name="CurrentTarget" />
-		<scriptvariable serial="0x399931" name="mobTwo" />
-		<scriptvariable serial="0xFFFFFFFF" name="scroll" />
-		<scriptvariable serial="0x67748815" name="type" />
-		<scriptvariable serial="0x0" name="myPreviousKillTarget" />
-		<scriptvariable serial="0x49D947B6" name="instrument" />
+		<scriptvariable serial="0x1388" name="timing" />
+		<scriptvariable serial="0x81836A" name="mobTwo" />
 	</scriptvariables>
 	<friends>
 		<group name="outlands" enabled="True" overheadformat="[Friend]" overheadhue="63" overheadenabled="False">

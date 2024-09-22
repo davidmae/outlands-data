@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gumps>
-	<gumps label="Chivalry" gumpId="1387930325" x="201" y="306" force="True" />
 	<gumps label="WarriorCod" gumpId="2016719803" x="-18" y="301" force="False" />
 </gumps>

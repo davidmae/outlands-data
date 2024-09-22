@@ -29,7 +29,6 @@
 			<skill id="13" />
 			<skill id="23" />
 			<skill id="34" />
-			<skill id="37" />
 		</skillids>
 	</group>
 	<group name="Magic">
@@ -79,6 +78,7 @@
 			<skill id="44" />
 			<skill id="45" />
 			<skill id="49" />
+			<skill id="37" />
 			<skill id="38" />
 		</skillids>
 	</group>

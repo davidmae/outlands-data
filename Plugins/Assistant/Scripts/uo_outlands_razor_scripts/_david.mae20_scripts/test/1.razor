@@ -1,5 +1,24 @@
-skill 'tasteidentification'
-wait 500
-lasttarget 
-wait 3333
+#hotkey "Target Closest Non-Friendly Monster"
+#wait 500
+#attack lasttarget 
+#
+#if insysmsg "No one matching that was found on your screen."
+#    overhead "*** No enemy close ***"
+#    wait 2000
+#else
+#    overhead "*** Attacking ***"
+#    wait 2000
+#endif
+#
+#loop
+
+
+if skill "Anatomy" = 80
+    stop
+else
+    skill "Anatomy"
+    wait 250
+    target 0x2AEF13
+    wait 3000
+endif
 loop
