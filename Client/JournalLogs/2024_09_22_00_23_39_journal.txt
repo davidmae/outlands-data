@@ -1,0 +1,620 @@
+[09/22/2024 00:23]  System: WorldMap loading...
+[09/22/2024 00:23]  System: Loading WorldMap markers..
+[09/22/2024 00:23]  System: ..Banks_and_Healers.xml (39)
+[09/22/2024 00:23]  System: ..Dungeons.xml (13)
+[09/22/2024 00:23]  System: ..Dungeon_Gates.xml (388)
+[09/22/2024 00:23]  System: ..Healer_Caravans.xml (42)
+[09/22/2024 00:23]  System: ..Kings_Faire.xml (49)
+[09/22/2024 00:23]  System: ..Moongates.xml (10)
+[09/22/2024 00:23]  System: ..POI.xml (251)
+[09/22/2024 00:23]  System: ..PvP_Locations.xml (71)
+[09/22/2024 00:23]  System: ..Shrines.xml (9)
+[09/22/2024 00:23]  System: ..Sub-Dungeons.xml (4)
+[09/22/2024 00:23]  System: ..Townships.xml (10)
+[09/22/2024 00:23]  System: ..UOAM_Atlas.xml (1887)
+[09/22/2024 00:23]  System: ..UOAM_T-Map.xml (255)
+[09/22/2024 00:23]  System: ..UOAM_Treasure.xml (523)
+[09/22/2024 00:23]  System: WorldMap markers loaded (3551)
+[09/22/2024 00:23]  System: Welcome Jaimito!
+[09/22/2024 00:23]  Jaimito: Jaimito
+[09/22/2024 00:23]  Ailiin: [Ripe, SQzD]
+[09/22/2024 00:23]  Ailiin: Ailiin
+[09/22/2024 00:23]  System: WorldMap loaded!
+[09/22/2024 00:23]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/22/2024 00:23]  System: You must wait to perform another action.
+[09/22/2024 00:23]  System: It appears to be locked.
+[09/22/2024 00:23]  System: You attempt to remove traps.
+[09/22/2024 00:23]  System: You cannot perform that on Locked Down or Secure containers.
+[09/22/2024 00:23]  Jaimito: I can't reach that.
+[09/22/2024 00:24]  System: It appears to be locked.
+[09/22/2024 00:24]  System: You attempt to remove traps.
+[09/22/2024 00:24]  System: You fail to make any progress towards removing traps.
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You make some progress towards clearing it of traps. (21%)
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You fail to make any progress towards removing traps.
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You fail to make any progress towards removing traps.
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You fail to make any progress towards removing traps.
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: Mindforyew has completed the achievement: Chef (Basic).
+[09/22/2024 00:24]  System: You make some progress towards clearing it of traps. (54%)
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You fail to make any progress towards removing traps.
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You fail to make any progress towards removing traps.
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You fail to make any progress towards removing traps.
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You fail to make any progress towards removing traps.
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You make some progress towards clearing it of traps. (80%)
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:24]  System: You fail to make any progress towards removing traps.
+[09/22/2024 00:24]  System: You continue to remove traps.
+[09/22/2024 00:25]  System: You have successfully cleared it of traps.
+[09/22/2024 00:25]  System: Jack In The Mox has completed the achievement: Trapper (Basic).
+[09/22/2024 00:25]  System: You attempt to pick the lock.
+[09/22/2024 00:25]  System: You fail to make any progress on the lock.
+[09/22/2024 00:25]  System: You continue to pick the lock.
+[09/22/2024 00:25]  System: You make some progress on the lock. (29%)
+[09/22/2024 00:25]  System: You continue to pick the lock.
+[09/22/2024 00:25]  System: You fail to make any progress on the lock.
+[09/22/2024 00:25]  System: You continue to pick the lock.
+[09/22/2024 00:25]  System: You fail to make any progress on the lock.
+[09/22/2024 00:25]  System: You continue to pick the lock.
+[09/22/2024 00:25]  System: You fail to make any progress on the lock.
+[09/22/2024 00:25]  System: You continue to pick the lock.
+[09/22/2024 00:25]  System: You make some progress on the lock. (52%)
+[09/22/2024 00:25]  System: You continue to pick the lock.
+[09/22/2024 00:25]  System: You fail to make any progress on the lock.
+[09/22/2024 00:25]  System: You continue to pick the lock.
+[09/22/2024 00:25]  System: You make some progress on the lock. (76%)
+[09/22/2024 00:25]  System: You continue to pick the lock.
+[09/22/2024 00:25]  System: You fail to make any progress on the lock.
+[09/22/2024 00:25]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You make some progress on the lock. (99%)
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You fail to make any progress on the lock.
+[09/22/2024 00:26]  System: You continue to pick the lock.
+[09/22/2024 00:26]  System: You have gained a lot of fame.
+[09/22/2024 00:26]  System: You successfully pick the lock.
+[09/22/2024 00:26]  You see: gold coin : 1000
+[09/22/2024 00:26]  System: Kaputz has completed the achievement: Beastial Slayer (Basic).
+[09/22/2024 00:27]  System: Being perfectly rested, you shove them out of the way.
+[09/22/2024 00:27]  You see: interior decorator
+[09/22/2024 00:27]  You see: [blessed]
+[09/22/2024 00:27]  You see: interior decorator
+[09/22/2024 00:27]  You see: [blessed]
+[09/22/2024 00:27]  You see: interior decorator
+[09/22/2024 00:27]  You see: [blessed]
+[09/22/2024 00:27]  bamboo flute: [locked down]
+[09/22/2024 00:27]  System: Lockdowns Used: 259 / 350
+[09/22/2024 00:27]  treasure map: [locked down]
+[09/22/2024 00:27]  System: Lockdowns Used: 260 / 350
+[09/22/2024 00:27]  frenzy rune: [locked down]
+[09/22/2024 00:27]  System: Lockdowns Used: 261 / 350
+[09/22/2024 00:27]  gold coin: [locked down]
+[09/22/2024 00:27]  System: Lockdowns Used: 262 / 350
+[09/22/2024 00:27]  lesser paragon chest (wyvern h: [locked down]
+[09/22/2024 00:27]  System: Lockdowns Used: 262 / 350
+[09/22/2024 00:27]  System: Funeral Sun has completed the achievement: Omni-Realm Invader (Basic).
+[09/22/2024 00:27]  System: You cannot move that any further in that direction.
+[09/22/2024 00:27]  System: You cannot move that any further in that direction.
+[09/22/2024 00:28]  System: No insecure items found within house.
+[09/22/2024 00:28]  Jaimito: I can't reach that.
+[09/22/2024 00:29]  Jaimito: Jaimito
+[09/22/2024 00:29]  System: Being perfectly rested, you shove them out of the way.
+[09/22/2024 00:29]  System: A 1 vs 1 Order Tournament has ended with NitrousOxide emerging victorious!
+[09/22/2024 00:29]  You see: unidentified bamboo flute
+[09/22/2024 00:29]  You see: (500/500 uses remaining)
+[09/22/2024 00:29]  You see: [locked down]
+[09/22/2024 00:29]  System: You cannot pick that up.
+[09/22/2024 00:29]  You see: lesser paragon chest (brackish water)
+[09/22/2024 00:29]  You see: [secure]
+[09/22/2024 00:29]  You see: (125 items, 833 stones)
+[09/22/2024 00:29]  bamboo flute: [no longer locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 261 / 350
+[09/22/2024 00:29]  frenzy rune: [no longer locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 260 / 350
+[09/22/2024 00:29]  gold coin: [no longer locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 259 / 350
+[09/22/2024 00:29]  treasure map: [no longer locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 258 / 350
+[09/22/2024 00:29]  : [locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 259 / 350
+[09/22/2024 00:29]  : [locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 260 / 350
+[09/22/2024 00:29]  You see: frenzy rune
+[09/22/2024 00:29]  You see: [locked down]
+[09/22/2024 00:29]  You see: (Attack speed increased by 7.5%)
+[09/22/2024 00:29]  You see: [double click to place]
+[09/22/2024 00:29]  : [locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 261 / 350
+[09/22/2024 00:29]  : [locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 262 / 350
+[09/22/2024 00:29]  System: You cannot pick that up.
+[09/22/2024 00:29]  You see: adeptly drawn treasure map: level 3
+[09/22/2024 00:29]  You see: (undeciphered)
+[09/22/2024 00:29]  : [locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 263 / 350
+[09/22/2024 00:29]  : [locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 264 / 350
+[09/22/2024 00:29]  : [locked down]
+[09/22/2024 00:29]  System: Lockdowns Used: 265 / 350
+[09/22/2024 00:29]  You see: Lesser Heal potion : 2
+[09/22/2024 00:29]  System: The Minoc Syndicate (Syn) guild has reached prestige level 3686.
+[09/22/2024 00:30]  : [Insecure Nested Item]
+[09/22/2024 00:30]  System: 1 insecure nested items in containers in house.
+[09/22/2024 00:30]  System: Displaying item results...
+[09/22/2024 00:30]  System: [Insecure Item in Container] treasure map at (323, 506, 6)
+[09/22/2024 00:30]  : [locked down]
+[09/22/2024 00:30]  gold coin: [no longer locked down]
+[09/22/2024 00:30]  bamboo flute: [no longer locked down]
+[09/22/2024 00:30]  : [locked down]
+[09/22/2024 00:30]  bamboo flute: [no longer locked down]
+[09/22/2024 00:30]  treasure map: [no longer locked down]
+[09/22/2024 00:30]  System: Lockdowns Used: 263 / 350
+[09/22/2024 00:31]  frenzy rune: [no longer locked down]
+[09/22/2024 00:31]  System: Lockdowns Used: 262 / 350
+[09/22/2024 00:31]  : [locked down]
+[09/22/2024 00:31]  System: Lockdowns Used: 263 / 350
+[09/22/2024 00:31]  System: You cannot pick that up.
+[09/22/2024 00:31]  System: No insecure items found within house.
+[09/22/2024 00:31]  System: You are now under the effect of a Song of Peacemaking (7.1% healing amounts for 15 minutes).
+[09/22/2024 00:31]  You see: adeptly drawn treasure map: level 3
+[09/22/2024 00:31]  You see: (undeciphered)
+[09/22/2024 00:31]  System: You are now under the effect of a Song of Discordance (7.1% reduced damage from creatures for 15 minutes).
+[09/22/2024 00:31]  System: Azezelllo has completed the achievement: Affluent (Basic).
+[09/22/2024 00:32]  System: J port has completed the achievement: Wilderness Hunter (Advanced).
+[09/22/2024 00:32]  Jaimito: Kal Ort Por
+[09/22/2024 00:32]  Jaimito: Select Marked item.
+[09/22/2024 00:32]  System: You do not have access to travel inside this house.
+[09/22/2024 00:32]  an eagle: an eagle
+[09/22/2024 00:32]  -+-BUCKTASTY-+-: -+-BUCKTASTY-+-
+[09/22/2024 00:32]  BOSSDM: BOSSDM the dockmaster
+[09/22/2024 00:32]  ``````````: ``````````
+[09/22/2024 00:32]  Aniyahs Misc Loot: Aniyahs Misc Loot
+[09/22/2024 00:32]  Selina: Selina
+[09/22/2024 00:32]  Down Under: Down Under
+[09/22/2024 00:32]  Porbas Place: Porbas Place
+[09/22/2024 00:32]  Bigtoes Merchandise: Bigtoes Merchandise
+[09/22/2024 00:32]  a polar bear: a polar bear
+[09/22/2024 00:32]  an air drake: an air drake
+[09/22/2024 00:32]  choper: choper
+[09/22/2024 00:32]  Bonita - W-Rune 263: Bonita - W-Rune 263
+[09/22/2024 00:32]  Cores*Maps*Distills*: Cores*Maps*Distills*
+[09/22/2024 00:32]  BOSS I: BOSS I
+[09/22/2024 00:32]  Valley of Doom: Valley of Doom
+[09/22/2024 00:32]  IRON INGOTS!!!!: IRON INGOTS!!!!
+[09/22/2024 00:32]  Core/Dist/Goods: Core/Dist/Goods
+[09/22/2024 00:32]  BOSS II: BOSS II
+[09/22/2024 00:32]  Codeinee: Codeinee
+[09/22/2024 00:32]  ZOB FINDS: ZOB FINDS
+[09/22/2024 00:32]  BrokeBoiGoods: BrokeBoiGoods
+[09/22/2024 00:32]  EVERYTHING CHEAP: EVERYTHING CHEAP
+[09/22/2024 00:32]  Gennaroh: Gennaroh
+[09/22/2024 00:32]  Banella Ice: Banella Ice
+[09/22/2024 00:32]  140k Mastery Chains!: 140k Mastery Chains!
+[09/22/2024 00:32]  Boards Boards Boards: Boards Boards Boards
+[09/22/2024 00:32]  2k SHELTER GATE: 2k SHELTER GATE
+[09/22/2024 00:32]  Atalanta: Atalanta
+[09/22/2024 00:32]  Isomer Jonez': Isomer Jonez'
+[09/22/2024 00:32]  CORES: CORES
+[09/22/2024 00:32]  BoardCommods n Stuff: BoardCommods n Stuff
+[09/22/2024 00:32]  Barato Barato: Barato Barato
+[09/22/2024 00:32]  Minna: Minna
+[09/22/2024 00:32]  Nediva: Nediva
+[09/22/2024 00:32]  Shrack: Shrack
+[09/22/2024 00:32]  a wolf: a wolf
+[09/22/2024 00:32]  CORES/DISTILL&MORE: CORES/DISTILL&MORE
+[09/22/2024 00:32]  Brazuka MISC: Brazuka MISC
+[09/22/2024 00:32]  corbulus(@2k vendor): corbulus(@2k vendor)
+[09/22/2024 00:32]  Boardom: Boardom
+[09/22/2024 00:32]  5k WOOD: 5k WOOD
+[09/22/2024 00:32]  Alander Delicacy: Alander Delicacy
+[09/22/2024 00:32]  Dungeon JunkJunction: Dungeon JunkJunction
+[09/22/2024 00:32]  BOSSES: BOSSES the battle trainer
+[09/22/2024 00:32]  Medium Rares: Medium Rares
+[09/22/2024 00:32]  Cores,distills,maps: Cores,distills,maps
+[09/22/2024 00:32]  System: Being perfectly rested, you shove them out of the way.
+[09/22/2024 00:32]  Jaimito: Your mount finds a quiet place to rest safely.
+[09/22/2024 00:32]  System: WorldMap loaded!
+[09/22/2024 00:32]  System: Opening door...
+[09/22/2024 00:32]  a cougar: a cougar
+[09/22/2024 00:32]  an air drake: an air drake
+[09/22/2024 00:32]  a tundra ostard: a tundra ostard
+[09/22/2024 00:32]  a polar bear: a polar bear
+[09/22/2024 00:32]  a wolf: a wolf
+[09/22/2024 00:32]  a cougar: a cougar
+[09/22/2024 00:32]  a tundra ostard: a tundra ostard
+[09/22/2024 00:32]  a wolf: a wolf
+[09/22/2024 00:32]  Cam: Cam the dockmaster
+[09/22/2024 00:32]  a wolf: a wolf
+[09/22/2024 00:32]  Barato Barato: Take a look at your goods.
+[09/22/2024 00:32]  System: Type in a price and a description for your item. Example: "100 Leather Gorget". (ESC=not for sale)
+[09/22/2024 00:33]  You see: Price: 15,000
+[09/22/2024 00:33]  You see: board : 600
+[09/22/2024 00:33]  System: Caladinia has completed the achievement: Alchemist (Basic).
+[09/22/2024 00:33]  an air drake: an air drake
+[09/22/2024 00:33]  : battlement
+[09/22/2024 00:34]  Jaimito: You have hidden yourself well.
+[09/22/2024 00:34]  a cougar: a cougar
+[09/22/2024 00:34]  System: The world will save in 15 seconds.
+[09/22/2024 00:34]  You see: Price: 12,000
+[09/22/2024 00:34]  You see: wilderness cloth thigh boots
+[09/22/2024 00:34]  You see: (hue 1182)
+[09/22/2024 00:34]  System: You feel comfortable enough to begin stealthing.
+[09/22/2024 00:34]  Razor: [Stealth Ready]
+[09/22/2024 00:34]  Jaimito: Kal Ort Por
+[09/22/2024 00:34]  Jaimito: Select Marked item.
+[09/22/2024 00:34]  System: You are now under the protection of the town guards.
+[09/22/2024 00:34]  Jaimito: Your mount returns.
+[09/22/2024 00:34]  a goat: a goat
+[09/22/2024 00:34]  Keara: Keara the stablemaster
+[09/22/2024 00:34]  Renee: Renee the stablemaster
+[09/22/2024 00:34]  a dog: a dog
+[09/22/2024 00:34]  Denton: Denton the innkeeper
+[09/22/2024 00:34]  Thurston: Thurston the waiter
+[09/22/2024 00:34]  a dog: a dog
+[09/22/2024 00:34]  Jaimito: Bank Vendor buy
+[09/22/2024 00:34]  System: The world is saving, please wait.
+[09/22/2024 00:34]  System: World save complete. The entire process took 2.6 seconds.
+[09/22/2024 00:34]  Jaimito: Bank Vendor buy
+[09/22/2024 00:34]  a cat: a cat
+[09/22/2024 00:34]  System: Ignoring speech request (speech throttle).
+[09/22/2024 00:34]  a cat: a cat
+[09/22/2024 00:34]  DellAno: DellAno
+[09/22/2024 00:34]  Jaimito: Room
+[09/22/2024 00:34]  System: You have left the protection of the town guards.
+[09/22/2024 00:34]  System: You enter the rental room.
+[09/22/2024 00:34]  Ailiin: [Ripe, SQzD]
+[09/22/2024 00:34]  Ailiin: Ailiin
+[09/22/2024 00:34]  System: WorldMap loaded!
+[09/22/2024 00:34]  Jaimito: Kal Ort Por
+[09/22/2024 00:34]  Jaimito: Select Marked item.
+[09/22/2024 00:34]  System: You are now under the protection of the town guards.
+[09/22/2024 00:34]  a goat: a goat
+[09/22/2024 00:34]  a dog: a dog
+[09/22/2024 00:34]  Keara: Keara the stablemaster
+[09/22/2024 00:34]  Renee: Renee the stablemaster
+[09/22/2024 00:34]  Denton: Denton the innkeeper
+[09/22/2024 00:34]  Thurston: Thurston the waiter
+[09/22/2024 00:34]  a cat: a cat
+[09/22/2024 00:34]  a dog: a dog
+[09/22/2024 00:34]  System: WorldMap loaded!
+[09/22/2024 00:34]  Jaimito: Kal Ort Por
+[09/22/2024 00:34]  Jaimito: Select Marked item.
+[09/22/2024 00:34]  Hanan: Hanan the animal wrangler
+[09/22/2024 00:34]  System: You have left the protection of the town guards.
+[09/22/2024 00:34]  Qualinesti: Qualinesti
+[09/22/2024 00:34]  Happy WAR COREz: Happy WAR COREz
+[09/22/2024 00:34]  RuneLibrary: RuneLibrary the battle trainer
+[09/22/2024 00:34]  Cores and Sh!t: Cores and Sh!t
+[09/22/2024 00:34]  Mastery Chains: Mastery Chains
+[09/22/2024 00:34]  Monster Shuffle Rare: Monster Shuffle Rare
+[09/22/2024 00:34]  Prices Slashed: Prices Slashed
+[09/22/2024 00:34]  Cloth and Dyes: Cloth and Dyes
+[09/22/2024 00:34]  WoodMan/Fresh: WoodMan/Fresh
+[09/22/2024 00:34]  Hal: Hal
+[09/22/2024 00:34]  Its Offishul: Its Offishul
+[09/22/2024 00:34]  Eatbrain: Eatbrain
+[09/22/2024 00:34]  Melloweed Shop: Melloweed Shop
+[09/22/2024 00:34]  DUNGEON LOOT: DUNGEON LOOT
+[09/22/2024 00:34]  MarkInsideCY: MarkInsideCY the stablemaster
+[09/22/2024 00:34]  Vanora: Vanora
+[09/22/2024 00:34]  Animalhouse: Mythic of Aspects
+[09/22/2024 00:34]  Animalhouse: [Initiate, F]
+[09/22/2024 00:34]  Animalhouse: Animalhouse
+[09/22/2024 00:34]  MoldyMilk Loot: MoldyMilk Loot
+[09/22/2024 00:34]  Prev N DUNGEONLOOT: Prev N DUNGEONLOOT
+[09/22/2024 00:34]  CORES N MORES: CORES N MORES
+[09/22/2024 00:34]  SscrollS: SscrollS
+[09/22/2024 00:34]  Moosh's Must Haves: Moosh's Must Haves
+[09/22/2024 00:34]  Rnchas: Rnchas
+[09/22/2024 00:34]  Tales of Nine: Tales of Nine
+[09/22/2024 00:34]  My Loss UR Gain: My Loss UR Gain
+[09/22/2024 00:34]  Random things: Random things
+[09/22/2024 00:34]  Griffen: Griffen
+[09/22/2024 00:34]  Bian: Bian
+[09/22/2024 00:34]  Aristotle: Aristotle
+[09/22/2024 00:34]  Zevida: Zevida
+[09/22/2024 00:34]  a shady figure: a shady figure
+[09/22/2024 00:34]  INGOTS & BOARDS HERE: INGOTS & BOARDS HERE
+[09/22/2024 00:34]  MUSHROOM SPORE: MUSHROOM SPORE
+[09/22/2024 00:34]  DW Deals: [Syn only]
+[09/22/2024 00:34]  DW Deals: DW Deals
+[09/22/2024 00:34]  GOLD SILVER LINKS: GOLD SILVER LINKS
+[09/22/2024 00:34]  Ye Olde Shoppe: Ye Olde Shoppe
+[09/22/2024 00:34]  CORES & MORE: CORES & MORE
+[09/22/2024 00:34]  BEYBAZAR: BEYBAZAR
+[09/22/2024 00:34]  *Random Loooot*: *Random Loooot*
+[09/22/2024 00:34]  MASTERY SCROLLS: MASTERY SCROLLS
+[09/22/2024 00:34]  CORES GEMS CLOTH: CORES GEMS CLOTH
+[09/22/2024 00:34]  Eddie Legend: Soldier [Andaria]
+[09/22/2024 00:34]  Eddie Legend: [Elite, NC]
+[09/22/2024 00:34]  Eddie Legend: Eddie Legend
+[09/22/2024 00:34]  Plants N More: Plants N More
+[09/22/2024 00:34]  a fire mephit: (bonded)
+[09/22/2024 00:34]  a fire mephit: a fire mephit
+[09/22/2024 00:34]  a blood hunter: (bonded)
+[09/22/2024 00:34]  a blood hunter: a blood hunter
+[09/22/2024 00:34]  B: (bonded)
+[09/22/2024 00:34]  B: B
+[09/22/2024 00:34]  a cryptwing: (bonded)
+[09/22/2024 00:34]  a cryptwing: a cryptwing
+[09/22/2024 00:34]  E: (bonded)
+[09/22/2024 00:34]  E: E
+[09/22/2024 00:34]  Fuumanchuu: [Recruit, COOL]
+[09/22/2024 00:34]  Fuumanchuu: Fuumanchuu
+[09/22/2024 00:34]  MunkyNuts Shop: MunkyNuts Shop
+[09/22/2024 00:34]  Verewood weapons: Verewood weapons
+[09/22/2024 00:34]  Cheap Cabbages!: Cheap Cabbages!
+[09/22/2024 00:34]  happy COREz: happy COREz
+[09/22/2024 00:34]  Random Great Stuff: Random Great Stuff
+[09/22/2024 00:34]  Mordrins Market: Mordrins Market
+[09/22/2024 00:34]  Priced to Sell: Priced to Sell
+[09/22/2024 00:34]  Restocked/New Stuff: Restocked/New Stuff
+[09/22/2024 00:34]  CORES SCROLLS N DIST: CORES SCROLLS N DIST
+[09/22/2024 00:34]  Dungeon Good Loot: Dungeon Good Loot
+[09/22/2024 00:34]  Eurospin: Eurospin
+[09/22/2024 00:34]  T Map LOOT: T Map LOOT
+[09/22/2024 00:34]  &&&SHOP&&&: &&&SHOP&&&
+[09/22/2024 00:34]  CORES ALL DAY LONG: CORES ALL DAY LONG
+[09/22/2024 00:34]  All Da Goodies: All Da Goodies
+[09/22/2024 00:34]  BEST PRICES ^_^: BEST PRICES ^_^
+[09/22/2024 00:34]  Doern Vendor: Doern Vendor
+[09/22/2024 00:34]  Magic Items: Magic Items
+[09/22/2024 00:34]  LOOT - Restocked: LOOT - Restocked
+[09/22/2024 00:34]  Rares and Magic Item: Rares and Magic Item
+[09/22/2024 00:34]  Dungeon Loot: Dungeon Loot
+[09/22/2024 00:34]  OVER 900000: OVER 900000
+[09/22/2024 00:34]  Dungeon_Drops: Dungeon_Drops
+[09/22/2024 00:34]  Leather Boner: Leather Boner
+[09/22/2024 00:34]  Alben - the cheapest: Alben - the cheapest
+[09/22/2024 00:34]  !!POTHEADS SHOP!!: !!POTHEADS SHOP!!
+[09/22/2024 00:34]  CHEAP WARES: CHEAP WARES
+[09/22/2024 00:34]  DISTILLS N CORES: DISTILLS N CORES
+[09/22/2024 00:34]  Bossing Loot: Bossing Loot
+[09/22/2024 00:34]  50% SALE: 50% SALE
+[09/22/2024 00:34]  Lockpicking Finds: Lockpicking Finds
+[09/22/2024 00:34]  Pitchforks n Recalls: Pitchforks n Recalls
+[09/22/2024 00:34]  Deco Prev Rares: Deco Prev Rares
+[09/22/2024 00:34]  Lifeguard: Lifeguard the dockmaster
+[09/22/2024 00:34]  Cores/Distills: Cores/Distills
+[09/22/2024 00:34]  Scrolls/Maps/ETC: Scrolls/Maps/ETC
+[09/22/2024 00:34]  --- CheapGoods ---: --- CheapGoods ---
+[09/22/2024 00:34]  Kurt: Kurt
+[09/22/2024 00:34]  lumber deal: lumber deal
+[09/22/2024 00:34]  : worn stone wall
+[09/22/2024 00:35]  Eddie Legend: Kal Ort Por
+[09/22/2024 00:35]  System: Najdorf has completed the achievement: Skill Mastery (Basic).
+[09/22/2024 00:35]  Jaimito: Kal Ort Por
+[09/22/2024 00:35]  Jaimito: Kal Por Ylem
+[09/22/2024 00:35]  System: You generate mana for your spell.
+[09/22/2024 00:35]  Jaimito: You have hidden yourself well.
+[09/22/2024 00:35]  Jaimito: Kal Ort Por
+[09/22/2024 00:35]  Jaimito: Select Marked item.
+[09/22/2024 00:35]  System: You are now under the protection of the town guards.
+[09/22/2024 00:35]  Hanan: Hanan the animal wrangler
+[09/22/2024 00:35]  a dog: a dog
+[09/22/2024 00:35]  a goat: a goat
+[09/22/2024 00:35]  Keara: Keara the stablemaster
+[09/22/2024 00:35]  Renee: Renee the stablemaster
+[09/22/2024 00:35]  Denton: Denton the innkeeper
+[09/22/2024 00:35]  Thurston: Thurston the waiter
+[09/22/2024 00:35]  a cat: a cat
+[09/22/2024 00:35]  a dog: a dog
+[09/22/2024 00:35]  Jaimito: Bank Vendor buy
+[09/22/2024 00:35]  Denton: Greetings.  Have a look around.
+[09/22/2024 00:35]  Jaimito: Room
+[09/22/2024 00:35]  System: You have left the protection of the town guards.
+[09/22/2024 00:35]  System: You enter the rental room.
+[09/22/2024 00:35]  System: WorldMap loaded!
+[09/22/2024 00:35]  Ailiin: [Ripe, SQzD]
+[09/22/2024 00:35]  Ailiin: Ailiin
+[09/22/2024 00:35]  You see: a recall rune for an unknown location
+[09/22/2024 00:35]  You see: pouch
+[09/22/2024 00:35]  You see: (0 items, 0 stones)
+[09/22/2024 00:35]  System: Please enter a description for this marked object:
+[09/22/2024 00:35]  System: The etching on the rune has been changed.
+[09/22/2024 00:35]  You see: Nusero
+[09/22/2024 00:37]  System: Vethrax has completed the achievement: Landowner (Basic).
+[09/22/2024 00:38]  System: Tio Gilito has completed the achievement: Wilderness Hunter (Basic).
+[09/22/2024 00:38]  System: Gumb has completed the achievement: Landowner (Basic).
+[09/22/2024 00:39]  System: Phnom Penh has completed the achievement: Guardian of Aegis Keep (Basic).
+[09/22/2024 00:40]  System: Kesnei has completed the achievement: Transmutation (Epic).
+[09/22/2024 00:40]  System: Felk has completed the achievement: Black Marketeer (Basic).
+[09/22/2024 00:44]  System: tantotetamo has completed the achievement: Monstrous Slayer (Basic).
+[09/22/2024 00:46]  System: [TS] A Town Struggle (mounts allowed) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[09/22/2024 00:46]  System: Your Song of Peacemaking effect ends.
+[09/22/2024 00:46]  Ailiin: [Ripe, SQzD]
+[09/22/2024 00:46]  Ailiin: Ailiin
+[09/22/2024 00:46]  System: Your Song of Discordance effect ends.
+[09/22/2024 00:47]  Ailiin: [Ripe, SQzD]
+[09/22/2024 00:47]  Ailiin: Ailiin
+[09/22/2024 00:47]  System: Sir Grindsalot has completed the achievement: Alchemist (Basic).
+[09/22/2024 00:48]  System: You are now under the effect of a Song of Discordance (7.1% reduced damage from creatures for 15 minutes).
+[09/22/2024 00:48]  System: You are now under the effect of a Song of Peacemaking (7.1% healing amounts for 15 minutes).
+[09/22/2024 00:48]  System: Vanessa Desero has completed the achievement: Artificers Enclave Associate.
+[09/22/2024 00:48]  System: The world will save in 15 seconds.
+[09/22/2024 00:49]  System: The world is saving, please wait.
+[09/22/2024 00:49]  System: World save complete. The entire process took 2.8 seconds.
+[09/22/2024 00:51]  System: Selzyr has completed the achievement: Summoning (Basic).
+[09/22/2024 00:51]  System: The Inquisition has completed the achievement: Serial Killer (Advanced).
+[09/22/2024 00:52]  System: Streets Ahead has completed the achievement: Domestication (Basic).
+[09/22/2024 00:52]  System: PennyLove has completed the achievement: Connoisseur (Basic).
+[09/22/2024 00:55]  System: Lether into Gold has completed the achievement: Enchanter (Advanced).
+[09/22/2024 00:55]  System: Carsons has completed the achievement: Trapper (Advanced).
+[09/22/2024 00:57]  System: Suicidal Monkey has completed the achievement: Triggered (Basic).
+[09/22/2024 00:57]  System: Ragebunny has completed the achievement: Guardian of Kraul Hive (Basic).
+[09/22/2024 01:02]  System: Pistol Grip Pump has completed the achievement: Captain (Epic).
+[09/22/2024 01:02]  System: Unwiped King has completed the achievement: Skinner (Basic).
+[09/22/2024 01:03]  System: Your Song of Discordance effect ends.
+[09/22/2024 01:03]  System: Your Song of Peacemaking effect ends.
+[09/22/2024 01:03]  System: Unwiped King has completed the achievement: Transmutation (Basic).
+[09/22/2024 01:03]  System: The world will save in 15 seconds.
+[09/22/2024 01:03]  System: The world is saving, please wait.
+[09/22/2024 01:04]  System: World save complete. The entire process took 2.5 seconds.
+[09/22/2024 01:04]  System: PennyLove has completed the achievement: Monster Hunter Associate.
+[09/22/2024 01:05]  System: Pumpkin Cream has completed the achievement: Humanoid Slayer (Advanced).
+[09/22/2024 01:05]  System: Dirk Thrawnz has completed the achievement: Humanoid Slayer (Basic).
+[09/22/2024 01:11]  System: Dirk Thrawnz has completed the achievement: Omni Slayer (Basic).
+[09/22/2024 01:12]  System: A contested boss has spawned in Mount Petram!
+[09/22/2024 01:14]  System: Keymaster Terrin has completed the achievement: Tinker (Advanced).
+[09/22/2024 01:15]  System: Alchy Face has completed the achievement: Order of Armorers Initiate.
+[09/22/2024 01:17]  System: elfbar has completed the achievement: Savant (Basic).
+[09/22/2024 01:18]  System: The world will save in 15 seconds.
+[09/22/2024 01:18]  System: T A H I N has completed the achievement: Alchemist (Epic).
+[09/22/2024 01:18]  System: The world is saving, please wait.
+[09/22/2024 01:18]  System: World save complete. The entire process took 2.7 seconds.
+[09/22/2024 01:19]  System: Knight of Shadow has completed the achievement: Weaponmastery (Advanced).
+[09/22/2024 01:20]  System: Council of the Sage (CtS) guild has reached prestige level 42.
+[09/22/2024 01:20]  System: SewFar SewGood has completed the achievement: Leatherworker (Basic).
+[09/22/2024 01:20]  System: SewFar SewGood has completed the achievement: Tailor (Basic).
+[09/22/2024 01:20]  System: WonderYozgat has completed the achievement: Elemental Slayer (Advanced).
+[09/22/2024 01:22]  System: Wild Billy has completed the achievement: Monster Hunter Dignitary.
+[09/22/2024 01:22]  System: Tupelo Honey has completed the achievement: Monster Hunter Associate.
+[09/22/2024 01:22]  System: An Omni Realm will become public in 10 minutes.
+[09/22/2024 01:22]  System: New Players Guild (NEW!) guild has reached prestige level 397.
+[09/22/2024 01:24]  System: Jobu Tupaki has completed the achievement: Artificers Enclave Associate.
+[09/22/2024 01:24]  Ailiin: [Ripe, SQzD]
+[09/22/2024 01:24]  Ailiin: Ailiin
+[09/22/2024 01:25]  : [locked down]
+[09/22/2024 01:26]  System: Gumdrop has completed the achievement: Order of Armorers Dignitary.
+[09/22/2024 01:27]  System: Yak has completed the achievement: Guardian of Mount Petram (Basic).
+[09/22/2024 01:27]  System: The Love Boat has completed the achievement: Archivist (Basic).
+[09/22/2024 01:28]  Ailiin: [Ripe, SQzD]
+[09/22/2024 01:28]  Ailiin: Ailiin
+[09/22/2024 01:31]  System: KILL EM ALL (AHO) guild has reached prestige level 41.
+[09/22/2024 01:31]  System: Twystd has completed the achievement: Wilderness Hunter (Basic).
+[09/22/2024 01:32]  System: An Omni Realm has now become public.
+[09/22/2024 01:32]  System: Harley Race has completed the achievement: Guardian of Nusero (Basic).
+[09/22/2024 01:33]  System: The world will save in 15 seconds.
+[09/22/2024 01:33]  System: Burger Pizza has completed the achievement: Aspect Mastery (Basic).
+[09/22/2024 01:33]  System: The world is saving, please wait.
+[09/22/2024 01:33]  System: World save complete. The entire process took 2.7 seconds.
+[09/22/2024 01:35]  System: Hammer Threads has completed the achievement: Enchanter (Basic).
+[09/22/2024 01:36]  : wooden planks
+[09/22/2024 01:36]  : wooden planks
+[09/22/2024 01:36]  You see: lesser paragon chest (brackish water)
+[09/22/2024 01:36]  You see: [secure]
+[09/22/2024 01:36]  You see: (113 items, 865 stones)
+[09/22/2024 01:36]  System: You cannot pick that up.
+[09/22/2024 01:36]  treasure map: [no longer locked down]
+[09/22/2024 01:36]  System: Lockdowns Used: 263 / 350
+[09/22/2024 01:36]  System: No insecure items found within house.
+[09/22/2024 01:36]  System: ShinoTenshi has completed the achievement: Beastmaster (Basic).
+[09/22/2024 01:36]  Jaimito: Kal Ort Por
+[09/22/2024 01:37]  Jaimito: Select Marked item.
+[09/22/2024 01:37]  System: You do not have access to travel inside this house.
+[09/22/2024 01:37]  -+-BUCKTASTY-+-: -+-BUCKTASTY-+-
+[09/22/2024 01:37]  BOSSDM: BOSSDM the dockmaster
+[09/22/2024 01:37]  ``````````: ``````````
+[09/22/2024 01:37]  Aniyahs Misc Loot: Aniyahs Misc Loot
+[09/22/2024 01:37]  Selina: Selina
+[09/22/2024 01:37]  Down Under: Down Under
+[09/22/2024 01:37]  Porbas Place: Porbas Place
+[09/22/2024 01:37]  Bigtoes Merchandise: Bigtoes Merchandise
+[09/22/2024 01:37]  an air drake: an air drake
+[09/22/2024 01:37]  choper: choper
+[09/22/2024 01:37]  Bonita - W-Rune 263: Bonita - W-Rune 263
+[09/22/2024 01:37]  Cores*Maps*Distills*: Cores*Maps*Distills*
+[09/22/2024 01:37]  BOSS I: BOSS I
+[09/22/2024 01:37]  Valley of Doom: Valley of Doom
+[09/22/2024 01:37]  IRON INGOTS!!!!: IRON INGOTS!!!!
+[09/22/2024 01:37]  Core/Dist/Goods: Core/Dist/Goods
+[09/22/2024 01:37]  BOSS II: BOSS II
+[09/22/2024 01:37]  Codeinee: Codeinee
+[09/22/2024 01:37]  ZOB FINDS: ZOB FINDS
+[09/22/2024 01:37]  BrokeBoiGoods: BrokeBoiGoods
+[09/22/2024 01:37]  EVERYTHING CHEAP: EVERYTHING CHEAP
+[09/22/2024 01:37]  Gennaroh: Gennaroh
+[09/22/2024 01:37]  Banella Ice: Banella Ice
+[09/22/2024 01:37]  140k Mastery Chains!: 140k Mastery Chains!
+[09/22/2024 01:37]  Boards Boards Boards: Boards Boards Boards
+[09/22/2024 01:37]  2k SHELTER GATE: 2k SHELTER GATE
+[09/22/2024 01:37]  Atalanta: Atalanta
+[09/22/2024 01:37]  Isomer Jonez': Isomer Jonez'
+[09/22/2024 01:37]  CORES: CORES
+[09/22/2024 01:37]  BoardCommods n Stuff: BoardCommods n Stuff
+[09/22/2024 01:37]  Barato Barato: Barato Barato
+[09/22/2024 01:37]  Minna: Minna
+[09/22/2024 01:37]  Nediva: Nediva
+[09/22/2024 01:37]  Shrack: Shrack
+[09/22/2024 01:37]  CORES/DISTILL&MORE: CORES/DISTILL&MORE
+[09/22/2024 01:37]  Brazuka MISC: Brazuka MISC
+[09/22/2024 01:37]  corbulus(@2k vendor): corbulus(@2k vendor)
+[09/22/2024 01:37]  Boardom: Boardom
+[09/22/2024 01:37]  5k WOOD: 5k WOOD
+[09/22/2024 01:37]  Alander Delicacy: Alander Delicacy
+[09/22/2024 01:37]  Dungeon JunkJunction: Dungeon JunkJunction
+[09/22/2024 01:37]  BOSSES: BOSSES the battle trainer
+[09/22/2024 01:37]  Medium Rares: Medium Rares
+[09/22/2024 01:37]  Cores,distills,maps: Cores,distills,maps
+[09/22/2024 01:37]  System: Being perfectly rested, you shove them out of the way.
+[09/22/2024 01:37]  Jaimito: Your mount finds a quiet place to rest safely.
+[09/22/2024 01:37]  System: Opening door...
+[09/22/2024 01:37]  System: WorldMap loaded!
+[09/22/2024 01:37]  You see: metal door
+[09/22/2024 01:37]  Nediva: Take a look at my goods.
+[09/22/2024 01:37]  a cougar: a cougar
+[09/22/2024 01:37]  Cores*Maps*Distills*: Take a look at my goods.
+[09/22/2024 01:37]  Codeinee: Take a look at my goods.
+[09/22/2024 01:37]  5k WOOD: Take a look at my goods.
+[09/22/2024 01:37]  corbulus(@2k vendor): Take a look at my goods.
+[09/22/2024 01:37]  an eagle: an eagle
+[09/22/2024 01:37]  Cam: Cam the dockmaster
+[09/22/2024 01:37]  Barato Barato: Take a look at your goods.
+[09/22/2024 01:37]  System: Type in a price and a description for your item. Example: "100 Leather Gorget". (ESC=not for sale)
+[09/22/2024 01:37]  an eagle: an eagle
+[09/22/2024 01:37]  You see: Price: 13,000
+[09/22/2024 01:37]  You see: expertly drawn treasure map: level 2
+[09/22/2024 01:37]  You see: (undeciphered)
+[09/22/2024 01:37]  You see: Price: 25,000
+[09/22/2024 01:37]  You see: adeptly drawn treasure map: level 3
+[09/22/2024 01:37]  You see: (undeciphered)
+[09/22/2024 01:37]  Jaimito: Kal Ort Por
+[09/22/2024 01:37]  System: Arioch The Storm has completed the achievement: Wizard (Advanced).
+[09/22/2024 01:37]  Jaimito: Select Marked item.
+[09/22/2024 01:37]  System: You are now under the protection of the town guards.
+[09/22/2024 01:37]  Jaimito: Your mount returns.
+[09/22/2024 01:37]  a dog: a dog
+[09/22/2024 01:37]  a goat: a goat
+[09/22/2024 01:37]  Keara: Keara the stablemaster
+[09/22/2024 01:37]  Renee: Renee the stablemaster
+[09/22/2024 01:37]  Denton: Denton the innkeeper
+[09/22/2024 01:37]  Nans: [CFC]
+[09/22/2024 01:37]  Nans: Nans
+[09/22/2024 01:37]  Thurston: Thurston the waiter
+[09/22/2024 01:37]  a cat: a cat
+[09/22/2024 01:37]  Decaffeinater: Lord Decaffeinater
+[09/22/2024 01:37]  a dog: a dog
+[09/22/2024 01:37]  Decaffeinater: i ban thee room vendor sell bank guards
+[09/22/2024 01:37]  Jaimito: Bank Vendor buy
+[09/22/2024 01:37]  Denton: Greetings.  Have a look around.
+[09/22/2024 01:37]  Jaimito: Room
+[09/22/2024 01:37]  System: You have left the protection of the town guards.
+[09/22/2024 01:37]  System: You enter the rental room.
+[09/22/2024 01:37]  Ailiin: [Ripe, SQzD]
+[09/22/2024 01:37]  Ailiin: Ailiin
+[09/22/2024 01:37]  System: WorldMap loaded!

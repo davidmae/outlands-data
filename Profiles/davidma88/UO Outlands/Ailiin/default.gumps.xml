@@ -44,8 +44,11 @@
 		<gump type="7" x="1602" y="275" serial="1046" name="BardBuff" graphicId="108" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
 		<gump type="7" x="1666" y="275" serial="1050" name="Stats" graphicId="355" hideLabel="False" scale="0.6" matrix_x="1" matrix_y="0" />
 	</anchored_group_gump>
+	<gump />
 	<gump type="4" x="1141" y="6" serial="5891706" />
 	<gump type="9" x="1734" y="22" serial="5891706" isminimized="False" />
+	<gump type="2" x="1503" y="435" serial="1744868368" graphic="160" isminimized="False" />
+	<gump type="2" x="1664" y="456" serial="1547581360" graphic="60" isminimized="False" />
 	<gump type="21" x="1467" y="954" serial="0" />
 	<gump type="3" x="2004" y="7" serial="0" rows="27" columns="1" rectsize="40">
 		<controls>
@@ -78,8 +81,6 @@
 			<control graphic="3821" hue="0" />
 		</controls>
 	</gump>
-	<gump type="2" x="660" y="660" serial="1182295987" graphic="75" isminimized="False" />
-	<gump type="2" x="1664" y="456" serial="1547581360" graphic="60" isminimized="False" />
 	<gump type="10" x="1670" y="853" serial="0" isminimized="False" height="335" />
 	<gump type="1" x="1658" y="20" serial="0" graphic="30079" direction="0" />
 	<gump type="27" x="860" y="478" serial="0" />

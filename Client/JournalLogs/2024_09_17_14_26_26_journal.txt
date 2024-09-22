@@ -1,0 +1,850 @@
+[09/17/2024 14:26]  System: WorldMap loading...
+[09/17/2024 14:26]  System: Loading WorldMap markers..
+[09/17/2024 14:26]  System: ..Banks_and_Healers.xml (39)
+[09/17/2024 14:26]  System: ..Dungeons.xml (13)
+[09/17/2024 14:26]  System: ..Dungeon_Gates.xml (388)
+[09/17/2024 14:26]  System: ..Healer_Caravans.xml (42)
+[09/17/2024 14:26]  System: ..Kings_Faire.xml (49)
+[09/17/2024 14:26]  System: ..Moongates.xml (10)
+[09/17/2024 14:26]  System: ..POI.xml (251)
+[09/17/2024 14:26]  System: ..PvP_Locations.xml (71)
+[09/17/2024 14:26]  System: ..Shrines.xml (9)
+[09/17/2024 14:26]  System: ..Sub-Dungeons.xml (4)
+[09/17/2024 14:26]  System: ..Townships.xml (10)
+[09/17/2024 14:26]  System: ..UOAM_Atlas.xml (1887)
+[09/17/2024 14:26]  System: ..UOAM_T-Map.xml (255)
+[09/17/2024 14:26]  System: ..UOAM_Treasure.xml (523)
+[09/17/2024 14:26]  System: WorldMap markers loaded (3551)
+[09/17/2024 14:26]  System: Welcome Fierro!
+[09/17/2024 14:26]  Fierro: Fierro (Young)
+[09/17/2024 14:26]  Cincischione: Cincischione (Young)
+[09/17/2024 14:26]  Wanda: Wanda the blacksmith
+[09/17/2024 14:26]  AskChopper.: Mythical Engineer
+[09/17/2024 14:26]  AskChopper.: [Soldier, SOF]
+[09/17/2024 14:26]  AskChopper.: AskChopper.
+[09/17/2024 14:26]  Crystal: Crystal the tinker
+[09/17/2024 14:26]  Selina: Selina the jeweler
+[09/17/2024 14:26]  System: WorldMap loaded!
+[09/17/2024 14:26]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/17/2024 14:26]  Ardith: Ardith the tailor
+[09/17/2024 14:26]  [Razor]: Ignore List cleared
+[09/17/2024 14:26]  Razor: Target queue cleared.
+[09/17/2024 14:26]  Razor: a talar!
+[09/17/2024 14:26]  System: What do you want to use this item on?
+[09/17/2024 14:26]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:26]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:26]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 14:26]  System: Captcha successful.
+[09/17/2024 14:26]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:26]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:26]  Saxon: Saxon the lumberjack
+[09/17/2024 14:26]  Rick Axely: Rick Axely (Young)
+[09/17/2024 14:27]  [Razor]: Ignore List cleared
+[09/17/2024 14:27]  Razor: Target queue cleared.
+[09/17/2024 14:27]  System: SingMeASong has completed the achievement: Skinner (Basic).
+[09/17/2024 14:27]  Razor: a talar!
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:27]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:27]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 14:27]  a nuthatch: a nuthatch
+[09/17/2024 14:27]  a magpie: a magpie
+[09/17/2024 14:27]  a tern: a tern
+[09/17/2024 14:27]  Razor: *** Resource depleted ***
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:27]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:27]  Razor: *** Resource depleted ***
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:27]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:27]  Razor: |> log : 10 <|
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:27]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 67.7.
+[09/17/2024 14:27]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:27]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:27]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:27]  Razor: |> log : 19 <|
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:27]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:27]  Razor: *** Resource depleted ***
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:27]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:27]  a hind: a hind
+[09/17/2024 14:27]  a great hart: a great hart
+[09/17/2024 14:27]  Razor: *** Resource depleted ***
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  Royos: Royos
+[09/17/2024 14:27]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:27]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:27]  Razor: |> log : 27 <|
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:27]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:27]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:27]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:28]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:28]  Razor: |> log : 32 <|
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:28]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:28]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:28]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:28]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:28]  an eagle: an eagle
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:28]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:28]  Razor: |> log : 38 <|
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:28]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  Razor: [Last Target]
+[09/17/2024 14:28]  Fierro: Fierro (Young)
+[09/17/2024 14:28]  : vines
+[09/17/2024 14:28]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:28]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: What do you wish to track?
+[09/17/2024 14:28]  System: You must wait a few moments to use another skill.
+[09/17/2024 14:28]  a magpie: a magpie
+[09/17/2024 14:28]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:28]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 67.8.
+[09/17/2024 14:28]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:28]  : walnut leaves
+[09/17/2024 14:28]  Razor: |> log : 45 <|
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:28]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:28]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:28]  System: You are unable to detect signs of anything outside your field of vision.
+[09/17/2024 14:28]  Razor: *** Resource depleted ***
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:28]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:28]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:28]  an eagle: an eagle
+[09/17/2024 14:28]  CCth: CCth (Young)
+[09/17/2024 14:28]  Razor: *** Resource depleted ***
+[09/17/2024 14:28]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: Tlaxcaltec has completed the achievement: Guardian of Kraul Hive (Basic).
+[09/17/2024 14:29]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:29]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:29]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:29]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 67.9.
+[09/17/2024 14:29]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: What do you wish to track?
+[09/17/2024 14:29]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:29]  System: Your skill in Tracking has increased by 0.1.  It is now 55.5.
+[09/17/2024 14:29]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:29]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: Now tracking: a magpie.
+[09/17/2024 14:29]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:29]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:29]  Razor: |> log : 54 <|
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:29]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:29]  Razor: |> log : 64 <|
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:29]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:29]  CCth: CCth (Young)
+[09/17/2024 14:29]  Razor: *** Resource depleted ***
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: What do you wish to track?
+[09/17/2024 14:29]  System: You must wait a few moments to use another skill.
+[09/17/2024 14:29]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:29]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:29]  System: You will now hunt murderer players.
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: You will now hunt criminal players.
+[09/17/2024 14:29]  System: You will now hunt innocent players.
+[09/17/2024 14:29]  System: You will now hunt friendly players.
+[09/17/2024 14:29]  System: You will now hunt aggressive creatures.
+[09/17/2024 14:29]  System: You will now hunt passive creatures.
+[09/17/2024 14:29]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:29]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:29]  Razor: |> log : 69 <|
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  Fierro: You begin hunting.
+[09/17/2024 14:29]  Razor: [+Tracking Hunting (0s)]
+[09/17/2024 14:29]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:29]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:29]  Razor: |> log : 75 <|
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:29]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:29]  Razor: *** Resource depleted ***
+[09/17/2024 14:29]  System: What do you want to use this item on?
+[09/17/2024 14:29]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:29]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:29]  System: You will now hunt townsfolk.
+[09/17/2024 14:29]  Fierro: You stop hunting.
+[09/17/2024 14:29]  Razor: [-Tracking Hunting (s)]
+[09/17/2024 14:30]  Razor: *** Resource depleted ***
+[09/17/2024 14:30]  Fierro: You begin hunting.
+[09/17/2024 14:30]  Razor: [+Tracking Hunting (0s)]
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:30]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:30]  a hind: a hind
+[09/17/2024 14:30]  Razor: *** Resource depleted ***
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  Fierro: You stop hunting.
+[09/17/2024 14:30]  Razor: [-Tracking Hunting (s)]
+[09/17/2024 14:30]  System: You will track the closest available target when you have no tracking arrow on screen and your last tracked target is no longer trackable.
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  System: You will always track whatever is closest to you.
+[09/17/2024 14:30]  a hind: a hind
+[09/17/2024 14:30]  System: You will always track the last individual target you selected from the Tracking Results page.
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  System: You will always track whatever you are currently fighting.
+[09/17/2024 14:30]  System: You will track the closest available target when you have no tracking arrow on screen.
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  System: You will now hunt all players.
+[09/17/2024 14:30]  System: You will now hunt all hostile players.
+[09/17/2024 14:30]  System: You will now hunt enemy players.
+[09/17/2024 14:30]  a hind: a hind
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:30]  System: You will now hunt murderer players.
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  Fierro: You begin hunting.
+[09/17/2024 14:30]  Razor: [+Tracking Hunting (0s)]
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:30]  a hind: a hind
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  CCth: CCth (Young)
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  System: What do you wish to track?
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:30]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:30]  System: You are unable to detect signs of anything outside your field of vision.
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  System: What do you wish to track?
+[09/17/2024 14:30]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:30]  System: You are unable to detect signs of anything outside your field of vision.
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  System: You must wait a few moments to use another skill.
+[09/17/2024 14:30]  System: You must wait a few moments to use another skill.
+[09/17/2024 14:30]  Saxon: Saxon the lumberjack
+[09/17/2024 14:30]  System: What do you wish to track?
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:30]  Razor: |> log : 82 <|
+[09/17/2024 14:30]  System: What do you want to use this item on?
+[09/17/2024 14:30]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:30]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:31]  System: You will now hunt enemy players.
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: You will now hunt all hostile players.
+[09/17/2024 14:31]  System: You will now hunt all players.
+[09/17/2024 14:31]  System: You will now hunt townsfolk.
+[09/17/2024 14:31]  System: You will now hunt passive creatures.
+[09/17/2024 14:31]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:31]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:31]  System: You will now hunt aggressive creatures.
+[09/17/2024 14:31]  System: You will now hunt friendly players.
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: You will now hunt innocent players.
+[09/17/2024 14:31]  System: You will now hunt criminal players.
+[09/17/2024 14:31]  System: You will now hunt innocent players.
+[09/17/2024 14:31]  Fierro: You stop hunting.
+[09/17/2024 14:31]  Razor: [-Tracking Hunting (s)]
+[09/17/2024 14:31]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:31]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.0.
+[09/17/2024 14:31]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  Fierro: You begin hunting.
+[09/17/2024 14:31]  Razor: [+Tracking Hunting (0s)]
+[09/17/2024 14:31]  Julia Childs: Julia Childs
+[09/17/2024 14:31]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:31]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.1.
+[09/17/2024 14:31]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: You will now hunt criminal players.
+[09/17/2024 14:31]  an eagle: an eagle
+[09/17/2024 14:31]  System: MultiCast has completed the achievement: Hardened Strategist.
+[09/17/2024 14:31]  System: P'Badgers has completed the achievement: Hardened Strategist.
+[09/17/2024 14:31]  Fierro: You stop hunting.
+[09/17/2024 14:31]  Razor: [-Tracking Hunting (s)]
+[09/17/2024 14:31]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:31]  System: Your skill in Tracking has increased by 0.1.  It is now 55.6.
+[09/17/2024 14:31]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:31]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:31]  Razor: |> log : 87 <|
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:31]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.2.
+[09/17/2024 14:31]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: What do you wish to track?
+[09/17/2024 14:31]  System: You will now hunt innocent players.
+[09/17/2024 14:31]  System: You will now hunt criminal players.
+[09/17/2024 14:31]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:31]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:31]  Fierro: You begin hunting.
+[09/17/2024 14:31]  Razor: [+Tracking Hunting (0s)]
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:31]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  Fierro: You stop hunting.
+[09/17/2024 14:31]  Razor: [-Tracking Hunting (s)]
+[09/17/2024 14:31]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:31]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:31]  System: You will now hunt innocent players.
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: You will now hunt friendly players.
+[09/17/2024 14:31]  System: You will now hunt innocent players.
+[09/17/2024 14:31]  Fierro: You begin hunting.
+[09/17/2024 14:31]  Razor: [+Tracking Hunting (0s)]
+[09/17/2024 14:31]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:31]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:31]  Razor: |> log : 92 <|
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:31]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:31]  System: The world will save in 15 seconds.
+[09/17/2024 14:31]  System: You will now hunt friendly players.
+[09/17/2024 14:31]  Razor: *** Resource depleted ***
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:31]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:31]  System: You will now hunt aggressive creatures.
+[09/17/2024 14:31]  System: You will now hunt passive creatures.
+[09/17/2024 14:31]  Razor: *** Resource depleted ***
+[09/17/2024 14:31]  System: You will now hunt townsfolk.
+[09/17/2024 14:31]  System: What do you want to use this item on?
+[09/17/2024 14:31]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:31]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:32]  System: You will now hunt all players.
+[09/17/2024 14:32]  System: You will now hunt all hostile players.
+[09/17/2024 14:32]  a hind: a hind
+[09/17/2024 14:32]  Razor: *** Resource depleted ***
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:32]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:32]  System: You will now hunt enemy players.
+[09/17/2024 14:32]  System: The world is saving, please wait.
+[09/17/2024 14:32]  System: World save complete. The entire process took 2.6 seconds.
+[09/17/2024 14:32]  System: You will now hunt murderer players.
+[09/17/2024 14:32]  Razor: *** Resource depleted ***
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:32]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:32]  a Nathaniel: a Nathaniel
+[09/17/2024 14:32]  Razor: *** Resource depleted ***
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:32]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:32]  a great hart: a great hart
+[09/17/2024 14:32]  Kamali: Kamali the butcher
+[09/17/2024 14:32]  Komor: Komor the tanner
+[09/17/2024 14:32]  Razor: *** Resource depleted ***
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:32]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:32]  a nuthatch: a nuthatch
+[09/17/2024 14:32]  a tern: a tern
+[09/17/2024 14:32]  a great hart: a great hart
+[09/17/2024 14:32]  Razor: *** Resource depleted ***
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  P'Badgers: Sergeant [Andaria]
+[09/17/2024 14:32]  P'Badgers: [PKs]
+[09/17/2024 14:32]  P'Badgers: P'Badgers
+[09/17/2024 14:32]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:32]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:32]  You see: board : 248
+[09/17/2024 14:32]  Razor: |> log : 98 <|
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  System: Party and guild members will no longer appear in tracking or hunting results.
+[09/17/2024 14:32]  System: Party and guild members will now appear in tracking or hunting results.
+[09/17/2024 14:32]  System: Allied guilds will no longer appear in tracking or hunting results.
+[09/17/2024 14:32]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:32]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:32]  System: Allied guilds will now appear in tracking or hunting results.
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  System: You will track the closest available target when you have no tracking arrow on screen and your last tracked target is no longer trackable.
+[09/17/2024 14:32]  System: You will always track whatever is closest to you.
+[09/17/2024 14:32]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:32]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:32]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:32]  Razor: |> log : 108 <|
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  Fierro: You stop hunting.
+[09/17/2024 14:32]  Razor: [-Tracking Hunting (s)]
+[09/17/2024 14:32]  System: You will now hunt enemy players.
+[09/17/2024 14:32]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:32]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:32]  System: You will now hunt all hostile players.
+[09/17/2024 14:32]  Razor: |> log : 116 <|
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  System: You will now hunt all players.
+[09/17/2024 14:32]  System: You will now hunt townsfolk.
+[09/17/2024 14:32]  System: You will now hunt passive creatures.
+[09/17/2024 14:32]  System: You will now hunt aggressive creatures.
+[09/17/2024 14:32]  System: You will now hunt friendly players.
+[09/17/2024 14:32]  System: You will now hunt innocent players.
+[09/17/2024 14:32]  System: You will now hunt criminal players.
+[09/17/2024 14:32]  System: You will now hunt murderer players.
+[09/17/2024 14:32]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:32]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:32]  System: You will now hunt criminal players.
+[09/17/2024 14:32]  Fierro: You begin hunting.
+[09/17/2024 14:32]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:32]  Razor: [+Tracking Hunting (0s)]
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:32]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:32]  System: You will always track the last individual target you selected from the Tracking Results page.
+[09/17/2024 14:32]  System: What do you want to use this item on?
+[09/17/2024 14:32]  a great hart: a great hart
+[09/17/2024 14:32]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:32]  System: You will always track whatever you are currently fighting.
+[09/17/2024 14:33]  System: You will track the closest available target when you have no tracking arrow on screen.
+[09/17/2024 14:33]  System: You will track the closest available target when you have no tracking arrow on screen and your last tracked target is no longer trackable.
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:33]  System: You will always track whatever is closest to you.
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: You will always track the last individual target you selected from the Tracking Results page.
+[09/17/2024 14:33]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:33]  System: Your skill in Tracking has increased by 0.1.  It is now 55.7.
+[09/17/2024 14:33]  an eagle: an eagle
+[09/17/2024 14:33]  System: You will always track whatever you are currently fighting.
+[09/17/2024 14:33]  System: You will track the closest available target when you have no tracking arrow on screen.
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:33]  Shoo-Fly: [Don't Bother Me, CFC]
+[09/17/2024 14:33]  Shoo-Fly: Lord Shoo-Fly
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:33]  Fierro: You stop hunting.
+[09/17/2024 14:33]  Razor: [-Tracking Hunting (s)]
+[09/17/2024 14:33]  Razor: |> log : 125 <|
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:33]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:33]  Razor: *** Resource depleted ***
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:33]  Razor: |> log : 133 <|
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:33]  a nuthatch: a nuthatch
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:33]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:33]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:33]  Razor: |> log : 138 <|
+[09/17/2024 14:33]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:34]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.3.
+[09/17/2024 14:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:34]  a hind: a hind
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  macemadeness: [Recruit, Tale]
+[09/17/2024 14:34]  macemadeness: macemadeness
+[09/17/2024 14:34]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:34]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:34]  Razor: |> log : 147 <|
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:34]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:34]  Razor: *** Resource depleted ***
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:34]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:34]  Razor: *** Resource depleted ***
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:34]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:34]  a nuthatch: a nuthatch
+[09/17/2024 14:34]  Razor: *** Resource depleted ***
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:34]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:34]  a hind: a hind
+[09/17/2024 14:34]  Razor: *** Resource depleted ***
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:34]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:34]  Razor: |> log : 156 <|
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  a tern: a tern
+[09/17/2024 14:34]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:34]  a magpie: a magpie
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:34]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:34]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.4.
+[09/17/2024 14:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:34]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:35]  System: Damp Bandit has completed the achievement: Skinner (Advanced).
+[09/17/2024 14:35]  Minily: [Private First Class, TES]
+[09/17/2024 14:35]  Minily: Minily
+[09/17/2024 14:35]  Razor: |> log : 164 <|
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.5.
+[09/17/2024 14:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You chop some dullwood logs and put them in your backpack.
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  a magpie: a magpie
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:35]  System: Segallion has completed the achievement: Skill Proficiency (Basic).
+[09/17/2024 14:35]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:35]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:35]  Razor: |> log : 171 <|
+[09/17/2024 14:35]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:36]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:36]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:36]  Razor: |> log : 177 <|
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:36]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:36]  Razor: *** Resource depleted ***
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  a magpie: a magpie
+[09/17/2024 14:36]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:36]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  a magpie: a magpie
+[09/17/2024 14:36]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:36]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:36]  Razor: |> log : 183 <|
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:36]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.6.
+[09/17/2024 14:36]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:36]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:36]  Razor: |> log : 193 <|
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:36]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:36]  Razor: *** Resource depleted ***
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:36]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:36]  Razor: *** Resource depleted ***
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:36]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:36]  Razor: *** Resource depleted ***
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:36]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:36]  System: Mi Laboras has completed the achievement: Scribe (Basic).
+[09/17/2024 14:36]  Fierro: The food is scarcely edible (measly).
+[09/17/2024 14:36]  Razor: [+Food Satisfaction (3600s)]
+[09/17/2024 14:36]  Razor: *** Resource depleted ***
+[09/17/2024 14:36]  System: What do you want to use this item on?
+[09/17/2024 14:36]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:36]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:37]  a magpie: a magpie
+[09/17/2024 14:37]  Razor: *** Resource depleted ***
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:37]  Razor: |> log : 201 <|
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.7.
+[09/17/2024 14:37]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:37]  Razor: |> log : 210 <|
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:37]  Razor: |> log : 217 <|
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  a nuthatch: a nuthatch
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:37]  Razor: |> log : 225 <|
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:37]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:37]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:37]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:38]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:38]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.8.
+[09/17/2024 14:38]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:38]  Razor: |> log : 235 <|
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:38]  Razor: *** Resource depleted ***
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:38]  Razor: *** Resource depleted ***
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:38]  CCth: CCth (Young)
+[09/17/2024 14:38]  Razor: *** Resource depleted ***
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:38]  Razor: *** Resource depleted ***
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:38]  a tern: a tern
+[09/17/2024 14:38]  Razor: *** Resource depleted ***
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:38]  Razor: *** Resource depleted ***
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:38]  Razor: *** Resource depleted ***
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:38]  Razor: *** Resource depleted ***
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:38]  a magpie: a magpie
+[09/17/2024 14:38]  a nuthatch: a nuthatch
+[09/17/2024 14:38]  Razor: *** Resource depleted ***
+[09/17/2024 14:38]  System: What do you want to use this item on?
+[09/17/2024 14:38]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:38]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  a nuthatch: a nuthatch
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  System: Tracking skillgain: 23.041%
+[09/17/2024 14:39]  System: Now tracking: CCth.
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  Kamali: Kamali the butcher
+[09/17/2024 14:39]  Komor: Komor the tanner
+[09/17/2024 14:39]  a tern: a tern
+[09/17/2024 14:39]  a magpie: a magpie
+[09/17/2024 14:39]  CCth: CCth (Young)
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: Distance to destination: 16 steps.
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  System: Mi Laboras has completed the achievement: Artificers Enclave Initiate.
+[09/17/2024 14:39]  a nuthatch: a nuthatch
+[09/17/2024 14:39]  a great hart: a great hart
+[09/17/2024 14:39]  a hind: a hind
+[09/17/2024 14:39]  an eagle: an eagle
+[09/17/2024 14:39]  Saxon: Saxon the lumberjack
+[09/17/2024 14:39]  Razor: *** Resource depleted ***
+[09/17/2024 14:39]  System: What do you want to use this item on?
+[09/17/2024 14:39]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:39]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:39]  System: Distance to destination: 7 steps.
+[09/17/2024 14:39]  a scarab: (bonded)
+[09/17/2024 14:39]  a scarab: a scarab
+[09/17/2024 14:39]  a great hart: a great hart
+[09/17/2024 14:40]  a hind: a hind
+[09/17/2024 14:40]  Crystal: Crystal the tinker
+[09/17/2024 14:40]  Selina: Selina the jeweler
+[09/17/2024 14:40]  AskChopper.: Mythical Engineer
+[09/17/2024 14:40]  AskChopper.: [Soldier, SOF]
+[09/17/2024 14:40]  AskChopper.: AskChopper.
+[09/17/2024 14:40]  Razor: *** Resource depleted ***
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  System: Distance to destination: 14 steps.
+[09/17/2024 14:40]  a scarab: (bonded)
+[09/17/2024 14:40]  a scarab: a scarab
+[09/17/2024 14:40]  Wanda: Wanda the blacksmith
+[09/17/2024 14:40]  Ardith: Ardith the tailor
+[09/17/2024 14:40]  Subrey: Subrey the provisioner
+[09/17/2024 14:40]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:40]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:40]  Razor: *** Resource depleted ***
+[09/17/2024 14:40]  a nuthatch: a nuthatch
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  a magpie: a magpie
+[09/17/2024 14:40]  a tern: a tern
+[09/17/2024 14:40]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:40]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:40]  CCth: CCth (Young)
+[09/17/2024 14:40]  System: Distance to destination: 15 steps.
+[09/17/2024 14:40]  Bilal: Bilal the blacksmith
+[09/17/2024 14:40]  a great hart: a great hart
+[09/17/2024 14:40]  Crystal: Crystal the tinker
+[09/17/2024 14:40]  Selina: Selina the jeweler
+[09/17/2024 14:40]  Razor: *** Resource depleted ***
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:40]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:40]  System: Distance to destination: 13 steps.
+[09/17/2024 14:40]  a hind: a hind
+[09/17/2024 14:40]  a great hart: a great hart
+[09/17/2024 14:40]  an eagle: an eagle
+[09/17/2024 14:40]  Razor: *** Resource depleted ***
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  System: Distance to destination: 13 steps.
+[09/17/2024 14:40]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:40]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  System: Distance to destination: 13 steps.
+[09/17/2024 14:40]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:40]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:40]  Razor: |> log : 241 <|
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  System: Distance to destination: 13 steps.
+[09/17/2024 14:40]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:40]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 68.9.
+[09/17/2024 14:40]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  System: Distance to destination: 13 steps.
+[09/17/2024 14:40]  System: Lumberjacking skillgain: 17.668%
+[09/17/2024 14:40]  System: You chop some logs and put them in your backpack.
+[09/17/2024 14:40]  Razor: |> log : 248 <|
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:40]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:40]  System: Distance to destination: 13 steps.
+[09/17/2024 14:40]  Razor: *** Resource depleted ***
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:40]  Fierro: You cannot produce any wood from that.
+[09/17/2024 14:40]  System: Distance to destination: 13 steps.
+[09/17/2024 14:40]  Razor: *** Resource depleted ***
+[09/17/2024 14:40]  System: What do you want to use this item on?
+[09/17/2024 14:40]  System: You do not see any harvestable resources nearby.
+[09/17/2024 14:40]  Fierro: You cannot produce any wood from that.

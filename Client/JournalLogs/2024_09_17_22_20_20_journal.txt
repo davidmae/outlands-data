@@ -1,0 +1,822 @@
+[09/17/2024 22:20]  System: WorldMap loading...
+[09/17/2024 22:20]  System: Loading WorldMap markers..
+[09/17/2024 22:20]  System: ..Banks_and_Healers.xml (39)
+[09/17/2024 22:20]  System: ..Dungeons.xml (13)
+[09/17/2024 22:20]  System: ..Dungeon_Gates.xml (388)
+[09/17/2024 22:20]  System: ..Healer_Caravans.xml (42)
+[09/17/2024 22:20]  System: ..Kings_Faire.xml (49)
+[09/17/2024 22:20]  System: ..Moongates.xml (10)
+[09/17/2024 22:20]  System: ..POI.xml (251)
+[09/17/2024 22:20]  System: ..PvP_Locations.xml (71)
+[09/17/2024 22:20]  System: ..Shrines.xml (9)
+[09/17/2024 22:20]  System: ..Sub-Dungeons.xml (4)
+[09/17/2024 22:20]  System: ..Townships.xml (10)
+[09/17/2024 22:20]  System: ..UOAM_Atlas.xml (1887)
+[09/17/2024 22:20]  System: ..UOAM_T-Map.xml (255)
+[09/17/2024 22:20]  System: ..UOAM_Treasure.xml (523)
+[09/17/2024 22:20]  System: WorldMap markers loaded (3551)
+[09/17/2024 22:20]  System: Welcome Poisoner!
+[09/17/2024 22:20]  Poisoner: Poisoner (Young)
+[09/17/2024 22:20]  a sheep: a sheep
+[09/17/2024 22:20]  a sheep: a sheep
+[09/17/2024 22:20]  Noctivagus: [Nordico, BRvk]
+[09/17/2024 22:20]  Noctivagus: Noctivagus (Young)
+[09/17/2024 22:20]  Dane: Dane the farmer
+[09/17/2024 22:20]  a sheep: a sheep
+[09/17/2024 22:20]  a sheep: a sheep
+[09/17/2024 22:20]  Jake: Jake the barkeep
+[09/17/2024 22:20]  Len: Len the banker
+[09/17/2024 22:20]  Ailiin: Ailiin
+[09/17/2024 22:20]  Jolanta: Jolanta the Paladin
+[09/17/2024 22:20]  Ayisha: Ayisha the weaponsmith
+[09/17/2024 22:20]  Alicia: Alicia the tavern keeper
+[09/17/2024 22:20]  Colon: Colon the Town Crier
+[09/17/2024 22:20]  Tresor: [Le Francais, LEET]
+[09/17/2024 22:20]  Tresor: Lord Tresor
+[09/17/2024 22:20]  Reeky: Reeky (Young)
+[09/17/2024 22:20]  Amadis: Amadis the armorer
+[09/17/2024 22:20]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/17/2024 22:20]  System: WorldMap loaded!
+[09/17/2024 22:20]  Siboire: Knight [Prevalia]
+[09/17/2024 22:20]  Siboire: [Omelette du fromage, LDS]
+[09/17/2024 22:20]  Siboire: Siboire
+[09/17/2024 22:20]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:20]  GruveR: GruveR (Young)
+[09/17/2024 22:20]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:20]  GruveR: GruveR (Young)
+[09/17/2024 22:21]  I Love To Jack: I Love To Jack (Young)
+[09/17/2024 22:21]  I Love To Jack: bank
+[09/17/2024 22:21]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:21]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:21]  System: Wes Furtive has completed the achievement: Netherzone Hunter (Master).
+[09/17/2024 22:21]  [Razor]: Warning: Nightshade amount is now 0!
+[09/17/2024 22:21]  a pack llama: (tame)
+[09/17/2024 22:21]  a pack llama: [1920/2000 stones]
+[09/17/2024 22:21]  a pack llama: a pack llama
+[09/17/2024 22:22]  : window
+[09/17/2024 22:22]  Poisoner: Bank Vendor buy
+[09/17/2024 22:22]  Poisoner: Items: 119/125
+[09/17/2024 22:22]  Poisoner: Total Weight: 56
+[09/17/2024 22:22]  Poisoner: Room
+[09/17/2024 22:22]  System: Crafting queue begun.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  : carpet
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Your skill in Alchemy has increased by 0.1.  It is now 65.7.
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.7/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Your skill in Alchemy has increased by 0.1.  It is now 65.8.
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  : apple tree
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:22]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:22]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:22]  [Razor]: Warning: Spider's Silk amount is now 3!
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  [Razor]: Warning: Spider's Silk amount is now 0!
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: That container cannot hold more items.
+[09/17/2024 22:23]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Stu Pedaso has completed the achievement: Order of Armorers Initiate.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  MrFinch: [ICON]
+[09/17/2024 22:23]  MrFinch: MrFinch
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:23]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:23]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:23]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  Ailiin: Ailiin
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: That container cannot hold more items.
+[09/17/2024 22:24]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 22:24]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.8/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Your skill in Alchemy has increased by 0.1.  It is now 65.9.
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.9/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.9/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.9/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.9/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.9/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (65.9/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Your skill in Alchemy has increased by 0.1.  It is now 66.0.
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:24]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:24]  Krag Oversteen: Krag Oversteen
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  iSweat: iSweat
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: The world will save in 15 seconds.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:25]  System: The world is saving, please wait.
+[09/17/2024 22:25]  System: World save complete. The entire process took 3.0 seconds.
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion: You must wait to perform another action.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.0/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Your skill in Alchemy has increased by 0.1.  It is now 66.1.
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.1/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.1/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.1/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.1/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.1/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.1/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Your skill in Alchemy has increased by 0.1.  It is now 66.2.
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: zNitro has completed the achievement: Monster Hunter Initiate.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: You have worn out your tool!
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:25]  System: That container cannot hold more items.
+[09/17/2024 22:25]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:25]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 22:25]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:25]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  Generic Pet: Generic Pet
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  Vaygardasim: Affluent
+[09/17/2024 22:26]  Vaygardasim: [Kharl, Ymir]
+[09/17/2024 22:26]  Vaygardasim: Lord Vaygardasim
+[09/17/2024 22:26]  Snat Cher: Snat Cher (Young)
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  Sweaty Rocks: Relic Hunter
+[09/17/2024 22:26]  Sweaty Rocks: Lady Sweaty Rocks
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  Married Man: Shadowspire Legend
+[09/17/2024 22:26]  Married Man: [Recruit, UNW]
+[09/17/2024 22:26]  Married Man: Lord Married Man
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  Snat Cher: Snat Cher (Young)
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  System: Ash Elderstone has completed the achievement: Engineer (Advanced).
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  a pack horse: (tame)
+[09/17/2024 22:26]  a pack horse: [0/2000 stones]
+[09/17/2024 22:26]  a pack horse: a pack horse
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  Scythia Paper: Scythia Paper
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:26]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:26]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  BudissyBandit: (bonded)
+[09/17/2024 22:27]  BudissyBandit: BudissyBandit
+[09/17/2024 22:27]  Serj Tankian: Aegis Keep Legend
+[09/17/2024 22:27]  Serj Tankian: [Fund Mismanager, Trin]
+[09/17/2024 22:27]  Serj Tankian: Lord Serj Tankian
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  Snat Cher: Snat Cher (Young)
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: That container cannot hold more items.
+[09/17/2024 22:27]  Snat Cher: Snat Cher (Young)
+[09/17/2024 22:27]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  Garbage Energy: Garbage Energy
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  Hattu: Hattu (Young)
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  Garbage Energy: Garbage Energy
+[09/17/2024 22:27]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:27]  System: Paladini has completed the achievement: Guardian of Kraul Hive (Basic).
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  Gerald Price: Gerald Price
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Your skill in Alchemy has increased by 0.1.  It is now 66.3.
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:27]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:27]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  a jungle mantis: (bonded)
+[09/17/2024 22:28]  a jungle mantis: a jungle mantis
+[09/17/2024 22:28]  a colossal sandroach: (tame)
+[09/17/2024 22:28]  a colossal sandroach: a colossal sandroach
+[09/17/2024 22:28]  Domitor Max: [The Tavern], [tT]
+[09/17/2024 22:28]  Domitor Max: Domitor Max
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  System: That container cannot hold more items.
+[09/17/2024 22:28]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  [Razor]: Warning: Spider's Silk amount is now 2!
+[09/17/2024 22:28]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion (66.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 22:28]  [Razor]: Warning: Spider's Silk amount is now 1!
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion: You don't have the resources required to make that item.
+[09/17/2024 22:28]  System: Lesser Magic Resist Potion: You don't have the resources required to make that item.
+[09/17/2024 22:28]  System: Crafting queue complete.
+[09/17/2024 22:28]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:28]  GruveR: GruveR (Young)
+[09/17/2024 22:28]  GruveR: bank
+[09/17/2024 22:28]  Detenha: Captain
+[09/17/2024 22:28]  Detenha: Lord Detenha
+[09/17/2024 22:29]  Mithrildur: Mithrildur (Young)
+[09/17/2024 22:29]  Snat Cher: Snat Cher (Young)
+[09/17/2024 22:29]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:29]  Snat Cher: Snat Cher (Young)
+[09/17/2024 22:29]  Pesce Palla: Pesce Palla
+[09/17/2024 22:30]  Emilia Of Death: Emilia Of Death (Young)
+[09/17/2024 22:30]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:30]  System: Selfdenx has completed the achievement: Beastial Slayer (Basic).
+[09/17/2024 22:30]  System: Ossian has completed the achievement: Shipwright (Basic).
+[09/17/2024 22:30]  System: Grill u Gawrona has completed the achievement: Monstrous Slayer (Basic).
+[09/17/2024 22:30]  System: Ogedei Khan has completed the achievement: Tinker (Epic).
+[09/17/2024 22:31]  Snat Cher: Snat Cher (Young)
+[09/17/2024 22:31]  TheSkinner: TheSkinner (Young)
+[09/17/2024 22:31]  CesarLB: CesarLB
+[09/17/2024 22:31]  Princess Severka: The Dread Pirate
+[09/17/2024 22:31]  Princess Severka: [Veteran, -_-]
+[09/17/2024 22:31]  Princess Severka: Lady Princess Severka
+[09/17/2024 22:32]  Shallan Devar: Triggered
+[09/17/2024 22:32]  Shallan Devar: [Member, vD]
+[09/17/2024 22:32]  Shallan Devar: Shallan Devar
+[09/17/2024 22:32]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:32]  System: Kolici has completed the achievement: Enchanter (Basic).
+[09/17/2024 22:32]  Tomcococo: Tomcococo (Young)
+[09/17/2024 22:32]  System: Hammburglar has completed the achievement: Black Marketeer (Basic).
+[09/17/2024 22:33]  Serj Tankian: Aegis Keep Legend
+[09/17/2024 22:33]  Serj Tankian: [Fund Mismanager, Trin]
+[09/17/2024 22:33]  Serj Tankian: Lord Serj Tankian
+[09/17/2024 22:33]  System: Mr.Mallik has completed the achievement: Netherzone Hunter (Basic).
+[09/17/2024 22:33]  Shallan Devar: Triggered
+[09/17/2024 22:33]  Shallan Devar: [Member, vD]
+[09/17/2024 22:33]  Shallan Devar: Shallan Devar
+[09/17/2024 22:33]  System: Stan Proudmore has completed the achievement: Backstabber (Basic).
+[09/17/2024 22:33]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:33]  TheSkinner: TheSkinner (Young)
+[09/17/2024 22:33]  Laione: [Fogueteiro, FUMO]
+[09/17/2024 22:33]  Laione: Laione
+[09/17/2024 22:33]  HOLY BRENDAN: HOLY BRENDAN
+[09/17/2024 22:34]  Phalinx: Phalinx
+[09/17/2024 22:34]  Captain Ahoi: Legendary Pirate
+[09/17/2024 22:34]  Captain Ahoi: [Waterblessed Pirate, LiT]
+[09/17/2024 22:34]  Captain Ahoi: Lord Captain Ahoi
+[09/17/2024 22:34]  Siff: Savant
+[09/17/2024 22:34]  Siff: [SQzD]
+[09/17/2024 22:34]  Siff: Lord Siff
+[09/17/2024 22:34]  Mercuria: Mercuria (Young)
+[09/17/2024 22:34]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:34]  Nooodles: Lord Nooodles
+[09/17/2024 22:34]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:34]  Aimee Archer: Aimee Archer
+[09/17/2024 22:35]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:35]  Aimee Archer: Aimee Archer
+[09/17/2024 22:35]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:35]  a colossal frog: *regens*
+[09/17/2024 22:35]  Atreyu the Tamer: Atreyu the Tamer
+[09/17/2024 22:35]  a colossal frog: (tame)
+[09/17/2024 22:35]  a colossal frog: a colossal frog
+[09/17/2024 22:35]  a colossal frog: (bonded)
+[09/17/2024 22:35]  a colossal frog: a colossal frog
+[09/17/2024 22:36]  a colossal frog: *regens*
+[09/17/2024 22:36]  Augustus Mcrae: Augustus Mcrae
+[09/17/2024 22:36]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:36]  Atreyu the Tamer: All Follow Me All Guard Me
+[09/17/2024 22:36]  Augustus Mcrae: Augustus Mcrae
+[09/17/2024 22:36]  a colossal frog: *regens*
+[09/17/2024 22:36]  System: Tirantt has completed the achievement: Boss Slayer (Basic).
+[09/17/2024 22:36]  Augustus Mcrae: Augustus Mcrae
+[09/17/2024 22:36]  Detenha: Captain
+[09/17/2024 22:36]  Detenha: Lord Detenha
+[09/17/2024 22:36]  Detenha: Captain
+[09/17/2024 22:36]  Detenha: Lord Detenha
+[09/17/2024 22:36]  Calamitous: Calamitous
+[09/17/2024 22:36]  a colossal frog: *regens*
+[09/17/2024 22:36]  Aimee Archer: Aimee Archer
+[09/17/2024 22:36]  System: Hollisterr has completed the achievement: Savant (Basic).
+[09/17/2024 22:37]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:37]  System: ganji has completed the achievement: Boss Slayer (Advanced).
+[09/17/2024 22:37]  Atreyu the Tamer: Atreyu the Tamer
+[09/17/2024 22:37]  a colossal frog: (tame)
+[09/17/2024 22:37]  a colossal frog: a colossal frog
+[09/17/2024 22:37]  a colossal frog: (bonded)
+[09/17/2024 22:37]  a colossal frog: a colossal frog
+[09/17/2024 22:37]  Atreyu the Tamer: Atreyu the Tamer
+[09/17/2024 22:37]  a colossal frog: (tame)
+[09/17/2024 22:37]  a colossal frog: a colossal frog
+[09/17/2024 22:37]  a colossal frog: (bonded)
+[09/17/2024 22:37]  a colossal frog: a colossal frog
+[09/17/2024 22:37]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:37]  a colossal frog: *regens*
+[09/17/2024 22:37]  a colossal frog: *regens*
+[09/17/2024 22:38]  a colossal frog: *regens*
+[09/17/2024 22:38]  a colossal frog: *regens*
+[09/17/2024 22:38]  JamItAllIn: JamItAllIn (Young)
+[09/17/2024 22:38]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:38]  a colossal frog: *regens*
+[09/17/2024 22:38]  System: Gobi Wistral has completed the achievement: Connoisseur (Basic).
+[09/17/2024 22:38]  Magus Blackgate: Legendary Captain
+[09/17/2024 22:38]  Magus Blackgate: [Pirate, EV!L]
+[09/17/2024 22:38]  Magus Blackgate: Magus Blackgate
+[09/17/2024 22:38]  Zadig: Artificer Associate
+[09/17/2024 22:38]  Zadig: [Recruit, -_-]
+[09/17/2024 22:38]  Zadig: Zadig
+[09/17/2024 22:38]  Detenha: Captain
+[09/17/2024 22:38]  Detenha: Lord Detenha
+[09/17/2024 22:38]  a colossal frog: *regens*
+[09/17/2024 22:39]  MikeyMikee: Triggered
+[09/17/2024 22:39]  MikeyMikee: [Veteran, NWO]
+[09/17/2024 22:39]  MikeyMikee: MikeyMikee
+[09/17/2024 22:39]  a colossal frog: *regens*
+[09/17/2024 22:39]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:39]  Zadig: Kal Ort Por
+[09/17/2024 22:39]  a colossal frog: *regens*
+[09/17/2024 22:39]  a colossal frog: *regens*
+[09/17/2024 22:39]  Rooster-: Terran
+[09/17/2024 22:39]  Rooster-: [EVIL]
+[09/17/2024 22:39]  Rooster-: Rooster-
+[09/17/2024 22:39]  Snat Cher: Snat Cher (Young)
+[09/17/2024 22:39]  Wili: Wili (Young)
+[09/17/2024 22:39]  a colossal frog: *regens*
+[09/17/2024 22:39]  System: The world will save in 15 seconds.
+[09/17/2024 22:40]  Rooster-: Terran
+[09/17/2024 22:40]  Rooster-: [EVIL]
+[09/17/2024 22:40]  Rooster-: Rooster-
+[09/17/2024 22:40]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:40]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:40]  a colossal frog: *regens*
+[09/17/2024 22:40]  System: Maiyn has completed the achievement: Order of Armorers Luminary.
+[09/17/2024 22:40]  Dirty Rice: [Veteran, NWO]
+[09/17/2024 22:40]  Dirty Rice: Lord Dirty Rice
+[09/17/2024 22:40]  System: The world is saving, please wait.
+[09/17/2024 22:40]  System: World save complete. The entire process took 2.9 seconds.
+[09/17/2024 22:40]  Husky Eagleflex: Husky Eagleflex (Young)
+[09/17/2024 22:40]  System: Jenny Tailia has completed the achievement: Order of Armorers Initiate.
+[09/17/2024 22:40]  Husky Eagleflex: bank
+[09/17/2024 22:40]  KrySuriYaga: [Earl, BRvk]
+[09/17/2024 22:40]  KrySuriYaga: Lady KrySuriYaga
+[09/17/2024 22:40]  Wili: Wili (Young)
+[09/17/2024 22:40]  a colossal frog: *regens*
+[09/17/2024 22:40]  JamItAllIn: JamItAllIn (Young)
+[09/17/2024 22:40]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:40]  Maybe A Crafter: [The Tavern], [tT]
+[09/17/2024 22:40]  Maybe A Crafter: Maybe A Crafter
+[09/17/2024 22:40]  Dirty Rice: [Veteran, NWO]
+[09/17/2024 22:40]  Dirty Rice: Lord Dirty Rice
+[09/17/2024 22:40]  Maybe A Crafter: [The Tavern], [tT]
+[09/17/2024 22:40]  Maybe A Crafter: Maybe A Crafter
+[09/17/2024 22:40]  a colossal frog: *regens*
+[09/17/2024 22:40]  Emilia Of Death: Emilia Of Death (Young)
+[09/17/2024 22:40]  Minthara: Minthara
+[09/17/2024 22:40]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:40]  a colossal frog: *regens*
+[09/17/2024 22:41]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:41]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:41]  a colossal frog: *regens*
+[09/17/2024 22:41]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:41]  System: a Slayer has completed the achievement: Triggered (Basic).
+[09/17/2024 22:41]  a pack horse: (tame)
+[09/17/2024 22:41]  a pack horse: [200/2000 stones]
+[09/17/2024 22:41]  a pack horse: a pack horse
+[09/17/2024 22:41]  aMagicMidget: [Ratman Elite, RAT]
+[09/17/2024 22:41]  aMagicMidget: aMagicMidget
+[09/17/2024 22:41]  a colossal frog: *regens*
+[09/17/2024 22:41]  Mithrildur: Mithrildur (Young)
+[09/17/2024 22:41]  a sheep: a sheep
+[09/17/2024 22:41]  a ruby wyrmling: (bonded)
+[09/17/2024 22:41]  a ruby wyrmling: a ruby wyrmling
+[09/17/2024 22:41]  a drowned dragon: (bonded)
+[09/17/2024 22:41]  a drowned dragon: a drowned dragon
+[09/17/2024 22:41]  Miley Ray Cyrus: Legendary Pirate
+[09/17/2024 22:41]  Miley Ray Cyrus: [LiT]
+[09/17/2024 22:41]  Miley Ray Cyrus: Lady Miley Ray Cyrus
+[09/17/2024 22:41]  JamItAllIn: JamItAllIn (Young)
+[09/17/2024 22:41]  a colossal frog: *regens*
+[09/17/2024 22:41]  KrySuriYaga: [Earl, BRvk]
+[09/17/2024 22:41]  KrySuriYaga: Lady KrySuriYaga
+[09/17/2024 22:41]  bmf: [[tT]
+[09/17/2024 22:41]  bmf: bmf
+[09/17/2024 22:41]  Noctivagus: bank
+[09/17/2024 22:42]  Tresor: [Le Francais, LEET]
+[09/17/2024 22:42]  Tresor: Lord Tresor
+[09/17/2024 22:42]  a colossal frog: *regens*
+[09/17/2024 22:42]  Miner Maeljo: [Thrall, ICON]
+[09/17/2024 22:42]  Miner Maeljo: Miner Maeljo
+[09/17/2024 22:42]  Miley Ray Cyrus: Legendary Pirate
+[09/17/2024 22:42]  Miley Ray Cyrus: [LiT]
+[09/17/2024 22:42]  Miley Ray Cyrus: Lady Miley Ray Cyrus
+[09/17/2024 22:42]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:42]  Dirty Rice: [Veteran, NWO]
+[09/17/2024 22:42]  Dirty Rice: Lord Dirty Rice
+[09/17/2024 22:42]  a colossal frog: *regens*
+[09/17/2024 22:42]  System: cabeca de porco has completed the achievement: Paragon Hunter (Basic).
+[09/17/2024 22:42]  Siff: Savant
+[09/17/2024 22:42]  Siff: [SQzD]
+[09/17/2024 22:42]  Siff: Lord Siff
+[09/17/2024 22:42]  a colossal frog: *regens*
+[09/17/2024 22:42]  a ruby wyrmling: (bonded)
+[09/17/2024 22:42]  a ruby wyrmling: a ruby wyrmling
+[09/17/2024 22:42]  a drowned dragon: (bonded)
+[09/17/2024 22:42]  a drowned dragon: a drowned dragon
+[09/17/2024 22:42]  Miley Ray Cyrus: Legendary Pirate
+[09/17/2024 22:42]  Miley Ray Cyrus: [LiT]
+[09/17/2024 22:42]  Miley Ray Cyrus: Lady Miley Ray Cyrus
+[09/17/2024 22:42]  a colossal frog: *regens*
+[09/17/2024 22:42]  Husky Eagleflex: Husky Eagleflex (Young)
+[09/17/2024 22:42]  Miner Maeljo: [Thrall, ICON]
+[09/17/2024 22:42]  Miner Maeljo: Miner Maeljo
+[09/17/2024 22:42]  Len: Alas, my goods and services are only available to those with young player status.
+[09/17/2024 22:42]  Len: Alas, my goods and services are only available to those with young player status.
+[09/17/2024 22:43]  Len: Alas, my goods and services are only available to those with young player status.
+[09/17/2024 22:43]  a colossal frog: *regens*
+[09/17/2024 22:43]  Maybe A Crafter: [The Tavern], [tT]
+[09/17/2024 22:43]  Maybe A Crafter: Maybe A Crafter
+[09/17/2024 22:43]  a colossal frog: *regens*
+[09/17/2024 22:43]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:43]  JamItAllIn: JamItAllIn (Young)
+[09/17/2024 22:43]  a colossal frog: *regens*
+[09/17/2024 22:43]  Jaarl II Maple: Backstabber
+[09/17/2024 22:43]  Jaarl II Maple: [Recruit, rekt]
+[09/17/2024 22:43]  Jaarl II Maple: Lord Jaarl II Maple
+[09/17/2024 22:43]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:43]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:43]  a colossal frog: *regens*
+[09/17/2024 22:43]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:44]  a colossal frog: *regens*
+[09/17/2024 22:44]  System: SataN ServanT has completed the achievement: Versatility (Basic).
+[09/17/2024 22:44]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:44]  a colossal frog: *regens*
+[09/17/2024 22:44]  a colossal frog: *regens*
+[09/17/2024 22:44]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:44]  Manipulus: [Nordico, BRvk]
+[09/17/2024 22:44]  Manipulus: Manipulus
+[09/17/2024 22:44]  a colossal frog: *regens*
+[09/17/2024 22:44]  Manipulus: [Nordico, BRvk]
+[09/17/2024 22:44]  Manipulus: Manipulus
+[09/17/2024 22:44]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/17/2024 22:45]  Outline: [Recruit, BoS]
+[09/17/2024 22:45]  Outline: Lord Outline
+[09/17/2024 22:45]  a colossal frog: *regens*
+[09/17/2024 22:45]  a colossal frog: *regens*
+[09/17/2024 22:45]  SmoooV OperatoR: The Dread Pirate
+[09/17/2024 22:45]  SmoooV OperatoR: [Consigliere, DPS]
+[09/17/2024 22:45]  SmoooV OperatoR: Lord SmoooV OperatoR
+[09/17/2024 22:45]  Outline: [Recruit, BoS]
+[09/17/2024 22:45]  Outline: Lord Outline
+[09/17/2024 22:45]  a colossal frog: *regens*
+[09/17/2024 22:45]  Rona Steve: Legendarily Triggered
+[09/17/2024 22:45]  Rona Steve: Lord Rona Steve
+[09/17/2024 22:45]  Miner Maeljo: [Thrall, ICON]
+[09/17/2024 22:45]  Miner Maeljo: Miner Maeljo
+[09/17/2024 22:45]  a colossal frog: *regens*
+[09/17/2024 22:46]  Cincischione: Cincischione (Young)
+[09/17/2024 22:46]  a colossal frog: *regens*
+[09/17/2024 22:46]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:46]  Jaarl II Maple: Backstabber
+[09/17/2024 22:46]  Jaarl II Maple: [Recruit, rekt]
+[09/17/2024 22:46]  Jaarl II Maple: Lord Jaarl II Maple
+[09/17/2024 22:46]  SevenCannibals: SevenCannibals (Young)
+[09/17/2024 22:46]  a ruby wyrmling: (bonded)
+[09/17/2024 22:46]  a ruby wyrmling: a ruby wyrmling
+[09/17/2024 22:46]  a drowned dragon: (bonded)
+[09/17/2024 22:46]  a drowned dragon: a drowned dragon
+[09/17/2024 22:46]  Miley Ray Cyrus: Legendary Pirate
+[09/17/2024 22:46]  Miley Ray Cyrus: [LiT]
+[09/17/2024 22:46]  Miley Ray Cyrus: Lady Miley Ray Cyrus
+[09/17/2024 22:46]  Cincischione: bank
+[09/17/2024 22:46]  Angel A: Angel A
+[09/17/2024 22:46]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:46]  I Love To Jack: I Love To Jack (Young)
+[09/17/2024 22:46]  I Love To Jack: bank
+[09/17/2024 22:46]  Atreyu the Tamer: Atreyu the Tamer
+[09/17/2024 22:46]  a colossal frog: (tame)
+[09/17/2024 22:46]  a colossal frog: a colossal frog
+[09/17/2024 22:46]  a colossal frog: (bonded)
+[09/17/2024 22:46]  a colossal frog: a colossal frog
+[09/17/2024 22:46]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:47]  Raiza: Raiza
+[09/17/2024 22:47]  Ailiin: Ailiin
+[09/17/2024 22:47]  System: Marlevaur has completed the achievement: Versatility (Basic).
+[09/17/2024 22:47]  Atreyu the Tamer: Atreyu the Tamer
+[09/17/2024 22:47]  a colossal frog: (tame)
+[09/17/2024 22:47]  a colossal frog: a colossal frog
+[09/17/2024 22:47]  a colossal frog: (bonded)
+[09/17/2024 22:47]  a colossal frog: a colossal frog
+[09/17/2024 22:47]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:47]  a colossal frog: *regens*
+[09/17/2024 22:47]  Tirston Bloodfal: Tirston Bloodfal
+[09/17/2024 22:47]  Atreyu the Tamer: Atreyu the Tamer
+[09/17/2024 22:47]  a colossal frog: (tame)
+[09/17/2024 22:47]  a colossal frog: a colossal frog
+[09/17/2024 22:47]  a colossal frog: (bonded)
+[09/17/2024 22:47]  a colossal frog: a colossal frog
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: ARAWN (AWN) guild has reached prestige level 681.
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Tick Tick has completed the achievement: Zoologist (Basic).
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  Augustus Mcrae: Augustus Mcrae
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Your skill in Alchemy has increased by 0.1.  It is now 66.4.
+[09/17/2024 22:48]  ZoeHunt: ZoeHunt (Young)
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  System: Eyes Cold has completed the achievement: Archivist (Advanced).
+[09/17/2024 22:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 22:48]  [Razor]: Warning: Ginseng amount is now 0!

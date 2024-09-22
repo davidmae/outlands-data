@@ -1,0 +1,2802 @@
+[09/17/2024 19:40]  System: WorldMap loading...
+[09/17/2024 19:40]  System: Loading WorldMap markers..
+[09/17/2024 19:40]  System: ..Banks_and_Healers.xml (39)
+[09/17/2024 19:40]  System: ..Dungeons.xml (13)
+[09/17/2024 19:40]  System: ..Dungeon_Gates.xml (388)
+[09/17/2024 19:40]  System: ..Healer_Caravans.xml (42)
+[09/17/2024 19:40]  System: ..Kings_Faire.xml (49)
+[09/17/2024 19:40]  System: ..Moongates.xml (10)
+[09/17/2024 19:40]  System: ..POI.xml (251)
+[09/17/2024 19:40]  System: ..PvP_Locations.xml (71)
+[09/17/2024 19:40]  System: ..Shrines.xml (9)
+[09/17/2024 19:40]  System: ..Sub-Dungeons.xml (4)
+[09/17/2024 19:40]  System: ..Townships.xml (10)
+[09/17/2024 19:40]  System: ..UOAM_Atlas.xml (1887)
+[09/17/2024 19:40]  System: ..UOAM_T-Map.xml (255)
+[09/17/2024 19:40]  System: ..UOAM_Treasure.xml (523)
+[09/17/2024 19:40]  System: WorldMap markers loaded (3551)
+[09/17/2024 19:40]  System: Welcome Ailiin!
+[09/17/2024 19:40]  System: WorldMap loaded!
+[09/17/2024 19:40]  Ailiin: Ailiin
+[09/17/2024 19:40]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:41]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:41]  System: Target cannot be seen.
+[09/17/2024 19:41]  System: Opening door...
+[09/17/2024 19:41]  System: Opening door...
+[09/17/2024 19:41]  System: Holy symbols remaining: 5/10
+[09/17/2024 19:41]  Razor: [+Paralyze (0s)]
+[09/17/2024 19:41]  Razor: [-Paralyze (s)]
+[09/17/2024 19:41]  System: You are no longer hindered.
+[09/17/2024 19:41]  System: You are now under the protection of the town guards.
+[09/17/2024 19:41]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 19:41]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 19:41]  Razor: Steps: 0
+[09/17/2024 19:41]  Kenelm: Kenelm the tavern keeper
+[09/17/2024 19:41]  Wijdan: Wijdan the mapmaker
+[09/17/2024 19:41]  Jordan: Jordan the beggar
+[09/17/2024 19:41]  Rosaline: Rosaline the waiter
+[09/17/2024 19:41]  Bly: Bly the fisherman
+[09/17/2024 19:41]  Elerinna: [La Recruteuse, LDS]
+[09/17/2024 19:41]  Elerinna: Elerinna
+[09/17/2024 19:41]  LegendeLDS: (tame)
+[09/17/2024 19:41]  LegendeLDS: LegendeLDS
+[09/17/2024 19:41]  MassacreurLDS: (tame)
+[09/17/2024 19:41]  MassacreurLDS: MassacreurLDS
+[09/17/2024 19:41]  MagiciensLDS: (tame)
+[09/17/2024 19:41]  MagiciensLDS: MagiciensLDS
+[09/17/2024 19:41]  GuerrierLDS: (tame)
+[09/17/2024 19:41]  GuerrierLDS: GuerrierLDS
+[09/17/2024 19:41]  MaitreLDS: (tame)
+[09/17/2024 19:41]  MaitreLDS: MaitreLDS
+[09/17/2024 19:41]  LumbNecro: LumbNecro (Young)
+[09/17/2024 19:41]  Tai: Tai the fisherman
+[09/17/2024 19:41]  Lene: Lene the salvage foreman
+[09/17/2024 19:41]  Stacy: Stacy the salvage foreman
+[09/17/2024 19:41]  Uriah: Uriah the dockmaster
+[09/17/2024 19:41]  Kira: Kira the dockmaster
+[09/17/2024 19:41]  a seagull: a seagull
+[09/17/2024 19:41]  System: WorldMap loaded!
+[09/17/2024 19:41]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 19:41]  Red XIII: Red XIII
+[09/17/2024 19:42]  Carlton: Carlton the stablemaster
+[09/17/2024 19:42]  poonstar: [PWNHALLA VENDOR MALL, Syn]
+[09/17/2024 19:42]  poonstar: poonstar
+[09/17/2024 19:42]  Elerinna: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[09/17/2024 19:42]  Rayken: Rayken
+[09/17/2024 19:42]  Meg: Meg the bowyer
+[09/17/2024 19:42]  RowdyGats: RowdyGats
+[09/17/2024 19:42]  Miss Whisper: Wilderness Legend
+[09/17/2024 19:42]  Miss Whisper: [Recruit, CFC]
+[09/17/2024 19:42]  Miss Whisper: Lady Miss Whisper
+[09/17/2024 19:42]  a bird of paradise: (bonded)
+[09/17/2024 19:42]  a bird of paradise: a bird of paradise
+[09/17/2024 19:42]  a gravebug: (bonded)
+[09/17/2024 19:42]  a gravebug: a gravebug
+[09/17/2024 19:42]  Madelyn: Madelyn the shipwright
+[09/17/2024 19:42]  Siboire: Knight [Prevalia]
+[09/17/2024 19:42]  Siboire: [Omelette du fromage, LDS]
+[09/17/2024 19:42]  Siboire: Siboire
+[09/17/2024 19:42]  Chane: Chane the carpenter
+[09/17/2024 19:42]  Momomago: Momomago (Young)
+[09/17/2024 19:42]  S p a c e D: [Recruit, G.G]
+[09/17/2024 19:42]  S p a c e D: S p a c e D
+[09/17/2024 19:42]  Colon: Colon the Town Crier
+[09/17/2024 19:42]  Tresor: [Le Francais, LEET]
+[09/17/2024 19:42]  Tresor: Lord Tresor
+[09/17/2024 19:42]  Alicia: Alicia the tavern keeper
+[09/17/2024 19:42]  CCth: CCth (Young)
+[09/17/2024 19:42]  Amadis: Amadis the armorer
+[09/17/2024 19:42]  The Crafty Panda: The Crafty Panda (Young)
+[09/17/2024 19:42]  Tresor: Tu cherche une guilde active familliale et efficace pour conquerir les terres lointaines?
+[09/17/2024 19:42]  Jake: Jake the barkeep
+[09/17/2024 19:42]  Len: Len the banker
+[09/17/2024 19:42]  Ayisha: Ayisha the weaponsmith
+[09/17/2024 19:42]  Poisoner: Poisoner (Young)
+[09/17/2024 19:42]  Jolanta: Jolanta the Paladin
+[09/17/2024 19:42]  a sheep: a sheep
+[09/17/2024 19:42]  Dane: Dane the farmer
+[09/17/2024 19:42]  a sheep: a sheep
+[09/17/2024 19:42]  a sheep: a sheep
+[09/17/2024 19:42]  a sheep: a sheep
+[09/17/2024 19:42]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:42]  System: The world will save in 15 seconds.
+[09/17/2024 19:42]  System: The world is saving, please wait.
+[09/17/2024 19:42]  System: World save complete. The entire process took 2.7 seconds.
+[09/17/2024 19:43]  Miss Whisper: Wilderness Legend
+[09/17/2024 19:43]  Miss Whisper: [Recruit, CFC]
+[09/17/2024 19:43]  Miss Whisper: Lady Miss Whisper
+[09/17/2024 19:43]  Rayken: Rayken
+[09/17/2024 19:43]  Meg: Meg the bowyer
+[09/17/2024 19:43]  Tresor: Tu cherche une guilde active familliale et efficace pour conquerir les terres lointaines?
+[09/17/2024 19:43]  Kinestia: [Squire, C-C]
+[09/17/2024 19:43]  Kinestia: Kinestia
+[09/17/2024 19:43]  poonstar: [PWNHALLA VENDOR MALL, Syn]
+[09/17/2024 19:43]  poonstar: poonstar
+[09/17/2024 19:43]  Siboire: ■ Des événements hebdomadaires pour du loot garantie ! 
+[09/17/2024 19:43]  Chane: Chane the carpenter
+[09/17/2024 19:43]  Tresor: Rejoins LEET, une guilde 100% Fr/Qc,
+[09/17/2024 19:43]  Bilal: Bilal the blacksmith
+[09/17/2024 19:43]  Tresor: une guilde avec des membres pret à partager leurs connaissances et à se lancer ensemble dans des aventures épiques. 
+[09/17/2024 19:43]  Tresor: Contact @tedo54, @telyne, @Ape In Space sur le discord.
+[09/17/2024 19:43]  poonstar: PWNHALLA Vendors Vendor Mall by Pwnstarr Gaming!
+[09/17/2024 19:43]  poonstar: There are a few vendor spots still open! Please clothe yourself as a shirtless orc and DM Pwnstarr85 to let him know you placed
+[09/17/2024 19:43]  Tresor: hé salut nouvel aventurier! 
+[09/17/2024 19:43]  Tresor: Tu cherche une guilde active familliale et efficace pour conquerir les terres lointaines?
+[09/17/2024 19:44]  Tresor: Rejoins LEET, une guilde 100% Fr/Qc,
+[09/17/2024 19:44]  Samarta: Samarta
+[09/17/2024 19:44]  Tresor: une guilde avec des membres pret à partager leurs connaissances et à se lancer ensemble dans des aventures épiques. 
+[09/17/2024 19:44]  poonstar: PWNHALLA Vendors Vendor Mall by Pwnstarr Gaming!
+[09/17/2024 19:44]  Tresor: Contact @tedo54, @telyne, @Ape In Space sur le discord.
+[09/17/2024 19:44]  poonstar: There are a few vendor spots still open! Please clothe yourself as a shirtless orc and DM Pwnstarr85 to let him know you placed
+[09/17/2024 19:44]  : stone step
+[09/17/2024 19:44]  Bilal: Bilal the blacksmith
+[09/17/2024 19:44]  Tresor: hé salut nouvel aventurier! 
+[09/17/2024 19:44]  Tresor: Tu cherche une guilde active familliale et efficace pour conquerir les terres lointaines?
+[09/17/2024 19:44]  Tresor: Rejoins LEET, une guilde 100% Fr/Qc,
+[09/17/2024 19:44]  Tresor: une guilde avec des membres pret à partager leurs connaissances et à se lancer ensemble dans des aventures épiques. 
+[09/17/2024 19:44]  poonstar: PWNHALLA Vendors Vendor Mall by Pwnstarr Gaming!
+[09/17/2024 19:44]  Imperial Stout: [Book Worm, CtS]
+[09/17/2024 19:44]  Imperial Stout: Imperial Stout
+[09/17/2024 19:44]  Red XIII: Red XIII
+[09/17/2024 19:44]  Imperial Stout: [Book Worm, CtS]
+[09/17/2024 19:44]  Imperial Stout: Imperial Stout
+[09/17/2024 19:44]  Bilal: Bilal the blacksmith
+[09/17/2024 19:44]  poonstar: There are a few vendor spots still open! Please clothe yourself as a shirtless orc and DM Pwnstarr85 to let him know you placed
+[09/17/2024 19:44]  Tresor: Contact @tedo54, @telyne, @Ape In Space sur le discord.
+[09/17/2024 19:44]  You see: eminently melodious gemshorn
+[09/17/2024 19:44]  You see: (500/500 uses remaining)
+[09/17/2024 19:44]  Imperial Stout: [Book Worm, CtS]
+[09/17/2024 19:44]  Imperial Stout: Imperial Stout
+[09/17/2024 19:44]  Vreto: Vreto
+[09/17/2024 19:45]  You see: eminently melodious gemshorn
+[09/17/2024 19:45]  You see: (500/500 uses remaining)
+[09/17/2024 19:45]  iMDMA: Backstabber
+[09/17/2024 19:45]  iMDMA: iMDMA
+[09/17/2024 19:45]  Tresor: hé salut nouvel aventurier! 
+[09/17/2024 19:45]  Jolanta: Jolanta the Paladin
+[09/17/2024 19:45]  Tresor: Tu cherche une guilde active familliale et efficace pour conquerir les terres lointaines?
+[09/17/2024 19:45]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:45]  System: You must wait a few moments before performing another barding song.
+[09/17/2024 19:45]  Jolanta: Jolanta the Paladin
+[09/17/2024 19:45]  Tresor: Rejoins LEET, une guilde 100% Fr/Qc,
+[09/17/2024 19:45]  System: Grant Risden has completed the achievement: Beastial Slayer (Basic).
+[09/17/2024 19:45]  Tettnanger: Tettnanger (Young)
+[09/17/2024 19:45]  Tresor: une guilde avec des membres pret à partager leurs connaissances et à se lancer ensemble dans des aventures épiques. 
+[09/17/2024 19:45]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:45]  System: You are now under the effect of a Song of Discordance (6.4% reduced damage from creatures for 15 minutes).
+[09/17/2024 19:45]  Razor: [+Song of Discordance (900s)]
+[09/17/2024 19:45]  poonstar: PWNHALLA Vendors Vendor Mall by Pwnstarr Gaming!
+[09/17/2024 19:45]  poonstar: There are a few vendor spots still open! Please clothe yourself as a shirtless orc and DM Pwnstarr85 to let him know you placed
+[09/17/2024 19:45]  Tresor: Contact @tedo54, @telyne, @Ape In Space sur le discord.
+[09/17/2024 19:45]  System: Holy symbols remaining: 5/10
+[09/17/2024 19:45]  Razor: [+Paralyze (0s)]
+[09/17/2024 19:45]  System: You must wait a moment before attempting to use another Chivalry ability.
+[09/17/2024 19:45]  System: You must wait another 30 seconds before you may use that ability again.
+[09/17/2024 19:45]  Razor: [-Paralyze (s)]
+[09/17/2024 19:45]  System: You are no longer hindered.
+[09/17/2024 19:45]  System: You must wait another 29 seconds before you may use that ability again.
+[09/17/2024 19:45]  System: You must wait another 29 seconds before you may use that ability again.
+[09/17/2024 19:45]  System: You must wait another 29 seconds before you may use that ability again.
+[09/17/2024 19:45]  System: You have left the protection of the town guards.
+[09/17/2024 19:45]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 19:45]  an ettin: an ettin
+[09/17/2024 19:45]  a cyclopean fire warrior: a cyclopean fire warrior
+[09/17/2024 19:45]  System: Archery skillgain: 2.153%
+[09/17/2024 19:45]  System: Focus skillgain: 2.153%
+[09/17/2024 19:45]  a cyclopean fire warrior: -63
+[09/17/2024 19:45]  a lurker: a lurker
+[09/17/2024 19:45]  Ailiin: Target: a cyclopean fire warrior
+[09/17/2024 19:45]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:45]  Razor: * Target *
+[09/17/2024 19:45]  System: You fail to pacify your opponent. You estimate the task to be fairly reasonable.
+[09/17/2024 19:45]  System: Archery skillgain: 2.153%
+[09/17/2024 19:45]  System: Focus skillgain: 2.153%
+[09/17/2024 19:45]  a cyclopean fire warrior: -59
+[09/17/2024 19:45]  a troll shaman: a troll shaman
+[09/17/2024 19:45]  System: Archery skillgain: 2.153%
+[09/17/2024 19:45]  System: Focus skillgain: 2.153%
+[09/17/2024 19:45]  a cyclopean fire warrior: -74
+[09/17/2024 19:45]  Ailiin: Target: a cyclopean fire warrior
+[09/17/2024 19:45]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:45]  Ailiin: -40
+[09/17/2024 19:45]  Ailiin: -12
+[09/17/2024 19:45]  Ailiin: +25
+[09/17/2024 19:45]  System: some damage has been healed : 25
+[09/17/2024 19:45]  an ettin: an ettin
+[09/17/2024 19:45]  System: Archery skillgain: 2.242%
+[09/17/2024 19:45]  System: Focus skillgain: 2.242%
+[09/17/2024 19:45]  a cyclopean fire warrior: -104
+[09/17/2024 19:45]  Ailiin: Target: a cyclopean fire warrior
+[09/17/2024 19:45]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:45]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:45]  a cyclopean fire warrior: *looks calmed*
+[09/17/2024 19:45]  System: Archery skillgain: 2.219%
+[09/17/2024 19:45]  System: Focus skillgain: 2.219%
+[09/17/2024 19:45]  a cyclopean fire warrior: -61
+[09/17/2024 19:45]  System: Click again to confirm.
+[09/17/2024 19:45]  System: Archery skillgain: 2.208%
+[09/17/2024 19:45]  System: Focus skillgain: 2.208%
+[09/17/2024 19:45]  a cyclopean fire warrior: -108
+[09/17/2024 19:45]  System: That weapon is already of that aspect.
+[09/17/2024 19:45]  System: Archery skillgain: 2.197%
+[09/17/2024 19:45]  System: Focus skillgain: 2.197%
+[09/17/2024 19:45]  a cyclopean fire warrior: -103
+[09/17/2024 19:45]  System: Click again to confirm.
+[09/17/2024 19:45]  System: Your armor is already of that aspect.
+[09/17/2024 19:45]  System: Archery skillgain: 2.186%
+[09/17/2024 19:45]  System: Focus skillgain: 2.186%
+[09/17/2024 19:45]  a cyclopean fire warrior: -66
+[09/17/2024 19:45]  You see: surpassingly accurate might lyric aspect pistol crossbow
+[09/17/2024 19:45]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:45]  System: Archery skillgain: 2.175%
+[09/17/2024 19:45]  System: Focus skillgain: 2.175%
+[09/17/2024 19:45]  a cyclopean fire warrior: -106
+[09/17/2024 19:45]  [Razor]: New target set.
+[09/17/2024 19:45]  [Razor]: Ignore List cleared
+[09/17/2024 19:45]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:45]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:46]  Razor: *pacified 25s discord 1m 32s* a cyclopean fire warrior
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -119
+[09/17/2024 19:46]  You see: eminently melodious gemshorn
+[09/17/2024 19:46]  You see: (497/500 uses remaining)
+[09/17/2024 19:46]  a cyclopean fire warrior: *barding break*
+[09/17/2024 19:46]  Ailiin: Target: a cyclopean fire warrior
+[09/17/2024 19:46]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -105
+[09/17/2024 19:46]  You see: a troll shaman corpse
+[09/17/2024 19:46]  Ailiin: +22
+[09/17/2024 19:46]  System: some damage has been healed : 22
+[09/17/2024 19:46]  a cyclopean fire warrior: -128
+[09/17/2024 19:46]  System: Holy symbols remaining: 5/10
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -131
+[09/17/2024 19:46]  Ailiin: -24
+[09/17/2024 19:46]  Ailiin: Target: a cyclopean fire warrior
+[09/17/2024 19:46]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:46]  Razor: * Target *
+[09/17/2024 19:46]  System: That target is currently under a barding break effect.
+[09/17/2024 19:46]  System: Archery skillgain: 2.197%
+[09/17/2024 19:46]  System: Focus skillgain: 2.197%
+[09/17/2024 19:46]  a cyclopean fire warrior: -99
+[09/17/2024 19:46]  Ailiin: -8
+[09/17/2024 19:46]  a lurker: a lurker
+[09/17/2024 19:46]  Ailiin: Target: a cyclopean fire warrior
+[09/17/2024 19:46]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:46]  System: You play successfully, pacifying your target. (46s)
+[09/17/2024 19:46]  a cyclopean fire warrior: *looks calmed*
+[09/17/2024 19:46]  System: Archery skillgain: 2.219%
+[09/17/2024 19:46]  System: Focus skillgain: 2.219%
+[09/17/2024 19:46]  a cyclopean fire warrior: -112
+[09/17/2024 19:46]  a troll shaman: a troll shaman
+[09/17/2024 19:46]  [Razor]: New target set.
+[09/17/2024 19:46]  [Razor]: Ignore List cleared
+[09/17/2024 19:46]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:46]  [Razor]: New target set.
+[09/17/2024 19:46]  [Razor]: Ignore List cleared
+[09/17/2024 19:46]  System: Archery skillgain: 2.208%
+[09/17/2024 19:46]  System: Focus skillgain: 2.208%
+[09/17/2024 19:46]  a cyclopean fire warrior: -170
+[09/17/2024 19:46]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:46]  [Razor]: New target set.
+[09/17/2024 19:46]  [Razor]: Ignore List cleared
+[09/17/2024 19:46]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:46]  [Razor]: New target set.
+[09/17/2024 19:46]  [Razor]: New target set.
+[09/17/2024 19:46]  [Razor]: Ignore List cleared
+[09/17/2024 19:46]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:46]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/17/2024 19:46]  System: Holy symbols remaining: 2/10
+[09/17/2024 19:46]  System: Holy symbols remaining: 0/10
+[09/17/2024 19:46]  System: Archery skillgain: 2.197%
+[09/17/2024 19:46]  System: Focus skillgain: 2.197%
+[09/17/2024 19:46]  a cyclopean fire warrior: -107
+[09/17/2024 19:46]  System: You do not have enough holy symbols for that ability.
+[09/17/2024 19:46]  System: You do not have enough holy symbols for that ability.
+[09/17/2024 19:46]  System: Archery skillgain: 2.186%
+[09/17/2024 19:46]  System: Focus skillgain: 2.186%
+[09/17/2024 19:46]  a cyclopean fire warrior: -76
+[09/17/2024 19:46]  Ailiin: +21
+[09/17/2024 19:46]  System: some damage has been healed : 21
+[09/17/2024 19:46]  System: Archery skillgain: 2.175%
+[09/17/2024 19:46]  System: Focus skillgain: 2.175%
+[09/17/2024 19:46]  a cyclopean fire warrior: -129
+[09/17/2024 19:46]  System: Archery skillgain: 2.164%
+[09/17/2024 19:46]  System: Focus skillgain: 2.164%
+[09/17/2024 19:46]  a cyclopean fire warrior: -141
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -110
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -125
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -125
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -134
+[09/17/2024 19:46]  [Razor]: New target set.
+[09/17/2024 19:46]  [Razor]: Ignore List cleared
+[09/17/2024 19:46]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:46]  Ailiin: Target: a cyclopean fire warrior
+[09/17/2024 19:46]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:46]  Razor: *pacified 26s discord 1m 32s* a cyclopean fire warrior
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -81
+[09/17/2024 19:46]  System: You must wait another 13 seconds before you may use that ability again.
+[09/17/2024 19:46]  System: You must wait another 13 seconds before you may use that ability again.
+[09/17/2024 19:46]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -146
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  System: Your shot hinders your target!
+[09/17/2024 19:46]  a cyclopean fire warrior: -280
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -164
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -161
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -146
+[09/17/2024 19:46]  a cyclopean fire warrior: *pacified 15s discord 1m 21s*
+[09/17/2024 19:46]  a cyclopean fire warrior: a cyclopean fire warrior
+[09/17/2024 19:46]  a troll shaman: a troll shaman
+[09/17/2024 19:46]  a lurker: a lurker
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -104
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -157
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a cyclopean fire warrior: -139
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  System: You have gained a lot of fame.
+[09/17/2024 19:46]  System: You have gained a lot of karma.
+[09/17/2024 19:46]  Ailiin: (Lyric Aspect 1,603.8/2000 xp)
+[09/17/2024 19:46]  System: Society Job Progress: 21,182/75,000 [Kill 75,000 Gold Worth of Creatures].
+[09/17/2024 19:46]  System: -67
+[09/17/2024 19:46]  You see: a cyclopean fire warrior corpse
+[09/17/2024 19:46]  an ettin: an ettin
+[09/17/2024 19:46]  a troll shaman: a troll shaman
+[09/17/2024 19:46]  Ailiin: Target: a lurker
+[09/17/2024 19:46]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:46]  Razor: * Target *
+[09/17/2024 19:46]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:46]  a lurker: *looks calmed*
+[09/17/2024 19:46]  an ettin: an ettin
+[09/17/2024 19:46]  [Razor]: New target set.
+[09/17/2024 19:46]  System: Archery skillgain: 2.153%
+[09/17/2024 19:46]  System: Focus skillgain: 2.153%
+[09/17/2024 19:46]  a lurker: -81
+[09/17/2024 19:46]  [Razor]: Ignore List cleared
+[09/17/2024 19:46]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:47]  System: Holy symbols remaining: 2/10
+[09/17/2024 19:47]  System: Holy symbols remaining: 0/10
+[09/17/2024 19:47]  System: You must wait a moment before attempting to use another Chivalry ability.
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -76
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -65
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -68
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -56
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -64
+[09/17/2024 19:47]  a lurker: *regens*
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -85
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -77
+[09/17/2024 19:47]  [Razor]: New target set.
+[09/17/2024 19:47]  [Razor]: Ignore List cleared
+[09/17/2024 19:47]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:47]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:47]  Ailiin: Your barding skill cooldowns reset.
+[09/17/2024 19:47]  Razor: *pacified 21s discord 1m 32s* a lurker
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -124
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -109
+[09/17/2024 19:47]  System: Archery skillgain: 2.153%
+[09/17/2024 19:47]  System: Focus skillgain: 2.153%
+[09/17/2024 19:47]  a lurker: -88
+[09/17/2024 19:47]  an ettin: an ettin
+[09/17/2024 19:47]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:47]  Razor: [+Paralyze (0s)]
+[09/17/2024 19:47]  Razor: [-Paralyze (s)]
+[09/17/2024 19:47]  System: You are no longer hindered.
+[09/17/2024 19:47]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 19:47]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 19:47]  Razor: Steps: 0
+[09/17/2024 19:47]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:47]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 19:47]  System: You are now under the effect of a Song of Peacemaking (6.4% healing amounts for 15 minutes).
+[09/17/2024 19:47]  Razor: [+Song of Peacemaking (900s)]
+[09/17/2024 19:47]  Ailiin: You are entering a sanctuary dungeon.
+[09/17/2024 19:47]  Ailiin: Your mount finds a quiet place to rest safely.
+[09/17/2024 19:47]  You see: a gremlin corpse
+[09/17/2024 19:47]  You see: a gremlin corpse
+[09/17/2024 19:47]  a gremlin: a gremlin
+[09/17/2024 19:47]  You see: a gremlin corpse
+[09/17/2024 19:47]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:47]  Razor: * Target *
+[09/17/2024 19:47]  a gremlin: *looks calmed*
+[09/17/2024 19:47]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  a goblin: a goblin
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  You see: a gremlin corpse
+[09/17/2024 19:47]  You see: the remains of Zlodziej Alibaba
+[09/17/2024 19:47]  You see: a goblin corpse
+[09/17/2024 19:47]  You see: a gremlin corpse
+[09/17/2024 19:47]  You see: an aegis mongbat corpse
+[09/17/2024 19:47]  You see: a goblin corpse
+[09/17/2024 19:47]  a cave bear: (bonded)
+[09/17/2024 19:47]  a cave bear: a cave bear
+[09/17/2024 19:47]  a deep crawler: (bonded)
+[09/17/2024 19:47]  a deep crawler: a deep crawler
+[09/17/2024 19:47]  a dragon whelp: (bonded)
+[09/17/2024 19:47]  a dragon whelp: a dragon whelp
+[09/17/2024 19:47]  an effigy: an effigy
+[09/17/2024 19:47]  Gjak'ko: [Snotling, Urk]
+[09/17/2024 19:47]  Gjak'ko: Gjak'ko
+[09/17/2024 19:47]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:47]  You see: a gremlin corpse
+[09/17/2024 19:47]  You see: a gremlin corpse
+[09/17/2024 19:47]  an aegis rat: an aegis rat
+[09/17/2024 19:47]  Ailiin: Target: a goblin
+[09/17/2024 19:47]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  Ailiin: -11
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  You see: a goblin corpse
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  You see: a goblin corpse
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:47]  You see: an aegis slime corpse
+[09/17/2024 19:47]  You see: an aegis slime corpse
+[09/17/2024 19:47]  System: That is too far away.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  a blood ape: a blood ape
+[09/17/2024 19:48]  You see: a blood ape corpse
+[09/17/2024 19:48]  a chaos footman: a chaos footman
+[09/17/2024 19:48]  a goblin: a goblin
+[09/17/2024 19:48]  an aegis slime: an aegis slime
+[09/17/2024 19:48]  a blood ape: a blood ape
+[09/17/2024 19:48]  an aegis rat: an aegis rat
+[09/17/2024 19:48]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:48]  a blood ape: a blood ape
+[09/17/2024 19:48]  Seu Boneco: [New Player, NP$]
+[09/17/2024 19:48]  Seu Boneco: Seu Boneco
+[09/17/2024 19:48]  a blood ape: a blood ape
+[09/17/2024 19:48]  You see: a wolfhound corpse
+[09/17/2024 19:48]  a chaos footman: a chaos footman
+[09/17/2024 19:48]  a wolfhound: a wolfhound
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are now under the effect of a Song of Peacemaking (6.4% healing amounts for 15 minutes).
+[09/17/2024 19:48]  Razor: [-Song of Peacemaking (s)]
+[09/17/2024 19:48]  Razor: [+Song of Peacemaking (900s)]
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  You see: an aegis imp corpse
+[09/17/2024 19:48]  You see: a wolfhound corpse
+[09/17/2024 19:48]  You see: an aegis imp corpse
+[09/17/2024 19:48]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:48]  Druida: Aegis Keep Guardian
+[09/17/2024 19:48]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:48]  Druida: Druida
+[09/17/2024 19:48]  Razor: * Target *
+[09/17/2024 19:48]  a chaos footman: *looks calmed*
+[09/17/2024 19:48]  a wolfhound: *looks calmed*
+[09/17/2024 19:48]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[09/17/2024 19:48]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  You see: an aegis slime corpse
+[09/17/2024 19:48]  You see: an aegis imp corpse
+[09/17/2024 19:48]  You see: an aegis imp corpse
+[09/17/2024 19:48]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:48]  a blood ape: a blood ape
+[09/17/2024 19:48]  a blood ape: a blood ape
+[09/17/2024 19:48]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:48]  a blood ape: a blood ape
+[09/17/2024 19:48]  System: You are now under the effect of a Song of Provocation (+6.4% damage against creatures for 15 minutes).
+[09/17/2024 19:48]  Razor: [+Song of Provocation (900s)]
+[09/17/2024 19:48]  You see: a blood ape corpse
+[09/17/2024 19:48]  an aegis minion: an aegis minion
+[09/17/2024 19:48]  a chaos footman: a chaos footman
+[09/17/2024 19:48]  a wolfhound: a wolfhound
+[09/17/2024 19:48]  You see: a wolfhound corpse
+[09/17/2024 19:48]  You see: an aegis imp corpse
+[09/17/2024 19:48]  You see: a blood troll corpse
+[09/17/2024 19:48]  You see: a blood harpy corpse
+[09/17/2024 19:48]  You see: a blood troll corpse
+[09/17/2024 19:48]  You see: a blood hellion corpse
+[09/17/2024 19:48]  You see: a blood troll corpse
+[09/17/2024 19:48]  You see: a blood troll corpse
+[09/17/2024 19:48]  You see: a blood harpy corpse
+[09/17/2024 19:48]  a blood hellion: a blood hellion
+[09/17/2024 19:48]  a blood orc: a blood orc
+[09/17/2024 19:48]  a blood hellion: a blood hellion
+[09/17/2024 19:48]  Druida: Aegis Keep Guardian
+[09/17/2024 19:48]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:48]  Druida: Druida
+[09/17/2024 19:48]  a blood hellion: *blood frenzy*
+[09/17/2024 19:48]  Windstone: Windstone
+[09/17/2024 19:48]  You see: a blood hellion corpse
+[09/17/2024 19:48]  CrabOne: (bonded)
+[09/17/2024 19:48]  CrabOne: CrabOne
+[09/17/2024 19:48]  CrabTank: (bonded)
+[09/17/2024 19:48]  CrabTank: CrabTank
+[09/17/2024 19:48]  CrabThree: (bonded)
+[09/17/2024 19:48]  CrabThree: CrabThree
+[09/17/2024 19:48]  CrabFour: (bonded)
+[09/17/2024 19:48]  CrabFour: CrabFour
+[09/17/2024 19:48]  CrabTwo: (bonded)
+[09/17/2024 19:48]  CrabTwo: CrabTwo
+[09/17/2024 19:48]  a blood hellion: *pacified 6s discord 59s*
+[09/17/2024 19:48]  a blood hellion: a blood hellion
+[09/17/2024 19:48]  You see: a blood orc corpse
+[09/17/2024 19:48]  You see: an aegis whelp corpse
+[09/17/2024 19:48]  You see: a blood orc corpse
+[09/17/2024 19:48]  You see: a blood hellion corpse
+[09/17/2024 19:48]  You see: the remains of ankadium
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  You see: a blood harpy corpse
+[09/17/2024 19:48]  You see: a blood troll corpse
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  Wnxi: [Senior Officer, TES]
+[09/17/2024 19:48]  Wnxi: Wnxi
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  a blood harpy: a blood harpy
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  You see: an aegis whelp corpse
+[09/17/2024 19:48]  You see: a blood ogremage corpse
+[09/17/2024 19:48]  FireBitch: (bonded)
+[09/17/2024 19:48]  FireBitch: FireBitch
+[09/17/2024 19:48]  asdwe: (bonded)
+[09/17/2024 19:48]  asdwe: asdwe
+[09/17/2024 19:48]  Entertaim: (bonded)
+[09/17/2024 19:48]  Entertaim: Entertaim
+[09/17/2024 19:48]  You see: a clay man corpse
+[09/17/2024 19:48]  You see: a clay man corpse
+[09/17/2024 19:48]  You see: a blood troll corpse
+[09/17/2024 19:48]  an aegis lich: an aegis lich
+[09/17/2024 19:48]  abcew: (bonded)
+[09/17/2024 19:48]  abcew: abcew
+[09/17/2024 19:48]  You see: a blood ogremage corpse
+[09/17/2024 19:48]  Entertaming: Seasoned Zoologist
+[09/17/2024 19:48]  Entertaming: [Citizen, Yew]
+[09/17/2024 19:48]  Entertaming: Entertaming
+[09/17/2024 19:48]  a blood ogre mage: a blood ogre mage
+[09/17/2024 19:48]  You see: an aegis whelp corpse
+[09/17/2024 19:48]  an aegis whelp: an aegis whelp
+[09/17/2024 19:48]  You see: a blood drake corpse
+[09/17/2024 19:48]  You see: a blood drake corpse
+[09/17/2024 19:48]  a blood drake: a blood drake
+[09/17/2024 19:48]  a blood drake: a blood drake
+[09/17/2024 19:48]  a blood troll: a blood troll
+[09/17/2024 19:48]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:48]  Razor: * Target *
+[09/17/2024 19:48]  System: Whom do you wish them to attack?
+[09/17/2024 19:48]  Razor: * Target *
+[09/17/2024 19:48]  System: You play successfully, provoking your targets. (39s)
+[09/17/2024 19:48]  System: Archery skillgain: 2.164%
+[09/17/2024 19:48]  System: Focus skillgain: 2.164%
+[09/17/2024 19:48]  a blood drake: -62
+[09/17/2024 19:48]  a blood drake: *looks furious*
+[09/17/2024 19:48]  an aegis whelp: *looks furious*
+[09/17/2024 19:48]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:48]  You see: a blood hellion corpse
+[09/17/2024 19:48]  System: Archery skillgain: 2.153%
+[09/17/2024 19:48]  System: Focus skillgain: 2.153%
+[09/17/2024 19:48]  an aegis whelp: -76
+[09/17/2024 19:49]  You see: a blood troll corpse
+[09/17/2024 19:49]  System: Holy symbols remaining: 6/10
+[09/17/2024 19:49]  System: Holy symbols remaining: 4/10
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  System: Your shot hinders your target!
+[09/17/2024 19:49]  an aegis whelp: -177
+[09/17/2024 19:49]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:49]  System: Sharp Blade has completed the achievement: Triggered (Advanced).
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  an aegis whelp: -91
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  an aegis whelp: -76
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[09/17/2024 19:49]  an aegis whelp: -160
+[09/17/2024 19:49]  an aegis whelp: -42
+[09/17/2024 19:49]  a blood troll: *blood healing*
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  an aegis whelp: -96
+[09/17/2024 19:49]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  an aegis whelp: -93
+[09/17/2024 19:49]  a blood drake: -27
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  an aegis whelp: -82
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  an aegis whelp: -142
+[09/17/2024 19:49]  Razor: * Target *
+[09/17/2024 19:49]  System: You play successfully, pacifying your target. (46s)
+[09/17/2024 19:49]  a blood drake: *looks calmed*
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  an aegis whelp: -97
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  System: Your shot hinders your target!
+[09/17/2024 19:49]  System: You have gained a little fame.
+[09/17/2024 19:49]  System: You have gained a little karma.
+[09/17/2024 19:49]  Ailiin: (Lyric Aspect 1,605.5/2000 xp)
+[09/17/2024 19:49]  System: -108
+[09/17/2024 19:49]  You see: an aegis whelp corpse
+[09/17/2024 19:49]  [Razor]: New target set.
+[09/17/2024 19:49]  [Razor]: Ignore List cleared
+[09/17/2024 19:49]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:49]  [Razor]: New target set.
+[09/17/2024 19:49]  [Razor]: Ignore List cleared
+[09/17/2024 19:49]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:49]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:49]  Razor: *pacified 40s discord 1m 32s* a blood drake
+[09/17/2024 19:49]  [Razor]: New target set.
+[09/17/2024 19:49]  Razor: * Target *
+[09/17/2024 19:49]  [Razor]: Ignore List cleared
+[09/17/2024 19:49]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:49]  Ailiin: Target: a blood drake
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -162
+[09/17/2024 19:49]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:49]  a blood troll: *blood healing*
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -159
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -126
+[09/17/2024 19:49]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:49]  an aegis lich: an aegis lich
+[09/17/2024 19:49]  an aegis noble: an aegis noble
+[09/17/2024 19:49]  System: Electric.Wizard has completed the achievement: Mini-Boss Slayer (Advanced).
+[09/17/2024 19:49]  System: Whom do you wish them to attack?
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -101
+[09/17/2024 19:49]  Razor: * Target *
+[09/17/2024 19:49]  System: You play successfully, provoking your targets. (46s)
+[09/17/2024 19:49]  a blood drake: *looks furious*
+[09/17/2024 19:49]  a blood drake: *looks furious*
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -67
+[09/17/2024 19:49]  a blood drake: *provoked 42s discord 1m 19s*
+[09/17/2024 19:49]  a blood drake: a blood drake
+[09/17/2024 19:49]  a blood harpy: a blood harpy
+[09/17/2024 19:49]  Druida: Aegis Keep Guardian
+[09/17/2024 19:49]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:49]  Druida: Druida
+[09/17/2024 19:49]  a blood drake: *provoked 42s*
+[09/17/2024 19:49]  a blood drake: a blood drake
+[09/17/2024 19:49]  an aegis noble: an aegis noble
+[09/17/2024 19:49]  a blood troll: a blood troll
+[09/17/2024 19:49]  an aegis lich: an aegis lich
+[09/17/2024 19:49]  You see: a blood drake corpse
+[09/17/2024 19:49]  You see: a blood drake corpse
+[09/17/2024 19:49]  You see: an aegis whelp corpse
+[09/17/2024 19:49]  You see: a blood harpy corpse
+[09/17/2024 19:49]  You see: an aegis whelp corpse
+[09/17/2024 19:49]  You see: a blood harpy corpse
+[09/17/2024 19:49]  You see: a blood troll corpse
+[09/17/2024 19:49]  You see: a blood troll corpse
+[09/17/2024 19:49]  You see: a blood hellion corpse
+[09/17/2024 19:49]  You see: a blood hellion corpse
+[09/17/2024 19:49]  You see: a blood troll corpse
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -139
+[09/17/2024 19:49]  a blood drake: -42
+[09/17/2024 19:49]  You see: a blood harpy corpse
+[09/17/2024 19:49]  a blood drake: -40
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  System: Holy symbols remaining: 4/10
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -144
+[09/17/2024 19:49]  System: You must wait a moment before attempting to use another Chivalry ability.
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:49]  You see: a blood troll corpse
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:49]  a blood drake: -38
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  System: Archery skillgain: 2.164%
+[09/17/2024 19:49]  System: Focus skillgain: 2.164%
+[09/17/2024 19:49]  a blood drake: -119
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -143
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  an aegis cultist: an aegis cultist
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -97
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -111
+[09/17/2024 19:49]  a blood drake: -33
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  a blood troll: a blood troll
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -148
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -153
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  System: You do not have enough holy symbols for that ability.
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  a blood drake: -45
+[09/17/2024 19:49]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -134
+[09/17/2024 19:49]  a blood drake: -12
+[09/17/2024 19:49]  System: You do not have enough holy symbols for that ability.
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  You see: a blood troll corpse
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -128
+[09/17/2024 19:49]  a blood troll: *blood healing*
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -167
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  a blood drake: *provoked 21s discord 57s*
+[09/17/2024 19:49]  a blood drake: a blood drake
+[09/17/2024 19:49]  a blood harpy: a blood harpy
+[09/17/2024 19:49]  Druida: Aegis Keep Guardian
+[09/17/2024 19:49]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:49]  Druida: Druida
+[09/17/2024 19:49]  a blood drake: *provoked 21s*
+[09/17/2024 19:49]  a blood drake: a blood drake
+[09/17/2024 19:49]  a blood troll: a blood troll
+[09/17/2024 19:49]  an aegis lich: an aegis lich
+[09/17/2024 19:49]  You see: a blood drake corpse
+[09/17/2024 19:49]  You see: a blood drake corpse
+[09/17/2024 19:49]  You see: an aegis whelp corpse
+[09/17/2024 19:49]  You see: a blood harpy corpse
+[09/17/2024 19:49]  You see: an aegis whelp corpse
+[09/17/2024 19:49]  You see: a blood troll corpse
+[09/17/2024 19:49]  You see: a blood troll corpse
+[09/17/2024 19:49]  You see: a blood hellion corpse
+[09/17/2024 19:49]  You see: a blood troll corpse
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -141
+[09/17/2024 19:49]  a blood drake: -45
+[09/17/2024 19:49]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  a blood drake: -39
+[09/17/2024 19:49]  a blood drake: -15
+[09/17/2024 19:49]  System: Archery skillgain: 2.153%
+[09/17/2024 19:49]  System: Focus skillgain: 2.153%
+[09/17/2024 19:49]  a blood drake: -119
+[09/17/2024 19:49]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:49]  System: You play successfully, pacifying your target. (46s)
+[09/17/2024 19:49]  a blood drake: *looks calmed*
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  System: Your shot hinders your target!
+[09/17/2024 19:50]  a blood drake: -168
+[09/17/2024 19:50]  a blood drake: -10
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  System: You have gained a good amount of fame.
+[09/17/2024 19:50]  System: You have gained a good amount of karma.
+[09/17/2024 19:50]  System: You have unlocked a codex upgrade point for Archery (3 available).
+[09/17/2024 19:50]  Ailiin: (Lyric Aspect 1,610.8/2000 xp)
+[09/17/2024 19:50]  System: -39
+[09/17/2024 19:50]  You see: a blood drake corpse
+[09/17/2024 19:50]  You see: a blood drake corpse
+[09/17/2024 19:50]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:50]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:50]  [Razor]: New target set.
+[09/17/2024 19:50]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:50]  [Razor]: Ignore List cleared
+[09/17/2024 19:50]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:50]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:50]  an aegis noble: an aegis noble
+[09/17/2024 19:50]  Razor: *pacified 41s discord 1m 32s* a blood drake
+[09/17/2024 19:50]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:50]  [Razor]: New target set.
+[09/17/2024 19:50]  Razor: * Target *
+[09/17/2024 19:50]  [Razor]: Ignore List cleared
+[09/17/2024 19:50]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:50]  Ailiin: Target: a blood drake
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -144
+[09/17/2024 19:50]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:50]  You see: a blood harpy corpse
+[09/17/2024 19:50]  You see: a blood troll corpse
+[09/17/2024 19:50]  You see: a blood troll corpse
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  System: Your shot hinders your target!
+[09/17/2024 19:50]  a blood drake: -258
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -137
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -88
+[09/17/2024 19:50]  You see: an aegis whelp corpse
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -119
+[09/17/2024 19:50]  System: Holy symbols remaining: 3/10
+[09/17/2024 19:50]  System: Holy symbols remaining: 0/10
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -100
+[09/17/2024 19:50]  You see: a blood drake corpse
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -150
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -83
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -122
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -117
+[09/17/2024 19:50]  System: Archery skillgain: 2.153%
+[09/17/2024 19:50]  System: Focus skillgain: 2.153%
+[09/17/2024 19:50]  a blood drake: -117
+[09/17/2024 19:50]  System: You have gained a good amount of fame.
+[09/17/2024 19:50]  System: You have gained a good amount of karma.
+[09/17/2024 19:50]  Ailiin: (Lyric Aspect 1,616.1/2000 xp)
+[09/17/2024 19:50]  System: -1219
+[09/17/2024 19:50]  You see: a blood drake corpse
+[09/17/2024 19:50]  You see: an aegis cultist corpse
+[09/17/2024 19:50]  an aegis cultist: an aegis cultist
+[09/17/2024 19:50]  an aegis lich: an aegis lich
+[09/17/2024 19:50]  You see: a blood drake corpse
+[09/17/2024 19:50]  [Razor]: Target an item to add.
+[09/17/2024 19:50]  [Razor]: Item added.
+[09/17/2024 19:50]  You see: a blood drake corpse
+[09/17/2024 19:51]  an aegis cultist: an aegis cultist
+[09/17/2024 19:51]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/17/2024 19:51]  You see: a blood troll corpse
+[09/17/2024 19:51]  You see: a blood harpy corpse
+[09/17/2024 19:51]  a blood hellion: a blood hellion
+[09/17/2024 19:51]  Druida: Aegis Keep Guardian
+[09/17/2024 19:51]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:51]  Druida: Druida
+[09/17/2024 19:51]  System: That is too far away.
+[09/17/2024 19:51]  an aegis lich: an aegis lich
+[09/17/2024 19:51]  an aegis whelp: an aegis whelp
+[09/17/2024 19:51]  a blood troll: a blood troll
+[09/17/2024 19:51]  System: That is too far away.
+[09/17/2024 19:51]  System: That is too far away.
+[09/17/2024 19:51]  [Razor]: Finished 12 queued actions in 6.6 seconds.
+[09/17/2024 19:51]  You see: a blood troll corpse
+[09/17/2024 19:51]  Ailiin: Target: an aegis whelp
+[09/17/2024 19:51]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:51]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:51]  Razor: * Target *
+[09/17/2024 19:51]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:51]  an aegis whelp: *looks calmed*
+[09/17/2024 19:51]  System: TigOlBitties has completed the achievement: Guardian of Kraul Hive (Basic).
+[09/17/2024 19:51]  an aegis lich: an aegis lich
+[09/17/2024 19:51]  You see: a blood hellion corpse
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -66
+[09/17/2024 19:51]  System: Holy symbols remaining: 6/10
+[09/17/2024 19:51]  [Razor]: New target set.
+[09/17/2024 19:51]  System: Holy symbols remaining: 4/10
+[09/17/2024 19:51]  [Razor]: Ignore List cleared
+[09/17/2024 19:51]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:51]  You see: a blood troll corpse
+[09/17/2024 19:51]  an aegis lich: an aegis lich
+[09/17/2024 19:51]  an aegis noble: an aegis noble
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -114
+[09/17/2024 19:51]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  System: Your shot hinders your target!
+[09/17/2024 19:51]  an aegis whelp: -175
+[09/17/2024 19:51]  a blood troll: *blood healing*
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -100
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -37
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -93
+[09/17/2024 19:51]  an aegis lich: an aegis lich
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -74
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -75
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -68
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -99
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -67
+[09/17/2024 19:51]  a blood troll: *blood healing*
+[09/17/2024 19:51]  You see: a blood harpy corpse
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -85
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -85
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  an aegis whelp: -81
+[09/17/2024 19:51]  System: Archery skillgain: 2.153%
+[09/17/2024 19:51]  System: Focus skillgain: 2.153%
+[09/17/2024 19:51]  System: You have gained a little fame.
+[09/17/2024 19:51]  System: You have gained a little karma.
+[09/17/2024 19:51]  Ailiin: (Lyric Aspect 1,617.9/2000 xp)
+[09/17/2024 19:51]  System: -31
+[09/17/2024 19:51]  You see: an aegis whelp corpse
+[09/17/2024 19:51]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:51]  You see: a blood troll corpse
+[09/17/2024 19:51]  an aegis cultist: an aegis cultist
+[09/17/2024 19:51]  an aegis noble: an aegis noble
+[09/17/2024 19:51]  Tankz: (bonded)
+[09/17/2024 19:51]  Tankz: Tankz
+[09/17/2024 19:51]  Entertaming: Seasoned Zoologist
+[09/17/2024 19:51]  Entertaming: [Citizen, Yew]
+[09/17/2024 19:51]  Entertaming: Entertaming
+[09/17/2024 19:51]  You see: a blood troll corpse
+[09/17/2024 19:52]  You see: an aegis noble corpse
+[09/17/2024 19:52]  Tankz: (bonded)
+[09/17/2024 19:52]  Tankz: Tankz
+[09/17/2024 19:52]  Entertaming: Seasoned Zoologist
+[09/17/2024 19:52]  Entertaming: [Citizen, Yew]
+[09/17/2024 19:52]  Entertaming: Entertaming
+[09/17/2024 19:52]  Tankz: *warded*
+[09/17/2024 19:52]  You see: an aegis lich corpse
+[09/17/2024 19:52]  FireBitch: (bonded)
+[09/17/2024 19:52]  FireBitch: FireBitch
+[09/17/2024 19:52]  Entertaim: (bonded)
+[09/17/2024 19:52]  Entertaim: Entertaim
+[09/17/2024 19:52]  abcew: (bonded)
+[09/17/2024 19:52]  abcew: abcew
+[09/17/2024 19:52]  asdwe: (bonded)
+[09/17/2024 19:52]  asdwe: asdwe
+[09/17/2024 19:52]  You see: a blood troll corpse
+[09/17/2024 19:52]  a blood drake: a blood drake
+[09/17/2024 19:52]  Ailiin: Target: a blood drake
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -67
+[09/17/2024 19:52]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:52]  Razor: * Target *
+[09/17/2024 19:52]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:52]  a blood drake: *looks calmed*
+[09/17/2024 19:52]  [Razor]: New target set.
+[09/17/2024 19:52]  [Razor]: Ignore List cleared
+[09/17/2024 19:52]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -76
+[09/17/2024 19:52]  an aegis cultist: an aegis cultist
+[09/17/2024 19:52]  System: Holy symbols remaining: 6/10
+[09/17/2024 19:52]  System: Holy symbols remaining: 4/10
+[09/17/2024 19:52]  System: You must wait a moment before attempting to use another Chivalry ability.
+[09/17/2024 19:52]  a blood hellion: a blood hellion
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -105
+[09/17/2024 19:52]  [Razor]: New target set.
+[09/17/2024 19:52]  [Razor]: Ignore List cleared
+[09/17/2024 19:52]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:52]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:52]  Razor: *pacified 33s discord 1m 32s* a blood drake
+[09/17/2024 19:52]  [Razor]: New target set.
+[09/17/2024 19:52]  Razor: * Target *
+[09/17/2024 19:52]  [Razor]: Ignore List cleared
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -161
+[09/17/2024 19:52]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  System: Your shot hinders your target!
+[09/17/2024 19:52]  a blood drake: -144
+[09/17/2024 19:52]  a blood troll: a blood troll
+[09/17/2024 19:52]  a blood harpy: a blood harpy
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -99
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -103
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -88
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -73
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -99
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -90
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -131
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -102
+[09/17/2024 19:52]  System: Archery skillgain: 2.153%
+[09/17/2024 19:52]  System: Focus skillgain: 2.153%
+[09/17/2024 19:52]  a blood drake: -117
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -85
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -87
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -54
+[09/17/2024 19:53]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:53]  a blood drake: a blood drake
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -97
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -60
+[09/17/2024 19:53]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:53]  Razor: * Target *
+[09/17/2024 19:53]  System: Whom do you wish them to attack?
+[09/17/2024 19:53]  Razor: * Target *
+[09/17/2024 19:53]  System: You play successfully, provoking your targets. (46s)
+[09/17/2024 19:53]  a blood drake: *looks furious*
+[09/17/2024 19:53]  a blood drake: *looks furious*
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[09/17/2024 19:53]  a blood drake: -218
+[09/17/2024 19:53]  [Razor]: New target set.
+[09/17/2024 19:53]  [Razor]: Ignore List cleared
+[09/17/2024 19:53]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:53]  System: Archery skillgain: 2.164%
+[09/17/2024 19:53]  System: Focus skillgain: 2.164%
+[09/17/2024 19:53]  a blood drake: -146
+[09/17/2024 19:53]  a blood drake: -15
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -130
+[09/17/2024 19:53]  a blood drake: -39
+[09/17/2024 19:53]  a blood drake: -34
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -97
+[09/17/2024 19:53]  a blood drake: -15
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -111
+[09/17/2024 19:53]  a blood drake: -40
+[09/17/2024 19:53]  a blood drake: -15
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -104
+[09/17/2024 19:53]  a blood drake: -39
+[09/17/2024 19:53]  a blood drake: -15
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -117
+[09/17/2024 19:53]  a blood drake: -15
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -95
+[09/17/2024 19:53]  a blood drake: -39
+[09/17/2024 19:53]  a blood drake: -38
+[09/17/2024 19:53]  a blood drake: -15
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  System: You have gained a good amount of fame.
+[09/17/2024 19:53]  System: You have gained a good amount of karma.
+[09/17/2024 19:53]  Ailiin: (Lyric Aspect 1,623.2/2000 xp)
+[09/17/2024 19:53]  System: -51
+[09/17/2024 19:53]  You see: a blood drake corpse
+[09/17/2024 19:53]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:53]  Razor: * Target *
+[09/17/2024 19:53]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:53]  a blood drake: *looks calmed*
+[09/17/2024 19:53]  Ailiin: Target: a blood drake
+[09/17/2024 19:53]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -71
+[09/17/2024 19:53]  [Razor]: New target set.
+[09/17/2024 19:53]  [Razor]: Ignore List cleared
+[09/17/2024 19:53]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:53]  System: Holy symbols remaining: 6/10
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -85
+[09/17/2024 19:53]  System: You must wait a moment before attempting to use another Chivalry ability.
+[09/17/2024 19:53]  [Razor]: New target set.
+[09/17/2024 19:53]  [Razor]: Ignore List cleared
+[09/17/2024 19:53]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:53]  [Razor]: New target set.
+[09/17/2024 19:53]  [Razor]: Ignore List cleared
+[09/17/2024 19:53]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:53]  [Razor]: New target set.
+[09/17/2024 19:53]  [Razor]: Ignore List cleared
+[09/17/2024 19:53]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:53]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:53]  Razor: *pacified 33s discord 1m 32s* a blood drake
+[09/17/2024 19:53]  [Razor]: New target set.
+[09/17/2024 19:53]  Razor: * Target *
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -124
+[09/17/2024 19:53]  [Razor]: Ignore List cleared
+[09/17/2024 19:53]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:53]  [Razor]: New target set.
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -115
+[09/17/2024 19:53]  [Razor]: Ignore List cleared
+[09/17/2024 19:53]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:53]  System: You must wait another 25 seconds before you may use that ability again.
+[09/17/2024 19:53]  System: Holy symbols remaining: 5/10
+[09/17/2024 19:53]  System: You must wait a moment before attempting to use another Chivalry ability.
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -135
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -117
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -119
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -126
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -100
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -102
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -121
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -92
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -119
+[09/17/2024 19:53]  System: Archery skillgain: 2.153%
+[09/17/2024 19:53]  System: Focus skillgain: 2.153%
+[09/17/2024 19:53]  a blood drake: -116
+[09/17/2024 19:54]  : carpet
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -102
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -95
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -68
+[09/17/2024 19:54]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:54]  : carpet
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -80
+[09/17/2024 19:54]  Ailiin: Target: a blood drake
+[09/17/2024 19:54]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:54]  System: You play successfully, pacifying your target. (46s)
+[09/17/2024 19:54]  a blood drake: *looks calmed*
+[09/17/2024 19:54]  System: Holy symbols remaining: 6/10
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -99
+[09/17/2024 19:54]  System: You must wait another 2 seconds before you may use that ability again.
+[09/17/2024 19:54]  System: Holy symbols remaining: 3/10
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -132
+[09/17/2024 19:54]  [Razor]: New target set.
+[09/17/2024 19:54]  [Razor]: Ignore List cleared
+[09/17/2024 19:54]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -81
+[09/17/2024 19:54]  an aegis whelp: an aegis whelp
+[09/17/2024 19:54]  a blood troll: a blood troll
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -144
+[09/17/2024 19:54]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -112
+[09/17/2024 19:54]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:54]  Razor: * Target *
+[09/17/2024 19:54]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:54]  an aegis whelp: *looks calmed*
+[09/17/2024 19:54]  a blood drake: *barding break*
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  System: Your shot hinders your target!
+[09/17/2024 19:54]  a blood drake: -119
+[09/17/2024 19:54]  You see: an aegis whelp corpse
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood drake: -98
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  System: You have gained a good amount of fame.
+[09/17/2024 19:54]  System: You have gained a good amount of karma.
+[09/17/2024 19:54]  Ailiin: (Lyric Aspect 1,628.5/2000 xp)
+[09/17/2024 19:54]  System: -52
+[09/17/2024 19:54]  You see: a blood drake corpse
+[09/17/2024 19:54]  You see: an aegis lich corpse
+[09/17/2024 19:54]  System: You must wait another moment before you may pick up an item from here.
+[09/17/2024 19:54]  System: You must wait another moment before you may pick up an item from here.
+[09/17/2024 19:54]  System: You must wait another moment before you may pick up an item from here.
+[09/17/2024 19:54]  [Razor]: Finished 7 queued actions in 3.6 seconds.
+[09/17/2024 19:54]  Ailiin: Target: an aegis whelp
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  an aegis whelp: -123
+[09/17/2024 19:54]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:54]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:54]  an aegis whelp: *looks calmed*
+[09/17/2024 19:54]  Ailiin: Your barding skill cooldowns reset.
+[09/17/2024 19:54]  a blood troll: a blood troll
+[09/17/2024 19:54]  System: Archery skillgain: 2.164%
+[09/17/2024 19:54]  System: Focus skillgain: 2.164%
+[09/17/2024 19:54]  an aegis whelp: -145
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  an aegis whelp: -117
+[09/17/2024 19:54]  System: You have gained a little fame.
+[09/17/2024 19:54]  System: You have gained a little karma.
+[09/17/2024 19:54]  Ailiin: (Lyric Aspect 1,630.3/2000 xp)
+[09/17/2024 19:54]  System: -865
+[09/17/2024 19:54]  You see: an aegis whelp corpse
+[09/17/2024 19:54]  a blood hellion: a blood hellion
+[09/17/2024 19:54]  a blood harpy: a blood harpy
+[09/17/2024 19:54]  a blood hellion: a blood hellion
+[09/17/2024 19:54]  You see: a blood harpy corpse
+[09/17/2024 19:54]  an aegis lich: an aegis lich
+[09/17/2024 19:54]  a blood troll: a blood troll
+[09/17/2024 19:54]  a blood ogre mage: a blood ogre mage
+[09/17/2024 19:54]  a blood harpy: a blood harpy
+[09/17/2024 19:54]  Ailiin: Target: a blood hellion
+[09/17/2024 19:54]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:54]  Razor: * Target *
+[09/17/2024 19:54]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:54]  a blood hellion: *looks calmed*
+[09/17/2024 19:54]  Ailiin: Your barding skill cooldowns reset.
+[09/17/2024 19:54]  System: Archery skillgain: 2.164%
+[09/17/2024 19:54]  System: Focus skillgain: 2.164%
+[09/17/2024 19:54]  a blood hellion: -119
+[09/17/2024 19:54]  [Razor]: New target set.
+[09/17/2024 19:54]  [Razor]: Ignore List cleared
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood hellion: -122
+[09/17/2024 19:54]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:54]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:54]  Razor: *pacified 35s discord 1m 32s* a blood hellion
+[09/17/2024 19:54]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood hellion: -153
+[09/17/2024 19:54]  an aegis lich: an aegis lich
+[09/17/2024 19:54]  an aegis noble: an aegis noble
+[09/17/2024 19:54]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:54]  You see: the remains of Wnxi
+[09/17/2024 19:54]  Razor: * Target *
+[09/17/2024 19:54]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:54]  System: Archery skillgain: 2.164%
+[09/17/2024 19:54]  System: Focus skillgain: 2.164%
+[09/17/2024 19:54]  a blood hellion: -103
+[09/17/2024 19:54]  System: Whom do you wish them to attack?
+[09/17/2024 19:54]  Razor: * Target *
+[09/17/2024 19:54]  System: You play successfully, provoking your targets. (39s)
+[09/17/2024 19:54]  a blood troll: *looks furious*
+[09/17/2024 19:54]  a blood harpy: *looks furious*
+[09/17/2024 19:54]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:54]  a blood troll: -9
+[09/17/2024 19:54]  a blood troll: -9
+[09/17/2024 19:54]  a blood troll: -10
+[09/17/2024 19:54]  a blood troll: -9
+[09/17/2024 19:54]  a blood troll: -10
+[09/17/2024 19:54]  a blood troll: -21
+[09/17/2024 19:54]  a blood harpy: -40
+[09/17/2024 19:54]  a blood troll: -8
+[09/17/2024 19:54]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:54]  a blood troll: -33
+[09/17/2024 19:54]  Ailiin: Target: a blood hellion
+[09/17/2024 19:54]  System: Archery skillgain: 2.153%
+[09/17/2024 19:54]  System: Focus skillgain: 2.153%
+[09/17/2024 19:54]  a blood hellion: -124
+[09/17/2024 19:54]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:54]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:55]  a blood troll: -8
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood hellion: -85
+[09/17/2024 19:55]  System: That is too far away.
+[09/17/2024 19:55]  a blood troll: -27
+[09/17/2024 19:55]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:55]  Razor: * Target *
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood hellion: -105
+[09/17/2024 19:55]  System: Whom do you wish them to attack?
+[09/17/2024 19:55]  Razor: * Target *
+[09/17/2024 19:55]  a blood troll: -8
+[09/17/2024 19:55]  System: You play successfully, provoking your targets. (46s)
+[09/17/2024 19:55]  a blood hellion: *looks furious*
+[09/17/2024 19:55]  a blood troll: *looks furious*
+[09/17/2024 19:55]  a blood harpy: -42
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  a blood troll: -26
+[09/17/2024 19:55]  a blood hellion: *blood frenzy*
+[09/17/2024 19:55]  System: Archery skillgain: 2.164%
+[09/17/2024 19:55]  System: Focus skillgain: 2.164%
+[09/17/2024 19:55]  a blood troll: -100
+[09/17/2024 19:55]  a blood troll: -8
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -101
+[09/17/2024 19:55]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  System: Holy symbols remaining: 6/10
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  a blood troll: -8
+[09/17/2024 19:55]  a blood hellion: -52
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  System: Holy symbols remaining: 4/10
+[09/17/2024 19:55]  a blood troll: -27
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:55]  a blood harpy: -50
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  a blood troll: *blood healing*
+[09/17/2024 19:55]  a blood troll: *blood healing*
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  a blood troll: -33
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -129
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood hellion: -148
+[09/17/2024 19:55]  a blood troll: -30
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  a blood harpy: -48
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood hellion: -160
+[09/17/2024 19:55]  a blood hellion: -48
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood hellion: -126
+[09/17/2024 19:55]  a blood harpy: -42
+[09/17/2024 19:55]  You see: a clay man corpse
+[09/17/2024 19:55]  an aegis lich: an aegis lich
+[09/17/2024 19:55]  an aegis noble: an aegis noble
+[09/17/2024 19:55]  You see: the remains of Wnxi
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  You see: an aegis lich corpse
+[09/17/2024 19:55]  a clay man: a clay man
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  You see: an aegis noble corpse
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -126
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  a blood hellion: -12
+[09/17/2024 19:55]  a blood hellion: -54
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  a blood troll: -33
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -96
+[09/17/2024 19:55]  a blood harpy: -619
+[09/17/2024 19:55]  a blood troll: -619
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  a blood hellion: -12
+[09/17/2024 19:55]  System: MrFinch has completed the achievement: Wilderness Hunter (Intermediate).
+[09/17/2024 19:55]  a blood hellion: -45
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -124
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  You see: an aegis noble corpse
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -96
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  a blood troll: -36
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  a blood hellion: -12
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  a blood troll: *blood healing*
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  a blood hellion: -12
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  a blood troll: -9
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -114
+[09/17/2024 19:55]  a blood harpy: -39
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  a blood troll: -10
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  a blood hellion: -9
+[09/17/2024 19:55]  System: You have gained some fame.
+[09/17/2024 19:55]  System: You have gained some karma.
+[09/17/2024 19:55]  Ailiin: (Lyric Aspect 1,632.6/2000 xp)
+[09/17/2024 19:55]  You see: a clay man corpse
+[09/17/2024 19:55]  You see: a blood hellion corpse
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -93
+[09/17/2024 19:55]  a blood troll: -1106
+[09/17/2024 19:55]  You see: the remains of Wnxi
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  You see: an aegis lich corpse
+[09/17/2024 19:55]  an aegis noble: an aegis noble
+[09/17/2024 19:55]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  Razor: * Target *
+[09/17/2024 19:55]  System: Whom do you wish them to attack?
+[09/17/2024 19:55]  Razor: * Target *
+[09/17/2024 19:55]  System: You play successfully, provoking your targets. (39s)
+[09/17/2024 19:55]  System: Archery skillgain: 2.164%
+[09/17/2024 19:55]  System: Focus skillgain: 2.164%
+[09/17/2024 19:55]  a blood troll: -80
+[09/17/2024 19:55]  a blood troll: *looks furious*
+[09/17/2024 19:55]  a blood harpy: *looks furious*
+[09/17/2024 19:55]  a blood troll: *blood healing*
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood harpy: -102
+[09/17/2024 19:55]  Ailiin: Target: a blood troll
+[09/17/2024 19:55]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:55]  You see: the remains of Wnxi
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  You see: an aegis lich corpse
+[09/17/2024 19:55]  a clay man: a clay man
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  an aegis noble: an aegis noble
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  a blood troll: -28
+[09/17/2024 19:55]  You see: an aegis noble corpse
+[09/17/2024 19:55]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  System: Your shot hinders your target!
+[09/17/2024 19:55]  a blood harpy: -186
+[09/17/2024 19:55]  System: Holy symbols remaining: 5/10
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood harpy: -112
+[09/17/2024 19:55]  a blood harpy: -12
+[09/17/2024 19:55]  a blood harpy: -44
+[09/17/2024 19:55]  a blood ogre mage: a blood ogre mage
+[09/17/2024 19:55]  a clay man: a clay man
+[09/17/2024 19:55]  You see: a clay man corpse
+[09/17/2024 19:55]  Entertaming: Seasoned Zoologist
+[09/17/2024 19:55]  Entertaming: [Citizen, Yew]
+[09/17/2024 19:55]  Entertaming: Entertaming
+[09/17/2024 19:55]  FireBitch: (bonded)
+[09/17/2024 19:55]  FireBitch: FireBitch
+[09/17/2024 19:55]  abcew: (bonded)
+[09/17/2024 19:55]  abcew: abcew
+[09/17/2024 19:55]  asdwe: (bonded)
+[09/17/2024 19:55]  asdwe: asdwe
+[09/17/2024 19:55]  Tankz: (bonded)
+[09/17/2024 19:55]  Tankz: Tankz
+[09/17/2024 19:55]  Entertaim: (bonded)
+[09/17/2024 19:55]  Entertaim: Entertaim
+[09/17/2024 19:55]  You see: a blood harpy corpse
+[09/17/2024 19:55]  an entombed: an entombed
+[09/17/2024 19:55]  You see: a blood ogremage corpse
+[09/17/2024 19:55]  an entombed: an entombed
+[09/17/2024 19:55]  a blood hellion: a blood hellion
+[09/17/2024 19:55]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  System: You have gained some fame.
+[09/17/2024 19:55]  System: You have gained some karma.
+[09/17/2024 19:55]  Ailiin: (Lyric Aspect 1,634.9/2000 xp)
+[09/17/2024 19:55]  System: -16
+[09/17/2024 19:55]  You see: a blood harpy corpse
+[09/17/2024 19:55]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:55]  You see: a clay man corpse
+[09/17/2024 19:55]  You see: a blood troll corpse
+[09/17/2024 19:55]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:55]  a blood troll: *blood healing*
+[09/17/2024 19:55]  Razor: * Target *
+[09/17/2024 19:55]  System: Whom do you wish them to attack?
+[09/17/2024 19:55]  Razor: * Target *
+[09/17/2024 19:55]  System: You play successfully, provoking your targets. (39s)
+[09/17/2024 19:55]  System: Archery skillgain: 2.164%
+[09/17/2024 19:55]  System: Focus skillgain: 2.164%
+[09/17/2024 19:55]  a blood troll: *looks furious*
+[09/17/2024 19:55]  a blood troll: *looks furious*
+[09/17/2024 19:55]  a blood hellion: *blood frenzy*
+[09/17/2024 19:55]  an entombed: an entombed
+[09/17/2024 19:55]  You see: an aegis whelp corpse
+[09/17/2024 19:55]  Ailiin: Target: a blood troll
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -76
+[09/17/2024 19:55]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  You see: a blood drake corpse
+[09/17/2024 19:55]  System: Holy symbols remaining: 3/10
+[09/17/2024 19:55]  a blood troll: *blood healing*
+[09/17/2024 19:55]  System: Holy symbols remaining: 2/10
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -82
+[09/17/2024 19:55]  System: You do not have enough holy symbols for that ability.
+[09/17/2024 19:55]  a blood drake: a blood drake
+[09/17/2024 19:55]  You see: an aegis noble corpse
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -73
+[09/17/2024 19:55]  an aegis noble: an aegis noble
+[09/17/2024 19:55]  a blood troll: -40
+[09/17/2024 19:55]  a blood troll: -40
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -80
+[09/17/2024 19:55]  [Razor]: New target set.
+[09/17/2024 19:55]  [Razor]: Ignore List cleared
+[09/17/2024 19:55]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:55]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:55]  Razor: *provoked 29s discord 1m 32s* a blood troll
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  System: Your shot hinders your target!
+[09/17/2024 19:55]  a blood troll: -145
+[09/17/2024 19:55]  System: Archery skillgain: 2.153%
+[09/17/2024 19:55]  System: Focus skillgain: 2.153%
+[09/17/2024 19:55]  a blood troll: -48
+[09/17/2024 19:55]  a blood troll: -44
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood troll: -49
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood troll: -90
+[09/17/2024 19:56]  a blood troll: *blood healing*
+[09/17/2024 19:56]  a blood troll: -48
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood troll: -100
+[09/17/2024 19:56]  a blood troll: -51
+[09/17/2024 19:56]  a blood troll: *blood healing*
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood troll: -70
+[09/17/2024 19:56]  a blood ogre mage: a blood ogre mage
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[09/17/2024 19:56]  a blood troll: -194
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood troll: -114
+[09/17/2024 19:56]  Entertaming: Seasoned Zoologist
+[09/17/2024 19:56]  Entertaming: [Citizen, Yew]
+[09/17/2024 19:56]  Entertaming: Entertaming
+[09/17/2024 19:56]  FireBitch: (bonded)
+[09/17/2024 19:56]  FireBitch: FireBitch
+[09/17/2024 19:56]  abcew: (bonded)
+[09/17/2024 19:56]  abcew: abcew
+[09/17/2024 19:56]  asdwe: (bonded)
+[09/17/2024 19:56]  asdwe: asdwe
+[09/17/2024 19:56]  Tankz: (bonded)
+[09/17/2024 19:56]  Tankz: Tankz
+[09/17/2024 19:56]  Entertaim: (bonded)
+[09/17/2024 19:56]  Entertaim: Entertaim
+[09/17/2024 19:56]  System: You must wait another 10 seconds before you may use that ability again.
+[09/17/2024 19:56]  System: You must wait another 10 seconds before you may use that ability again.
+[09/17/2024 19:56]  System: Holy symbols remaining: 3/10
+[09/17/2024 19:56]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  System: You have gained some fame.
+[09/17/2024 19:56]  System: You have gained some karma.
+[09/17/2024 19:56]  Ailiin: (Lyric Aspect 1,638.5/2000 xp)
+[09/17/2024 19:56]  System: -73
+[09/17/2024 19:56]  You see: a blood troll corpse
+[09/17/2024 19:56]  Razor: * Target *
+[09/17/2024 19:56]  System: You play successfully, pacifying your target. (46s)
+[09/17/2024 19:56]  a blood troll: *looks calmed*
+[09/17/2024 19:56]  Entertaming: Seasoned Zoologist
+[09/17/2024 19:56]  Entertaming: [Citizen, Yew]
+[09/17/2024 19:56]  Entertaming: Entertaming
+[09/17/2024 19:56]  FireBitch: (bonded)
+[09/17/2024 19:56]  FireBitch: FireBitch
+[09/17/2024 19:56]  abcew: (bonded)
+[09/17/2024 19:56]  abcew: abcew
+[09/17/2024 19:56]  asdwe: (bonded)
+[09/17/2024 19:56]  asdwe: asdwe
+[09/17/2024 19:56]  Tankz: (bonded)
+[09/17/2024 19:56]  Tankz: Tankz
+[09/17/2024 19:56]  Entertaim: (bonded)
+[09/17/2024 19:56]  Entertaim: Entertaim
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood troll: -85
+[09/17/2024 19:56]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/17/2024 19:56]  You see: a clay man corpse
+[09/17/2024 19:56]  a clay man: a clay man
+[09/17/2024 19:56]  You see: a blood hellion corpse
+[09/17/2024 19:56]  an entombed: an entombed
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood troll: -106
+[09/17/2024 19:56]  a clay man: *forms clay*
+[09/17/2024 19:56]  a clay man: *forms clay*
+[09/17/2024 19:56]  System: You must wait another moment before you may pick up an item from here.
+[09/17/2024 19:56]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:56]  Druida: Aegis Keep Guardian
+[09/17/2024 19:56]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:56]  Druida: Druida
+[09/17/2024 19:56]  a blood drake: a blood drake
+[09/17/2024 19:56]  You see: a blood drake corpse
+[09/17/2024 19:56]  You see: a blood drake corpse
+[09/17/2024 19:56]  System: Archery skillgain: 2.164%
+[09/17/2024 19:56]  System: Focus skillgain: 2.164%
+[09/17/2024 19:56]  a blood troll: -99
+[09/17/2024 19:56]  System: You have gained some fame.
+[09/17/2024 19:56]  System: You have gained some karma.
+[09/17/2024 19:56]  Ailiin: (Lyric Aspect 1,642.1/2000 xp)
+[09/17/2024 19:56]  System: -886
+[09/17/2024 19:56]  You see: a blood troll corpse
+[09/17/2024 19:56]  a blood ogre mage: *blood potency*
+[09/17/2024 19:56]  System: Holy symbols remaining: 2/10
+[09/17/2024 19:56]  System: Holy symbols remaining: 0/10
+[09/17/2024 19:56]  System: You must wait a moment before attempting to use another Chivalry ability.
+[09/17/2024 19:56]  Ailiin: Target: a blood drake
+[09/17/2024 19:56]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:56]  Razor: * Target *
+[09/17/2024 19:56]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:56]  a blood drake: *looks calmed*
+[09/17/2024 19:56]  System: Archery skillgain: 2.164%
+[09/17/2024 19:56]  System: Focus skillgain: 2.164%
+[09/17/2024 19:56]  System: Your shot hinders your target!
+[09/17/2024 19:56]  a blood drake: -111
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -90
+[09/17/2024 19:56]  [Razor]: New target set.
+[09/17/2024 19:56]  [Razor]: Ignore List cleared
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[09/17/2024 19:56]  a blood drake: -207
+[09/17/2024 19:56]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:56]  [Razor]: New target set.
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -96
+[09/17/2024 19:56]  [Razor]: Ignore List cleared
+[09/17/2024 19:56]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:56]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:56]  Razor: *pacified 32s discord 1m 32s* a blood drake
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -173
+[09/17/2024 19:56]  You see: an aegis lich corpse
+[09/17/2024 19:56]  an aegis lich: an aegis lich
+[09/17/2024 19:56]  an aegis noble: an aegis noble
+[09/17/2024 19:56]  You see: an aegis noble corpse
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -119
+[09/17/2024 19:56]  a blood drake: a blood drake
+[09/17/2024 19:56]  You see: an aegis whelp corpse
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -151
+[09/17/2024 19:56]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:56]  Razor: * Target *
+[09/17/2024 19:56]  System: Whom do you wish them to attack?
+[09/17/2024 19:56]  Razor: * Target *
+[09/17/2024 19:56]  System: You play successfully, provoking your targets. (46s)
+[09/17/2024 19:56]  a blood drake: *looks furious*
+[09/17/2024 19:56]  a blood drake: *looks furious*
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -121
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -103
+[09/17/2024 19:56]  System: You must wait another 9 seconds before you may use that ability again.
+[09/17/2024 19:56]  a blood drake: -48
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -124
+[09/17/2024 19:56]  System: You must wait another 9 seconds before you may use that ability again.
+[09/17/2024 19:56]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:56]  a blood drake: -15
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -103
+[09/17/2024 19:56]  a blood drake: -15
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -137
+[09/17/2024 19:56]  a blood drake: -15
+[09/17/2024 19:56]  an aegis whelp: an aegis whelp
+[09/17/2024 19:56]  a blood drake: -40
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -128
+[09/17/2024 19:56]  a blood drake: -15
+[09/17/2024 19:56]  a blood drake: -44
+[09/17/2024 19:56]  a blood drake: -15
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -97
+[09/17/2024 19:56]  a blood drake: -40
+[09/17/2024 19:56]  a blood drake: -15
+[09/17/2024 19:56]  System: Archery skillgain: 2.153%
+[09/17/2024 19:56]  System: Focus skillgain: 2.153%
+[09/17/2024 19:56]  a blood drake: -133
+[09/17/2024 19:56]  Ailiin: -7
+[09/17/2024 19:56]  a blood drake: -15
+[09/17/2024 19:56]  Druida: Aegis Keep Guardian
+[09/17/2024 19:56]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:56]  Druida: Druida
+[09/17/2024 19:57]  a blood hellion: a blood hellion
+[09/17/2024 19:57]  a blood drake: -12
+[09/17/2024 19:57]  System: Archery skillgain: 2.175%
+[09/17/2024 19:57]  System: Focus skillgain: 2.175%
+[09/17/2024 19:57]  a blood drake: -114
+[09/17/2024 19:57]  a blood drake: -33
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  Ailiin: -9
+[09/17/2024 19:57]  an aegis whelp: *frenzies*
+[09/17/2024 19:57]  Ailiin: Target: an aegis whelp
+[09/17/2024 19:57]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:57]  Razor: * Target *
+[09/17/2024 19:57]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:57]  an aegis whelp: *looks calmed*
+[09/17/2024 19:57]  System: Archery skillgain: 2.164%
+[09/17/2024 19:57]  System: Focus skillgain: 2.164%
+[09/17/2024 19:57]  an aegis whelp: -111
+[09/17/2024 19:57]  a blood drake: -12
+[09/17/2024 19:57]  a blood drake: -40
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  You see: an aegis noble corpse
+[09/17/2024 19:57]  a blood harpy: a blood harpy
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  an aegis whelp: -131
+[09/17/2024 19:57]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:57]  a blood drake: -12
+[09/17/2024 19:57]  a blood drake: -46
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  an aegis whelp: -124
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  a blood drake: -12
+[09/17/2024 19:57]  a blood drake: -38
+[09/17/2024 19:57]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  an aegis whelp: -140
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  a blood hellion: *blood frenzy*
+[09/17/2024 19:57]  a blood harpy: a blood harpy
+[09/17/2024 19:57]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  a blood drake: -12
+[09/17/2024 19:57]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  an aegis whelp: -158
+[09/17/2024 19:57]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:57]  an aegis lich: an aegis lich
+[09/17/2024 19:57]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  System: Whom do you wish them to attack?
+[09/17/2024 19:57]  Razor: * Target *
+[09/17/2024 19:57]  System: You play successfully, provoking your targets. (46s)
+[09/17/2024 19:57]  an aegis whelp: *looks furious*
+[09/17/2024 19:57]  a blood drake: *looks furious*
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  a blood drake: -115
+[09/17/2024 19:57]  System: The world will save in 15 seconds.
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:57]  an aegis cultist: an aegis cultist
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  a blood drake: -18
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  a blood drake: -99
+[09/17/2024 19:57]  Douglass: [Recruit, E<>E]
+[09/17/2024 19:57]  Douglass: Douglass
+[09/17/2024 19:57]  an aegis scorpion: an aegis scorpion
+[09/17/2024 19:57]  an entombed: an entombed
+[09/17/2024 19:57]  a blood drake: -15
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  a blood drake: -121
+[09/17/2024 19:57]  System: You have gained a good amount of fame.
+[09/17/2024 19:57]  System: You have gained a good amount of karma.
+[09/17/2024 19:57]  Ailiin: (Lyric Aspect 1,647.4/2000 xp)
+[09/17/2024 19:57]  System: -412
+[09/17/2024 19:57]  a blood drake: -438
+[09/17/2024 19:57]  an aegis whelp: -438
+[09/17/2024 19:57]  You see: a blood drake corpse
+[09/17/2024 19:57]  System: Holy symbols remaining: 3/10
+[09/17/2024 19:57]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:57]  System: You must wait a moment before attempting to use another Chivalry ability.
+[09/17/2024 19:57]  System: You do not have enough holy symbols for that ability.
+[09/17/2024 19:57]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:57]  You see: an aegis lich corpse
+[09/17/2024 19:57]  an aegis whelp: -15
+[09/17/2024 19:57]  an aegis noble: an aegis noble
+[09/17/2024 19:57]  System: Sycho Sid has completed the achievement: Connoisseur (Basic).
+[09/17/2024 19:57]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:57]  You see: a blood hellion corpse
+[09/17/2024 19:57]  a blood drake: -18
+[09/17/2024 19:57]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:57]  an aegis whelp: -15
+[09/17/2024 19:57]  System: You play successfully, pacifying your target. (46s)
+[09/17/2024 19:57]  a blood drake: *looks calmed*
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  an aegis whelp: -104
+[09/17/2024 19:57]  a blood drake: -20
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  System: You have gained a little fame.
+[09/17/2024 19:57]  System: You have gained a little karma.
+[09/17/2024 19:57]  Ailiin: (Lyric Aspect 1,649.2/2000 xp)
+[09/17/2024 19:57]  System: -4
+[09/17/2024 19:57]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:57]  You see: an aegis whelp corpse
+[09/17/2024 19:57]  You see: a blood harpy corpse
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  a blood drake: -95
+[09/17/2024 19:57]  an aegis noble: an aegis noble
+[09/17/2024 19:57]  an aegis cultist: an aegis cultist
+[09/17/2024 19:57]  a blood harpy: a blood harpy
+[09/17/2024 19:57]  an aegis lich: an aegis lich
+[09/17/2024 19:57]  a blood hellion: a blood hellion
+[09/17/2024 19:57]  Druida: Aegis Keep Guardian
+[09/17/2024 19:57]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:57]  Druida: Druida
+[09/17/2024 19:57]  a blood drake: *pacified 41s*
+[09/17/2024 19:57]  a blood drake: a blood drake
+[09/17/2024 19:57]  You see: an aegis whelp corpse
+[09/17/2024 19:57]  You see: an aegis whelp corpse
+[09/17/2024 19:57]  You see: a blood troll corpse
+[09/17/2024 19:57]  You see: a blood harpy corpse
+[09/17/2024 19:57]  You see: a blood drake corpse
+[09/17/2024 19:57]  You see: a blood troll corpse
+[09/17/2024 19:57]  You see: a blood harpy corpse
+[09/17/2024 19:57]  You see: a blood drake corpse
+[09/17/2024 19:57]  You see: a blood hellion corpse
+[09/17/2024 19:57]  You see: a blood harpy corpse
+[09/17/2024 19:57]  You see: a blood drake corpse
+[09/17/2024 19:57]  You see: an aegis lich corpse
+[09/17/2024 19:57]  [Razor]: New target set.
+[09/17/2024 19:57]  System: The world is saving, please wait.
+[09/17/2024 19:57]  System: World save complete. The entire process took 2.6 seconds.
+[09/17/2024 19:57]  [Razor]: Ignore List cleared
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  a blood drake: -68
+[09/17/2024 19:57]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:57]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:57]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:57]  Razor: *pacified 37s discord 1m 32s* a blood drake
+[09/17/2024 19:57]  [Razor]: New target set.
+[09/17/2024 19:57]  Razor: * Target *
+[09/17/2024 19:57]  [Razor]: Ignore List cleared
+[09/17/2024 19:57]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:57]  System: Archery skillgain: 2.153%
+[09/17/2024 19:57]  System: Focus skillgain: 2.153%
+[09/17/2024 19:57]  System: Your shot hinders your target!
+[09/17/2024 19:57]  a blood drake: -211
+[09/17/2024 19:57]  Ailiin: Target: a blood drake
+[09/17/2024 19:57]  Ailiin: Target: a blood drake
+[09/17/2024 19:58]  : carpet
+[09/17/2024 19:58]  System: You must wait another moment before you may pick up an item from here.
+[09/17/2024 19:58]  System: You must wait another moment before you may pick up an item from here.
+[09/17/2024 19:58]  System: Archery skillgain: 2.164%
+[09/17/2024 19:58]  System: Focus skillgain: 2.164%
+[09/17/2024 19:58]  a blood drake: -85
+[09/17/2024 19:58]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:58]  a blood hellion: *blood frenzy*
+[09/17/2024 19:58]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:58]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood drake: -82
+[09/17/2024 19:58]  Ailiin: Target: a blood drake
+[09/17/2024 19:58]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:58]  System: You play successfully, pacifying your target. (46s)
+[09/17/2024 19:58]  a blood drake: *looks calmed*
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood drake: -105
+[09/17/2024 19:58]  [Razor]: New target set.
+[09/17/2024 19:58]  [Razor]: Ignore List cleared
+[09/17/2024 19:58]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood drake: -114
+[09/17/2024 19:58]  a blood drake: *barding break*
+[09/17/2024 19:58]  You see: a blood harpy corpse
+[09/17/2024 19:58]  You see: a blood troll corpse
+[09/17/2024 19:58]  You see: a blood hellion corpse
+[09/17/2024 19:58]  Druida: Aegis Keep Guardian
+[09/17/2024 19:58]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:58]  Druida: Druida
+[09/17/2024 19:58]  a blood hellion: a blood hellion
+[09/17/2024 19:58]  a blood harpy: a blood harpy
+[09/17/2024 19:58]  Ailiin: Target: a blood drake
+[09/17/2024 19:58]  System: You must wait a few moments before you may provoke or pacify another creature.
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood drake: -55
+[09/17/2024 19:58]  System: You have gained a good amount of fame.
+[09/17/2024 19:58]  System: You have gained a good amount of karma.
+[09/17/2024 19:58]  Ailiin: (Lyric Aspect 1,654.5/2000 xp)
+[09/17/2024 19:58]  System: -1198
+[09/17/2024 19:58]  You see: a blood drake corpse
+[09/17/2024 19:58]  You see: a blood harpy corpse
+[09/17/2024 19:58]  You see: a blood troll corpse
+[09/17/2024 19:58]  You see: a blood hellion corpse
+[09/17/2024 19:58]  Druida: Aegis Keep Guardian
+[09/17/2024 19:58]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:58]  Druida: Druida
+[09/17/2024 19:58]  a blood hellion: a blood hellion
+[09/17/2024 19:58]  a blood harpy: a blood harpy
+[09/17/2024 19:58]  an aegis lich: an aegis lich
+[09/17/2024 19:58]  You see: a blood troll corpse
+[09/17/2024 19:58]  You see: a blood harpy corpse
+[09/17/2024 19:58]  Druida: Aegis Keep Guardian
+[09/17/2024 19:58]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:58]  Druida: Druida
+[09/17/2024 19:58]  an aegis lich: an aegis lich
+[09/17/2024 19:58]  a blood harpy: a blood harpy
+[09/17/2024 19:58]  You see: a blood harpy corpse
+[09/17/2024 19:58]  You see: a blood troll corpse
+[09/17/2024 19:58]  You see: a blood hellion corpse
+[09/17/2024 19:58]  Druida: Aegis Keep Guardian
+[09/17/2024 19:58]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:58]  Druida: Druida
+[09/17/2024 19:58]  a blood hellion: a blood hellion
+[09/17/2024 19:58]  You see: a blood troll corpse
+[09/17/2024 19:58]  You see: a blood harpy corpse
+[09/17/2024 19:58]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:58]  a blood troll: a blood troll
+[09/17/2024 19:58]  You see: a blood hellion corpse
+[09/17/2024 19:58]  You see: a blood drake corpse
+[09/17/2024 19:58]  Druida: Aegis Keep Guardian
+[09/17/2024 19:58]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 19:58]  Druida: Druida
+[09/17/2024 19:58]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:58]  You see: exceptional avarite harvest aspect large battle axe
+[09/17/2024 19:58]  You see: [mastercrafted by touchofclas]
+[09/17/2024 19:58]  a blood ogre mage: a blood ogre mage
+[09/17/2024 19:58]  a blood troll: *pacified 29s*
+[09/17/2024 19:58]  a blood troll: a blood troll
+[09/17/2024 19:58]  Douglass: [Recruit, E<>E]
+[09/17/2024 19:58]  Douglass: Douglass
+[09/17/2024 19:58]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:58]  Ailiin: Target: a blood troll
+[09/17/2024 19:58]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:58]  Razor: * Target *
+[09/17/2024 19:58]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 19:58]  a blood troll: *looks calmed*
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood troll: -73
+[09/17/2024 19:58]  System: Holy symbols remaining: 6/10
+[09/17/2024 19:58]  System: Holy symbols remaining: 4/10
+[09/17/2024 19:58]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood troll: -114
+[09/17/2024 19:58]  [Razor]: New target set.
+[09/17/2024 19:58]  [Razor]: Ignore List cleared
+[09/17/2024 19:58]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood troll: -71
+[09/17/2024 19:58]  [Razor]: New target set.
+[09/17/2024 19:58]  [Razor]: Ignore List cleared
+[09/17/2024 19:58]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:58]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:58]  [Razor]: New target set.
+[09/17/2024 19:58]  Razor: * Target *
+[09/17/2024 19:58]  [Razor]: Ignore List cleared
+[09/17/2024 19:58]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood troll: -114
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood troll: -175
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood troll: -130
+[09/17/2024 19:58]  ibeast: (bonded)
+[09/17/2024 19:58]  ibeast: ibeast
+[09/17/2024 19:58]  iruby: (bonded)
+[09/17/2024 19:58]  iruby: iruby
+[09/17/2024 19:58]  MrOog: [Veteran, IDC]
+[09/17/2024 19:58]  MrOog: MrOog
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood troll: -162
+[09/17/2024 19:58]  a blood troll: a blood troll
+[09/17/2024 19:58]  a blood harpy: *ruffles feathers*
+[09/17/2024 19:58]  a blood troll: *looks calmed*
+[09/17/2024 19:58]  System: Archery skillgain: 2.153%
+[09/17/2024 19:58]  System: Focus skillgain: 2.153%
+[09/17/2024 19:58]  a blood troll: -170
+[09/17/2024 19:59]  You see: a blood harpy corpse
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood troll: -109
+[09/17/2024 19:59]  a blood troll: *blood healing*
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood troll: -187
+[09/17/2024 19:59]  a blood drake: a blood drake
+[09/17/2024 19:59]  an aegis whelp: an aegis whelp
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood troll: -151
+[09/17/2024 19:59]  an aegis whelp: an aegis whelp
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood troll: -100
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood troll: -128
+[09/17/2024 19:59]  LilSauce: (bonded)
+[09/17/2024 19:59]  LilSauce: LilSauce
+[09/17/2024 19:59]  a sunscale: (bonded)
+[09/17/2024 19:59]  a sunscale: a sunscale
+[09/17/2024 19:59]  Kwisatz-Haderach: Legendary Domesticator
+[09/17/2024 19:59]  Kwisatz-Haderach: [Druid, BEAR]
+[09/17/2024 19:59]  Kwisatz-Haderach: Lord Kwisatz-Haderach
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood troll: -107
+[09/17/2024 19:59]  You see: unidentified buckler
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood troll: -104
+[09/17/2024 19:59]  Kwisatz-Haderach: Legendary Domesticator
+[09/17/2024 19:59]  Kwisatz-Haderach: [Druid, BEAR]
+[09/17/2024 19:59]  Kwisatz-Haderach: Lord Kwisatz-Haderach
+[09/17/2024 19:59]  LilSauce: (bonded)
+[09/17/2024 19:59]  LilSauce: LilSauce
+[09/17/2024 19:59]  a sunscale: (bonded)
+[09/17/2024 19:59]  a sunscale: a sunscale
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  System: You have gained some fame.
+[09/17/2024 19:59]  System: You have gained some karma.
+[09/17/2024 19:59]  Ailiin: (Lyric Aspect 1,658.1/2000 xp)
+[09/17/2024 19:59]  System: -105
+[09/17/2024 19:59]  You see: a blood troll corpse
+[09/17/2024 19:59]  a blood troll: *blood healing*
+[09/17/2024 19:59]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:59]  System: You must wait another moment before you may pick up an item from here.
+[09/17/2024 19:59]  You see: a blood harpy corpse
+[09/17/2024 19:59]  You see: a blood troll corpse
+[09/17/2024 19:59]  You see: a blood troll corpse
+[09/17/2024 19:59]  an aegis whelp: an aegis whelp
+[09/17/2024 19:59]  You see: a blood drake corpse
+[09/17/2024 19:59]  You see: a blood drake corpse
+[09/17/2024 19:59]  a clay man: a clay man
+[09/17/2024 19:59]  a blood troll: *looks calmed*
+[09/17/2024 19:59]  Kwisatz-Haderach: *salutes*
+[09/17/2024 19:59]  an aegis lich: an aegis lich
+[09/17/2024 19:59]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 19:59]  Razor: * Target *
+[09/17/2024 19:59]  System: Whom do you wish them to attack?
+[09/17/2024 19:59]  Razor: * Target *
+[09/17/2024 19:59]  System: You play successfully, provoking your targets. (39s)
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -59
+[09/17/2024 19:59]  an aegis whelp: *looks furious*
+[09/17/2024 19:59]  a blood drake: *looks furious*
+[09/17/2024 19:59]  You see: a blood drake corpse
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -72
+[09/17/2024 19:59]  Kwisatz-Haderach: All Guard Me
+[09/17/2024 19:59]  a blood drake: -26
+[09/17/2024 19:59]  [Razor]: New target set.
+[09/17/2024 19:59]  [Razor]: Ignore List cleared
+[09/17/2024 19:59]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:59]  System: Archery skillgain: 2.164%
+[09/17/2024 19:59]  System: Focus skillgain: 2.164%
+[09/17/2024 19:59]  a blood drake: -87
+[09/17/2024 19:59]  You see: a blood troll corpse
+[09/17/2024 19:59]  [Razor]: New target set.
+[09/17/2024 19:59]  Kwisatz-Haderach: All Kill
+[09/17/2024 19:59]  [Razor]: Ignore List cleared
+[09/17/2024 19:59]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 19:59]  [Razor]: New target set.
+[09/17/2024 19:59]  an aegis whelp: -51
+[09/17/2024 19:59]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 19:59]  [Razor]: Ignore List cleared
+[09/17/2024 19:59]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:59]  [Razor]: New target set.
+[09/17/2024 19:59]  Razor: * Target *
+[09/17/2024 19:59]  [Razor]: Ignore List cleared
+[09/17/2024 19:59]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:59]  [Razor]: New target set.
+[09/17/2024 19:59]  [Razor]: Ignore List cleared
+[09/17/2024 19:59]  an aegis whelp: -15
+[09/17/2024 19:59]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:59]  Kwisatz-Haderach: All Kill
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -110
+[09/17/2024 19:59]  [Razor]: New target set.
+[09/17/2024 19:59]  Kwisatz-Haderach: All Follow Me
+[09/17/2024 19:59]  [Razor]: Ignore List cleared
+[09/17/2024 19:59]  System: You must wait a few moments to use another skill.
+[09/17/2024 19:59]  an aegis whelp: -12
+[09/17/2024 19:59]  System: Max holy symbols earned (10/10)
+[09/17/2024 19:59]  a blood drake: -24
+[09/17/2024 19:59]  an aegis whelp: *frenzies*
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -106
+[09/17/2024 19:59]  an aegis whelp: -15
+[09/17/2024 19:59]  an aegis noble: an aegis noble
+[09/17/2024 19:59]  an aegis whelp: -12
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  System: Your shot hinders your target!
+[09/17/2024 19:59]  a blood drake: -164
+[09/17/2024 19:59]  a blood drake: -26
+[09/17/2024 19:59]  an aegis whelp: -15
+[09/17/2024 19:59]  System: Holy symbols remaining: 6/10
+[09/17/2024 19:59]  System: Holy symbols remaining: 4/10
+[09/17/2024 19:59]  System: Holy symbols remaining: 1/10
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -124
+[09/17/2024 19:59]  an aegis whelp: -12
+[09/17/2024 19:59]  an aegis whelp: -15
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -111
+[09/17/2024 19:59]  an aegis whelp: -12
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -126
+[09/17/2024 19:59]  an aegis whelp: -15
+[09/17/2024 19:59]  You see: an aegis whelp corpse
+[09/17/2024 19:59]  an aegis whelp: -45
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -107
+[09/17/2024 19:59]  an aegis whelp: -12
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -129
+[09/17/2024 19:59]  an aegis whelp: -44
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -122
+[09/17/2024 19:59]  an aegis whelp: -15
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -111
+[09/17/2024 19:59]  a blood drake: -20
+[09/17/2024 19:59]  an aegis whelp: -15
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -83
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -150
+[09/17/2024 19:59]  an aegis whelp: -50
+[09/17/2024 19:59]  an aegis whelp: -15
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -85
+[09/17/2024 19:59]  an aegis whelp: -50
+[09/17/2024 19:59]  an aegis whelp: -15
+[09/17/2024 19:59]  System: Archery skillgain: 2.153%
+[09/17/2024 19:59]  System: Focus skillgain: 2.153%
+[09/17/2024 19:59]  a blood drake: -122
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -102
+[09/17/2024 20:00]  System: You have gained some fame.
+[09/17/2024 20:00]  System: You have gained some karma.
+[09/17/2024 20:00]  Ailiin: (Lyric Aspect 1,662.8/2000 xp)
+[09/17/2024 20:00]  System: -572
+[09/17/2024 20:00]  an aegis whelp: -619
+[09/17/2024 20:00]  You see: a blood drake corpse
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  an aegis whelp: -77
+[09/17/2024 20:00]  Ailiin: Target: an aegis whelp
+[09/17/2024 20:00]  Ailiin: -7
+[09/17/2024 20:00]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:00]  Razor: * Target *
+[09/17/2024 20:00]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 20:00]  an aegis whelp: *looks calmed*
+[09/17/2024 20:00]  System: Archery skillgain: 2.164%
+[09/17/2024 20:00]  System: Focus skillgain: 2.164%
+[09/17/2024 20:00]  an aegis whelp: -97
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  System: Your shot hinders your target!
+[09/17/2024 20:00]  System: You have gained a little fame.
+[09/17/2024 20:00]  System: You have gained a little karma.
+[09/17/2024 20:00]  Ailiin: (Lyric Aspect 1,664.6/2000 xp)
+[09/17/2024 20:00]  System: -12
+[09/17/2024 20:00]  You see: an aegis whelp corpse
+[09/17/2024 20:00]  an aegis noble: an aegis noble
+[09/17/2024 20:00]  an aegis cultist: an aegis cultist
+[09/17/2024 20:00]  an aegis scorpion: an aegis scorpion
+[09/17/2024 20:00]  an entombed: an entombed
+[09/17/2024 20:00]  an aegis noble: an aegis noble
+[09/17/2024 20:00]  System: Max holy symbols earned (10/10)
+[09/17/2024 20:00]  an aegis noble: an aegis noble
+[09/17/2024 20:00]  a blood drake: a blood drake
+[09/17/2024 20:00]  Ailiin: Target: a blood drake
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -74
+[09/17/2024 20:00]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:00]  Razor: * Target *
+[09/17/2024 20:00]  System: You play successfully, pacifying your target. (39s)
+[09/17/2024 20:00]  a blood drake: *looks calmed*
+[09/17/2024 20:00]  System: Your Song of Discordance effect ends.
+[09/17/2024 20:00]  Razor: [-Song of Discordance (s)]
+[09/17/2024 20:00]  System: You must wait a few moments to use another skill.
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -52
+[09/17/2024 20:00]  [Razor]: New target set.
+[09/17/2024 20:00]  [Razor]: Ignore List cleared
+[09/17/2024 20:00]  System: You must wait a few moments to use another skill.
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -71
+[09/17/2024 20:00]  [Razor]: New target set.
+[09/17/2024 20:00]  [Razor]: Ignore List cleared
+[09/17/2024 20:00]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:00]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 20:00]  Razor: *pacified 33s discord 1m 32s* a blood drake
+[09/17/2024 20:00]  an aegis noble: an aegis noble
+[09/17/2024 20:00]  System: You must wait a few moments to use another skill.
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -112
+[09/17/2024 20:00]  System: Holy symbols remaining: 6/10
+[09/17/2024 20:00]  System: Holy symbols remaining: 4/10
+[09/17/2024 20:00]  System: Holy symbols remaining: 1/10
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -115
+[09/17/2024 20:00]  a blood drake: *barding break*
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -92
+[09/17/2024 20:00]  You see: a blood hellion corpse
+[09/17/2024 20:00]  You see: a blood troll corpse
+[09/17/2024 20:00]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:00]  System: You are now under the effect of a Song of Peacemaking (6.4% healing amounts for 15 minutes).
+[09/17/2024 20:00]  Razor: [-Song of Peacemaking (s)]
+[09/17/2024 20:00]  Razor: [+Song of Peacemaking (900s)]
+[09/17/2024 20:00]  a blood hellion: a blood hellion
+[09/17/2024 20:00]  Ailiin: Target: a blood drake
+[09/17/2024 20:00]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:00]  Razor: * Target *
+[09/17/2024 20:00]  System: You play successfully, pacifying your target. (46s)
+[09/17/2024 20:00]  a blood drake: *looks calmed*
+[09/17/2024 20:00]  You see: a blood harpy corpse
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -114
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -117
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -97
+[09/17/2024 20:00]  You see: a blood harpy corpse
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -130
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -97
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -136
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -175
+[09/17/2024 20:00]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:00]  Razor: * Target *
+[09/17/2024 20:00]  System: You play successfully, briefly discording one or more nearby creatures.
+[09/17/2024 20:00]  System: You must wait a few moments to use another skill.
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -90
+[09/17/2024 20:00]  System: Archery skillgain: 2.153%
+[09/17/2024 20:00]  System: Focus skillgain: 2.153%
+[09/17/2024 20:00]  a blood drake: -87
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -98
+[09/17/2024 20:01]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:01]  System: You are now under the effect of a Song of Discordance (6.4% reduced damage from creatures for 15 minutes).
+[09/17/2024 20:01]  Ailiin: Your barding skill cooldowns reset.
+[09/17/2024 20:01]  Razor: [+Song of Discordance (900s)]
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -107
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  System: Your shot hinders your target!
+[09/17/2024 20:01]  a blood drake: -88
+[09/17/2024 20:01]  System: Holy symbols remaining: 3/10
+[09/17/2024 20:01]  System: Holy symbols remaining: 1/10
+[09/17/2024 20:01]  System: You do not have enough holy symbols for that ability.
+[09/17/2024 20:01]  a blood hellion: a blood hellion
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -76
+[09/17/2024 20:01]  a blood drake: *pacified 20s*
+[09/17/2024 20:01]  a blood drake: a blood drake
+[09/17/2024 20:01]  a blood hellion: a blood hellion
+[09/17/2024 20:01]  You see: an aegis whelp corpse
+[09/17/2024 20:01]  You see: a blood drake corpse
+[09/17/2024 20:01]  You see: a blood drake corpse
+[09/17/2024 20:01]  You see: a blood harpy corpse
+[09/17/2024 20:01]  You see: a blood drake corpse
+[09/17/2024 20:01]  You see: an aegis whelp corpse
+[09/17/2024 20:01]  You see: a blood troll corpse
+[09/17/2024 20:01]  [Razor]: New target set.
+[09/17/2024 20:01]  Razor: * Target *
+[09/17/2024 20:01]  [Razor]: Ignore List cleared
+[09/17/2024 20:01]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:01]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 32s)
+[09/17/2024 20:01]  Razor: *pacified 19s discord 1m 32s* a blood drake
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -94
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -108
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -132
+[09/17/2024 20:01]  System: [DF] A Dungeon Flashpoint for Mount Petram has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -132
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -103
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -88
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -92
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -104
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  a blood drake: -112
+[09/17/2024 20:01]  System: Archery skillgain: 2.153%
+[09/17/2024 20:01]  System: Focus skillgain: 2.153%
+[09/17/2024 20:01]  System: You have gained a good amount of fame.
+[09/17/2024 20:01]  System: You have gained a good amount of karma.
+[09/17/2024 20:01]  Ailiin: (Lyric Aspect 1,669.9/2000 xp)
+[09/17/2024 20:01]  System: -107
+[09/17/2024 20:01]  You see: a blood drake corpse
+[09/17/2024 20:01]  You see: a blood harpy corpse
+[09/17/2024 20:01]  You see: a blood troll corpse
+[09/17/2024 20:01]  You see: a blood hellion corpse
+[09/17/2024 20:01]  You see: a blood hellion corpse
+[09/17/2024 20:01]  an aegis lich: an aegis lich
+[09/17/2024 20:01]  a blood harpy: a blood harpy
+[09/17/2024 20:01]  You see: a blood troll corpse
+[09/17/2024 20:01]  You see: a blood ogremage corpse
+[09/17/2024 20:01]  You see: a blood harpy corpse
+[09/17/2024 20:01]  You see: a blood troll corpse
+[09/17/2024 20:01]  You see: a blood hellion corpse
+[09/17/2024 20:01]  You see: a blood hellion corpse
+[09/17/2024 20:01]  You see: an aegis whelp corpse
+[09/17/2024 20:01]  You see: the remains of ankadium
+[09/17/2024 20:01]  a blood hellion: a blood hellion
+[09/17/2024 20:01]  a blood ogre mage: a blood ogre mage
+[09/17/2024 20:01]  You see: a blood ogremage corpse
+[09/17/2024 20:01]  a blood orc: a blood orc
+[09/17/2024 20:01]  System: Seven Deadly Sins (7n) guild has reached prestige level 248.
+[09/17/2024 20:01]  You see: the remains of Wnxi
+[09/17/2024 20:01]  You see: a clay man corpse
+[09/17/2024 20:01]  You see: a clay man corpse
+[09/17/2024 20:01]  an aegis lich: an aegis lich
+[09/17/2024 20:01]  You see: a clay man corpse
+[09/17/2024 20:01]  You see: a blood ogremage corpse
+[09/17/2024 20:01]  You see: a blood ogremage corpse
+[09/17/2024 20:01]  Druida: Aegis Keep Guardian
+[09/17/2024 20:01]  Druida: [Druid Veteran, BEAR]
+[09/17/2024 20:01]  Druida: Druida
+[09/17/2024 20:01]  a clay man: a clay man
+[09/17/2024 20:01]  You see: a clay man corpse
+[09/17/2024 20:01]  an aegis noble: an aegis noble
+[09/17/2024 20:01]  a blood ogre mage: a blood ogre mage
+[09/17/2024 20:01]  a clay man: a clay man
+[09/17/2024 20:01]  an aegis scorpion: an aegis scorpion
+[09/17/2024 20:01]  a coagulator: a coagulator
+[09/17/2024 20:01]  You see: a clay man corpse
+[09/17/2024 20:01]  System: Your feet sink in mud!
+[09/17/2024 20:01]  Razor: [+Paralyze (0s)]
+[09/17/2024 20:01]  Razor: [-Paralyze (s)]
+[09/17/2024 20:01]  System: You are no longer entangled.
+[09/17/2024 20:01]  a clay man: *forms clay*
+[09/17/2024 20:01]  You see: a blood rat corpse
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  You see: a clay man corpse
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  a coagulator: a coagulator
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  a bloodrat: a bloodrat
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  You see: a coagulator corpse
+[09/17/2024 20:01]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:01]  Razor: * Target *
+[09/17/2024 20:01]  a coagulator: *looks calmed*
+[09/17/2024 20:01]  a coagulator: *looks calmed*
+[09/17/2024 20:01]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  You see: an aegis noble corpse
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  You see: an aegis cultist corpse
+[09/17/2024 20:01]  an aegis cultist: an aegis cultist
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  an aegis leech: an aegis leech
+[09/17/2024 20:01]  You see: a skulker corpse
+[09/17/2024 20:01]  You see: a blood rat corpse
+[09/17/2024 20:01]  You see: a coagulator corpse
+[09/17/2024 20:01]  a twilight guardian: a twilight guardian
+[09/17/2024 20:01]  System: Max holy symbols earned (10/10)
+[09/17/2024 20:01]  an aegis scorpion: an aegis scorpion
+[09/17/2024 20:01]  an aegis leech: an aegis leech
+[09/17/2024 20:01]  an aegis scorpion: an aegis scorpion
+[09/17/2024 20:01]  an aegis leech: an aegis leech
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  System: You are currently prevented from performing criminal looting actions.
+[09/17/2024 20:01]  a bloodwolf: a bloodwolf
+[09/17/2024 20:01]  a blood cyclops: a blood cyclops
+[09/17/2024 20:01]  a bloodwolf: a bloodwolf
+[09/17/2024 20:01]  a bloodrat: a bloodrat
+[09/17/2024 20:01]  System: Where do you wish to traverse to?
+[09/17/2024 20:01]  Razor: [+Paralyze (0s)]
+[09/17/2024 20:01]  a bloodrat: a bloodrat
+[09/17/2024 20:02]  Razor: [-Paralyze (s)]
+[09/17/2024 20:02]  System: You are no longer hindered.
+[09/17/2024 20:02]  a chaos warrior: a chaos warrior
+[09/17/2024 20:02]  a bloodrat: a bloodrat
+[09/17/2024 20:02]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 20:02]  Razor: * Target *
+[09/17/2024 20:02]  an aegis leech: *looks calmed*
+[09/17/2024 20:02]  a twilight guardian: *looks calmed*
+[09/17/2024 20:02]  an aegis leech: *looks calmed*
+[09/17/2024 20:02]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[09/17/2024 20:02]  You see: a blood sorcerer corpse
+[09/17/2024 20:02]  You see: a blood sorcerer corpse
+[09/17/2024 20:02]  You see: a blood sorcerer corpse
+[09/17/2024 20:02]  You see: a blood sorcerer corpse
+[09/17/2024 20:02]  You see: a coagulator corpse
+[09/17/2024 20:02]  You see: a blood sorcerer corpse
+[09/17/2024 20:02]  a coagulator: a coagulator
+[09/17/2024 20:02]  a lesser blood daemon: a lesser blood daemon
+[09/17/2024 20:02]  a lesser blood daemon: a lesser blood daemon
+[09/17/2024 20:02]  System: You are now under the protection of the town guards.
+[09/17/2024 20:02]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[09/17/2024 20:02]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 20:02]  Razor: Steps: 0
+[09/17/2024 20:02]  Ailiin: Your mount returns.
+[09/17/2024 20:02]  Aristo: Aristo the tavern keeper
+[09/17/2024 20:02]  a dog: a dog
+[09/17/2024 20:02]  a dog: a dog
+[09/17/2024 20:02]  a cat: a cat
+[09/17/2024 20:02]  Lindsay: Lindsay the fisherman
+[09/17/2024 20:02]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 20:02]  Belinda: Belinda the provisioner
+[09/17/2024 20:02]  a prevalian knight: a prevalian knight
+[09/17/2024 20:02]  System: You have been in combat too recently to use that ability.
+[09/17/2024 20:02]  System: You have been in combat too recently to use that ability.
+[09/17/2024 20:02]  System: You have been in combat too recently to use that ability.
+[09/17/2024 20:02]  System: You have been in combat too recently to use that ability.
+[09/17/2024 20:02]  System: Tanisxx has completed the achievement: Order of Armorers Associate.
+[09/17/2024 20:02]  System: You have been in combat too recently to use that ability.
+[09/17/2024 20:02]  System: You have been in combat too recently to use that ability.
+[09/17/2024 20:02]  System: Holy symbols remaining: 5/10
+[09/17/2024 20:02]  Razor: [+Paralyze (0s)]
+[09/17/2024 20:02]  Razor: [-Paralyze (s)]
+[09/17/2024 20:02]  System: You are no longer hindered.
+[09/17/2024 20:02]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 20:02]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 20:02]  Razor: Steps: 0
+[09/17/2024 20:02]  Brandi: Brandi the banker
+[09/17/2024 20:02]  Arbor the tree: Legendary Carpenter
+[09/17/2024 20:02]  Arbor the tree: [Ancient, Oak]
+[09/17/2024 20:02]  Arbor the tree: Lord Arbor the tree
+[09/17/2024 20:02]  a cat: a cat
+[09/17/2024 20:02]  Pierce: Pierce the tailor
+[09/17/2024 20:02]  Tom the roofer: Tom the roofer
+[09/17/2024 20:02]  a desert ostard: (bonded)
+[09/17/2024 20:02]  a desert ostard: a desert ostard
+[09/17/2024 20:02]  Ivar: Ivar the jeweler
+[09/17/2024 20:02]  Alonzo: Alonzo the tinker
+[09/17/2024 20:02]  Galatea: Galatea the healer
+[09/17/2024 20:02]  a dog: a dog
+[09/17/2024 20:02]  Tom the roofer: *Rubs hands together*
+[09/17/2024 20:02]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 20:02]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 20:02]  Tom the roofer: This gate will send you to the bloodrock fort and their vendors!!!. But beware they are aggressive creatures!
+[09/17/2024 20:02]  System: You are now under the effect of a Song of Provocation (+6.4% damage against creatures for 15 minutes).
+[09/17/2024 20:02]  Razor: [-Song of Provocation (s)]
+[09/17/2024 20:02]  Razor: [+Song of Provocation (900s)]
+[09/17/2024 20:02]  Ravi: Ravi the Town Crier
+[09/17/2024 20:02]  a dog: a dog
+[09/17/2024 20:02]  a cat: a cat
+[09/17/2024 20:02]  Donnelly: Donnelly the scribe
+[09/17/2024 20:02]  Dacey: Dacey the waiter
+[09/17/2024 20:02]  Ailiin: Bank Vendor buy
+[09/17/2024 20:02]  Ailiin: Items: 88/125
+[09/17/2024 20:02]  Ailiin: Total Weight: 1,197
+[09/17/2024 20:02]  Ailiin: Room
+[09/17/2024 20:02]  [Razor]: Organize Agent did not find any items to move.
+[09/17/2024 20:02]  [Razor]: Organize Agent queued 2 item(s) to be moved. (This may take a few moments)
+[09/17/2024 20:02]  [Razor]: Warning: Gold amount is now 0!
+[09/17/2024 20:02]  [Razor]: Organize Agent did not find any items to move.
+[09/17/2024 20:02]  [Razor]: Organize Agent did not find any items to move.
+[09/17/2024 20:02]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 20:02]  il tuo destino: il tuo destino
+[09/17/2024 20:03]  il tuo destino: bank+
+[09/17/2024 20:03]  System: Max holy symbols earned (10/10)
+[09/17/2024 20:03]  a cat: a cat
+[09/17/2024 20:03]  System: Fire YJ has completed the achievement: Blacksmith (Advanced).
+[09/17/2024 20:03]  You see: gold coin : 41539
+[09/17/2024 20:03]  Dacey: Dacey the waiter
+[09/17/2024 20:03]  a dog: a dog
+[09/17/2024 20:03]  a cat: a cat
+[09/17/2024 20:03]  Donnelly: Donnelly the scribe
+[09/17/2024 20:03]  a dog: a dog
+[09/17/2024 20:03]  Thurston: Thurston the waiter
+[09/17/2024 20:03]  a pack llama: *released*
+[09/17/2024 20:03]  a pack llama: [0/2000 stones]
+[09/17/2024 20:03]  a pack llama: a pack llama
+[09/17/2024 20:03]  a pack llama: *released*
+[09/17/2024 20:03]  a pack llama: [0/2000 stones]
+[09/17/2024 20:03]  a pack llama: a pack llama
+[09/17/2024 20:03]  Denton: Denton the innkeeper
+[09/17/2024 20:03]  Renee: Renee the stablemaster
+[09/17/2024 20:03]  a goat: a goat
+[09/17/2024 20:03]  Keara: Keara the stablemaster
+[09/17/2024 20:03]  a dog: a dog
+[09/17/2024 20:03]  a giant strider: (bonded)
+[09/17/2024 20:03]  a giant strider: a giant strider
+[09/17/2024 20:03]  a warpig: (bonded)
+[09/17/2024 20:03]  a warpig: a warpig
+[09/17/2024 20:03]  Moarguise: [Legendary Beard, BB]
+[09/17/2024 20:03]  Moarguise: Lord Moarguise
+[09/17/2024 20:03]  Hanan: Hanan the animal wrangler
+[09/17/2024 20:03]  Kama: Kama the creature broker
+[09/17/2024 20:03]  Ailiin: Bank Vendor buy
+[09/17/2024 20:03]  Ailiin: Room
+[09/17/2024 20:03]  System: You have left the protection of the town guards.
+[09/17/2024 20:03]  System: You enter the rental room.
+[09/17/2024 20:03]  System: WorldMap loaded!
+[09/17/2024 20:03]  System: Target arcane essence you wish to consume and add to this character.
+[09/17/2024 20:03]  System: You consume 387 arcane essence.
+[09/17/2024 20:03]  You see: guarding heater shield
+[09/17/2024 20:03]  You see: surpassingly melodious sackbut
+[09/17/2024 20:03]  You see: (500/500 uses remaining)

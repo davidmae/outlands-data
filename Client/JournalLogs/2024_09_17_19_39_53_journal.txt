@@ -1,0 +1,1035 @@
+[09/17/2024 19:39]  System: WorldMap loading...
+[09/17/2024 19:39]  System: Loading WorldMap markers..
+[09/17/2024 19:39]  System: ..Banks_and_Healers.xml (39)
+[09/17/2024 19:39]  System: ..Dungeons.xml (13)
+[09/17/2024 19:39]  System: ..Dungeon_Gates.xml (388)
+[09/17/2024 19:39]  System: ..Healer_Caravans.xml (42)
+[09/17/2024 19:39]  System: ..Kings_Faire.xml (49)
+[09/17/2024 19:39]  System: ..Moongates.xml (10)
+[09/17/2024 19:39]  System: ..POI.xml (251)
+[09/17/2024 19:39]  System: ..PvP_Locations.xml (71)
+[09/17/2024 19:39]  System: ..Shrines.xml (9)
+[09/17/2024 19:39]  System: ..Sub-Dungeons.xml (4)
+[09/17/2024 19:39]  System: ..Townships.xml (10)
+[09/17/2024 19:39]  System: ..UOAM_Atlas.xml (1887)
+[09/17/2024 19:39]  System: ..UOAM_T-Map.xml (255)
+[09/17/2024 19:39]  System: ..UOAM_Treasure.xml (523)
+[09/17/2024 19:39]  System: WorldMap markers loaded (3551)
+[09/17/2024 19:39]  System: Welcome Poisoner!
+[09/17/2024 19:39]  Poisoner: Poisoner (Young)
+[09/17/2024 19:39]  a sheep: a sheep
+[09/17/2024 19:39]  Dane: Dane the farmer
+[09/17/2024 19:39]  a sheep: a sheep
+[09/17/2024 19:39]  a sheep: a sheep
+[09/17/2024 19:39]  a sheep: a sheep
+[09/17/2024 19:39]  Jake: Jake the barkeep
+[09/17/2024 19:39]  Len: Len the banker
+[09/17/2024 19:39]  Jolanta: Jolanta the Paladin
+[09/17/2024 19:39]  Ayisha: Ayisha the weaponsmith
+[09/17/2024 19:39]  Alicia: Alicia the tavern keeper
+[09/17/2024 19:39]  Colon: Colon the Town Crier
+[09/17/2024 19:39]  Tresor: [Le Francais, LEET]
+[09/17/2024 19:39]  Tresor: Lord Tresor
+[09/17/2024 19:39]  Pippin Picks: Pippin Picks (Young)
+[09/17/2024 19:39]  S p a c e D: [Recruit, G.G]
+[09/17/2024 19:39]  S p a c e D: S p a c e D
+[09/17/2024 19:39]  Amadis: Amadis the armorer
+[09/17/2024 19:39]  [Razor]: Finished 2 queued actions in 1.7 seconds.
+[09/17/2024 19:40]  System: WorldMap loaded!
+[09/17/2024 19:40]  Rayken: Rayken
+[09/17/2024 19:40]  Addledupyg: Addledupyg
+[09/17/2024 19:40]  You see: gold coin : 64
+[09/17/2024 19:40]  You see: training credits deed
+[09/17/2024 19:40]  You see: (1000 credits remaining)
+[09/17/2024 19:40]  You see: [bound to Poisoner]
+[09/17/2024 19:40]  You see: cheese : 10
+[09/17/2024 19:40]  You see: (measly)
+[09/17/2024 19:40]  You see: [coated with lesser poison]
+[09/17/2024 19:40]  Poisoner: Bank Vendor buy
+[09/17/2024 19:40]  Poisoner: Items: 119/125
+[09/17/2024 19:40]  Poisoner: Total Weight: 156
+[09/17/2024 19:40]  Poisoner: Room
+[09/17/2024 19:40]  You see: spider's silk : 1502
+[09/17/2024 19:40]  System: iMDMA has completed the achievement: Humanoid Slayer (Basic).
+[09/17/2024 19:41]  Nooodles: Lord Nooodles
+[09/17/2024 19:41]  The Crafty Panda: The Crafty Panda (Young)
+[09/17/2024 19:41]  Momomago: Momomago (Young)
+[09/17/2024 19:41]  CCth: CCth (Young)
+[09/17/2024 19:41]  Momomago: bank
+[09/17/2024 19:41]  CCth: bank
+[09/17/2024 19:42]  Ailiin: Ailiin
+[09/17/2024 19:42]  You see: bottle : 723
+[09/17/2024 19:42]  You see: gold coin : 64
+[09/17/2024 19:42]  System: The world will save in 15 seconds.
+[09/17/2024 19:42]  System: The world is saving, please wait.
+[09/17/2024 19:42]  System: World save complete. The entire process took 2.7 seconds.
+[09/17/2024 19:43]  System: Crafting queue begun.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:43]  Kinestia: [Squire, C-C]
+[09/17/2024 19:43]  Kinestia: Kinestia
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  Kinestia: [Squire, C-C]
+[09/17/2024 19:43]  Kinestia: Kinestia
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:43]  Kinestia: [Squire, C-C]
+[09/17/2024 19:43]  Kinestia: Kinestia
+[09/17/2024 19:43]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:43]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: That container cannot hold more items.
+[09/17/2024 19:44]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  Pippin Picks: Pippin Picks (Young)
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  Pippin Picks: Pippin Picks (Young)
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:44]  Imperial Stout: [Book Worm, CtS]
+[09/17/2024 19:44]  Imperial Stout: Imperial Stout
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:44]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:44]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  iMDMA: Backstabber
+[09/17/2024 19:45]  iMDMA: iMDMA
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  Tettnanger: Tettnanger (Young)
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  [Razor]: Warning: Spider's Silk amount is now 2!
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Grant Risden has completed the achievement: Beastial Slayer (Basic).
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: That container cannot hold more items.
+[09/17/2024 19:45]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  Tettnanger: Tettnanger (Young)
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:45]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:45]  System: You have worn out your tool!
+[09/17/2024 19:45]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  a pack horse: (tame)
+[09/17/2024 19:46]  a pack horse: [0/2000 stones]
+[09/17/2024 19:46]  a pack horse: a pack horse
+[09/17/2024 19:46]  SloppyDroppy: [Ratman Elite, RAT]
+[09/17/2024 19:46]  SloppyDroppy: SloppyDroppy
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  shenron.: [Officer, 1CE]
+[09/17/2024 19:46]  shenron.: shenron.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  Rayken: Rayken
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  Len: Alas, my goods and services are only available to those with young player status.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  Len: Alas, my goods and services are only available to those with young player status.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:46]  Len: Alas, my goods and services are only available to those with young player status.
+[09/17/2024 19:46]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:46]  Imperial Stout: [Book Worm, CtS]
+[09/17/2024 19:46]  Imperial Stout: Imperial Stout
+[09/17/2024 19:46]  Len: Alas, my goods and services are only available to those with young player status.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  Rayken: Rayken
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: That container cannot hold more items.
+[09/17/2024 19:46]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:46]  Imperial Stout: [Book Worm, CtS]
+[09/17/2024 19:46]  Imperial Stout: Imperial Stout
+[09/17/2024 19:46]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:46]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  Pippin Picks: Pippin Picks (Young)
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  Rayken: Rayken
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  Olympia: Skinner
+[09/17/2024 19:47]  Olympia: Olympia
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  a pack horse: (tame)
+[09/17/2024 19:47]  a pack horse: [1000/2000 stones]
+[09/17/2024 19:47]  a pack horse: a pack horse
+[09/17/2024 19:47]  aMagicMidget: [Ratman Elite, RAT]
+[09/17/2024 19:47]  aMagicMidget: aMagicMidget
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  a pack horse: (tame)
+[09/17/2024 19:47]  a pack horse: [0/2000 stones]
+[09/17/2024 19:47]  a pack horse: a pack horse
+[09/17/2024 19:47]  SloppyDroppy: [Ratman Elite, RAT]
+[09/17/2024 19:47]  SloppyDroppy: SloppyDroppy
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:47]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:47]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.2/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Your skill in Alchemy has increased by 0.1.  It is now 65.3.
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: That container cannot hold more items.
+[09/17/2024 19:48]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  a pack horse: (tame)
+[09/17/2024 19:48]  a pack horse: [800/2000 stones]
+[09/17/2024 19:48]  a pack horse: a pack horse
+[09/17/2024 19:48]  PollyPrissyPants: [Cat Food, RAT]
+[09/17/2024 19:48]  PollyPrissyPants: PollyPrissyPants
+[09/17/2024 19:48]  Takeashidda: [Soldier, DKR]
+[09/17/2024 19:48]  Takeashidda: Takeashidda
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  Takeashidda: [Soldier, DKR]
+[09/17/2024 19:48]  Takeashidda: Takeashidda
+[09/17/2024 19:48]  Pippin Picks: Pippin Picks (Young)
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:48]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:48]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Sharp Blade has completed the achievement: Triggered (Advanced).
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  Imperial Stout: [Book Worm, CtS]
+[09/17/2024 19:49]  Imperial Stout: Imperial Stout
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: You have worn out your tool!
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Electric.Wizard has completed the achievement: Mini-Boss Slayer (Advanced).
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: That container cannot hold more items.
+[09/17/2024 19:49]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:49]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:49]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.3/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Your skill in Alchemy has increased by 0.1.  It is now 65.4.
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.4/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:50]  [Razor]: Warning: Spider's Silk amount is now 4!
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Your skill in Alchemy has increased by 0.1.  It is now 65.5.
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:50]  [Razor]: Warning: Spider's Silk amount is now 1!
+[09/17/2024 19:50]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:50]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  gzuf: Affluent
+[09/17/2024 19:51]  gzuf: gzuf
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: That container cannot hold more items.
+[09/17/2024 19:51]  Pippin Picks: Pippin Picks (Young)
+[09/17/2024 19:51]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: TigOlBitties has completed the achievement: Guardian of Kraul Hive (Basic).
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  Imperial Stout: [Book Worm, CtS]
+[09/17/2024 19:51]  Imperial Stout: Imperial Stout
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  Julius Ceasar: [Phoenix, OFP]
+[09/17/2024 19:51]  Julius Ceasar: Julius Ceasar
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  Khalyla Krimes: Khalyla Krimes
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  Ungoliant Sting: Ungoliant Sting (Young)
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  Pippin Picks: Pippin Picks (Young)
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  SKALANCANA: SKALANCANA (Young)
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:51]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:51]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  Morcego: [Recruit, G.G]
+[09/17/2024 19:52]  Morcego: Morcego
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  Billy Iron: Billy Iron (Young)
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  Jake: You have nothing I would be interested in.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: That container cannot hold more items.
+[09/17/2024 19:52]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: You have worn out your tool!
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  SKALANCANA: SKALANCANA (Young)
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:52]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:52]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  Khalyla Krimes: Khalyla Krimes
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  Khalyla Krimes: Khalyla Krimes
+[09/17/2024 19:53]  Mithrildur: Mithrildur (Young)
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:53]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:53]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: That container cannot hold more items.
+[09/17/2024 19:54]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  Heka Sekhem: [Recruit, EVIL]
+[09/17/2024 19:54]  Heka Sekhem: Heka Sekhem
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.5/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Your skill in Alchemy has increased by 0.1.  It is now 65.6.
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:54]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:54]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  CCth: CCth (Young)
+[09/17/2024 19:55]  System: That container cannot hold more items.
+[09/17/2024 19:55]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: MrFinch has completed the achievement: Wilderness Hunter (Intermediate).
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:55]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:55]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You fail to create a useful potion.
+[09/17/2024 19:56]  System: Alchemy skillgain: 2.500%
+[09/17/2024 19:56]  System: You have worn out your tool!
+[09/17/2024 19:56]  System: Lesser Magic Resist Potion (65.6/70.0 skill): You pour the potion into a bottle.
+[09/17/2024 19:56]  System: Lesser Magic Resist Potion: Unable to find crafting tool.
+[09/17/2024 19:56]  System: Crafting queue complete.
+[09/17/2024 19:56]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/17/2024 19:57]  SKALANCANA: SKALANCANA (Young)
+[09/17/2024 19:57]  TuVanDrop: TuVanDrop (Young)
+[09/17/2024 19:57]  System: The world will save in 15 seconds.
+[09/17/2024 19:57]  Sikula: [Private, AOG]
+[09/17/2024 19:57]  Sikula: Sikula
+[09/17/2024 19:57]  System: Sycho Sid has completed the achievement: Connoisseur (Basic).
+[09/17/2024 19:57]  System: The world is saving, please wait.
+[09/17/2024 19:57]  System: World save complete. The entire process took 2.6 seconds.
+[09/17/2024 19:58]  Leif Frostbane: Leif Frostbane (Young)
+[09/17/2024 19:58]  Bellum: Bellum (Young)
+[09/17/2024 19:58]  Black rabbit: Black rabbit
+[09/17/2024 19:58]  Black rabbit: Black rabbit
+[09/17/2024 19:58]  Brincak: Brincak (Young)
+[09/17/2024 19:59]  Brincak: bank
+[09/17/2024 19:59]  Corvidias: Corvidias (Young)
+[09/17/2024 20:00]  maria ozawa: [Recruit, CFC]
+[09/17/2024 20:00]  maria ozawa: Lady maria ozawa
+[09/17/2024 20:00]  Tratalak: Prevalia
+[09/17/2024 20:00]  Tratalak: [Private, AOG]
+[09/17/2024 20:00]  Tratalak: Tratalak
+[09/17/2024 20:00]  a horse: (tame)
+[09/17/2024 20:00]  a horse: a horse
+[09/17/2024 20:00]  Draven Ironclaw: Draven Ironclaw
+[09/17/2024 20:00]  Tratalak: Prevalia
+[09/17/2024 20:00]  Tratalak: [Private, AOG]
+[09/17/2024 20:00]  Tratalak: Tratalak
+[09/17/2024 20:00]  Brincak: bank
+[09/17/2024 20:00]  TuVanDrop: TuVanDrop (Young)
+[09/17/2024 20:00]  Fractio: [Runner, PKs]
+[09/17/2024 20:00]  Fractio: Fractio
+[09/17/2024 20:00]  Minthara: Minthara
+[09/17/2024 20:00]  Ganryu Musashi: Aegis Keep Hero
+[09/17/2024 20:00]  Ganryu Musashi: [General, Trin]
+[09/17/2024 20:00]  Ganryu Musashi: Lord Ganryu Musashi
+[09/17/2024 20:01]  Sorcn: [Prospect, DPS]
+[09/17/2024 20:01]  Sorcn: Sorcn
+[09/17/2024 20:01]  System: [DF] A Dungeon Flashpoint for Mount Petram has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/17/2024 20:01]  Sepphiroth: Legendarily Triggered
+[09/17/2024 20:01]  Sepphiroth: [Guilty as, Syn]
+[09/17/2024 20:01]  Sepphiroth: Lady Sepphiroth
+[09/17/2024 20:01]  Ursula Wiat: Ursula Wiat
+[09/17/2024 20:01]  System: Seven Deadly Sins (7n) guild has reached prestige level 248.
+[09/17/2024 20:02]  System: Tanisxx has completed the achievement: Order of Armorers Associate.
+[09/17/2024 20:02]  Santz: [Runner, PKs]
+[09/17/2024 20:02]  Santz: Santz (Young)
+[09/17/2024 20:02]  Untidy Joseph: Untidy Joseph
+[09/17/2024 20:03]  Auriell Sudall: Auriell Sudall
+[09/17/2024 20:03]  System: Fire YJ has completed the achievement: Blacksmith (Advanced).
+[09/17/2024 20:03]  Untidy Joseph: Untidy Joseph
+[09/17/2024 20:03]  a tern: (tame)
+[09/17/2024 20:03]  a tern: a tern
+[09/17/2024 20:03]  a magpie: (tame)
+[09/17/2024 20:03]  a magpie: a magpie
+[09/17/2024 20:03]  Ms Buns: [I love, Au]
+[09/17/2024 20:03]  Ms Buns: Lady Ms Buns
+[09/17/2024 20:04]  Auriell Sudall: Auriell Sudall
+[09/17/2024 20:04]  a tern: (tame)
+[09/17/2024 20:04]  a tern: a tern
+[09/17/2024 20:04]  a magpie: (tame)
+[09/17/2024 20:04]  a magpie: a magpie
+[09/17/2024 20:04]  Auriell Sudall: Auriell Sudall
+[09/17/2024 20:04]  Mithrildur: Mithrildur (Young)
+[09/17/2024 20:04]  a tern: (tame)
+[09/17/2024 20:04]  a tern: a tern
+[09/17/2024 20:04]  a magpie: (tame)
+[09/17/2024 20:04]  a magpie: a magpie
+[09/17/2024 20:04]  Auriell Sudall: bank
+[09/17/2024 20:04]  Len: Alas, my goods and services are only available to those with young player status.
+[09/17/2024 20:04]  Lyralei: Cavernam Legend
+[09/17/2024 20:04]  Lyralei: [Drow Queen, COE]
+[09/17/2024 20:04]  Lyralei: Lady Lyralei
+[09/17/2024 20:04]  TuVanDrop: TuVanDrop (Young)
+[09/17/2024 20:04]  Nahida: Nahida
+[09/17/2024 20:04]  Untidy Joseph: Untidy Joseph
+[09/17/2024 20:04]  Auriell Sudall: Auriell Sudall
+[09/17/2024 20:04]  Nahida: Nahida

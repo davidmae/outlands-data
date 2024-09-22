@@ -1,0 +1,124 @@
+@setvar! bank 3702
+@setvar! regtarget 3827
+@setvar! stopskill 70
+@setvar! regqty_to_craft 10
+@setvar! scroll_to_store 8025
+
+clearsysmsg 
+
+while not dead
+    
+    if insysmsg "dclicktype - Item or mobile type '4032' not found"
+        restock 2
+        wait 20000
+    endif
+    
+    dclicktype 4032
+    wait 500
+    gumpresponse 109
+    waitforgump 949095101
+    wait 500
+    
+    if findtype bank ground -1 -1 2 as bag
+            
+        if findtype scroll_to_store backpack -1 -1 1 as scroll
+            lift scroll 1
+            drop bag -1 -1 -1
+            wait 500
+        endif
+        
+    endif
+
+    if not findtype regtarget backpack -1 regqty_to_craft -1 
+        if findtype bank ground -1 -1 2 as bag
+        
+            if findtype regtarget bag -1 -1 -1 as regsbank
+                lift regsbank 50
+                drop backpack -1 -1 -1
+                wait 2500
+            endif
+            
+        endif
+    endif
+    
+    gumpresponse 9
+    waitforgump 949095101
+    wait 2000
+    gumpresponse 100
+    waitforgump 949095101
+    wait 2000
+    gumpresponse 204
+    waitforgump 949095101
+    waitforgump 949095101
+    wait 3000
+    gumpclose
+       # 
+#    gumpresponse 200
+#    waitforgump 949095101
+#    waitforgump 949095101
+#    wait 2000
+#    gumpresponse 201
+#    waitforgump 949095101
+#    waitforgump 949095101
+#    wait 2000
+#    gumpresponse 202
+#    waitforgump 949095101
+#    waitforgump 949095101
+#    wait 2000
+#    gumpresponse 203
+#    waitforgump 949095101
+#    waitforgump 949095101
+#    wait 2000
+#    gumpresponse 204
+#    waitforgump 949095101
+#    waitforgump 949095101
+#    wait 2000
+#    gumpresponse 205
+#    waitforgump 949095101
+#    waitforgump 949095101
+#    wait 2000
+#    gumpresponse 206
+#    waitforgump 949095101
+#    waitforgump 949095101
+#    wait 2000
+#    gumpresponse 207
+#    waitforgump 949095101
+#    waitforgump 949095101
+#    wait 2000
+    
+    
+#
+#    if skill 'alchemy' = stopskill
+#        gumpresponse 7
+#        waitforgump 453554062
+#        waitforgump 949095101
+#    endif
+#
+#    if findtype 3850 backpack -1 25 -1 as potis_poison
+#        lift potis_poison 25
+#        drop bank 80 105 0
+#        wait 500
+#        
+#        if insysmsg "That container cannot hold more items."
+#            lift potis_poison 25
+#            drop ground
+#            wait 500
+#        endif
+#    endif
+#
+#    if findtype 3846 backpack -1 25 -1 as potis_resist
+#        lift potis_resist 25
+#        drop bank 80 105 0
+#        wait 500
+#        
+#        if insysmsg "That container cannot hold more items."
+#            lift potis_resist 25
+#            drop ground
+#            wait 500
+#        endif
+#    endif
+    
+endwhile
+
+
+

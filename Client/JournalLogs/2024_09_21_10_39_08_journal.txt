@@ -1,0 +1,589 @@
+[09/21/2024 10:39]  System: WorldMap loading...
+[09/21/2024 10:39]  System: Loading WorldMap markers..
+[09/21/2024 10:39]  System: ..Banks_and_Healers.xml (39)
+[09/21/2024 10:39]  System: ..Dungeons.xml (13)
+[09/21/2024 10:39]  System: ..Dungeon_Gates.xml (388)
+[09/21/2024 10:39]  System: ..Healer_Caravans.xml (42)
+[09/21/2024 10:39]  System: ..Kings_Faire.xml (49)
+[09/21/2024 10:39]  System: ..Moongates.xml (10)
+[09/21/2024 10:39]  System: ..POI.xml (251)
+[09/21/2024 10:39]  System: ..PvP_Locations.xml (71)
+[09/21/2024 10:39]  System: ..Shrines.xml (9)
+[09/21/2024 10:39]  System: ..Sub-Dungeons.xml (4)
+[09/21/2024 10:39]  System: ..Townships.xml (10)
+[09/21/2024 10:39]  System: ..UOAM_Atlas.xml (1887)
+[09/21/2024 10:39]  System: ..UOAM_T-Map.xml (255)
+[09/21/2024 10:39]  System: ..UOAM_Treasure.xml (523)
+[09/21/2024 10:39]  System: WorldMap markers loaded (3551)
+[09/21/2024 10:39]  System: Welcome Poisoner!
+[09/21/2024 10:39]  System: WorldMap loaded!
+[09/21/2024 10:39]  Poisoner: Poisoner
+[09/21/2024 10:39]  Ailiin: [Ripe, SQzD]
+[09/21/2024 10:39]  Ailiin: Ailiin
+[09/21/2024 10:39]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/21/2024 10:39]  System: You must wait to perform another action.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Crafting queue begun.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (1/25 made): You pour the potion into a bottle.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:39]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:39]  System: Greater Heal Potion (2/25 made): You pour the potion into a bottle.
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:40]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:40]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:40]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:40]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:40]  System: Greater Heal Potion (3/25 made): You pour the potion into a bottle.
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:40]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:40]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:40]  System: Crafting queue stopped.
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:40]  System: Item added to queue.
+[09/21/2024 10:40]  You see: (Organizer 2 HotBag)
+[09/21/2024 10:40]  You see: bag
+[09/21/2024 10:40]  You see: [secure]
+[09/21/2024 10:40]  You see: (4 items, 30 stones)
+[09/21/2024 10:40]  System: That container cannot hold more weight.
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:40]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Your skill in Alchemy has increased by 0.1.  It is now 66.8.
+[09/21/2024 10:41]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:41]  System: Item added to queue.
+[09/21/2024 10:41]  System: That container cannot hold more weight.
+[09/21/2024 10:42]  System: Crafting queue begun.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (1 total crafted): You pour the potion into a bottle.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (2 total crafted): You pour the potion into a bottle.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (2 total crafted): You fail to create a useful potion.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (3 total crafted): You pour the potion into a bottle.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (4 total crafted): You pour the potion into a bottle.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (4 total crafted): You fail to create a useful potion.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (4 total crafted): You fail to create a useful potion.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (5 total crafted): You pour the potion into a bottle.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (6 total crafted): You pour the potion into a bottle.
+[09/21/2024 10:42]  System: Crafting queue stopped.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: You have worn out your tool!
+[09/21/2024 10:42]  You see: Lesser Magic Resist potion : 14
+[09/21/2024 10:42]  System: Crafting queue begun.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (0/40 made): You fail to create a useful potion.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (0/40 made): You fail to create a useful potion.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (1/40 made): You pour the potion into a bottle.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (2/40 made): You pour the potion into a bottle.
+[09/21/2024 10:42]  System: Luminant has completed the achievement: Alchemist (Advanced).
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (2/40 made): You fail to create a useful potion.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (3/40 made): You pour the potion into a bottle.
+[09/21/2024 10:42]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:42]  System: Lesser Magic Resist Potion (4/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (5/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Your skill in Alchemy has increased by 0.1.  It is now 66.9.
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (6/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (6/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (7/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (7/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (8/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (8/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: Friction has completed the achievement: Nature Slayer (Advanced).
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (9/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (9/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (9/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (10/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (10/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (11/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (11/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (12/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (12/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (13/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (13/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: El Seco has completed the achievement: Order of Armorers Dignitary.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (14/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (15/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (16/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (17/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (18/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (18/40 made): You fail to create a useful potion.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (19/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Yi Sun-sin has completed the achievement: Order of Armorers Associate.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (20/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (21/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (22/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (23/40 made): You pour the potion into a bottle.
+[09/21/2024 10:43]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:43]  System: Lesser Magic Resist Potion (24/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (25/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (26/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (27/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (27/40 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (28/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (29/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (29/40 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (30/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (31/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (32/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (33/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (33/40 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (34/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: zboss has completed the achievement: Versatility (Advanced).
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (35/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (36/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (37/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (38/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (39/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (39/40 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (39/40 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion (40/40 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Lesser Magic Resist Potion: 40 crafted complete.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Greater Heal Potion (0/25 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Greater Heal Potion (1/25 made): You pour the potion into a bottle.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.0.
+[09/21/2024 10:44]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:44]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:44]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.1.
+[09/21/2024 10:45]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (1/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.2.
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You pour the potion into a bottle.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: The world will save in 15 seconds.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (2/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (3/25 made): You pour the potion into a bottle.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: The world is saving, please wait.
+[09/21/2024 10:45]  System: World save complete. The entire process took 3.2 seconds.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:45]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:45]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.3.
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: You have worn out your tool!
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Shun has registered an antiquity: Glass Wand Shelf
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (3/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You pour the potion into a bottle.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:46]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:46]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (4/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.4.
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You pour the potion into a bottle.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Libi II has completed the achievement: Savant (Basic).
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.5.
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.6.
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:47]  System: VivaLaRevolution has completed the achievement: Tradesman Union Initiate.
+[09/21/2024 10:47]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:47]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (5/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You pour the potion into a bottle.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.7.
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.8.
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (6/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (7/25 made): You pour the potion into a bottle.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (7/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (7/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (8/25 made): You pour the potion into a bottle.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (8/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (8/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (8/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (8/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (8/25 made): You fail to create a useful potion.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (9/25 made): You pour the potion into a bottle.
+[09/21/2024 10:48]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:48]  System: Greater Heal Potion (10/25 made): You pour the potion into a bottle.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (10/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (10/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (10/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (10/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (10/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (10/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (10/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (10/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You pour the potion into a bottle.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Your skill in Alchemy has increased by 0.1.  It is now 67.9.
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: You have worn out your tool!
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (11/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You pour the potion into a bottle.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  System: Alchemy skillgain: 2.500%
+[09/21/2024 10:49]  System: Greater Heal Potion (12/25 made): You fail to create a useful potion.
+[09/21/2024 10:49]  [Razor]: Warning: Ginseng amount is now 2!
+[09/21/2024 10:49]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[09/21/2024 10:49]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[09/21/2024 10:49]  System: Crafting queue complete.
+[09/21/2024 10:50]  System: ANARKOS II has completed the achievement: Affluent (Advanced).
+[09/21/2024 10:50]  System: Shun has registered an antiquity: Cosmic
+[09/21/2024 10:52]  System: Total has completed the achievement: Savant (Epic).
+[09/21/2024 10:53]  System: Duygucuk has completed the achievement: Tradesman Union Associate.
+[09/21/2024 10:53]  System: Inga-Kritt has completed the achievement: Scientist (Basic).
+[09/21/2024 10:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/21/2024 10:59]  System: Yi Sun-sin has completed the achievement: Versatility (Advanced).
+[09/21/2024 10:59]  System: Darran has completed the achievement: Maester (Advanced).
+[09/21/2024 11:00]  System: [SR] A Stygian Rifts event has begun!
+[09/21/2024 11:00]  System: The world will save in 15 seconds.
+[09/21/2024 11:00]  System: The world is saving, please wait.
+[09/21/2024 11:00]  System: World save complete. The entire process took 3.2 seconds.
+[09/21/2024 11:02]  System: Trey. has completed the achievement: Artificers Enclave Dignitary.
+[09/21/2024 11:06]  System: Riddom has completed the achievement: Guardian of Kraul Hive (Intermediate).
+[09/21/2024 11:07]  System: Tayfun has completed the achievement: Affluent (Basic).
+[09/21/2024 11:08]  You see: Lesser Magic Resist potion : 25
+[09/21/2024 11:08]  You see: Lesser Magic Resist potion : 17
+[09/21/2024 11:08]  System: Crafting queue begun.
+[09/21/2024 11:08]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[09/21/2024 11:08]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[09/21/2024 11:08]  System: Crafting queue complete.
+[09/21/2024 11:09]  You see: Greater Heal potion : 15
+[09/21/2024 11:09]  System: You place the empty bottle in your backpack.

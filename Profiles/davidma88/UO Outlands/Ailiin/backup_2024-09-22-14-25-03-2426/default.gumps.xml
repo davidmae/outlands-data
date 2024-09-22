@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="1" matrix_h="3">
+		<gump type="7" x="1778" y="366" serial="1051" name="SplitGold" graphicId="11546" hideLabel="False" scale="1.2" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1778" y="392" serial="1042" name="DroopLoot" graphicId="11546" hideLabel="False" scale="1.2" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="1778" y="418" serial="1021" name="InfoItem" graphicId="11546" hideLabel="False" scale="1.2" matrix_x="0" matrix_y="2" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="7" x="401" y="9" serial="1006" name="Bow" graphicId="701" hideLabel="False" scale="2" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="445" y="9" serial="1007" name="Salute" graphicId="701" hideLabel="False" scale="2" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="3" matrix_h="1">
+		<gump type="7" x="1708" y="830" serial="1018" name="LastObject" graphicId="11546" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1797" y="830" serial="1026" name="TargetNearest" graphicId="11546" hideLabel="False" scale="1.4" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="1886" y="830" serial="1031" name="TargetNearest1" graphicId="11546" hideLabel="False" scale="1.4" matrix_x="2" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="7" x="1494" y="894" serial="1023" name="RestockBank" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1582" y="894" serial="1049" name="DressPVE#1" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="3" matrix_h="3">
+		<gump type="7" x="1796" y="797" serial="1017" name="Target Self" graphicId="11546" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="1885" y="797" serial="1016" name="Last Target" graphicId="11546" hideLabel="False" scale="1.4" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="3">
+		<gump type="16" x="429" y="428" serial="0" id="9" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="429" y="428" serial="0" id="9" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="429" y="472" serial="0" id="15" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="429" y="472" serial="0" id="15" matrix_x="1" matrix_y="1" />
+		<gump type="16" x="429" y="516" serial="0" id="22" matrix_x="0" matrix_y="2" />
+		<gump type="16" x="429" y="516" serial="0" id="22" matrix_x="1" matrix_y="2" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="7" x="21" y="729" serial="1053" name="Carve" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="21" y="773" serial="1044" name="ProvokeNearestAuto" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="109" y="773" serial="1043" name="DiscNearest2" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="1" matrix_h="3">
+		<gump type="7" x="497" y="1041" serial="1027" name="PeaceNearest" graphicId="4225" hideLabel="False" scale="0.4" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="497" y="1077" serial="1032" name="DiscNearest" graphicId="4227" hideLabel="False" scale="0.4" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="497" y="1077" serial="1036" name="ProvokNearest" graphicId="4228" hideLabel="False" scale="0.4" matrix_x="0" matrix_y="2" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="7" x="1602" y="275" serial="1046" name="BardBuff" graphicId="108" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1666" y="275" serial="1050" name="Stats" graphicId="355" hideLabel="False" scale="0.6" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<gump type="4" x="1141" y="6" serial="5891706" />
+	<gump type="9" x="1734" y="22" serial="5891706" isminimized="False" />
+	<gump type="21" x="1467" y="954" serial="0" />
+	<gump type="3" x="2004" y="7" serial="0" rows="27" columns="1" rectsize="40">
+		<controls>
+			<control graphic="3617" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="5370" hue="2799" key="119" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3852" hue="0" key="101" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3847" hue="0" key="114" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3846" hue="0" />
+			<control graphic="8901" hue="0" />
+			<control graphic="8012" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="7163" hue="0" />
+			<control graphic="3903" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="27538" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="11897" hue="0" />
+			<control graphic="11886" hue="0" />
+			<control graphic="11884" hue="0" />
+			<control graphic="8786" hue="0" />
+			<control graphic="24436" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3821" hue="0" />
+		</controls>
+	</gump>
+	<gump type="2" x="660" y="660" serial="1182295987" graphic="75" isminimized="False" />
+	<gump type="2" x="1664" y="456" serial="1547581360" graphic="60" isminimized="False" />
+	<gump type="10" x="1670" y="853" serial="0" isminimized="False" height="335" />
+	<gump type="1" x="1658" y="20" serial="0" graphic="30079" direction="0" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="7" x="1869" y="368" serial="1048" name="Terran" graphicId="236" hideLabel="False" scale="0.8" />
+	<gump type="24" x="978" y="28" serial="0" />
+	<gump type="8" x="491" y="-144" serial="0" isminimized="False" />
+	<gump type="5" x="1660" y="364" serial="1" />
+	<gump type="5" x="839" y="1" serial="0" />
+	<gump type="25" x="818" y="27" serial="0" entryname="skill" />
+	<gump type="16" x="1563" y="831" serial="0" id="1" />
+	<gump type="18" x="10" y="317" serial="0" />
+	<gump type="6" x="18" y="844" serial="0" />
+</gumps>

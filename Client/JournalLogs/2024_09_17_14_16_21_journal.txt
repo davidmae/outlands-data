@@ -1,0 +1,671 @@
+[09/17/2024 14:16]  System: WorldMap loading...
+[09/17/2024 14:16]  System: Loading WorldMap markers..
+[09/17/2024 14:16]  System: ..Banks_and_Healers.xml (39)
+[09/17/2024 14:16]  System: ..Dungeons.xml (13)
+[09/17/2024 14:16]  System: ..Dungeon_Gates.xml (388)
+[09/17/2024 14:16]  System: ..Healer_Caravans.xml (42)
+[09/17/2024 14:16]  System: ..Kings_Faire.xml (49)
+[09/17/2024 14:16]  System: ..Moongates.xml (10)
+[09/17/2024 14:16]  System: ..POI.xml (251)
+[09/17/2024 14:16]  System: ..PvP_Locations.xml (71)
+[09/17/2024 14:16]  System: ..Shrines.xml (9)
+[09/17/2024 14:16]  System: ..Sub-Dungeons.xml (4)
+[09/17/2024 14:16]  System: ..Townships.xml (10)
+[09/17/2024 14:16]  System: ..UOAM_Atlas.xml (1887)
+[09/17/2024 14:16]  System: ..UOAM_T-Map.xml (255)
+[09/17/2024 14:16]  System: ..UOAM_Treasure.xml (523)
+[09/17/2024 14:16]  System: WorldMap markers loaded (3551)
+[09/17/2024 14:16]  System: Welcome Ailiin!
+[09/17/2024 14:16]  System: WorldMap loaded!
+[09/17/2024 14:16]  System: Your food satisfaction effect has expired.
+[09/17/2024 14:16]  Ailiin: Ailiin
+[09/17/2024 14:16]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/17/2024 14:16]  You see: eminently melodious gemshorn
+[09/17/2024 14:16]  You see: (224/500 uses remaining)
+[09/17/2024 14:17]  System: The world will save in 15 seconds.
+[09/17/2024 14:17]  System: The world is saving, please wait.
+[09/17/2024 14:17]  System: World save complete. The entire process took 2.7 seconds.
+[09/17/2024 14:17]  System: Carma has completed the achievement: Wilderness Hunter (Intermediate).
+[09/17/2024 14:18]  Ailiin: Ailiin
+[09/17/2024 14:18]  System: Skillgain chances will no longer be displayed.
+[09/17/2024 14:18]  Ailiin: Ailiin
+[09/17/2024 14:18]  System: Skillgain chances will now be displayed.
+[09/17/2024 14:18]  Ailiin: Ailiin
+[09/17/2024 14:19]  System: Holy symbols remaining: 5/10
+[09/17/2024 14:19]  Razor: [+Paralyze (0s)]
+[09/17/2024 14:19]  Razor: [-Paralyze (s)]
+[09/17/2024 14:19]  Razor: [+Paralyze (0s)]
+[09/17/2024 14:19]  System: You are no longer hindered.
+[09/17/2024 14:19]  Razor: [-Paralyze (s)]
+[09/17/2024 14:19]  System: You are now under the protection of the town guards.
+[09/17/2024 14:19]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 14:19]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 14:19]  Razor: Steps: 0
+[09/17/2024 14:19]  Davit de Nantuil: [Adventurer, Tale]
+[09/17/2024 14:19]  Davit de Nantuil: Davit de Nantuil
+[09/17/2024 14:19]  Zara: Zara the scribe
+[09/17/2024 14:19]  Sherwin: Sherwin the mage
+[09/17/2024 14:19]  Kasinda: Kasinda the alchemist
+[09/17/2024 14:19]  Banjogath: Banjogath
+[09/17/2024 14:19]  Kenelm: Kenelm the tavern keeper
+[09/17/2024 14:19]  Zann: Zann the Necromancer
+[09/17/2024 14:19]  Jordan: Jordan the beggar
+[09/17/2024 14:19]  Rosaline: Rosaline the waiter
+[09/17/2024 14:19]  Bernie Panders: Bernie Panders
+[09/17/2024 14:19]  Canton: Canton the battle trainer
+[09/17/2024 14:19]  RowdyGats: RowdyGats (Young)
+[09/17/2024 14:19]  BarryMcCokiner: BarryMcCokiner
+[09/17/2024 14:19]  noKemoH: noKemoH
+[09/17/2024 14:19]  Balbakahs: Balbakahs (Young)
+[09/17/2024 14:19]  Nimes: Nimes (Young)
+[09/17/2024 14:19]  Don Juan Valdez: Don Juan Valdez (Young)
+[09/17/2024 14:19]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 14:19]  System: WorldMap loaded!
+[09/17/2024 14:19]  a crow: *released*
+[09/17/2024 14:19]  a crow: a crow
+[09/17/2024 14:19]  Carlton: Carlton the stablemaster
+[09/17/2024 14:19]  Siboire: Knight [Prevalia]
+[09/17/2024 14:19]  Siboire: [Omelette du fromage, LDS]
+[09/17/2024 14:19]  Siboire: Siboire
+[09/17/2024 14:19]  Supiwork: Supiwork (Young)
+[09/17/2024 14:19]  Shady Records: Shady Records (Young)
+[09/17/2024 14:19]  Bly: Bly the fisherman
+[09/17/2024 14:19]  Elerinna: [La Recruteuse, LDS]
+[09/17/2024 14:19]  Elerinna: Elerinna
+[09/17/2024 14:19]  LegendeLDS: (tame)
+[09/17/2024 14:19]  LegendeLDS: LegendeLDS
+[09/17/2024 14:19]  MassacreurLDS: (tame)
+[09/17/2024 14:19]  MassacreurLDS: MassacreurLDS
+[09/17/2024 14:19]  MagiciensLDS: (tame)
+[09/17/2024 14:19]  MagiciensLDS: MagiciensLDS
+[09/17/2024 14:19]  GuerrierLDS: (tame)
+[09/17/2024 14:19]  GuerrierLDS: GuerrierLDS
+[09/17/2024 14:19]  poonstar: [PWNHALLA VENDOR MALL, Syn]
+[09/17/2024 14:19]  poonstar: poonstar
+[09/17/2024 14:19]  MaitreLDS: (tame)
+[09/17/2024 14:19]  MaitreLDS: MaitreLDS
+[09/17/2024 14:19]  Red XIII: [Recruiting Ossifer, T^C]
+[09/17/2024 14:19]  Red XIII: Red XIII
+[09/17/2024 14:19]  Elerinna: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[09/17/2024 14:19]  Lene: Lene the salvage foreman
+[09/17/2024 14:19]  Tai: Tai the fisherman
+[09/17/2024 14:19]  Jayne: Jayne the innkeeper
+[09/17/2024 14:19]  Rivendal: Rivendal
+[09/17/2024 14:19]  Colon: Colon the Town Crier
+[09/17/2024 14:19]  Tresor: [Le Francais, LEET]
+[09/17/2024 14:19]  Tresor: Lord Tresor
+[09/17/2024 14:19]  Alicia: Alicia the tavern keeper
+[09/17/2024 14:19]  Giles: Giles the thief
+[09/17/2024 14:19]  Dusty: Dusty the cook
+[09/17/2024 14:19]  Jake: Jake the barkeep
+[09/17/2024 14:19]  Len: Len the banker
+[09/17/2024 14:19]  Ayisha: Ayisha the weaponsmith
+[09/17/2024 14:19]  Jolanta: Jolanta the Paladin
+[09/17/2024 14:19]  Davit de Nantuil:  Join The Adventurers League [Tale] today.....
+[09/17/2024 14:19]  Meg: Meg the bowyer
+[09/17/2024 14:19]  Dane: Dane the farmer
+[09/17/2024 14:19]  a sheep: a sheep
+[09/17/2024 14:19]  a sheep: a sheep
+[09/17/2024 14:19]  Amadis: Amadis the armorer
+[09/17/2024 14:19]  a sheep: a sheep
+[09/17/2024 14:19]  a sheep: a sheep
+[09/17/2024 14:19]  Tresor: Contact @tedo54, @telyne, @Ape In Space sur le discord.
+[09/17/2024 14:19]  Shady Records: Shady Records (Young)
+[09/17/2024 14:19]  System: Max holy symbols earned (10/10)
+[09/17/2024 14:19]  Poisoner: Poisoner (Young)
+[09/17/2024 14:19]  Supiwork: Supiwork (Young)
+[09/17/2024 14:19]  Tresor: hé salut nouvel aventurier! 
+[09/17/2024 14:19]  Tresor: Tu cherche une guilde active familliale et efficace pour conquerir les terres lointaines?
+[09/17/2024 14:19]  Tresor: Rejoins LEET, une guilde 100% Fr/Qc,
+[09/17/2024 14:19]  a pack horse: (tame)
+[09/17/2024 14:19]  a pack horse: [0/2000 stones]
+[09/17/2024 14:19]  a pack horse: a pack horse
+[09/17/2024 14:19]  SloppyDroppy: [Ratman Elite, RAT]
+[09/17/2024 14:19]  SloppyDroppy: SloppyDroppy
+[09/17/2024 14:19]  Tresor: une guilde avec des membres pret à partager leurs connaissances et à se lancer ensemble dans des aventures épiques. 
+[09/17/2024 14:19]  Tresor: Contact @tedo54, @telyne, @Ape In Space sur le discord.
+[09/17/2024 14:19]  Poisoner: Bank Vendor buy
+[09/17/2024 14:19]  Poisoner: Room
+[09/17/2024 14:20]  Tresor: hé salut nouvel aventurier! 
+[09/17/2024 14:20]  Shady Records: Shady Records (Young)
+[09/17/2024 14:20]  Tresor: Tu cherche une guilde active familliale et efficace pour conquerir les terres lointaines?
+[09/17/2024 14:20]  Tresor: Rejoins LEET, une guilde 100% Fr/Qc,
+[09/17/2024 14:20]  Tresor: une guilde avec des membres pret à partager leurs connaissances et à se lancer ensemble dans des aventures épiques. 
+[09/17/2024 14:20]  Saka Souffle: [piss on me, beat me, Syn]
+[09/17/2024 14:20]  Saka Souffle: Lord Saka Souffle
+[09/17/2024 14:20]  Shady Records: Shady Records (Young)
+[09/17/2024 14:20]  Tresor: Contact @tedo54, @telyne, @Ape In Space sur le discord.
+[09/17/2024 14:20]  Tresor: hé salut nouvel aventurier! 
+[09/17/2024 14:20]  Tresor: Tu cherche une guilde active familliale et efficace pour conquerir les terres lointaines?
+[09/17/2024 14:20]  Siboire: @samxsnow // @idrielle // @youpietlefou // @nibelheim
+[09/17/2024 14:20]  Shady Records: Shady Records (Young)
+[09/17/2024 14:20]  Meg: Meg the bowyer
+[09/17/2024 14:20]  Tresor: Rejoins LEET, une guilde 100% Fr/Qc,
+[09/17/2024 14:20]  You see: surpassingly accurate might lyric aspect pistol crossbow
+[09/17/2024 14:21]  a sheep: a sheep
+[09/17/2024 14:21]  Siboire: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[09/17/2024 14:21]  Tresor: une guilde avec des membres pret à partager leurs connaissances et à se lancer ensemble dans des aventures épiques. 
+[09/17/2024 14:21]  poonstar: [PWNHALLA VENDOR MALL, Syn]
+[09/17/2024 14:21]  poonstar: poonstar
+[09/17/2024 14:21]  a crow: *released*
+[09/17/2024 14:21]  a crow: a crow
+[09/17/2024 14:21]  Tresor: Contact @tedo54, @telyne, @Ape In Space sur le discord.
+[09/17/2024 14:21]  Siboire: ■ Outland est bien different des autres serveurs, laisse nous te guider dans ton nouveau départ! 
+[09/17/2024 14:21]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 14:21]  System: You are now under the effect of a Song of Peacemaking (6.4% healing amounts for 15 minutes).
+[09/17/2024 14:21]  Razor: [+Song of Peacemaking (900s)]
+[09/17/2024 14:21]  a sheep: a sheep
+[09/17/2024 14:21]  Shady Records: Shady Records (Young)
+[09/17/2024 14:21]  Siboire: ■ Des événements hebdomadaires pour du loot garantie ! 
+[09/17/2024 14:21]  Tresor: hé salut nouvel aventurier! 
+[09/17/2024 14:21]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[09/17/2024 14:21]  System: You are now under the effect of a Song of Discordance (6.4% reduced damage from creatures for 15 minutes).
+[09/17/2024 14:21]  Razor: [+Song of Discordance (900s)]
+[09/17/2024 14:21]  Tresor: Tu cherche une guilde active familliale et efficace pour conquerir les terres lointaines?
+[09/17/2024 14:21]  Siboire: Bienvenu sur outland! tu recherche une guild FR/QC?
+[09/17/2024 14:21]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 14:21]  System: You must wait a few moments before performing another barding song.
+[09/17/2024 14:21]  Siboire: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[09/17/2024 14:21]  Tresor: Rejoins LEET, une guilde 100% Fr/Qc,
+[09/17/2024 14:21]  Siboire: @samxsnow // @idrielle // @youpietlefou // @nibelheim
+[09/17/2024 14:21]  System: Holy symbols remaining: 5/10
+[09/17/2024 14:21]  Razor: [+Paralyze (0s)]
+[09/17/2024 14:21]  Razor: [-Paralyze (s)]
+[09/17/2024 14:21]  System: You are no longer hindered.
+[09/17/2024 14:21]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 14:21]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 14:21]  Razor: Steps: 0
+[09/17/2024 14:21]  Brandi: Brandi the banker
+[09/17/2024 14:21]  Tom the roofer: Tom the roofer
+[09/17/2024 14:21]  a desert ostard: (bonded)
+[09/17/2024 14:21]  a desert ostard: a desert ostard
+[09/17/2024 14:21]  a dog: a dog
+[09/17/2024 14:21]  Galatea: Galatea the healer
+[09/17/2024 14:21]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 14:21]  Arbor the tree: Legendary Carpenter
+[09/17/2024 14:21]  Arbor the tree: [Ancient, Oak]
+[09/17/2024 14:21]  Arbor the tree: Lord Arbor the tree
+[09/17/2024 14:21]  a dog: a dog
+[09/17/2024 14:21]  Pierce: Pierce the tailor
+[09/17/2024 14:21]  Ivar: Ivar the jeweler
+[09/17/2024 14:21]  Alonzo: Alonzo the tinker
+[09/17/2024 14:21]  a dog: a dog
+[09/17/2024 14:21]  Ravi: Ravi the Town Crier
+[09/17/2024 14:21]  a cat: a cat
+[09/17/2024 14:21]  Asta: Asta the mage
+[09/17/2024 14:21]  Donnelly: Donnelly the scribe
+[09/17/2024 14:21]  Adena: Adena the alchemist
+[09/17/2024 14:21]  K v o t h e: K v o t h e
+[09/17/2024 14:21]  a pack llama: (tame)
+[09/17/2024 14:21]  a pack llama: [1199/2000 stones]
+[09/17/2024 14:21]  a pack llama: a pack llama
+[09/17/2024 14:21]  Pale Dim: [L'Ombre Blanche, LDS]
+[09/17/2024 14:21]  Pale Dim: Lady Pale Dim
+[09/17/2024 14:21]  Lunt: Lunt the herbalist
+[09/17/2024 14:21]  System: Opening door...
+[09/17/2024 14:21]  Lunt: Lunt the herbalist
+[09/17/2024 14:21]  Lunt: Greetings.  Have a look around.
+[09/17/2024 14:21]  a dog: a dog
+[09/17/2024 14:21]  Adena: Adena the alchemist
+[09/17/2024 14:21]  Adena: Greetings.  Have a look around.
+[09/17/2024 14:21]  a dog: a dog
+[09/17/2024 14:21]  System: Max holy symbols earned (10/10)
+[09/17/2024 14:22]  Eldryy: (bonded)
+[09/17/2024 14:22]  Eldryy: Eldryy
+[09/17/2024 14:22]  Mia Jul: Boss Slayer
+[09/17/2024 14:22]  Mia Jul: [HiTi]
+[09/17/2024 14:22]  Mia Jul: Lady Mia Jul
+[09/17/2024 14:22]  System: Holy symbols remaining: 5/10
+[09/17/2024 14:22]  Razor: [+Paralyze (0s)]
+[09/17/2024 14:22]  Razor: [-Paralyze (s)]
+[09/17/2024 14:22]  System: You are no longer hindered.
+[09/17/2024 14:22]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 14:22]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 14:22]  Razor: Steps: 0
+[09/17/2024 14:22]  Caron: Caron the armorer
+[09/17/2024 14:22]  Candida: Candida the miner
+[09/17/2024 14:22]  Lev: Lev the fisherman
+[09/17/2024 14:22]  everynight: everynight
+[09/17/2024 14:22]  Bob the Babtist: Bob the Babtist
+[09/17/2024 14:22]  Kaili: Kaili the blacksmith
+[09/17/2024 14:22]  Trind: Trind the banker
+[09/17/2024 14:22]  Chapman: Chapman the real estate broker
+[09/17/2024 14:22]  Cam: Cam the Town Crier
+[09/17/2024 14:22]  Mercan: Transmuter
+[09/17/2024 14:22]  Mercan: Mercan
+[09/17/2024 14:22]  Jacinda: Jacinda the healer
+[09/17/2024 14:22]  Nanaimo Bar: Professional
+[09/17/2024 14:22]  Nanaimo Bar: [BOSS]
+[09/17/2024 14:22]  Nanaimo Bar: Nanaimo Bar
+[09/17/2024 14:22]  General Disaster: General Disaster
+[09/17/2024 14:22]  Burger Pizza: Burger Pizza
+[09/17/2024 14:22]  Claire: Claire the baker
+[09/17/2024 14:22]  Gerik: Gerik the cook
+[09/17/2024 14:22]  YeBo YeBo: [-_-]
+[09/17/2024 14:22]  YeBo YeBo: Lady YeBo YeBo
+[09/17/2024 14:22]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 14:22]  Bitalo: Bitalo the beggar
+[09/17/2024 14:22]  Takiyah: Takiyah the carpenter
+[09/17/2024 14:22]  Cayla: Cayla the mage
+[09/17/2024 14:22]  Zaide: Zaide the tinker
+[09/17/2024 14:22]  Yesmina: Yesmina the bard
+[09/17/2024 14:22]  Migina: Migina the provisioner
+[09/17/2024 14:22]  Opulence: Enhanced
+[09/17/2024 14:22]  Opulence: [Boo!wip, HiTi]
+[09/17/2024 14:22]  Opulence: Lady Opulence
+[09/17/2024 14:22]  Matana: Matana the innkeeper
+[09/17/2024 14:22]  Tertia: Tertia the bowyer
+[09/17/2024 14:22]  Jacelyn: Jacelyn the scribe
+[09/17/2024 14:22]  Like: Like the tavern keeper
+[09/17/2024 14:22]  Camelia: Camelia the jeweler
+[09/17/2024 14:22]  Deva: Deva the waiter
+[09/17/2024 14:22]  Maria: Maria the architect
+[09/17/2024 14:22]  Braden: Braden the tailor
+[09/17/2024 14:22]  Rusty: Rusty the farmer
+[09/17/2024 14:22]  Townsend: Townsend the alchemist
+[09/17/2024 14:22]  Ridgley: Ridgley the tanner
+[09/17/2024 14:22]  Hiroshi: Hiroshi the butcher
+[09/17/2024 14:22]  a brown bear: a brown bear
+[09/17/2024 14:22]  Townsend: Townsend the alchemist
+[09/17/2024 14:22]  Townsend: Greetings.  Have a look around.
+[09/17/2024 14:22]  Don Kisot: Don Kisot
+[09/17/2024 14:22]  Beleno: Beleno
+[09/17/2024 14:22]  Townsend: The total of thy purchase is 4995 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[09/17/2024 14:22]  Beleno: Kal Ort Por
+[09/17/2024 14:22]  a llama: (bonded)
+[09/17/2024 14:22]  a llama: a llama
+[09/17/2024 14:22]  a wolf: (tame)
+[09/17/2024 14:22]  a wolf: a wolf
+[09/17/2024 14:22]  a cougar: (tame)
+[09/17/2024 14:22]  a cougar: a cougar
+[09/17/2024 14:22]  a wolf: (tame)
+[09/17/2024 14:22]  a wolf: a wolf
+[09/17/2024 14:22]  a brown bear: (tame)
+[09/17/2024 14:22]  a brown bear: a brown bear
+[09/17/2024 14:22]  a llama: (tame)
+[09/17/2024 14:22]  a llama: a llama
+[09/17/2024 14:22]  System: You must wait another 8 seconds before you may use that ability again.
+[09/17/2024 14:22]  System: Max holy symbols earned (10/10)
+[09/17/2024 14:22]  You see: bottle : 1142
+[09/17/2024 14:22]  Jacinda: Jacinda the healer
+[09/17/2024 14:22]  System: You must wait another 1 second before you may use that ability again.
+[09/17/2024 14:22]  System: Holy symbols remaining: 5/10
+[09/17/2024 14:22]  Razor: [+Paralyze (0s)]
+[09/17/2024 14:22]  System: You are no longer hindered.
+[09/17/2024 14:22]  Razor: [-Paralyze (s)]
+[09/17/2024 14:22]  YeBo YeBo: [-_-]
+[09/17/2024 14:22]  YeBo YeBo: Lady YeBo YeBo
+[09/17/2024 14:22]  a brown bear: a brown bear
+[09/17/2024 14:22]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 14:22]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 14:22]  Razor: Steps: 0
+[09/17/2024 14:22]  Shina: Shina the cobbler
+[09/17/2024 14:22]  a cat: a cat
+[09/17/2024 14:22]  Rosa: Rosa the miner
+[09/17/2024 14:22]  a cat: a cat
+[09/17/2024 14:22]  a cat: a cat
+[09/17/2024 14:22]  a fisherman: a fisherman
+[09/17/2024 14:22]  Wynona: Wynona the dockmaster
+[09/17/2024 14:22]  a cat: a cat
+[09/17/2024 14:22]  Balder: Balder the salvage foreman
+[09/17/2024 14:22]  a drow crewman: a drow crewman
+[09/17/2024 14:22]  a drow captain: a drow captain
+[09/17/2024 14:22]  a drow crewman: a drow crewman
+[09/17/2024 14:22]  a drow crewman: a drow crewman
+[09/17/2024 14:22]  a drow crewman: a drow crewman
+[09/17/2024 14:22]  a drow crewman: a drow crewman
+[09/17/2024 14:22]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 14:22]  Shina: Shina the cobbler
+[09/17/2024 14:22]  Rosa: Rosa the miner
+[09/17/2024 14:22]  Davin: Davin the architect
+[09/17/2024 14:22]  System: Proboszcz has completed the achievement: Triggered (Basic).
+[09/17/2024 14:22]  a cat: a cat
+[09/17/2024 14:22]  Khoury: Khoury the weaponsmith
+[09/17/2024 14:22]  Lari: Lari the armorer
+[09/17/2024 14:22]  a cat: a cat
+[09/17/2024 14:22]  Patsy: Patsy the real estate broker
+[09/17/2024 14:22]  Marsha: Marsha the provisioner
+[09/17/2024 14:22]  Dane: Dane the mapmaker
+[09/17/2024 14:22]  a cat: a cat
+[09/17/2024 14:22]  Guy: Guy the blacksmith
+[09/17/2024 14:22]  Jafar: Jafar the baker
+[09/17/2024 14:22]  Nona: Nona the cook
+[09/17/2024 14:22]  a cat: a cat
+[09/17/2024 14:22]  a dog: a dog
+[09/17/2024 14:22]  Zara: Zara the cook
+[09/17/2024 14:22]  Tadi: Tadi the barkeep
+[09/17/2024 14:22]  Dacey: Dacey the waiter
+[09/17/2024 14:22]  Brandi: Brandi the banker
+[09/17/2024 14:22]  Arbor the tree: Legendary Carpenter
+[09/17/2024 14:22]  Arbor the tree: [Ancient, Oak]
+[09/17/2024 14:22]  Arbor the tree: Lord Arbor the tree
+[09/17/2024 14:22]  Cora: Cora the carpenter
+[09/17/2024 14:22]  Ravi: Ravi the Town Crier
+[09/17/2024 14:22]  Callidora: Callidora the tavern keeper
+[09/17/2024 14:22]  a cat: a cat
+[09/17/2024 14:23]  a dog: a dog
+[09/17/2024 14:23]  a dog: a dog
+[09/17/2024 14:23]  a cat: a cat
+[09/17/2024 14:23]  Donnelly: Donnelly the scribe
+[09/17/2024 14:23]  Thurston: Thurston the waiter
+[09/17/2024 14:23]  a dog: a dog
+[09/17/2024 14:23]  Denton: Denton the innkeeper
+[09/17/2024 14:23]  Renee: Renee the stablemaster
+[09/17/2024 14:23]  Keara: Keara the stablemaster
+[09/17/2024 14:23]  a goat: a goat
+[09/17/2024 14:23]  a dog: a dog
+[09/17/2024 14:23]  Ailiin: Bank Vendor buy
+[09/17/2024 14:23]  a cat: a cat
+[09/17/2024 14:23]  Ailiin: Room
+[09/17/2024 14:23]  System: You have left the protection of the town guards.
+[09/17/2024 14:23]  System: You enter the rental room.
+[09/17/2024 14:23]  System: WorldMap loaded!
+[09/17/2024 14:23]  : wooden planks
+[09/17/2024 14:23]  You see: lesser paragon chest (brackish water)
+[09/17/2024 14:23]  You see: [secure]
+[09/17/2024 14:23]  You see: (49 items, 248 stones)
+[09/17/2024 14:23]  System: Max holy symbols earned (10/10)
+[09/17/2024 14:23]  System: Holy symbols remaining: 5/10
+[09/17/2024 14:23]  Razor: [+Paralyze (0s)]
+[09/17/2024 14:23]  Razor: [-Paralyze (s)]
+[09/17/2024 14:23]  System: You are no longer hindered.
+[09/17/2024 14:23]  System: You are now under the protection of the town guards.
+[09/17/2024 14:23]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 14:23]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 14:23]  Razor: Steps: 0
+[09/17/2024 14:23]  Fuller: Fuller the barkeep
+[09/17/2024 14:23]  Jayne: Jayne the innkeeper
+[09/17/2024 14:23]  Siboire: Knight [Prevalia]
+[09/17/2024 14:23]  Siboire: [Omelette du fromage, LDS]
+[09/17/2024 14:23]  Siboire: Siboire
+[09/17/2024 14:23]  Carlton: Carlton the stablemaster
+[09/17/2024 14:23]  Zara: Zara the scribe
+[09/17/2024 14:23]  Sherwin: Sherwin the mage
+[09/17/2024 14:23]  Kasinda: Kasinda the alchemist
+[09/17/2024 14:23]  Banjogath: Banjogath
+[09/17/2024 14:23]  Kenelm: Kenelm the tavern keeper
+[09/17/2024 14:23]  Zann: Zann the Necromancer
+[09/17/2024 14:23]  Rosaline: Rosaline the waiter
+[09/17/2024 14:23]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 14:23]  Davit de Nantuil: [Adventurer, Tale]
+[09/17/2024 14:23]  Davit de Nantuil: Davit de Nantuil
+[09/17/2024 14:23]  System: WorldMap loaded!
+[09/17/2024 14:23]  a crow: *released*
+[09/17/2024 14:23]  a crow: a crow
+[09/17/2024 14:23]  Jordan: Jordan the beggar
+[09/17/2024 14:23]  Supiwork: Supiwork (Young)
+[09/17/2024 14:23]  Shady Records: Shady Records (Young)
+[09/17/2024 14:23]  Bly: Bly the fisherman
+[09/17/2024 14:23]  Elerinna: [La Recruteuse, LDS]
+[09/17/2024 14:23]  Elerinna: Elerinna
+[09/17/2024 14:23]  LegendeLDS: (tame)
+[09/17/2024 14:23]  LegendeLDS: LegendeLDS
+[09/17/2024 14:23]  MassacreurLDS: (tame)
+[09/17/2024 14:23]  MassacreurLDS: MassacreurLDS
+[09/17/2024 14:23]  MagiciensLDS: (tame)
+[09/17/2024 14:23]  MagiciensLDS: MagiciensLDS
+[09/17/2024 14:23]  GuerrierLDS: (tame)
+[09/17/2024 14:23]  GuerrierLDS: GuerrierLDS
+[09/17/2024 14:23]  poonstar: [PWNHALLA VENDOR MALL, Syn]
+[09/17/2024 14:23]  poonstar: poonstar
+[09/17/2024 14:23]  MaitreLDS: (tame)
+[09/17/2024 14:23]  MaitreLDS: MaitreLDS
+[09/17/2024 14:23]  TRAVKA: TRAVKA
+[09/17/2024 14:23]  Red XIII: [Recruiting Ossifer, T^C]
+[09/17/2024 14:23]  Red XIII: Red XIII
+[09/17/2024 14:23]  Elerinna: ■ Des événements hebdomadaires pour du loot garantie ! 
+[09/17/2024 14:23]  Tai: Tai the fisherman
+[09/17/2024 14:23]  Lene: Lene the salvage foreman
+[09/17/2024 14:23]  Colon: Colon the Town Crier
+[09/17/2024 14:23]  Tresor: [Le Francais, LEET]
+[09/17/2024 14:23]  Tresor: Lord Tresor
+[09/17/2024 14:23]  Giles: Giles the thief
+[09/17/2024 14:23]  Alicia: Alicia the tavern keeper
+[09/17/2024 14:23]  Dusty: Dusty the cook
+[09/17/2024 14:23]  Siboire: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[09/17/2024 14:23]  Poisoner: Poisoner (Young)
+[09/17/2024 14:23]  Jake: Jake the barkeep
+[09/17/2024 14:23]  Len: Len the banker
+[09/17/2024 14:23]  Jolanta: Jolanta the Paladin
+[09/17/2024 14:23]  Ayisha: Ayisha the weaponsmith
+[09/17/2024 14:23]  Meg: Meg the bowyer
+[09/17/2024 14:23]  Cincischione: Cincischione (Young)
+[09/17/2024 14:23]  a sheep: a sheep
+[09/17/2024 14:23]  Amadis: Amadis the armorer
+[09/17/2024 14:23]  Dane: Dane the farmer
+[09/17/2024 14:23]  a sheep: a sheep
+[09/17/2024 14:23]  a sheep: a sheep
+[09/17/2024 14:23]  a sheep: a sheep
+[09/17/2024 14:23]  a pack horse: (tame)
+[09/17/2024 14:23]  a pack horse: [2000/2000 stones]
+[09/17/2024 14:23]  a pack horse: a pack horse
+[09/17/2024 14:23]  PollyPrissyPants: [Cat Food, RAT]
+[09/17/2024 14:23]  PollyPrissyPants: PollyPrissyPants
+[09/17/2024 14:23]  The Love Boat: Captain
+[09/17/2024 14:23]  The Love Boat: Lady The Love Boat
+[09/17/2024 14:23]  The Love Boat: Captain
+[09/17/2024 14:23]  The Love Boat: Lady The Love Boat
+[09/17/2024 14:23]  poonstar: [PWNHALLA VENDOR MALL, Syn]
+[09/17/2024 14:23]  poonstar: poonstar
+[09/17/2024 14:23]  Meg: Meg the bowyer
+[09/17/2024 14:23]  a crow: *released*
+[09/17/2024 14:23]  a crow: a crow
+[09/17/2024 14:23]  Davit de Nantuil: [Adventurer, Tale]
+[09/17/2024 14:23]  Davit de Nantuil: Davit de Nantuil
+[09/17/2024 14:23]  TRAVKA: TRAVKA
+[09/17/2024 14:23]  Siboire: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[09/17/2024 14:23]  Valgardson: Valgardson (Young)
+[09/17/2024 14:23]  Chane: Chane the carpenter
+[09/17/2024 14:23]  Tresor: hé salut nouvel aventurier! 
+[09/17/2024 14:23]  poonstar: PWNHALLA Vendors Vendor Mall by Pwnstarr Gaming!
+[09/17/2024 14:23]  Shady Records: Shady Records (Young)
+[09/17/2024 14:23]  poonstar: There are a few vendor spots still open! Please clothe yourself as a shirtless orc and DM Pwnstarr85 to let him know you placed
+[09/17/2024 14:23]  System: Max holy symbols earned (10/10)
+[09/17/2024 14:23]  TRAVKA: TRAVKA
+[09/17/2024 14:23]  Bilal: Bilal the blacksmith
+[09/17/2024 14:23]  Red XIII: [Recruiting Ossifer, T^C]
+[09/17/2024 14:23]  Red XIII: Red XIII
+[09/17/2024 14:23]  Julia Childs: Julia Childs
+[09/17/2024 14:23]  Wijdan: Wijdan the mapmaker
+[09/17/2024 14:23]  Komor: Komor the tanner
+[09/17/2024 14:23]  Kamali: Kamali the butcher
+[09/17/2024 14:23]  a nuthatch: a nuthatch
+[09/17/2024 14:23]  a magpie: a magpie
+[09/17/2024 14:23]  Saxon: Saxon the lumberjack
+[09/17/2024 14:23]  a tern: a tern
+[09/17/2024 14:23]  Ardith: Ardith the tailor
+[09/17/2024 14:23]  CCth: CCth (Young)
+[09/17/2024 14:23]  Subrey: Subrey the provisioner
+[09/17/2024 14:23]  Cincischione: Cincischione (Young)
+[09/17/2024 14:23]  Selina: Selina the jeweler
+[09/17/2024 14:23]  Crystal: Crystal the tinker
+[09/17/2024 14:23]  Lys: Treasure Hunter
+[09/17/2024 14:23]  Lys: Lady Lys
+[09/17/2024 14:23]  Wanda: Wanda the blacksmith
+[09/17/2024 14:23]  AskChopper.: Mythical Engineer
+[09/17/2024 14:23]  AskChopper.: [Soldier, SOF]
+[09/17/2024 14:23]  AskChopper.: AskChopper.
+[09/17/2024 14:23]  Amadis: Amadis the armorer
+[09/17/2024 14:23]  a sheep: a sheep
+[09/17/2024 14:23]  a sheep: a sheep
+[09/17/2024 14:24]  Mercedes: Mercedes the ranger
+[09/17/2024 14:24]  a yeet: Legendary Blacksmith
+[09/17/2024 14:24]  a yeet: a yeet
+[09/17/2024 14:24]  Delia Darkmire: Legendary Pickpocket
+[09/17/2024 14:24]  Delia Darkmire: Lady Delia Darkmire
+[09/17/2024 14:24]  shoes: shoes
+[09/17/2024 14:24]  Luxspew: [Apprentice, COOL]
+[09/17/2024 14:24]  Luxspew: Luxspew
+[09/17/2024 14:24]  O'Malley: [A Charming Fellow, TRT]
+[09/17/2024 14:24]  O'Malley: O'Malley
+[09/17/2024 14:24]  Carol: Carol the miner
+[09/17/2024 14:24]  Dooble: [Tets Mall, CFC]
+[09/17/2024 14:24]  Dooble: Dooble
+[09/17/2024 14:24]  Requies: Scientist
+[09/17/2024 14:24]  Requies: [TRT]
+[09/17/2024 14:24]  Requies: Requies
+[09/17/2024 14:24]  Moosebear: Moosebear
+[09/17/2024 14:24]  Floorskin: Skinner
+[09/17/2024 14:24]  Floorskin: Floorskin
+[09/17/2024 14:24]  Favstvs: Artificer Dignitary
+[09/17/2024 14:24]  Favstvs: [Veteran, Syn]
+[09/17/2024 14:24]  Favstvs: Favstvs
+[09/17/2024 14:24]  Trancoso-Jarbas: Trancoso-Jarbas
+[09/17/2024 14:24]  Peppermint: [NVOS, DoK]
+[09/17/2024 14:24]  Peppermint: Peppermint
+[09/17/2024 14:24]  Brentan: Brentan the miner
+[09/17/2024 14:24]  Oh Peaches: [Concierge, Inn]
+[09/17/2024 14:24]  Oh Peaches: Oh Peaches
+[09/17/2024 14:24]  Craft Her: Craft Her
+[09/17/2024 14:24]  Snow Gate: Legendary Tailor
+[09/17/2024 14:24]  Snow Gate: [La Recruteuse, LDS]
+[09/17/2024 14:24]  Snow Gate: Snow Gate
+[09/17/2024 14:24]  ZerryChop: Legendary Cartographer
+[09/17/2024 14:24]  ZerryChop: Lord ZerryChop
+[09/17/2024 14:24]  NewType mrs: [AHO]
+[09/17/2024 14:24]  NewType mrs: NewType mrs
+[09/17/2024 14:24]  Dignson: Dignson
+[09/17/2024 14:24]  Cook: Illustrious Gladiator
+[09/17/2024 14:24]  Cook: Cook
+[09/17/2024 14:24]  Dirt Mc.Girt: [1CE]
+[09/17/2024 14:24]  Dirt Mc.Girt: Dirt Mc.Girt
+[09/17/2024 14:24]  Bobby Possumcods: Affluent
+[09/17/2024 14:24]  Bobby Possumcods: [Im A, BOSS]
+[09/17/2024 14:24]  Bobby Possumcods: Lord Bobby Possumcods
+[09/17/2024 14:24]  MasterGater: MasterGater
+[09/17/2024 14:24]  Legasus: [Officer, ViPs]
+[09/17/2024 14:24]  Legasus: Legasus
+[09/17/2024 14:24]  Dooble: Thats right folks Updated Daily!
+[09/17/2024 14:24]  Floorskin: @ Tugboat Willy's @
+[09/17/2024 14:24]  Bobby Possumcods: VENDOR SPOTS 2K!!!
+[09/17/2024 14:24]  Trancoso-Jarbas: 5k/week Vendor spots available
+[09/17/2024 14:24]  Pacificator: Pacificator
+[09/17/2024 14:24]  Dignson: FISHKILL TOWER GATED 24/7
+[09/17/2024 14:24]  a prevalian mage: Legendary Scribe
+[09/17/2024 14:24]  a prevalian mage: a prevalian mage
+[09/17/2024 14:24]  Cook: Vas Rel Por
+[09/17/2024 14:24]  KhalsLibrary: (bonded)
+[09/17/2024 14:24]  KhalsLibrary: KhalsLibrary
+[09/17/2024 14:24]  Uber Blue Light: [Teetotaler, NDA]
+[09/17/2024 14:24]  Uber Blue Light: Uber Blue Light
+[09/17/2024 14:24]  Walter Gater: Walter Gater
+[09/17/2024 14:24]  Bobby Possumcods: VENDOR SPOTS 2K!!!
+[09/17/2024 14:24]  Craft Her: Come view the Winterlands Vendor House!
+[09/17/2024 14:24]  Dooble: 4k/week! Best Deal in Town
+[09/17/2024 14:24]  Trancoso-Jarbas: 1000+ weekly sign visits
+[09/17/2024 14:24]  ZerryChop: Open Vendors at KoU Vendor Mall!
+[09/17/2024 14:24]  Oh Peaches: Vas Rel Por
+[09/17/2024 14:24]  Bobby Possumcods: VENDOR SPOTS 2K!!!
+[09/17/2024 14:24]  Dignson: *///4k-7.5k  SPOTS\\\*
+[09/17/2024 14:24]  Favstvs: New Amber Mall!
+[09/17/2024 14:24]  MasterGater: New-Player Vendor Mall
+[09/17/2024 14:24]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[09/17/2024 14:24]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 14:24]  Razor: Steps: 0
+[09/17/2024 14:24]  Cheap Links: Cheap Links
+[09/17/2024 14:24]  Rares SS Cores Links: Rares SS Cores Links
+[09/17/2024 14:24]  waiting4expansion: waiting4expansion
+[09/17/2024 14:24]  EVERYTHING: EVERYTHING
+[09/17/2024 14:24]  Lockz Bulk Goods: Lockz Bulk Goods
+[09/17/2024 14:24]  120 Leather ARMOR: 120 Leather ARMOR
+[09/17/2024 14:24]  120 Leather ARMOR: 120 Leather ARMOR
+[09/17/2024 14:24]  120 Adventurers Rope: 120 Adventurers Rope
+[09/17/2024 14:24]  Kirby: Kirby the battle trainer
+[09/17/2024 14:24]  Arbor's Shop: Arbor's Shop
+[09/17/2024 14:24]  a pfniffel tradesman: a pfniffel tradesman
+[09/17/2024 14:24]  Lailoken the Mad: Lailoken the Mad
+[09/17/2024 14:24]  Masenko: Masenko
+[09/17/2024 14:24]  Omiki: Omiki
+[09/17/2024 14:24]  120 Smith and REPAIR: 120 Smith and REPAIR
+[09/17/2024 14:24]  Slava Ukraini!: Slava Ukraini!
+[09/17/2024 14:24]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 14:24]  BULK REGS BULK REGS: BULK REGS BULK REGS
+[09/17/2024 14:24]  Homes: Homes the house steward
+[09/17/2024 14:24]  McD Skill Scrolls: McD Skill Scrolls
+[09/17/2024 14:24]  RHEC 11: RHEC 11
+[09/17/2024 14:24]  abcdef: abcdef
+[09/17/2024 14:24]  vwxyz: vwxyz
+[09/17/2024 14:24]  Plate & Chain: Plate & Chain
+[09/17/2024 14:24]  Cheap Stuff!!: Cheap Stuff!!
+[09/17/2024 14:24]  System: Repaired 9 items.
+[09/17/2024 14:24]  EVERYTHING: EVERYTHING
+[09/17/2024 14:24]  BULK REGS BULK REGS: BULK REGS BULK REGS
+[09/17/2024 14:24]  Homes: Homes the house steward
+[09/17/2024 14:24]  BULK REGS BULK REGS: BULK REGS BULK REGS
+[09/17/2024 14:24]  Homes: Homes the house steward
+[09/17/2024 14:24]  McD Skill Scrolls: McD Skill Scrolls
+[09/17/2024 14:24]  RHEC 11: RHEC 11
+[09/17/2024 14:24]  System: Holy symbols remaining: 5/10
+[09/17/2024 14:24]  Razor: [+Paralyze (0s)]
+[09/17/2024 14:24]  Razor: [-Paralyze (s)]
+[09/17/2024 14:24]  System: You are no longer hindered.
+[09/17/2024 14:24]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[09/17/2024 14:24]  Razor: [+Hidden/Stealthing (0s)]
+[09/17/2024 14:24]  Razor: Steps: 0
+[09/17/2024 14:24]  Amata: Amata the tanner
+[09/17/2024 14:24]  Trianon: Trianon the butcher
+[09/17/2024 14:24]  Ayame: Ayame the tanner
+[09/17/2024 14:24]  Lucas: Lucas the tanner
+[09/17/2024 14:24]  a cat: a cat
+[09/17/2024 14:24]  a dog: a dog
+[09/17/2024 14:24]  a cat: a cat
+[09/17/2024 14:24]  a dog: a dog
+[09/17/2024 14:24]  Felix: Felix the ranger
+[09/17/2024 14:24]  a dog: a dog
+[09/17/2024 14:24]  a dog: a dog
+[09/17/2024 14:24]  Amata: Amata the tanner
+[09/17/2024 14:24]  : hay roof
+[09/17/2024 14:24]  Ayame: Ayame the tanner
+[09/17/2024 14:24]  : hay roof
+[09/17/2024 14:24]  System: Max holy symbols earned (10/10)
+[09/17/2024 14:24]  Trianon: Trianon the butcher
+[09/17/2024 14:24]  Razor: [-Hidden/Stealthing (s)]
+[09/17/2024 14:25]  Ayame: Ayame the tanner
+[09/17/2024 14:25]  Sir MacMuriche: Legendarily Triggered
+[09/17/2024 14:25]  Sir MacMuriche: [Bard, Tale]
+[09/17/2024 14:25]  Sir MacMuriche: Sir MacMuriche
+[09/17/2024 14:25]  System: Holy symbols remaining: 5/10
+[09/17/2024 14:25]  Razor: [+Paralyze (0s)]
+[09/17/2024 14:25]  Razor: [-Paralyze (s)]
+[09/17/2024 14:25]  Razor: [+Paralyze (0s)]
+[09/17/2024 14:25]  Razor: [-Paralyze (s)]
+[09/17/2024 14:25]  System: You are no longer hindered.
+[09/17/2024 14:25]  System: What do you wish to incite? (you may target the ground for a group effect)
+[09/17/2024 14:25]  System: You are now under the effect of a Song of Provocation (+6.4% damage against creatures for 15 minutes).
+[09/17/2024 14:25]  Razor: [+Song of Provocation (900s)]
+[09/17/2024 14:25]  a dog: a dog
+[09/17/2024 14:25]  Ayame: Ayame the tanner
+[09/17/2024 14:25]  Alonzo: Alonzo the tinker
+[09/17/2024 14:25]  Ivar: Ivar the jeweler
+[09/17/2024 14:25]  Renny: Renny the bowyer
+[09/17/2024 14:25]  Pierce: Pierce the tailor
+[09/17/2024 14:26]  a dog: a dog
+[09/17/2024 14:26]  Asta: Asta the mage
+[09/17/2024 14:26]  Donnelly: Donnelly the scribe
+[09/17/2024 14:26]  a dog: a dog
+[09/17/2024 14:26]  a cat: a cat
+[09/17/2024 14:26]  Adena: Adena the alchemist
+[09/17/2024 14:26]  Ravi: Ravi the Town Crier
+[09/17/2024 14:26]  Tom the roofer: Tom the roofer
+[09/17/2024 14:26]  a desert ostard: (bonded)
+[09/17/2024 14:26]  a desert ostard: a desert ostard
+[09/17/2024 14:26]  Arbor the tree: Legendary Carpenter
+[09/17/2024 14:26]  Arbor the tree: [Ancient, Oak]
+[09/17/2024 14:26]  Arbor the tree: Lord Arbor the tree
+[09/17/2024 14:26]  Brandi: Brandi the banker
+[09/17/2024 14:26]  System: Max holy symbols earned (10/10)
+[09/17/2024 14:26]  Dacey: Dacey the waiter
+[09/17/2024 14:26]  a dog: a dog
+[09/17/2024 14:26]  a dog: a dog
+[09/17/2024 14:26]  Donnelly: Donnelly the scribe
+[09/17/2024 14:26]  Thurston: Thurston the waiter
+[09/17/2024 14:26]  Denton: Denton the innkeeper
+[09/17/2024 14:26]  Renee: Renee the stablemaster
+[09/17/2024 14:26]  a goat: a goat
+[09/17/2024 14:26]  Keara: Keara the stablemaster
+[09/17/2024 14:26]  a dog: a dog
+[09/17/2024 14:26]  Ailiin: Bank Vendor buy
+[09/17/2024 14:26]  Ailiin: Room
+[09/17/2024 14:26]  System: You have left the protection of the town guards.
+[09/17/2024 14:26]  System: You enter the rental room.
+[09/17/2024 14:26]  System: WorldMap loaded!

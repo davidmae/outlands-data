@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">199</property>
-	<property name="RazorHeight" type="System.Int32">34</property>
+	<property name="RazorWidth" type="System.Int32">160</property>
+	<property name="RazorHeight" type="System.Int32">28</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -207,7 +207,7 @@
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x61121EE0" name="myVariable" />
+		<scriptvariable serial="0x6A8C3684" name="myVariable" />
 		<scriptvariable serial="0x56F61D10" name="my_loot_to_id_bag" />
 	</scriptvariables>
 	<friends />

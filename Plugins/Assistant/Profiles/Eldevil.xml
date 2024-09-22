@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1616</property>
-	<property name="WindowY" type="System.Int32">242</property>
+	<property name="WindowX" type="System.Int32">35</property>
+	<property name="WindowY" type="System.Int32">34</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">776</property>
-	<property name="RazorHeight" type="System.Int32">411</property>
+	<property name="RazorWidth" type="System.Int32">160</property>
+	<property name="RazorHeight" type="System.Int32">28</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -244,7 +244,6 @@
 			<item id="3617" amount="100" />
 			<item id="8012" amount="10" />
 			<item id="5370" amount="8" />
-			<item id="3903" amount="500" />
 		</Restock-1>
 		<Restock-2 hotbag="0" />
 		<Restock-3 hotbag="0" />
@@ -259,6 +258,8 @@
 			<item id="3821" />
 			<item id="3903" />
 			<item id="7163" />
+			<item id="2545" />
+			<item id="4225" />
 		</Scavenger>
 		<AutoSearchExemptions />
 		<Sell enabled="False">
@@ -278,7 +279,6 @@
 			<item serial="1365614378" />
 			<item serial="1212107664" />
 			<item serial="1589520469" />
-			<item serial="1364875013" />
 			<item serial="1365614377" />
 			<item serial="1744868368" />
 			<item serial="1590849089" />
@@ -288,7 +288,9 @@
 			<item serial="1547581378" />
 			<item serial="1595939888" />
 			<item serial="1094065127" />
-			<item serial="1418457552" />
+			<item serial="1453275421" />
+			<item serial="1758894642" />
+			<item serial="1364875013" />
 		</list>
 		<list name="weapon/shield">
 			<item serial="1453275421" />
@@ -303,10 +305,7 @@
 	</overheadmessages>
 	<containerlabels />
 	<macrovariables />
-	<scriptvariables>
-		<scriptvariable serial="0x1388" name="timing" />
-		<scriptvariable serial="0x81836A" name="mobTwo" />
-	</scriptvariables>
+	<scriptvariables />
 	<friends>
 		<group name="outlands" enabled="True" overheadformat="[Friend]" overheadhue="63" overheadenabled="False">
 			<friend name="Bock l'Orc" serial="0xD15E6" />
