@@ -13,12 +13,21 @@
 #loop
 
 
-if skill "Anatomy" = 80
-    stop
-else
-    skill "Anatomy"
-    wait 250
-    target 0x2AEF13
-    wait 3000
-endif
-loop
+#if skill "Anatomy" = 80
+#    stop
+#else
+#    skill "Anatomy"
+#    wait 250
+#    target 0x2AEF13
+#    wait 3000
+#endif
+#loop
+
+
+while not dead
+    if hp < 90
+        cast 'heal'
+        wft
+        target self
+    endif
+endwhile

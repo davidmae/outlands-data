@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 90,
   "circle_of_transparency_type": 2,
   "vendor_gump_height": 504,
-  "default_scale": 0.70000005,
+  "default_scale": 1.1000001,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -102,8 +102,8 @@
   "game_window_full_size": true,
   "window_borderless": true,
   "game_window_size": {
-    "X": 2048,
-    "Y": 1152
+    "X": 1920,
+    "Y": 1080
   },
   "topbar_gump_position": {
     "X": 0,

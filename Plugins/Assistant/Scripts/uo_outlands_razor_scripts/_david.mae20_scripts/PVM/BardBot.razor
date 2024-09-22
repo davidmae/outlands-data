@@ -1,4 +1,9 @@
 overhead "[+Start BardBot]"
+
+@setvar! info_color 191
+
+clearall 
+
 #
 #@setvar timing 5000
 #
@@ -18,9 +23,11 @@ while not dead
     hotkey 'target closest non-friendly monster'
     @setvar! curr_target lasttarget 
     getlabel curr_target enemy
-    attack curr_target
-    
     wait 150
+    attack curr_target
+    wait 150
+    overhead enemy info_color
+    wait 1000
     
     if 'pacified' in enemy
         #if timer 'check_time_pec' > timing
@@ -37,63 +44,34 @@ while not dead
             skill 'discordance'
             wait 500
             target curr_target
-            overhead enemy
+            wait 200
+            overhead enemy info_color
         endif  
-    else
-        #while not targetexists 
-#        endwhile
-#        while targetexists 
-#        endwhile
-        if targetexists 
-            skill 'peacemaking'
-            wait 500
-            target curr_target
-        endif
+    else 
+        skill 'peacemaking'
+        wait 500
+        target curr_target
     endif
+    
+    wait 1000
     
     if insysmsg "barding break"
-        overhead "*** RUN ***"
+        overhead "*** RUN ***" 5
     endif
-    
-    #
-#    if insysmsg "no one matching"
-#        overhead '*** No enemies ***' 45
-#        hotkey 'Target Closest Non-Friendly Monster'
-#        @setvar! curr_target lasttarget 
-#        getlabel curr_target enemy
-#        overhead enemy
-#    elseif insysmsg "target cannot be seen"
-#        overhead '*** No enemies ***' 45
-#        hotkey 'Target Closest Non-Friendly Monster'
-#        @setvar! curr_target lasttarget 
-#        getlabel curr_target enemy
-#        overhead enemy   
-#    endif
     
     if not bandaging and hp < 97
         hotkey "Bandage Self"
     endif
+
     wait 500
-    
-     
-    
-    if not findbuff "Song of Peacemaking"
-        overhead "*** BUFFF ***" 45
-        skill 'Peacemaking'
-        wft
-        target backpack
+
+    if findtype 8198 ground -1 -1 5
+        skill 'forensicevaluation'
+        wait 250
+        target self
     endif
-    if not findbuff "Song of Discordance"
-        overhead "*** BUFFF ***" 45
-        skill 'Discordance'
-        wft
-        target backpack
-    endif
-    if not findbuff "Song of Provocation"
-        overhead "*** BUFFF ***" 45
-        skill 'Provocation'
-        wft
-        target backpack
-    endif
+  
+#wait 200
+#hotkey "Play Script: uo_outlands_razor_scripts\_david.mae20_scripts\PVM\Carve"
     
 endwhile
