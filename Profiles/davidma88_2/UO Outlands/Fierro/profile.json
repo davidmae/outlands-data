@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 504,
-  "default_scale": 1.1000003,
+  "default_scale": 1.2000003,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -91,12 +91,12 @@
   "hold_shift_to_split_stack": false,
   "lock_follower_rename": false,
   "window_client_bounds": {
-    "X": 828,
-    "Y": 1090
+    "X": 5052,
+    "Y": 1089
   },
   "game_window_position": {
-    "X": 10,
-    "Y": 9
+    "X": 6,
+    "Y": 8
   },
   "game_window_lock": false,
   "game_window_full_size": false,
@@ -291,8 +291,8 @@
   "cooldown_bar_height": 30,
   "hide_inactive_cooldown_bars": false,
   "last_used_desktop": "default.gumps.xml",
-  "journal_width": 430,
-  "journal_height": 100,
+  "journal_width": 363,
+  "journal_height": 273,
   "journal_enable_resize": true,
   "journal_lock_position": false,
   "journal_use_24_hour_clock": true,

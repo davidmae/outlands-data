@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">-7</property>
-	<property name="WindowY" type="System.Int32">0</property>
+	<property name="WindowX" type="System.Int32">67</property>
+	<property name="WindowY" type="System.Int32">363</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">783</property>
-	<property name="RazorHeight" type="System.Int32">1039</property>
+	<property name="RazorWidth" type="System.Int32">628</property>
+	<property name="RazorHeight" type="System.Int32">490</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -95,7 +95,7 @@
 	<property name="GrabHotBag" type="System.String">0</property>
 	<property name="MacroActionDelay" type="System.Boolean">False</property>
 	<property name="DisableMacroPlayFinish" type="System.Boolean">False</property>
-	<property name="ShowBandageTimer" type="System.Boolean">False</property>
+	<property name="ShowBandageTimer" type="System.Boolean">True</property>
 	<property name="ShowBandageTimerFormat" type="System.String">Bandage: {count}s</property>
 	<property name="ShowBandageTimerLocation" type="System.Int32">0</property>
 	<property name="OnlyShowBandageTimerEvery" type="System.Boolean">False</property>
@@ -260,6 +260,7 @@
 			<item id="7163" />
 			<item id="2545" />
 			<item id="4225" />
+			<item id="2546" />
 		</Scavenger>
 		<AutoSearchExemptions />
 		<Sell enabled="False">
@@ -297,17 +298,17 @@
 		</list>
 	</dresslists>
 	<hotkeys>
-		<key mod="1" key="32" send="True">Restock Agent-01</key>
 		<key mod="0" key="27" send="True">Play Script: uo_outlands_razor_scripts\_david.mae20_scripts\_Stop</key>
+		<key mod="1" key="32" send="True">Restock Agent-01</key>
 	</hotkeys>
 	<overheadmessages>
-		<overheadmessage searchtext="Your shot hinders your target!" message="**** Hinder Target ****" hue="5" />
+		<overheadmessage searchtext="Your shot hinders your target!" message="*** Hinder Target ***" hue="5" />
 		<overheadmessage searchtext="No one matching that was found on your screen." message="**** No Enemy ***" hue="191" />
 	</overheadmessages>
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x89794A" name="mobTwo" />
+		<scriptvariable serial="0x59E67A" name="mobTwo" />
 	</scriptvariables>
 	<friends>
 		<group name="outlands" enabled="True" overheadformat="[Friend]" overheadhue="63" overheadenabled="False">

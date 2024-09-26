@@ -1,0 +1,353 @@
+[09/23/2024 20:12]  System: WorldMap loading...
+[09/23/2024 20:12]  System: Loading WorldMap markers..
+[09/23/2024 20:12]  System: ..Banks_and_Healers.xml (39)
+[09/23/2024 20:12]  System: ..Dungeons.xml (13)
+[09/23/2024 20:12]  System: ..Dungeon_Gates.xml (388)
+[09/23/2024 20:12]  System: ..Healer_Caravans.xml (42)
+[09/23/2024 20:12]  System: ..Kings_Faire.xml (49)
+[09/23/2024 20:12]  System: ..Moongates.xml (10)
+[09/23/2024 20:12]  System: ..POI.xml (251)
+[09/23/2024 20:12]  System: ..PvP_Locations.xml (71)
+[09/23/2024 20:12]  System: ..Shrines.xml (9)
+[09/23/2024 20:12]  System: ..Sub-Dungeons.xml (4)
+[09/23/2024 20:12]  System: ..Townships.xml (10)
+[09/23/2024 20:12]  System: ..UOAM_Atlas.xml (1887)
+[09/23/2024 20:12]  System: ..UOAM_T-Map.xml (255)
+[09/23/2024 20:12]  System: ..UOAM_Treasure.xml (523)
+[09/23/2024 20:12]  System: WorldMap markers loaded (3551)
+[09/23/2024 20:12]  System: Welcome Geodoro!
+[09/23/2024 20:12]  System: WorldMap loaded!
+[09/23/2024 20:12]  Geodoro: Geodoro
+[09/23/2024 20:12]  Ailiin: [Ripe, SQzD]
+[09/23/2024 20:12]  Ailiin: Ailiin
+[09/23/2024 20:12]  Jaimito: Jaimito
+[09/23/2024 20:12]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: guarding chainmail chest
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: exceptional leather arms [mastercrafted by Palevna]
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: exceptional leather gorget [mastercrafted by Chopperthan]
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: exceptional leather leggings [crafted by SLiP DaDDY]
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: exceptional leather chest [mastercrafted by Let Her Eat]
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  System: What do you wish to appraise and identify?
+[09/23/2024 20:13]  System: You identify the magical item.
+[09/23/2024 20:13]  You see: guarding ringmail chest
+[09/23/2024 20:13]  Geodoro: You are uncertain about the worth of the magical item.
+[09/23/2024 20:13]  [Razor]: unidentified ringmail chest
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: platemail helm
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: platemail arms
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: durable guarding bone gorget
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: defense chainmail arms
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  System: What do you wish to appraise and identify?
+[09/23/2024 20:13]  System: You identify the magical item.
+[09/23/2024 20:13]  You see: guarding chainmail gorget
+[09/23/2024 20:13]  Geodoro: You are uncertain about the worth of the magical item.
+[09/23/2024 20:13]  [Razor]: unidentified chainmail gorget
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: chainmail skirt
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: platemail skirt
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: exceptional quarter staff [mastercrafted by Lumbersmith]
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: might gnarled staff
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: eminently accurate war mace
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: eminently accurate war hammer
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: guarding bronze shield
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: guarding wooden shield
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: skull club
+[09/23/2024 20:13]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:13]  [Razor]: Last Target set.
+[09/23/2024 20:13]  [Razor]: durable ruin cudgel
+[09/23/2024 20:13]  System: The world will save in 15 seconds.
+[09/23/2024 20:13]  System: Draven Ironclaw has completed the achievement: Weaponmastery (Basic).
+[09/23/2024 20:13]  System: The world is saving, please wait.
+[09/23/2024 20:13]  System: World save complete. The entire process took 2.5 seconds.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Ignore List cleared
+[09/23/2024 20:14]  [Razor]: guarding chainmail chest
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Ignore List cleared
+[09/23/2024 20:14]  [Razor]: exceptional leather arms [mastercrafted by Palevna]
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Ignore List cleared
+[09/23/2024 20:14]  [Razor]: exceptional leather gorget [mastercrafted by Chopperthan]
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  You see: exceptional leather leggings
+[09/23/2024 20:14]  You see: [crafted by SLiP DaDDY]
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: guarding chainmail chest
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: exceptional leather arms [mastercrafted by Palevna]
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: exceptional leather gorget [mastercrafted by Chopperthan]
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: exceptional leather leggings [crafted by SLiP DaDDY]
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: exceptional leather chest [mastercrafted by Let Her Eat]
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: guarding ringmail chest
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: platemail helm
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: platemail arms
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: durable guarding bone gorget
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: defense chainmail arms
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: guarding chainmail gorget
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: chainmail skirt
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: platemail skirt
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: exceptional quarter staff [mastercrafted by Lumbersmith]
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: might gnarled staff
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: eminently accurate war mace
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: eminently accurate war hammer
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: guarding bronze shield
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: guarding wooden shield
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: skull club
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: durable ruin cudgel
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:14]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:14]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Done
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: exceptional leather arms [mastercrafted by Palevna]
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: exceptional leather gorget [mastercrafted by Chopperthan]
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: exceptional leather leggings [crafted by SLiP DaDDY]
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: exceptional leather chest [mastercrafted by Let Her Eat]
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: platemail helm
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: platemail arms
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: chainmail skirt
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: platemail skirt
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: exceptional quarter staff [mastercrafted by Lumbersmith]
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: might gnarled staff
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: eminently accurate war mace
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: eminently accurate war hammer
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: skull club
+[09/23/2024 20:15]  System: The server will be coming down for a patch in 30 minutes.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:15]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:15]  [Razor]: Last Target set.
+[09/23/2024 20:16]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:16]  [Razor]: Last Target set.
+[09/23/2024 20:16]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:16]  [Razor]: Last Target set.
+[09/23/2024 20:16]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:16]  [Razor]: Last Target set.
+[09/23/2024 20:16]  [Razor]: Target a new 'Last Target'
+[09/23/2024 20:16]  [Razor]: Last Target set.
+[09/23/2024 20:16]  [Razor]: Done
+[09/23/2024 20:16]  You see: platemail helm
+[09/23/2024 20:16]  You see: platemail skirt
+[09/23/2024 20:16]  You see: exceptional leather gorget
+[09/23/2024 20:16]  You see: [mastercrafted by Chopperthan]
+[09/23/2024 20:16]  You see: exceptional leather leggings
+[09/23/2024 20:16]  You see: [crafted by SLiP DaDDY]
+[09/23/2024 20:16]  You see: durable hardening leather chest
+[09/23/2024 20:16]  You see: exceptional leather leggings
+[09/23/2024 20:16]  You see: [mastercrafted by Milan von Wtf]
+[09/23/2024 20:16]  You see: exceptional leather chest
+[09/23/2024 20:16]  You see: [mastercrafted by Let Her Eat]
+[09/23/2024 20:16]  You see: chainmail skirt
+[09/23/2024 20:16]  You see: exceptional leather gorget
+[09/23/2024 20:16]  You see: [mastercrafted by Chopperthan]
+[09/23/2024 20:16]  You see: exceptional quarter staff
+[09/23/2024 20:16]  You see: [mastercrafted by Lumbersmith]
+[09/23/2024 20:16]  System: Ololoha has completed the achievement: Artisan (Basic).
+[09/23/2024 20:16]  You see: skull club
+[09/23/2024 20:16]  You see: eminently accurate war hammer
+[09/23/2024 20:16]  You see: exceptional leather arms
+[09/23/2024 20:16]  You see: [mastercrafted by Palevna]
+[09/23/2024 20:17]  You see: exceptional leather arms
+[09/23/2024 20:17]  You see: [mastercrafted by AnswerNet]
+[09/23/2024 20:17]  You see: eminently accurate war mace
+[09/23/2024 20:17]  You see: platemail arms
+[09/23/2024 20:17]  You see: war hammer
+[09/23/2024 20:17]  System: Warning! You are about to recycle ALL craftable items of ANY type made with Ingots, Boards, Leather, or Cloth inside your backpack and containers within. Target yourself to proceed.
+[09/23/2024 20:17]  You see: arcane essence : 125
+[09/23/2024 20:17]  You see: leather : 42
+[09/23/2024 20:17]  You see: board : 17
+[09/23/2024 20:17]  You see: iron ingot : 35
+[09/23/2024 20:17]  You see: platemail arms
+[09/23/2024 20:18]  System: You must be near an anvil and a forge to smith items.
+[09/23/2024 20:18]  System: You must be near an anvil and a forge to smith items.
+[09/23/2024 20:20]  Ailiin: [Ripe, SQzD]
+[09/23/2024 20:20]  Ailiin: Ailiin
+[09/23/2024 20:21]  Jaimito: Bank Vendor buy
+[09/23/2024 20:21]  Jaimito: Room
+[09/23/2024 20:21]  System: Potamus Scribles has completed the achievement: Artificers Enclave Initiate.
+[09/23/2024 20:21]  System: Kilia has completed the achievement: Beastial Slayer (Advanced).
+[09/23/2024 20:21]  Ailiin: Kal Ort Por
+[09/23/2024 20:22]  System: Zoologist has completed the achievement: Monster Hunter Luminary.
+[09/23/2024 20:22]  System: SauhAnnkinami has completed the achievement: Cartographer (Advanced).
+[09/23/2024 20:24]  System: Mezisto has completed the achievement: Skinner (Basic).
+[09/23/2024 20:25]  System: Riddom has completed the achievement: Aegis Keep Trophy (Rank 1).
+[09/23/2024 20:25]  System: The server will be coming down for a patch in 20 minutes.
+[09/23/2024 20:26]  System: Chubb Returns has completed the achievement: Connoisseur (Basic).
+[09/23/2024 20:26]  System: Unforgivenx has completed the achievement: Nature Slayer (Basic).
+[09/23/2024 20:26]  System: FaatTankr has completed the achievement: Skill Mastery (Basic).
+[09/23/2024 20:28]  System: The world will save in 15 seconds.
+[09/23/2024 20:28]  System: The world is saving, please wait.
+[09/23/2024 20:28]  System: World save complete. The entire process took 2.5 seconds.
+[09/23/2024 20:30]  System: Gatha's al Ghul has completed the achievement: Aspect Mastery (Advanced).
+[09/23/2024 20:30]  System: The server will be coming down for a patch in 15 minutes.
+[09/23/2024 20:32]  System: aezakmi has completed the achievement: Transmutation (Epic).
+[09/23/2024 20:33]  System: Staff message from Owyn:
+[09/23/2024 20:33]  System: A new MANDATORY file patch is now available for download.  Please run your launchers before you login next and click VERIFY to confirm your files are up to date.
+[09/23/2024 20:34]  Ailiin: [Ripe, SQzD]
+[09/23/2024 20:34]  Ailiin: Ailiin
+[09/23/2024 20:34]  : [locked down]
+[09/23/2024 20:35]  Ailiin: Ort Por Ylem
+[09/23/2024 20:35]  System: The server will be coming down for a patch in 10 minutes.
+[09/23/2024 20:36]  System: Staff message from Owyn:
+[09/23/2024 20:36]  System: A new MANDATORY file patch is now available for download.  Please run your launchers before you login next and click VERIFY to confirm your files are up to date.
+[09/23/2024 20:36]  System: Laione has completed the achievement: Skill Proficiency (Basic).

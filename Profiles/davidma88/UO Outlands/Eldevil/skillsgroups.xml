@@ -22,7 +22,6 @@
 	</group>
 	<group name="Trade Skills">
 		<skillids>
-			<skill id="0" />
 			<skill id="7" />
 			<skill id="11" />
 			<skill id="13" />
@@ -35,11 +34,13 @@
 	</group>
 	<group name="Magic">
 		<skillids>
+			<skill id="0" />
+			<skill id="8" />
 			<skill id="16" />
+			<skill id="50" />
 			<skill id="25" />
 			<skill id="46" />
 			<skill id="49" />
-			<skill id="26" />
 			<skill id="32" />
 		</skillids>
 	</group>
@@ -49,6 +50,7 @@
 			<skill id="35" />
 			<skill id="18" />
 			<skill id="20" />
+			<skill id="26" />
 			<skill id="39" />
 		</skillids>
 	</group>
@@ -69,16 +71,10 @@
 			<skill id="22" />
 		</skillids>
 	</group>
-	<group name="New Skills">
-		<skillids>
-			<skill id="8" />
-		</skillids>
-	</group>
-	<group name="New Group">
+	<group name="Ailiin">
 		<skillids>
 			<skill id="31" />
 			<skill id="10" />
-			<skill id="50" />
 			<skill id="19" />
 			<skill id="17" />
 			<skill id="21" />

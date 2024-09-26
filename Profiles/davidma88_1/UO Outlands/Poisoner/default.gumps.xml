@@ -41,10 +41,8 @@
 		<gump type="16" x="1571" y="594" serial="0" id="36" matrix_x="1" matrix_y="1" />
 	</anchored_group_gump>
 	<gump type="9" x="1716" y="15" serial="3247949" isminimized="False" />
+	<gump type="10" x="1649" y="770" serial="0" isminimized="False" height="365" />
 	<gump type="2" x="1666" y="411" serial="1323385255" graphic="60" isminimized="False" />
-	<gump type="2" x="1281" y="243" serial="1182295987" graphic="75" isminimized="False" />
-	<gump type="2" x="1237" y="689" serial="1257982994" graphic="60" isminimized="False" />
-	<gump type="2" x="1292" y="399" serial="1458969872" graphic="61" isminimized="False" />
 	<gump type="3" x="1996" y="23" serial="0" rows="27" columns="1" rectsize="40">
 		<controls>
 			<control graphic="52149" hue="2876" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -76,7 +74,6 @@
 			<control graphic="3821" hue="0" />
 		</controls>
 	</gump>
-	<gump type="10" x="1652" y="713" serial="0" isminimized="False" height="420" />
 	<gump type="7" x="462" y="35" serial="1032" name="CT" graphicId="0" hideLabel="False" scale="1" />
 	<gump type="7" x="1533" y="849" serial="1030" name="OpenContainers" graphicId="705" hideLabel="False" scale="1.8" />
 	<gump type="15" x="1710" y="355" serial="0" id="30" />

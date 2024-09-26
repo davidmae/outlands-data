@@ -1,0 +1,498 @@
+[09/25/2024 22:11]  System: WorldMap loading...
+[09/25/2024 22:11]  System: Loading WorldMap markers..
+[09/25/2024 22:11]  System: ..Banks_and_Healers.xml (39)
+[09/25/2024 22:11]  System: ..Dungeons.xml (13)
+[09/25/2024 22:11]  System: ..Dungeon_Gates.xml (392)
+[09/25/2024 22:11]  System: ..Healer_Caravans.xml (42)
+[09/25/2024 22:11]  System: ..Kings_Faire.xml (49)
+[09/25/2024 22:11]  System: ..Moongates.xml (10)
+[09/25/2024 22:11]  System: ..POI.xml (251)
+[09/25/2024 22:11]  System: ..PvP_Locations.xml (71)
+[09/25/2024 22:11]  System: ..Shrines.xml (9)
+[09/25/2024 22:11]  System: ..Sub-Dungeons.xml (4)
+[09/25/2024 22:11]  System: ..Townships.xml (10)
+[09/25/2024 22:11]  System: ..UOAM_Atlas.xml (1887)
+[09/25/2024 22:11]  System: ..UOAM_T-Map.xml (255)
+[09/25/2024 22:11]  System: ..UOAM_Treasure.xml (523)
+[09/25/2024 22:11]  System: WorldMap markers loaded (3555)
+[09/25/2024 22:11]  System: Welcome Geodoro!
+[09/25/2024 22:11]  System: WorldMap loaded!
+[09/25/2024 22:11]  Geodoro: Geodoro
+[09/25/2024 22:11]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/25/2024 22:11]  System: t t has completed the achievement: Guardian of The Mausoleum (Master).
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: guarding chainmail chest
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified chainmail chest
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: defense leather gorget
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified leather gorget
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: guarding studded arms
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified studded arms
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: guarding ringmail chest
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified ringmail chest
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: guarding bascinet
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified bascinet
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: defense platemail arms
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified platemail arms
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: durable fortification bone arms
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified bone arms
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: durable guarding bone chest
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified bone chest
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: guarding leather cap
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified leather cap
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: defense bone skirt
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified bone skirt
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:11]  System: What do you wish to appraise and identify?
+[09/25/2024 22:11]  System: You identify the magical item.
+[09/25/2024 22:11]  You see: substantial guarding chainmail gorget
+[09/25/2024 22:11]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:11]  [Razor]: unidentified chainmail gorget
+[09/25/2024 22:11]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:11]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: defense studded skirt
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified studded skirt
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: durable ruin magic spellbook
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified magic spellbook
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: surpassingly melodious tambourine
+[09/25/2024 22:12]  You see: (500/500 uses remaining)
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified tambourine (500/500 uses remaining)
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: durable ruin magic spellbook
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: might cutlass
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified cutlass
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: guarding bronze shield
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified bronze shield
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: defense buckler
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified buckler
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: defense wooden kite shield
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified wooden kite shield
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: guarding wooden shield
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified wooden shield
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: guarding order shield
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified order shield
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: ruin epee
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified epee
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: accurate ancestral staff
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified ancestral staff
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: surpassingly accurate prismatic staff
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified prismatic staff
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: surpassingly accurate burial staff
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified burial staff
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  System: What do you wish to appraise and identify?
+[09/25/2024 22:12]  System: You identify the magical item.
+[09/25/2024 22:12]  You see: accurate kukri
+[09/25/2024 22:12]  Geodoro: You are uncertain about the worth of the magical item.
+[09/25/2024 22:12]  [Razor]: unidentified kukri
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Target a new 'Last Target'
+[09/25/2024 22:12]  [Razor]: Last Target set.
+[09/25/2024 22:12]  [Razor]: Done
+[09/25/2024 22:12]  You see: surpassingly accurate burial staff
+[09/25/2024 22:12]  You see: surpassingly accurate prismatic staff
+[09/25/2024 22:12]  You see: accurate ancestral staff
+[09/25/2024 22:13]  You see: accurate ancestral staff
+[09/25/2024 22:13]  You see: accurate kukri
+[09/25/2024 22:13]  You see: might cutlass
+[09/25/2024 22:13]  You see: durable fortification bone arms
+[09/25/2024 22:13]  You see: ruin epee
+[09/25/2024 22:13]  You see: guarding order shield
+[09/25/2024 22:13]  You see: guarding wooden shield
+[09/25/2024 22:13]  You see: defense buckler
+[09/25/2024 22:13]  You see: defense wooden kite shield
+[09/25/2024 22:13]  You see: guarding bronze shield
+[09/25/2024 22:13]  You see: durable ruin magic spellbook
+[09/25/2024 22:13]  You see: guarding chainmail chest
+[09/25/2024 22:13]  You see: guarding chainmail chest
+[09/25/2024 22:13]  You see: guarding platemail chest
+[09/25/2024 22:13]  You see: durable guarding bone chest
+[09/25/2024 22:13]  You see: defense platemail arms
+[09/25/2024 22:14]  You see: guarding ringmail chest
+[09/25/2024 22:14]  You see: guarding leather cap
+[09/25/2024 22:14]  You see: defense bone skirt
+[09/25/2024 22:14]  You see: guarding leather cap
+[09/25/2024 22:14]  You see: defense studded skirt
+[09/25/2024 22:14]  You see: guarding bascinet
+[09/25/2024 22:14]  You see: substantial guarding chainmail gorget
+[09/25/2024 22:14]  You see: durable guarding ringmail gorget
+[09/25/2024 22:14]  You see: guarding studded arms
+[09/25/2024 22:14]  You see: durable guarding ringmail gorget
+[09/25/2024 22:14]  You see: surpassingly melodious tambourine
+[09/25/2024 22:14]  You see: (500/500 uses remaining)
+[09/25/2024 22:14]  You see: melodious hurdy-gurdy
+[09/25/2024 22:14]  You see: (500/500 uses remaining)
+[09/25/2024 22:14]  You see: surpassingly melodious Vielle
+[09/25/2024 22:14]  You see: (500/500 uses remaining)
+[09/25/2024 22:15]  You see: defense leather gorget
+[09/25/2024 22:15]  System: Warning! You are about to recycle ALL craftable items of ANY type made with Ingots, Boards, Leather, or Cloth inside your backpack and containers within. Target yourself to proceed.
+[09/25/2024 22:15]  Razor: Target: Geodoro
+[09/25/2024 22:15]  System: TehParsleySauce has completed the achievement: Triggered (Basic).
+[09/25/2024 22:15]  You see: board : 319
+[09/25/2024 22:16]  You see: raw drumstick
+[09/25/2024 22:16]  You see: raw drumstick : 7
+[09/25/2024 22:19]  System: Helric Houvac has completed the achievement: Affluent (Basic).
+[09/25/2024 22:22]  System: PenTailor has completed the achievement: Leatherworker (Basic).
+[09/25/2024 22:22]  System: Gatha's al Ghul has completed the achievement: Transmutation (Epic).
+[09/25/2024 22:23]  System: yezi has completed the achievement: Connoisseur (Basic).
+[09/25/2024 22:23]  System: The world will save in 15 seconds.
+[09/25/2024 22:23]  System: The world is saving, please wait.
+[09/25/2024 22:23]  System: World save complete. The entire process took 2.7 seconds.
+[09/25/2024 22:24]  System: Melekes has completed the achievement: Monster Hunter Dignitary.
+[09/25/2024 22:24]  System: Melekes has completed the achievement: Boss Slayer (Basic).
+[09/25/2024 22:24]  System: RAQ (RAQ) guild has reached prestige level 557.
+[09/25/2024 22:24]  System: Xabius has completed the achievement: Scribe (Basic).
+[09/25/2024 22:25]  System: Faleria has completed the achievement: Animal Bond (Epic).
+[09/25/2024 22:26]  Ailiin: [Ripe, SQzD]
+[09/25/2024 22:26]  Ailiin: Ailiin
+[09/25/2024 22:26]  System: NewbieMurderer has completed the achievement: Triggered (Basic).
+[09/25/2024 22:28]  Ailiin: [Ripe, SQzD]
+[09/25/2024 22:28]  Ailiin: Ailiin
+[09/25/2024 22:28]  Ailiin: Kal Ort Por
+[09/25/2024 22:29]  System: LV Tailoring has completed the achievement: Tailor (Basic).
+[09/25/2024 22:29]  System: Low T has completed the achievement: Enchanter (Epic).
+[09/25/2024 22:30]  System: Windwar has completed the achievement: Transmutation (Advanced).
+[09/25/2024 22:30]  Ailiin: [Ripe, SQzD]
+[09/25/2024 22:30]  Ailiin: Ailiin
+[09/25/2024 22:30]  Lesser Magic Resist potion: [no longer locked down]
+[09/25/2024 22:30]  System: Annomalye has completed the achievement: Skill Mastery (Epic).
+[09/25/2024 22:30]  System: Annomalye has completed the achievement: Cartographer (Epic).
+[09/25/2024 22:31]  Lesser Heal potion: [no longer locked down]
+[09/25/2024 22:31]  : [locked down]
+[09/25/2024 22:31]  : [locked down]
+[09/25/2024 22:31]  Ailiin: Kal Ort Por
+[09/25/2024 22:35]  System: Pex Storm has completed the achievement: Echosmith (Basic).
+[09/25/2024 22:35]  System: Rodin has completed the achievement: Mini-Boss Slayer (Basic).
+[09/25/2024 22:35]  Ailiin: [Ripe, SQzD]
+[09/25/2024 22:35]  Ailiin: Ailiin
+[09/25/2024 22:35]  System: Emperor Nick V has completed the achievement: Aspect Mastery (Basic).
+[09/25/2024 22:36]  System: Mask Girl has completed the achievement: Nature Slayer (Basic).
+[09/25/2024 22:37]  System: The world will save in 15 seconds.
+[09/25/2024 22:38]  System: Selzyr has completed the achievement: Transmutation (Basic).
+[09/25/2024 22:38]  System: The world is saving, please wait.
+[09/25/2024 22:38]  System: World save complete. The entire process took 2.6 seconds.
+[09/25/2024 22:38]  System: FireFly has completed the achievement: Domestication (Basic).
+[09/25/2024 22:38]  System: Yerin Aurelius has completed the achievement: Scribe (Epic).
+[09/25/2024 22:40]  System: All the Ore has completed the achievement: Savant (Basic).
+[09/25/2024 22:41]  System: Dove Emry has completed the achievement: Transmutation (Basic).
+[09/25/2024 22:41]  System: Vial Wizard has completed the achievement: Scribe (Advanced).
+[09/25/2024 22:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 22:46]  Ailiin: [Ripe, SQzD]
+[09/25/2024 22:46]  Ailiin: Ailiin
+[09/25/2024 22:47]  System: Gofrik Ho has completed the achievement: Paragon Hunter (Basic).
+[09/25/2024 22:47]  System: Starr Force has completed the achievement: Domestication (Basic).
+[09/25/2024 22:47]  System: Hardy Har Har (RDRR) guild has reached prestige level 2.
+[09/25/2024 22:47]  System: Ihsahn has completed the achievement: Domestication (Basic).
+[09/25/2024 22:48]  System: You are now under the effect of a Song of Provocation (+7.4% damage against creatures for 15 minutes).
+[09/25/2024 22:50]  System: Shibster has completed the achievement: Leatherworker (Basic).
+[09/25/2024 22:52]  System: Bolty McBoltface has completed the achievement: Beastial Slayer (Basic).
+[09/25/2024 22:52]  System: The world will save in 15 seconds.
+[09/25/2024 22:52]  System: The Shrine of Valor has fallen to corruption!
+[09/25/2024 22:52]  System: The world is saving, please wait.
+[09/25/2024 22:53]  System: World save complete. The entire process took 2.6 seconds.
+[09/25/2024 22:53]  System: Shibster has completed the achievement: Order of Armorers Initiate.
+[09/25/2024 22:53]  System: Steve has completed the achievement: Triggered (Epic).
+[09/25/2024 22:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 22:55]  System: MunkyNut has completed the achievement: Paragon Slayer (Advanced).
+[09/25/2024 22:55]  System: Lilikairy has completed the achievement: Monstrous Slayer (Basic).
+[09/25/2024 22:55]  System: Neo The One has completed the achievement: Transmutation (Advanced).
+[09/25/2024 22:55]  System: Ra'ena has completed the achievement: Boss Slayer (Basic).
+[09/25/2024 22:56]  Ailiin: Kal Ort Por
+[09/25/2024 22:57]  System: Maximus Lootius has completed the achievement: Skinner (Basic).
+[09/25/2024 22:59]  System: Bhallo has completed the achievement: Colorful (Basic).
+[09/25/2024 22:59]  Ailiin: [Ripe, SQzD]
+[09/25/2024 22:59]  Ailiin: Ailiin
+[09/25/2024 23:03]  System: Your Song of Provocation effect ends.
+[09/25/2024 23:04]  System: Rayz has completed the achievement: Connoisseur (Advanced).
+[09/25/2024 23:05]  System: Xnor Druhy has completed the achievement: Triggered (Basic).
+[09/25/2024 23:05]  System: Not Gluten has completed the achievement: Guardian of Mount Petram (Basic).
+[09/25/2024 23:06]  System: Entropy- has completed the achievement: Shrine Boss Slayer (Basic).
+[09/25/2024 23:07]  System: The world will save in 15 seconds.
+[09/25/2024 23:07]  System: The world is saving, please wait.
+[09/25/2024 23:07]  System: World save complete. The entire process took 2.5 seconds.
+[09/25/2024 23:07]  System: PenTailor has completed the achievement: Tailor (Basic).
+[09/25/2024 23:08]  System: Lorry has completed the achievement: Transmutation (Epic).
+[09/25/2024 23:09]  System: Fithvael has completed the achievement: Engineer (Basic).
+[09/25/2024 23:09]  Ailiin: [Ripe, SQzD]
+[09/25/2024 23:09]  Ailiin: Ailiin
+[09/25/2024 23:10]  Ailiin: Bank Vendor buy
+[09/25/2024 23:10]  Ailiin: Room
+[09/25/2024 23:11]  System: Jim Bob has completed the achievement: Transmutation (Epic).
+[09/25/2024 23:11]  System: Slow Poke has completed the achievement: Skill Proficiency (Basic).
+[09/25/2024 23:12]  System: PenTailor has completed the achievement: Order of Armorers Initiate.
+[09/25/2024 23:14]  System: powerful tamer has completed the achievement: Artificers Enclave Associate.
+[09/25/2024 23:14]  System: Vator has completed the achievement: Triggered (Epic).
+[09/25/2024 23:14]  System: Mikeyy has completed the achievement: Aspect Mastery (Basic).
+[09/25/2024 23:16]  System: Jadaczka has completed the achievement: Guardian of The Mausoleum (Basic).
+[09/25/2024 23:16]  System: Lydia Boyle has completed the achievement: Artificer (Advanced).
+[09/25/2024 23:16]  System: Scribbles McGee has completed the achievement: Enchanter (Advanced).
+[09/25/2024 23:17]  System: Oddeye has completed the achievement: Echosmith (Advanced).
+[09/25/2024 23:18]  Ailiin: [Ripe, SQzD]
+[09/25/2024 23:18]  Ailiin: Ailiin
+[09/25/2024 23:20]  : [locked down]
+[09/25/2024 23:20]  : [locked down]
+[09/25/2024 23:20]  : [locked down]
+[09/25/2024 23:20]  : [locked down]
+[09/25/2024 23:20]  System: CeRBeR has completed the achievement: Guardian of The Mausoleum (Basic).
+[09/25/2024 23:20]  : [locked down]
+[09/25/2024 23:20]  : [locked down]
+[09/25/2024 23:20]  : [locked down]
+[09/25/2024 23:20]  : [locked down]
+[09/25/2024 23:20]  : [locked down]
+[09/25/2024 23:21]  : [locked down]
+[09/25/2024 23:21]  lantern: [locked down]
+[09/25/2024 23:21]  : [locked down]
+[09/25/2024 23:21]  : [locked down]
+[09/25/2024 23:21]  : [locked down]
+[09/25/2024 23:21]  : [locked down]
+[09/25/2024 23:21]  : [locked down]
+[09/25/2024 23:22]  System: The world will save in 15 seconds.
+[09/25/2024 23:22]  System: The world is saving, please wait.
+[09/25/2024 23:22]  System: World save complete. The entire process took 2.5 seconds.
+[09/25/2024 23:23]  spell rune: [no longer locked down]
+[09/25/2024 23:23]  mana rune: [no longer locked down]
+[09/25/2024 23:23]  immunity rune: [no longer locked down]
+[09/25/2024 23:23]  frenzy rune: [no longer locked down]
+[09/25/2024 23:23]  plant chemicals: [no longer locked down]
+[09/25/2024 23:23]  immunity rune: [no longer locked down]
+[09/25/2024 23:23]  lethal poison potion: [no longer locked down]
+[09/25/2024 23:23]  essence rune: [no longer locked down]
+[09/25/2024 23:23]  spellshielding rune: [no longer locked down]
+[09/25/2024 23:23]  poison warding rune: [no longer locked down]
+[09/25/2024 23:23]  Greater Agility potion: [no longer locked down]
+[09/25/2024 23:23]  : [no longer locked down]
+[09/25/2024 23:23]  : [no longer locked down]
+[09/25/2024 23:23]  : [no longer locked down]
+[09/25/2024 23:23]  : [no longer locked down]
+[09/25/2024 23:23]  : [no longer locked down]
+[09/25/2024 23:23]  rosehide potion satchel: [no longer locked down]
+[09/25/2024 23:23]  Lesser Heal potion: [no longer locked down]
+[09/25/2024 23:23]  Lesser Magic Resist potion: [no longer locked down]
+[09/25/2024 23:23]  leather chest: [no longer locked down]
+[09/25/2024 23:23]  leather leggings: [no longer locked down]
+[09/25/2024 23:23]  leather leggings: [no longer locked down]
+[09/25/2024 23:23]  leather chest: [no longer locked down]
+[09/25/2024 23:23]  leather gloves: [no longer locked down]
+[09/25/2024 23:23]  bone chest: [no longer locked down]
+[09/25/2024 23:23]  leather gorget: [no longer locked down]
+[09/25/2024 23:23]  leather gorget: [no longer locked down]
+[09/25/2024 23:23]  leather arms: [no longer locked down]
+[09/25/2024 23:23]  leather gloves: [no longer locked down]
+[09/25/2024 23:23]  detect hidden skill mastery sc: [no longer locked down]
+[09/25/2024 23:23]  shadow distillation: [no longer locked down]
+[09/25/2024 23:23]  carpet dye: [no longer locked down]
+[09/25/2024 23:23]  leather arms: [no longer locked down]
+[09/25/2024 23:23]  bone legs: [no longer locked down]
+[09/25/2024 23:23]  lesser paragon chest (wyvern h: [no longer locked down]
+[09/25/2024 23:23]  lesser paragon chest (wyvern h: [secured]
+[09/25/2024 23:26]  System: Nooah has completed the achievement: Skill Mastery (Epic).
+[09/25/2024 23:26]  System: Nooah has completed the achievement: Scribe (Epic).
+[09/25/2024 23:27]  System: x x' has completed the achievement: Connoisseur (Basic).
+[09/25/2024 23:27]  System: Melanmines has completed the achievement: Landowner (Advanced).
+[09/25/2024 23:28]  System: Scav Belakor has completed the achievement: Skinner (Basic).
+[09/25/2024 23:32]  System: Ottochad has completed the achievement: Affluent (Basic).
+[09/25/2024 23:34]  System: Baelyn Telyrei has completed the achievement: Guardian of Inferno (Basic).
+[09/25/2024 23:37]  System: The world will save in 15 seconds.
+[09/25/2024 23:37]  System: The world is saving, please wait.
+[09/25/2024 23:37]  System: World save complete. The entire process took 2.5 seconds.
+[09/25/2024 23:39]  System: Elexis has completed the achievement: Paragon Slayer (Basic).
+[09/25/2024 23:40]  System: Order of the Druid Bear (BEAR) guild has reached prestige level 76.
+[09/25/2024 23:40]  System: The Golden Circle (Au) guild has reached prestige level 41.
+[09/25/2024 23:40]  System: Reset Me has completed the achievement: Humanoid Slayer (Advanced).
+[09/25/2024 23:43]  System: Wukkazak has completed the achievement: Scientist (Basic).
+[09/25/2024 23:43]  Ailiin: [Ripe, SQzD]
+[09/25/2024 23:43]  Ailiin: Ailiin
+[09/25/2024 23:44]  System: Ganymedes has completed the achievement: Raffler (Basic).
+[09/25/2024 23:44]  Jaimito: Jaimito
+[09/25/2024 23:44]  System: Calyssta has completed the achievement: Wilderness Hunter (Basic).
+[09/25/2024 23:45]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 23:45]  System: Behrlie has completed the achievement: Guardian of Shadowspire (Basic).
+[09/25/2024 23:45]  Jaimito: Kal Ort Por
+[09/25/2024 23:46]  System: Flu Tamer has completed the achievement: Versatility (Basic).
+[09/25/2024 23:46]  System: Dart Missles has completed the achievement: Skill Proficiency (Basic).
+[09/25/2024 23:48]  System: Siseci has completed the achievement: Alchemist (Basic).
+[09/25/2024 23:49]  System: Pag has completed the achievement: Transmutation (Basic).
+[09/25/2024 23:49]  System: LV Tailoring has completed the achievement: Leatherworker (Basic).
+[09/25/2024 23:50]  System: Small Horror has completed the achievement: Nobility (Basic).
+[09/25/2024 23:51]  System: Crowbar Jones has completed the achievement: Artificers Enclave Dignitary.
+[09/25/2024 23:51]  Jaimito: Jaimito
+[09/25/2024 23:51]  Jaimito: Kal Ort Por
+[09/25/2024 23:51]  System: The world will save in 15 seconds.
+[09/25/2024 23:52]  System: The world is saving, please wait.
+[09/25/2024 23:52]  System: World save complete. The entire process took 2.7 seconds.
+[09/25/2024 23:52]  System: Fart Cop has completed the achievement: Skill Proficiency (Advanced).
+[09/25/2024 23:53]  Jaimito: Jaimito
+[09/25/2024 23:54]  Jaimito: Kal Ort Por
+[09/25/2024 23:54]  System: Isaac Netero has completed the achievement: Mugger (Basic).
+[09/25/2024 23:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 23:55]  Jaimito: Jaimito
+[09/25/2024 23:56]  System: Disasterpiece has completed the achievement: Weaponmastery (Epic).
+[09/25/2024 23:56]  Ailiin: Kal Ort Por
+[09/25/2024 23:57]  System: Alathar Theolin has completed the achievement: Versatility (Basic).
+[09/25/2024 23:58]  System: fix stuff has completed the achievement: Illusionist (Advanced).
+[09/25/2024 23:58]  System: MetaCraft has completed the achievement: Tradesman Union Associate.
+[09/25/2024 23:59]  System: FearUndead has completed the achievement: Elemental Slayer (Basic).
+[09/26/2024 00:00]  Ailiin: [Ripe, SQzD]
+[09/26/2024 00:00]  Ailiin: Ailiin
+[09/26/2024 00:00]  System: [DF] A Dungeon Flashpoint for Ossuary has begun! Type [BattleHotbar to view the Battle Hotbar for this event.

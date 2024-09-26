@@ -23,11 +23,41 @@
 #endif
 #loop
 
+#
+#while not dead
+#    if hp < 90
+#        cast 'heal'
+#        wft
+#        target self
+#    endif
+#endwhile
+#
+#while not dead 
+#    if skill 'magery' = 80
+#        stop
+#    endif
+#    if skill 'magery' > 59.9
+#        cast "Invisibility"
+#        wft
+#        target self
+#        wait 3000
+#    else
+#        cast "Lightning"
+#        wft
+#        target self
+#        wait 2000
+#    endif
+#    if hp < 90
+#        cast 'greater heal'
+#        wft
+#        target self
+#        wait 2000
+#    endif
+#    if hp < 20
+#        stop
+#    endif
+#endwhile
 
-while not dead
-    if hp < 90
-        cast 'heal'
-        wft
-        target self
-    endif
-endwhile
+dclicktype 3553
+wait 180000
+loop

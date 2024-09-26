@@ -1,0 +1,475 @@
+[09/23/2024 20:38]  System: WorldMap loading...
+[09/23/2024 20:38]  System: Loading WorldMap markers..
+[09/23/2024 20:38]  System: ..Banks_and_Healers.xml (39)
+[09/23/2024 20:38]  System: ..Dungeons.xml (13)
+[09/23/2024 20:38]  System: ..Dungeon_Gates.xml (388)
+[09/23/2024 20:38]  System: ..Healer_Caravans.xml (42)
+[09/23/2024 20:38]  System: ..Kings_Faire.xml (49)
+[09/23/2024 20:38]  System: ..Moongates.xml (10)
+[09/23/2024 20:38]  System: ..POI.xml (251)
+[09/23/2024 20:38]  System: ..PvP_Locations.xml (71)
+[09/23/2024 20:38]  System: ..Shrines.xml (9)
+[09/23/2024 20:38]  System: ..Sub-Dungeons.xml (4)
+[09/23/2024 20:38]  System: ..Townships.xml (10)
+[09/23/2024 20:38]  System: ..UOAM_Atlas.xml (1887)
+[09/23/2024 20:38]  System: ..UOAM_T-Map.xml (255)
+[09/23/2024 20:38]  System: ..UOAM_Treasure.xml (523)
+[09/23/2024 20:38]  System: WorldMap markers loaded (3551)
+[09/23/2024 20:38]  System: Welcome Fierro!
+[09/23/2024 20:38]  Fierro: Your mount finds a quiet place to rest safely.
+[09/23/2024 20:38]  Fierro: Fierro
+[09/23/2024 20:38]  a colossal frog: (bonded)
+[09/23/2024 20:38]  a colossal frog: a colossal frog
+[09/23/2024 20:38]  a colossal frog: (bonded)
+[09/23/2024 20:38]  a colossal frog: a colossal frog
+[09/23/2024 20:38]  a cave bear: (bonded)
+[09/23/2024 20:38]  a cave bear: a cave bear
+[09/23/2024 20:38]  a headless: a headless
+[09/23/2024 20:38]  Neku: Neku (Young)
+[09/23/2024 20:38]  Locka: Locka (Young)
+[09/23/2024 20:38]  a horse: (tame)
+[09/23/2024 20:38]  a horse: a horse
+[09/23/2024 20:38]  a colossal frog: (tame)
+[09/23/2024 20:38]  a colossal frog: a colossal frog
+[09/23/2024 20:38]  a colossal frog: (tame)
+[09/23/2024 20:38]  a colossal frog: a colossal frog
+[09/23/2024 20:38]  a colossal frog: (tame)
+[09/23/2024 20:38]  a colossal frog: a colossal frog
+[09/23/2024 20:38]  a mongbat: a mongbat
+[09/23/2024 20:38]  McRoach: McRoach (Young)
+[09/23/2024 20:38]  Radagastt: Radagastt (Young)
+[09/23/2024 20:38]  Shen the Sentry: [Sentry, Tale]
+[09/23/2024 20:38]  Shen the Sentry: Shen the Sentry
+[09/23/2024 20:38]  Morwag: [DPS]
+[09/23/2024 20:38]  Morwag: Lord Morwag
+[09/23/2024 20:38]  BoomBee: [New Player, NP$]
+[09/23/2024 20:38]  BoomBee: BoomBee
+[09/23/2024 20:38]  a zombie: a zombie
+[09/23/2024 20:38]  Warner the Watch: [Knight, Sir.]
+[09/23/2024 20:38]  Warner the Watch: Warner the Watch
+[09/23/2024 20:38]  Dark Phoenix: Legendary Domesticator
+[09/23/2024 20:38]  Dark Phoenix: [Purveyor], [D^O]
+[09/23/2024 20:38]  Dark Phoenix: Lord Dark Phoenix
+[09/23/2024 20:38]  Owlcast: Owlcast
+[09/23/2024 20:38]  Mc Donalds: Mc Donalds (Young)
+[09/23/2024 20:38]  PeterPettigrew: [Recruit, COOL]
+[09/23/2024 20:38]  PeterPettigrew: PeterPettigrew
+[09/23/2024 20:38]  Baska: Baska (Young)
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a giant rat corpse
+[09/23/2024 20:38]  You see: a giant rat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a headless corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a wounded harpy corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a giant rat corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a giant rat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  a headless: *looks calmed*
+[09/23/2024 20:38]  System: WorldMap loaded!
+[09/23/2024 20:38]  Morwag: An Lor Xen
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  Warner the Watch: *area taunt*
+[09/23/2024 20:38]  Morwag: An Lor Xen
+[09/23/2024 20:38]  Morwag: An Lor Xen
+[09/23/2024 20:38]  You see: a giant rat corpse
+[09/23/2024 20:38]  You see: a headless corpse
+[09/23/2024 20:38]  Morwag: An Lor Xen
+[09/23/2024 20:38]  Radagastt: all guard me
+[09/23/2024 20:38]  Morwag: An Lor Xen
+[09/23/2024 20:38]  You see: a mongbat corpse
+[09/23/2024 20:38]  You see: a rotting corpse
+[09/23/2024 20:38]  Morwag: An Lor Xen
+[09/23/2024 20:38]  Warner the Watch: *area taunt*
+[09/23/2024 20:38]  Morwag: An Lor Xen
+[09/23/2024 20:39]  Radagastt: Radagastt (Young)
+[09/23/2024 20:39]  Morwag: An Lor Xen
+[09/23/2024 20:39]  Radagastt: all follow me
+[09/23/2024 20:39]  Fierro: Fierro
+[09/23/2024 20:39]  Morwag: An Lor Xen
+[09/23/2024 20:39]  Morwag: An Lor Xen
+[09/23/2024 20:39]  a zombie: a zombie
+[09/23/2024 20:39]  Morwag: An Lor Xen
+[09/23/2024 20:39]  Warner the Watch: *area taunt*
+[09/23/2024 20:39]  Morwag: An Lor Xen
+[09/23/2024 20:39]  You see: a mongbat corpse
+[09/23/2024 20:39]  Morwag: An Lor Xen
+[09/23/2024 20:39]  Ringmaster: [ring]
+[09/23/2024 20:39]  Ringmaster: Lord Ringmaster
+[09/23/2024 20:39]  Treasure Trail: [Knight, C-C]
+[09/23/2024 20:39]  Treasure Trail: Treasure Trail
+[09/23/2024 20:39]  Victoria'sSecret: Victoria'sSecret
+[09/23/2024 20:39]  Dread.: Dread.
+[09/23/2024 20:39]  Dread.: An Lor Xen
+[09/23/2024 20:39]  a wounded harpy: a wounded harpy
+[09/23/2024 20:39]  You see: a giant rat corpse
+[09/23/2024 20:39]  Erik VonStrider: Erik VonStrider (Young)
+[09/23/2024 20:39]  Morwag: An Lor Xen
+[09/23/2024 20:39]  System: You may not loot this corpse.
+[09/23/2024 20:39]  System: You may not loot this corpse.
+[09/23/2024 20:39]  System: You may not loot this corpse.
+[09/23/2024 20:39]  System: You are now under the protection of the town guards.
+[09/23/2024 20:39]  Fierro: Your mount returns.
+[09/23/2024 20:39]  a hind: a hind
+[09/23/2024 20:39]  an eagle: an eagle
+[09/23/2024 20:39]  Steinmeier: Steinmeier (Young)
+[09/23/2024 20:39]  a pack llama: (tame)
+[09/23/2024 20:39]  a pack llama: [420/2000 stones]
+[09/23/2024 20:39]  a pack llama: a pack llama
+[09/23/2024 20:39]  a pack llama: (tame)
+[09/23/2024 20:39]  a pack llama: [0/2000 stones]
+[09/23/2024 20:39]  a pack llama: a pack llama
+[09/23/2024 20:39]  Jora: Jora the guard
+[09/23/2024 20:39]  war mode: [MMx]
+[09/23/2024 20:39]  war mode: war mode
+[09/23/2024 20:39]  maestrina: maestrina (Young)
+[09/23/2024 20:39]  Aridon: Aridon (Young)
+[09/23/2024 20:39]  Draven Stalemate: [Gladiator, Tale]
+[09/23/2024 20:39]  Draven Stalemate: Lord Draven Stalemate
+[09/23/2024 20:39]  Kaelric: Kaelric (Young)
+[09/23/2024 20:39]  war mode: Join Moonglow Mechanics [MMx]! Message @mmx_info on Discord
+[09/23/2024 20:39]  Heathencrawl: Heathencrawl
+[09/23/2024 20:39]  war mode: New to Ultima Online or looking to speed up your progress?
+[09/23/2024 20:39]  You see: gold coin : 22
+[09/23/2024 20:39]  Perilous: Perilous
+[09/23/2024 20:39]  Dusty: Dusty the cook
+[09/23/2024 20:39]  war mode: We are here to make the game less confusing and more fun while playing with great people!
+[09/23/2024 20:39]  Jake: Jake the barkeep
+[09/23/2024 20:39]  Jake: Jake the barkeep
+[09/23/2024 20:39]  Dane: Dane the farmer
+[09/23/2024 20:39]  Len: Len the banker
+[09/23/2024 20:39]  Schizofrenie: Schizofrenie (Young)
+[09/23/2024 20:39]  Dusty: Dusty the cook
+[09/23/2024 20:39]  a horse: (tame)
+[09/23/2024 20:39]  a horse: a horse
+[09/23/2024 20:39]  LiquidToast: LiquidToast (Young)
+[09/23/2024 20:39]  a sheep: a sheep
+[09/23/2024 20:39]  a sheep: a sheep
+[09/23/2024 20:39]  Jolanta: Jolanta the Paladin
+[09/23/2024 20:39]  Ayisha: Ayisha the weaponsmith
+[09/23/2024 20:39]  LiquidToast: LiquidToast (Young)
+[09/23/2024 20:39]  Giles: Giles the thief
+[09/23/2024 20:39]  Alicia: Alicia the tavern keeper
+[09/23/2024 20:39]  Bytor: Bytor (Young)
+[09/23/2024 20:39]  Colon: Colon the Town Crier
+[09/23/2024 20:39]  an aegis rat: (summoned)
+[09/23/2024 20:39]  an aegis rat: an aegis rat
+[09/23/2024 20:39]  Tresor: [Le Francais, LEET]
+[09/23/2024 20:39]  Tresor: Lord Tresor
+[09/23/2024 20:39]  Kyhra: Kyhra (Young)
+[09/23/2024 20:39]  a pack horse: (tame)
+[09/23/2024 20:39]  a pack horse: [0/2000 stones]
+[09/23/2024 20:39]  a pack horse: a pack horse
+[09/23/2024 20:39]  a sheep: a sheep
+[09/23/2024 20:39]  Raerik: Raerik
+[09/23/2024 20:39]  Amadis: Amadis the armorer
+[09/23/2024 20:39]  a sheep: a sheep
+[09/23/2024 20:39]  Subrey: Subrey the provisioner
+[09/23/2024 20:39]  Bilal: Bilal the blacksmith
+[09/23/2024 20:39]  Ardith: Ardith the tailor
+[09/23/2024 20:39]  Crystal: Crystal the tinker
+[09/23/2024 20:39]  Saxon: Saxon the lumberjack
+[09/23/2024 20:39]  Selina: Selina the jeweler
+[09/23/2024 20:39]  a magpie: a magpie
+[09/23/2024 20:39]  a pack horse: (tame)
+[09/23/2024 20:39]  a pack horse: [0/2000 stones]
+[09/23/2024 20:39]  a pack horse: a pack horse
+[09/23/2024 20:39]  oneplus: oneplus (Young)
+[09/23/2024 20:39]  a raven: a raven
+[09/23/2024 20:39]  Wanda: Wanda the blacksmith
+[09/23/2024 20:39]  AskChopper.: Mythical Engineer
+[09/23/2024 20:39]  AskChopper.: [Soldier, SOF]
+[09/23/2024 20:39]  AskChopper.: AskChopper.
+[09/23/2024 20:39]  a magpie: a magpie
+[09/23/2024 20:39]  MILF Money: [[tT]
+[09/23/2024 20:39]  MILF Money: MILF Money
+[09/23/2024 20:39]  Subrey: Subrey the provisioner
+[09/23/2024 20:39]  a sheep: a sheep
+[09/23/2024 20:39]  MILF Money: [[tT]
+[09/23/2024 20:39]  MILF Money: MILF Money
+[09/23/2024 20:39]  Yahni: Yahni
+[09/23/2024 20:39]  Carol: Carol the miner
+[09/23/2024 20:39]  Traxex': Paragon Hunter
+[09/23/2024 20:39]  Traxex': [Drow Ranger, COE]
+[09/23/2024 20:39]  Traxex': Lady Traxex'
+[09/23/2024 20:39]  Xandarth: Xandarth
+[09/23/2024 20:39]  Mercedes: Mercedes the ranger
+[09/23/2024 20:39]  Heavenly Funk: Heavenly Funk
+[09/23/2024 20:40]  Forbes: Forbes
+[09/23/2024 20:40]  Rogar Bolton: Rogar Bolton
+[09/23/2024 20:40]  Delia Darkmire: Legendary Pickpocket
+[09/23/2024 20:40]  Delia Darkmire: Lady Delia Darkmire
+[09/23/2024 20:40]  System: Malcolm MacGowan has completed the achievement: Alchemist (Basic).
+[09/23/2024 20:40]  of the Lawless: Lady of the Lawless
+[09/23/2024 20:40]  Carol: Carol the miner
+[09/23/2024 20:40]  Dooble: [Tets Mall, CFC]
+[09/23/2024 20:40]  Dooble: Dooble
+[09/23/2024 20:40]  Favstvs: Artificer Dignitary
+[09/23/2024 20:40]  Favstvs: [Veteran, Syn]
+[09/23/2024 20:40]  Favstvs: Favstvs
+[09/23/2024 20:40]  Floorskin: Skinner
+[09/23/2024 20:40]  Floorskin: Floorskin
+[09/23/2024 20:40]  Requies: Scientist
+[09/23/2024 20:40]  Requies: [TRT]
+[09/23/2024 20:40]  Requies: Requies
+[09/23/2024 20:40]  Moosebear: Moosebear
+[09/23/2024 20:40]  Trancoso-Jarbas: Trancoso-Jarbas
+[09/23/2024 20:40]  Brentan: Brentan the miner
+[09/23/2024 20:40]  Craft Her: Craft Her
+[09/23/2024 20:40]  Snow Gate: Legendary Tailor
+[09/23/2024 20:40]  Snow Gate: [La Recruteuse, LDS]
+[09/23/2024 20:40]  Snow Gate: Snow Gate
+[09/23/2024 20:40]  Cook: Exalted Gladiator
+[09/23/2024 20:40]  Cook: Cook
+[09/23/2024 20:40]  Err'rr: Legendary Boss Slayer
+[09/23/2024 20:40]  Err'rr: [Grunt, Ork]
+[09/23/2024 20:40]  Err'rr: Lord Err'rr
+[09/23/2024 20:40]  Dignson: Dignson
+[09/23/2024 20:40]  Connie Cunaman: Captain
+[09/23/2024 20:40]  Connie Cunaman: [Slept with the, BOSS]
+[09/23/2024 20:40]  Connie Cunaman: Connie Cunaman
+[09/23/2024 20:40]  MasterGaterAlt: MasterGaterAlt
+[09/23/2024 20:40]  Legasus: [Officer, ViPs]
+[09/23/2024 20:40]  Legasus: Legasus
+[09/23/2024 20:40]  a prevalian mage: Legendary Scribe
+[09/23/2024 20:40]  a prevalian mage: a prevalian mage
+[09/23/2024 20:40]  Ekscentrix: Ekscentrix
+[09/23/2024 20:40]  NewType mrs: [AHO]
+[09/23/2024 20:40]  NewType mrs: NewType mrs
+[09/23/2024 20:40]  Trancoso-Jarbas: 5k/week Vendor spots available
+[09/23/2024 20:40]  KhalsLibrary: (bonded)
+[09/23/2024 20:40]  KhalsLibrary: KhalsLibrary
+[09/23/2024 20:40]  South Side Gnome: [Officer, 1CE]
+[09/23/2024 20:40]  South Side Gnome: South Side Gnome
+[09/23/2024 20:40]  For FS: [Prospect, DPS]
+[09/23/2024 20:40]  For FS: For FS
+[09/23/2024 20:40]  Bowlcut: Monster Hunter Initiate
+[09/23/2024 20:40]  Bowlcut: [Pirate, P.S.]
+[09/23/2024 20:40]  Bowlcut: Bowlcut
+[09/23/2024 20:40]  Dead Skin Mask: Wizard
+[09/23/2024 20:40]  Dead Skin Mask: Lord Dead Skin Mask
+[09/23/2024 20:40]  Oh Peaches: [Concierge, Inn]
+[09/23/2024 20:40]  Oh Peaches: Oh Peaches
+[09/23/2024 20:40]  Willem Sznicer: [Taki Se, AWN]
+[09/23/2024 20:40]  Willem Sznicer: Willem Sznicer
+[09/23/2024 20:40]  Legasus: Check out the items for sale at NomNom Manor!!  (ONE WAY GATE)
+[09/23/2024 20:40]  Connie Cunaman: VENDOR SPOTS 2K!!!
+[09/23/2024 20:40]  Uber Blue Light: [Teetotaler, NDA]
+[09/23/2024 20:40]  Uber Blue Light: Uber Blue Light
+[09/23/2024 20:40]  Ted.: Ted.
+[09/23/2024 20:40]  A Sillyy Goose: [Senior Officer, TES]
+[09/23/2024 20:40]  A Sillyy Goose: A Sillyy Goose
+[09/23/2024 20:40]  Walter Gater: Walter Gater
+[09/23/2024 20:40]  NewType mrs: Great vendor house. cmon baby....
+[09/23/2024 20:40]  Connie Cunaman: VENDOR SPOTS 2K!!!
+[09/23/2024 20:40]  Trancoso-Jarbas: 60+ vendor spots location (1436, 1338)
+[09/23/2024 20:40]  Dooble: Biggest Tets Vendor Mall!
+[09/23/2024 20:40]  A Sillyy Goose: Vas Rel Por
+[09/23/2024 20:40]  Lameura: (bonded)
+[09/23/2024 20:40]  Lameura: Lameura
+[09/23/2024 20:40]  Stebert Irwin: [Squire, C-C]
+[09/23/2024 20:40]  Stebert Irwin: Stebert Irwin
+[09/23/2024 20:40]  For FS: Come check out vendor "Deals-N-Steals"  Cores, Distills, Look To The East!
+[09/23/2024 20:40]  Trancoso-Jarbas: Brigand Camp 3 Mall
+[09/23/2024 20:40]  Legasus: Scanned by Outland Malls Daily!  (ONE WAY GATE)
+[09/23/2024 20:40]  Dooble: Step right up to 40 vendor spots!
+[09/23/2024 20:40]  Razor: [+Hidden/Stealthing (0s)]
+[09/23/2024 20:40]  [Razor]: Steps: 0
+[09/23/2024 20:40]  Opening Soon: Opening Soon
+[09/23/2024 20:40]  RARE LOOT: RARE LOOT
+[09/23/2024 20:40]  HIGH END TOOLS: HIGH END TOOLS
+[09/23/2024 20:40]  Bel: Bel
+[09/23/2024 20:40]  DreadLordRiak: DreadLordRiak
+[09/23/2024 20:40]  INSCRIPTION & BOOKS: INSCRIPTION & BOOKS
+[09/23/2024 20:40]  TINKERING & TOOLS: TINKERING & TOOLS
+[09/23/2024 20:40]  BuyingDarkSalmon: BuyingDarkSalmon the battle trainer
+[09/23/2024 20:40]  Razor: [-Hidden/Stealthing (s)]
+[09/23/2024 20:40]  a plover: a plover
+[09/23/2024 20:40]  System: You have left the protection of the town guards.
+[09/23/2024 20:40]  a brown bear: a brown bear
+[09/23/2024 20:40]  Rippsta: Rippsta
+[09/23/2024 20:40]  a hind: a hind
+[09/23/2024 20:40]  an eagle: an eagle
+[09/23/2024 20:40]  a crow: a crow
+[09/23/2024 20:40]  Jotha: Jotha the lumberjack
+[09/23/2024 20:40]  a gazer larva: a gazer larva
+[09/23/2024 20:40]  a giant rat: a giant rat
+[09/23/2024 20:40]  a brown bear: a brown bear
+[09/23/2024 20:40]  a dog: a dog
+[09/23/2024 20:40]  System: You are now under the protection of the town guards.
+[09/23/2024 20:40]  You see: the remains of Piolho
+[09/23/2024 20:40]  a dog: a dog
+[09/23/2024 20:40]  Adena: Adena the alchemist
+[09/23/2024 20:40]  Lunt: Lunt the herbalist
+[09/23/2024 20:40]  a dog: a dog
+[09/23/2024 20:40]  oFrizz: Legendary Connoisseur
+[09/23/2024 20:40]  oFrizz: Lord oFrizz
+[09/23/2024 20:40]  a dog: a dog
+[09/23/2024 20:40]  a wolf: a wolf
+[09/23/2024 20:40]  Asta: Asta the mage
+[09/23/2024 20:40]  a dog: a dog
+[09/23/2024 20:40]  Yah Kaved: [Member, vD]
+[09/23/2024 20:40]  Yah Kaved: Yah Kaved
+[09/23/2024 20:40]  Thurston: Thurston the waiter
+[09/23/2024 20:40]  Renee: Renee the stablemaster
+[09/23/2024 20:40]  Adena: Adena the alchemist
+[09/23/2024 20:40]  Donnelly: Donnelly the scribe
+[09/23/2024 20:40]  Asta: Asta the mage
+[09/23/2024 20:40]  Ravi: Ravi the Town Crier
+[09/23/2024 20:40]  Vibeke: Vibeke
+[09/23/2024 20:40]  Thurston: Thurston the waiter
+[09/23/2024 20:40]  Yah Kaved: [Member, vD]
+[09/23/2024 20:40]  Yah Kaved: Yah Kaved
+[09/23/2024 20:40]  a cat: a cat
+[09/23/2024 20:40]  Denton: Denton the innkeeper
+[09/23/2024 20:40]  a dog: a dog
+[09/23/2024 20:40]  a cat: a cat
+[09/23/2024 20:40]  Renee: Renee the stablemaster
+[09/23/2024 20:40]  a goat: a goat
+[09/23/2024 20:40]  Keara: Keara the stablemaster
+[09/23/2024 20:40]  a pack horse: *released*
+[09/23/2024 20:40]  a pack horse: [0/2000 stones]
+[09/23/2024 20:40]  a pack horse: a pack horse
+[09/23/2024 20:40]  a dog: a dog
+[09/23/2024 20:40]  Hanan: Hanan the animal wrangler
+[09/23/2024 20:40]  Fierro: bank room vendor buy
+[09/23/2024 20:40]  Kama: Kama the creature broker
+[09/23/2024 20:40]  Ailiin: [Ripe, SQzD]
+[09/23/2024 20:40]  Ailiin: Ailiin
+[09/23/2024 20:40]  System: The server will be coming down for a patch in 5 minutes.
+[09/23/2024 20:41]  Kama: Kama the creature broker
+[09/23/2024 20:41]  Ailiin: Bank Vendor buy
+[09/23/2024 20:41]  Ailiin: Room
+[09/23/2024 20:41]  Kama: Kama the creature broker
+[09/23/2024 20:41]  System: Bazileus has completed the achievement: Scribe (Basic).
+[09/23/2024 20:41]  Denton: Denton the innkeeper
+[09/23/2024 20:41]  Cthurolog: Cthurolog
+[09/23/2024 20:41]  Hanan: Hanan the animal wrangler
+[09/23/2024 20:41]  Fierro: bank room vendor buy
+[09/23/2024 20:41]  System: You have left the protection of the town guards.
+[09/23/2024 20:41]  System: You enter the rental room.
+[09/23/2024 20:41]  Jaimito: Jaimito
+[09/23/2024 20:41]  Ailiin: [Ripe, SQzD]
+[09/23/2024 20:41]  Ailiin: Ailiin
+[09/23/2024 20:41]  System: WorldMap loaded!
+[09/23/2024 20:41]  System: Opening door...
+[09/23/2024 20:41]  System: You are now under the protection of the town guards.
+[09/23/2024 20:41]  System: You exit the rental room.
+[09/23/2024 20:41]  a goat: a goat
+[09/23/2024 20:41]  Hanan: Hanan the animal wrangler
+[09/23/2024 20:41]  Kama: Kama the creature broker
+[09/23/2024 20:41]  a goat: a goat
+[09/23/2024 20:41]  Keara: Keara the stablemaster
+[09/23/2024 20:41]  Renee: Renee the stablemaster
+[09/23/2024 20:41]  a dog: a dog
+[09/23/2024 20:41]  a pack horse: *released*
+[09/23/2024 20:41]  a pack horse: [0/2000 stones]
+[09/23/2024 20:41]  a pack horse: a pack horse
+[09/23/2024 20:41]  Denton: Denton the innkeeper
+[09/23/2024 20:41]  Thurston: Thurston the waiter
+[09/23/2024 20:41]  Yah Kaved: [Member, vD]
+[09/23/2024 20:41]  Yah Kaved: Yah Kaved
+[09/23/2024 20:41]  a dog: a dog
+[09/23/2024 20:41]  System: Opening door...
+[09/23/2024 20:41]  System: WorldMap loaded!
+[09/23/2024 20:41]  Cthurolog: Cthurolog
+[09/23/2024 20:41]  You see: iron lockpicks
+[09/23/2024 20:41]  You see: (100 uses remaining)
+[09/23/2024 20:42]  a cat: a cat
+[09/23/2024 20:42]  a dog: a dog
+[09/23/2024 20:42]  a cat: a cat
+[09/23/2024 20:42]  Dacey: Dacey the waiter
+[09/23/2024 20:42]  Callidora: Callidora the tavern keeper
+[09/23/2024 20:42]  a cat: a cat
+[09/23/2024 20:42]  Vibeke: Vibeke
+[09/23/2024 20:42]  a dog: a dog
+[09/23/2024 20:42]  Ravi: Ravi the Town Crier
+[09/23/2024 20:42]  Donnelly: Donnelly the scribe
+[09/23/2024 20:42]  DiE: (bonded)
+[09/23/2024 20:42]  DiE: DiE
+[09/23/2024 20:42]  Zlaty: (bonded)
+[09/23/2024 20:42]  Zlaty: Zlaty
+[09/23/2024 20:42]  Vor'Dus: Beastmaster
+[09/23/2024 20:42]  Vor'Dus: [7n]
+[09/23/2024 20:42]  Vor'Dus: Vor'Dus
+[09/23/2024 20:42]  a cat: a cat
+[09/23/2024 20:42]  Arbor the tree: Legendary Carpenter
+[09/23/2024 20:42]  Arbor the tree: [Ancient, Oak]
+[09/23/2024 20:42]  Arbor the tree: Lord Arbor the tree
+[09/23/2024 20:42]  a dog: a dog
+[09/23/2024 20:42]  Brandi: Brandi the banker
+[09/23/2024 20:42]  Carpenterry: Carpenterry
+[09/23/2024 20:42]  a cat: a cat
+[09/23/2024 20:42]  a dog: a dog
+[09/23/2024 20:42]  Dacey: Dacey the waiter
+[09/23/2024 20:42]  System: Being perfectly rested, you shove them out of the way.
+[09/23/2024 20:42]  System: Elunas has completed the achievement: Guardian of Kraul Hive (Basic).
+[09/23/2024 20:42]  oFrizz: Legendary Connoisseur
+[09/23/2024 20:42]  oFrizz: Lord oFrizz
+[09/23/2024 20:42]  oFrizz: Legendary Connoisseur
+[09/23/2024 20:42]  oFrizz: Lord oFrizz
+[09/23/2024 20:42]  oFrizz: Legendary Connoisseur
+[09/23/2024 20:42]  oFrizz: Lord oFrizz
+[09/23/2024 20:42]  oFrizz: Legendary Connoisseur
+[09/23/2024 20:42]  oFrizz: Lord oFrizz
+[09/23/2024 20:42]  Fierro: bank room vendor buy
+[09/23/2024 20:42]  Fierro: Items: 10/125
+[09/23/2024 20:42]  Fierro: Total Weight: 41
+[09/23/2024 20:42]  You see: backpack
+[09/23/2024 20:42]  You see: (0 items, 0 stones)
+[09/23/2024 20:42]  System: Staff message from Owyn:
+[09/23/2024 20:42]  System: A new MANDATORY file patch is now available for download.  Please run your launchers before you login next and click VERIFY to confirm your files are up to date.
+[09/23/2024 20:42]  a dog: a dog
+[09/23/2024 20:42]  Dacey: Dacey the waiter
+[09/23/2024 20:42]  a cat: a cat
+[09/23/2024 20:42]  a cat: a cat
+[09/23/2024 20:42]  Callidora: Callidora the tavern keeper
+[09/23/2024 20:42]  a dog: a dog
+[09/23/2024 20:42]  Donnelly: Donnelly the scribe
+[09/23/2024 20:42]  Thurston: Thurston the waiter
+[09/23/2024 20:42]  a cat: a cat
+[09/23/2024 20:42]  Yah Kaved: [Member, vD]
+[09/23/2024 20:42]  Yah Kaved: Yah Kaved
+[09/23/2024 20:42]  a dog: a dog
+[09/23/2024 20:42]  Denton: Denton the innkeeper
+[09/23/2024 20:42]  Renee: Renee the stablemaster
+[09/23/2024 20:42]  a dog: a dog
+[09/23/2024 20:42]  a pack horse: *released*
+[09/23/2024 20:42]  a pack horse: [0/2000 stones]
+[09/23/2024 20:42]  a pack horse: a pack horse
+[09/23/2024 20:42]  a goat: a goat
+[09/23/2024 20:42]  Keara: Keara the stablemaster
+[09/23/2024 20:42]  Hanan: Hanan the animal wrangler
+[09/23/2024 20:42]  Fierro: bank room vendor buy
+[09/23/2024 20:42]  a dog: a dog
+[09/23/2024 20:42]  System: You have left the protection of the town guards.
+[09/23/2024 20:42]  System: You enter the rental room.
+[09/23/2024 20:42]  Jaimito: Jaimito
+[09/23/2024 20:42]  Ailiin: [Ripe, SQzD]
+[09/23/2024 20:42]  Ailiin: Ailiin
+[09/23/2024 20:42]  System: WorldMap loaded!
+[09/23/2024 20:42]  You see: exceptional ringmail helm

@@ -1,0 +1,3155 @@
+[09/25/2024 10:42]  System: WorldMap loading...
+[09/25/2024 10:42]  System: Loading WorldMap markers..
+[09/25/2024 10:42]  System: ..Banks_and_Healers.xml (39)
+[09/25/2024 10:42]  System: ..Dungeons.xml (13)
+[09/25/2024 10:42]  System: ..Dungeon_Gates.xml (392)
+[09/25/2024 10:42]  System: ..Healer_Caravans.xml (42)
+[09/25/2024 10:42]  System: ..Kings_Faire.xml (49)
+[09/25/2024 10:42]  System: ..Moongates.xml (10)
+[09/25/2024 10:42]  System: ..POI.xml (251)
+[09/25/2024 10:42]  System: ..PvP_Locations.xml (71)
+[09/25/2024 10:42]  System: ..Shrines.xml (9)
+[09/25/2024 10:42]  System: ..Sub-Dungeons.xml (4)
+[09/25/2024 10:42]  System: ..Townships.xml (10)
+[09/25/2024 10:42]  System: ..UOAM_Atlas.xml (1887)
+[09/25/2024 10:42]  System: ..UOAM_T-Map.xml (255)
+[09/25/2024 10:42]  System: ..UOAM_Treasure.xml (523)
+[09/25/2024 10:42]  System: WorldMap markers loaded (3555)
+[09/25/2024 10:42]  System: Welcome Eldevil!
+[09/25/2024 10:42]  System: WorldMap loaded!
+[09/25/2024 10:42]  Eldevil: Eldevil
+[09/25/2024 10:42]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[09/25/2024 10:43]  System: Znk has completed the achievement: Savant (Basic).
+[09/25/2024 10:44]  You see: Cure potion : 5
+[09/25/2024 10:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 10:46]  System: Select an item or mobile to view/inspect
+[09/25/2024 10:46]  [Razor]: LanguageString "ScriptCopied" not found!
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:46]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Your campfire is now secure.
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:47]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: The world will save in 15 seconds.
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: The world is saving, please wait.
+[09/25/2024 10:48]  System: World save complete. The entire process took 2.7 seconds.
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Ana Nita has completed the achievement: Artificers Enclave Initiate.
+[09/25/2024 10:48]  System: Made in China (CN) guild has reached prestige level 221.
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:48]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  You see: kindling : 14
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Camping skillgain: 2.411%
+[09/25/2024 10:49]  System: Opening door...
+[09/25/2024 10:49]  System: You are now under the protection of the town guards.
+[09/25/2024 10:49]  System: You exit the rental room.
+[09/25/2024 10:49]  a pig: a pig
+[09/25/2024 10:49]  a cow: a cow
+[09/25/2024 10:49]  a pig: a pig
+[09/25/2024 10:49]  Cedric: Cedric the farmer
+[09/25/2024 10:49]  a bull: a bull
+[09/25/2024 10:49]  a goat: a goat
+[09/25/2024 10:49]  Kama: Kama the creature broker
+[09/25/2024 10:49]  Hanan: Hanan the animal wrangler
+[09/25/2024 10:49]  a dog: a dog
+[09/25/2024 10:49]  Kill MaLandlord: Kill MaLandlord
+[09/25/2024 10:49]  an ember drake: (bonded)
+[09/25/2024 10:49]  an ember drake: an ember drake
+[09/25/2024 10:49]  a goat: a goat
+[09/25/2024 10:49]  Keara: Keara the stablemaster
+[09/25/2024 10:49]  Renee: Renee the stablemaster
+[09/25/2024 10:49]  Denton: Denton the innkeeper
+[09/25/2024 10:49]  a dog: a dog
+[09/25/2024 10:49]  System: WorldMap loaded!
+[09/25/2024 10:49]  System: Opening door...
+[09/25/2024 10:49]  a dog: a dog
+[09/25/2024 10:49]  Thurston: Thurston the waiter
+[09/25/2024 10:49]  packanimal: (tame)
+[09/25/2024 10:49]  packanimal: [0/2000 stones]
+[09/25/2024 10:49]  packanimal: [0/125 items]
+[09/25/2024 10:49]  packanimal: packanimal
+[09/25/2024 10:49]  KalouseK: [MEMO]
+[09/25/2024 10:49]  KalouseK: KalouseK
+[09/25/2024 10:49]  a dog: a dog
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  a dog: a dog
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  Talbart: Talbart the marine
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  Dacey: Dacey the waiter
+[09/25/2024 10:49]  Callidora: Callidora the tavern keeper
+[09/25/2024 10:49]  Ravi: Ravi the Town Crier
+[09/25/2024 10:49]  Donnelly: Donnelly the scribe
+[09/25/2024 10:49]  Skoll the Mad: Skoll the Mad
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  a dog: a dog
+[09/25/2024 10:49]  Arbor the tree: Legendary Carpenter
+[09/25/2024 10:49]  Arbor the tree: [Ancient, Oak]
+[09/25/2024 10:49]  Arbor the tree: Lord Arbor the tree
+[09/25/2024 10:49]  Talbart: Talbart the marine
+[09/25/2024 10:49]  Brandi: Brandi the banker
+[09/25/2024 10:49]  Dacey: Dacey the waiter
+[09/25/2024 10:49]  Callidora: Callidora the tavern keeper
+[09/25/2024 10:49]  Savannah Dark: [Nomad, ULA]
+[09/25/2024 10:49]  Savannah Dark: Savannah Dark
+[09/25/2024 10:49]  Mataya: [Nomad, ULA]
+[09/25/2024 10:49]  Mataya: Mataya
+[09/25/2024 10:49]  Zara: Zara the cook
+[09/25/2024 10:49]  Tadi: Tadi the barkeep
+[09/25/2024 10:49]  Guy: Guy the blacksmith
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  Lari: Lari the armorer
+[09/25/2024 10:49]  Khoury: Khoury the weaponsmith
+[09/25/2024 10:49]  Rosa: Rosa the miner
+[09/25/2024 10:49]  Jafar: Jafar the baker
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  Dane: Dane the mapmaker
+[09/25/2024 10:49]  Davin: Davin the architect
+[09/25/2024 10:49]  Nona: Nona the cook
+[09/25/2024 10:49]  Patsy: Patsy the real estate broker
+[09/25/2024 10:49]  Marsha: Marsha the provisioner
+[09/25/2024 10:49]  Shina: Shina the cobbler
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  Rosa: Rosa the miner
+[09/25/2024 10:49]  Rosa: Rosa the miner
+[09/25/2024 10:49]  Shina: Shina the cobbler
+[09/25/2024 10:49]  System: You have left the protection of the town guards.
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  Tymon: Tymon the shipwright
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  System: You are now under the protection of the town guards.
+[09/25/2024 10:49]  Patsy: Patsy the real estate broker
+[09/25/2024 10:49]  Tymon: Tymon the shipwright
+[09/25/2024 10:49]  Shina: Shina the cobbler
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:49]  a cat: a cat
+[09/25/2024 10:50]  Leala: Leala the fisherman
+[09/25/2024 10:50]  Wynona: Wynona the dockmaster
+[09/25/2024 10:50]  a horse: *released*
+[09/25/2024 10:50]  a horse: a horse
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  Patsy: Patsy the real estate broker
+[09/25/2024 10:50]  Shina: Shina the cobbler
+[09/25/2024 10:50]  Marsha: Marsha the provisioner
+[09/25/2024 10:50]  System: Being perfectly rested, you shove them out of the way.
+[09/25/2024 10:50]  Dane: Dane the mapmaker
+[09/25/2024 10:50]  Davin: Davin the architect
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  Jafar: Jafar the baker
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  Nona: Nona the cook
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a fisherman: a fisherman
+[09/25/2024 10:50]  Lari: Lari the armorer
+[09/25/2024 10:50]  Rosa: Rosa the miner
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  Balder: Balder the salvage foreman
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  Khoury: Khoury the weaponsmith
+[09/25/2024 10:50]  Guy: Guy the blacksmith
+[09/25/2024 10:50]  Wynona: Wynona the dockmaster
+[09/25/2024 10:50]  a horse: *released*
+[09/25/2024 10:50]  a horse: a horse
+[09/25/2024 10:50]  Patsy: Patsy the real estate broker
+[09/25/2024 10:50]  Lari: Lari the armorer
+[09/25/2024 10:50]  Patsy: Patsy the real estate broker
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  Marsha: Marsha the provisioner
+[09/25/2024 10:50]  Dane: Dane the mapmaker
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  Guy: Guy the blacksmith
+[09/25/2024 10:50]  Jafar: Jafar the baker
+[09/25/2024 10:50]  Nona: Nona the cook
+[09/25/2024 10:50]  a fisherman: a fisherman
+[09/25/2024 10:50]  Mataya: [Nomad, ULA]
+[09/25/2024 10:50]  Mataya: Mataya
+[09/25/2024 10:50]  Leon the Lame: Leon the Lame
+[09/25/2024 10:50]  Galatea: Galatea the healer
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  Leon the Lame: *Rubs hands together*
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  Nazirqah: Nazirqah the ranger
+[09/25/2024 10:50]  Renny: Renny the bowyer
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  Ivar: Ivar the jeweler
+[09/25/2024 10:50]  Alonzo: Alonzo the tinker
+[09/25/2024 10:50]  Felix: Felix the ranger
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a walrus: a walrus
+[09/25/2024 10:50]  Ivar: Ivar the jeweler
+[09/25/2024 10:50]  Alonzo: Alonzo the tinker
+[09/25/2024 10:50]  Amata: Amata the tanner
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  Ayame: Ayame the tanner
+[09/25/2024 10:50]  Trianon: Trianon the butcher
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  Squire Molly: Squire Molly the provider of vegetables
+[09/25/2024 10:50]  Lunt: Lunt the herbalist
+[09/25/2024 10:50]  Adena: Adena the alchemist
+[09/25/2024 10:50]  System: Dodgey Dave has completed the achievement: Nobility (Advanced).
+[09/25/2024 10:50]  Squire Fitz: Squire Fitz the pourer of drinks
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  System: Opening door...
+[09/25/2024 10:50]  Keara: Keara the stablemaster
+[09/25/2024 10:50]  System: Opening door...
+[09/25/2024 10:50]  Lunt: Lunt the herbalist
+[09/25/2024 10:50]  Adena: Adena the alchemist
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  Thurston: Thurston the waiter
+[09/25/2024 10:50]  an ember drake: (bonded)
+[09/25/2024 10:50]  an ember drake: an ember drake
+[09/25/2024 10:50]  Kill MaLandlord: Kill MaLandlord
+[09/25/2024 10:50]  packanimal: (tame)
+[09/25/2024 10:50]  packanimal: [0/2000 stones]
+[09/25/2024 10:50]  packanimal: [0/125 items]
+[09/25/2024 10:50]  packanimal: packanimal
+[09/25/2024 10:50]  Renee: Renee the stablemaster
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  Denton: Denton the innkeeper
+[09/25/2024 10:50]  a goat: a goat
+[09/25/2024 10:50]  Keara: Keara the stablemaster
+[09/25/2024 10:50]  Hanan: Hanan the animal wrangler
+[09/25/2024 10:50]  Kama: Kama the creature broker
+[09/25/2024 10:50]  a goat: a goat
+[09/25/2024 10:50]  a pig: a pig
+[09/25/2024 10:50]  a pig: a pig
+[09/25/2024 10:50]  Cedric: Cedric the farmer
+[09/25/2024 10:50]  a cow: a cow
+[09/25/2024 10:50]  a bull: a bull
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  a pig: a pig
+[09/25/2024 10:50]  Cedric: Cedric the farmer
+[09/25/2024 10:50]  a bull: a bull
+[09/25/2024 10:50]  a raven: a raven
+[09/25/2024 10:50]  Squire Fitz: Squire Fitz the pourer of drinks
+[09/25/2024 10:50]  Mukasa: Mukasa the thief
+[09/25/2024 10:50]  System: You have left the protection of the town guards.
+[09/25/2024 10:50]  Redmond: Redmond the beggar
+[09/25/2024 10:50]  a sand crab: a sand crab
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  Squire Phillip: Squire Phillip the carrier of arrows
+[09/25/2024 10:50]  Redmond: Redmond the beggar
+[09/25/2024 10:50]  Redmond: Greetings.  Have a look around.
+[09/25/2024 10:50]  Redmond: The total of thy purchase is 100 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[09/25/2024 10:50]  Redmond: Redmond the beggar
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a cat: a cat
+[09/25/2024 10:50]  a dog: a dog
+[09/25/2024 10:50]  a sand crab: a sand crab
+[09/25/2024 10:50]  Mukasa: Mukasa the thief
+[09/25/2024 10:50]  Cedric: Cedric the farmer
+[09/25/2024 10:50]  a bull: a bull
+[09/25/2024 10:51]  a raven: a raven
+[09/25/2024 10:51]  System: You are now under the protection of the town guards.
+[09/25/2024 10:51]  Squire Fitz: Squire Fitz the pourer of drinks
+[09/25/2024 10:51]  Squire Tenebrius: Squire Tenebrius the bearer of wares
+[09/25/2024 10:51]  a horse: a horse
+[09/25/2024 10:51]  Squire Burrich: Squire Burrich the handler of horses
+[09/25/2024 10:51]  System: You have left the protection of the town guards.
+[09/25/2024 10:51]  You see: the remains of Palameta HOG
+[09/25/2024 10:51]  a cougar: a cougar
+[09/25/2024 10:51]  Tove: Tove the blacksmith
+[09/25/2024 10:51]  Squire Phillip: Squire Phillip the carrier of arrows
+[09/25/2024 10:51]  a wolf: a wolf
+[09/25/2024 10:51]  Seif: Seif the healer of the Justice tourney
+[09/25/2024 10:51]  Squire Tenebrius: Squire Tenebrius the bearer of wares
+[09/25/2024 10:51]  Squire Fitz: Squire Fitz the pourer of drinks
+[09/25/2024 10:51]  a raven: a raven
+[09/25/2024 10:51]  Squire Tenebrius: Squire Tenebrius the bearer of wares
+[09/25/2024 10:51]  a raven: a raven
+[09/25/2024 10:51]  Squire Molly: Squire Molly the provider of vegetables
+[09/25/2024 10:51]  Squire Tenebrius: Squire Tenebrius the bearer of wares
+[09/25/2024 10:51]  Squire Tenebrius: Greetings.  Have a look around.
+[09/25/2024 10:51]  Squire Fitz: Squire Fitz the pourer of drinks
+[09/25/2024 10:51]  Squire Fitz: Squire Fitz the pourer of drinks
+[09/25/2024 10:51]  Squire Fitz: Greetings.  Have a look around.
+[09/25/2024 10:51]  a dog: a dog
+[09/25/2024 10:51]  Squire Molly: Squire Molly the provider of vegetables
+[09/25/2024 10:51]  Squire Molly: Greetings.  Have a look around.
+[09/25/2024 10:51]  Squire Molly: The total of thy purchase is 500 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[09/25/2024 10:51]  a cougar: a cougar
+[09/25/2024 10:51]  You see: The Virtue of Justice by Justice
+[09/25/2024 10:51]  You see: [6 pages, sealed]
+[09/25/2024 10:51]  : wooden wall
+[09/25/2024 10:51]  Squire Burrich: Squire Burrich the handler of horses
+[09/25/2024 10:51]  Squire Burrich: Greetings.  Have a look around.
+[09/25/2024 10:51]  You see: the remains of Palameta HOG
+[09/25/2024 10:51]  a horse: a horse
+[09/25/2024 10:51]  You see: the remains of Palameta HOG
+[09/25/2024 10:51]  Tove: Tove the blacksmith
+[09/25/2024 10:51]  Squire Phillip: Squire Phillip the carrier of arrows
+[09/25/2024 10:51]  Seif: Seif the healer of the Justice tourney
+[09/25/2024 10:51]  a wolf: a wolf
+[09/25/2024 10:51]  : Eldevil robinhoods another arrow in the middle ring.
+[09/25/2024 10:51]  : Score: 15 after the first shot
+[09/25/2024 10:52]  Redmond: Redmond the beggar
+[09/25/2024 10:52]  Serafina: Serafina the farmer
+[09/25/2024 10:52]  a sheep: a sheep
+[09/25/2024 10:52]  a sheep: a sheep
+[09/25/2024 10:52]  Squire Phillip: Squire Phillip the carrier of arrows
+[09/25/2024 10:52]  Squire Phillip: Greetings.  Have a look around.
+[09/25/2024 10:52]  a sheep: a sheep
+[09/25/2024 10:52]  Serafina: Serafina the farmer
+[09/25/2024 10:52]  Serafina: Greetings.  Have a look around.
+[09/25/2024 10:52]  Serafina: Begging thy pardon, but thy bank account lacks these funds.
+[09/25/2024 10:52]  a cougar: a cougar
+[09/25/2024 10:52]  Redmond: Redmond the beggar
+[09/25/2024 10:52]  System: Increases the growth impact of achieving an ideal heat level by 50%. Lasts for 30 days.
+[09/25/2024 10:52]  Eldevil: Click the 'Add Item' button from a plant bowl menu to apply this item to it.
+[09/25/2024 10:52]  Seif: Seif the healer of the Justice tourney
+[09/25/2024 10:52]  a horse: a horse
+[09/25/2024 10:52]  Squire Burrich: Squire Burrich the handler of horses
+[09/25/2024 10:52]  Squire Tenebrius: Squire Tenebrius the bearer of wares
+[09/25/2024 10:52]  Squire Fitz: Squire Fitz the pourer of drinks
+[09/25/2024 10:52]  a raven: a raven
+[09/25/2024 10:52]  System: You are now under the protection of the town guards.
+[09/25/2024 10:52]  a bull: a bull
+[09/25/2024 10:52]  Cedric: Cedric the farmer
+[09/25/2024 10:52]  a dog: a dog
+[09/25/2024 10:52]  Hanan: Hanan the animal wrangler
+[09/25/2024 10:52]  Keara: Keara the stablemaster
+[09/25/2024 10:52]  a pig: a pig
+[09/25/2024 10:52]  Kama: Kama the creature broker
+[09/25/2024 10:52]  Renee: Renee the stablemaster
+[09/25/2024 10:52]  a dog: a dog
+[09/25/2024 10:52]  Thurston: Thurston the waiter
+[09/25/2024 10:52]  an ember drake: (bonded)
+[09/25/2024 10:52]  an ember drake: an ember drake
+[09/25/2024 10:52]  Kill MaLandlord: Kill MaLandlord
+[09/25/2024 10:52]  a dog: a dog
+[09/25/2024 10:52]  packanimal: (tame)
+[09/25/2024 10:52]  packanimal: [0/2000 stones]
+[09/25/2024 10:52]  packanimal: [0/125 items]
+[09/25/2024 10:52]  packanimal: packanimal
+[09/25/2024 10:52]  a goat: a goat
+[09/25/2024 10:52]  a goat: a goat
+[09/25/2024 10:52]  System: Increases the growth impact of achieving an ideal heat level by 50%. Lasts for 30 days.
+[09/25/2024 10:52]  Eldevil: Click the 'Add Item' button from a plant bowl menu to apply this item to it.
+[09/25/2024 10:52]  Lunt: Lunt the herbalist
+[09/25/2024 10:52]  Adena: Adena the alchemist
+[09/25/2024 10:52]  Denton: Denton the innkeeper
+[09/25/2024 10:52]  Donnelly: Donnelly the scribe
+[09/25/2024 10:52]  Asta: Asta the mage
+[09/25/2024 10:52]  Ravi: Ravi the Town Crier
+[09/25/2024 10:52]  Skoll the Mad: Skoll the Mad
+[09/25/2024 10:52]  Thurston: Thurston the waiter
+[09/25/2024 10:52]  a dog: a dog
+[09/25/2024 10:52]  You see: hunting bow
+[09/25/2024 10:52]  You see: recurve bow
+[09/25/2024 10:52]  Denton: Denton the innkeeper
+[09/25/2024 10:52]  Kill MaLandlord: Kill MaLandlord
+[09/25/2024 10:52]  an ember drake: (bonded)
+[09/25/2024 10:52]  an ember drake: an ember drake
+[09/25/2024 10:52]  Talbart: Talbart the marine
+[09/25/2024 10:52]  a cat: a cat
+[09/25/2024 10:52]  a dog: a dog
+[09/25/2024 10:52]  Renee: Renee the stablemaster
+[09/25/2024 10:52]  a goat: a goat
+[09/25/2024 10:52]  Keara: Keara the stablemaster
+[09/25/2024 10:52]  a dog: a dog
+[09/25/2024 10:52]  Kama: Kama the creature broker
+[09/25/2024 10:52]  Eldevil: Bank Vendor buy
+[09/25/2024 10:52]  Denton: Greetings.  Have a look around.
+[09/25/2024 10:52]  Eldevil: Room
+[09/25/2024 10:52]  System: You have left the protection of the town guards.
+[09/25/2024 10:52]  System: You enter the rental room.
+[09/25/2024 10:52]  System: WorldMap loaded!
+[09/25/2024 10:52]  System: Camping skillgain: 2.411%
+[09/25/2024 10:52]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Your campfire is now secure.
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Surasa Nagi has completed the achievement: Guardian of Kraul Hive (Basic).
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:53]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Your campfire is now secure.
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Grill u Gawrona has completed the achievement: Guardian of Time (Basic).
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:54]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  Geodoro: Geodoro
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Zlodeyanie has completed the achievement: Blacksmith (Advanced).
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:55]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:56]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Daron Crafteur has completed the achievement: Order of Armorers Associate.
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Your skill in Fencing has decreased by 0.1.  It is now 1.1.
+[09/25/2024 10:57]  System: Your skill in Camping has increased by 0.1.  It is now 86.4.
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:57]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:58]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 10:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Toepeakah has completed the achievement: Tailor (Epic).
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:00]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Your skill in Fencing has decreased by 0.1.  It is now 1.0.
+[09/25/2024 11:01]  System: Your skill in Camping has increased by 0.1.  It is now 86.5.
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:01]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: The world will save in 15 seconds.
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:02]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.9.
+[09/25/2024 11:02]  System: Your skill in Camping has increased by 0.1.  It is now 86.6.
+[09/25/2024 11:02]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: The world is saving, please wait.
+[09/25/2024 11:03]  System: World save complete. The entire process took 2.8 seconds.
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:03]  System: Camping skillgain: 2.411%
+[09/25/2024 11:04]  System: Libi has completed the achievement: Colorful (Advanced).
+[09/25/2024 11:06]  System: Vernaccia has completed the achievement: Wizard (Basic).
+[09/25/2024 11:09]  System: Mom's Touch. has completed the achievement: Undead Slayer (Advanced).
+[09/25/2024 11:11]  System: Elonar has completed the achievement: Artisan (Epic).
+[09/25/2024 11:12]  System: VillCro has completed the achievement: Connoisseur (Basic).
+[09/25/2024 11:13]  System: Camping skillgain: 2.411%
+[09/25/2024 11:13]  System: Camping skillgain: 2.411%
+[09/25/2024 11:13]  System: Camping skillgain: 2.411%
+[09/25/2024 11:13]  System: Camping skillgain: 2.411%
+[09/25/2024 11:13]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Your campfire is now secure.
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:14]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:15]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:16]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: The world will save in 15 seconds.
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:17]  System: The world is saving, please wait.
+[09/25/2024 11:17]  System: World save complete. The entire process took 2.6 seconds.
+[09/25/2024 11:17]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.8.
+[09/25/2024 11:18]  System: Your skill in Camping has increased by 0.1.  It is now 86.7.
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:18]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:19]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:20]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.7.
+[09/25/2024 11:21]  System: Your skill in Camping has increased by 0.1.  It is now 86.8.
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Daron Crafteur has completed the achievement: Tradesman Union Initiate.
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: heyheymean has completed the achievement: Transmutation (Epic).
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Hugh Ironlungs has completed the achievement: Engineer (Basic).
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:21]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:22]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.6.
+[09/25/2024 11:23]  System: Your skill in Camping has increased by 0.1.  It is now 86.9.
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:23]  System: Camping skillgain: 2.411%
+[09/25/2024 11:25]  System: Unloved Jr has completed the achievement: Maester (Basic).
+[09/25/2024 11:25]  System: Jadaczka has completed the achievement: Guardian of Aegis Keep (Basic).
+[09/25/2024 11:32]  System: Kesnei has completed the achievement: Scribe (Advanced).
+[09/25/2024 11:32]  System: The world will save in 15 seconds.
+[09/25/2024 11:32]  System: The world is saving, please wait.
+[09/25/2024 11:32]  System: World save complete. The entire process took 2.5 seconds.
+[09/25/2024 11:33]  System: JoanaD'arc has completed the achievement: Skill Mastery (Advanced).
+[09/25/2024 11:33]  System: Camping skillgain: 2.411%
+[09/25/2024 11:33]  System: Camping skillgain: 2.411%
+[09/25/2024 11:33]  System: Camping skillgain: 2.411%
+[09/25/2024 11:33]  System: Camping skillgain: 2.411%
+[09/25/2024 11:33]  System: Camping skillgain: 2.411%
+[09/25/2024 11:33]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Your campfire is now secure.
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.5.
+[09/25/2024 11:34]  System: Your skill in Camping has increased by 0.1.  It is now 87.0.
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.4.
+[09/25/2024 11:34]  System: Your skill in Camping has increased by 0.1.  It is now 87.1.
+[09/25/2024 11:34]  System: Darba Bergstormr has completed the achievement: Affluent (Epic).
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:34]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:35]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.3.
+[09/25/2024 11:35]  System: Your skill in Camping has increased by 0.1.  It is now 87.2.
+[09/25/2024 11:35]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:36]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.2.
+[09/25/2024 11:37]  System: Your skill in Camping has increased by 0.1.  It is now 87.3.
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:37]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:38]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Sparta has completed the achievement: Aspect Mastery (Basic).
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Anchovy Hopkins has completed the achievement: Shipwright (Basic).
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:39]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:40]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:41]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.1.
+[09/25/2024 11:42]  System: Your skill in Camping has increased by 0.1.  It is now 87.4.
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:42]  System: PacketLoss has completed the achievement: Black Marketeer (Basic).
+[09/25/2024 11:42]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:43]  System: Camping skillgain: 2.411%
+[09/25/2024 11:45]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 11:47]  System: The world will save in 15 seconds.
+[09/25/2024 11:47]  System: The world is saving, please wait.
+[09/25/2024 11:47]  System: World save complete. The entire process took 2.4 seconds.
+[09/25/2024 11:53]  System: Camping skillgain: 2.411%
+[09/25/2024 11:53]  System: Gro Manak has completed the achievement: Versatility (Advanced).
+[09/25/2024 11:53]  System: Camping skillgain: 2.411%
+[09/25/2024 11:53]  System: Camping skillgain: 2.411%
+[09/25/2024 11:53]  System: Camping skillgain: 2.411%
+[09/25/2024 11:53]  System: Camping skillgain: 2.411%
+[09/25/2024 11:53]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Your campfire is now secure.
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:54]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Your skill in Fencing has decreased by 0.1.  It is now 0.0.
+[09/25/2024 11:55]  System: Your skill in Camping has increased by 0.1.  It is now 87.5.
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:55]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:56]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Mad Alchemy has completed the achievement: Daemonic Slayer (Advanced).
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Mireth Grace has completed the achievement: Versatility (Basic).
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:57]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:58]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Your skill in Focus has decreased by 0.1.  It is now 5.8.
+[09/25/2024 11:59]  System: Your skill in Camping has increased by 0.1.  It is now 87.6.
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 11:59]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: [DF] A Dungeon Flashpoint for Cavernam has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Xorr has completed the achievement: Guardian of Aegis Keep (Intermediate).
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:00]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: powerful tamer has completed the achievement: Construct Slayer (Epic).
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:01]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: The world will save in 15 seconds.
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: The world is saving, please wait.
+[09/25/2024 12:02]  System: World save complete. The entire process took 2.5 seconds.
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:02]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:03]  System: Camping skillgain: 2.411%
+[09/25/2024 12:05]  System: Pertika has completed the achievement: Tailor (Advanced).
+[09/25/2024 12:07]  System: Evil Drake has completed the achievement: Guardian of Ossuary (Advanced).
+[09/25/2024 12:08]  System: Flanno has completed the achievement: Triggered (Epic).
+[09/25/2024 12:10]  System: Lupinho has completed the achievement: Alchemist (Advanced).
+[09/25/2024 12:10]  System: Peter Gryfindork has completed the achievement: Guardian of Aegis Keep (Basic).
+[09/25/2024 12:13]  System: Camping skillgain: 2.411%
+[09/25/2024 12:13]  System: Camping skillgain: 2.411%
+[09/25/2024 12:13]  System: Camping skillgain: 2.411%
+[09/25/2024 12:13]  System: Camping skillgain: 2.411%
+[09/25/2024 12:13]  System: Camping skillgain: 2.411%
+[09/25/2024 12:13]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Your campfire is now secure.
+[09/25/2024 12:14]  System: Mr Cuddles has completed the achievement: Affluent (Advanced).
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:14]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:15]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: The world will save in 15 seconds.
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:16]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: The world is saving, please wait.
+[09/25/2024 12:17]  System: World save complete. The entire process took 2.6 seconds.
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Your skill in Focus has decreased by 0.1.  It is now 5.7.
+[09/25/2024 12:17]  System: Your skill in Camping has increased by 0.1.  It is now 87.7.
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Camping skillgain: 2.411%
+[09/25/2024 12:17]  System: Your skill in Focus has decreased by 0.1.  It is now 5.6.
+[09/25/2024 12:17]  System: Your skill in Camping has increased by 0.1.  It is now 87.8.
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:18]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Abbarosh has completed the achievement: Guardian of Kraul Hive (Intermediate).
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Ittzy has completed the achievement: Maester (Basic).
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:19]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:20]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Muad D has completed the achievement: Nature Slayer (Advanced).
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:21]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Your skill in Focus has decreased by 0.1.  It is now 5.5.
+[09/25/2024 12:22]  System: Your skill in Camping has increased by 0.1.  It is now 87.9.
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Your skill in Focus has decreased by 0.1.  It is now 5.4.
+[09/25/2024 12:22]  System: Your skill in Camping has increased by 0.1.  It is now 88.0.
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:22]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Gerash has completed the achievement: Maester (Epic).
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:23]  System: Camping skillgain: 2.411%
+[09/25/2024 12:25]  System: Artisian has completed the achievement: Scientist (Basic).
+[09/25/2024 12:26]  System: MissMoldyTomb has completed the achievement: Domestication (Epic).
+[09/25/2024 12:27]  System: Annomalye has completed the achievement: Cartographer (Basic).
+[09/25/2024 12:27]  System: Athrun Zala has completed the achievement: Weaponmastery (Basic).
+[09/25/2024 12:29]  System: Biscuit Kruger has completed the achievement: Tradesman Union Initiate.
+[09/25/2024 12:30]  System: Obeo Xendmart has completed the achievement: Guardian of Kraul Hive (Basic).
+[09/25/2024 12:31]  System: The world will save in 15 seconds.
+[09/25/2024 12:31]  System: The world is saving, please wait.
+[09/25/2024 12:31]  System: World save complete. The entire process took 2.4 seconds.
+[09/25/2024 12:32]  System: Bluefish has completed the achievement: Artificers Enclave Initiate.
+[09/25/2024 12:33]  System: Cross Venus has completed the achievement: Domestication (Intermediate).
+[09/25/2024 12:33]  System: Camping skillgain: 2.411%
+[09/25/2024 12:33]  System: Camping skillgain: 2.411%
+[09/25/2024 12:33]  System: Camping skillgain: 2.411%
+[09/25/2024 12:33]  System: Camping skillgain: 2.411%
+[09/25/2024 12:33]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Your campfire is now secure.
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Your skill in Focus has decreased by 0.1.  It is now 5.3.
+[09/25/2024 12:34]  System: Your skill in Camping has increased by 0.1.  It is now 88.1.
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Your skill in Focus has decreased by 0.1.  It is now 5.2.
+[09/25/2024 12:34]  System: Your skill in Camping has increased by 0.1.  It is now 88.2.
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Velvyr'tae has completed the achievement: Mugger (Epic).
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:34]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Your skill in Focus has decreased by 0.1.  It is now 5.1.
+[09/25/2024 12:35]  System: Your skill in Camping has increased by 0.1.  It is now 88.3.
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:35]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:36]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Your skill in Focus has decreased by 0.1.  It is now 5.0.
+[09/25/2024 12:37]  System: Your skill in Camping has increased by 0.1.  It is now 88.4.
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Your skill in Focus has decreased by 0.1.  It is now 4.9.
+[09/25/2024 12:37]  System: Your skill in Camping has increased by 0.1.  It is now 88.5.
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:37]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Your skill in Focus has decreased by 0.1.  It is now 4.8.
+[09/25/2024 12:38]  System: Your skill in Camping has increased by 0.1.  It is now 88.6.
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: SatanHerself has completed the achievement: Scribe (Basic).
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:38]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Mockerr has completed the achievement: Transmutation (Advanced).
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:39]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: DJ Khaled has completed the achievement: Maester (Epic).
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:40]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Ghostly Gale has registered an antiquity: Ancient Dragon Skull
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:41]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Your skill in Focus has decreased by 0.1.  It is now 4.7.
+[09/25/2024 12:42]  System: Your skill in Camping has increased by 0.1.  It is now 88.7.
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:42]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:43]  System: Camping skillgain: 2.411%
+[09/25/2024 12:44]  System: FeiLong has completed the achievement: Domestication (Basic).
+[09/25/2024 12:45]  System: [TS] A Town Struggle (mountless) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[09/25/2024 12:45]  System: Drothar has completed the achievement: Prospector (Basic).
+[09/25/2024 12:45]  System: yezi has completed the achievement: Transmutation (Advanced).
+[09/25/2024 12:46]  System: The world will save in 15 seconds.
+[09/25/2024 12:46]  System: The world is saving, please wait.
+[09/25/2024 12:46]  System: World save complete. The entire process took 2.7 seconds.
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:48]  System: Your campfire is now secure.
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:48]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Being perfectly rested, you shove them out of the way.
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Athallwolf has completed the achievement: Domestication (Intermediate).
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:49]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:50]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:51]  System: Camping skillgain: 2.411%
+[09/25/2024 12:52]  System: Camping skillgain: 2.411%
+[09/25/2024 12:52]  System: Camping skillgain: 2.411%
+[09/25/2024 12:52]  System: Camping skillgain: 2.411%
+[09/25/2024 12:52]  System: Camping skillgain: 2.411%
+[09/25/2024 12:52]  System: Camping skillgain: 2.411%
+[09/25/2024 12:52]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:54]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: tailorie has completed the achievement: Order of Armorers Dignitary.
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:55]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: ArrestID has completed the achievement: Chef (Basic).
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:56]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:57]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Your skill in Focus has decreased by 0.1.  It is now 4.6.
+[09/25/2024 12:58]  System: Your skill in Camping has increased by 0.1.  It is now 88.8.
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 12:58]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Your campfire is now secure.
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:00]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: The world will save in 15 seconds.
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: The world is saving, please wait.
+[09/25/2024 13:01]  System: World save complete. The entire process took 2.5 seconds.
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:01]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: PaPaTaRaKaN has completed the achievement: Humanoid Slayer (Advanced).
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:02]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:03]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: FloodGate has completed the achievement: Monstrous Slayer (Advanced).
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:04]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Bloodpact has completed the achievement: Wilderness Hunter (Basic).
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Your skill in Focus has decreased by 0.1.  It is now 4.5.
+[09/25/2024 13:05]  System: Your skill in Camping has increased by 0.1.  It is now 88.9.
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Batata Frita has completed the achievement: Tailor (Epic).
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:05]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:06]  System: Camping skillgain: 2.411%
+[09/25/2024 13:07]  System: Camping skillgain: 2.411%
+[09/25/2024 13:07]  System: Camping skillgain: 2.411%
+[09/25/2024 13:07]  System: Camping skillgain: 2.411%
+[09/25/2024 13:07]  System: Camping skillgain: 2.411%
+[09/25/2024 13:07]  System: Doku Doku no Mi has completed the achievement: Raffler (Basic).
+[09/25/2024 13:07]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Your skill in Focus has decreased by 0.1.  It is now 4.4.
+[09/25/2024 13:08]  System: Your skill in Camping has increased by 0.1.  It is now 89.0.
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:08]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Your skill in Focus has decreased by 0.1.  It is now 4.3.
+[09/25/2024 13:09]  System: Your skill in Camping has increased by 0.1.  It is now 89.1.
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: BB Cheesballs has completed the achievement: Alchemist (Advanced).
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Your skill in Focus has decreased by 0.1.  It is now 4.2.
+[09/25/2024 13:09]  System: Your skill in Camping has increased by 0.1.  It is now 89.2.
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:09]  System: Camping skillgain: 2.411%
+[09/25/2024 13:10]  System: Camping skillgain: 2.411%
+[09/25/2024 13:10]  System: Camping skillgain: 2.411%
+[09/25/2024 13:10]  System: Camping skillgain: 2.411%
+[09/25/2024 13:10]  System: Camping skillgain: 2.411%
+[09/25/2024 13:10]  System: Camping skillgain: 2.411%
+[09/25/2024 13:10]  System: Camping skillgain: 2.411%
+[09/25/2024 13:11]  System: H O A X has completed the achievement: Aspect Mastery (Epic).
+[09/25/2024 13:13]  System: Snab Gx has completed the achievement: Versatility (Advanced).
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Your skill in Focus has decreased by 0.1.  It is now 4.1.
+[09/25/2024 13:13]  System: Your skill in Camping has increased by 0.1.  It is now 89.3.
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Your campfire is now secure.
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:13]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:14]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Sylvaris the Red has completed the achievement: Captain (Master).
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Katsumi has completed the achievement: Elemental Slayer (Basic).
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Your campfire is now secure.
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:15]  System: Camping skillgain: 2.411%
+[09/25/2024 13:16]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: The world will save in 15 seconds.
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Tanimal Aimer has completed the achievement: Paragon Hunter (Basic).
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: The world is saving, please wait.
+[09/25/2024 13:17]  System: World save complete. The entire process took 2.7 seconds.
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Your skill in Focus has decreased by 0.1.  It is now 4.0.
+[09/25/2024 13:17]  System: Your skill in Camping has increased by 0.1.  It is now 89.4.
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:17]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Sylvaris the Red has completed the achievement: Shipwright (Basic).
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:18]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Camping skillgain: 2.411%
+[09/25/2024 13:19]  System: Your campfire is now secure.
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:20]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:21]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Your skill in Focus has decreased by 0.1.  It is now 3.9.
+[09/25/2024 13:22]  System: Your skill in Camping has increased by 0.1.  It is now 89.5.
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Camping skillgain: 2.411%
+[09/25/2024 13:22]  System: Your campfire is now secure.
+[09/25/2024 13:23]  System: Camping skillgain: 2.411%
+[09/25/2024 13:23]  System: Camping skillgain: 2.411%
+[09/25/2024 13:23]  System: Camping skillgain: 2.411%
+[09/25/2024 13:23]  System: Camping skillgain: 2.411%
+[09/25/2024 13:23]  System: Camping skillgain: 2.411%
+[09/25/2024 13:23]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:24]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Your skill in Focus has decreased by 0.1.  It is now 3.8.
+[09/25/2024 13:25]  System: Your skill in Camping has increased by 0.1.  It is now 89.6.
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Zephyr Flame has completed the achievement: Beastial Slayer (Advanced).
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:25]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Miss Giulia has completed the achievement: Carpenter (Basic).
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: D NOYE Jr has completed the achievement: Alchemist (Advanced).
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:26]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Your campfire is now secure.
+[09/25/2024 13:27]  System: Fruyos Rugga has completed the achievement: Affluent (Basic).
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:27]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:28]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:29]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Major Civor has completed the achievement: Maester (Advanced).
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Johnny Danger has completed the achievement: Captain (Epic).
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: SaveMe Crater has completed the achievement: Aspect Mastery (Advanced).
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: The world will save in 15 seconds.
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Denise Brison has completed the achievement: Culinary Savvy (Basic).
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: The world is saving, please wait.
+[09/25/2024 13:31]  System: World save complete. The entire process took 2.5 seconds.
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Your campfire is now secure.
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:31]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:32]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Supreme Greed has completed the achievement: Trawler (Advanced).
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:33]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Your campfire is now secure.
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:34]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:35]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Your skill in Focus has decreased by 0.1.  It is now 3.7.
+[09/25/2024 13:36]  System: Your skill in Camping has increased by 0.1.  It is now 89.7.
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: SoPraCompletar has completed the achievement: Tailor (Epic).
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:36]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Your skill in Focus has decreased by 0.1.  It is now 3.6.
+[09/25/2024 13:37]  System: Your skill in Camping has increased by 0.1.  It is now 89.8.
+[09/25/2024 13:37]  System: Your campfire is now secure.
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:37]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Sangvinic has completed the achievement: Affluent (Basic).
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:38]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Elwyn has completed the achievement: Wilderness Hunter (Intermediate).
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:39]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Your skill in Focus has decreased by 0.1.  It is now 3.5.
+[09/25/2024 13:40]  System: Your skill in Camping has increased by 0.1.  It is now 89.9.
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Your campfire is now secure.
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:40]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:41]  System: Camping skillgain: 2.411%
+[09/25/2024 13:42]  System: Camping skillgain: 2.411%
+[09/25/2024 13:42]  System: Camping skillgain: 2.411%
+[09/25/2024 13:42]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Nick Daicos has completed the achievement: Construct Slayer (Epic).
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:43]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Camping skillgain: 2.411%
+[09/25/2024 13:44]  System: Your skill in Focus has decreased by 0.1.  It is now 3.4.
+[09/25/2024 13:44]  System: Your skill in Camping has increased by 0.1.  It is now 90.0.
+[09/25/2024 13:44]  System: Camping skillgain: 1.929%
+[09/25/2024 13:44]  System: Camping skillgain: 1.929%
+[09/25/2024 13:44]  System: Camping skillgain: 1.929%
+[09/25/2024 13:44]  System: Camping skillgain: 1.929%
+[09/25/2024 13:44]  System: Camping skillgain: 1.929%
+[09/25/2024 13:44]  System: Camping skillgain: 1.929%
+[09/25/2024 13:44]  System: Camping skillgain: 1.929%
+[09/25/2024 13:44]  System: Camping skillgain: 1.929%
+[09/25/2024 13:44]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: [CCC] A Corpse Creek Contest will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: The Minoc Syndicate (Syn) guild has reached prestige level 3698.
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: biggtez has completed the achievement: Guardian of The Mausoleum (Basic).
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: The world will save in 15 seconds.
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: You fail to ignite the campfire.
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: The world is saving, please wait.
+[09/25/2024 13:45]  System: World save complete. The entire process took 2.6 seconds.
+[09/25/2024 13:45]  System: Camping skillgain: 1.929%
+[09/25/2024 13:45]  System: Your skill in Focus has decreased by 0.1.  It is now 3.3.
+[09/25/2024 13:45]  System: Your skill in Camping has increased by 0.1.  It is now 90.1.
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:46]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Mendigo do Mares has completed the achievement: Artificer (Advanced).
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:47]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: SizzlingTell has completed the achievement: Affluent (Basic).
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:48]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Your skill in Focus has decreased by 0.1.  It is now 3.2.
+[09/25/2024 13:49]  System: Your skill in Camping has increased by 0.1.  It is now 90.2.
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: waku has registered an antiquity: Dance
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Pintail has completed the achievement: Leatherworker (Basic).
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Alcantarilla has completed the achievement: Relic Hunter (Basic).
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:49]  System: Camping skillgain: 1.929%
+[09/25/2024 13:50]  System: Camping skillgain: 1.929%
+[09/25/2024 13:50]  System: Camping skillgain: 1.929%
+[09/25/2024 13:50]  System: Camping skillgain: 1.929%
+[09/25/2024 13:50]  System: Camping skillgain: 1.929%
+[09/25/2024 13:50]  System: Camping skillgain: 1.929%
+[09/25/2024 13:50]  System: Camping skillgain: 1.929%
+[09/25/2024 13:50]  System: Gatha Vas Flam has completed the achievement: Enchanter (Advanced).
+[09/25/2024 13:50]  System: Camping skillgain: 1.929%
+[09/25/2024 13:50]  System: You fail to ignite the campfire.
+[09/25/2024 13:51]  Eldevil: Eldevil
+[09/25/2024 13:51]  [Razor]: Target an item to add.
+[09/25/2024 13:51]  [Razor]: Target an item to add.
+[09/25/2024 13:51]  System: H O A X has completed the achievement: Paragon Slayer (Advanced).
+[09/25/2024 13:51]  [Razor]: Item added.
+[09/25/2024 13:52]  [Razor]: Finished 44 queued actions in 25.8 seconds.
+[09/25/2024 13:52]  System: Camping skillgain: 1.929%
+[09/25/2024 13:52]  System: Camping skillgain: 1.929%
+[09/25/2024 13:52]  System: Camping skillgain: 1.929%
+[09/25/2024 13:52]  System: Camping skillgain: 1.929%
+[09/25/2024 13:52]  System: Camping skillgain: 1.929%
+[09/25/2024 13:52]  System: Camping skillgain: 1.929%
+[09/25/2024 13:52]  System: Camping skillgain: 1.929%
+[09/25/2024 13:52]  System: Camping skillgain: 1.929%
+[09/25/2024 13:52]  System: Your campfire is now secure.
+[09/25/2024 13:52]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Your skill in Focus has decreased by 0.1.  It is now 3.1.
+[09/25/2024 13:53]  System: Your skill in Camping has increased by 0.1.  It is now 90.3.
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:53]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:54]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: [CCC] A Corpse Creek Contest will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Tribunal Shadow has completed the achievement: Nobility (Advanced).
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Your skill in Focus has decreased by 0.1.  It is now 3.0.
+[09/25/2024 13:55]  System: Your skill in Camping has increased by 0.1.  It is now 90.4.
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:55]  System: Your campfire is now secure.
+[09/25/2024 13:55]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Your skill in Focus has decreased by 0.1.  It is now 2.9.
+[09/25/2024 13:56]  System: Your skill in Camping has increased by 0.1.  It is now 90.5.
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Brina Stormborn has completed the achievement: Guardian of Shadowspire (Basic).
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Your skill in Focus has decreased by 0.1.  It is now 2.8.
+[09/25/2024 13:56]  System: Your skill in Camping has increased by 0.1.  It is now 90.6.
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:56]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Your skill in Focus has decreased by 0.1.  It is now 2.7.
+[09/25/2024 13:57]  System: Your skill in Camping has increased by 0.1.  It is now 90.7.
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:57]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Your campfire is now secure.
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:58]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 13:59]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: [CCC] The Corpse Creek Contest has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: The world will save in 15 seconds.
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: The world is saving, please wait.
+[09/25/2024 14:00]  System: World save complete. The entire process took 2.7 seconds.
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Your skill in Focus has decreased by 0.1.  It is now 2.6.
+[09/25/2024 14:00]  System: Your skill in Camping has increased by 0.1.  It is now 90.8.
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:00]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Your skill in Focus has decreased by 0.1.  It is now 2.5.
+[09/25/2024 14:01]  System: Your skill in Camping has increased by 0.1.  It is now 90.9.
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Shane Gillis has completed the achievement: Scribe (Epic).
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Your campfire is now secure.
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:01]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Xupeta has completed the achievement: Wizard (Basic).
+[09/25/2024 14:02]  System: Mr.Cook has completed the achievement: Chef (Epic).
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:02]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Quantic has completed the achievement: Backstabber (Epic).
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Your skill in Focus has decreased by 0.1.  It is now 2.4.
+[09/25/2024 14:03]  System: Your skill in Camping has increased by 0.1.  It is now 91.0.
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:03]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Overheat has completed the achievement: Mugger (Advanced).
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:04]  System: Your campfire is now secure.
+[09/25/2024 14:04]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Sparta has completed the achievement: Tailor (Advanced).
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Camping skillgain: 1.929%
+[09/25/2024 14:05]  System: Your skill in Focus has decreased by 0.1.  It is now 2.3.
+[09/25/2024 14:05]  System: Your skill in Camping has increased by 0.1.  It is now 91.1.
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Bre has completed the achievement: Adventurer Initiate.
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Ozwald Boateng has completed the achievement: Scribe (Basic).
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Your skill in Focus has decreased by 0.1.  It is now 2.2.
+[09/25/2024 14:06]  System: Your skill in Camping has increased by 0.1.  It is now 91.2.
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:06]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:07]  System: Your campfire is now secure.
+[09/25/2024 14:07]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: craftzzz has completed the achievement: Scribe (Basic).
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:08]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:09]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Mireth Grace has completed the achievement: Triggered (Advanced).
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Mr Ueaff has completed the achievement: Mugger (Basic).
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Camping skillgain: 1.929%
+[09/25/2024 14:10]  System: Your campfire is now secure.
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:11]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:12]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: NotaTamer has completed the achievement: Beastial Slayer (Basic).
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: DoctorGrant has completed the achievement: Domestication (Basic).
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:13]  System: Your campfire is now secure.
+[09/25/2024 14:13]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Brina Stormborn has completed the achievement: Mini-Boss Slayer (Advanced).
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:14]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: The world will save in 15 seconds.
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: The world is saving, please wait.
+[09/25/2024 14:15]  System: World save complete. The entire process took 2.5 seconds.
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
+[09/25/2024 14:15]  System: Camping skillgain: 1.929%
