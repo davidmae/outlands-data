@@ -1,8 +1,8 @@
 {
   "enable_sound": true,
-  "sound_volume": 49,
+  "sound_volume": 69,
   "enable_music": true,
-  "music_volume": 48,
+  "music_volume": 29,
   "foot_steps_volume": 50,
   "loop_music": true,
   "enable_footsteps_sound": true,
@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 504,
-  "default_scale": 1.2000003,
+  "default_scale": 0.79999995,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -91,8 +91,8 @@
   "hold_shift_to_split_stack": false,
   "lock_follower_rename": false,
   "window_client_bounds": {
-    "X": 5052,
-    "Y": 1089
+    "X": 873,
+    "Y": 1018
   },
   "game_window_position": {
     "X": 6,
@@ -102,7 +102,7 @@
   "game_window_full_size": false,
   "window_borderless": false,
   "game_window_size": {
-    "X": 773,
+    "X": 778,
     "Y": 704
   },
   "topbar_gump_position": {
@@ -172,8 +172,8 @@
   "drag_select_start_x": 554,
   "drag_select_start_y": 438,
   "drag_select_as_anchor": true,
-  "last_active_name_overhead_option": "All",
-  "name_overhead_toggled": false,
+  "last_active_name_overhead_option": "Mobiles only",
+  "name_overhead_toggled": true,
   "keep_overhead_manager_gump_open": true,
   "show_target_range_indicator": true,
   "party_invite_gump": true,
@@ -192,9 +192,9 @@
   "counter_bar_display_abbreviated_amount": false,
   "counter_bar_abbreviated_amount": 1000,
   "counter_bar_highlight_amount": 3,
-  "counter_bar_cell_size": 40,
+  "counter_bar_cell_size": 37,
   "counter_bar_rows": 27,
-  "counter_bar_columns": 1,
+  "counter_bar_columns": 2,
   "show_skills_changed_message": true,
   "show_stats_changed_message": true,
   "shadows_enabled": true,
@@ -213,8 +213,8 @@
   "grid_loot_type": 2,
   "grid_loot_close_when_zero": true,
   "grid_loot_position": {
-    "X": 1196,
-    "Y": 572
+    "X": 805,
+    "Y": 86
   },
   "grid_loot_size": {
     "X": 4,
@@ -274,7 +274,7 @@
   "world_map_top_most": false,
   "world_map_free_view": false,
   "world_map_show_party": true,
-  "world_map_zoom_index": 6,
+  "world_map_zoom_index": 5,
   "world_map_show_coordinates": true,
   "world_map_show_mobiles": true,
   "world_map_show_player_name": true,
@@ -291,8 +291,8 @@
   "cooldown_bar_height": 30,
   "hide_inactive_cooldown_bars": false,
   "last_used_desktop": "default.gumps.xml",
-  "journal_width": 363,
-  "journal_height": 273,
+  "journal_width": 344,
+  "journal_height": 412,
   "journal_enable_resize": true,
   "journal_lock_position": false,
   "journal_use_24_hour_clock": true,

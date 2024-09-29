@@ -2,7 +2,6 @@ hotkey 'target closest non-friendly monster'
 wait 200
 if insysmsg "no one matching"
     overhead  "Nothing to attack" 34
-    stop
 endif
 
 @setvar! myKillTarget lasttarget
@@ -22,3 +21,7 @@ if targetexists
     getlabel myKillTarget description
     overhead description
 endif
+
+
+wait 200
+hotkey "Play Script: uo_outlands_razor_scripts\_david.mae20_scripts\PVM\auto-heal"

@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">67</property>
-	<property name="WindowY" type="System.Int32">363</property>
+	<property name="WindowX" type="System.Int32">2553</property>
+	<property name="WindowY" type="System.Int32">221</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">628</property>
-	<property name="RazorHeight" type="System.Int32">490</property>
+	<property name="RazorWidth" type="System.Int32">974</property>
+	<property name="RazorHeight" type="System.Int32">1057</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -278,20 +278,18 @@
 	<dresslists>
 		<list name="pve_1" undressbag="0x5F3EE3E7">
 			<item serial="1365614378" />
-			<item serial="1212107664" />
-			<item serial="1589520469" />
-			<item serial="1365614377" />
 			<item serial="1744868368" />
-			<item serial="1590849089" />
 			<item serial="1595884572" />
-			<item serial="1590849093" />
-			<item serial="1631537910" />
 			<item serial="1547581378" />
+			<item serial="1103840343" />
+			<item serial="1273225257" />
+			<item serial="1273225261" />
+			<item serial="1273225256" />
+			<item serial="1273225258" />
+			<item serial="1273225260" />
+			<item serial="1273225259" />
 			<item serial="1595939888" />
-			<item serial="1094065127" />
-			<item serial="1453275421" />
-			<item serial="1758894642" />
-			<item serial="1364875013" />
+			<item serial="1365614377" />
 		</list>
 		<list name="weapon/shield">
 			<item serial="1453275421" />
@@ -309,6 +307,8 @@
 	<macrovariables />
 	<scriptvariables>
 		<scriptvariable serial="0x59E67A" name="mobTwo" />
+		<scriptvariable serial="0x0" name="carving_activated" />
+		<scriptvariable serial="0xBF" name="info_color" />
 	</scriptvariables>
 	<friends>
 		<group name="outlands" enabled="True" overheadformat="[Friend]" overheadhue="63" overheadenabled="False">

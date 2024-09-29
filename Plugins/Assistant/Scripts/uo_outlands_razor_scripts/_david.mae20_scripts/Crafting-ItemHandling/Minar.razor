@@ -36,6 +36,57 @@ if not timerexists 'move_timer'
 endif
 
 while not dead 
+    
+
+    # Auto recall when tracking detects hostile players
+    if not varexist myEscapePlan
+        overhead "Select your escape runebook or runetome" 88
+        @setvar myEscapePlan
+    endif
+
+    if skill "Tracking" > 0
+        if not findbuff "tracking"
+            clearsysmsg
+            while not gumpexists 4267467659
+                useskill 'tracking'
+                wait 200
+            endwhile
+            if gumpexists 4267467659
+                while not insysmsg "You will now hunt all hostile players."
+                    gumpresponse 8 4267467659
+                    waitforgump 4267467659 5000
+                endwhile
+                gumpresponse 6 4267467659
+                wait 200
+            endif
+            gumpclose 4267467659
+        endif
+    endif
+
+    if insysmsg "Now tracking" or insysmsg "Distance to destination"
+        overhead "Hostile player detected!" 34
+        
+        if skill "Magery" >= 40
+            overhead 'Recalling...'
+            while not targetexists
+                cast "Recall"
+                wait 200
+                if insysmsg "You do not have that spell!"
+                    overhead "We cannot recall!" 34
+                    break
+                endif
+            endwhile
+            target myEscapePlan
+        else
+            overhead "Not enough Magery skill to recall!" 34
+        endif
+    endif
+
+    wait 1000
+    
+
+    
+    
 #
 #    if rhandempty and findtype "pickaxe" backpack as item
 #        lift item

@@ -79,3 +79,28 @@ if findtype 7127 backpack 2406 as board
     overhead boards 2406
 endif
 wait 500
+
+
+if findtype 7133 backpack 2418 as wood
+    dclick _tool
+    wft
+    target wood
+    wait 3000
+endif
+if findtype 7127 backpack 2418 as board
+    getlabel board boards
+    overhead boards 2418
+endif
+wait 500
+
+if findtype 7133 backpack 2413 as wood
+    dclick _tool
+    wft
+    target wood
+    wait 3000
+endif
+if findtype 7127 backpack 2413 as board
+    getlabel board boards
+    overhead boards 2413
+endif
+wait 500

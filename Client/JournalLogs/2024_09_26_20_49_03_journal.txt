@@ -1,0 +1,1299 @@
+[09/26/2024 20:49]  System: WorldMap loading...
+[09/26/2024 20:49]  System: Loading WorldMap markers..
+[09/26/2024 20:49]  System: WorldMap loaded!
+[09/26/2024 20:49]  System: ..Banks_and_Healers.xml (39)
+[09/26/2024 20:49]  System: ..Dungeons.xml (13)
+[09/26/2024 20:49]  System: ..Dungeon_Gates.xml (392)
+[09/26/2024 20:49]  System: ..Healer_Caravans.xml (42)
+[09/26/2024 20:49]  System: ..Kings_Faire.xml (49)
+[09/26/2024 20:49]  System: ..Moongates.xml (10)
+[09/26/2024 20:49]  System: ..POI.xml (251)
+[09/26/2024 20:49]  System: ..PvP_Locations.xml (71)
+[09/26/2024 20:49]  System: ..Shrines.xml (9)
+[09/26/2024 20:49]  System: ..Sub-Dungeons.xml (4)
+[09/26/2024 20:49]  System: ..Townships.xml (10)
+[09/26/2024 20:49]  System: ..UOAM_Atlas.xml (1887)
+[09/26/2024 20:49]  System: ..UOAM_T-Map.xml (255)
+[09/26/2024 20:49]  System: ..UOAM_Treasure.xml (523)
+[09/26/2024 20:49]  System: WorldMap markers loaded (3555)
+[09/26/2024 20:49]  System: Welcome Geodoro!
+[09/26/2024 20:49]  Jaimito: Jaimito
+[09/26/2024 20:49]  Ailiin: [Ripe, SQzD]
+[09/26/2024 20:49]  Ailiin: Ailiin
+[09/26/2024 20:49]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: defense studded arms
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified studded arms
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: guarding studded chest
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified studded chest
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  [Razor]: exceptional bone arms [crafted by IsA Idris]
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: guarding bone gloves
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified bone gloves
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: guarding bone legs
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified bone legs
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: durable defense female platemail chest
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified female platemail chest
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: might magic spellbook
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified magic spellbook
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: melodious tambourine
+[09/26/2024 20:49]  You see: (500/500 uses remaining)
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified tambourine (500/500 uses remaining)
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: eminently melodious harp
+[09/26/2024 20:49]  You see: (500/500 uses remaining)
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified harp (500/500 uses remaining)
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  [Razor]: might magic spellbook
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: eminently accurate broadsword
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified broadsword
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: durable accurate club
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified club
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: durable power scimitar
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified scimitar
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: surpassingly accurate heavy crossbow
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified heavy crossbow
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:49]  System: What do you wish to appraise and identify?
+[09/26/2024 20:49]  System: You identify the magical item.
+[09/26/2024 20:49]  You see: surpassingly accurate katana
+[09/26/2024 20:49]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:49]  [Razor]: unidentified katana
+[09/26/2024 20:49]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:49]  [Razor]: Last Target set.
+[09/26/2024 20:50]  System: A contested boss has spawned in Mount Petram!
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: defense studded arms
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: guarding studded chest
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: exceptional bone arms [crafted by IsA Idris]
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: guarding bone gloves
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: guarding bone legs
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: durable defense female platemail chest
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: might magic spellbook
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: melodious tambourine (500/500 uses remaining)
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: eminently melodious harp (500/500 uses remaining)
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  [Razor]: might magic spellbook
+[09/26/2024 20:50]  Jaimito: Kal Ort Por
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  System: SunnyPT has completed the achievement: Triggered (Basic).
+[09/26/2024 20:50]  [Razor]: eminently accurate broadsword
+[09/26/2024 20:50]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:50]  [Razor]: Last Target set.
+[09/26/2024 20:50]  System: What do you wish to appraise and identify?
+[09/26/2024 20:50]  System: You identify the magical item.
+[09/26/2024 20:50]  You see: might longsword
+[09/26/2024 20:50]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:51]  [Razor]: unidentified longsword
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: durable accurate club
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: durable power scimitar
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: surpassingly accurate heavy crossbow
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: surpassingly accurate katana
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  System: What do you wish to appraise and identify?
+[09/26/2024 20:51]  System: You identify the magical item.
+[09/26/2024 20:51]  You see: durable accurate ruin kryss
+[09/26/2024 20:51]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:51]  [Razor]: unidentified kryss
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  System: What do you wish to appraise and identify?
+[09/26/2024 20:51]  System: You identify the magical item.
+[09/26/2024 20:51]  You see: accurate ruin war mace
+[09/26/2024 20:51]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:51]  [Razor]: unidentified war mace
+[09/26/2024 20:51]  System: Mumra Everliving has completed the achievement: Guardian of Kraul Hive (Intermediate).
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  System: What do you wish to appraise and identify?
+[09/26/2024 20:51]  System: You identify the magical item.
+[09/26/2024 20:51]  You see: durable guarding metal kite shield
+[09/26/2024 20:51]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:51]  [Razor]: unidentified metal kite shield
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: surpassingly accurate hunting bow
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  System: What do you wish to appraise and identify?
+[09/26/2024 20:51]  System: You identify the magical item.
+[09/26/2024 20:51]  You see: ruin rapier
+[09/26/2024 20:51]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:51]  [Razor]: unidentified rapier
+[09/26/2024 20:51]  System: Lupinho has completed the achievement: Artificers Enclave Initiate.
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  System: What do you wish to appraise and identify?
+[09/26/2024 20:51]  System: You identify the magical item.
+[09/26/2024 20:51]  You see: eminently accurate might druid staff
+[09/26/2024 20:51]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:51]  [Razor]: unidentified druid staff
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  System: What do you wish to appraise and identify?
+[09/26/2024 20:51]  System: You identify the magical item.
+[09/26/2024 20:51]  You see: accurate might nautilus staff
+[09/26/2024 20:51]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:51]  [Razor]: unidentified nautilus staff
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  System: What do you wish to appraise and identify?
+[09/26/2024 20:51]  System: You identify the magical item.
+[09/26/2024 20:51]  You see: substantial defense bone shield
+[09/26/2024 20:51]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:51]  [Razor]: unidentified bone shield
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  System: What do you wish to appraise and identify?
+[09/26/2024 20:51]  System: You identify the magical item.
+[09/26/2024 20:51]  You see: surpassingly accurate hunting knife
+[09/26/2024 20:51]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 20:51]  [Razor]: unidentified hunting knife
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:51]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:51]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Target a new 'Last Target'
+[09/26/2024 20:52]  [Razor]: Last Target set.
+[09/26/2024 20:52]  [Razor]: Done
+[09/26/2024 20:55]  System: outsourced labor has completed the achievement: Tailor (Epic).
+[09/26/2024 20:55]  System: CeRBeR has completed the achievement: Paragon Hunter (Basic).
+[09/26/2024 20:56]  System: KingKraft has completed the achievement: Order of Armorers Associate.
+[09/26/2024 20:58]  System: Wyvirnn has completed the achievement: Skill Proficiency (Basic).
+[09/26/2024 20:58]  System: Wyvirnn has completed the achievement: Scribe (Basic).
+[09/26/2024 20:58]  System: Furiya has completed the achievement: Paragon Hunter (Advanced).
+[09/26/2024 20:59]  System: Infil Hunter has completed the achievement: Order of Armorers Initiate.
+[09/26/2024 21:00]  System: The world will save in 15 seconds.
+[09/26/2024 21:00]  System: The world is saving, please wait.
+[09/26/2024 21:00]  System: World save complete. The entire process took 2.6 seconds.
+[09/26/2024 21:00]  System: Vator has completed the achievement: Netherzone Hunter (Basic).
+[09/26/2024 21:02]  System: Gusse has completed the achievement: Scribe (Epic).
+[09/26/2024 21:03]  System: MageJovi has completed the achievement: Raffler (Basic).
+[09/26/2024 21:04]  System: Thack Crafts has completed the achievement: Artificers Enclave Dignitary.
+[09/26/2024 21:04]  System: Petsdothetalking has completed the achievement: Guardian of Aegis Keep (Basic).
+[09/26/2024 21:05]  System: Xabius has completed the achievement: Savant (Basic).
+[09/26/2024 21:05]  System: b crafty unicorn has completed the achievement: Enhanced (Advanced).
+[09/26/2024 21:05]  System: LunaLove has completed the achievement: Tailor (Epic).
+[09/26/2024 21:06]  System: d crafty unicorn has completed the achievement: Enhanced (Advanced).
+[09/26/2024 21:06]  You see: unidentified magic spellbook
+[09/26/2024 21:06]  System: Select an item or mobile to view/inspect
+[09/26/2024 21:06]  System: Misha Minks has completed the achievement: Woodsman (Basic).
+[09/26/2024 21:06]  [Razor]: LanguageString "ScriptCopied" not found!
+[09/26/2024 21:07]  System: Morscribe has completed the achievement: Enchanter (Basic).
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: exceptional bone arms [crafted by IsA Idris]
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: might magic spellbook
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: might magic spellbook
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: eminently accurate broadsword
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: might longsword
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: durable accurate club
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: durable power scimitar
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: surpassingly accurate heavy crossbow
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: surpassingly accurate katana
+[09/26/2024 21:07]  System: Morscribe has completed the achievement: Artificers Enclave Dignitary.
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: surpassingly accurate hunting bow
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: eminently accurate might druid staff
+[09/26/2024 21:07]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:07]  [Razor]: Last Target set.
+[09/26/2024 21:07]  [Razor]: accurate might nautilus staff
+[09/26/2024 21:08]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:08]  [Razor]: Last Target set.
+[09/26/2024 21:08]  [Razor]: surpassingly accurate hunting knife
+[09/26/2024 21:08]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:08]  [Razor]: Last Target set.
+[09/26/2024 21:08]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:08]  [Razor]: Last Target set.
+[09/26/2024 21:08]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:08]  [Razor]: Last Target set.
+[09/26/2024 21:09]  System: Kesnei has completed the achievement: Wizard (Advanced).
+[09/26/2024 21:09]  System: Cink has completed the achievement: Construct Slayer (Basic).
+[09/26/2024 21:09]  [Razor]: Added 31191 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5056 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5059 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5060 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5061 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5063 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5070 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5074 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5075 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5076 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5078 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5085 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5089 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5090 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5101 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5103 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5105 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5106 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5129 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5131 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5132 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5135 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5138 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5139 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5142 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5143 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5144 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5146 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5201 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: exceptional bone arms [crafted by IsA Idris]
+[09/26/2024 21:09]  [Razor]: Added 5203 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5204 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5205 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5207 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7169 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7170 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7173 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7175 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7177 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7179 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7181 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7610 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7947 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31003 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31004 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31005 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31006 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31007 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31008 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31009 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31010 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31011 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31012 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31015 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: might magic spellbook
+[09/26/2024 21:09]  [Razor]: Added 3834 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 6238 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 8786 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 8787 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 8901 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11881 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11882 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11883 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11884 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11885 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11886 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11887 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11888 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11889 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11890 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11891 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11893 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 11895 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 29103 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 29104 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 29105 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 41471 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 42516 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 45340 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 45823 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3568 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3570 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3571 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3572 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3573 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3713 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3719 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3721 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3740 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3742 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3762 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3763 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: might magic spellbook
+[09/26/2024 21:09]  [Razor]: Added 3834 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3909 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3911 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3913 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3915 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3917 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3920 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3922 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3932 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: eminently accurate broadsword
+[09/26/2024 21:09]  [Razor]: Added 3934 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: might longsword
+[09/26/2024 21:09]  [Razor]: Added 3937 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 3938 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5040 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5042 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: durable accurate club
+[09/26/2024 21:09]  [Razor]: Added 5044 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: durable power scimitar
+[09/26/2024 21:09]  [Razor]: Added 5046 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5049 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5112 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5115 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: surpassingly accurate heavy crossbow
+[09/26/2024 21:09]  [Razor]: Added 5117 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: surpassingly accurate katana
+[09/26/2024 21:09]  [Razor]: Added 5119 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5121 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5123 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5125 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5127 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5177 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5179 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5181 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5182 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5185 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 5187 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7026 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7027 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7029 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7031 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7033 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7034 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7035 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7107 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 7109 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 10245 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 20006 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 20008 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 20010 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 20012 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 20014 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 20016 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 22187 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30988 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30989 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30990 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30991 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30992 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30993 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: surpassingly accurate hunting bow
+[09/26/2024 21:09]  [Razor]: Added 30994 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30995 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30996 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30997 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30998 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 30999 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31000 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31001 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31002 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31014 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31017 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31019 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31021 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31023 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31025 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: eminently accurate might druid staff
+[09/26/2024 21:09]  [Razor]: Added 31027 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31029 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31031 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31033 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31035 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: accurate might nautilus staff
+[09/26/2024 21:09]  [Razor]: Added 31037 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31038 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31041 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31043 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31045 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31047 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31049 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31051 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31053 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31055 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31128 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31130 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31141 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31142 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31176 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31178 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31180 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31182 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31184 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31186 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: surpassingly accurate hunting knife
+[09/26/2024 21:09]  [Razor]: Added 31188 to ignore list
+[09/26/2024 21:09]  [Razor]: Added 31190 to ignore list
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:09]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:09]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Added 31191 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5056 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5059 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5060 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5061 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5063 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5070 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5074 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5075 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5076 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5078 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5085 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5089 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5090 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5101 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5103 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5105 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5106 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5129 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5131 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5132 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5135 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5138 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5139 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5142 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5143 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5144 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5146 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5201 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: exceptional bone arms [crafted by IsA Idris]
+[09/26/2024 21:10]  [Razor]: Added 5203 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5204 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5205 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5207 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7169 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7170 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7173 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7175 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7177 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7179 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7181 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7610 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7947 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31003 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31004 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31005 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31006 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31007 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31008 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31009 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31010 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31011 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31012 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31015 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  System: CarpCarpTT has completed the achievement: Artificers Enclave Dignitary.
+[09/26/2024 21:10]  [Razor]: Added 31191 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5056 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5059 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5060 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5061 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5063 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5070 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5074 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5075 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5076 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5078 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5085 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5089 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5090 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5101 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5103 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5105 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5106 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5129 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5131 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5132 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5135 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5138 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5139 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5142 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5143 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5144 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5146 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5201 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: exceptional bone arms [crafted by IsA Idris]
+[09/26/2024 21:10]  [Razor]: Added 5203 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5204 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5205 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5207 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7169 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7170 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7173 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7175 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7177 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7179 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7181 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7610 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7947 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31191 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5056 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5059 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5060 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5061 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5063 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5070 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5074 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5075 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5076 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5078 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5085 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5089 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5090 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5101 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5103 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5105 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5106 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5129 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5131 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5132 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5135 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5138 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5139 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5142 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5143 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5144 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5146 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5201 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: exceptional bone arms [crafted by IsA Idris]
+[09/26/2024 21:10]  [Razor]: Added 5203 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5204 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5205 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5207 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7169 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7170 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7173 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7175 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7177 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7179 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7181 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7610 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7947 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31003 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31004 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31005 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31006 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31007 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31008 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31009 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31010 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31011 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31012 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31015 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: might magic spellbook
+[09/26/2024 21:10]  [Razor]: Added 3834 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 6238 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 8786 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 8787 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 8901 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11881 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11882 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11883 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11884 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11885 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11886 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11887 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11888 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11889 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11890 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11891 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11893 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 11895 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 29103 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 29104 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 29105 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 41471 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 42516 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 45340 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 45823 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3568 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3570 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3571 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3572 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3573 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3713 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3719 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3721 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3740 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3742 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3762 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3763 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: might magic spellbook
+[09/26/2024 21:10]  [Razor]: Added 3834 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3909 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3911 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3913 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3915 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3917 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3920 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3922 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3932 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: eminently accurate broadsword
+[09/26/2024 21:10]  [Razor]: Added 3934 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: might longsword
+[09/26/2024 21:10]  [Razor]: Added 3937 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 3938 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5040 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5042 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: durable accurate club
+[09/26/2024 21:10]  [Razor]: Added 5044 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: durable power scimitar
+[09/26/2024 21:10]  [Razor]: Added 5046 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5049 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5112 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5115 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: surpassingly accurate heavy crossbow
+[09/26/2024 21:10]  [Razor]: Added 5117 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: surpassingly accurate katana
+[09/26/2024 21:10]  [Razor]: Added 5119 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5121 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5123 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5125 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5127 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5177 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5179 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5181 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5182 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5185 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 5187 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7026 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7027 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7029 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7031 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7033 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7034 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7035 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7107 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 7109 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 10245 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 20006 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 20008 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 20010 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 20012 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 20014 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 20016 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 22187 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30988 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30989 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30990 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30991 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30992 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30993 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: surpassingly accurate hunting bow
+[09/26/2024 21:10]  [Razor]: Added 30994 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30995 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30996 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30997 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30998 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 30999 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31000 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31001 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31002 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31014 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31017 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31019 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31021 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31023 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31025 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: eminently accurate might druid staff
+[09/26/2024 21:10]  [Razor]: Added 31027 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31029 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31031 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31033 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31035 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: accurate might nautilus staff
+[09/26/2024 21:10]  [Razor]: Added 31037 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31038 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31041 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31043 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31045 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31047 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31049 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31051 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31053 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31055 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31128 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31130 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31141 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31142 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31176 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31178 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31180 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31182 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31184 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31186 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: surpassingly accurate hunting knife
+[09/26/2024 21:10]  [Razor]: Added 31188 to ignore list
+[09/26/2024 21:10]  [Razor]: Added 31190 to ignore list
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:10]  [Razor]: Last Target set.
+[09/26/2024 21:10]  [Razor]: Done
+[09/26/2024 21:10]  System: Uramir has completed the achievement: Versatility (Advanced).
+[09/26/2024 21:11]  You see: unidentified magic spellbook
+[09/26/2024 21:11]  [Razor]: Added 31191 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5056 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5059 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5060 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5061 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5063 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5070 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5074 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5075 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5076 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5078 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5085 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5089 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5090 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5101 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5103 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5105 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5106 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5129 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5131 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5132 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5135 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5138 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5139 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5142 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5143 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5144 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5146 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5201 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: exceptional bone arms [crafted by IsA Idris]
+[09/26/2024 21:11]  [Razor]: Added 5203 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5204 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5205 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5207 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7169 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7170 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7173 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7175 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7177 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7179 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7181 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7610 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7947 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31003 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31004 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31005 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31006 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31007 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31008 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31009 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31010 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31011 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31012 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31015 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: might magic spellbook
+[09/26/2024 21:11]  [Razor]: Added 3834 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 6238 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 8786 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 8787 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 8901 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11881 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11882 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11883 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11884 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11885 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11886 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11887 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11888 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11889 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11890 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11891 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11893 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 11895 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 29103 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 29104 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 29105 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 41471 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 42516 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 45340 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 45823 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3568 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3570 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3571 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3572 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3573 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3713 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3719 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3721 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3740 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3742 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3762 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3763 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: might magic spellbook
+[09/26/2024 21:11]  [Razor]: Added 3834 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3909 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3911 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3913 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3915 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3917 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3920 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3922 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3932 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: eminently accurate broadsword
+[09/26/2024 21:11]  [Razor]: Added 3934 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: might longsword
+[09/26/2024 21:11]  [Razor]: Added 3937 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 3938 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5040 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5042 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: durable accurate club
+[09/26/2024 21:11]  [Razor]: Added 5044 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: durable power scimitar
+[09/26/2024 21:11]  [Razor]: Added 5046 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5049 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5112 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5115 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: surpassingly accurate heavy crossbow
+[09/26/2024 21:11]  [Razor]: Added 5117 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: surpassingly accurate katana
+[09/26/2024 21:11]  [Razor]: Added 5119 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5121 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5123 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5125 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5127 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5177 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5179 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5181 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5182 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5185 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 5187 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7026 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7027 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7029 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7031 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7033 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7034 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7035 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7107 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 7109 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 10245 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 20006 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 20008 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 20010 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 20012 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 20014 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 20016 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 22187 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30988 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30989 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30990 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30991 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30992 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30993 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: surpassingly accurate hunting bow
+[09/26/2024 21:11]  [Razor]: Added 30994 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30995 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30996 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30997 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30998 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 30999 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31000 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31001 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31002 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31014 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31017 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31019 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31021 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31023 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31025 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: eminently accurate might druid staff
+[09/26/2024 21:11]  [Razor]: Added 31027 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31029 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31031 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31033 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31035 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: accurate might nautilus staff
+[09/26/2024 21:11]  [Razor]: Added 31037 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31038 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31041 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31043 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31045 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31047 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31049 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31051 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31053 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31055 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31128 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31130 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31141 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31142 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31176 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31178 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31180 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31182 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31184 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31186 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: surpassingly accurate hunting knife
+[09/26/2024 21:11]  [Razor]: Added 31188 to ignore list
+[09/26/2024 21:11]  [Razor]: Added 31190 to ignore list
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Target a new 'Last Target'
+[09/26/2024 21:11]  [Razor]: Last Target set.
+[09/26/2024 21:11]  [Razor]: Done
+[09/26/2024 21:11]  System: Four finger Fran has completed the achievement: Skinner (Basic).
+[09/26/2024 21:13]  System: Valuan has completed the achievement: Triggered (Advanced).
+[09/26/2024 21:13]  System: Scruff has completed the achievement: Undead Slayer (Basic).
+[09/26/2024 21:13]  System: Willumm has completed the achievement: Zoologist (Basic).
+[09/26/2024 21:15]  System: The world will save in 15 seconds.
+[09/26/2024 21:15]  System: The world is saving, please wait.
+[09/26/2024 21:15]  System: World save complete. The entire process took 2.4 seconds.
+[09/26/2024 21:16]  System: HonestWorker has completed the achievement: Chef (Epic).
+[09/26/2024 21:17]  Jaimito: Jaimito
+[09/26/2024 21:18]  System: What do you wish to appraise and identify?
+[09/26/2024 21:18]  System: You identify the magical item.
+[09/26/2024 21:18]  You see: eminently potent magic spellbook
+[09/26/2024 21:18]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 21:18]  You see: might magic spellbook
+[09/26/2024 21:18]  System: Time Warp has completed the achievement: Aspect Mastery (Advanced).
+[09/26/2024 21:18]  You see: durable power scimitar
+[09/26/2024 21:18]  You see: surpassingly accurate katana
+[09/26/2024 21:18]  You see: durable accurate club
+[09/26/2024 21:18]  You see: unidentified heavy crossbow
+[09/26/2024 21:18]  System: What do you wish to appraise and identify?
+[09/26/2024 21:18]  System: You identify the magical item.
+[09/26/2024 21:18]  You see: accurate ruin heavy crossbow
+[09/26/2024 21:18]  Geodoro: You are uncertain about the worth of the magical item.
+[09/26/2024 21:18]  You see: eminently accurate broadsword
+[09/26/2024 21:18]  System: Slenderman has completed the achievement: Culinary Savvy (Epic).
+[09/26/2024 21:18]  You see: surpassingly accurate hunting knife
+[09/26/2024 21:18]  You see: accurate might nautilus staff
+[09/26/2024 21:18]  You see: eminently accurate might druid staff
+[09/26/2024 21:18]  You see: surpassingly accurate hunting bow
+[09/26/2024 21:19]  System: Devirr has completed the achievement: Guardian of Pulma (Intermediate).
+[09/26/2024 21:19]  You see: exceedingly accurate recurve bow
+[09/26/2024 21:19]  You see: surpassingly accurate ruin recurve bow
+[09/26/2024 21:19]  You see: surpassingly accurate ruin great bow
+[09/26/2024 21:19]  You see: surpassingly accurate rampart crossbow
+[09/26/2024 21:19]  You see: force pistol crossbow
+[09/26/2024 21:19]  You see: exceedingly accurate recurve bow
+[09/26/2024 21:20]  You see: might longsword
+[09/26/2024 21:20]  You see: surpassingly accurate heavy crossbow
+[09/26/2024 21:20]  You see: exceptional bone arms
+[09/26/2024 21:20]  You see: [crafted by IsA Idris]
+[09/26/2024 21:20]  You see: substantial defense bone shield
+[09/26/2024 21:20]  You see: substantial defense bone shield
+[09/26/2024 21:20]  You see: durable guarding metal kite shield
+[09/26/2024 21:20]  You see: eminently melodious harp
+[09/26/2024 21:20]  You see: (500/500 uses remaining)
+[09/26/2024 21:20]  You see: surpassingly melodious sackbut
+[09/26/2024 21:20]  You see: (500/500 uses remaining)
+[09/26/2024 21:20]  You see: surpassingly melodious Vielle
+[09/26/2024 21:20]  You see: (500/500 uses remaining)
+[09/26/2024 21:20]  You see: melodious hurdy-gurdy
+[09/26/2024 21:20]  You see: (500/500 uses remaining)
+[09/26/2024 21:21]  You see: eminently melodious shawm
+[09/26/2024 21:21]  You see: (500/500 uses remaining)
+[09/26/2024 21:21]  You see: surpassingly melodious sackbut
+[09/26/2024 21:21]  You see: (500/500 uses remaining)
+[09/26/2024 21:21]  You see: eminently melodious shawm
+[09/26/2024 21:21]  You see: (500/500 uses remaining)
+[09/26/2024 21:21]  You see: eminently melodious harp
+[09/26/2024 21:21]  You see: (500/500 uses remaining)
+[09/26/2024 21:21]  You see: exceptional bone arms
+[09/26/2024 21:21]  You see: [crafted by IsA Idris]
+[09/26/2024 21:21]  You see: ruin rapier
+[09/26/2024 21:21]  You see: durable accurate ruin kryss
+[09/26/2024 21:21]  You see: accurate ruin war mace
+[09/26/2024 21:21]  You see: melodious tambourine
+[09/26/2024 21:21]  You see: (500/500 uses remaining)
+[09/26/2024 21:21]  You see: durable defense female platemail chest
+[09/26/2024 21:21]  You see: guarding bone legs
+[09/26/2024 21:21]  You see: guarding studded chest
+[09/26/2024 21:21]  You see: guarding bone gloves
+[09/26/2024 21:21]  You see: defense studded arms
+[09/26/2024 21:21]  System: Warning! You are about to recycle ALL craftable items of ANY type made with Ingots, Boards, Leather, or Cloth inside your backpack and containers within. Target yourself to proceed.
+[09/26/2024 21:21]  System: That container cannot hold more items.
+[09/26/2024 21:21]  System: That container cannot hold more items.
+[09/26/2024 21:21]  System: That container cannot hold more items.
+[09/26/2024 21:22]  System: Celador has completed the achievement: Affluent (Basic).
+[09/26/2024 21:22]  You see: bow
+[09/26/2024 21:23]  System: CarpCarpTT has completed the achievement: Tradesman Union Dignitary.
+[09/26/2024 21:23]  System: Paablo Escobar has completed the achievement: Cartographer (Basic).
+[09/26/2024 21:24]  System: You are now under the effect of a Song of Peacemaking (7.5% healing amounts for 15 minutes).
+[09/26/2024 21:24]  System: You are now under the effect of a Song of Discordance (7.5% reduced damage from creatures for 15 minutes).
+[09/26/2024 21:24]  System: You are now under the effect of a Song of Provocation (+7.5% damage against creatures for 15 minutes).
+[09/26/2024 21:24]  Ailiin: Kal Ort Por
+[09/26/2024 21:25]  Ailiin: [Ripe, SQzD]
+[09/26/2024 21:25]  Ailiin: Ailiin

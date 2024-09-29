@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">822</property>
-	<property name="WindowY" type="System.Int32">0</property>
+	<property name="WindowX" type="System.Int32">3497</property>
+	<property name="WindowY" type="System.Int32">627</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">199</property>
-	<property name="RazorHeight" type="System.Int32">34</property>
+	<property name="RazorWidth" type="System.Int32">1226</property>
+	<property name="RazorHeight" type="System.Int32">411</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -199,15 +199,33 @@
 		<Sell enabled="False" />
 		<UseOnce />
 	</agents>
-	<dresslists />
-	<hotkeys />
+	<dresslists>
+		<list name="pve_1">
+			<item serial="1205384484" />
+			<item serial="1752841888" />
+			<item serial="1752839011" />
+			<item serial="1625778032" />
+			<item serial="1625778033" />
+			<item serial="1752868958" />
+			<item serial="1752845027" />
+			<item serial="1752828022" />
+			<item serial="1855773956" />
+			<item serial="1752836736" />
+			<item serial="1625778031" />
+		</list>
+	</dresslists>
+	<hotkeys>
+		<key mod="1" key="49" send="True">L:2060</key>
+		<key mod="0" key="112" send="True">L:2024</key>
+	</hotkeys>
 	<overheadmessages>
 		<overheadmessage searchtext="a" message="" hue="68" />
 	</overheadmessages>
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x47D8B523" name="harvesting_tool" />
+		<scriptvariable serial="0x6F2FCA4F" name="myEscapePlan" />
+		<scriptvariable serial="0x47D8B525" name="harvesting_tool" />
 	</scriptvariables>
 	<friends />
 	<textfilters />

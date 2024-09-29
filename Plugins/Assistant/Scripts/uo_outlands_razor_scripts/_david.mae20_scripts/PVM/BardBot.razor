@@ -1,6 +1,7 @@
 overhead "[+Start BardBot]"
 
-@setvar! info_color 191
+setvar carving_activated 0
+setvar info_color 191
 
 clearall 
 
@@ -25,9 +26,11 @@ while not dead
     getlabel curr_target enemy
     wait 150
     attack curr_target
-    wait 150
-    overhead enemy info_color
-    wait 1000
+    wait 200
+    
+    if not bandaging and hp < 97
+        hotkey "Bandage Self"
+    endif
     
     if 'pacified' in enemy
         #if timer 'check_time_pec' > timing
@@ -44,31 +47,38 @@ while not dead
             skill 'discordance'
             wait 500
             target curr_target
-            wait 200
+            wait 350
             overhead enemy info_color
         endif  
     else 
-        skill 'peacemaking'
-        wait 500
-        target curr_target
+        if 'provoked' in enemy
+        elseif 'a' in enemy or 'an' in enemy
+            skill 'peacemaking'
+            wait 500
+            target curr_target
+            wait 350
+            overhead enemy info_color
+        endif
     endif
     
-    wait 1000
+    wait 200
     
-    if insysmsg "barding break"
-        overhead "*** RUN ***" 5
+    if "barding break" in enemy
+        overhead "*** Barding Break ***" 5
     endif
     
-    if not bandaging and hp < 97
-        hotkey "Bandage Self"
-    endif
-
     wait 500
 
-    if findtype 8198 ground -1 -1 5
+    if carving_activated = 1 and findtype 8198 ground -1 -1 5
         skill 'forensicevaluation'
         wait 250
         target self
+    endif
+    
+    if dead curr_target
+        overhead "Enemy is dead" 34
+        @ignore curr_target
+        @setvar! curr_target 0
     endif
   
 #wait 200
