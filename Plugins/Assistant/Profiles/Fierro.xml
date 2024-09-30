@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">400</property>
-	<property name="WindowY" type="System.Int32">400</property>
+	<property name="WindowX" type="System.Int32">953</property>
+	<property name="WindowY" type="System.Int32">0</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">1226</property>
-	<property name="RazorHeight" type="System.Int32">411</property>
+	<property name="RazorWidth" type="System.Int32">974</property>
+	<property name="RazorHeight" type="System.Int32">1039</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -217,6 +217,8 @@
 	<hotkeys>
 		<key mod="1" key="49" send="True">L:2060</key>
 		<key mod="0" key="112" send="True">L:2024</key>
+		<key mod="1" key="81" send="True">Play Script: _davidma\Crafting-ItemHandling\Minar</key>
+		<key mod="0" key="27" send="True">Play Script: _davidma\_Stop</key>
 	</hotkeys>
 	<overheadmessages>
 		<overheadmessage searchtext="a" message="" hue="68" />

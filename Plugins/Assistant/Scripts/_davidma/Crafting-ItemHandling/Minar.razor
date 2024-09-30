@@ -1,6 +1,6 @@
 @setvar! max_number_of_followers 0
 
-
+overhead '[+Start Minar]'
 
 clearsysmsg
 clearignore 
@@ -18,13 +18,13 @@ endif
 getlabel harvesting_tool selected_tool
 
 if 'pickaxe' in selected_tool and findtype "pickaxe" backpack as item
-    overhead "a minar!" 50
+    overhead "let's mining!" 50
     lift item
     drop self Righthand
 endif
 
 if 'hatchet' in selected_tool and findtype "hatchet" backpack as item
-    overhead "a talar!" 50
+    overhead "let's chooping!" 50
     lift item
     drop self Righthand
 endif
@@ -117,13 +117,11 @@ while not dead
     target self
     wait 5000
 
-    clearsysmsg
     if insysmsg 'You do not see any harvestable resources nearby.'
         #and timer 'move_timer' > move_timer_value
         overhead '*** Resource depleted ***'
         settimer 'move_timer' 0
     endif
-    clearsysmsg
 
     #################### Ore ###################
     
