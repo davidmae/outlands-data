@@ -1,0 +1,26 @@
+overhead "[+Start DiscordNearest]" 111
+hotkey 'target closest non-friendly monster'
+wait 200
+if insysmsg "no one matching"
+    overhead  "Nothing to attack" 34
+    
+    wait 200
+    hotkey "Play Script: _davidma\PVM\auto-heal"
+    stop
+endif
+
+@setvar! myKillTarget lasttarget
+
+
+clearignore 
+useskill 'Discordance'
+wft 500
+if targetexists 
+    target myKillTarget
+    wait 150
+    getlabel myKillTarget description
+    overhead description
+endif
+
+wait 200
+hotkey "Play Script: _davidma\PVM\auto-heal"

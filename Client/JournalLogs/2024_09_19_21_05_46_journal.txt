@@ -39,7 +39,7 @@
 [09/19/2024 21:06]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
 [09/19/2024 21:06]  System: Target cannot be seen.
 [09/19/2024 21:06]  Razor: a dog
-[09/19/2024 21:06]  [Razor]: Script Error: hotkey - Hotkey 'Play Script: >script uo_outlands_razor_scripts\_david.mae20_scripts\PVM\auto-heal' not found (Line: 26)
+[09/19/2024 21:06]  [Razor]: Script Error: hotkey - Hotkey 'Play Script: >script _davidma\PVM\auto-heal' not found (Line: 26)
 [09/19/2024 21:06]  Arbor the tree: Legendary Carpenter
 [09/19/2024 21:06]  Arbor the tree: [Ancient, Oak]
 [09/19/2024 21:06]  Arbor the tree: Lord Arbor the tree
@@ -55,7 +55,7 @@
 [09/19/2024 21:06]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
 [09/19/2024 21:06]  System: Target cannot be seen.
 [09/19/2024 21:06]  Razor: a dog
-[09/19/2024 21:06]  [Razor]: Script Error: hotkey - Hotkey 'Play Script: >script uo_outlands_razor_scripts\_david.mae20_scripts\PVM\auto-heal' not found (Line: 26)
+[09/19/2024 21:06]  [Razor]: Script Error: hotkey - Hotkey 'Play Script: >script _davidma\PVM\auto-heal' not found (Line: 26)
 [09/19/2024 21:06]  Eye of the Crow: Eye of the Crow
 [09/19/2024 21:06]  Razor: [+Start DiscordNearest]
 [09/19/2024 21:06]  [Razor]: New target set.

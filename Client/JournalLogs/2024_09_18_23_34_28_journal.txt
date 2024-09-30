@@ -54205,7 +54205,7 @@
 [09/19/2024 20:52]  Razor: [+Start DiscordNearest]
 [09/19/2024 20:52]  [Razor]: No one matching that was found on your screen.
 [09/19/2024 20:52]  Razor: Nothing to attack
-[09/19/2024 20:52]  [Razor]: Script Error: hotkey - Hotkey 'Play Script: >script uo_outlands_razor_scripts\_david.mae20_scripts\PVM\auto-heal' not found (Line: 8)
+[09/19/2024 20:52]  [Razor]: Script Error: hotkey - Hotkey 'Play Script: >script _davidma\PVM\auto-heal' not found (Line: 8)
 [09/19/2024 20:53]  System: o- has completed the achievement: Alchemist (Basic).
 [09/19/2024 20:53]  Razor: [+Start DiscordNearest]
 [09/19/2024 20:53]  [Razor]: No one matching that was found on your screen.

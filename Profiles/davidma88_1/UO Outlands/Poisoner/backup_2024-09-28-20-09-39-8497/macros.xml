@@ -119,7 +119,7 @@
 	</macro>
 	<macro name="Nearest Chest" key="0" mousebutton="5" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\near chest" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\near chest" />
 		</actions>
 	</macro>
 	<macro name="Black Market" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -129,17 +129,17 @@
 	</macro>
 	<macro name="RestockBank" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\Restock Reagents" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Restock Reagents" />
 		</actions>
 	</macro>
 	<macro name="CampingRecall" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\CampingRecall" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\CampingRecall" />
 		</actions>
 	</macro>
 	<macro name="CampingRecall2" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\CampingRecall2" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\CampingRecall2" />
 		</actions>
 	</macro>
 	<macro name="TargetNearest" key="0" mousebutton="4" alt="False" ctrl="False" shift="False">
@@ -155,12 +155,12 @@
 	</macro>
 	<macro name="OpenContainers" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\OpenContainers" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\OpenContainers" />
 		</actions>
 	</macro>
 	<macro name="BankRoomVendor" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\EasySays\BankRoomVendor" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\EasySays\BankRoomVendor" />
 		</actions>
 	</macro>
 	<macro name="CT" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">

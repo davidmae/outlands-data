@@ -1,0 +1,2439 @@
+[09/29/2024 18:04]  System: WorldMap loading...
+[09/29/2024 18:04]  System: Loading WorldMap markers..
+[09/29/2024 18:04]  System: ..Banks_and_Healers.xml (39)
+[09/29/2024 18:04]  System: ..Dungeons.xml (13)
+[09/29/2024 18:04]  System: ..Dungeon_Gates.xml (392)
+[09/29/2024 18:04]  System: ..Healer_Caravans.xml (42)
+[09/29/2024 18:04]  System: ..Kings_Faire.xml (49)
+[09/29/2024 18:04]  System: ..Moongates.xml (10)
+[09/29/2024 18:04]  System: ..POI.xml (251)
+[09/29/2024 18:04]  System: ..PvP_Locations.xml (71)
+[09/29/2024 18:04]  System: ..Shrines.xml (9)
+[09/29/2024 18:04]  System: ..Sub-Dungeons.xml (4)
+[09/29/2024 18:04]  System: ..Townships.xml (10)
+[09/29/2024 18:04]  System: ..UOAM_Atlas.xml (1887)
+[09/29/2024 18:04]  System: ..UOAM_T-Map.xml (255)
+[09/29/2024 18:04]  System: ..UOAM_Treasure.xml (523)
+[09/29/2024 18:04]  System: WorldMap markers loaded (3555)
+[09/29/2024 18:04]  System: Welcome Fierro!
+[09/29/2024 18:04]  Fierro: Fierro
+[09/29/2024 18:04]  a dog: a dog
+[09/29/2024 18:04]  Redmond: Redmond the beggar
+[09/29/2024 18:04]  a sheep: a sheep
+[09/29/2024 18:04]  a sheep: a sheep
+[09/29/2024 18:04]  Serafina: Serafina the farmer
+[09/29/2024 18:04]  a sheep: a sheep
+[09/29/2024 18:04]  a cat: a cat
+[09/29/2024 18:04]  a dog: a dog
+[09/29/2024 18:04]  Squire Phillip: Squire Phillip the carrier of arrows
+[09/29/2024 18:04]  Tove: Tove the blacksmith
+[09/29/2024 18:04]  a sparrow: a sparrow
+[09/29/2024 18:04]  a finch: a finch
+[09/29/2024 18:04]  System: WorldMap loaded!
+[09/29/2024 18:04]  System: Trahoza has completed the achievement: Beastial Slayer (Basic).
+[09/29/2024 18:05]  System: potts has completed the achievement: Versatility (Basic).
+[09/29/2024 18:06]  Redmond: Redmond the beggar
+[09/29/2024 18:06]  a cat: a cat
+[09/29/2024 18:06]  a finch: a finch
+[09/29/2024 18:06]  System: Maxwell Thorn has completed the achievement: Skill Proficiency (Basic).
+[09/29/2024 18:07]  a sparrow: a sparrow
+[09/29/2024 18:07]  System: Killiean has completed the achievement: Enchanter (Advanced).
+[09/29/2024 18:08]  Fierro: Kal Xen
+[09/29/2024 18:08]  You see: book of necromancy
+[09/29/2024 18:08]  You see: [blessed]
+[09/29/2024 18:08]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:08]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:08]  a corpse eater: (summoned 8m 26s)
+[09/29/2024 18:08]  a corpse eater: a corpse eater
+[09/29/2024 18:08]  Fierro: Kal Xen
+[09/29/2024 18:08]  System: You are already casting a spell.
+[09/29/2024 18:08]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:08]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 25.4.
+[09/29/2024 18:08]  System: Your skill in Spirit Speak has increased by 0.1.  It is now 80.4.
+[09/29/2024 18:08]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:08]  a grizzly bear: (summoned 8m 26s)
+[09/29/2024 18:08]  a grizzly bear: a grizzly bear
+[09/29/2024 18:08]  System: Killiean has completed the achievement: Order of Armorers Luminary.
+[09/29/2024 18:08]  Fierro: Kal Xen
+[09/29/2024 18:08]  a sparrow: a sparrow
+[09/29/2024 18:08]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:08]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:08]  a polar bear: (summoned 8m 26s)
+[09/29/2024 18:08]  a polar bear: a polar bear
+[09/29/2024 18:08]  Fierro: Kal Xen
+[09/29/2024 18:08]  System: Arrest has completed the achievement: Aspect Mastery (Basic).
+[09/29/2024 18:08]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:08]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:08]  a polar bear: (summoned 8m 26s)
+[09/29/2024 18:08]  a polar bear: a polar bear
+[09/29/2024 18:08]  Fierro: Kal Ort Por
+[09/29/2024 18:08]  Fierro: Select Marked item.
+[09/29/2024 18:08]  Fierro: Kal Xen
+[09/29/2024 18:08]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:08]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:08]  a corpse eater: (summoned 8m 26s)
+[09/29/2024 18:08]  a corpse eater: a corpse eater
+[09/29/2024 18:09]  Jermaine: [1C3]
+[09/29/2024 18:09]  Jermaine: Jermaine
+[09/29/2024 18:09]  Vazak: Vazak
+[09/29/2024 18:09]  Fierro: All Guard Me
+[09/29/2024 18:09]  Chamillionaire: [1C3]
+[09/29/2024 18:09]  Chamillionaire: Lord Chamillionaire
+[09/29/2024 18:09]  Jermaine: [1C3]
+[09/29/2024 18:09]  Jermaine: Jermaine
+[09/29/2024 18:09]  Primitive Pete: Legendary Lumberjack
+[09/29/2024 18:09]  Primitive Pete: [Guildmaster, HERO]
+[09/29/2024 18:09]  Primitive Pete: Primitive Pete
+[09/29/2024 18:09]  Linnea: Linnea the dockmaster
+[09/29/2024 18:09]  [Razor]: Ignore List cleared
+[09/29/2024 18:09]  Razor: Target queue cleared.
+[09/29/2024 18:09]  Razor: a talar!
+[09/29/2024 18:09]  System: What do you wish to track?
+[09/29/2024 18:09]  System: You must wait a few moments to use another skill.
+[09/29/2024 18:09]  System: You will now hunt enemy players.
+[09/29/2024 18:09]  System: You will now hunt murderer players.
+[09/29/2024 18:09]  System: You will now hunt criminal players.
+[09/29/2024 18:09]  System: You will now hunt innocent players.
+[09/29/2024 18:09]  System: You will now hunt friendly players.
+[09/29/2024 18:09]  System: You will now hunt aggressive creatures.
+[09/29/2024 18:09]  System: You will now hunt passive creatures.
+[09/29/2024 18:09]  System: You will now hunt townsfolk.
+[09/29/2024 18:09]  System: You will now hunt all players.
+[09/29/2024 18:09]  System: You will now hunt all hostile players.
+[09/29/2024 18:09]  Fierro: You begin hunting.
+[09/29/2024 18:09]  Razor: [+Tracking Hunting (0s)]
+[09/29/2024 18:09]  System: What do you want to use this item on?
+[09/29/2024 18:09]  System: Orlandu has completed the achievement: Omni Slayer (Advanced).
+[09/29/2024 18:09]  System: Captcha successful.
+[09/29/2024 18:09]  a dog: a dog
+[09/29/2024 18:09]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:09]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:10]  [Razor]: Ignore List cleared
+[09/29/2024 18:10]  Razor: Target queue cleared.
+[09/29/2024 18:10]  Razor: a talar!
+[09/29/2024 18:10]  System: What do you want to use this item on?
+[09/29/2024 18:10]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:10]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:10]  Razor: *** Resource depleted ***
+[09/29/2024 18:10]  Primitive Pete: Legendary Lumberjack
+[09/29/2024 18:10]  Primitive Pete: [Guildmaster, HERO]
+[09/29/2024 18:10]  Primitive Pete: Primitive Pete
+[09/29/2024 18:11]  System: What do you want to use this item on?
+[09/29/2024 18:11]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:11]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 25.3.
+[09/29/2024 18:11]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 82.3.
+[09/29/2024 18:11]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:11]  System: What do you want to use this item on?
+[09/29/2024 18:11]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:11]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:11]  Razor: |> log : 13 <|
+[09/29/2024 18:11]  System: What do you want to use this item on?
+[09/29/2024 18:11]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:11]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:11]  Razor: |> log : 20 <|
+[09/29/2024 18:11]  System: A Craft Brewery has completed the achievement: Versatility (Basic).
+[09/29/2024 18:11]  System: What do you want to use this item on?
+[09/29/2024 18:11]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:11]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:11]  Razor: *** Resource depleted ***
+[09/29/2024 18:11]  System: What do you want to use this item on?
+[09/29/2024 18:11]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:11]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:11]  Razor: *** Resource depleted ***
+[09/29/2024 18:11]  System: What do you want to use this item on?
+[09/29/2024 18:11]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:11]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:11]  System: Mai Valentine has completed the achievement: Netherzone Hunter (Basic).
+[09/29/2024 18:11]  Charity: Charity the dockmaster
+[09/29/2024 18:11]  System: Razzberry has completed the achievement: Monstrous Slayer (Basic).
+[09/29/2024 18:11]  Razor: *** Resource depleted ***
+[09/29/2024 18:11]  System: What do you want to use this item on?
+[09/29/2024 18:11]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:11]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:11]  Razor: |> log : 27 <|
+[09/29/2024 18:11]  System: What do you want to use this item on?
+[09/29/2024 18:11]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:11]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 25.2.
+[09/29/2024 18:11]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 82.4.
+[09/29/2024 18:11]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:11]  Razor: |> log : 34 <|
+[09/29/2024 18:11]  System: Brawlthazar has completed the achievement: Guardian of The Mausoleum (Intermediate).
+[09/29/2024 18:11]  System: What do you want to use this item on?
+[09/29/2024 18:11]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:11]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:12]  System: What do you want to use this item on?
+[09/29/2024 18:12]  System: Spiedy has completed the achievement: Guardian of Shadowspire (Basic).
+[09/29/2024 18:12]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:12]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:12]  Razor: |> log : 39 <|
+[09/29/2024 18:12]  System: What do you want to use this item on?
+[09/29/2024 18:12]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:12]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:12]  Razor: |> log : 48 <|
+[09/29/2024 18:12]  System: What do you want to use this item on?
+[09/29/2024 18:12]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:12]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:12]  Razor: *** Resource depleted ***
+[09/29/2024 18:12]  System: What do you want to use this item on?
+[09/29/2024 18:12]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:12]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:12]  Razor: *** Resource depleted ***
+[09/29/2024 18:12]  System: What do you want to use this item on?
+[09/29/2024 18:12]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:12]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:12]  Razor: *** Resource depleted ***
+[09/29/2024 18:12]  System: What do you want to use this item on?
+[09/29/2024 18:12]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:12]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:12]  a hind: a hind
+[09/29/2024 18:12]  Razor: *** Resource depleted ***
+[09/29/2024 18:12]  System: What do you want to use this item on?
+[09/29/2024 18:12]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:12]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:12]  Razor: *** Resource depleted ***
+[09/29/2024 18:12]  System: What do you want to use this item on?
+[09/29/2024 18:12]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:12]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:13]  [Razor]: Ignore List cleared
+[09/29/2024 18:13]  Razor: Target queue cleared.
+[09/29/2024 18:13]  Razor: a talar!
+[09/29/2024 18:13]  System: What do you want to use this item on?
+[09/29/2024 18:13]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:13]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:13]  Razor: |> log : 56 <|
+[09/29/2024 18:13]  System: What do you want to use this item on?
+[09/29/2024 18:13]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:13]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:13]  System: Wangtery has completed the achievement: Monstrous Slayer (Advanced).
+[09/29/2024 18:14]  [Razor]: Ignore List cleared
+[09/29/2024 18:14]  Razor: Target queue cleared.
+[09/29/2024 18:14]  Razor: a talar!
+[09/29/2024 18:14]  System: What do you want to use this item on?
+[09/29/2024 18:14]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:14]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:14]  System: What do you want to use this item on?
+[09/29/2024 18:14]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:14]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:14]  Razor: |> log : 66 <|
+[09/29/2024 18:14]  System: What do you want to use this item on?
+[09/29/2024 18:14]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:14]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:14]  Razor: *** Resource depleted ***
+[09/29/2024 18:14]  System: What do you want to use this item on?
+[09/29/2024 18:14]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:14]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:14]  Razor: *** Resource depleted ***
+[09/29/2024 18:14]  System: What do you want to use this item on?
+[09/29/2024 18:14]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:14]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:14]  System: MIJAOBBA has completed the achievement: Affluent (Advanced).
+[09/29/2024 18:14]  Razor: *** Resource depleted ***
+[09/29/2024 18:14]  System: What do you want to use this item on?
+[09/29/2024 18:14]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:14]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:14]  Altris: Legendary Pirate
+[09/29/2024 18:14]  Altris: [1CE]
+[09/29/2024 18:14]  Altris: Lord Altris
+[09/29/2024 18:14]  ICECLAN: ICECLAN the dockmaster
+[09/29/2024 18:14]  Razor: *** Resource depleted ***
+[09/29/2024 18:14]  System: What do you want to use this item on?
+[09/29/2024 18:14]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:14]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:14]  Razor: *** Resource depleted ***
+[09/29/2024 18:14]  System: What do you want to use this item on?
+[09/29/2024 18:14]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:14]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:15]  Razor: |> log : 71 <|
+[09/29/2024 18:15]  System: What do you want to use this item on?
+[09/29/2024 18:15]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:15]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:15]  Razor: |> log : 79 <|
+[09/29/2024 18:15]  System: What do you want to use this item on?
+[09/29/2024 18:15]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:15]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:15]  Razor: *** Resource depleted ***
+[09/29/2024 18:15]  System: What do you want to use this item on?
+[09/29/2024 18:15]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:15]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:15]  Razor: *** Resource depleted ***
+[09/29/2024 18:15]  System: What do you want to use this item on?
+[09/29/2024 18:15]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:15]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:15]  Razor: *** Resource depleted ***
+[09/29/2024 18:15]  System: What do you want to use this item on?
+[09/29/2024 18:15]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:15]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:15]  Razor: *** Resource depleted ***
+[09/29/2024 18:15]  System: What do you want to use this item on?
+[09/29/2024 18:15]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:15]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:15]  Razor: *** Resource depleted ***
+[09/29/2024 18:15]  System: What do you want to use this item on?
+[09/29/2024 18:15]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:15]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:15]  Razor: *** Resource depleted ***
+[09/29/2024 18:15]  Woody Woodpecker: Artificer Initiate
+[09/29/2024 18:15]  Woody Woodpecker: Woody Woodpecker
+[09/29/2024 18:15]  System: What do you want to use this item on?
+[09/29/2024 18:15]  SS/CORE/DISTIL: SS/CORE/DISTIL
+[09/29/2024 18:15]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:15]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:15]  Assorted Stuff: Assorted Stuff
+[09/29/2024 18:15]  Razor: *** Resource depleted ***
+[09/29/2024 18:15]  System: What do you want to use this item on?
+[09/29/2024 18:15]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:15]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:16]  Razor: *** Resource depleted ***
+[09/29/2024 18:16]  System: What do you want to use this item on?
+[09/29/2024 18:16]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:16]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:16]  CHEAP JUNK: CHEAP JUNK
+[09/29/2024 18:16]  YE OLDE SHOPPE: YE OLDE SHOPPE
+[09/29/2024 18:16]  DG Stuff: DG Stuff
+[09/29/2024 18:16]  Razor: Attack: ICECLAN
+[09/29/2024 18:16]  System: ICECLAN the dockmaster cannot be harmed.
+[09/29/2024 18:16]  Razor: *** Resource depleted ***
+[09/29/2024 18:16]  System: What do you want to use this item on?
+[09/29/2024 18:16]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:16]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:16]  Razor: Attack: YE OLDE SHOPPE
+[09/29/2024 18:16]  System: YE OLDE SHOPPE cannot be harmed.
+[09/29/2024 18:16]  Razor: *** Resource depleted ***
+[09/29/2024 18:16]  Razor: Attack: YE OLDE SHOPPE
+[09/29/2024 18:16]  System: YE OLDE SHOPPE cannot be harmed.
+[09/29/2024 18:16]  System: What do you want to use this item on?
+[09/29/2024 18:16]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:16]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:16]  Razor: *** Resource depleted ***
+[09/29/2024 18:16]  System: What do you want to use this item on?
+[09/29/2024 18:16]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:16]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:16]  System: You must wait to perform another action.
+[09/29/2024 18:16]  YE OLDE SHOPPE: Take a look at my goods.
+[09/29/2024 18:16]  Razor: *** Resource depleted ***
+[09/29/2024 18:16]  System: What do you want to use this item on?
+[09/29/2024 18:16]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:16]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:16]  Sibyl: Sibyl the battle trainer
+[09/29/2024 18:16]  Razor: *** Resource depleted ***
+[09/29/2024 18:16]  CHEAP JUNK: Take a look at my goods.
+[09/29/2024 18:16]  System: What do you want to use this item on?
+[09/29/2024 18:16]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:16]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:16]  System: You must wait to perform another action.
+[09/29/2024 18:16]  GloboDock: GloboDock the dockmaster
+[09/29/2024 18:16]  a hind: a hind
+[09/29/2024 18:16]  Holyy: Holyy the dockmaster
+[09/29/2024 18:16]  an eagle: an eagle
+[09/29/2024 18:16]  a forest ostard: a forest ostard
+[09/29/2024 18:16]  Razor: *** Resource depleted ***
+[09/29/2024 18:16]  a hind: a hind
+[09/29/2024 18:16]  a wolf: a wolf
+[09/29/2024 18:16]  System: What do you want to use this item on?
+[09/29/2024 18:16]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:16]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:16]  a great hart: a great hart
+[09/29/2024 18:16]  Razor: *** Resource depleted ***
+[09/29/2024 18:16]  System: What do you want to use this item on?
+[09/29/2024 18:16]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:16]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:16]  [Razor]: Ignore List cleared
+[09/29/2024 18:16]  Razor: Target queue cleared.
+[09/29/2024 18:16]  Razor: a talar!
+[09/29/2024 18:17]  Fierro: Kal Xen
+[09/29/2024 18:17]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:17]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:17]  a black bear: (summoned 8m 26s)
+[09/29/2024 18:17]  a black bear: a black bear
+[09/29/2024 18:17]  Fierro: Kal Xen
+[09/29/2024 18:17]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:17]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:17]  a brown bear: (summoned 8m 26s)
+[09/29/2024 18:17]  a brown bear: a brown bear
+[09/29/2024 18:17]  Fierro: Kal Xen
+[09/29/2024 18:17]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:17]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:17]  a sand crab: (summoned 8m 26s)
+[09/29/2024 18:17]  a sand crab: a sand crab
+[09/29/2024 18:17]  Fierro: Kal Xen
+[09/29/2024 18:17]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:17]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:17]  a grizzly bear: (summoned 8m 26s)
+[09/29/2024 18:17]  a grizzly bear: a grizzly bear
+[09/29/2024 18:17]  System: Vecklor has completed the achievement: Pilferer (Basic).
+[09/29/2024 18:17]  System: Crafty McShaft has completed the achievement: Tinker (Advanced).
+[09/29/2024 18:17]  [Razor]: Ignore List cleared
+[09/29/2024 18:17]  Razor: Target queue cleared.
+[09/29/2024 18:17]  Razor: a talar!
+[09/29/2024 18:17]  Fierro: Kal Xen
+[09/29/2024 18:17]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:17]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:17]  a sand crab: (summoned 8m 26s)
+[09/29/2024 18:17]  a sand crab: a sand crab
+[09/29/2024 18:17]  Fierro: All Guard me
+[09/29/2024 18:17]  [Razor]: Script Error: dclick - invalid serial (Line: 107)
+[09/29/2024 18:18]  System: Kagome has completed the achievement: Mugger (Advanced).
+[09/29/2024 18:18]  [Razor]: Ignore List cleared
+[09/29/2024 18:18]  Razor: Target queue cleared.
+[09/29/2024 18:18]  Razor: a talar!
+[09/29/2024 18:18]  System: What do you want to use this item on?
+[09/29/2024 18:18]  System: Budha has completed the achievement: Omni Slayer (Basic).
+[09/29/2024 18:18]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:18]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:18]  Razor: |> log : 92 <|
+[09/29/2024 18:18]  System: What do you want to use this item on?
+[09/29/2024 18:18]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:18]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:18]  Razor: |> log : 100 <|
+[09/29/2024 18:18]  System: What do you want to use this item on?
+[09/29/2024 18:18]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:18]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:18]  Razor: *** Resource depleted ***
+[09/29/2024 18:18]  System: What do you want to use this item on?
+[09/29/2024 18:18]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:18]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:18]  Razor: *** Resource depleted ***
+[09/29/2024 18:18]  System: What do you want to use this item on?
+[09/29/2024 18:18]  YE OLDE SHOPPE: YE OLDE SHOPPE
+[09/29/2024 18:18]  DG Stuff: DG Stuff
+[09/29/2024 18:18]  CHEAP JUNK: CHEAP JUNK
+[09/29/2024 18:18]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:18]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:18]  Razor: |> log : 110 <|
+[09/29/2024 18:18]  System: What do you want to use this item on?
+[09/29/2024 18:19]  System: The world will save in 15 seconds.
+[09/29/2024 18:19]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:19]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:19]  Razor: |> log : 116 <|
+[09/29/2024 18:19]  System: What do you want to use this item on?
+[09/29/2024 18:19]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:19]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:19]  Razor: |> log : 124 <|
+[09/29/2024 18:19]  System: What do you want to use this item on?
+[09/29/2024 18:19]  System: Curak Overland has completed the achievement: Colorful (Basic).
+[09/29/2024 18:19]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:19]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:19]  Razor: |> log : 133 <|
+[09/29/2024 18:19]  System: What do you want to use this item on?
+[09/29/2024 18:19]  System: The world is saving, please wait.
+[09/29/2024 18:19]  System: World save complete. The entire process took 2.6 seconds.
+[09/29/2024 18:19]  System: What do you want to use this item on?
+[09/29/2024 18:19]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:19]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:19]  Razor: |> log : 141 <|
+[09/29/2024 18:19]  System: What do you want to use this item on?
+[09/29/2024 18:19]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:19]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:19]  Razor: *** Resource depleted ***
+[09/29/2024 18:19]  System: What do you want to use this item on?
+[09/29/2024 18:19]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:19]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:19]  System: Kaho the Cat has completed the achievement: Wilderness Hunter (Intermediate).
+[09/29/2024 18:19]  Razor: *** Resource depleted ***
+[09/29/2024 18:19]  System: What do you want to use this item on?
+[09/29/2024 18:19]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:19]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:19]  Razor: *** Resource depleted ***
+[09/29/2024 18:19]  System: What do you want to use this item on?
+[09/29/2024 18:19]  Sibyl: Sibyl the battle trainer
+[09/29/2024 18:19]  AAVRON: Echosmith
+[09/29/2024 18:19]  AAVRON: [Recruiter, Vendor House, FRND]
+[09/29/2024 18:19]  AAVRON: Lady AAVRON
+[09/29/2024 18:19]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:19]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:19]  Razor: *** Resource depleted ***
+[09/29/2024 18:19]  System: What do you want to use this item on?
+[09/29/2024 18:19]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:19]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:19]  Easter: Easter the battle trainer
+[09/29/2024 18:20]  Razor: *** Resource depleted ***
+[09/29/2024 18:20]  System: What do you want to use this item on?
+[09/29/2024 18:20]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:20]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 25.1.
+[09/29/2024 18:20]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 82.5.
+[09/29/2024 18:20]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:20]  Razor: |> log : 146 <|
+[09/29/2024 18:20]  System: What do you want to use this item on?
+[09/29/2024 18:20]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:20]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:20]  System: What do you want to use this item on?
+[09/29/2024 18:20]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:20]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:20]  Razor: |> log : 154 <|
+[09/29/2024 18:20]  System: What do you want to use this item on?
+[09/29/2024 18:20]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:20]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:20]  Razor: |> log : 164 <|
+[09/29/2024 18:20]  System: What do you want to use this item on?
+[09/29/2024 18:20]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:20]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:20]  Razor: |> log : 173 <|
+[09/29/2024 18:20]  System: What do you want to use this item on?
+[09/29/2024 18:20]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:20]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:20]  Razor: *** Resource depleted ***
+[09/29/2024 18:20]  System: What do you want to use this item on?
+[09/29/2024 18:20]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:20]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:20]  a hind: a hind
+[09/29/2024 18:20]  a giant rat: a giant rat
+[09/29/2024 18:20]  Razor: *** Resource depleted ***
+[09/29/2024 18:20]  System: What do you want to use this item on?
+[09/29/2024 18:20]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:20]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:20]  a hind: a hind
+[09/29/2024 18:20]  a giant rat: a giant rat
+[09/29/2024 18:20]  Razor: *** Resource depleted ***
+[09/29/2024 18:20]  System: What do you want to use this item on?
+[09/29/2024 18:20]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:20]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:21]  System: What do you want to use this item on?
+[09/29/2024 18:21]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:21]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:21]  System: What do you want to use this item on?
+[09/29/2024 18:21]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:21]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:21]  System: What do you want to use this item on?
+[09/29/2024 18:21]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:21]  System: You chop some copperwood logs and put them in your backpack.
+[09/29/2024 18:21]  System: What do you want to use this item on?
+[09/29/2024 18:21]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:21]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:21]  System: What do you want to use this item on?
+[09/29/2024 18:21]  : grass
+[09/29/2024 18:21]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:21]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:21]  Razor: |> log : 183 <|
+[09/29/2024 18:21]  System: What do you want to use this item on?
+[09/29/2024 18:21]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:21]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:21]  Razor: *** Resource depleted ***
+[09/29/2024 18:21]  System: What do you want to use this item on?
+[09/29/2024 18:21]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:21]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:21]  Razor: *** Resource depleted ***
+[09/29/2024 18:21]  Fierro: [focusagression
+[09/29/2024 18:21]  System: What do you want to use this item on?
+[09/29/2024 18:21]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:21]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:21]  Audrey Lynn: Audrey Lynn
+[09/29/2024 18:21]  Razor: *** Resource depleted ***
+[09/29/2024 18:21]  System: What do you want to use this item on?
+[09/29/2024 18:21]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:21]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:21]  Razor: |> log : 189 <|
+[09/29/2024 18:22]  System: What do you want to use this item on?
+[09/29/2024 18:22]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:22]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:22]  Fierro: [focusaggression
+[09/29/2024 18:22]  Razor: |> log : 194 <|
+[09/29/2024 18:22]  System: What do you want to use this item on?
+[09/29/2024 18:22]  Fierro: [focusaggresion
+[09/29/2024 18:22]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:22]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:22]  System: What do you want to use this item on?
+[09/29/2024 18:22]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:22]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:22]  Razor: |> log : 202 <|
+[09/29/2024 18:22]  System: What do you want to use this item on?
+[09/29/2024 18:22]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:22]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:22]  : stone wall
+[09/29/2024 18:22]  Razor: |> log : 212 <|
+[09/29/2024 18:22]  System: What do you want to use this item on?
+[09/29/2024 18:22]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:22]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:22]  a giant rat: a giant rat
+[09/29/2024 18:22]  a pack llama: (tame)
+[09/29/2024 18:22]  a pack llama: [0/2000 stones]
+[09/29/2024 18:22]  a pack llama: [0/125 items]
+[09/29/2024 18:22]  a pack llama: a pack llama
+[09/29/2024 18:22]  a pack horse: (tame)
+[09/29/2024 18:22]  a pack horse: [0/2000 stones]
+[09/29/2024 18:22]  a pack horse: [0/125 items]
+[09/29/2024 18:22]  a pack horse: a pack horse
+[09/29/2024 18:22]  Jimmystar.Craft: Serial Killer
+[09/29/2024 18:22]  Jimmystar.Craft: [LMAO]
+[09/29/2024 18:22]  Jimmystar.Craft: Jimmystar.Craft
+[09/29/2024 18:22]  a great hart: a great hart
+[09/29/2024 18:22]  Redford: Redford the dockmaster
+[09/29/2024 18:22]  The Love Boat: Captain
+[09/29/2024 18:22]  The Love Boat: Lady The Love Boat
+[09/29/2024 18:22]  Razor: *** Resource depleted ***
+[09/29/2024 18:22]  System: What do you want to use this item on?
+[09/29/2024 18:22]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:22]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:22]  Razor: |> log : 221 <|
+[09/29/2024 18:22]  You see: Shelter Island
+[09/29/2024 18:22]  System: What do you want to use this item on?
+[09/29/2024 18:22]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:22]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:22]  Razor: |> log : 230 <|
+[09/29/2024 18:22]  System: What do you want to use this item on?
+[09/29/2024 18:22]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:22]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:22]  Razor: |> log : 240 <|
+[09/29/2024 18:22]  System: What do you want to use this item on?
+[09/29/2024 18:22]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:22]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:22]  Razor: |> log : 249 <|
+[09/29/2024 18:23]  System: What do you want to use this item on?
+[09/29/2024 18:23]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:23]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:23]  a giant rat: a giant rat
+[09/29/2024 18:23]  Razor: |> log : 255 <|
+[09/29/2024 18:23]  System: What do you want to use this item on?
+[09/29/2024 18:23]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:23]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:23]  Razor: |> log : 261 <|
+[09/29/2024 18:23]  System: What do you want to use this item on?
+[09/29/2024 18:23]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:23]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:23]  Razor: |> log : 268 <|
+[09/29/2024 18:23]  System: What do you want to use this item on?
+[09/29/2024 18:23]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:23]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:23]  System: What do you want to use this item on?
+[09/29/2024 18:23]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:23]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:23]  Razor: |> log : 274 <|
+[09/29/2024 18:23]  System: What do you want to use this item on?
+[09/29/2024 18:23]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:23]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:23]  Razor: *** Resource depleted ***
+[09/29/2024 18:23]  System: What do you want to use this item on?
+[09/29/2024 18:23]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:23]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:23]  Audrey Lynn: Audrey Lynn
+[09/29/2024 18:23]  a hind: a hind
+[09/29/2024 18:23]  Razor: *** Resource depleted ***
+[09/29/2024 18:23]  System: What do you want to use this item on?
+[09/29/2024 18:23]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:23]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:23]  Bem: Bem
+[09/29/2024 18:23]  Razor: *** Resource depleted ***
+[09/29/2024 18:23]  System: What do you want to use this item on?
+[09/29/2024 18:23]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:23]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:24]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:24]  System: You chop some bronzewood logs and put them in your backpack.
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:24]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:24]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:24]  System: Smrtka has completed the achievement: Nature Slayer (Basic).
+[09/29/2024 18:24]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:24]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:24]  Razor: |> log : 283 <|
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:24]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:24]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:24]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:24]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:24]  Razor: |> log : 293 <|
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:24]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:24]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:24]  Razor: |> log : 301 <|
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:24]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:24]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:24]  Razor: |> log : 311 <|
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:24]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:24]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:24]  Razor: |> log : 318 <|
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:24]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:24]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:24]  System: What do you want to use this item on?
+[09/29/2024 18:25]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:25]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:25]  Razor: |> log : 328 <|
+[09/29/2024 18:25]  System: What do you want to use this item on?
+[09/29/2024 18:25]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:25]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:25]  Razor: |> log : 334 <|
+[09/29/2024 18:25]  System: What do you want to use this item on?
+[09/29/2024 18:25]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:25]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:25]  Razor: *** Resource depleted ***
+[09/29/2024 18:25]  System: What do you want to use this item on?
+[09/29/2024 18:25]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:25]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:25]  Razor: *** Resource depleted ***
+[09/29/2024 18:25]  System: What do you want to use this item on?
+[09/29/2024 18:25]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:25]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:25]  Razor: *** Resource depleted ***
+[09/29/2024 18:25]  System: What do you want to use this item on?
+[09/29/2024 18:25]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:25]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:25]  Razor: *** Resource depleted ***
+[09/29/2024 18:25]  Fierro: Kal Xen
+[09/29/2024 18:25]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:25]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:25]  shallow water: (summoned 8m 26s)
+[09/29/2024 18:25]  shallow water: shallow water
+[09/29/2024 18:25]  Fierro: Kal Xen
+[09/29/2024 18:25]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:25]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:25]  a black bear: (summoned 8m 26s)
+[09/29/2024 18:25]  a black bear: a black bear
+[09/29/2024 18:25]  [Razor]: Ignore List cleared
+[09/29/2024 18:25]  Razor: Target queue cleared.
+[09/29/2024 18:25]  Razor: a talar!
+[09/29/2024 18:25]  System: What do you want to use this item on?
+[09/29/2024 18:25]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:25]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:26]  Razor: *** Resource depleted ***
+[09/29/2024 18:26]  System: What do you want to use this item on?
+[09/29/2024 18:26]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:26]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:26]  a wisp: a wisp
+[09/29/2024 18:26]  Razor: *** Resource depleted ***
+[09/29/2024 18:26]  a kingfisher: a kingfisher
+[09/29/2024 18:26]  System: What do you want to use this item on?
+[09/29/2024 18:26]  Audrey Lynn: Take a look at my goods.
+[09/29/2024 18:26]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:26]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:26]  Razor: |> log : 342 <|
+[09/29/2024 18:26]  System: What do you want to use this item on?
+[09/29/2024 18:26]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:26]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:26]  Fierro: Kal Xen
+[09/29/2024 18:26]  System: Luzeras has completed the achievement: Versatility (Basic).
+[09/29/2024 18:26]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:26]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:26]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 25.0.
+[09/29/2024 18:26]  System: Your skill in Necromancy has increased by 0.1.  It is now 80.4.
+[09/29/2024 18:26]  a grizzly bear: (summoned 8m 26s)
+[09/29/2024 18:26]  a grizzly bear: a grizzly bear
+[09/29/2024 18:26]  Fierro: All Guard me
+[09/29/2024 18:26]  Razor: a talar!
+[09/29/2024 18:26]  System: What do you want to use this item on?
+[09/29/2024 18:26]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:26]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:26]  Razor: |> log : 348 <|
+[09/29/2024 18:26]  System: What do you want to use this item on?
+[09/29/2024 18:26]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:26]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:26]  Razor: *** Resource depleted ***
+[09/29/2024 18:26]  System: What do you want to use this item on?
+[09/29/2024 18:26]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:26]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:26]  Razor: |> log : 356 <|
+[09/29/2024 18:26]  System: What do you want to use this item on?
+[09/29/2024 18:26]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:26]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:26]  Razor: |> log : 361 <|
+[09/29/2024 18:26]  System: What do you want to use this item on?
+[09/29/2024 18:26]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:26]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:27]  Razor: |> log : 367 <|
+[09/29/2024 18:27]  System: What do you want to use this item on?
+[09/29/2024 18:27]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:27]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:27]  Razor: |> log : 374 <|
+[09/29/2024 18:27]  System: What do you want to use this item on?
+[09/29/2024 18:27]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:27]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:27]  System: What do you want to use this item on?
+[09/29/2024 18:27]  System: Now tracking: Yot'xek (82 spaces to target)
+[09/29/2024 18:27]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:27]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:27]  Razor: |> log : 384 <|
+[09/29/2024 18:27]  Razor: Hostile player detected!
+[09/29/2024 18:27]  Razor: Recalling...
+[09/29/2024 18:27]  Fierro: Kal Ort Por
+[09/29/2024 18:27]  System: You are already casting a spell.
+[09/29/2024 18:27]  Fierro: Select Marked item.
+[09/29/2024 18:27]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:27]  System: Necromancy skillgain: 16.576%
+[09/29/2024 18:27]  System: You are now under the protection of the town guards.
+[09/29/2024 18:27]  Oh Peaches: [Concierge, Inn]
+[09/29/2024 18:27]  Oh Peaches: Oh Peaches
+[09/29/2024 18:27]  Hella Bore: [Recruit, L%C]
+[09/29/2024 18:27]  Hella Bore: Hella Bore
+[09/29/2024 18:27]  Craft Her: Craft Her
+[09/29/2024 18:27]  Macy: [Private, G.G]
+[09/29/2024 18:27]  Macy: Macy
+[09/29/2024 18:27]  Snow Gate: Legendary Tailor
+[09/29/2024 18:27]  Snow Gate: [La Recruteuse, LDS]
+[09/29/2024 18:27]  Snow Gate: Snow Gate
+[09/29/2024 18:27]  Guldan Noxborn: [Khajiit Has Wares, NEW!]
+[09/29/2024 18:27]  Guldan Noxborn: Guldan Noxborn
+[09/29/2024 18:27]  Dirt Mc.Girt: [1CE]
+[09/29/2024 18:27]  Dirt Mc.Girt: Dirt Mc.Girt
+[09/29/2024 18:27]  Requies: Scientist
+[09/29/2024 18:27]  Requies: [TRT]
+[09/29/2024 18:27]  Requies: Requies
+[09/29/2024 18:27]  Elfi: [Elfi]
+[09/29/2024 18:27]  Elfi: Elfi
+[09/29/2024 18:27]  A Prickly Pear: [Triggered By Wings, gLc]
+[09/29/2024 18:27]  A Prickly Pear: A Prickly Pear
+[09/29/2024 18:27]  shoes: shoes
+[09/29/2024 18:27]  Floorskin: Skinner
+[09/29/2024 18:27]  Floorskin: Floorskin
+[09/29/2024 18:27]  Favstvs: Artificer Dignitary
+[09/29/2024 18:27]  Favstvs: [Veteran, Syn]
+[09/29/2024 18:27]  Favstvs: Favstvs
+[09/29/2024 18:27]  Moosebear: Moosebear
+[09/29/2024 18:27]  Arbor the tree: Legendary Carpenter
+[09/29/2024 18:27]  Arbor the tree: [Ancient, Oak]
+[09/29/2024 18:27]  Arbor the tree: Lord Arbor the tree
+[09/29/2024 18:27]  Delia Darkmire: Legendary Illusionist
+[09/29/2024 18:27]  Delia Darkmire: Lady Delia Darkmire
+[09/29/2024 18:27]  a grizzly bear: (summoned 7m 30s)
+[09/29/2024 18:27]  a grizzly bear: a grizzly bear
+[09/29/2024 18:27]  a black bear: (summoned 6m 52s)
+[09/29/2024 18:27]  a black bear: a black bear
+[09/29/2024 18:27]  shallow water: (summoned 6m 46s)
+[09/29/2024 18:27]  shallow water: shallow water
+[09/29/2024 18:27]  COACHYARD LLC: Legendary Scribe
+[09/29/2024 18:27]  COACHYARD LLC: COACHYARD LLC
+[09/29/2024 18:27]  GOLDRUN: GOLDRUN (Young)
+[09/29/2024 18:27]  A Bastard: A Bastard (Young)
+[09/29/2024 18:27]  NewType mrs: [AHO]
+[09/29/2024 18:27]  NewType mrs: NewType mrs
+[09/29/2024 18:27]  The Gater: The Gater
+[09/29/2024 18:27]  Err'rr: Legendary Boss Slayer
+[09/29/2024 18:27]  Err'rr: [Grunt, Ork]
+[09/29/2024 18:27]  Err'rr: Lord Err'rr
+[09/29/2024 18:27]  Dignson: Dignson
+[09/29/2024 18:27]  Brentan: Brentan the miner
+[09/29/2024 18:27]  HeiHeiDeYe: [Lesser Kalami, CN]
+[09/29/2024 18:27]  HeiHeiDeYe: HeiHeiDeYe
+[09/29/2024 18:27]  Carol: Carol the miner
+[09/29/2024 18:27]  BOBFROMACOUNTING: Legendary Zoologist
+[09/29/2024 18:27]  BOBFROMACOUNTING: [Veteran, Syn]
+[09/29/2024 18:27]  BOBFROMACOUNTING: Lord BOBFROMACOUNTING
+[09/29/2024 18:27]  a horse: (tame)
+[09/29/2024 18:27]  a horse: a horse
+[09/29/2024 18:27]  Mercedes: Mercedes the ranger
+[09/29/2024 18:27]  Sassy Lumberjack: Sassy Lumberjack
+[09/29/2024 18:27]  Schizofrenie: Schizofrenie
+[09/29/2024 18:27]  MasterGaterAlt: MasterGaterAlt
+[09/29/2024 18:27]  MasterGater OG: MasterGater OG
+[09/29/2024 18:27]  Legasus: [Officer, ViPs]
+[09/29/2024 18:27]  Legasus: Legasus
+[09/29/2024 18:27]  Lumb and Lumber: [The Tavern], [tT]
+[09/29/2024 18:27]  Lumb and Lumber: Lumb and Lumber
+[09/29/2024 18:27]  Tamez-A-Lot: Tamez-A-Lot
+[09/29/2024 18:27]  a searing imp: (bonded)
+[09/29/2024 18:27]  a searing imp: a searing imp
+[09/29/2024 18:27]  a searing mantis: (bonded)
+[09/29/2024 18:27]  a searing mantis: a searing mantis
+[09/29/2024 18:27]  a scarab: (bonded)
+[09/29/2024 18:27]  a scarab: a scarab
+[09/29/2024 18:27]  LazMan: Monster Hunter Initiate
+[09/29/2024 18:27]  LazMan: [Private First Class, TES]
+[09/29/2024 18:27]  LazMan: LazMan
+[09/29/2024 18:27]  Frieden: [SSA]
+[09/29/2024 18:27]  Frieden: Frieden
+[09/29/2024 18:27]  Dani G German: [Recruit, G.G]
+[09/29/2024 18:27]  Dani G German: Dani G German
+[09/29/2024 18:27]  Xandarth: Xandarth
+[09/29/2024 18:27]  Johnny Burnside: [Marksman, Tale]
+[09/29/2024 18:27]  Johnny Burnside: Lord Johnny Burnside
+[09/29/2024 18:27]  Svinto: Svinto
+[09/29/2024 18:27]  Spiediest: Legendary Invader [Prevalia]
+[09/29/2024 18:27]  Spiediest: [DPS]
+[09/29/2024 18:27]  Spiediest: Spiediest
+[09/29/2024 18:27]  Favstvs: 2250 Marked Locations!
+[09/29/2024 18:27]  Floorskin: @ Tugboat Willy's @
+[09/29/2024 18:27]  [Razor]: Script Error: dclick - invalid serial (Line: 114)
+[09/29/2024 18:27]  Snow Gate: Vas Rel Por
+[09/29/2024 18:27]  Favstvs: RUNES AND VENDORS
+[09/29/2024 18:27]  Favstvs: Scanned by Outlands Malls!
+[09/29/2024 18:27]  Oh Peaches: ...a new vendor mall with unique interactions!
+[09/29/2024 18:27]  Requies: The Shadow Market - previously The Rogue Tower - vendor spots 15k a week
+[09/29/2024 18:27]  Favstvs: Come check us out!
+[09/29/2024 18:27]  Macy: Vas Rel Por
+[09/29/2024 18:27]  A Prickly Pear: VENDOR RENTAL SPOTS AVAILABLE! 5 & 10K!
+[09/29/2024 18:27]  COACHYARD LLC: Vas Rel Por
+[09/29/2024 18:27]  Oh Peaches: (1) Vendor Ledger - open the book above Repair Bench to contact renters directly.
+[09/29/2024 18:27]  Dirt Mc.Girt: Gating to 1CE Clans Terran vendor mall. Spots available for 10k a week.
+[09/29/2024 18:27]  Dignson: Vas Rel Por
+[09/29/2024 18:27]  Craft Her: Vas Rel Por
+[09/29/2024 18:27]  NewType mrs: Vas Rel Por
+[09/29/2024 18:27]  A Prickly Pear: Leather Suits Stocked!
+[09/29/2024 18:27]  Oh Peaches: (2) Donation Depot - public chest on 1st floor. Take what you need and consider donating.
+[09/29/2024 18:27]  COACHYARD LLC: Now gating to the Coachyard LLC!
+[09/29/2024 18:27]  Dani G German: Kal Ort Por
+[09/29/2024 18:27]  Guldan Noxborn: Vas Rel Por
+[09/29/2024 18:27]  COACHYARD LLC: Now Crafting!! Weapons,Tools,SmokeBombs,DetectLens,WizardSatchels,Spellbooks,MartialManuals
+[09/29/2024 18:27]  COACHYARD LLC: Specialty Items: Rope,FishingNet/MiBs,RareCloth,AspectCores/Distill,CarpetDye,AspectKits,InvulArmor,Melloweed
+[09/29/2024 18:27]  COACHYARD LLC: Bulk Commodities: Bottles,BlankScrolls,Regs,Potions,Recalls,FOOD,Arrows/Bolts,ShipBombs
+[09/29/2024 18:27]  COACHYARD LLC: And much much more! Everything you need!
+[09/29/2024 18:27]  A Prickly Pear: Close to Prevalia Gate! CY Recalling Available!
+[09/29/2024 18:27]  Oh Peaches: Vendor spots available!!! Contact WonTrickPony on Discord.
+[09/29/2024 18:27]  COACHYARD LLC: OPEN VENDERS
+[09/29/2024 18:27]  Hella Bore: New Vendor Boathouse 30+ Open Spots
+[09/29/2024 18:27]  Hella Bore: Come check out the new wares and Sail into Savings
+[09/29/2024 18:27]  Hella Bore: All Aboard Next Stop, The Plunder Express. Where it is always 5 Oclock
+[09/29/2024 18:27]  MasterGater OG: Vas Rel Por
+[09/29/2024 18:27]  MasterGaterAlt: Vas Rel Por
+[09/29/2024 18:27]  Moosebear: PWNHALLA Vendors Vendor Mall by Pwnstarr Gaming!
+[09/29/2024 18:27]  Oh Peaches: Ammenities include: Updated POI & Witcher runes
+[09/29/2024 18:27]  Favstvs: Vas Rel Por
+[09/29/2024 18:27]  A Prickly Pear: Head over to Cactus Emporium
+[09/29/2024 18:27]  A Prickly Pear: Vas Rel Por
+[09/29/2024 18:27]  Floorskin: @ Tugboat Willy's @
+[09/29/2024 18:27]  Moosebear: There are a few vendor spots still open! Please clothe yourself as a shirtless orc and DM Pwnstarr85 to let him know you placed
+[09/29/2024 18:27]  Dirt Mc.Girt: Vas Rel Por
+[09/29/2024 18:27]  Dirt Mc.Girt: Gating to 1CE Clans Terran vendor mall.
+[09/29/2024 18:27]  Oh Peaches: Private roof access for safe loading
+[09/29/2024 18:27]  Dogue: Dogue (Young)
+[09/29/2024 18:27]  Null Pointer: Null Pointer (Young)
+[09/29/2024 18:27]  A Prickly Pear: VENDOR RENTAL SPOTS AVAILABLE! 5 & 10K!
+[09/29/2024 18:27]  Arbitrage: [Super Prankster, O|P]
+[09/29/2024 18:27]  Arbitrage: Arbitrage
+[09/29/2024 18:27]  Blanc de Blancs: Blanc de Blancs
+[09/29/2024 18:27]  The Gater: New Vendor with Cheap Spots mid lvl items always stocked
+[09/29/2024 18:27]  Mireth Grace: [Squire, Sir.]
+[09/29/2024 18:27]  Mireth Grace: Mireth Grace
+[09/29/2024 18:27]  I Buy House: [Veteran, Syn]
+[09/29/2024 18:27]  I Buy House: I Buy House
+[09/29/2024 18:27]  Sir Martial: [Squire, Sir.]
+[09/29/2024 18:27]  Sir Martial: Sir Martial
+[09/29/2024 18:27]  Legasus: Check out the items for sale at NomNom Manor!!  (ONE WAY GATE)
+[09/29/2024 18:27]  Dignson: SCANNED AUTOMATICALLY TO OUTLANDMALLS
+[09/29/2024 18:27]  Favstvs: New Amber Mall!
+[09/29/2024 18:27]  MasterGater OG: New-Player Vendor Mall
+[09/29/2024 18:27]  Favstvs: A Compound of Vendors!
+[09/29/2024 18:27]  MasterGater OG: Always in stock
+[09/29/2024 18:27]  Homer Simpsons: Legendary Scribe
+[09/29/2024 18:27]  Homer Simpsons: Homer Simpsons
+[09/29/2024 18:27]  For FS: [Prospect, DPS]
+[09/29/2024 18:27]  For FS: For FS
+[09/29/2024 18:27]  A Sillyy Goose: [Senior Officer, TES]
+[09/29/2024 18:27]  A Sillyy Goose: A Sillyy Goose
+[09/29/2024 18:27]  Walter Gater: Walter Gater
+[09/29/2024 18:27]  Legasus: Scanned by Outland Malls Daily!  (ONE WAY GATE)
+[09/29/2024 18:27]  Dignson: **ONE SPOT LEFT**
+[09/29/2024 18:27]  Favstvs: 171 Rune Tomes - 2248 Marked Runes!
+[09/29/2024 18:27]  I Buy House: ***VENDOR SPOTS TO RENT 12.5k P/W*** - HIGH TRAFFIC - ANCHORS REST
+[09/29/2024 18:27]  The Gater: New Vendor with Cheap Spots mid lvl items always stocked
+[09/29/2024 18:27]  NewType mrs: Great vendor house. cmon baby....
+[09/29/2024 18:27]  MasterGaterAlt: New-Player Vendor Mall
+[09/29/2024 18:27]  MasterGaterAlt: Armor sets always in stock
+[09/29/2024 18:27]  Sir Martial: Hailstone Market!
+[09/29/2024 18:27]  A Prickly Pear: Leather Suits Stocked!
+[09/29/2024 18:27]  Dignson: FISHKILL TOWER GATED 24/7
+[09/29/2024 18:27]  Favstvs: Message Animalhouse#7144 to get any rune added!
+[09/29/2024 18:27]  MasterGater OG: New-Player Vendor Mall
+[09/29/2024 18:27]  Oh Peaches: [Concierge, Inn]
+[09/29/2024 18:27]  Oh Peaches: Oh Peaches
+[09/29/2024 18:27]  Hella Bore: [Recruit, L%C]
+[09/29/2024 18:27]  Hella Bore: Hella Bore
+[09/29/2024 18:27]  MasterGater OG: Always in stock
+[09/29/2024 18:27]  Favstvs: Includes Outlands Rune Emporium!
+[09/29/2024 18:27]  Floorskin: Vas Rel Por
+[09/29/2024 18:27]  Sir Martial: Aspect gear, magical items, rares and more!
+[09/29/2024 18:27]  The Gater: New Vendor with Cheap Spots mid lvl items always stocked
+[09/29/2024 18:27]  Dignson: *///4k-7.5k  SPOTS\\\*
+[09/29/2024 18:27]  Favstvs: 106 Vendor Spots!
+[09/29/2024 18:27]  Craft Her: Come view the Winterlands Vendor House!
+[09/29/2024 18:27]  Oh Peaches: Vas Rel Por
+[09/29/2024 18:27]  Favstvs: Easy run to Prevalia!
+[09/29/2024 18:27]  MasterGater OG: New-Player Vendor Mall
+[09/29/2024 18:27]  Sir Martial: If you wish to take your vows and join, come meet us!
+[09/29/2024 18:27]  Dignson: SCANNED AUTOMATICALLY TO OUTLANDMALLS
+[09/29/2024 18:27]  Favstvs: Public Rune Library
+[09/29/2024 18:27]  MasterGater OG: Always in stock
+[09/29/2024 18:27]  A Prickly Pear: Close to Prevalia Gate! CY Recalling Available!
+[09/29/2024 18:27]  The Gater: New Vendor with Cheap Spots mid lvl items always stocked
+[09/29/2024 18:27]  Favstvs: Scanned by Outland Malls!
+[09/29/2024 18:27]  NewType mrs: Great vendor house. cmon baby....
+[09/29/2024 18:27]  Dignson: **ONE SPOT LEFT**
+[09/29/2024 18:27]  Favstvs: Largest Rune Library on Outlands!
+[09/29/2024 18:28]  MasterGater OG: New-Player Vendor Mall
+[09/29/2024 18:28]  Dignson: FISHKILL TOWER GATED 24/7
+[09/29/2024 18:28]  Favstvs: Outlands Rune Emporium!
+[09/29/2024 18:28]  The Gater: New Vendor with Cheap Spots mid lvl items always stocked
+[09/29/2024 18:28]  MasterGaterAlt: New-Player Vendor Mall
+[09/29/2024 18:28]  MasterGaterAlt: Armor sets always in stock
+[09/29/2024 18:28]  Favstvs: 2250 Marked Locations!
+[09/29/2024 18:28]  Requies: Vas Rel Por
+[09/29/2024 18:28]  Homer Simpsons: Vas Rel Por
+[09/29/2024 18:28]  A Prickly Pear: VENDOR RENTAL SPOTS AVAILABLE! 5 & 10K!
+[09/29/2024 18:28]  Dignson: *///4k-7.5k  SPOTS\\\*
+[09/29/2024 18:28]  Favstvs: RUNES AND VENDORS
+[09/29/2024 18:28]  Craft Her: Come view the Winterlands Vendor House!
+[09/29/2024 18:28]  Legasus: Check out the items for sale at NomNom Manor!!  (ONE WAY GATE)
+[09/29/2024 18:28]  MasterGater OG: New-Player Vendor Mall
+[09/29/2024 18:28]  Favstvs: Scanned by Outlands Malls!
+[09/29/2024 18:28]  The Gater: New Vendor with Cheap Spots mid lvl items always stocked
+[09/29/2024 18:28]  NewType mrs: Great vendor house. cmon baby....
+[09/29/2024 18:28]  Dignson: SCANNED AUTOMATICALLY TO OUTLANDMALLS
+[09/29/2024 18:28]  Favstvs: Come check us out!
+[09/29/2024 18:28]  Ink Stain: Ink Stain
+[09/29/2024 18:28]  COACHYARD LLC: Vas Rel Por
+[09/29/2024 18:28]  Floorskin: @ Tugboat Willy's @
+[09/29/2024 18:28]  Requies: The Shadow Market - previously The Rogue Tower - vendor spots 15k a week
+[09/29/2024 18:28]  Dirt Mc.Girt: Gating to 1CE Clans Terran vendor mall. Spots available for 10k a week.
+[09/29/2024 18:28]  Legasus: Scanned by Outland Malls Daily!  (ONE WAY GATE)
+[09/29/2024 18:28]  Dignson: **ONE SPOT LEFT**
+[09/29/2024 18:28]  MasterGater OG: New-Player Vendor Mall
+[09/29/2024 18:28]  A Prickly Pear: Leather Suits Stocked!
+[09/29/2024 18:28]  MasterGater OG: Always in stock
+[09/29/2024 18:28]  The Gater: New Vendor with Cheap Spots mid lvl items always stocked
+[09/29/2024 18:28]  Sir Martial: Hailstone Market!
+[09/29/2024 18:28]  Craft Her: Vas Rel Por
+[09/29/2024 18:28]  NewType mrs: Vas Rel Por
+[09/29/2024 18:28]  NewType mrs: Great vendor house. cmon baby....
+[09/29/2024 18:28]  MasterGater OG: New-Player Vendor Mall
+[09/29/2024 18:28]  MasterGaterAlt: New-Player Vendor Mall
+[09/29/2024 18:28]  Sir Martial: Aspect gear, magical items, rares and more!
+[09/29/2024 18:28]  Guldan Noxborn: Vas Rel Por
+[09/29/2024 18:28]  MasterGater OG: Always in stock
+[09/29/2024 18:28]  MasterGaterAlt: Armor sets always in stock
+[09/29/2024 18:28]  COACHYARD LLC: Now gating to the Coachyard LLC!
+[09/29/2024 18:28]  The Gater: New Vendor with Cheap Spots mid lvl items always stocked
+[09/29/2024 18:28]  A Prickly Pear: Close to Prevalia Gate! CY Recalling Available!
+[09/29/2024 18:28]  COACHYARD LLC: Now Crafting!! Weapons,Tools,SmokeBombs,DetectLens,WizardSatchels,Spellbooks,MartialManuals
+[09/29/2024 18:28]  Sir Martial: We also have public Witcher and POI tomes on 1st floor!
+[09/29/2024 18:28]  Razor: [+Hidden/Stealthing (0s)]
+[09/29/2024 18:28]  [Razor]: Steps: 0
+[09/29/2024 18:28]  Opening Soon: Opening Soon
+[09/29/2024 18:28]  RARE LOOT: RARE LOOT
+[09/29/2024 18:28]  a grizzly bear: (summoned 6m 40s)
+[09/29/2024 18:28]  a grizzly bear: a grizzly bear
+[09/29/2024 18:28]  a black bear: (summoned 6m 2s)
+[09/29/2024 18:28]  a black bear: a black bear
+[09/29/2024 18:28]  shallow water: (summoned 5m 56s)
+[09/29/2024 18:28]  shallow water: shallow water
+[09/29/2024 18:28]  HIGH END TOOLS: HIGH END TOOLS
+[09/29/2024 18:28]  Bel: Bel
+[09/29/2024 18:28]  DreadLordRiak: DreadLordRiak
+[09/29/2024 18:28]  INSCRIPTION & BOOKS: INSCRIPTION & BOOKS
+[09/29/2024 18:28]  TINKERING & TOOLS: TINKERING & TOOLS
+[09/29/2024 18:28]  BuyingDarkSalmon: BuyingDarkSalmon the battle trainer
+[09/29/2024 18:28]  BuyingDarkSalmon: BuyingDarkSalmon the battle trainer
+[09/29/2024 18:28]  System: What do you wish to track?
+[09/29/2024 18:28]  System: Now tracking: Yot'xek (84 spaces to target)
+[09/29/2024 18:28]  System: Now tracking: Yot'xek (60 spaces to target)
+[09/29/2024 18:28]  System: Zodix has completed the achievement: Omni Slayer (Basic).
+[09/29/2024 18:28]  System: Now tracking: Yot'xek (75 spaces to target)
+[09/29/2024 18:28]  System: Surfrats has completed the achievement: Triggered (Basic).
+[09/29/2024 18:28]  System: Now tracking: Yot'xek (94 spaces to target)
+[09/29/2024 18:28]  System: Now tracking: Yot'xek (93 spaces to target)
+[09/29/2024 18:28]  System: Distance to destination: 93 steps.
+[09/29/2024 18:29]  System: Distance to destination: 93 steps.
+[09/29/2024 18:29]  System: Distance to destination: 93 steps.
+[09/29/2024 18:29]  System: Distance to destination: 93 steps.
+[09/29/2024 18:29]  Razor: [-Hidden/Stealthing (s)]
+[09/29/2024 18:29]  Razor: [+Hidden/Stealthing (0s)]
+[09/29/2024 18:29]  [Razor]: Steps: 0
+[09/29/2024 18:29]  GOLDY IS (3: GOLDY IS (3
+[09/29/2024 18:29]  Don Slayote's Wares: Don Slayote's Wares
+[09/29/2024 18:29]  PREVALIA MOONGATE: PREVALIA MOONGATE
+[09/29/2024 18:29]  Amish's Shop - 9/28: Amish's Shop - 9/28
+[09/29/2024 18:29]  Bunny's Junk: Bunny's Junk
+[09/29/2024 18:29]  Mary Jane's Shop: Mary Jane's Shop
+[09/29/2024 18:29]  Prev Moongate: Prev Moongate
+[09/29/2024 18:29]  SILVER LINKS!!!!!!!!: SILVER LINKS!!!!!!!!
+[09/29/2024 18:29]  Tea's Scam Vendor: Tea's Scam Vendor
+[09/29/2024 18:29]  a grizzly bear: (summoned 5m 33s)
+[09/29/2024 18:29]  a grizzly bear: a grizzly bear
+[09/29/2024 18:29]  a black bear: (summoned 4m 56s)
+[09/29/2024 18:29]  a black bear: a black bear
+[09/29/2024 18:29]  shallow water: (summoned 4m 50s)
+[09/29/2024 18:29]  shallow water: shallow water
+[09/29/2024 18:29]  Smithy Plate & Weps: Smithy Plate & Weps
+[09/29/2024 18:29]  Cheapest Ocean Hip: Cheapest Ocean Hip
+[09/29/2024 18:29]  PREV MG - RARES/T8's: PREV MG - RARES/T8's
+[09/29/2024 18:29]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[09/29/2024 18:29]  PREV MG - LORE/LINKS: PREV MG - LORE/LINKS
+[09/29/2024 18:29]  This and That!: This and That!
+[09/29/2024 18:29]  CHEAP SHIMMER CLOTH!: CHEAP SHIMMER CLOTH!
+[09/29/2024 18:29]  RECSU: RECSU
+[09/29/2024 18:29]  **SHADOW FURN* 11/6: **SHADOW FURN* 11/6
+[09/29/2024 18:29]  XTREME LOOT 1/9: XTREME LOOT 1/9
+[09/29/2024 18:29]  MagicMushroom: MagicMushroom
+[09/29/2024 18:29]  Shadow Marsh: Explorer
+[09/29/2024 18:29]  Shadow Marsh: Shadow Marsh
+[09/29/2024 18:29]  Sibongile: *pacified 14s*
+[09/29/2024 18:29]  Sibongile: [Regular Poison]
+[09/29/2024 18:29]  Sibongile: Sibongile the battle trainer
+[09/29/2024 18:29]  JustHereForPoint: JustHereForPoint
+[09/29/2024 18:29]  Dagavain: Dagavain
+[09/29/2024 18:29]  Pare Filho: Pare Filho
+[09/29/2024 18:29]  Dexii: Dexii
+[09/29/2024 18:29]  Priszmoh: Legendary Artificer
+[09/29/2024 18:29]  Priszmoh: Priszmoh
+[09/29/2024 18:29]  Stensoup: Stensoup
+[09/29/2024 18:29]  Pasiphae: Artificer Initiate
+[09/29/2024 18:29]  Pasiphae: Pasiphae
+[09/29/2024 18:29]  Monputi: Monputi
+[09/29/2024 18:29]  Catchulu: Catchulu
+[09/29/2024 18:29]  Xorrus Dark: Xorrus Dark
+[09/29/2024 18:29]  PiskaII: PiskaII
+[09/29/2024 18:29]  Rum Found: Rum Found
+[09/29/2024 18:29]  Hoodie: Hoodie
+[09/29/2024 18:29]  Seafood Soup: Seafood Soup
+[09/29/2024 18:29]  Digg Bick: Digg Bick
+[09/29/2024 18:29]  Alun: Alun
+[09/29/2024 18:29]  Rodey: Rodey
+[09/29/2024 18:29]  MAKUTO: MAKUTO
+[09/29/2024 18:29]  William Hoover: William Hoover
+[09/29/2024 18:29]  Phagina Dentata: Phagina Dentata
+[09/29/2024 18:29]  Boluscos: Boluscos
+[09/29/2024 18:29]  Korthain Kibosh: Korthain Kibosh
+[09/29/2024 18:29]  ArgosHex: ArgosHex
+[09/29/2024 18:29]  Devintius: Devintius
+[09/29/2024 18:29]  Cheadi Chu: Cheadi Chu
+[09/29/2024 18:29]  Cheadi: Cheadi
+[09/29/2024 18:29]  G.Threepwood: G.Threepwood
+[09/29/2024 18:29]  Magens: Magens
+[09/29/2024 18:29]  Viderius Temper: Viderius Temper
+[09/29/2024 18:29]  propofolcat: propofolcat
+[09/29/2024 18:29]  Morathi Xh'aldur: [Innkeeper, Xh'a]
+[09/29/2024 18:29]  Morathi Xh'aldur: Morathi Xh'aldur
+[09/29/2024 18:29]  Pe'a'K: Pe'a'K
+[09/29/2024 18:29]  Heirophant: Heirophant
+[09/29/2024 18:29]  Fenderwenger: Fenderwenger
+[09/29/2024 18:29]  Phuknhostile: Phuknhostile
+[09/29/2024 18:29]  Pestes: Pestes
+[09/29/2024 18:29]  Milos Zeman: Legendary Scribe
+[09/29/2024 18:29]  Milos Zeman: [Kunda sem Kunda tam, ZLO]
+[09/29/2024 18:29]  Milos Zeman: Milos Zeman
+[09/29/2024 18:29]  kaer: kaer
+[09/29/2024 18:29]  HIGH END WOOD&INGOTS: HIGH END WOOD&INGOTS
+[09/29/2024 18:29]  Treasure Chest: Treasure Chest
+[09/29/2024 18:29]  Prevalia MG: Prevalia MG
+[09/29/2024 18:29]  SHIP STUFF: SHIP STUFF
+[09/29/2024 18:29]  Ironhand Bill: Ironhand Bill
+[09/29/2024 18:29]  MAKUTO: Vas Ort Flam
+[09/29/2024 18:29]  Razor: [-Hidden/Stealthing (s)]
+[09/29/2024 18:29]  Spellbooks 52K: Spellbooks 52K
+[09/29/2024 18:29]  ...: ...
+[09/29/2024 18:29]  ...: ...
+[09/29/2024 18:29]  ...: ...
+[09/29/2024 18:29]  ...: ...
+[09/29/2024 18:29]  MAKUTO: Vas Ort Flam
+[09/29/2024 18:29]  Mutilates Scrolls: Mutilates Scrolls
+[09/29/2024 18:29]  Mutilates Cores: Mutilates Cores
+[09/29/2024 18:29]  Good Food: Good Food
+[09/29/2024 18:29]  System: You have left the protection of the town guards.
+[09/29/2024 18:29]  Prev Coins! 18.8k: Prev Coins! 18.8k
+[09/29/2024 18:29]  Lockpickers Emporium: Lockpickers Emporium
+[09/29/2024 18:29]  Cepholar: Cepholar
+[09/29/2024 18:29]  Essence IN STOCK!: Essence IN STOCK!
+[09/29/2024 18:29]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[09/29/2024 18:29]  a forest ostard: (tame)
+[09/29/2024 18:29]  a forest ostard: a forest ostard
+[09/29/2024 18:29]  System: You are now under the protection of the town guards.
+[09/29/2024 18:29]  Penny Trayshun: Penny Trayshun
+[09/29/2024 18:29]  a prevalian marksman: a prevalian marksman
+[09/29/2024 18:29]  a prevalian knight: a prevalian knight
+[09/29/2024 18:29]  a horse: (bonded)
+[09/29/2024 18:29]  a horse: a horse
+[09/29/2024 18:29]  a desert ostard: (bonded)
+[09/29/2024 18:29]  a desert ostard: a desert ostard
+[09/29/2024 18:29]  Quackletown: Quackletown
+[09/29/2024 18:29]  a forest ostard: (bonded)
+[09/29/2024 18:29]  a forest ostard: a forest ostard
+[09/29/2024 18:29]  a forest ostard: (bonded)
+[09/29/2024 18:29]  a forest ostard: a forest ostard
+[09/29/2024 18:29]  Cally Striker: [The Tavern], [tT]
+[09/29/2024 18:29]  Cally Striker: Cally Striker
+[09/29/2024 18:29]  a frenzied ostard: (bonded)
+[09/29/2024 18:29]  a frenzied ostard: a frenzied ostard
+[09/29/2024 18:29]  a frenzied ostard: (bonded)
+[09/29/2024 18:29]  a frenzied ostard: a frenzied ostard
+[09/29/2024 18:29]  a frenzied ostard: (bonded)
+[09/29/2024 18:29]  a frenzied ostard: a frenzied ostard
+[09/29/2024 18:29]  a horse: (bonded)
+[09/29/2024 18:29]  a horse: a horse
+[09/29/2024 18:29]  a horse: (bonded)
+[09/29/2024 18:29]  a horse: a horse
+[09/29/2024 18:29]  a horse: (bonded)
+[09/29/2024 18:29]  a horse: a horse
+[09/29/2024 18:29]  a horse: (bonded)
+[09/29/2024 18:29]  a horse: a horse
+[09/29/2024 18:29]  a llama: (bonded)
+[09/29/2024 18:29]  a llama: a llama
+[09/29/2024 18:29]  a llama: (bonded)
+[09/29/2024 18:29]  a llama: a llama
+[09/29/2024 18:29]  a llama: (bonded)
+[09/29/2024 18:29]  a llama: a llama
+[09/29/2024 18:29]  a horse: (bonded)
+[09/29/2024 18:29]  a horse: a horse
+[09/29/2024 18:29]  a horse: (bonded)
+[09/29/2024 18:29]  a horse: a horse
+[09/29/2024 18:29]  a horse: (bonded)
+[09/29/2024 18:29]  a horse: a horse
+[09/29/2024 18:29]  a horse: (bonded)
+[09/29/2024 18:29]  a horse: a horse
+[09/29/2024 18:29]  Quacklebush: [Captain, Argh]
+[09/29/2024 18:29]  Quacklebush: Quacklebush
+[09/29/2024 18:29]  Harvasster: Harvasster
+[09/29/2024 18:29]  Farmhand: Farmhand
+[09/29/2024 18:29]  a scavenging guy: [Chevalier des liens, LDS]
+[09/29/2024 18:29]  a scavenging guy: a scavenging guy
+[09/29/2024 18:29]  Jakesh: Jakesh the Prevalian merchant
+[09/29/2024 18:29]  I Am Corona: [Not a Virus, justa Drunk!, CtS]
+[09/29/2024 18:29]  I Am Corona: I Am Corona
+[09/29/2024 18:29]  Zobrats: Triggered
+[09/29/2024 18:29]  Zobrats: Zobrats
+[09/29/2024 18:29]  Shaggy Rog'rs II: [Recruit, NEW!]
+[09/29/2024 18:29]  Shaggy Rog'rs II: Shaggy Rog'rs II
+[09/29/2024 18:29]  DivineJuan: Connoisseur
+[09/29/2024 18:29]  DivineJuan: [Citizen, Yew]
+[09/29/2024 18:29]  DivineJuan: DivineJuan
+[09/29/2024 18:29]  Aurelia: Aurelia the Town Crier
+[09/29/2024 18:29]  Ashes of Roses: [Knight, NEW!]
+[09/29/2024 18:29]  Ashes of Roses: Ashes of Roses
+[09/29/2024 18:29]  Farmhand: all guard
+[09/29/2024 18:29]  Pretty Gary: Pretty Gary
+[09/29/2024 18:29]  Mary Sue: Mary Sue
+[09/29/2024 18:29]  Ingmar: Ingmar the banker
+[09/29/2024 18:29]  Phomka: Phomka
+[09/29/2024 18:29]  RandomNPC: RandomNPC
+[09/29/2024 18:29]  Harvasster: all guard
+[09/29/2024 18:29]  Calendonia: Calendonia the banker
+[09/29/2024 18:29]  Cutty Flam-: Cutty Flam-
+[09/29/2024 18:29]  rRashin Toast: [Citizen, Yew]
+[09/29/2024 18:29]  rRashin Toast: rRashin Toast
+[09/29/2024 18:29]  BlakMagic: BlakMagic
+[09/29/2024 18:29]  Allefiifa: Allefiifa
+[09/29/2024 18:29]  an aegis rat: (summoned)
+[09/29/2024 18:29]  an aegis rat: an aegis rat
+[09/29/2024 18:29]  a lich: (summoned)
+[09/29/2024 18:29]  a lich: a lich
+[09/29/2024 18:29]  hsx: hsx
+[09/29/2024 18:29]  Kujjin: [Recruiter, P.S.]
+[09/29/2024 18:29]  Kujjin: Kujjin
+[09/29/2024 18:29]  a fire crawler: (bonded)
+[09/29/2024 18:29]  a fire crawler: a fire crawler
+[09/29/2024 18:29]  a flame purger: (bonded)
+[09/29/2024 18:29]  a flame purger: a flame purger
+[09/29/2024 18:29]  TeiTamer: [Teetotaler, NDA]
+[09/29/2024 18:29]  TeiTamer: TeiTamer
+[09/29/2024 18:29]  Generic Blacker: Generic Blacker
+[09/29/2024 18:29]  Bearded.: Legendary Affluence
+[09/29/2024 18:29]  Bearded.: [Emu War Survivor, PwN]
+[09/29/2024 18:29]  Bearded.: Lord Bearded.
+[09/29/2024 18:29]  Glenn: Glenn the banker
+[09/29/2024 18:29]  Alodie: Alodie the banker
+[09/29/2024 18:29]  Ghatalle: Ghatalle
+[09/29/2024 18:29]  a cat: a cat
+[09/29/2024 18:29]  Panserr: (bonded)
+[09/29/2024 18:29]  Panserr: Panserr
+[09/29/2024 18:29]  Ikitur: [New Player, NP$]
+[09/29/2024 18:29]  Ikitur: Ikitur
+[09/29/2024 18:29]  Fierro: bank room vendor buy
+[09/29/2024 18:29]  Fierro: Items: 8/125
+[09/29/2024 18:29]  Fierro: Total Weight: 13
+[09/29/2024 18:29]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/29/2024 18:29]  You see: copperwood board : 37
+[09/29/2024 18:29]  Kalek: Kalek
+[09/29/2024 18:29]  You see: shadowwood board : 30
+[09/29/2024 18:29]  You see: dullwood board : 68
+[09/29/2024 18:29]  Zotoh Zhaan: [Recruit, CFC]
+[09/29/2024 18:29]  Zotoh Zhaan: Zotoh Zhaan
+[09/29/2024 18:29]  xCRAZYx: (bonded)
+[09/29/2024 18:29]  xCRAZYx: xCRAZYx
+[09/29/2024 18:29]  xSHITx: (bonded)
+[09/29/2024 18:29]  xSHITx: xSHITx
+[09/29/2024 18:29]  xBATx: (bonded)
+[09/29/2024 18:29]  xBATx: xBATx
+[09/29/2024 18:29]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/29/2024 18:30]  xCRAZYx: (bonded)
+[09/29/2024 18:30]  xCRAZYx: xCRAZYx
+[09/29/2024 18:30]  xSHITx: (bonded)
+[09/29/2024 18:30]  xSHITx: xSHITx
+[09/29/2024 18:30]  xBATx: (bonded)
+[09/29/2024 18:30]  xBATx: xBATx
+[09/29/2024 18:30]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/29/2024 18:30]  Loot Licker: Loot Licker
+[09/29/2024 18:30]  System: You stray too far and your follower becomes unsummoned.
+[09/29/2024 18:30]  System: You stray too far and your follower becomes unsummoned.
+[09/29/2024 18:30]  System: You stray too far and your follower becomes unsummoned.
+[09/29/2024 18:30]  HungSolo: [OliverClothesOff, NWO]
+[09/29/2024 18:30]  HungSolo: HungSolo
+[09/29/2024 18:30]  Civic: An Lor Xen
+[09/29/2024 18:30]  Civic: [Druid, BEAR]
+[09/29/2024 18:30]  Civic: Civic
+[09/29/2024 18:30]  Kujjin: Dungeon Runs, Boss Fights, Taming Runs, etc.
+[09/29/2024 18:30]  Necrossiatrice: Beast Slayer
+[09/29/2024 18:30]  Necrossiatrice: [|FR|, LEET]
+[09/29/2024 18:30]  Necrossiatrice: Lady Necrossiatrice
+[09/29/2024 18:30]  a skeletal marksman: (summoned)
+[09/29/2024 18:30]  a skeletal marksman: a skeletal marksman
+[09/29/2024 18:30]  an ancient mummy: (summoned)
+[09/29/2024 18:30]  an ancient mummy: an ancient mummy
+[09/29/2024 18:30]  Necrossiatrice: Beast Slayer
+[09/29/2024 18:30]  Necrossiatrice: [|FR|, LEET]
+[09/29/2024 18:30]  Necrossiatrice: Lady Necrossiatrice
+[09/29/2024 18:30]  a skeletal marksman: (summoned)
+[09/29/2024 18:30]  a skeletal marksman: a skeletal marksman
+[09/29/2024 18:30]  an ancient mummy: (summoned)
+[09/29/2024 18:30]  an ancient mummy: an ancient mummy
+[09/29/2024 18:30]  Poonan: [Recruit, CFC]
+[09/29/2024 18:30]  Poonan: Poonan
+[09/29/2024 18:30]  Kujjin: Search for Potty Mouth in the Official Discord and DM for any questions!
+[09/29/2024 18:30]  an ancient mummy: (summoned)
+[09/29/2024 18:30]  an ancient mummy: an ancient mummy
+[09/29/2024 18:30]  an ancient mummy: (summoned)
+[09/29/2024 18:30]  an ancient mummy: an ancient mummy
+[09/29/2024 18:30]  Loot Licker: Loot Licker
+[09/29/2024 18:30]  Sir Tate: [Guardian, KoU]
+[09/29/2024 18:30]  Sir Tate: Lord Sir Tate
+[09/29/2024 18:30]  Sir Tate: bank
+[09/29/2024 18:30]  Aurelia: Whispers say the eerie Beechwood Manor will be up for raffle starting October 1st. Do you dare confront its haunted past?
+[09/29/2024 18:30]  Loot Licker: bank
+[09/29/2024 18:30]  Kujjin: PIRACY SOCIETY IS ACTIVELY RECRUITING! Veteran and New Players for group PVM content!!!
+[09/29/2024 18:30]  Hurda: [J. Phoenix, OFP]
+[09/29/2024 18:30]  Hurda: Hurda
+[09/29/2024 18:30]  Hagridd: (bonded)
+[09/29/2024 18:30]  Hagridd: Hagridd
+[09/29/2024 18:30]  Harvasster: Harvasster
+[09/29/2024 18:30]  a llama: (bonded)
+[09/29/2024 18:30]  a llama: a llama
+[09/29/2024 18:30]  a horse: (bonded)
+[09/29/2024 18:30]  a horse: a horse
+[09/29/2024 18:30]  a horse: (bonded)
+[09/29/2024 18:30]  a horse: a horse
+[09/29/2024 18:30]  a horse: (bonded)
+[09/29/2024 18:30]  a horse: a horse
+[09/29/2024 18:30]  a horse: (bonded)
+[09/29/2024 18:30]  a horse: a horse
+[09/29/2024 18:30]  Quacklebush: [Captain, Argh]
+[09/29/2024 18:30]  Quacklebush: Quacklebush
+[09/29/2024 18:30]  a llama: (bonded)
+[09/29/2024 18:30]  a llama: a llama
+[09/29/2024 18:30]  a llama: (bonded)
+[09/29/2024 18:30]  a llama: a llama
+[09/29/2024 18:30]  a horse: (bonded)
+[09/29/2024 18:30]  a horse: a horse
+[09/29/2024 18:30]  a horse: (bonded)
+[09/29/2024 18:30]  a horse: a horse
+[09/29/2024 18:30]  a horse: (bonded)
+[09/29/2024 18:30]  a horse: a horse
+[09/29/2024 18:30]  a horse: (bonded)
+[09/29/2024 18:30]  a horse: a horse
+[09/29/2024 18:30]  Farmhand: all guard
+[09/29/2024 18:30]  Hagridd: (bonded)
+[09/29/2024 18:30]  Hagridd: Hagridd
+[09/29/2024 18:30]  Alodie: Alodie the banker
+[09/29/2024 18:30]  Ghatalle: Ghatalle
+[09/29/2024 18:30]  Panserr: (bonded)
+[09/29/2024 18:30]  Panserr: Panserr
+[09/29/2024 18:30]  Oleg Golishevsky: Oleg Golishevsky
+[09/29/2024 18:30]  a dog: a dog
+[09/29/2024 18:30]  Allefiifa: Allefiifa
+[09/29/2024 18:30]  Generic Blacker: Generic Blacker
+[09/29/2024 18:30]  Glenn: Glenn the banker
+[09/29/2024 18:30]  Taylor Swiftness: Taylor Swiftness
+[09/29/2024 18:30]  Ace: Ace the miner
+[09/29/2024 18:30]  Lazy Fatman: Lazy Fatman
+[09/29/2024 18:30]  Cade Shadowcloak: [Recruit, CFC]
+[09/29/2024 18:30]  Cade Shadowcloak: Cade Shadowcloak
+[09/29/2024 18:30]  Graltt: Captain
+[09/29/2024 18:30]  Graltt: Graltt
+[09/29/2024 18:30]  Riverside Mall: Riverside Mall
+[09/29/2024 18:30]  ManMan: ManMan
+[09/29/2024 18:30]  DwnWthVwls: [Gate Beard, BB]
+[09/29/2024 18:30]  DwnWthVwls: DwnWthVwls
+[09/29/2024 18:30]  coachyardkitty: (tame)
+[09/29/2024 18:30]  coachyardkitty: coachyardkitty
+[09/29/2024 18:30]  Like Glue: Like Glue
+[09/29/2024 18:30]  FRND VENDOR MALL: [Friends, FRND]
+[09/29/2024 18:30]  FRND VENDOR MALL: FRND VENDOR MALL
+[09/29/2024 18:30]  ICON Vendors: [Nordic Merchant, ICON]
+[09/29/2024 18:30]  ICON Vendors: ICON Vendors
+[09/29/2024 18:30]  Yo Yo: [Private, G.G]
+[09/29/2024 18:30]  Yo Yo: Yo Yo
+[09/29/2024 18:30]  Mega Tron: [Veteran, Syn]
+[09/29/2024 18:30]  Mega Tron: Mega Tron
+[09/29/2024 18:30]  DarkOrderTower: [Keeper Of Lies], [D^O]
+[09/29/2024 18:30]  DarkOrderTower: DarkOrderTower
+[09/29/2024 18:30]  Phakts: Phakts
+[09/29/2024 18:30]  Francois Toulour: Francois Toulour
+[09/29/2024 18:30]  Liadan: Liadan the scribe
+[09/29/2024 18:30]  Garrett: Garrett the mage
+[09/29/2024 18:30]  Riverside Mall: == High Traffic ==
+[09/29/2024 18:30]  Coach Yard: Coach Yard
+[09/29/2024 18:30]  ManMan: *8k SPOTS*
+[09/29/2024 18:30]  Azina: Azina the alchemist
+[09/29/2024 18:30]  Edwin: Edwin the scribe
+[09/29/2024 18:30]  FRND VENDOR MALL: If you don't see a vendor spot open DM Mags#1016 on Discord
+[09/29/2024 18:30]  Poemaster: [Ripe, SQzD]
+[09/29/2024 18:30]  Poemaster: Poemaster
+[09/29/2024 18:30]  a dog: a dog
+[09/29/2024 18:30]  ManMan: SCANNED AUTOMATICALLY TO OUTLANDMALLS
+[09/29/2024 18:30]  Ikitur: [New Player, NP$]
+[09/29/2024 18:30]  Ikitur: Ikitur
+[09/29/2024 18:30]  Linnea: Linnea the Prevalian stylist
+[09/29/2024 18:30]  Barnett: Barnett the tinker
+[09/29/2024 18:30]  Konrad: Konrad the Prevalian Exchange Officer
+[09/29/2024 18:30]  Bess: Bess the miner
+[09/29/2024 18:30]  Riverside Mall: [RIVERSIDE MALL] High Traffic | Scanned on OutlandMalls.com | 24/7 gate
+[09/29/2024 18:30]  ManMan: THE PARROT'S BITE ANCHOR'S REST
+[09/29/2024 18:30]  Ace: Ace the miner
+[09/29/2024 18:30]  Taylor Swiftness: Taylor Swiftness
+[09/29/2024 18:30]  Fulton: Fulton the blacksmith
+[09/29/2024 18:30]  xGLORIAx: (bonded)
+[09/29/2024 18:30]  xGLORIAx: xGLORIAx
+[09/29/2024 18:30]  a dog: a dog
+[09/29/2024 18:30]  Silva: Silva the armorer
+[09/29/2024 18:30]  Salim: Salim the weaponsmith
+[09/29/2024 18:30]  Gwenyth: Gwenyth the Lottery Official
+[09/29/2024 18:30]  Torus: Torus
+[09/29/2024 18:31]  Gwenyth: Gwenyth the Lottery Official
+[09/29/2024 18:31]  Old Vescio: Old Vescio the Seafarer League Master
+[09/29/2024 18:31]  Kaliya: Kaliya the Artificer Enclave Master
+[09/29/2024 18:31]  Galvin: Galvin the Tradesman Union Master
+[09/29/2024 18:31]  Big Ern: Big Ern
+[09/29/2024 18:31]  Beradine: Beradine the Order of Armorers Master
+[09/29/2024 18:31]  Corrine: Corrine the Monster Hunter Society Master
+[09/29/2024 18:31]  Osgood: Osgood the Adventurer Lodge Master
+[09/29/2024 18:31]  Big Ern: Big Ern
+[09/29/2024 18:31]  Galvin: Galvin the Tradesman Union Master
+[09/29/2024 18:31]  Galvin: The Tradesman Union has the following jobs available this week.
+[09/29/2024 18:31]  Gwenyth: Gwenyth the Lottery Official
+[09/29/2024 18:31]  Yami Dorobo: Yami Dorobo
+[09/29/2024 18:31]  Gwenyth: Gwenyth the Lottery Official
+[09/29/2024 18:31]  Bestialis: Legendary Shrine Boss Slayer
+[09/29/2024 18:31]  Bestialis: [Nuclear, ViPs]
+[09/29/2024 18:31]  Bestialis: Lord Bestialis
+[09/29/2024 18:31]  TabouT: Versatile
+[09/29/2024 18:31]  TabouT: [ill]
+[09/29/2024 18:31]  TabouT: TabouT
+[09/29/2024 18:31]  xGLORIAx: (bonded)
+[09/29/2024 18:31]  xGLORIAx: xGLORIAx
+[09/29/2024 18:31]  a dog: a dog
+[09/29/2024 18:31]  a prevalian marksman: a prevalian marksman
+[09/29/2024 18:31]  Salim: Salim the weaponsmith
+[09/29/2024 18:31]  Kolette: Kolette
+[09/29/2024 18:31]  Ayaluna: Ayaluna the Paladin
+[09/29/2024 18:31]  Anthony Hopper: Anthony Hopper
+[09/29/2024 18:31]  Cailan: Cailan the bard
+[09/29/2024 18:31]  Comely Canna: Comely Canna the bard
+[09/29/2024 18:31]  [Razor]: Ignore List cleared
+[09/29/2024 18:31]  Razor: Target queue cleared.
+[09/29/2024 18:31]  a pack horse: (tame)
+[09/29/2024 18:31]  a pack horse: [1/2000 stones]
+[09/29/2024 18:31]  a pack horse: [1/125 items]
+[09/29/2024 18:31]  a pack horse: a pack horse
+[09/29/2024 18:31]  a prevalian marksman: a prevalian marksman
+[09/29/2024 18:31]  Razor: a talar!
+[09/29/2024 18:31]  System: What do you want to use this item on?
+[09/29/2024 18:31]  Salimah: Salimah the animal wrangler
+[09/29/2024 18:31]  Deadless: [Membro, BRA]
+[09/29/2024 18:31]  Deadless: Deadless
+[09/29/2024 18:31]  System: Harvesting is not allowed in this area.
+[09/29/2024 18:31]  You see: the remains of Asyllum
+[09/29/2024 18:31]  Johann: Johann the wandering healer
+[09/29/2024 18:31]  System: You have left the protection of the town guards.
+[09/29/2024 18:31]  a zombie: a zombie
+[09/29/2024 18:31]  System: What do you want to use this item on?
+[09/29/2024 18:31]  a zombie: a zombie
+[09/29/2024 18:31]  System: Captcha successful.
+[09/29/2024 18:31]  [Razor]: Ignore List cleared
+[09/29/2024 18:31]  Razor: Target queue cleared.
+[09/29/2024 18:31]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:31]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:31]  Razor: a talar!
+[09/29/2024 18:31]  System: What do you want to use this item on?
+[09/29/2024 18:32]  a skeleton: a skeleton
+[09/29/2024 18:32]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:32]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:32]  Razor: *** Resource depleted ***
+[09/29/2024 18:32]  System: What do you want to use this item on?
+[09/29/2024 18:32]  Fierro: Kal Xen
+[09/29/2024 18:32]  System: That must be equipped for any serious chopping.
+[09/29/2024 18:32]  [Razor]: Script Error: dclick - invalid serial (Line: 115)
+[09/29/2024 18:32]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:32]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:32]  a polar bear: (summoned 8m 26s)
+[09/29/2024 18:32]  a polar bear: a polar bear
+[09/29/2024 18:32]  Fierro: Kal Xen
+[09/29/2024 18:32]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:32]  System: Necromancy skillgain: 21.097%
+[09/29/2024 18:32]  a firebat: (summoned 8m 26s)
+[09/29/2024 18:32]  a firebat: a firebat
+[09/29/2024 18:32]  Fierro: All Guard Me
+[09/29/2024 18:32]  [Razor]: Ignore List cleared
+[09/29/2024 18:32]  Razor: Target queue cleared.
+[09/29/2024 18:32]  Razor: a talar!
+[09/29/2024 18:32]  System: What do you want to use this item on?
+[09/29/2024 18:32]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:32]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:32]  Razor: |> log : 5 <|
+[09/29/2024 18:32]  System: What do you want to use this item on?
+[09/29/2024 18:32]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:32]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 24.9.
+[09/29/2024 18:32]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 82.6.
+[09/29/2024 18:32]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:32]  Razor: |> log : 13 <|
+[09/29/2024 18:32]  System: What do you want to use this item on?
+[09/29/2024 18:32]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:32]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:32]  Razor: |> log : 22 <|
+[09/29/2024 18:32]  System: What do you want to use this item on?
+[09/29/2024 18:32]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:32]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:32]  Razor: *** Resource depleted ***
+[09/29/2024 18:32]  System: What do you want to use this item on?
+[09/29/2024 18:32]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:32]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:32]  Razor: *** Resource depleted ***
+[09/29/2024 18:32]  System: What do you want to use this item on?
+[09/29/2024 18:32]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:32]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:33]  Razor: *** Resource depleted ***
+[09/29/2024 18:33]  System: What do you want to use this item on?
+[09/29/2024 18:33]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:33]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:33]  Razor: |> log : 28 <|
+[09/29/2024 18:33]  System: What do you want to use this item on?
+[09/29/2024 18:33]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:33]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:33]  Razor: |> log : 38 <|
+[09/29/2024 18:33]  System: What do you want to use this item on?
+[09/29/2024 18:33]  System: Ysuran has completed the achievement: Connoisseur (Basic).
+[09/29/2024 18:33]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:33]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:33]  Razor: |> log : 44 <|
+[09/29/2024 18:33]  System: What do you want to use this item on?
+[09/29/2024 18:33]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:33]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:33]  Razor: *** Resource depleted ***
+[09/29/2024 18:33]  System: What do you want to use this item on?
+[09/29/2024 18:33]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:33]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:33]  Razor: |> log : 53 <|
+[09/29/2024 18:33]  System: What do you want to use this item on?
+[09/29/2024 18:33]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:33]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:33]  Razor: |> log : 63 <|
+[09/29/2024 18:33]  System: What do you want to use this item on?
+[09/29/2024 18:33]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:33]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:33]  Razor: |> log : 70 <|
+[09/29/2024 18:33]  System: What do you want to use this item on?
+[09/29/2024 18:33]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:33]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:33]  System: The world will save in 15 seconds.
+[09/29/2024 18:33]  Razor: *** Resource depleted ***
+[09/29/2024 18:33]  System: What do you want to use this item on?
+[09/29/2024 18:33]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:33]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:34]  Razor: *** Resource depleted ***
+[09/29/2024 18:34]  System: What do you want to use this item on?
+[09/29/2024 18:34]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:34]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:34]  System: The world is saving, please wait.
+[09/29/2024 18:34]  System: World save complete. The entire process took 2.4 seconds.
+[09/29/2024 18:34]  Razor: *** Resource depleted ***
+[09/29/2024 18:34]  System: What do you want to use this item on?
+[09/29/2024 18:34]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:34]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:34]  Razor: *** Resource depleted ***
+[09/29/2024 18:34]  System: What do you want to use this item on?
+[09/29/2024 18:34]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:34]  System: What do you want to use this item on?
+[09/29/2024 18:34]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:34]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:34]  Razor: |> log : 77 <|
+[09/29/2024 18:34]  System: What do you want to use this item on?
+[09/29/2024 18:34]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:34]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 24.8.
+[09/29/2024 18:34]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 82.7.
+[09/29/2024 18:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:34]  System: What do you want to use this item on?
+[09/29/2024 18:34]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:34]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:34]  Razor: |> log : 87 <|
+[09/29/2024 18:34]  System: What do you want to use this item on?
+[09/29/2024 18:34]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:34]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:34]  Razor: |> log : 93 <|
+[09/29/2024 18:34]  System: What do you want to use this item on?
+[09/29/2024 18:34]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:34]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:34]  Razor: *** Resource depleted ***
+[09/29/2024 18:35]  System: What do you want to use this item on?
+[09/29/2024 18:35]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:35]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:35]  System: Handwerker has completed the achievement: Tailor (Basic).
+[09/29/2024 18:35]  Razor: *** Resource depleted ***
+[09/29/2024 18:35]  System: What do you want to use this item on?
+[09/29/2024 18:35]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:35]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:35]  Razor: *** Resource depleted ***
+[09/29/2024 18:35]  : leaves
+[09/29/2024 18:35]  System: What do you want to use this item on?
+[09/29/2024 18:35]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:35]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:35]  Razor: *** Resource depleted ***
+[09/29/2024 18:35]  System: What do you want to use this item on?
+[09/29/2024 18:35]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:35]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:35]  Razor: |> log : 103 <|
+[09/29/2024 18:35]  System: What do you want to use this item on?
+[09/29/2024 18:35]  System: Thirdtimesacharm has completed the achievement: Woodworker (Basic).
+[09/29/2024 18:35]  System: Allseeingbat has completed the achievement: Undead Slayer (Basic).
+[09/29/2024 18:35]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:35]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:35]  System: Brelshaza has completed the achievement: Guardian of Kraul Hive (Basic).
+[09/29/2024 18:35]  System: Vickums has completed the achievement: Wizard (Basic).
+[09/29/2024 18:35]  System: What do you want to use this item on?
+[09/29/2024 18:35]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:35]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:35]  Razor: |> log : 109 <|
+[09/29/2024 18:35]  System: What do you want to use this item on?
+[09/29/2024 18:35]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:35]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:35]  Razor: *** Resource depleted ***
+[09/29/2024 18:35]  System: What do you want to use this item on?
+[09/29/2024 18:35]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:35]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:35]  Razor: *** Resource depleted ***
+[09/29/2024 18:35]  : oak leaves
+[09/29/2024 18:35]  System: What do you want to use this item on?
+[09/29/2024 18:35]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:35]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:35]  : leaves
+[09/29/2024 18:36]  Razor: *** Resource depleted ***
+[09/29/2024 18:36]  System: What do you want to use this item on?
+[09/29/2024 18:36]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:36]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:36]  Razor: |> log : 119 <|
+[09/29/2024 18:36]  System: What do you want to use this item on?
+[09/29/2024 18:36]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:36]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:36]  System: What do you want to use this item on?
+[09/29/2024 18:36]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:36]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:36]  Razor: |> log : 124 <|
+[09/29/2024 18:36]  System: What do you want to use this item on?
+[09/29/2024 18:36]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:36]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 24.7.
+[09/29/2024 18:36]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 82.8.
+[09/29/2024 18:36]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:36]  Razor: |> log : 129 <|
+[09/29/2024 18:36]  System: What do you want to use this item on?
+[09/29/2024 18:36]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:36]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:36]  Razor: *** Resource depleted ***
+[09/29/2024 18:36]  System: What do you want to use this item on?
+[09/29/2024 18:36]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:36]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:36]  Razor: *** Resource depleted ***
+[09/29/2024 18:36]  System: What do you want to use this item on?
+[09/29/2024 18:36]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:36]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:36]  Razor: |> log : 135 <|
+[09/29/2024 18:36]  System: What do you want to use this item on?
+[09/29/2024 18:36]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:36]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:36]  Razor: |> log : 141 <|
+[09/29/2024 18:36]  System: What do you want to use this item on?
+[09/29/2024 18:36]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:36]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:37]  Razor: |> log : 148 <|
+[09/29/2024 18:37]  System: What do you want to use this item on?
+[09/29/2024 18:37]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:37]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:37]  Razor: |> log : 158 <|
+[09/29/2024 18:37]  System: What do you want to use this item on?
+[09/29/2024 18:37]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:37]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:37]  Razor: *** Resource depleted ***
+[09/29/2024 18:37]  System: What do you want to use this item on?
+[09/29/2024 18:37]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:37]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:37]  Razor: *** Resource depleted ***
+[09/29/2024 18:37]  System: What do you want to use this item on?
+[09/29/2024 18:37]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:37]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:37]  Razor: *** Resource depleted ***
+[09/29/2024 18:37]  System: What do you want to use this item on?
+[09/29/2024 18:37]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:37]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:37]  Razor: |> log : 163 <|
+[09/29/2024 18:37]  System: What do you want to use this item on?
+[09/29/2024 18:37]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:37]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:37]  Razor: |> log : 170 <|
+[09/29/2024 18:37]  System: What do you want to use this item on?
+[09/29/2024 18:37]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:37]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:37]  Razor: |> log : 175 <|
+[09/29/2024 18:37]  System: What do you want to use this item on?
+[09/29/2024 18:37]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:37]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:37]  Razor: *** Resource depleted ***
+[09/29/2024 18:37]  System: What do you want to use this item on?
+[09/29/2024 18:37]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:37]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:37]  Razor: |> log : 185 <|
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:38]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:38]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:38]  Razor: *** Resource depleted ***
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:38]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:38]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:38]  System: grom the maggot has registered an antiquity: Terathan Goliath Figurine
+[09/29/2024 18:38]  Razor: *** Resource depleted ***
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:38]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:38]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:38]  Razor: |> log : 192 <|
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:38]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:38]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:38]  Razor: |> log : 202 <|
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:38]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:38]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:38]  Razor: *** Resource depleted ***
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:38]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:38]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:38]  Razor: *** Resource depleted ***
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:38]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:38]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:38]  Razor: |> log : 209 <|
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:38]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:38]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:38]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:38]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:38]  System: What do you want to use this item on?
+[09/29/2024 18:39]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:39]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:39]  Razor: |> log : 217 <|
+[09/29/2024 18:39]  System: What do you want to use this item on?
+[09/29/2024 18:39]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:39]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:39]  Razor: *** Resource depleted ***
+[09/29/2024 18:39]  System: What do you want to use this item on?
+[09/29/2024 18:39]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:39]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:39]  Razor: |> log : 222 <|
+[09/29/2024 18:39]  System: What do you want to use this item on?
+[09/29/2024 18:39]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:39]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:39]  System: What do you want to use this item on?
+[09/29/2024 18:39]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:39]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:39]  Razor: |> log : 230 <|
+[09/29/2024 18:39]  System: What do you want to use this item on?
+[09/29/2024 18:39]  : tree
+[09/29/2024 18:39]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:39]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 24.6.
+[09/29/2024 18:39]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 82.9.
+[09/29/2024 18:39]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:39]  Razor: |> log : 238 <|
+[09/29/2024 18:39]  System: What do you want to use this item on?
+[09/29/2024 18:39]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:39]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:39]  Razor: *** Resource depleted ***
+[09/29/2024 18:39]  System: What do you want to use this item on?
+[09/29/2024 18:39]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:39]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:39]  Razor: *** Resource depleted ***
+[09/29/2024 18:39]  System: What do you want to use this item on?
+[09/29/2024 18:39]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:39]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:39]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:40]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:40]  Razor: |> log : 246 <|
+[09/29/2024 18:40]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:40]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:40]  Razor: |> log : 252 <|
+[09/29/2024 18:40]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:40]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:40]  Razor: *** Resource depleted ***
+[09/29/2024 18:40]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:40]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:40]  Razor: *** Resource depleted ***
+[09/29/2024 18:40]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:40]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:40]  System: Ebrietas has completed the achievement: Skill Proficiency (Basic).
+[09/29/2024 18:40]  Razor: *** Resource depleted ***
+[09/29/2024 18:40]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:40]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:40]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: An Omni Realm will become public in 10 minutes.
+[09/29/2024 18:40]  System: Ready? (RDY) guild has reached prestige level 167.
+[09/29/2024 18:40]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:40]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:40]  Razor: |> log : 257 <|
+[09/29/2024 18:40]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:40]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:40]  Razor: |> log : 262 <|
+[09/29/2024 18:40]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:40]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:40]  Razor: |> log : 269 <|
+[09/29/2024 18:40]  System: What do you want to use this item on?
+[09/29/2024 18:40]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:40]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:41]  Razor: *** Resource depleted ***
+[09/29/2024 18:41]  System: What do you want to use this item on?
+[09/29/2024 18:41]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:41]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:41]  Razor: |> log : 279 <|
+[09/29/2024 18:41]  System: What do you want to use this item on?
+[09/29/2024 18:41]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:41]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:41]  Razor: |> log : 287 <|
+[09/29/2024 18:41]  System: What do you want to use this item on?
+[09/29/2024 18:41]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:41]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:41]  Razor: *** Resource depleted ***
+[09/29/2024 18:41]  System: What do you want to use this item on?
+[09/29/2024 18:41]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:41]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:41]  Razor: *** Resource depleted ***
+[09/29/2024 18:41]  System: What do you want to use this item on?
+[09/29/2024 18:41]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:41]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:41]  Razor: *** Resource depleted ***
+[09/29/2024 18:41]  System: What do you want to use this item on?
+[09/29/2024 18:41]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:41]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:41]  Razor: |> log : 294 <|
+[09/29/2024 18:41]  System: What do you want to use this item on?
+[09/29/2024 18:41]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:41]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:41]  Razor: |> log : 301 <|
+[09/29/2024 18:41]  System: What do you want to use this item on?
+[09/29/2024 18:41]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:41]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:41]  Razor: *** Resource depleted ***
+[09/29/2024 18:42]  System: What do you want to use this item on?
+[09/29/2024 18:42]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:42]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:42]  Razor: *** Resource depleted ***
+[09/29/2024 18:42]  System: What do you want to use this item on?
+[09/29/2024 18:42]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:42]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:42]  Elderly Bill: Elderly Bill
+[09/29/2024 18:42]  Razor: *** Resource depleted ***
+[09/29/2024 18:42]  a one eyed tinker: a one eyed tinker
+[09/29/2024 18:42]  Uncle Albert: Uncle Albert
+[09/29/2024 18:42]  Del Boy: Del Boy
+[09/29/2024 18:42]  System: What do you want to use this item on?
+[09/29/2024 18:42]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:42]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:42]  Razor: |> log : 307 <|
+[09/29/2024 18:42]  System: What do you want to use this item on?
+[09/29/2024 18:42]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:42]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 24.5.
+[09/29/2024 18:42]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 83.0.
+[09/29/2024 18:42]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:42]  Razor: |> log : 312 <|
+[09/29/2024 18:42]  System: What do you want to use this item on?
+[09/29/2024 18:42]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:42]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:42]  Razor: |> log : 317 <|
+[09/29/2024 18:42]  System: What do you want to use this item on?
+[09/29/2024 18:42]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:42]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:42]  Razor: *** Resource depleted ***
+[09/29/2024 18:42]  System: What do you want to use this item on?
+[09/29/2024 18:42]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:42]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:42]  Razor: *** Resource depleted ***
+[09/29/2024 18:42]  System: What do you want to use this item on?
+[09/29/2024 18:42]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:42]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:42]  System: An Omni Realm will become public in 10 minutes.
+[09/29/2024 18:42]  Razor: *** Resource depleted ***
+[09/29/2024 18:42]  System: What do you want to use this item on?
+[09/29/2024 18:42]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:42]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:43]  Razor: *** Resource depleted ***
+[09/29/2024 18:43]  System: What do you want to use this item on?
+[09/29/2024 18:43]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:43]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:43]  Razor: *** Resource depleted ***
+[09/29/2024 18:43]  System: What do you want to use this item on?
+[09/29/2024 18:43]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:43]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:43]  Nevin: Nevin the chef
+[09/29/2024 18:43]  Hyman: Hyman the barkeeper
+[09/29/2024 18:43]  E the ROCK: Soldier [Andaria]
+[09/29/2024 18:43]  E the ROCK: [Arbiter, KoTC]
+[09/29/2024 18:43]  E the ROCK: Lord E the ROCK
+[09/29/2024 18:43]  Guardian Adino: Soldier [Andaria]
+[09/29/2024 18:43]  Guardian Adino: [Arbiter, KoTC]
+[09/29/2024 18:43]  Guardian Adino: Lord Guardian Adino
+[09/29/2024 18:43]  Razor: *** Resource depleted ***
+[09/29/2024 18:43]  System: What do you want to use this item on?
+[09/29/2024 18:43]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:43]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 24.4.
+[09/29/2024 18:43]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 83.1.
+[09/29/2024 18:43]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:43]  [Razor]: Ignore List cleared
+[09/29/2024 18:43]  Razor: Target queue cleared.
+[09/29/2024 18:43]  Razor: a talar!
+[09/29/2024 18:43]  : bush
+[09/29/2024 18:43]  System: What do you want to use this item on?
+[09/29/2024 18:43]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:43]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:43]  System: What do you want to use this item on?
+[09/29/2024 18:43]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:43]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 24.3.
+[09/29/2024 18:43]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 83.2.
+[09/29/2024 18:43]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:43]  System: What do you want to use this item on?
+[09/29/2024 18:43]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:43]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:43]  System: What do you want to use this item on?
+[09/29/2024 18:43]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:43]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:44]  System: What do you want to use this item on?
+[09/29/2024 18:44]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:44]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:44]  System: What do you want to use this item on?
+[09/29/2024 18:44]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:44]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:44]  System: What do you want to use this item on?
+[09/29/2024 18:44]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:44]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:44]  System: What do you want to use this item on?
+[09/29/2024 18:44]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:44]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:44]  System: What do you want to use this item on?
+[09/29/2024 18:44]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:44]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:44]  System: What do you want to use this item on?
+[09/29/2024 18:44]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:44]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:44]  System: Kusunoki has completed the achievement: Monster Hunter Dignitary.
+[09/29/2024 18:44]  System: New Kids On The Block (NKB) guild has reached prestige level 658.
+[09/29/2024 18:44]  System: An Omni Realm will become public in 10 minutes.
+[09/29/2024 18:44]  System: What do you want to use this item on?
+[09/29/2024 18:44]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:44]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:44]  System: What do you want to use this item on?
+[09/29/2024 18:44]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:44]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:44]  System: What do you want to use this item on?
+[09/29/2024 18:44]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:44]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:44]  Nevin: Nevin the chef
+[09/29/2024 18:44]  Hyman: Hyman the barkeeper
+[09/29/2024 18:44]  E the ROCK: Soldier [Andaria]
+[09/29/2024 18:44]  E the ROCK: [Arbiter, KoTC]
+[09/29/2024 18:44]  E the ROCK: Lord E the ROCK
+[09/29/2024 18:44]  Guardian Adino: Soldier [Andaria]
+[09/29/2024 18:44]  Guardian Adino: [Arbiter, KoTC]
+[09/29/2024 18:44]  Guardian Adino: Lord Guardian Adino
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:45]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:45]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:45]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:45]  System: You chop some shadowwood logs and put them in your backpack.
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:45]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:45]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:45]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:45]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:45]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:45]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:45]  Adino The Scribe: Legendary Scribe
+[09/29/2024 18:45]  Adino The Scribe: [Arbiter, KoTC]
+[09/29/2024 18:45]  Adino The Scribe: Lord Adino The Scribe
+[09/29/2024 18:45]  E snatch: Legendary Scribe
+[09/29/2024 18:45]  E snatch: [Arbiter, KoTC]
+[09/29/2024 18:45]  E snatch: Lord E snatch
+[09/29/2024 18:45]  the real eric: Legendary Chef
+[09/29/2024 18:45]  the real eric: [Provost, KoTC]
+[09/29/2024 18:45]  the real eric: the real eric
+[09/29/2024 18:45]  Ketzia: Ketzia the stablemaster
+[09/29/2024 18:45]  Stuff For Sale: Stuff For Sale
+[09/29/2024 18:45]  Adino's Scribe Shop: Adino's Scribe Shop
+[09/29/2024 18:45]  Ketzia: Ketzia the stablemaster
+[09/29/2024 18:45]  Stuff For Sale: Stuff For Sale
+[09/29/2024 18:45]  Adino's Scribe Shop: Adino's Scribe Shop
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:45]  E's Shop: E's Shop
+[09/29/2024 18:45]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:45]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:45]  Eudocia: Eudocia the house steward
+[09/29/2024 18:45]  Selena: Selena
+[09/29/2024 18:45]  the real eric: Legendary Chef
+[09/29/2024 18:45]  the real eric: [Provost, KoTC]
+[09/29/2024 18:45]  the real eric: the real eric
+[09/29/2024 18:45]  Adino The Scribe: Legendary Scribe
+[09/29/2024 18:45]  Adino The Scribe: [Arbiter, KoTC]
+[09/29/2024 18:45]  Adino The Scribe: Lord Adino The Scribe
+[09/29/2024 18:45]  Brencis: Brencis the dockmaster
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:45]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:45]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:45]  Nevin: Nevin the chef
+[09/29/2024 18:45]  Elderly Emer: Elderly Emer
+[09/29/2024 18:45]  a one eyed tinker: a one eyed tinker
+[09/29/2024 18:45]  Uncle Albert: Uncle Albert
+[09/29/2024 18:45]  Del Boy: Del Boy
+[09/29/2024 18:45]  ZerroCool: [Master Mechanic, MMx]
+[09/29/2024 18:45]  ZerroCool: ZerroCool
+[09/29/2024 18:45]  a prevalian mage: a prevalian mage
+[09/29/2024 18:45]  Winifred: Winifred the stablemaster
+[09/29/2024 18:45]  Dockten: Dockten the dockmaster
+[09/29/2024 18:45]  a corpser: a corpser
+[09/29/2024 18:45]  a primordial: a primordial
+[09/29/2024 18:45]  a deathstalk: a deathstalk
+[09/29/2024 18:45]  InnoriaOfTheSeas: InnoriaOfTheSeas the dockmaster
+[09/29/2024 18:45]  Buy Me!: Buy Me!
+[09/29/2024 18:45]  Theobald: Theobald the stablemaster
+[09/29/2024 18:45]  a swamp spider: a swamp spider
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:45]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:45]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:45]  a colossal frog: a colossal frog
+[09/29/2024 18:45]  a prevalian knight: a prevalian knight
+[09/29/2024 18:45]  a prevalian knight: a prevalian knight
+[09/29/2024 18:45]  a prevalian mage: a prevalian mage
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:45]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:45]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:45]  System: What do you want to use this item on?
+[09/29/2024 18:46]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:46]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:46]  a walrus: a walrus
+[09/29/2024 18:46]  a wolf: a wolf
+[09/29/2024 18:46]  System: What do you want to use this item on?
+[09/29/2024 18:46]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:46]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:46]  a forest ostard: a forest ostard
+[09/29/2024 18:46]  Fierro: Your mount finds a quiet place to rest safely.
+[09/29/2024 18:46]  Fierro: Your mount returns.
+[09/29/2024 18:46]  an eagle: an eagle
+[09/29/2024 18:46]  a wolf: a wolf
+[09/29/2024 18:46]  System: What do you want to use this item on?
+[09/29/2024 18:46]  Dupre's Arms: Dupre's Arms
+[09/29/2024 18:46]  a forest ostard: a forest ostard
+[09/29/2024 18:46]  Sentri: Sentri the battle trainer
+[09/29/2024 18:46]  Ziven: Ziven
+[09/29/2024 18:46]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:46]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:46]  Dupre's Arms: Take a look at my goods.
+[09/29/2024 18:46]  System: What do you want to use this item on?
+[09/29/2024 18:46]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:46]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:46]  You see: exceptional metal kite shield
+[09/29/2024 18:46]  You see: [mastercrafted by Dushar Alehammer]
+[09/29/2024 18:46]  System: What do you want to use this item on?
+[09/29/2024 18:46]  You see: exceptional platemail chest
+[09/29/2024 18:46]  You see: [mastercrafted by Georgie de Porge]
+[09/29/2024 18:46]  ZerroCool: [Master Mechanic, MMx]
+[09/29/2024 18:46]  ZerroCool: ZerroCool
+[09/29/2024 18:46]  Dupre's Arms: Take a look at my goods.
+[09/29/2024 18:46]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:46]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:46]  System: What do you want to use this item on?
+[09/29/2024 18:46]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:46]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:46]  Dupre's Arms: Take a look at my goods.
+[09/29/2024 18:46]  You see: Price: 3,500
+[09/29/2024 18:46]  You see: Description: Mace Adventure Kit
+[09/29/2024 18:46]  You see: bag
+[09/29/2024 18:46]  You see: (11 items, 50 stones)
+[09/29/2024 18:46]  System: What do you want to use this item on?
+[09/29/2024 18:46]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:46]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:46]  an eagle: an eagle
+[09/29/2024 18:46]  a forest ostard: a forest ostard
+[09/29/2024 18:46]  a cuckoo: a cuckoo
+[09/29/2024 18:46]  Dupre's Arms: Dupre's Arms
+[09/29/2024 18:46]  a cuckoo: a cuckoo
+[09/29/2024 18:46]  Sentri: Sentri the battle trainer
+[09/29/2024 18:46]  Ziven: Ziven
+[09/29/2024 18:46]  a wolf: a wolf
+[09/29/2024 18:46]  System: What do you want to use this item on?
+[09/29/2024 18:46]  Dupre's Arms: Take a look at my goods.
+[09/29/2024 18:46]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:46]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:46]  You see: Price: 3,500
+[09/29/2024 18:46]  You see: Description: Mace Adventure Kit
+[09/29/2024 18:46]  You see: bag
+[09/29/2024 18:46]  You see: (11 items, 50 stones)
+[09/29/2024 18:46]  System: What do you want to use this item on?
+[09/29/2024 18:46]  You see: Price: 3,500
+[09/29/2024 18:46]  You see: Description: Fencing Adventure Kit
+[09/29/2024 18:46]  You see: bag
+[09/29/2024 18:46]  You see: (11 items, 49 stones)
+[09/29/2024 18:46]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:46]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:46]  You see: exceptional war mace
+[09/29/2024 18:46]  You see: [crafted by Olliver Shadow]
+[09/29/2024 18:46]  System: What do you want to use this item on?
+[09/29/2024 18:47]  You see: exceptional platemail helm
+[09/29/2024 18:47]  You see: [mastercrafted by Dushar Alehammer]
+[09/29/2024 18:47]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:47]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:47]  System: What do you want to use this item on?
+[09/29/2024 18:47]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:47]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:47]  System: What do you want to use this item on?
+[09/29/2024 18:47]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:47]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:47]  Ludwing: Ludwing
+[09/29/2024 18:47]  System: What do you want to use this item on?
+[09/29/2024 18:47]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:47]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:47]  Ludwing: Ludwing
+[09/29/2024 18:47]  a wolf: a wolf
+[09/29/2024 18:47]  System: What do you want to use this item on?
+[09/29/2024 18:47]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:47]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:47]  System: What do you want to use this item on?
+[09/29/2024 18:47]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:47]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:47]  System: Blag Dahlia has completed the achievement: Connoisseur (Basic).
+[09/29/2024 18:47]  System: What do you want to use this item on?
+[09/29/2024 18:47]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:47]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:47]  System: What do you want to use this item on?
+[09/29/2024 18:47]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:47]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:47]  System: What do you want to use this item on?
+[09/29/2024 18:47]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:47]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:47]  : oak leaves
+[09/29/2024 18:47]  : oak leaves
+[09/29/2024 18:47]  System: What do you want to use this item on?
+[09/29/2024 18:48]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:48]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:48]  System: What do you want to use this item on?
+[09/29/2024 18:48]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:48]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[09/29/2024 18:48]  System: What do you want to use this item on?
+[09/29/2024 18:48]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:48]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:48]  System: What do you want to use this item on?
+[09/29/2024 18:48]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:48]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:48]  System: What do you want to use this item on?
+[09/29/2024 18:48]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:48]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:48]  System: What do you want to use this item on?
+[09/29/2024 18:48]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:48]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:48]  System: What do you want to use this item on?
+[09/29/2024 18:48]  System: The world will save in 15 seconds.
+[09/29/2024 18:48]  System: Lumberjacking skillgain: 9.042%
+[09/29/2024 18:48]  System: You chop some logs and put them in your backpack.
+[09/29/2024 18:48]  System: What do you want to use this item on?
+[09/29/2024 18:48]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:48]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:48]  System: What do you want to use this item on?
+[09/29/2024 18:48]  System: You do not see any harvestable resources nearby.
+[09/29/2024 18:48]  Fierro: You cannot produce any wood from that.
+[09/29/2024 18:48]  Fierro: Kal Ort Por
+[09/29/2024 18:48]  Fierro: Select Marked item.
+[09/29/2024 18:48]  System: The world is saving, please wait.
+[09/29/2024 18:48]  System: World save complete. The entire process took 2.8 seconds.
+[09/29/2024 18:48]  System: SpiritSpeak skillgain: 7.535%
+[09/29/2024 18:48]  System: Necromancy skillgain: 16.576%
+[09/29/2024 18:48]  System: You are now under the protection of the town guards.
+[09/29/2024 18:48]  A Prickly Pear: Leather Suits Stocked!
+[09/29/2024 18:48]  Moosebear: There are a few vendor spots still open! Please clothe yourself as a shirtless orc and DM Pwnstarr85 to let him know you placed
+[09/29/2024 18:48]  Oh Peaches: ...a new vendor mall with unique interactions!
+[09/29/2024 18:48]  Hella Bore: New Vendor Boathouse 30+ Open Spots
+[09/29/2024 18:48]  Oh Peaches: [Concierge, Inn]
+[09/29/2024 18:48]  Oh Peaches: Oh Peaches
+[09/29/2024 18:48]  Hella Bore: [Recruit, L%C]
+[09/29/2024 18:48]  Hella Bore: Hella Bore
+[09/29/2024 18:48]  Craft Her: Craft Her
+[09/29/2024 18:48]  Macy: [Private, G.G]
+[09/29/2024 18:48]  Macy: Macy
+[09/29/2024 18:48]  Snow Gate: Legendary Tailor
+[09/29/2024 18:48]  Snow Gate: [La Recruteuse, LDS]
+[09/29/2024 18:48]  Snow Gate: Snow Gate
+[09/29/2024 18:48]  Guldan Noxborn: [Khajiit Has Wares, NEW!]
+[09/29/2024 18:48]  Guldan Noxborn: Guldan Noxborn
+[09/29/2024 18:48]  Dirt Mc.Girt: [1CE]
+[09/29/2024 18:48]  Dirt Mc.Girt: Dirt Mc.Girt
+[09/29/2024 18:48]  Requies: Scientist
+[09/29/2024 18:48]  Requies: [TRT]
+[09/29/2024 18:48]  Requies: Requies
+[09/29/2024 18:48]  Elfi: [Elfi]
+[09/29/2024 18:48]  Elfi: Elfi
+[09/29/2024 18:48]  A Prickly Pear: [Triggered By Wings, gLc]
+[09/29/2024 18:48]  A Prickly Pear: A Prickly Pear
+[09/29/2024 18:48]  shoes: shoes
+[09/29/2024 18:48]  Floorskin: Skinner
+[09/29/2024 18:48]  Floorskin: Floorskin
+[09/29/2024 18:48]  Favstvs: Artificer Dignitary
+[09/29/2024 18:48]  Favstvs: [Veteran, Syn]
+[09/29/2024 18:48]  Favstvs: Favstvs
+[09/29/2024 18:48]  Moosebear: Moosebear
+[09/29/2024 18:48]  Arbor the tree: Legendary Carpenter
+[09/29/2024 18:48]  Arbor the tree: [Ancient, Oak]
+[09/29/2024 18:48]  Arbor the tree: Lord Arbor the tree
+[09/29/2024 18:48]  Siege Perilous: Legendary Landowner
+[09/29/2024 18:48]  Siege Perilous: Siege Perilous
+[09/29/2024 18:48]  Active Convict: Militia [Terran]
+[09/29/2024 18:48]  Active Convict: Lord Active Convict
+[09/29/2024 18:48]  The Love Boat: Captain
+[09/29/2024 18:48]  The Love Boat: Lady The Love Boat
+[09/29/2024 18:48]  COACHYARD LLC: Legendary Scribe
+[09/29/2024 18:48]  COACHYARD LLC: COACHYARD LLC
+[09/29/2024 18:48]  NewType mrs: [AHO]
+[09/29/2024 18:48]  NewType mrs: NewType mrs
+[09/29/2024 18:48]  The Gater: The Gater
+[09/29/2024 18:48]  Err'rr: Legendary Boss Slayer
+[09/29/2024 18:48]  Err'rr: [Grunt, Ork]
+[09/29/2024 18:48]  Err'rr: Lord Err'rr
+[09/29/2024 18:48]  Dignson: Dignson
+[09/29/2024 18:48]  Brentan: Brentan the miner
+[09/29/2024 18:48]  Carol: Carol the miner
+[09/29/2024 18:48]  BOBFROMACOUNTING: Legendary Zoologist
+[09/29/2024 18:48]  BOBFROMACOUNTING: [Veteran, Syn]
+[09/29/2024 18:48]  BOBFROMACOUNTING: Lord BOBFROMACOUNTING
+[09/29/2024 18:48]  Null Pointer: Null Pointer (Young)
+[09/29/2024 18:48]  Zonda: [-_-]
+[09/29/2024 18:48]  Zonda: Lord Zonda
+[09/29/2024 18:48]  Mercedes: Mercedes the ranger
+[09/29/2024 18:48]  Sassy Lumberjack: Sassy Lumberjack
+[09/29/2024 18:48]  Schizofrenie: Schizofrenie
+[09/29/2024 18:48]  MasterGaterAlt: MasterGaterAlt
+[09/29/2024 18:48]  MasterGater OG: MasterGater OG
+[09/29/2024 18:48]  Legasus: [Officer, ViPs]
+[09/29/2024 18:48]  Legasus: Legasus
+[09/29/2024 18:48]  Lumb and Lumber: [The Tavern], [tT]
+[09/29/2024 18:48]  Lumb and Lumber: Lumb and Lumber
+[09/29/2024 18:48]  Tamez-A-Lot: Tamez-A-Lot
+[09/29/2024 18:48]  a searing imp: (bonded)
+[09/29/2024 18:48]  a searing imp: a searing imp
+[09/29/2024 18:48]  a searing mantis: (bonded)
+[09/29/2024 18:48]  a searing mantis: a searing mantis
+[09/29/2024 18:48]  a scarab: (bonded)
+[09/29/2024 18:48]  a scarab: a scarab
+[09/29/2024 18:48]  Typhiod Minni: Backstabber
+[09/29/2024 18:48]  Typhiod Minni: Typhiod Minni
+[09/29/2024 18:48]  LazMan: Monster Hunter Initiate
+[09/29/2024 18:48]  LazMan: [Private First Class, TES]
+[09/29/2024 18:48]  LazMan: LazMan
+[09/29/2024 18:48]  Frieden: [SSA]
+[09/29/2024 18:48]  Frieden: Frieden
+[09/29/2024 18:48]  Mr.T-: Versatile
+[09/29/2024 18:48]  Mr.T-: [Elite, NC]
+[09/29/2024 18:48]  Mr.T-: Lord Mr.T-
+[09/29/2024 18:48]  Pro Vo: Legendary Daemonic Slayer
+[09/29/2024 18:48]  Pro Vo: [Got Daemon?, SOF]
+[09/29/2024 18:48]  Pro Vo: Lord Pro Vo
+[09/29/2024 18:48]  Lucky Hunter: [RED]
+[09/29/2024 18:48]  Lucky Hunter: Lucky Hunter
+[09/29/2024 18:48]  Xandarth: Xandarth
+[09/29/2024 18:48]  Johnny Burnside: [Marksman, Tale]
+[09/29/2024 18:48]  Johnny Burnside: Lord Johnny Burnside
+[09/29/2024 18:49]  Hella Bore: All Aboard Next Stop, The Plunder Express. Where it is always 5 Oclock
+[09/29/2024 18:49]  [Razor]: Script Error: dclick - invalid serial (Line: 115)
+[09/29/2024 18:49]  Floorskin: @ Tugboat Willy's @
+[09/29/2024 18:49]  Oh Peaches: (1) Vendor Ledger - open the book above Repair Bench to contact renters directly.
+[09/29/2024 18:49]  A Prickly Pear: Close to Prevalia Gate! CY Recalling Available!
+[09/29/2024 18:49]  System: GregoriaX has completed the achievement: Guardian of Pulma (Basic).
+[09/29/2024 18:49]  Dignson: Vas Rel Por
+[09/29/2024 18:49]  Dirt Mc.Girt: Gating to 1CE Clans Terran vendor mall. Spots available for 10k a week.
+[09/29/2024 18:49]  Snow Gate: Vas Rel Por
+[09/29/2024 18:49]  Oh Peaches: (2) Donation Depot - public chest on 1st floor. Take what you need and consider donating.
+[09/29/2024 18:49]  NewType mrs: Vas Rel Por
+[09/29/2024 18:49]  A Prickly Pear: Head over to Cactus Emporium
+[09/29/2024 18:49]  A Prickly Pear: Vas Rel Por
+[09/29/2024 18:49]  McWwinn: McWwinn
+[09/29/2024 18:49]  Oh Peaches: Vendor spots available!!! Contact WonTrickPony on Discord.
+[09/29/2024 18:49]  Minetheserocks: Minetheserocks (Young)
+[09/29/2024 18:49]  Floorskin: Vas Rel Por
+[09/29/2024 18:49]  HSIFGNIK: [Prankster, O|P]
+[09/29/2024 18:49]  HSIFGNIK: Lord HSIFGNIK
+[09/29/2024 18:49]  A Prickly Pear: VENDOR RENTAL SPOTS AVAILABLE! 5 & 10K!
+[09/29/2024 18:49]  a pack llama: (tame)
+[09/29/2024 18:49]  a pack llama: [1080/2000 stones]
+[09/29/2024 18:49]  a pack llama: [5/125 items]
+[09/29/2024 18:49]  a pack llama: a pack llama
+[09/29/2024 18:49]  Oh Peaches: Ammenities include: Updated POI & Witcher runes
+[09/29/2024 18:49]  A Prickly Pear: Leather Suits Stocked!
+[09/29/2024 18:49]  MasterGaterAlt: Vas Rel Por
+[09/29/2024 18:49]  MasterGater OG: Vas Rel Por
+[09/29/2024 18:49]  Oh Peaches: Private roof access for safe loading
+[09/29/2024 18:49]  Macy: Vas Rel Por
+[09/29/2024 18:49]  Dirt Mc.Girt: Gating to 1CE Clans Terran vendor mall.
+[09/29/2024 18:49]  Wildsong: [Karl, ICON]
+[09/29/2024 18:49]  Wildsong: Wildsong
+[09/29/2024 18:49]  Requies: Vas Rel Por
+[09/29/2024 18:49]  I Buy House: [Veteran, Syn]
+[09/29/2024 18:49]  I Buy House: I Buy House
+[09/29/2024 18:49]  Sir Martial: [Squire, Sir.]
+[09/29/2024 18:49]  Sir Martial: Sir Martial
+[09/29/2024 18:49]  Mireth Grace: [Squire, Sir.]
+[09/29/2024 18:49]  Mireth Grace: Mireth Grace
+[09/29/2024 18:49]  Tsunami Rider: Legendary Pirate
+[09/29/2024 18:49]  Tsunami Rider: [MAYDAY, x_-]
+[09/29/2024 18:49]  Tsunami Rider: Lady Tsunami Rider
+[09/29/2024 18:49]  Homer Simpsons: Legendary Scribe
+[09/29/2024 18:49]  Homer Simpsons: Homer Simpsons
+[09/29/2024 18:49]  For FS: [Prospect, DPS]
+[09/29/2024 18:49]  For FS: For FS
+[09/29/2024 18:49]  A Sillyy Goose: [Senior Officer, TES]
+[09/29/2024 18:49]  A Sillyy Goose: A Sillyy Goose
+[09/29/2024 18:49]  A Prickly Pear: Close to Prevalia Gate! CY Recalling Available!
+[09/29/2024 18:49]  Floorskin: @ Tugboat Willy's @
+[09/29/2024 18:49]  MasterGaterAlt: New-Player Vendor Mall
+[09/29/2024 18:49]  MasterGaterAlt: Armor sets always in stock
+[09/29/2024 18:49]  Dignson: **ONE SPOT LEFT**
+[09/29/2024 18:49]  Oh Peaches: [Concierge, Inn]
+[09/29/2024 18:49]  Oh Peaches: Oh Peaches
+[09/29/2024 18:49]  Hella Bore: [Recruit, L%C]
+[09/29/2024 18:49]  Hella Bore: Hella Bore
+[09/29/2024 18:49]  Walter Gater: Walter Gater
+[09/29/2024 18:49]  Craft Her: Come view the Winterlands Vendor House!
+[09/29/2024 18:49]  I Buy House: ***VENDOR SPOTS TO RENT 12.5k P/W*** - HIGH TRAFFIC - ANCHORS REST
+[09/29/2024 18:49]  The Gater: New Vendor with Cheap Spots mid lvl items always stocked
+[09/29/2024 18:49]  Dignson: FISHKILL TOWER GATED 24/7
+[09/29/2024 18:49]  NewType mrs: Great vendor house. cmon baby....
+[09/29/2024 18:49]  Homer Simpsons: Vas Rel Por
+[09/29/2024 18:49]  Requies: The Shadow Market - previously The Rogue Tower - vendor spots 15k a week
+[09/29/2024 18:49]  Razor: [+Hidden/Stealthing (0s)]
+[09/29/2024 18:49]  [Razor]: Steps: 0
+[09/29/2024 18:49]  Opening Soon: Opening Soon
+[09/29/2024 18:49]  RARE LOOT: RARE LOOT
+[09/29/2024 18:49]  HIGH END TOOLS: HIGH END TOOLS
+[09/29/2024 18:49]  Bel: Bel
+[09/29/2024 18:49]  DreadLordRiak: DreadLordRiak
+[09/29/2024 18:49]  INSCRIPTION & BOOKS: INSCRIPTION & BOOKS
+[09/29/2024 18:49]  TINKERING & TOOLS: TINKERING & TOOLS
+[09/29/2024 18:49]  BuyingDarkSalmon: BuyingDarkSalmon the battle trainer
+[09/29/2024 18:49]  System: What do you wish to track?
+[09/29/2024 18:49]  System: You must wait a few moments to use another skill.
+[09/29/2024 18:49]  Razor: [-Hidden/Stealthing (s)]
+[09/29/2024 18:49]  System: You have left the protection of the town guards.
+[09/29/2024 18:49]  a warbler: a warbler
+[09/29/2024 18:49]  a crow: a crow
+[09/29/2024 18:49]  an eagle: an eagle
+[09/29/2024 18:49]  a magpie: a magpie
+[09/29/2024 18:49]  a hind: a hind
+[09/29/2024 18:49]  Jotha: Jotha the lumberjack
+[09/29/2024 18:49]  a towhee: a towhee
+[09/29/2024 18:49]  Junkerpunk: [Initiate, KoU]
+[09/29/2024 18:49]  Junkerpunk: Junkerpunk
+[09/29/2024 18:49]  System: You are now under the protection of the town guards.
+[09/29/2024 18:49]  Lunt: Lunt the herbalist
+[09/29/2024 18:49]  Adena: Adena the alchemist
+[09/29/2024 18:50]  Asta: Asta the mage
+[09/29/2024 18:50]  Ivar: Ivar the jeweler
+[09/29/2024 18:50]  Alonzo: Alonzo the tinker
+[09/29/2024 18:50]  Donnelly: Donnelly the scribe
+[09/29/2024 18:50]  Babur: Wilderness Savior
+[09/29/2024 18:50]  Babur: [WILK]
+[09/29/2024 18:50]  Babur: Babur
+[09/29/2024 18:50]  Pierce: Pierce the tailor
+[09/29/2024 18:50]  Ravi: Ravi the Town Crier
+[09/29/2024 18:50]  Otter Pop: Triggered
+[09/29/2024 18:50]  Otter Pop: [Ranger Frontrunner, Path]
+[09/29/2024 18:50]  Otter Pop: Otter Pop
+[09/29/2024 18:50]  Gathering Peon: [Member, NC]
+[09/29/2024 18:50]  Gathering Peon: Gathering Peon
+[09/29/2024 18:50]  Leon the Lame: Leon the Lame
+[09/29/2024 18:50]  Rippsta: Rippsta
+[09/29/2024 18:50]  Otter Pop: Triggered
+[09/29/2024 18:50]  Otter Pop: [Ranger Frontrunner, Path]
+[09/29/2024 18:50]  Otter Pop: Otter Pop
+[09/29/2024 18:50]  Le'mont: Le'mont
+[09/29/2024 18:50]  Adena: Adena the alchemist
+[09/29/2024 18:50]  Brandi: Brandi the banker
+[09/29/2024 18:50]  FowlWeather: (bonded)
+[09/29/2024 18:50]  FowlWeather: FowlWeather
+[09/29/2024 18:50]  a dog: a dog
+[09/29/2024 18:50]  Fierro: bank room vendor buy
+[09/29/2024 18:50]  Fierro: Items: 11/125
+[09/29/2024 18:50]  Fierro: Total Weight: 25
+[09/29/2024 18:50]  You see: copperwood board : 37
+[09/29/2024 18:50]  a water drake: (bonded)
+[09/29/2024 18:50]  a water drake: a water drake
+[09/29/2024 18:50]  minitank: (bonded)
+[09/29/2024 18:50]  minitank: minitank
+[09/29/2024 18:50]  Country Bumpkin: [The Tavern], [tT]
+[09/29/2024 18:50]  Country Bumpkin: Country Bumpkin
+[09/29/2024 18:50]  Ravi: Whispers say the eerie Beechwood Manor will be up for raffle starting October 1st. Do you dare confront its haunted past?
+[09/29/2024 18:50]  System: An Omni Realm has now become public.
+[09/29/2024 18:50]  a water drake: (bonded)
+[09/29/2024 18:50]  a water drake: a water drake
+[09/29/2024 18:50]  minitank: (bonded)
+[09/29/2024 18:50]  minitank: minitank
+[09/29/2024 18:50]  Country Bumpkin: [The Tavern], [tT]
+[09/29/2024 18:50]  Country Bumpkin: Country Bumpkin
+[09/29/2024 18:51]  a dog: a dog
+[09/29/2024 18:51]  Fierro: bank room vendor buy
+[09/29/2024 18:51]  Fierro: Items: 12/125
+[09/29/2024 18:51]  Fierro: Total Weight: 38
+[09/29/2024 18:51]  a dog: a dog
+[09/29/2024 18:51]  Dacey: Dacey the waiter
+[09/29/2024 18:51]  a dog: a dog
+[09/29/2024 18:51]  a cat: a cat
+[09/29/2024 18:51]  Callidora: Callidora the tavern keeper
+[09/29/2024 18:51]  a dog: a dog
+[09/29/2024 18:51]  a cat: a cat
+[09/29/2024 18:51]  Donnelly: Donnelly the scribe
+[09/29/2024 18:51]  Thurston: Thurston the waiter
+[09/29/2024 18:51]  Irwin Stevie: [Prospect, DPS]
+[09/29/2024 18:51]  Irwin Stevie: Irwin Stevie
+[09/29/2024 18:51]  Peon Lord: [Unit, DPS]
+[09/29/2024 18:51]  Peon Lord: Peon Lord
+[09/29/2024 18:51]  Denton: Denton the innkeeper
+[09/29/2024 18:51]  Renee: Renee the stablemaster
+[09/29/2024 18:51]  a dog: a dog
+[09/29/2024 18:51]  a dog: a dog
+[09/29/2024 18:51]  Keara: Keara the stablemaster
+[09/29/2024 18:51]  a goat: a goat
+[09/29/2024 18:51]  a wisp: *released*
+[09/29/2024 18:51]  a wisp: a wisp
+[09/29/2024 18:51]  Fierro: bank room vendor buy
+[09/29/2024 18:51]  Hanan: Hanan the animal wrangler
+[09/29/2024 18:51]  System: You have left the protection of the town guards.
+[09/29/2024 18:51]  System: You enter the rental room.
+[09/29/2024 18:51]  Ailiin: [Ripe, SQzD]
+[09/29/2024 18:51]  Ailiin: Ailiin
+[09/29/2024 18:51]  System: WorldMap loaded!
+[09/29/2024 18:51]  System: nie umiem czytac has completed the achievement: Alchemist (Basic).
+[09/29/2024 18:51]  System: You do not see any nearby forges to smelt this ore on.
+[09/29/2024 18:51]  Razor: dull copper ingot : 91
+[09/29/2024 18:51]  Razor: shadow iron ingot : 68
+[09/29/2024 18:51]  Razor: copper ingot : 24
+[09/29/2024 18:51]  System: You do not see any nearby forges to smelt this ore on.
+[09/29/2024 18:51]  Razor: dull copper ingot : 91
+[09/29/2024 18:51]  Razor: shadow iron ingot : 68
+[09/29/2024 18:51]  Razor: copper ingot : 24
+[09/29/2024 18:51]  System: What do you want to use this item on?
+[09/29/2024 18:51]  System: You shape the logs into boards.
+[09/29/2024 18:51]  Razor: board : 870
+[09/29/2024 18:51]  Razor: dullwood board : 68
+[09/29/2024 18:51]  System: What do you want to use this item on?
+[09/29/2024 18:51]  System: You shape the logs into boards.
+[09/29/2024 18:51]  Razor: shadowwood board : 38
+[09/29/2024 18:51]  System: What do you want to use this item on?
+[09/29/2024 18:51]  System: You must wait to perform another action.
+[09/29/2024 18:51]  System: You shape the logs into boards.
+[09/29/2024 18:51]  Razor: bronzewood board : 9
+[09/29/2024 18:51]  System: What do you want to use this item on?
+[09/29/2024 18:51]  System: You shape the logs into boards.

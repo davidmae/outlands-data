@@ -133,7 +133,7 @@
 	</macro>
 	<macro name="Carve" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\CarveCorpse" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\CarveCorpse" />
 		</actions>
 	</macro>
 	<macro name="InfoItem" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -143,12 +143,12 @@
 	</macro>
 	<macro name="AutoHeal" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\auto-heal" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\auto-heal" />
 		</actions>
 	</macro>
 	<macro name="AutoAttack" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script uo_outlands_razor_scripts\_david.mae20_scripts\auto-attack" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\auto-attack" />
 		</actions>
 	</macro>
 </macros>

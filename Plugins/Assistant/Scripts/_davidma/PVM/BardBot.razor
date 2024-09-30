@@ -1,0 +1,87 @@
+overhead "[+Start BardBot]"
+
+setvar carving_activated 0
+setvar info_color 191
+
+clearall 
+
+#
+#@setvar timing 5000
+#
+#if not timerexists check_time_pec
+#    createtimer check_time_pec
+#endif
+#if not timerexists check_time_dis
+#    createtimer check_time_dic
+#endif
+   #    
+#if findtype 11552 backpack -1 -1 -1 as knife
+#    @setvar! var_knife knife
+#endif
+#
+while not dead 
+        
+    hotkey 'target closest non-friendly monster'
+    @setvar! curr_target lasttarget 
+    getlabel curr_target enemy
+    wait 150
+    attack curr_target
+    wait 200
+    
+    if not bandaging and hp < 97
+        hotkey "Bandage Self"
+    endif
+    
+    if 'pacified' in enemy
+        #if timer 'check_time_pec' > timing
+#            overhead '*** Already pacified ***' 45
+#            settimer check_time_pec 0
+#        endif
+        
+        if 'discord' in enemy
+            #if timer 'check_time_dis' > timing
+#                    overhead '*** Already discorded ***' 45
+#                    settimer check_time_dis 0
+#                endif
+        else
+            skill 'discordance'
+            wait 500
+            target curr_target
+            wait 350
+            overhead enemy info_color
+        endif  
+    else 
+        if 'provoked' in enemy
+        elseif 'a' in enemy or 'an' in enemy
+            skill 'peacemaking'
+            wait 500
+            target curr_target
+            wait 350
+            overhead enemy info_color
+        endif
+    endif
+    
+    wait 200
+    
+    if "barding break" in enemy
+        overhead "*** Barding Break ***" 5
+    endif
+    
+    wait 500
+
+    if carving_activated = 1 and findtype 8198 ground -1 -1 5
+        skill 'forensicevaluation'
+        wait 250
+        target self
+    endif
+    
+    if dead curr_target
+        overhead "Enemy is dead" 34
+        @ignore curr_target
+        @setvar! curr_target 0
+    endif
+  
+#wait 200
+#hotkey "Play Script: _davidma\PVM\Carve"
+    
+endwhile

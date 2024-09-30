@@ -51,7 +51,7 @@
 [08/17/2024 09:47]  ohdear: (bonded)
 [08/17/2024 09:47]  ohdear: ohdear
 [08/17/2024 09:48]  [Razor]: Unknown command
-[08/17/2024 09:48]  Jaimito: >scripts Scripts\uo_outlands_razor_scripts\_david.mae20_scripts\near_chest
+[08/17/2024 09:48]  Jaimito: >scripts Scripts\_davidma\near_chest
 [08/17/2024 09:48]  System: Dr.Stab has completed the achievement: Backstabber (Basic).
 [08/17/2024 09:49]  System: yumyums has completed the achievement: Nature Slayer (Basic).
 [08/17/2024 09:49]  : seaweed
@@ -1474,7 +1474,7 @@
 [08/17/2024 11:11]  Ginnhorrim: [Alderman, Yew]
 [08/17/2024 11:11]  Ginnhorrim: Ginnhorrim
 [08/17/2024 11:11]  Jaimito: You have hidden yourself well.
-[08/17/2024 11:11]  Jaimito: *>script uo_outlands_razor_scripts\_david.mae20_scripts\CampingRecall*
+[08/17/2024 11:11]  Jaimito: *>script _davidma\CampingRecall*
 [08/17/2024 11:11]  System: You must wait a few moments to use another skill.
 [08/17/2024 11:11]  System: You must wait a few moments to use another skill.
 [08/17/2024 11:11]  Jaimito: You have hidden yourself well.
