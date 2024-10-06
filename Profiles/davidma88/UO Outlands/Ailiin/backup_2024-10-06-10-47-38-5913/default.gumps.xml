@@ -42,8 +42,18 @@
 		<gump type="7" x="21" y="617" serial="1031" name="DiscNearest" graphicId="4227" hideLabel="False" scale="0.4" matrix_x="0" matrix_y="1" />
 		<gump type="7" x="21" y="665" serial="1035" name="ProvokNearest" graphicId="4228" hideLabel="False" scale="0.4" matrix_x="0" matrix_y="2" />
 	</anchored_group_gump>
-	<gump type="2" x="1544" y="420" serial="1547581360" graphic="60" isminimized="False" />
 	<gump type="9" x="1604" y="15" serial="5891706" isminimized="False" />
+	<gump type="2" x="1527" y="441" serial="1547581360" graphic="60" isminimized="False" />
+	<gump type="21" x="1359" y="863" serial="0" />
+	<gump type="5" x="1625" y="363" serial="1" />
+	<gump type="7" x="1808" y="359" serial="1047" name="Terran" graphicId="236" hideLabel="False" scale="0.8" />
+	<gump type="1" x="1489" y="9" serial="0" graphic="30079" direction="0" />
+	<gump type="25" x="818" y="27" serial="0" entryname="skill" />
+	<gump type="5" x="833" y="0" serial="0" />
+	<gump type="24" x="974" y="28" serial="0" />
+	<gump type="8" x="506" y="0" serial="0" isminimized="False" />
+	<gump type="27" x="201" y="277" serial="0" />
+	<gump type="10" x="1575" y="749" serial="0" isminimized="False" height="311" />
 	<gump type="3" x="1879" y="-1" serial="0" rows="27" columns="1" rectsize="40">
 		<controls>
 			<control graphic="3617" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -75,16 +85,6 @@
 			<control graphic="3821" hue="0" />
 		</controls>
 	</gump>
-	<gump type="10" x="1575" y="749" serial="0" isminimized="False" height="311" />
-	<gump type="27" x="201" y="277" serial="0" />
-	<gump type="8" x="506" y="0" serial="0" isminimized="False" />
-	<gump type="24" x="974" y="28" serial="0" />
-	<gump type="5" x="833" y="0" serial="0" />
-	<gump type="25" x="818" y="27" serial="0" entryname="skill" />
-	<gump type="1" x="1489" y="9" serial="0" graphic="30079" direction="0" />
-	<gump type="7" x="1808" y="359" serial="1047" name="Terran" graphicId="236" hideLabel="False" scale="0.8" />
-	<gump type="5" x="1625" y="363" serial="1" />
-	<gump type="21" x="1359" y="863" serial="0" />
 	<gump type="18" x="0" y="0" serial="0" />
 	<gump type="6" x="21" y="733" serial="0" />
 </gumps>
