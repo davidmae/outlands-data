@@ -8,7 +8,7 @@
   "enable_footsteps_sound": true,
   "sync_footsteps_sound": true,
   "enable_combat_music": false,
-  "reproduce_sounds_in_background": true,
+  "reproduce_sounds_in_background": false,
   "new_outlands_music": true,
   "chat_font": 0,
   "speech_delay": 100,
@@ -71,7 +71,11 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 640,
+<<<<<<< HEAD
   "default_scale": 0.70000005,
+=======
+  "default_scale": 0.8000001,
+>>>>>>> ae037eab036d07b9afabfd05bfa0bc283035e100
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -102,8 +106,8 @@
   "game_window_full_size": true,
   "window_borderless": true,
   "game_window_size": {
-    "X": 2048,
-    "Y": 1152
+    "X": 1920,
+    "Y": 1080
   },
   "topbar_gump_position": {
     "X": 3,

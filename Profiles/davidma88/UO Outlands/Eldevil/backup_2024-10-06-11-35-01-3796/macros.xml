@@ -15,7 +15,7 @@
 			<action code="8" subcode="12" submenutype="1" />
 		</actions>
 	</macro>
-	<macro name="Open Status Bar" key="115" mousebutton="0" alt="True" ctrl="False" shift="False">
+	<macro name="Open Status Bar" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="8" subcode="11" submenutype="1" />
 		</actions>
@@ -55,6 +55,11 @@
 			<action code="1" subcode="0" submenutype="2" text="Guards!" />
 		</actions>
 	</macro>
+	<macro name="Bank" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\EasySays\BankRoomMain" />
+		</actions>
+	</macro>
 	<macro name="Lockdown Item" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="I wish to lock this down" />
@@ -85,11 +90,6 @@
 			<action code="23" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
-	<macro name="Pouch" key="98" mousebutton="0" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="[pouch" />
-		</actions>
-	</macro>
 	<macro name="LastObject" key="122" mousebutton="0" alt="False" ctrl="True" shift="False">
 		<actions>
 			<action code="17" subcode="0" submenutype="0" />
@@ -108,18 +108,6 @@
 	<macro name="InfoItem" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;info" />
-		</actions>
-	</macro>
-	<macro name="Invis" key="113" mousebutton="0" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="15" subcode="105" submenutype="1" />
-			<action code="25" subcode="0" submenutype="0" />
-			<action code="23" subcode="0" submenutype="0" />
-		</actions>
-	</macro>
-	<macro name="Nearest Chest" key="0" mousebutton="5" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\near chest" />
 		</actions>
 	</macro>
 	<macro name="Black Market" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -145,28 +133,113 @@
 	<macro name="TargetNearest" key="0" mousebutton="4" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="50" subcode="205" submenutype="1" />
-			<action code="27" subcode="0" submenutype="0" />
+			<action code="1" subcode="0" submenutype="2" text="All Kill" />
+			<action code="53" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
-	<macro name="PrepareSteal" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">
+	<macro name="CloseAll" key="27" mousebutton="0" alt="False" ctrl="False" shift="True">
 		<actions>
-			<action code="13" subcode="53" submenutype="1" />
-			<action code="22" subcode="0" submenutype="0" />
+			<action code="69" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
-	<macro name="OpenContainers" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="GoCustomLoc" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\OpenContainers" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\GoCustomLocation" />
 		</actions>
 	</macro>
-	<macro name="BankRoomVendor" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Escape" key="98" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\EasySays\BankRoomVendor" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Escape" />
 		</actions>
 	</macro>
-	<macro name="CT" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="DropLootBank" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="29" subcode="0" submenutype="0" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\DropLootInBank" />
+		</actions>
+	</macro>
+	<macro name="DroopLoot" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\DropLootInBank" />
+		</actions>
+	</macro>
+	<macro name="Prevalia" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\GoPrevalia" />
+		</actions>
+	</macro>
+	<macro name="Terran" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Mobility\Terran" />
+		</actions>
+	</macro>
+	<macro name="DressPVE#1" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\ToggleDressPVE#1" />
+		</actions>
+	</macro>
+	<macro name="Stats" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[playerstats" />
+		</actions>
+	</macro>
+	<macro name="SplitGold" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\SplitGold" />
+		</actions>
+	</macro>
+	<macro name="Carve" key="99" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\Carve" />
+		</actions>
+	</macro>
+	<macro name="Lightning" key="113" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="91" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Summon Creature" key="115" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="101" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Greater Heal" key="104" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="90" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Invisibility" key="105" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="105" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Fireball" key="119" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="79" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="LastSpell" key="115" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="16" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Teleport" key="116" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="83" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Wall of Stone" key="119" mousebutton="0" alt="False" ctrl="False" shift="True">
+		<actions>
+			<action code="15" subcode="85" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Energy Bolt" key="101" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="103" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Explosion" key="114" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="104" submenutype="1" />
 		</actions>
 	</macro>
 </macros>

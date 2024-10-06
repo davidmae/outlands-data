@@ -13,8 +13,13 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">True</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
+<<<<<<< HEAD
 	<property name="WindowX" type="System.Int32">2601</property>
 	<property name="WindowY" type="System.Int32">922</property>
+=======
+	<property name="WindowX" type="System.Int32">400</property>
+	<property name="WindowY" type="System.Int32">400</property>
+>>>>>>> ae037eab036d07b9afabfd05bfa0bc283035e100
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +32,13 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
+<<<<<<< HEAD
 	<property name="RazorWidth" type="System.Int32">912</property>
 	<property name="RazorHeight" type="System.Int32">734</property>
+=======
+	<property name="RazorWidth" type="System.Int32">160</property>
+	<property name="RazorHeight" type="System.Int32">28</property>
+>>>>>>> ae037eab036d07b9afabfd05bfa0bc283035e100
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>

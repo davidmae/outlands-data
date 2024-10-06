@@ -102,8 +102,8 @@
   "game_window_full_size": true,
   "window_borderless": true,
   "game_window_size": {
-    "X": 2048,
-    "Y": 1152
+    "X": 1920,
+    "Y": 1080
   },
   "topbar_gump_position": {
     "X": 3,
