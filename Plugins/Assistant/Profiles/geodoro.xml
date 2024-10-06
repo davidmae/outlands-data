@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1017</property>
-	<property name="WindowY" type="System.Int32">0</property>
+	<property name="WindowX" type="System.Int32">2604</property>
+	<property name="WindowY" type="System.Int32">959</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -212,7 +212,7 @@
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x5B7A8B25" name="myVariable" />
+		<scriptvariable serial="0x636F094D" name="myVariable" />
 		<scriptvariable serial="0x56F61D10" name="my_loot_to_id_bag" />
 	</scriptvariables>
 	<friends />

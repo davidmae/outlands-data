@@ -43,15 +43,7 @@
 		<gump type="7" x="19" y="725" serial="1035" name="ProvokNearest" graphicId="4228" hideLabel="False" scale="0.4" matrix_x="0" matrix_y="2" />
 	</anchored_group_gump>
 	<gump type="9" x="1732" y="6" serial="5891706" isminimized="False" />
-	<gump type="2" x="656" y="554" serial="1270814709" graphic="73" isminimized="False" />
-	<gump type="2" x="946" y="294" serial="1547581366" graphic="60" isminimized="False" />
-	<gump type="2" x="915" y="634" serial="1671216080" graphic="60" isminimized="False" />
-	<gump type="2" x="651" y="231" serial="1671216079" graphic="60" isminimized="False" />
-	<gump type="2" x="1671" y="447" serial="1547581360" graphic="60" isminimized="False" />
-	<gump type="2" x="1318" y="614" serial="1270825796" graphic="73" isminimized="False" />
-	<gump type="2" x="998" y="176" serial="1479579812" graphic="60" isminimized="False" />
-	<gump type="2" x="1324" y="125" serial="1270813508" graphic="73" isminimized="False" />
-	<gump type="3" x="2000" y="24" serial="0" rows="27" columns="1" rectsize="40">
+	<gump type="3" x="2000" y="22" serial="0" rows="27" columns="1" rectsize="40">
 		<controls>
 			<control graphic="3617" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
 			<control graphic="5370" hue="2799" key="119" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -82,6 +74,7 @@
 			<control graphic="3821" hue="0" />
 		</controls>
 	</gump>
+	<gump type="2" x="1634" y="492" serial="1547581360" graphic="60" isminimized="False" />
 	<gump type="21" x="1470" y="929" serial="0" />
 	<gump type="10" x="1667" y="806" serial="0" isminimized="False" height="311" />
 	<gump type="27" x="201" y="277" serial="0" />

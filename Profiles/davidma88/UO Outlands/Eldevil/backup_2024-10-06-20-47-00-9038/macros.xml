@@ -15,7 +15,7 @@
 			<action code="8" subcode="12" submenutype="1" />
 		</actions>
 	</macro>
-	<macro name="Open Status Bar" key="115" mousebutton="0" alt="True" ctrl="False" shift="False">
+	<macro name="Open Status Bar" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="8" subcode="11" submenutype="1" />
 		</actions>
@@ -130,7 +130,7 @@
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\CampingRecall2" />
 		</actions>
 	</macro>
-	<macro name="TargetNearest" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="TargetNearest" key="0" mousebutton="4" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="50" subcode="205" submenutype="1" />
 			<action code="1" subcode="0" submenutype="2" text="All Kill" />
@@ -215,6 +215,31 @@
 	<macro name="Fireball" key="119" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="15" subcode="79" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="LastSpell" key="115" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="16" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Teleport" key="116" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="83" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Wall of Stone" key="119" mousebutton="0" alt="False" ctrl="False" shift="True">
+		<actions>
+			<action code="15" subcode="85" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Energy Bolt" key="101" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="103" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Explosion" key="114" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="104" submenutype="1" />
 		</actions>
 	</macro>
 </macros>

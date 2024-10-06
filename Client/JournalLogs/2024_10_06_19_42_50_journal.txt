@@ -1,0 +1,862 @@
+[10/06/2024 19:42]  System: WorldMap loading...
+[10/06/2024 19:42]  System: Loading WorldMap markers..
+[10/06/2024 19:42]  System: ..Banks_and_Healers.xml (39)
+[10/06/2024 19:42]  System: ..Dungeons.xml (13)
+[10/06/2024 19:42]  System: ..Dungeon_Gates.xml (392)
+[10/06/2024 19:42]  System: ..Healer_Caravans.xml (42)
+[10/06/2024 19:42]  System: ..Kings_Faire.xml (49)
+[10/06/2024 19:42]  System: ..Moongates.xml (10)
+[10/06/2024 19:42]  System: ..POI.xml (251)
+[10/06/2024 19:42]  System: ..PvP_Locations.xml (71)
+[10/06/2024 19:42]  System: ..Shrines.xml (9)
+[10/06/2024 19:42]  System: ..Sub-Dungeons.xml (4)
+[10/06/2024 19:42]  System: ..Townships.xml (10)
+[10/06/2024 19:42]  System: ..UOAM_Atlas.xml (1887)
+[10/06/2024 19:42]  System: ..UOAM_T-Map.xml (255)
+[10/06/2024 19:42]  System: ..UOAM_Treasure.xml (523)
+[10/06/2024 19:42]  System: WorldMap markers loaded (3555)
+[10/06/2024 19:42]  System: Welcome Eldevil!
+[10/06/2024 19:42]  System: WorldMap loaded!
+[10/06/2024 19:42]  Eldevil: Eldevil
+[10/06/2024 19:42]  Geodoro: Geodoro
+[10/06/2024 19:42]  Jaimito: Jaimito
+[10/06/2024 19:42]  a horse: (tame)
+[10/06/2024 19:42]  a horse: a horse
+[10/06/2024 19:42]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/06/2024 19:42]  Eldevil: I can't reach that.
+[10/06/2024 19:42]  [Razor]: Queuing action request 1... 0.7 seconds left.
+[10/06/2024 19:42]  [Razor]: Ignoring action request (already queued).
+[10/06/2024 19:42]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/06/2024 19:42]  Eldevil: I can't reach that.
+[10/06/2024 19:43]  System: What do you wish to track?
+[10/06/2024 19:43]  System: You will only be able to track individuals and creatures currently within this house.
+[10/06/2024 19:43]  Eldevil: You begin hunting.
+[10/06/2024 19:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:43]  Razor: [+Tracking Hunting (0s)]
+[10/06/2024 19:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:43]  System: BrownDorf has completed the achievement: Triggered (Advanced).
+[10/06/2024 19:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: The world will save in 15 seconds.
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:44]  System: An Omni Realm has now become public.
+[10/06/2024 19:44]  System: The world is saving, please wait.
+[10/06/2024 19:44]  System: World save complete. The entire process took 2.7 seconds.
+[10/06/2024 19:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Egidius II has completed the achievement: Versatility (Basic).
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Turk has completed the achievement: Omni Slayer (Advanced).
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Scavfincher has completed the achievement: Daemonic Slayer (Advanced).
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:47]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Imagine has completed the achievement: Triggered (Basic).
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:48]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 48.5.
+[10/06/2024 19:49]  System: Your skill in Tracking has increased by 0.1.  It is now 91.0.
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:49]  System: [SL] A Strangelands event will begin in 10 minutes.
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:50]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Zinedine Zidane has completed the achievement: Omni Slayer (Advanced).
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:51]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Dirty Mike. has completed the achievement: Wilderness Hunter (Advanced).
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: hryden has completed the achievement: Enchanter (Basic).
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Felrath has completed the achievement: Loremaster (Basic).
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:52]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 48.4.
+[10/06/2024 19:53]  System: Your skill in Tracking has increased by 0.1.  It is now 91.1.
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: JavaLove has completed the achievement: Omni Slayer (Basic).
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:53]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: An Omni Realm will become public in 10 minutes.
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: L H R Z has completed the achievement: Trapper (Advanced).
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 48.3.
+[10/06/2024 19:54]  System: Your skill in Tracking has increased by 0.1.  It is now 91.2.
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:54]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: [SL] A Strangelands event will begin in 5 minutes.
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:55]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 48.2.
+[10/06/2024 19:55]  System: Your skill in Tracking has increased by 0.1.  It is now 91.3.
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:56]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 48.1.
+[10/06/2024 19:56]  System: Your skill in Tracking has increased by 0.1.  It is now 91.4.
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:56]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: The Minoc Syndicate (Syn) guild has reached prestige level 3734.
+[10/06/2024 19:57]  System: An Omni Realm will become public in 10 minutes.
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Troll Moments has completed the achievement: Skill Proficiency (Basic).
+[10/06/2024 19:57]  System: Troll Moments has completed the achievement: Tinker (Basic).
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:57]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: The Council (T^C) guild has reached prestige level 123.
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:58]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: The world will save in 15 seconds.
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: The world is saving, please wait.
+[10/06/2024 19:59]  System: World save complete. The entire process took 2.5 seconds.
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 19:59]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: [SL] A Strangelands event has begun!
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 48.0.
+[10/06/2024 20:00]  System: Your skill in Tracking has increased by 0.1.  It is now 91.5.
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: [DF] A Dungeon Flashpoint for The Mausoleum has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:00]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.9.
+[10/06/2024 20:00]  System: Your skill in Tracking has increased by 0.1.  It is now 91.6.
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Amy Wong has completed the achievement: Order of Armorers Dignitary.
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:01]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: P L A G U E has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Stendari has completed the achievement: Omni Slayer (Epic).
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:02]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: RoonYu has completed the achievement: Woodworker (Basic).
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.8.
+[10/06/2024 20:03]  System: Your skill in Tracking has increased by 0.1.  It is now 91.7.
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:03]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.7.
+[10/06/2024 20:04]  System: Your skill in Tracking has increased by 0.1.  It is now 91.8.
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: An Omni Realm has now become public.
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:04]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.6.
+[10/06/2024 20:05]  System: Your skill in Tracking has increased by 0.1.  It is now 91.9.
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:05]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.5.
+[10/06/2024 20:06]  System: Your skill in Tracking has increased by 0.1.  It is now 92.0.
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:06]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: An Omni Realm has now become public.
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Laurien has completed the achievement: Artificers Enclave Associate.
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:07]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.4.
+[10/06/2024 20:08]  System: Your skill in Tracking has increased by 0.1.  It is now 92.1.
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.3.
+[10/06/2024 20:08]  System: Your skill in Tracking has increased by 0.1.  It is now 92.2.
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.2.
+[10/06/2024 20:08]  System: Your skill in Tracking has increased by 0.1.  It is now 92.3.
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:08]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.1.
+[10/06/2024 20:09]  System: Your skill in Tracking has increased by 0.1.  It is now 92.4.
+[10/06/2024 20:09]  System: Dirty Rice has completed the achievement: Omni Slayer (Advanced).
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:09]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:10]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:11]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Tijuana has completed the achievement: Echosmith (Basic).
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:12]  System: Enso has completed the achievement: Omni Slayer (Basic).
+[10/06/2024 20:12]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: An Omni Realm will become public in 10 minutes.
+[10/06/2024 20:13]  System: New World Order (NWO) guild has reached prestige level 492.
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Peasley has completed the achievement: Omni Slayer (Advanced).
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:13]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: The world will save in 15 seconds.
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: The world is saving, please wait.
+[10/06/2024 20:14]  System: World save complete. The entire process took 2.5 seconds.
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: Tinji Longwolf has completed the achievement: Maester (Epic).
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:14]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Spirit Majere has completed the achievement: Omni Slayer (Basic).
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:15]  System: Egidius II has completed the achievement: Omni-Realm Invader (Basic).
+[10/06/2024 20:15]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: VincenzoCassano has registered an antiquity: Ancient Dragon Figurine
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: YnhamY has completed the achievement: Cartographer (Epic).
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 47.0.
+[10/06/2024 20:16]  System: Your skill in Tracking has increased by 0.1.  It is now 92.5.
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: BobbaBoi has completed the achievement: Netherzone Hunter (Basic).
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: Crow the Green has completed the achievement: Omni Slayer (Basic).
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:16]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.9.
+[10/06/2024 20:17]  System: Your skill in Tracking has increased by 0.1.  It is now 92.6.
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:17]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: Kryos has completed the achievement: Monster Hunter Initiate.
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: MadFire has completed the achievement: Omni Slayer (Basic).
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: The Elite Status (TES) guild has reached prestige level 137.
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: Dark Explo has completed the achievement: Monstrous Slayer (Basic).
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:18]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.8.
+[10/06/2024 20:19]  System: Your skill in Tracking has increased by 0.1.  It is now 92.7.
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:19]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.7.
+[10/06/2024 20:20]  System: Your skill in Tracking has increased by 0.1.  It is now 92.8.
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:20]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.6.
+[10/06/2024 20:21]  System: Your skill in Tracking has increased by 0.1.  It is now 92.9.
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:21]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Alikk has completed the achievement: Humanoid Slayer (Basic).
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:22]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: Tameatooski has completed the achievement: Omni Slayer (Basic).
+[10/06/2024 20:23]  System: An Omni Realm has now become public.
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: An Omni Realm will become public in 10 minutes.
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:23]  System: Squishy- has completed the achievement: Culinary Savvy (Epic).
+[10/06/2024 20:23]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Keef Paradise has completed the achievement: Trawler (Basic).
+[10/06/2024 20:24]  System: Dysphasia has completed the achievement: Omni Slayer (Advanced).
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:24]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.5.
+[10/06/2024 20:25]  System: Your skill in Tracking has increased by 0.1.  It is now 93.0.
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:25]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Fantasium has completed the achievement: Maester (Advanced).
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.4.
+[10/06/2024 20:26]  System: Your skill in Tracking has increased by 0.1.  It is now 93.1.
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:26]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.3.
+[10/06/2024 20:27]  System: Your skill in Tracking has increased by 0.1.  It is now 93.2.
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:27]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: Toadiez has completed the achievement: Omni-Realm Invader (Basic).
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: An Omni Realm will become public in 10 minutes.
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:28]  System: The world will save in 15 seconds.
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.2.
+[10/06/2024 20:29]  System: Your skill in Tracking has increased by 0.1.  It is now 93.3.
+[10/06/2024 20:29]  System: kvistheyl has completed the achievement: Wizard (Advanced).
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.1.
+[10/06/2024 20:29]  System: Your skill in Tracking has increased by 0.1.  It is now 93.4.
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: The world is saving, please wait.
+[10/06/2024 20:29]  System: World save complete. The entire process took 2.5 seconds.
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:29]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:30]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Kid Twist has completed the achievement: Alchemist (Basic).
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:31]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: RED (RED) guild has reached prestige level 567.
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:32]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:33]  System: An Omni Realm has now become public.
+[10/06/2024 20:33]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 46.0.
+[10/06/2024 20:34]  System: Your skill in Tracking has increased by 0.1.  It is now 93.5.
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:34]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:35]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Cepher has completed the achievement: Transmutation (Basic).
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 45.9.
+[10/06/2024 20:36]  System: Your skill in Tracking has increased by 0.1.  It is now 93.6.
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Khastlevania has completed the achievement: Omni Slayer (Advanced).
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:36]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 45.8.
+[10/06/2024 20:37]  System: Your skill in Tracking has increased by 0.1.  It is now 93.7.
+[10/06/2024 20:37]  System: Felrath has completed the achievement: Loremaster (Advanced).
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 45.7.
+[10/06/2024 20:37]  System: Your skill in Tracking has increased by 0.1.  It is now 93.8.
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:37]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 45.6.
+[10/06/2024 20:38]  System: Your skill in Tracking has increased by 0.1.  It is now 93.9.
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Galactus has completed the achievement: Humanoid Slayer (Epic).
+[10/06/2024 20:38]  System: An Omni Realm has now become public.
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 45.5.
+[10/06/2024 20:38]  System: Your skill in Tracking has increased by 0.1.  It is now 94.0.
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:38]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:39]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Bartholomew Blue has completed the achievement: Strangelands Barbarian (Basic).
+[10/06/2024 20:40]  System: jihad joe has completed the achievement: Strangelands Deathmage (Advanced).
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:40]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:41]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Lyra Emberfall has completed the achievement: Order of Armorers Associate.
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Arquini Sandoval has completed the achievement: Omni Slayer (Basic).
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:42]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Ted. has completed the achievement: Omni Slayer (Basic).
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Ivy Venom has completed the achievement: Guardian of Pulma (Basic).
+[10/06/2024 20:43]  System: Invocate has completed the achievement: Artificers Enclave Associate.
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: The world will save in 15 seconds.
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:43]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: The world is saving, please wait.
+[10/06/2024 20:44]  System: World save complete. The entire process took 2.4 seconds.
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 45.4.
+[10/06/2024 20:44]  System: Your skill in Tracking has increased by 0.1.  It is now 94.1.
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:44]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: Devil Reject has completed the achievement: Wilderness Hunter (Basic).
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: Elira Dawnfire has completed the achievement: Order of Armorers Associate.
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: Durell Sudall has completed the achievement: Versatility (Basic).
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: [TS] A Town Struggle (mountless) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:45]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Your skill in Evaluating Intelligence has decreased by 0.1.  It is now 45.3.
+[10/06/2024 20:46]  System: Your skill in Tracking has increased by 0.1.  It is now 94.2.
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
+[10/06/2024 20:46]  System: Tracking skillgain: 4.822%
