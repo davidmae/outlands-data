@@ -1,0 +1,346 @@
+[10/04/2024 19:56]  System: WorldMap loading...
+[10/04/2024 19:56]  System: Loading WorldMap markers..
+[10/04/2024 19:56]  System: ..Banks_and_Healers.xml (39)
+[10/04/2024 19:56]  System: ..Dungeons.xml (13)
+[10/04/2024 19:56]  System: ..Dungeon_Gates.xml (392)
+[10/04/2024 19:56]  System: ..Healer_Caravans.xml (42)
+[10/04/2024 19:56]  System: ..Kings_Faire.xml (49)
+[10/04/2024 19:56]  System: ..Moongates.xml (10)
+[10/04/2024 19:56]  System: ..POI.xml (251)
+[10/04/2024 19:56]  System: ..PvP_Locations.xml (71)
+[10/04/2024 19:56]  System: ..Shrines.xml (9)
+[10/04/2024 19:56]  System: ..Sub-Dungeons.xml (4)
+[10/04/2024 19:56]  System: ..Townships.xml (10)
+[10/04/2024 19:56]  System: ..UOAM_Atlas.xml (1887)
+[10/04/2024 19:56]  System: ..UOAM_T-Map.xml (255)
+[10/04/2024 19:56]  System: ..UOAM_Treasure.xml (523)
+[10/04/2024 19:56]  System: WorldMap markers loaded (3555)
+[10/04/2024 19:56]  System: Welcome Ailiin!
+[10/04/2024 19:56]  System: WorldMap loaded!
+[10/04/2024 19:56]  System: Your food satisfaction effect has expired.
+[10/04/2024 19:56]  Ailiin: [Ripe, SQzD]
+[10/04/2024 19:56]  Ailiin: Ailiin
+[10/04/2024 19:56]  [Razor]: Finished 4 queued actions in 1.8 seconds.
+[10/04/2024 19:56]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/04/2024 19:56]  System: You are now under the effect of a Song of Peacemaking (10.9% healing amounts for 15 minutes).
+[10/04/2024 19:56]  Razor: [+Song of Peacemaking (900s)]
+[10/04/2024 19:57]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/04/2024 19:57]  System: You are now under the effect of a Song of Discordance (10.9% reduced damage from creatures for 15 minutes).
+[10/04/2024 19:57]  Razor: [+Song of Discordance (900s)]
+[10/04/2024 19:57]  System: Your skill in Tactics has decreased by 10.0.  It is now 100.0.
+[10/04/2024 19:57]  Ailiin: Kal Ort Por
+[10/04/2024 19:57]  Ailiin: You are entering a sanctuary dungeon.
+[10/04/2024 19:57]  Ailiin: Your mount finds a quiet place to rest safely.
+[10/04/2024 19:57]  a necromancer: a necromancer
+[10/04/2024 19:57]  a ghoul: a ghoul
+[10/04/2024 19:57]  You see: a skeletal archer corpse
+[10/04/2024 19:57]  You see: a necromancer corpse
+[10/04/2024 19:57]  [Razor]: Queuing action request 2... 1.3 seconds left.
+[10/04/2024 19:57]  System: WorldMap loaded!
+[10/04/2024 19:57]  [Razor]: Queuing action request 1... 0.8 seconds left.
+[10/04/2024 19:57]  System: Your skill in Tactics has increased by 10.0.  It is now 110.0.
+[10/04/2024 19:57]  [Razor]: Finished 5 queued actions in 2.4 seconds.
+[10/04/2024 19:57]  You see: a scarab corpse
+[10/04/2024 19:57]  You see: a skeleton guardian corpse
+[10/04/2024 19:57]  You see: a fire ant corpse
+[10/04/2024 19:57]  You see: a ghoul corpse
+[10/04/2024 19:57]  You see: a ghoul corpse
+[10/04/2024 19:57]  You see: a scarab corpse
+[10/04/2024 19:57]  a skeletal archer: a skeletal archer
+[10/04/2024 19:57]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/04/2024 19:57]  System: You are now under the effect of a Song of Provocation (+10.9% damage against creatures for 15 minutes).
+[10/04/2024 19:57]  Razor: [+Song of Provocation (900s)]
+[10/04/2024 19:57]  a necromancer: -123
+[10/04/2024 19:57]  Razor: [+Start PeaceNearest]
+[10/04/2024 19:57]  [Razor]: New target set.
+[10/04/2024 19:57]  Razor: * Target *
+[10/04/2024 19:57]  [Razor]: Ignore List cleared
+[10/04/2024 19:57]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/04/2024 19:57]  System: You play successfully, pacifying your target. (44s)
+[10/04/2024 19:57]  a necromancer: *looks calmed*
+[10/04/2024 19:57]  Razor: *pacified 44s* a necromancer
+[10/04/2024 19:57]  Razor: [+Start auto-heal]
+[10/04/2024 19:57]  a necromancer: -146
+[10/04/2024 19:57]  Ailiin: -11
+[10/04/2024 19:57]  System: Who will you use the bandages on?
+[10/04/2024 19:57]  System: You begin applying the bandages.
+[10/04/2024 19:57]  Razor: Bandage: 7s
+[10/04/2024 19:57]  System: You must wait to perform another action.
+[10/04/2024 19:57]  a necromancer: -162
+[10/04/2024 19:57]  Razor: Bandage: 6s
+[10/04/2024 19:57]  Razor: Bandage: 5s
+[10/04/2024 19:57]  Ailiin: -6
+[10/04/2024 19:57]  System: Your fingers slip!
+[10/04/2024 19:57]  Razor: Bandage: 4s
+[10/04/2024 19:57]  a necromancer: -120
+[10/04/2024 19:57]  Razor: Bandage: 3s
+[10/04/2024 19:57]  Ailiin: -3
+[10/04/2024 19:57]  System: Your fingers slip!
+[10/04/2024 19:57]  Razor: Bandage: 2s
+[10/04/2024 19:57]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/04/2024 19:57]  a necromancer: -117
+[10/04/2024 19:57]  Razor: Bandage: 1s
+[10/04/2024 19:57]  System: You must wait a few moments to use another skill.
+[10/04/2024 19:57]  System: You finish applying the bandages.
+[10/04/2024 19:57]  Ailiin: +19
+[10/04/2024 19:57]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/04/2024 19:57]  System: You must wait a few moments to use another skill.
+[10/04/2024 19:57]  Razor: * Target *
+[10/04/2024 19:57]  System: Whom do you wish them to attack?
+[10/04/2024 19:57]  a necromancer: -88
+[10/04/2024 19:57]  Razor: * Target *
+[10/04/2024 19:57]  System: You play successfully, provoking your targets. (51s)
+[10/04/2024 19:57]  a necromancer: *looks furious*
+[10/04/2024 19:57]  a ghoul: *looks furious*
+[10/04/2024 19:57]  a necromancer: -20
+[10/04/2024 19:57]  a ghoul: -22
+[10/04/2024 19:57]  a ghoul: -117
+[10/04/2024 19:57]  a ghoul: -111
+[10/04/2024 19:57]  a ghoul: -40
+[10/04/2024 19:57]  a necromancer: -16
+[10/04/2024 19:57]  System: You have gained a little fame.
+[10/04/2024 19:57]  System: You have gained a little karma.
+[10/04/2024 19:57]  System: -110
+[10/04/2024 19:57]  You see: a ghoul corpse
+[10/04/2024 19:57]  Razor: [+Start PeaceNearest]
+[10/04/2024 19:57]  [Razor]: New target set.
+[10/04/2024 19:57]  Razor: * Target *
+[10/04/2024 19:57]  [Razor]: Ignore List cleared
+[10/04/2024 19:57]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/04/2024 19:57]  Razor: [+Start auto-heal]
+[10/04/2024 19:57]  a necromancer: -85
+[10/04/2024 19:57]  a necromancer: -88
+[10/04/2024 19:57]  a necromancer: -89
+[10/04/2024 19:57]  System: Ralek has completed the achievement: Mariner (Epic).
+[10/04/2024 19:57]  a necromancer: -111
+[10/04/2024 19:57]  System: Baldwin Bentley has completed the achievement: Culinary Savvy (Basic).
+[10/04/2024 19:57]  System: Your shot hinders your target!
+[10/04/2024 19:57]  System: You have gained a little fame.
+[10/04/2024 19:57]  System: You have gained a little karma.
+[10/04/2024 19:57]  System: -85
+[10/04/2024 19:57]  Razor: [*** Hinder Target ***]
+[10/04/2024 19:57]  You see: a necromancer corpse
+[10/04/2024 19:57]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/04/2024 19:57]  pOTROSHITELB: pOTROSHITELB
+[10/04/2024 19:57]  System: You must wait another moment before you may pick up an item from here.
+[10/04/2024 19:57]  a skeletal guardian: a skeletal guardian
+[10/04/2024 19:57]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/04/2024 19:58]  System: What corpse or location do you wish to carve?
+[10/04/2024 19:58]  System: You carve materials from the corpse.
+[10/04/2024 19:58]  System: You carve materials from the corpse.
+[10/04/2024 19:58]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/04/2024 19:58]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/04/2024 19:58]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/04/2024 19:58]  Razor: [+Start PeaceNearest]
+[10/04/2024 19:58]  [Razor]: New target set.
+[10/04/2024 19:58]  Razor: * Target *
+[10/04/2024 19:58]  a fire ant: a fire ant
+[10/04/2024 19:58]  [Razor]: Ignore List cleared
+[10/04/2024 19:58]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/04/2024 19:58]  System: You play successfully, pacifying your target. (44s)
+[10/04/2024 19:58]  a skeletal guardian: *looks calmed*
+[10/04/2024 19:58]  Razor: *pacified 44s* a skeletal guardian
+[10/04/2024 19:58]  a skeletal guardian: -127
+[10/04/2024 19:58]  Razor: [+Start auto-heal]
+[10/04/2024 19:58]  a skeletal guardian: -69
+[10/04/2024 19:58]  a skeletal guardian: -98
+[10/04/2024 19:58]  System: Rudey Toodie has completed the achievement: Artificers Enclave Patrician.
+[10/04/2024 19:58]  a skeletal guardian: -151
+[10/04/2024 19:58]  System: Your shot hinders your target!
+[10/04/2024 19:58]  a skeletal guardian: -118
+[10/04/2024 19:58]  Razor: [*** Hinder Target ***]
+[10/04/2024 19:58]  a skeletal guardian: -78
+[10/04/2024 19:58]  System: EVH has completed the achievement: Mugger (Basic).
+[10/04/2024 19:58]  a skeletal guardian: -91
+[10/04/2024 19:58]  a skeletal guardian: -64
+[10/04/2024 19:58]  Lief Leah: Monster Hunter Initiate
+[10/04/2024 19:58]  Lief Leah: Lief Leah
+[10/04/2024 19:58]  a skeletal guardian: -112
+[10/04/2024 19:58]  System: Yvonne Jr has completed the achievement: Enhanced (Advanced).
+[10/04/2024 19:58]  Razor: [+Start DiscordNearest]
+[10/04/2024 19:58]  [Razor]: New target set.
+[10/04/2024 19:58]  Razor: * Target *
+[10/04/2024 19:58]  [Razor]: Ignore List cleared
+[10/04/2024 19:58]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/04/2024 19:58]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 42s)
+[10/04/2024 19:58]  Razor: *pacified 18s discord 1m 42s* a skeletal guardian
+[10/04/2024 19:58]  Razor: [+Start auto-heal]
+[10/04/2024 19:58]  a skeletal guardian: -136
+[10/04/2024 19:58]  a skeletal guardian: -104
+[10/04/2024 19:58]  System: Guns n Barrel has completed the achievement: Tailor (Epic).
+[10/04/2024 19:58]  Dr Bitty: [The Tavern], [tT]
+[10/04/2024 19:58]  Dr Bitty: Dr Bitty
+[10/04/2024 19:58]  a scarab: a scarab
+[10/04/2024 19:58]  System: Your shot hinders your target!
+[10/04/2024 19:58]  a skeletal guardian: -243
+[10/04/2024 19:58]  Razor: [*** Hinder Target ***]
+[10/04/2024 19:58]  SirPHD: [Dirtbag, DPS]
+[10/04/2024 19:58]  SirPHD: SirPHD
+[10/04/2024 19:58]  Skeletale: (bonded)
+[10/04/2024 19:58]  Skeletale: Skeletale
+[10/04/2024 19:58]  a water drake: (bonded)
+[10/04/2024 19:58]  a water drake: a water drake
+[10/04/2024 19:58]  You see: cooked bacon : 3
+[10/04/2024 19:58]  You see: (meagre)
+[10/04/2024 19:58]  a gravebug: (bonded)
+[10/04/2024 19:58]  a gravebug: a gravebug
+[10/04/2024 19:58]  a colossal strider: (bonded)
+[10/04/2024 19:58]  a colossal strider: a colossal strider
+[10/04/2024 19:58]  Woundup: Woundup
+[10/04/2024 19:58]  a skeletal guardian: -99
+[10/04/2024 19:58]  Ailiin: The food is mildly satisfying (meagre).
+[10/04/2024 19:58]  Razor: [+Food Satisfaction (3600s)]
+[10/04/2024 19:58]  System: You have gained a little fame.
+[10/04/2024 19:58]  System: You have gained a little karma.
+[10/04/2024 19:58]  System: -10
+[10/04/2024 19:58]  You see: a skeleton guardian corpse
+[10/04/2024 19:58]  a skeletal archer: a skeletal archer
+[10/04/2024 19:58]  a drake whelp: (bonded)
+[10/04/2024 19:58]  a drake whelp: a drake whelp
+[10/04/2024 19:58]  Tenk: (bonded)
+[10/04/2024 19:58]  Tenk: Tenk
+[10/04/2024 19:58]  Bromka: (bonded)
+[10/04/2024 19:58]  Bromka: Bromka
+[10/04/2024 19:58]  Dah Moth: Dah Moth
+[10/04/2024 19:58]  [Razor]: Finished 4 queued actions in 1.8 seconds.
+[10/04/2024 19:58]  an ancient mummy: (summoned)
+[10/04/2024 19:58]  an ancient mummy: an ancient mummy
+[10/04/2024 19:59]  an ancient mummy: (summoned)
+[10/04/2024 19:59]  an ancient mummy: an ancient mummy
+[10/04/2024 19:59]  System: Gordon Masher has completed the achievement: Guardian of The Mausoleum (Basic).
+[10/04/2024 19:59]  System: You increase the upgrade's tier.
+[10/04/2024 19:59]  You see: a skeletal archer corpse
+[10/04/2024 20:00]  a skeletal archer: a skeletal archer
+[10/04/2024 20:00]  a skeletal archer: a skeletal archer
+[10/04/2024 20:00]  a fire ant: a fire ant
+[10/04/2024 20:00]  You see: a ghoul corpse
+[10/04/2024 20:00]  Gaiserix: Daemonic Slayer
+[10/04/2024 20:00]  Gaiserix: [Skull Knight, CoS]
+[10/04/2024 20:00]  Gaiserix: Gaiserix
+[10/04/2024 20:00]  a skeletal knight: a skeletal knight
+[10/04/2024 20:00]  a fire ant: a fire ant
+[10/04/2024 20:00]  a skeletal knight: a skeletal knight
+[10/04/2024 20:00]  System: You are now under the protection of the town guards.
+[10/04/2024 20:00]  Razor: [+Hidden/Stealthing (0s)]
+[10/04/2024 20:00]  Razor: Steps: 0
+[10/04/2024 20:00]  Ailiin: Your mount returns.
+[10/04/2024 20:00]  You see: the remains of Baasa
+[10/04/2024 20:00]  a cat: a cat
+[10/04/2024 20:00]  a cat: a cat
+[10/04/2024 20:00]  Rosa: Rosa the miner
+[10/04/2024 20:00]  a cat: a cat
+[10/04/2024 20:00]  Wynona: Wynona the dockmaster
+[10/04/2024 20:00]  Balder: Balder the salvage foreman
+[10/04/2024 20:00]  a fisherman: a fisherman
+[10/04/2024 20:00]  System: The High Knee (THK) guild has reached prestige level 6.
+[10/04/2024 20:00]  Razor: Steps: 0
+[10/04/2024 20:00]  Razor: Steps: 0
+[10/04/2024 20:00]  Razor: Steps: 0
+[10/04/2024 20:00]  Razor: [-Hidden/Stealthing (s)]
+[10/04/2024 20:00]  Shina: Shina the cobbler
+[10/04/2024 20:00]  Rosa: Rosa the miner
+[10/04/2024 20:00]  Davin: Davin the architect
+[10/04/2024 20:00]  Khoury: Khoury the weaponsmith
+[10/04/2024 20:00]  Lari: Lari the armorer
+[10/04/2024 20:00]  Patsy: Patsy the real estate broker
+[10/04/2024 20:00]  Marsha: Marsha the provisioner
+[10/04/2024 20:00]  a cat: a cat
+[10/04/2024 20:00]  Dane: Dane the mapmaker
+[10/04/2024 20:00]  Guy: Guy the blacksmith
+[10/04/2024 20:00]  a cat: a cat
+[10/04/2024 20:00]  a cat: a cat
+[10/04/2024 20:00]  Jafar: Jafar the baker
+[10/04/2024 20:00]  System: You are currently prevented from performing criminal looting actions.
+[10/04/2024 20:00]  Nona: Nona the cook
+[10/04/2024 20:00]  System: You are currently prevented from performing criminal looting actions.
+[10/04/2024 20:00]  System: You are currently prevented from performing criminal looting actions.
+[10/04/2024 20:00]  System: You are currently prevented from performing criminal looting actions.
+[10/04/2024 20:00]  System: You are currently prevented from performing criminal looting actions.
+[10/04/2024 20:00]  Shmeebop Blim: Legendary Captain
+[10/04/2024 20:00]  Shmeebop Blim: [Don't get Blimbop Shmeed, APK]
+[10/04/2024 20:00]  Shmeebop Blim: Shmeebop Blim
+[10/04/2024 20:00]  Brandi: Brandi the banker
+[10/04/2024 20:00]  Tadi: Tadi the barkeep
+[10/04/2024 20:00]  Zara: Zara the cook
+[10/04/2024 20:00]  Dacey: Dacey the waiter
+[10/04/2024 20:00]  a dog: a dog
+[10/04/2024 20:00]  Arbor the tree: Legendary Carpenter
+[10/04/2024 20:00]  Arbor the tree: [Ancient, Oak]
+[10/04/2024 20:00]  Arbor the tree: Lord Arbor the tree
+[10/04/2024 20:00]  Oxala: [Membro, BRA]
+[10/04/2024 20:00]  Oxala: Oxala
+[10/04/2024 20:00]  HenrikLarson: [Druid Veteran, BEAR]
+[10/04/2024 20:00]  HenrikLarson: HenrikLarson
+[10/04/2024 20:00]  a grizzly bear: (summoned)
+[10/04/2024 20:00]  a grizzly bear: a grizzly bear
+[10/04/2024 20:00]  a fire elemental: (summoned)
+[10/04/2024 20:00]  a fire elemental: a fire elemental
+[10/04/2024 20:00]  an earth elemental: (summoned)
+[10/04/2024 20:00]  an earth elemental: an earth elemental
+[10/04/2024 20:00]  Ravi: Ravi the Town Crier
+[10/04/2024 20:00]  Homeless people: Legendary Chef
+[10/04/2024 20:00]  Homeless people: Lord Homeless people
+[10/04/2024 20:00]  Ailiin: Bank Vendor buy
+[10/04/2024 20:00]  Ailiin: Items: 37/125
+[10/04/2024 20:00]  Ailiin: Total Weight: 1,269
+[10/04/2024 20:00]  Ailiin: Room
+[10/04/2024 20:00]  [Razor]: Organize Agent did not find any items to move.
+[10/04/2024 20:00]  [Razor]: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[10/04/2024 20:00]  [Razor]: Warning: Gold amount is now 0!
+[10/04/2024 20:00]  [Razor]: Organize Agent did not find any items to move.
+[10/04/2024 20:00]  System: [DF] A Dungeon Flashpoint for Inferno has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/04/2024 20:00]  [Razor]: Organize Agent did not find any items to move.
+[10/04/2024 20:00]  an earth elemental: (summoned)
+[10/04/2024 20:00]  an earth elemental: an earth elemental
+[10/04/2024 20:00]  Ebrietas: Ebrietas
+[10/04/2024 20:00]  an earth elemental: (summoned)
+[10/04/2024 20:00]  an earth elemental: an earth elemental
+[10/04/2024 20:00]  You see: gold coin : 46083
+[10/04/2024 20:00]  a fire elemental: (summoned)
+[10/04/2024 20:00]  a fire elemental: a fire elemental
+[10/04/2024 20:00]  a grizzly bear: (summoned)
+[10/04/2024 20:00]  a grizzly bear: a grizzly bear
+[10/04/2024 20:00]  a grizzly bear: (summoned)
+[10/04/2024 20:00]  a grizzly bear: a grizzly bear
+[10/04/2024 20:00]  Dacey: Dacey the waiter
+[10/04/2024 20:00]  a dog: a dog
+[10/04/2024 20:00]  an earth elemental: (summoned)
+[10/04/2024 20:00]  an earth elemental: an earth elemental
+[10/04/2024 20:00]  an earth elemental: (summoned)
+[10/04/2024 20:00]  an earth elemental: an earth elemental
+[10/04/2024 20:00]  Callidora: Callidora the tavern keeper
+[10/04/2024 20:00]  an earth elemental: (summoned)
+[10/04/2024 20:00]  an earth elemental: an earth elemental
+[10/04/2024 20:00]  Donnelly: Donnelly the scribe
+[10/04/2024 20:00]  an earth elemental: (summoned)
+[10/04/2024 20:00]  an earth elemental: an earth elemental
+[10/04/2024 20:00]  Asta: Asta the mage
+[10/04/2024 20:00]  Thurston: Thurston the waiter
+[10/04/2024 20:00]  a dog: a dog
+[10/04/2024 20:00]  a dog: a dog
+[10/04/2024 20:00]  Denton: Denton the innkeeper
+[10/04/2024 20:00]  Renee: Renee the stablemaster
+[10/04/2024 20:00]  a goat: a goat
+[10/04/2024 20:00]  Keara: Keara the stablemaster
+[10/04/2024 20:00]  a dog: a dog
+[10/04/2024 20:00]  Hanan: Hanan the animal wrangler
+[10/04/2024 20:00]  Ailiin: Bank Vendor buy
+[10/04/2024 20:00]  Ailiin: Room
+[10/04/2024 20:00]  System: You have left the protection of the town guards.
+[10/04/2024 20:00]  System: You enter the rental room.
+[10/04/2024 20:00]  System: WorldMap loaded!
+[10/04/2024 20:00]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/04/2024 20:01]  [Razor]: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[10/04/2024 20:01]  [Razor]: Warning: Sulfurous Ash amount is now 0!
+[10/04/2024 20:01]  [Razor]: Organize Agent did not find any items to move.
+[10/04/2024 20:01]  [Razor]: Organize Agent did not find any items to move.
+[10/04/2024 20:01]  [Razor]: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[10/04/2024 20:01]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/04/2024 20:01]  System: Deidara has completed the achievement: Scribe (Epic).
+[10/04/2024 20:02]  System: Select an item or mobile to view/inspect
+[10/04/2024 20:03]  Razor: ES PA HOY EH?
+[10/04/2024 20:03]  System: Macea Stonehand has completed the achievement: Daemonic Slayer (Basic).
+[10/04/2024 20:03]  Razor: ES PA HOY EH?
+[10/04/2024 20:03]  Razor: ES PA HOY EH?
+[10/04/2024 20:03]  System: Berf has completed the achievement: Maester (Advanced).
+[10/04/2024 20:03]  System: Aqua Regia has completed the achievement: Captain (Epic).

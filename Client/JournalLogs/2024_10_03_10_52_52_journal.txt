@@ -1,0 +1,993 @@
+[10/03/2024 10:52]  System: WorldMap loading...
+[10/03/2024 10:52]  System: Loading WorldMap markers..
+[10/03/2024 10:52]  System: ..Banks_and_Healers.xml (39)
+[10/03/2024 10:52]  System: ..Dungeons.xml (13)
+[10/03/2024 10:52]  System: ..Dungeon_Gates.xml (392)
+[10/03/2024 10:52]  System: ..Healer_Caravans.xml (42)
+[10/03/2024 10:52]  System: ..Kings_Faire.xml (49)
+[10/03/2024 10:52]  System: ..Moongates.xml (10)
+[10/03/2024 10:52]  System: ..POI.xml (251)
+[10/03/2024 10:52]  System: ..PvP_Locations.xml (71)
+[10/03/2024 10:52]  System: ..Shrines.xml (9)
+[10/03/2024 10:52]  System: ..Sub-Dungeons.xml (4)
+[10/03/2024 10:52]  System: ..Townships.xml (10)
+[10/03/2024 10:52]  System: ..UOAM_Atlas.xml (1887)
+[10/03/2024 10:52]  System: ..UOAM_T-Map.xml (255)
+[10/03/2024 10:52]  System: ..UOAM_Treasure.xml (523)
+[10/03/2024 10:52]  System: WorldMap markers loaded (3555)
+[10/03/2024 10:52]  System: Welcome Poisoner!
+[10/03/2024 10:52]  System: WorldMap loaded!
+[10/03/2024 10:52]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/03/2024 10:54]  You see: wooden chest
+[10/03/2024 10:54]  You see: [secure]
+[10/03/2024 10:54]  You see: (89 items, 381 stones)
+[10/03/2024 10:54]  System: That container cannot hold more weight.
+[10/03/2024 10:55]  System: That container cannot hold more weight.
+[10/03/2024 10:55]  System: Dunhill Blues has completed the achievement: Transmutation (Advanced).
+[10/03/2024 10:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/03/2024 10:55]  You see: gold coin : 64
+[10/03/2024 10:55]  You see: war fork
+[10/03/2024 10:55]  You see: (16 regular poison charges)
+[10/03/2024 10:55]  You see: cheese : 10
+[10/03/2024 10:55]  You see: (measly)
+[10/03/2024 10:55]  You see: [coated with lesser poison]
+[10/03/2024 10:55]  : The item will be deleted in three minutes.
+[10/03/2024 10:55]  You see: mortar and pestle
+[10/03/2024 10:55]  You see: (88 uses remaining)
+[10/03/2024 10:55]  [Razor]: Warning: Garlic amount is now 0!
+[10/03/2024 10:56]  You see: ginseng : 1136
+[10/03/2024 10:56]  [Razor]: Warning: Ginseng amount is now 0!
+[10/03/2024 10:56]  [Razor]: Warning: Mandrake Root amount is now 0!
+[10/03/2024 10:56]  : Emptying trash barrel!
+[10/03/2024 10:56]  [Razor]: Warning: Nightshade amount is now 0!
+[10/03/2024 10:56]  [Razor]: Warning: Sulfurous Ash amount is now 0!
+[10/03/2024 10:56]  [Razor]: Warning: Mandrake Root amount is now 0!
+[10/03/2024 10:56]  You see: mandrake root : 455
+[10/03/2024 10:56]  [Razor]: Warning: Mandrake Root amount is now 0!
+[10/03/2024 10:57]  System: Item added to queue.
+[10/03/2024 10:57]  System: Item added to queue.
+[10/03/2024 10:57]  System: Crafting queue begun.
+[10/03/2024 10:58]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 10:58]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 10:58]  System: Greater Cure Potion: You don't have the resources required to make that item.
+[10/03/2024 10:58]  System: Greater Cure Potion: You don't have the resources required to make that item.
+[10/03/2024 10:58]  System: Greater Strength Potion: You don't have the resources required to make that item.
+[10/03/2024 10:58]  System: Greater Strength Potion: You don't have the resources required to make that item.
+[10/03/2024 10:58]  System: Crafting queue complete.
+[10/03/2024 10:58]  [Razor]: Warning: Spider's Silk amount is now 0!
+[10/03/2024 10:58]  [Razor]: Warning: Mandrake Root amount is now 0!
+[10/03/2024 10:58]  [Razor]: Warning: Garlic amount is now 0!
+[10/03/2024 10:58]  [Razor]: Warning: Ginseng amount is now 0!
+[10/03/2024 10:58]  System: Crafting queue begun.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:58]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:58]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (1 total crafted): You pour the potion into a bottle.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (2 total crafted): You pour the potion into a bottle.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (2 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (2 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (2 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (2 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (3 total crafted): You pour the potion into a bottle.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (4 total crafted): You pour the potion into a bottle.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (5 total crafted): You pour the potion into a bottle.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (6 total crafted): You pour the potion into a bottle.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (7 total crafted): You pour the potion into a bottle.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 10:59]  System: Alchemy skillgain: 2.500%
+[10/03/2024 10:59]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Greater Heal Potion: You must wait to perform another action.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.0.
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:00]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:00]  System: Greater Heal Potion (8 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (9 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (9 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (9 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (9 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (10 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (11 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (12 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: You have worn out your tool!
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (13 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (14 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:01]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:01]  System: Greater Heal Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (15 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (16 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (17 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (17 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (17 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (17 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (17 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.1.
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:02]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:02]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (19 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.2.
+[10/03/2024 11:03]  System: Greater Heal Potion (19 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (19 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.3.
+[10/03/2024 11:03]  System: Greater Heal Potion (19 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (20 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.4.
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:03]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.5.
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.6.
+[10/03/2024 11:04]  System: Greater Heal Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:04]  System: You have worn out your tool!
+[10/03/2024 11:04]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Heal Potion (22 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  [Razor]: Warning: Ginseng amount is now 2!
+[10/03/2024 11:05]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 11:05]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (1 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (2 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (3 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:05]  System: The world will save in 15 seconds.
+[10/03/2024 11:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:05]  System: Greater Cure Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: The world is saving, please wait.
+[10/03/2024 11:06]  System: World save complete. The entire process took 2.5 seconds.
+[10/03/2024 11:06]  System: Greater Cure Potion: You must wait to perform another action.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:06]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:06]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (5 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (7 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (8 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:07]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:07]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.7.
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: You have worn out your tool!
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (9 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (9 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (9 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (9 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (9 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (10 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:08]  System: Greater Cure Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (11 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (12 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (13 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (14 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.8.
+[10/03/2024 11:09]  System: Greater Cure Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (15 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (16 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:09]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (16 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (17 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (17 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (17 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (18 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (19 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (20 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (21 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Cure Potion (21 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Greater Cure Potion: You don't have the resources required to make that item.
+[10/03/2024 11:10]  System: Greater Cure Potion: You don't have the resources required to make that item.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Strength Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Strength Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Strength Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:10]  System: Greater Strength Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (0 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (1 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (1 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (2 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (3 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (3 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (4 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (4 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (5 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (6 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: You have worn out your tool!
+[10/03/2024 11:11]  System: Greater Strength Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (6 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (7 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.9.
+[10/03/2024 11:11]  System: Greater Strength Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:11]  System: Greater Strength Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (7 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (8 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Watatsumi has completed the achievement: Monstrous Slayer (Advanced).
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (8 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (9 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (9 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (9 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (10 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (10 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (11 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Archi has completed the achievement: Mini-Boss Slayer (Basic).
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (11 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (12 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (12 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (12 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (12 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.0.
+[10/03/2024 11:12]  System: Greater Strength Potion (12 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (12 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (12 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (12 total crafted): You fail to create a useful potion.
+[10/03/2024 11:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:12]  System: Greater Strength Potion (13 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (14 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (14 total crafted): You fail to create a useful potion.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (15 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:13]  System: Keibra has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (15 total crafted): You fail to create a useful potion.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (15 total crafted): You fail to create a useful potion.
+[10/03/2024 11:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 11:13]  System: Greater Strength Potion (16 total crafted): You pour the potion into a bottle.
+[10/03/2024 11:13]  System: Greater Strength Potion: You don't have the resources required to make that item.
+[10/03/2024 11:13]  System: Greater Strength Potion: You don't have the resources required to make that item.
+[10/03/2024 11:13]  System: Crafting queue complete.
+[10/03/2024 11:15]  System: Uramir has completed the achievement: Enchanter (Basic).
+[10/03/2024 11:16]  System: The Entropy has completed the achievement: Enchanter (Basic).
+[10/03/2024 11:18]  System: Vesar the mage has completed the achievement: Guardian of Time (Basic).
+[10/03/2024 11:20]  System: The world will save in 15 seconds.
+[10/03/2024 11:20]  System: The world is saving, please wait.
+[10/03/2024 11:21]  System: World save complete. The entire process took 2.5 seconds.
+[10/03/2024 11:21]  System: Laokoon has completed the achievement: Elemental Slayer (Advanced).
+[10/03/2024 11:23]  System: Q u i n t i s has completed the achievement: Wilderness Hunter (Advanced).
+[10/03/2024 11:26]  System: Unity (UT) guild has reached prestige level 47.
+[10/03/2024 11:27]  System: peanutt has completed the achievement: Tailor (Advanced).
+[10/03/2024 11:28]  System: Syndra De'Arnise has completed the achievement: Humanoid Slayer (Epic).
+[10/03/2024 11:35]  System: The world will save in 15 seconds.
+[10/03/2024 11:35]  System: The world is saving, please wait.
+[10/03/2024 11:35]  System: World save complete. The entire process took 2.8 seconds.
+[10/03/2024 11:36]  System: FirstSteave has completed the achievement: Artificers Enclave Initiate.
+[10/03/2024 11:43]  System: TameryYa has completed the achievement: Domestication (Advanced).
+[10/03/2024 11:44]  System: Whispers of Akarra (WOA) guild has reached prestige level 26.
+[10/03/2024 11:45]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/03/2024 11:46]  System: a little baby has completed the achievement: Tinker (Basic).
+[10/03/2024 11:47]  System: UNIQLO U has completed the achievement: Tailor (Basic).
+[10/03/2024 11:50]  System: The world will save in 15 seconds.
+[10/03/2024 11:50]  System: The world is saving, please wait.
+[10/03/2024 11:50]  System: World save complete. The entire process took 2.4 seconds.
+[10/03/2024 11:55]  You see: Greater Cure potion : 21
+[10/03/2024 11:55]  System: You place the empty bottle in your backpack.
+[10/03/2024 11:55]  System: The keg will not hold any more!
+[10/03/2024 11:55]  You see: Greater Heal potion : 22
+[10/03/2024 11:55]  System: You place the empty bottle in your backpack.
+[10/03/2024 11:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/03/2024 11:57]  You see: a spellstone
+[10/03/2024 11:57]  You see: (745 charges)
+[10/03/2024 11:57]  You see: [bound to Poisoner]
+[10/03/2024 11:57]  You see: spider's silk : 899

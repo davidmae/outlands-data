@@ -6,4 +6,10 @@
 #endif
 #loop
 
-walk "North"
+if findtype 2546 backpack -1 11 -1 as ribs
+    lift ribs 11
+    wait 200
+    drop 0x588675CF
+endif
+wait 1000
+loop

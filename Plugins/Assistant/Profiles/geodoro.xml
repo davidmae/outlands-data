@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">825</property>
-	<property name="WindowY" type="System.Int32">612</property>
+	<property name="WindowX" type="System.Int32">1017</property>
+	<property name="WindowY" type="System.Int32">0</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">1230</property>
-	<property name="RazorHeight" type="System.Int32">517</property>
+	<property name="RazorWidth" type="System.Int32">199</property>
+	<property name="RazorHeight" type="System.Int32">34</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -151,6 +151,7 @@
 		<counter name="Nightshade" enabled="True" image="True" />
 		<counter name="Spider's Silk" enabled="True" image="True" />
 		<counter name="Sulfurous Ash" enabled="True" image="True" />
+		<counter name="ribs" enabled="True" image="True" />
 	</counters>
 	<agents>
 		<Buy-1 enabled="False" />
@@ -164,7 +165,9 @@
 		<Buy-9 enabled="False" />
 		<Buy-10 enabled="False" />
 		<IgnoreList enabled="False" />
-		<Organizer-1 hotbag="0" />
+		<Organizer-1 hotbag="1270825796">
+			<item id="2546" />
+		</Organizer-1>
 		<Organizer-2 hotbag="0" />
 		<Organizer-3 hotbag="0" />
 		<Organizer-4 hotbag="0" />
@@ -184,7 +187,9 @@
 		<Organizer-18 hotbag="0" />
 		<Organizer-19 hotbag="0" />
 		<Organizer-20 hotbag="0" />
-		<Restock-1 hotbag="0" />
+		<Restock-1 hotbag="1182295987">
+			<item id="2546" amount="500" />
+		</Restock-1>
 		<Restock-2 hotbag="0" />
 		<Restock-3 hotbag="0" />
 		<Restock-4 hotbag="0" />
@@ -207,7 +212,7 @@
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x49157B68" name="myVariable" />
+		<scriptvariable serial="0x5B7A8B25" name="myVariable" />
 		<scriptvariable serial="0x56F61D10" name="my_loot_to_id_bag" />
 	</scriptvariables>
 	<friends />

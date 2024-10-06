@@ -11,10 +11,10 @@
 	<property name="ObjectDelayEnabled" type="System.Boolean">True</property>
 	<property name="AlwaysOnTop" type="System.Boolean">False</property>
 	<property name="SortCounters" type="System.Boolean">True</property>
-	<property name="QueueActions" type="System.Boolean">False</property>
+	<property name="QueueActions" type="System.Boolean">True</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">-768</property>
-	<property name="WindowY" type="System.Int32">736</property>
+	<property name="WindowX" type="System.Int32">2640</property>
+	<property name="WindowY" type="System.Int32">923</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">818</property>
-	<property name="RazorHeight" type="System.Int32">726</property>
+	<property name="RazorWidth" type="System.Int32">199</property>
+	<property name="RazorHeight" type="System.Int32">34</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -165,9 +165,44 @@
 		<Buy-9 enabled="False" />
 		<Buy-10 enabled="False" />
 		<IgnoreList enabled="False" />
-		<Organizer-1 hotbag="0" />
-		<Organizer-2 hotbag="0" />
-		<Organizer-3 hotbag="0" />
+		<Organizer-1 hotbag="1094065123">
+			<item id="3821" />
+			<item id="3862" />
+			<item id="3873" />
+			<item id="3877" />
+			<item id="3859" />
+			<item id="3885" />
+			<item id="3856" />
+			<item id="3865" />
+			<item id="3878" />
+			<item id="3861" />
+		</Organizer-1>
+		<Organizer-2 hotbag="1257982994">
+			<item id="3972" />
+			<item id="3980" />
+			<item id="3963" />
+			<item id="3976" />
+			<item id="3962" />
+			<item id="3981" />
+			<item id="3973" />
+			<item id="3974" />
+		</Organizer-2>
+		<Organizer-3 hotbag="1121942032">
+			<item id="4225" />
+			<item id="7127" />
+			<item id="7154" />
+			<item id="3827" />
+			<item id="3903" />
+			<item id="7163" />
+			<item id="3617" />
+			<item id="7121" />
+			<item id="52149" />
+			<item id="2545" />
+			<item id="2422" />
+			<item id="2515" />
+			<item id="5154" />
+			<item id="5639" />
+		</Organizer-3>
 		<Organizer-4 hotbag="0" />
 		<Organizer-5 hotbag="0" />
 		<Organizer-6 hotbag="0" />

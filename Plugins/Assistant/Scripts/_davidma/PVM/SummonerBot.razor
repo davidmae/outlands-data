@@ -1,0 +1,27 @@
+@setvar all_kill_timer 3000
+createtimer all_kill
+
+while not dead 
+    
+    if timer all_kill > all_kill_timer
+        say 'All kill' 321
+        hotkey 'target closest non-friendly monster'
+        wait 500
+        target lasttarget 
+        
+        settimer all_kill 0
+        
+        if dead lasttarget
+            say 'All Follow' 321
+        endif
+    endif
+    
+    wait 500
+    
+    if findtype 8198 ground -1 -1 1
+        skill 'forensicevaluation'
+        wait 250
+        target self
+    endif
+ 
+endwhile

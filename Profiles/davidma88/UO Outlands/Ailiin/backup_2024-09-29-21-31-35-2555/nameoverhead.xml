@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<nameoverhead>
-	<nameoverheadoption name="All" key="0" mousebutton="0" alt="False" ctrl="False" shift="False" optionflagscode="2147483647" />
-	<nameoverheadoption name="Mobiles only" key="0" mousebutton="0" alt="False" ctrl="False" shift="False" optionflagscode="917376" />
-	<nameoverheadoption name="Items only" key="32" mousebutton="0" alt="False" ctrl="True" shift="False" optionflagscode="131087" />
-	<nameoverheadoption name="Mobiles &amp; Corpses only" key="0" mousebutton="0" alt="False" ctrl="False" shift="False" optionflagscode="917488" />
-	<nameoverheadoption name="PvM Default" key="32" mousebutton="0" alt="False" ctrl="False" shift="True" optionflagscode="586160" />
-	<nameoverheadoption name="PvP Default" key="0" mousebutton="0" alt="False" ctrl="False" shift="False" optionflagscode="588800" />
-</nameoverhead>

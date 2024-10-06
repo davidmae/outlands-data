@@ -1,0 +1,923 @@
+[10/03/2024 12:00]  System: WorldMap loading...
+[10/03/2024 12:00]  System: Loading WorldMap markers..
+[10/03/2024 12:00]  System: ..Banks_and_Healers.xml (39)
+[10/03/2024 12:00]  System: ..Dungeons.xml (13)
+[10/03/2024 12:00]  System: ..Dungeon_Gates.xml (392)
+[10/03/2024 12:00]  System: ..Healer_Caravans.xml (42)
+[10/03/2024 12:00]  System: ..Kings_Faire.xml (49)
+[10/03/2024 12:00]  System: ..Moongates.xml (10)
+[10/03/2024 12:00]  System: ..POI.xml (251)
+[10/03/2024 12:00]  System: ..PvP_Locations.xml (71)
+[10/03/2024 12:00]  System: ..Shrines.xml (9)
+[10/03/2024 12:00]  System: ..Sub-Dungeons.xml (4)
+[10/03/2024 12:00]  System: ..Townships.xml (10)
+[10/03/2024 12:00]  System: ..UOAM_Atlas.xml (1887)
+[10/03/2024 12:00]  System: ..UOAM_T-Map.xml (255)
+[10/03/2024 12:00]  System: ..UOAM_Treasure.xml (523)
+[10/03/2024 12:00]  System: WorldMap markers loaded (3555)
+[10/03/2024 12:00]  System: Welcome Poisoner!
+[10/03/2024 12:00]  System: WorldMap loaded!
+[10/03/2024 12:00]  Poisoner: Poisoner
+[10/03/2024 12:00]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/03/2024 12:01]  System: Which container do you wish to place the resources into? (target yourself to place them at your feet)
+[10/03/2024 12:01]  System: You place the content of the commodity into the container.
+[10/03/2024 12:01]  You see: garlic : 5
+[10/03/2024 12:01]  You see: ginseng : 2
+[10/03/2024 12:01]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/03/2024 12:01]  System: Target container set: pouch.
+[10/03/2024 12:01]  System: Source container set: pouch.
+[10/03/2024 12:01]  System: Which container do you wish to use as the destination container for this item? Target yourself for your backpack.
+[10/03/2024 12:02]  System: Target container set: .
+[10/03/2024 12:02]  System: Destination container set: .
+[10/03/2024 12:02]  System: Crafting queue begun.
+[10/03/2024 12:02]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Cure Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Cure Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Strength Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Strength Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Crafting queue complete.
+[10/03/2024 12:02]  System: Crafting queue begun.
+[10/03/2024 12:02]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Cure Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Cure Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Strength Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Greater Strength Potion: You don't have the resources required to make that item.
+[10/03/2024 12:02]  System: Crafting queue complete.
+[10/03/2024 12:02]  You see: bottle : 296
+[10/03/2024 12:03]  System: Crafting queue begun.
+[10/03/2024 12:03]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:03]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:03]  System: Greater Cure Potion: Skipped
+[10/03/2024 12:03]  System: Greater Strength Potion: Skipped
+[10/03/2024 12:03]  System: Crafting queue complete.
+[10/03/2024 12:03]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:03]  System: Crafting queue begun.
+[10/03/2024 12:03]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:03]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:03]  System: Crafting queue complete.
+[10/03/2024 12:03]  System: Item added to queue.
+[10/03/2024 12:03]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/03/2024 12:04]  System: Target container set: .
+[10/03/2024 12:04]  System: Source container set: .
+[10/03/2024 12:04]  [Razor]: Warning: Ginseng amount is now 0!
+[10/03/2024 12:04]  System: Which container do you wish to use as the destination container for this item? Target yourself for your backpack.
+[10/03/2024 12:04]  System: Target container set: .
+[10/03/2024 12:04]  System: Destination container set: .
+[10/03/2024 12:04]  System: Crafting queue begun.
+[10/03/2024 12:04]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:04]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:04]  System: Crafting queue complete.
+[10/03/2024 12:04]  System: Crafting queue begun.
+[10/03/2024 12:04]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:04]  System: Greater Heal Potion: You don't have the resources required to make that item.
+[10/03/2024 12:04]  System: Crafting queue complete.
+[10/03/2024 12:04]  System: Crafting queue begun.
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  You see: bottle : 296
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  You see: bottle : 296
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  You see: bottle : 296
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  You see: ginseng : 4950
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:04]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:04]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: The world will save in 15 seconds.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (0/1 made): You fail to create a useful potion.
+[10/03/2024 12:05]  System: Alchemy skillgain: 2.500%
+[10/03/2024 12:05]  System: Greater Heal Potion (1/1 made): You pour the potion into a bottle.
+[10/03/2024 12:05]  System: The world is saving, please wait.
+[10/03/2024 12:05]  System: World save complete. The entire process took 2.6 seconds.
+[10/03/2024 12:05]  System: Greater Heal Potion: 1 crafted complete.
+[10/03/2024 12:05]  System: Crafting queue complete.
+[10/03/2024 12:05]  System: Hammer Threads has completed the achievement: Tailor (Advanced).
+[10/03/2024 12:06]  System: TameryYa has completed the achievement: Monstrous Slayer (Basic).
+[10/03/2024 12:08]  System: Sew Me Too has completed the achievement: Tailor (Epic).
+[10/03/2024 12:10]  System: La MaNdriana has completed the achievement: Landowner (Basic).
+[10/03/2024 12:12]  System: A house ownership lottery has begun for a Light Brick And Whitewash Lookout at (4143, 2734, 0).
+[10/03/2024 12:12]  System: Grumpi Ato has completed the achievement: Cartographer (Advanced).
+[10/03/2024 12:18]  System: Sosach has completed the achievement: Scribe (Basic).
+[10/03/2024 12:18]  System: Avanier has completed the achievement: Colorful (Epic).
+[10/03/2024 12:18]  System: Julius Black has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/03/2024 12:19]  System: The world will save in 15 seconds.
+[10/03/2024 12:20]  System: The world is saving, please wait.
+[10/03/2024 12:20]  System: World save complete. The entire process took 2.5 seconds.
+[10/03/2024 12:28]  System: Getorix has completed the achievement: Affluent (Epic).
+[10/03/2024 12:29]  System: Kiah has completed the achievement: Scientist (Basic).
+[10/03/2024 12:30]  System: YangNyum GeJang has completed the achievement: Hardened Veteran.
+[10/03/2024 12:34]  System: The world will save in 15 seconds.
+[10/03/2024 12:34]  System: The world is saving, please wait.
+[10/03/2024 12:34]  System: World save complete. The entire process took 2.6 seconds.
+[10/03/2024 12:36]  System: Many Hades has completed the achievement: Explorer (Epic).
+[10/03/2024 12:42]  System: HarleyQuinn has completed the achievement: Boss Slayer (Epic).
+[10/03/2024 12:43]  System: Overstitch has completed the achievement: Tailor (Basic).
+[10/03/2024 12:44]  System: Sekhzerul has completed the achievement: Monstrous Slayer (Advanced).
+[10/03/2024 12:45]  System: [TS] A Town Struggle (mountless) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[10/03/2024 12:45]  System: Felicitas has completed the achievement: Beastial Slayer (Basic).
+[10/03/2024 12:48]  System: Cimrman has completed the achievement: Leatherworker (Advanced).
+[10/03/2024 12:49]  System: The world will save in 15 seconds.
+[10/03/2024 12:49]  System: The world is saving, please wait.
+[10/03/2024 12:49]  System: World save complete. The entire process took 2.4 seconds.
+[10/03/2024 12:52]  System: Rykius has completed the achievement: Artificers Enclave Patrician.
+[10/03/2024 12:53]  System: MIJAOBBA has completed the achievement: Monstrous Slayer (Advanced).
+[10/03/2024 12:57]  System: Stylebane has completed the achievement: Transmutation (Epic).
+[10/03/2024 13:04]  System: The world will save in 15 seconds.
+[10/03/2024 13:04]  System: The world is saving, please wait.
+[10/03/2024 13:04]  System: World save complete. The entire process took 2.5 seconds.
+[10/03/2024 13:05]  System: IamNPC has completed the achievement: Alchemist (Advanced).
+[10/03/2024 13:06]  System: Beatrice Seven has completed the achievement: Skill Proficiency (Advanced).
+[10/03/2024 13:07]  System: Avarana has completed the achievement: Guardian of Time (Intermediate).
+[10/03/2024 13:07]  System: Kizoon Magus has completed the achievement: Construct Slayer (Basic).
+[10/03/2024 13:07]  You see: Greater Heal potion
+[10/03/2024 13:07]  You see: ginseng : 4854
+[10/03/2024 13:08]  System: Crafting queue begun.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.0/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.0/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.0/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.0/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.0/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.0/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.0/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.0/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.1.
+[10/03/2024 13:08]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:08]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:08]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: You have worn out your tool!
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:09]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:09]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:10]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:10]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:11]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:11]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: You have worn out your tool!
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:12]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:12]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.1/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.2.
+[10/03/2024 13:13]  System: Greater Heal Potion (69.2/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.2/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.2/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.3.
+[10/03/2024 13:13]  System: Greater Heal Potion (69.3/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.3/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.3/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.3/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.3/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.3/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.3/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.3/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.4.
+[10/03/2024 13:13]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:13]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:13]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.4/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.5.
+[10/03/2024 13:14]  System: Greater Heal Potion (69.5/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.5/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.5/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.5/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.5/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.5/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.5/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.6.
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:14]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:14]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.6/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.7.
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Sweat Shop Kidz has completed the achievement: Engineer (Basic).
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: You have worn out your tool!
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:15]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:15]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:16]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:16]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.7/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.8.
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:17]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:17]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: MasterYi has completed the achievement: Artificer (Basic).
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.8/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.9.
+[10/03/2024 13:18]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:18]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:18]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: The world will save in 15 seconds.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Laokoon has completed the achievement: Guardian of Time (Intermediate).
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: You have worn out your tool!
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:19]  System: The world is saving, please wait.
+[10/03/2024 13:19]  System: World save complete. The entire process took 2.6 seconds.
+[10/03/2024 13:19]  System: Greater Heal Potion: You must wait to perform another action.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:19]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:19]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: The Shrine of Sacrifice has fallen to corruption!
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You pour the potion into a bottle.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.
+[10/03/2024 13:20]  System: Alchemy skillgain: 2.500%
+[10/03/2024 13:20]  System: Greater Heal Potion (69.9/90.0 skill): You fail to create a useful potion.

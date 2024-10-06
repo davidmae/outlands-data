@@ -1,0 +1,2813 @@
+[10/04/2024 22:21]  System: WorldMap loading...
+[10/04/2024 22:21]  System: Loading WorldMap markers..
+[10/04/2024 22:21]  System: ..Banks_and_Healers.xml (39)
+[10/04/2024 22:21]  System: ..Dungeons.xml (13)
+[10/04/2024 22:21]  System: ..Dungeon_Gates.xml (392)
+[10/04/2024 22:21]  System: ..Healer_Caravans.xml (42)
+[10/04/2024 22:21]  System: ..Kings_Faire.xml (49)
+[10/04/2024 22:21]  System: ..Moongates.xml (10)
+[10/04/2024 22:21]  System: ..POI.xml (251)
+[10/04/2024 22:21]  System: ..PvP_Locations.xml (71)
+[10/04/2024 22:21]  System: ..Shrines.xml (9)
+[10/04/2024 22:21]  System: ..Sub-Dungeons.xml (4)
+[10/04/2024 22:21]  System: ..Townships.xml (10)
+[10/04/2024 22:21]  System: ..UOAM_Atlas.xml (1887)
+[10/04/2024 22:21]  System: ..UOAM_T-Map.xml (255)
+[10/04/2024 22:21]  System: ..UOAM_Treasure.xml (523)
+[10/04/2024 22:21]  System: WorldMap markers loaded (3555)
+[10/04/2024 22:21]  System: WorldMap loaded!
+[10/04/2024 22:21]  System: Welcome Geodoro!
+[10/04/2024 22:21]  Geodoro: Geodoro
+[10/04/2024 22:21]  Ailiin: [Ripe, SQzD]
+[10/04/2024 22:21]  Ailiin: Ailiin
+[10/04/2024 22:21]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/04/2024 22:21]  System: skilled laborers has completed the achievement: Chef (Advanced).
+[10/04/2024 22:21]  System: Lochranza has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/04/2024 22:21]  System: Tommy Hilfiger' has completed the achievement: Trapper (Advanced).
+[10/04/2024 22:21]  System: Rugged Reginald has completed the achievement: Scribe (Basic).
+[10/04/2024 22:21]  System: The world will save in 15 seconds.
+[10/04/2024 22:22]  System: Liartest has completed the achievement: Guardian of Shadowspire (Basic).
+[10/04/2024 22:22]  System: The world is saving, please wait.
+[10/04/2024 22:22]  System: World save complete. The entire process took 2.5 seconds.
+[10/04/2024 22:23]  System: Gentle Lover has completed the achievement: Raffler (Basic).
+[10/04/2024 22:23]  You see: leather : 13
+[10/04/2024 22:23]  System: Corydoras has completed the achievement: Aspect Mastery (Basic).
+[10/04/2024 22:24]  System: Sanya has completed the achievement: Order of Armorers Dignitary.
+[10/04/2024 22:24]  You see: copperhide : 44
+[10/04/2024 22:24]  You see: dullhide : 7
+[10/04/2024 22:24]  System: Phil Heath has completed the achievement: Animal Bond (Epic).
+[10/04/2024 22:25]  System: Item added to queue.
+[10/04/2024 22:25]  System: Veio da Lancha has completed the achievement: Skill Mastery (Advanced).
+[10/04/2024 22:25]  System: Veio da Lancha has completed the achievement: Cartographer (Epic).
+[10/04/2024 22:25]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:25]  You see: bronzehide bone chest
+[10/04/2024 22:25]  System: Pickle Biter has completed the achievement: Scribe (Basic).
+[10/04/2024 22:25]  You see: guarding bone chest
+[10/04/2024 22:25]  : stone wall
+[10/04/2024 22:25]  [Razor]: Ignore List cleared
+[10/04/2024 22:25]  [Razor]: Added 31191 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5056 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5059 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5060 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5061 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: leather gorget
+[10/04/2024 22:25]  [Razor]: Added 5063 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5070 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5074 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5075 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5076 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5078 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5085 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5089 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5090 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5101 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5103 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5105 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5106 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5129 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5131 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5132 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5135 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5138 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5139 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5142 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5143 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5144 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5146 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5201 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5203 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  System: What do you wish to appraise and identify?
+[10/04/2024 22:25]  System: You identify the magical item.
+[10/04/2024 22:25]  You see: guarding bone chest
+[10/04/2024 22:25]  Geodoro: You are uncertain about the worth of the magical item.
+[10/04/2024 22:25]  [Razor]: unidentified bone chest
+[10/04/2024 22:25]  [Razor]: Added 5204 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5205 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5207 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7169 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7170 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7173 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7175 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7177 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7179 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7181 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7610 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7947 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31003 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31004 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31005 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31006 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31007 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31008 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31009 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31010 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31011 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31012 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31015 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: surpassingly potent magic spellbook
+[10/04/2024 22:25]  [Razor]: Added 3834 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 6238 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 8786 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 8787 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 8901 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11881 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11882 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11883 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11884 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11885 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11886 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11887 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11888 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11889 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11890 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11891 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11893 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11895 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 29103 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 29104 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 29105 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 41471 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 42516 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 45340 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 45823 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3568 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3570 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3571 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3572 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3573 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3713 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3719 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3721 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3740 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3742 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3762 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3763 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: surpassingly potent magic spellbook
+[10/04/2024 22:25]  [Razor]: Added 3834 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3909 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3911 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3913 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3915 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3917 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3920 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3922 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: accurate mace
+[10/04/2024 22:25]  [Razor]: Added 3932 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3934 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3937 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3938 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5040 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5042 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5044 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5046 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5049 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: accurate gnarled staff
+[10/04/2024 22:25]  [Razor]: Added 5112 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5115 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5117 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5119 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: surpassingly accurate kryss
+[10/04/2024 22:25]  [Razor]: Added 5121 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5123 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5125 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5127 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5177 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5179 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5181 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5182 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5185 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5187 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7026 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7027 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7029 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7031 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7033 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7034 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7035 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7107 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7109 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 10245 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20006 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20008 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20010 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20012 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20014 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20016 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 22187 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30988 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: surpassingly accurate epee
+[10/04/2024 22:25]  [Razor]: Added 30989 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30990 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30991 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30992 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30993 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30994 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30995 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30996 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30997 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30998 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  You see: ringmail chest
+[10/04/2024 22:25]  [Razor]: durable force flail
+[10/04/2024 22:25]  [Razor]: Added 30999 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31000 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31001 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31002 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: accurate cudgel
+[10/04/2024 22:25]  [Razor]: Added 31014 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31017 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31019 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31021 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31023 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31025 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31027 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31029 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31031 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31033 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31035 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31037 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31038 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31041 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31043 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31045 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31047 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31049 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31051 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31053 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31055 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31128 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31130 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31141 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31142 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31176 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31178 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31180 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31182 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31184 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31186 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31188 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31190 to ignore list
+[10/04/2024 22:25]  [Razor]: Ignore List cleared
+[10/04/2024 22:25]  [Razor]: Added 31191 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5056 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5059 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5060 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5061 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: Added 5063 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5070 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5074 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5075 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5076 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5078 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5085 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5089 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5090 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5101 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5103 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5105 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5106 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5129 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5131 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5132 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5135 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5138 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5139 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5142 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5143 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5144 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5146 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5201 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5203 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: drop - Not holding anything
+[10/04/2024 22:25]  [Razor]: Added 5204 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5205 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5207 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7169 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7170 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7173 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7175 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7177 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7179 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7181 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7610 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7947 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31003 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31004 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31005 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31006 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31007 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31008 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31009 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31010 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31011 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31012 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31015 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: Added 3834 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 6238 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 8786 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 8787 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 8901 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11881 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11882 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11883 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11884 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11885 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11886 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11887 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11888 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11889 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11890 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11891 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11893 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 11895 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 29103 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 29104 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 29105 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 41471 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 42516 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 45340 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 45823 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3568 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3570 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3571 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3572 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3573 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3713 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3719 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3721 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3740 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3742 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3762 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3763 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: Added 3834 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3909 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3911 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3913 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3915 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3917 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3920 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3922 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: Added 3932 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3934 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3937 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 3938 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5040 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5042 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5044 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5046 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5049 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: Added 5112 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5115 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5117 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5119 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: Added 5121 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5123 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5125 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5127 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5177 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5179 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5181 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5182 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5185 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 5187 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7026 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7027 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7029 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7031 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7033 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7034 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7035 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7107 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 7109 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 10245 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20006 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20008 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20010 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20012 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20014 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 20016 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 22187 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30988 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: Added 30989 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30990 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30991 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30992 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30993 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30994 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30995 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30996 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30997 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 30998 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: Added 30999 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31000 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31001 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31002 to ignore list
+[10/04/2024 22:25]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:25]  [Razor]: Last Target set.
+[10/04/2024 22:25]  [Razor]: Added 31014 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31017 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31019 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31021 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31023 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31025 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31027 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31029 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31031 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31033 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31035 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31037 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31038 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31041 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31043 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31045 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31047 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31049 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31051 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31053 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31055 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31128 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31130 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31141 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31142 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31176 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31178 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31180 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31182 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31184 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31186 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31188 to ignore list
+[10/04/2024 22:25]  [Razor]: Added 31190 to ignore list
+[10/04/2024 22:25]  [Razor]: Done
+[10/04/2024 22:26]  System: A Branch of Love has completed the achievement: Adventurer Initiate.
+[10/04/2024 22:27]  You see: bronzehide bone chest
+[10/04/2024 22:28]  You see: bronzehide bone chest
+[10/04/2024 22:28]  You see: bronzehide : 43
+[10/04/2024 22:28]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:28]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:28]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:29]  System: LA GGGGGILDA (ITA.) guild has reached prestige level 219.
+[10/04/2024 22:29]  System: Peachi has completed the achievement: Savant (Basic).
+[10/04/2024 22:29]  You see: bronzehide : 5
+[10/04/2024 22:29]  System: Target an individual item to recycle.
+[10/04/2024 22:29]  System: Llama Crafthree has completed the achievement: Order of Armorers Dignitary.
+[10/04/2024 22:30]  You see: exceptional bronzehide bone helm
+[10/04/2024 22:30]  You see: bronzehide bone legs
+[10/04/2024 22:30]  System: Valtiel has completed the achievement: Seasoned Strategist.
+[10/04/2024 22:31]  System: Mad-Bob has completed the achievement: Alchemist (Epic).
+[10/04/2024 22:31]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:31]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:31]  You see: copperhide bone skirt
+[10/04/2024 22:32]  System: Selan has completed the achievement: Monster Hunter Associate.
+[10/04/2024 22:33]  [Razor]: Ignore List cleared
+[10/04/2024 22:33]  [Razor]: Added 31191 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5056 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5059 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5060 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5061 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: leather gorget
+[10/04/2024 22:33]  [Razor]: Added 5063 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5070 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5074 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5075 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5076 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5078 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5085 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5089 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5090 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5101 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5103 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5105 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5106 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5129 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5131 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5132 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5135 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5138 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5139 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5142 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5143 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5144 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5146 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5201 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5203 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: guarding bone chest
+[10/04/2024 22:33]  [Razor]: Added 5204 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5205 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5207 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7169 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7170 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7173 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7175 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7177 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7179 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7181 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7610 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7947 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31003 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31004 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31005 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31006 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31007 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31008 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31009 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31010 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31011 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31012 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31015 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  System: Adepta Sororitas has completed the achievement: Tinker (Advanced).
+[10/04/2024 22:33]  [Razor]: surpassingly potent magic spellbook
+[10/04/2024 22:33]  [Razor]: Added 3834 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 6238 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 8786 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 8787 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 8901 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11881 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11882 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11883 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11884 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11885 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11886 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11887 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11888 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11889 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11890 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11891 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11893 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11895 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 29103 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 29104 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 29105 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 41471 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 42516 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 45340 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 45823 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3568 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3570 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3571 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3572 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3573 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3713 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3719 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3721 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3740 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3742 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3762 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3763 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: surpassingly potent magic spellbook
+[10/04/2024 22:33]  [Razor]: Added 3834 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3909 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3911 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3913 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3915 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3917 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3920 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3922 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: accurate mace
+[10/04/2024 22:33]  [Razor]: Added 3932 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3934 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3937 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3938 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5040 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5042 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5044 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5046 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5049 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: accurate gnarled staff
+[10/04/2024 22:33]  [Razor]: Added 5112 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5115 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5117 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5119 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: surpassingly accurate kryss
+[10/04/2024 22:33]  [Razor]: Added 5121 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5123 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5125 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5127 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5177 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5179 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5181 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5182 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5185 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5187 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7026 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7027 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7029 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7031 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7033 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7034 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7035 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7107 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7109 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 10245 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20006 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20008 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20010 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20012 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20014 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20016 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 22187 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30988 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: surpassingly accurate epee
+[10/04/2024 22:33]  [Razor]: Added 30989 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30990 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30991 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30992 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30993 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30994 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30995 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30996 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30997 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30998 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: durable force flail
+[10/04/2024 22:33]  [Razor]: Added 30999 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31000 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31001 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31002 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: accurate cudgel
+[10/04/2024 22:33]  [Razor]: Added 31014 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31017 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31019 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31021 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31023 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31025 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31027 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31029 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31031 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31033 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31035 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31037 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31038 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31041 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31043 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31045 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31047 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31049 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31051 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31053 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31055 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31128 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31130 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31141 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31142 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31176 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31178 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31180 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31182 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31184 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31186 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31188 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31190 to ignore list
+[10/04/2024 22:33]  [Razor]: Ignore List cleared
+[10/04/2024 22:33]  [Razor]: Added 31191 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5056 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5059 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5060 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5061 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 5063 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5070 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5074 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5075 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5076 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5078 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5085 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5089 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5090 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5101 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5103 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5105 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5106 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5129 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5131 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5132 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5135 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5138 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5139 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5142 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5143 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5144 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5146 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5201 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5203 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 5204 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5205 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5207 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7169 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7170 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7173 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7175 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7177 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7179 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7181 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7610 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7947 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31003 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31004 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31005 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31006 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31007 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31008 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31009 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31010 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31011 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31012 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31015 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 3834 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 6238 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 8786 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 8787 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 8901 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11881 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11882 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11883 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11884 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11885 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11886 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11887 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11888 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11889 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11890 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11891 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11893 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 11895 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 29103 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 29104 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 29105 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 41471 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 42516 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 45340 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 45823 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3568 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3570 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3571 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3572 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3573 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3713 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3719 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3721 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3740 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3742 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3762 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3763 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 3834 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3909 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3911 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3913 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3915 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3917 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3920 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3922 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  System: You are now under the effect of a Song of Peacemaking (4.9% healing amounts for 15 minutes).
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 3932 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3934 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3937 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 3938 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5040 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5042 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5044 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5046 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5049 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 5112 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5115 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5117 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5119 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 5121 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5123 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5125 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5127 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5177 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5179 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5181 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5182 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5185 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 5187 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7026 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7027 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7029 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7031 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7033 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7034 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7035 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7107 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 7109 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 10245 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20006 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20008 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20010 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20012 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20014 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 20016 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 22187 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30988 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 30989 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30990 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30991 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30992 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30993 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30994 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30995 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30996 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30997 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 30998 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 30999 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31000 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31001 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31002 to ignore list
+[10/04/2024 22:33]  [Razor]: Target a new 'Last Target'
+[10/04/2024 22:33]  [Razor]: Last Target set.
+[10/04/2024 22:33]  [Razor]: Added 31014 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31017 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31019 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31021 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31023 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31025 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31027 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31029 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31031 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31033 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31035 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31037 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31038 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31041 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31043 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31045 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31047 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31049 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31051 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31053 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31055 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31128 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31130 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31141 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31142 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31176 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31178 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31180 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31182 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31184 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31186 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31188 to ignore list
+[10/04/2024 22:33]  [Razor]: Added 31190 to ignore list
+[10/04/2024 22:33]  [Razor]: Done
+[10/04/2024 22:33]  You see: durable guarding studded chest
+[10/04/2024 22:33]  You see: accurate ruin lesser beastial slaying kukri
+[10/04/2024 22:33]  You see: guarding chainmail gloves
+[10/04/2024 22:33]  System: You are now under the effect of a Song of Discordance (4.9% reduced damage from creatures for 15 minutes).
+[10/04/2024 22:33]  You see: defense leather gloves
+[10/04/2024 22:33]  You see: accurate gnarled staff
+[10/04/2024 22:33]  System: You are now under the effect of a Song of Provocation (+4.9% damage against creatures for 15 minutes).
+[10/04/2024 22:33]  You see: accurate cudgel
+[10/04/2024 22:34]  You see: surpassingly accurate epee
+[10/04/2024 22:34]  You see: durable force flail
+[10/04/2024 22:34]  You see: surpassingly accurate kryss
+[10/04/2024 22:34]  You see: accurate mace
+[10/04/2024 22:34]  You see: surpassingly potent magic spellbook
+[10/04/2024 22:34]  You see: leather gorget
+[10/04/2024 22:34]  System: Warning! You are about to recycle ALL craftable items of ANY type made with Ingots, Boards, Leather, or Cloth inside your backpack and containers within. Target yourself to proceed.
+[10/04/2024 22:34]  Razor: Target: Geodoro
+[10/04/2024 22:34]  You see: leather leggings
+[10/04/2024 22:34]  System: Target an individual item to recycle.
+[10/04/2024 22:34]  You see: leather leggings
+[10/04/2024 22:34]  System: What should I use these scissors on?
+[10/04/2024 22:34]  System: Scissors cannot be used on that to produce anything.
+[10/04/2024 22:34]  You see: arcane essence : 131
+[10/04/2024 22:35]  You see: iron ingot : 114
+[10/04/2024 22:35]  You see: leather gloves
+[10/04/2024 22:35]  You see: leather gorget
+[10/04/2024 22:35]  : wooden planks
+[10/04/2024 22:35]  You see: a trash barrel
+[10/04/2024 22:35]  You see: (0 items, 0 stones)
+[10/04/2024 22:35]  : The item will be deleted in three minutes.
+[10/04/2024 22:35]  : The item will be deleted in three minutes.
+[10/04/2024 22:35]  : The item will be deleted in three minutes.
+[10/04/2024 22:35]  : The item will be deleted in three minutes.
+[10/04/2024 22:35]  : The item will be deleted in three minutes.
+[10/04/2024 22:35]  You see: leather : 77
+[10/04/2024 22:35]  You see: raw ribs : 453
+[10/04/2024 22:35]  You see: exceptional leather gorget
+[10/04/2024 22:36]  System: Target an individual item to recycle.
+[10/04/2024 22:36]  System: Warning! You are about to recycle ALL craftable items of ANY type made with Ingots, Boards, Leather, or Cloth inside your backpack and containers within. Target yourself to proceed.
+[10/04/2024 22:36]  Razor: Target: Geodoro
+[10/04/2024 22:36]  : Emptying trash barrel!
+[10/04/2024 22:36]  System: spellbinder has completed the achievement: Raffler (Epic).
+[10/04/2024 22:36]  System: The world will save in 15 seconds.
+[10/04/2024 22:36]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:36]  You see: quiver
+[10/04/2024 22:36]  You see: (0 items, 0 stones)
+[10/04/2024 22:36]  System: The world is saving, please wait.
+[10/04/2024 22:37]  System: World save complete. The entire process took 2.5 seconds.
+[10/04/2024 22:37]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:37]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:37]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:37]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:38]  System: Barristan Selmy has completed the achievement: Mugger (Basic).
+[10/04/2024 22:38]  System: Staff message from Owyn:
+[10/04/2024 22:38]  System: The Prevalia Lotto will be drawn in 3 hours, at 8PM ET! Tickets are 1000gp and available at the Prevalia Casino.  Buy a ticket for your chance to win!
+[10/04/2024 22:38]  System: Staff message from Owyn:
+[10/04/2024 22:38]  System: Jackpot is over 25.7 million gold!
+[10/04/2024 22:38]  System: Jared Goff has completed the achievement: Affluent (Advanced).
+[10/04/2024 22:38]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:38]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:38]  System: You may only place arrows and bolts into a quiver.
+[10/04/2024 22:38]  You see: exceptional leather leggings
+[10/04/2024 22:38]  You see: [mastercrafted by Gahd]
+[10/04/2024 22:38]  You see: exceptional leather leggings
+[10/04/2024 22:38]  You see: [mastercrafted by Gahd]
+[10/04/2024 22:39]  System: Warning! You are about to recycle ALL craftable items of ANY type made with Ingots, Boards, Leather, or Cloth inside your backpack and containers within. Target yourself to proceed.
+[10/04/2024 22:39]  You see: leather : 39
+[10/04/2024 22:39]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:39]  System: Tailoring skillgain: 2.500%
+[10/04/2024 22:39]  System: Brelshaza has completed the achievement: Beastial Slayer (Epic).
+[10/04/2024 22:39]  You see: unidentified leather skirt
+[10/04/2024 22:39]  System: Warning! You are about to recycle ALL craftable items of ANY type made with Ingots, Boards, Leather, or Cloth inside your backpack and containers within. Target yourself to proceed.
+[10/04/2024 22:39]  System: What do you wish to appraise and identify?
+[10/04/2024 22:39]  System: You identify the magical item.
+[10/04/2024 22:39]  You see: durable guarding leather skirt
+[10/04/2024 22:39]  Geodoro: You are uncertain about the worth of the magical item.
+[10/04/2024 22:39]  System: Warning! You are about to recycle ALL craftable items of ANY type made with Ingots, Boards, Leather, or Cloth inside your backpack and containers within. Target yourself to proceed.
+[10/04/2024 22:39]  You see: arcane essence : 142
+[10/04/2024 22:39]  System: You must be near an anvil and a forge to smith items.
+[10/04/2024 22:39]  : stone wall
+[10/04/2024 22:40]  System: You must be near an anvil and a forge to smith items.
+[10/04/2024 22:40]  Geodoro: Geodoro
+[10/04/2024 22:40]  System: You must be near an anvil and a forge to smith items.
+[10/04/2024 22:40]  You see: leather : 15
+[10/04/2024 22:40]  System: Explored Dude has completed the achievement: Artificers Enclave Associate.
+[10/04/2024 22:40]  : stone wall
+[10/04/2024 22:40]  You see: gold coin : 1583
+[10/04/2024 22:41]  System: Opening door...
+[10/04/2024 22:41]  System: Opening door...
+[10/04/2024 22:41]  System: You are now under the protection of the town guards.
+[10/04/2024 22:41]  System: You exit the rental room.
+[10/04/2024 22:41]  Hanan: Hanan the animal wrangler
+[10/04/2024 22:41]  Kama: Kama the creature broker
+[10/04/2024 22:41]  a dog: a dog
+[10/04/2024 22:41]  a goat: a goat
+[10/04/2024 22:41]  Keara: Keara the stablemaster
+[10/04/2024 22:41]  Renee: Renee the stablemaster
+[10/04/2024 22:41]  Denton: Denton the innkeeper
+[10/04/2024 22:41]  Thurston: Thurston the waiter
+[10/04/2024 22:41]  a goat: a goat
+[10/04/2024 22:41]  System: Opening door...
+[10/04/2024 22:41]  a dog: a dog
+[10/04/2024 22:41]  a dog: a dog
+[10/04/2024 22:41]  a dog: a dog
+[10/04/2024 22:41]  a dog: a dog
+[10/04/2024 22:41]  Dacey: Dacey the waiter
+[10/04/2024 22:41]  Callidora: Callidora the tavern keeper
+[10/04/2024 22:41]  System: WorldMap loaded!
+[10/04/2024 22:41]  Poezel: (bonded)
+[10/04/2024 22:41]  Poezel: Poezel
+[10/04/2024 22:41]  a blood drake: (bonded)
+[10/04/2024 22:41]  a blood drake: a blood drake
+[10/04/2024 22:41]  Ravi: Ravi the Town Crier
+[10/04/2024 22:41]  Donnelly: Donnelly the scribe
+[10/04/2024 22:41]  Arbor the tree: Legendary Carpenter
+[10/04/2024 22:41]  Arbor the tree: [Ancient, Oak]
+[10/04/2024 22:41]  Arbor the tree: Lord Arbor the tree
+[10/04/2024 22:41]  Brandi: Brandi the banker
+[10/04/2024 22:41]  shankara: [The Tavern], [tT]
+[10/04/2024 22:41]  shankara: shankara
+[10/04/2024 22:41]  a dog: a dog
+[10/04/2024 22:41]  Cellachan: Cellachan
+[10/04/2024 22:41]  Pierce: Pierce the tailor
+[10/04/2024 22:41]  Donnelly: Donnelly the scribe
+[10/04/2024 22:41]  Dacey: Dacey the waiter
+[10/04/2024 22:41]  a dog: a dog
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:41]  Tadi: Tadi the barkeep
+[10/04/2024 22:41]  Zara: Zara the cook
+[10/04/2024 22:41]  Ravi: And with that, another Leaderboard Season ends!  Congratulations to all of the winners!  Your Seasonal Garlands have been automatically deposited into your bank box.
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:41]  You see: the remains of Hechicera
+[10/04/2024 22:41]  Cellachan: Cellachan
+[10/04/2024 22:41]  Guy: Guy the blacksmith
+[10/04/2024 22:41]  Lari: Lari the armorer
+[10/04/2024 22:41]  Khoury: Khoury the weaponsmith
+[10/04/2024 22:41]  Rosa: Rosa the miner
+[10/04/2024 22:41]  Jafar: Jafar the baker
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:41]  Davin: Davin the architect
+[10/04/2024 22:41]  Dane: Dane the mapmaker
+[10/04/2024 22:41]  Marsha: Marsha the provisioner
+[10/04/2024 22:41]  Shina: Shina the cobbler
+[10/04/2024 22:41]  Patsy: Patsy the real estate broker
+[10/04/2024 22:41]  System: Looting this corpse will be a criminal act!
+[10/04/2024 22:41]  Khoury: Khoury the weaponsmith
+[10/04/2024 22:41]  Shina: Shina the cobbler
+[10/04/2024 22:41]  Rosa: Rosa the miner
+[10/04/2024 22:41]  Nona: Nona the cook
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:41]  a fisherman: a fisherman
+[10/04/2024 22:41]  Jafar: Jafar the baker
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:41]  You see: the remains of Hechicera
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:41]  a cat: a cat
+[10/04/2024 22:42]  a cat: a cat
+[10/04/2024 22:42]  a cat: a cat
+[10/04/2024 22:42]  a cat: a cat
+[10/04/2024 22:42]  Tadi: Tadi the barkeep
+[10/04/2024 22:42]  Zara: Zara the cook
+[10/04/2024 22:42]  System: Tulio has completed the achievement: Daemonic Slayer (Epic).
+[10/04/2024 22:42]  System: RomperEXTREME has completed the achievement: Daemonic Slayer (Basic).
+[10/04/2024 22:42]  System: gdedd has completed the achievement: Monster Hunter Luminary.
+[10/04/2024 22:42]  System: An Omni Realm will become public in 10 minutes.
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  Dacey: Dacey the waiter
+[10/04/2024 22:42]  Callidora: Callidora the tavern keeper
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  Ainsley: Ainsley the carpenter
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  Akako: Akako the carpenter
+[10/04/2024 22:42]  Cornelius: Cornelius the salvage foreman
+[10/04/2024 22:42]  Nirvelli: Nirvelli the dockmaster
+[10/04/2024 22:42]  Akako: Akako the carpenter
+[10/04/2024 22:42]  Akako: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[10/04/2024 22:42]  Akako: For less I shall teach thee less.
+[10/04/2024 22:42]  System: Your skill in Carpentry has increased by 50.0.  It is now 50.0.
+[10/04/2024 22:42]  Akako: Let me show thee something of how this is done.
+[10/04/2024 22:42]  System: Your skill level increases.
+[10/04/2024 22:42]  a goat: a goat
+[10/04/2024 22:42]  a goat: a goat
+[10/04/2024 22:42]  Denton: Denton the innkeeper
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  a pig: a pig
+[10/04/2024 22:42]  a cat: a cat
+[10/04/2024 22:42]  Callidora: Callidora the tavern keeper
+[10/04/2024 22:42]  a cat: a cat
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  Dacey: Dacey the waiter
+[10/04/2024 22:42]  Zara: Zara the cook
+[10/04/2024 22:42]  Tadi: Tadi the barkeep
+[10/04/2024 22:42]  Thurston: Thurston the waiter
+[10/04/2024 22:42]  Renee: Renee the stablemaster
+[10/04/2024 22:42]  a goat: a goat
+[10/04/2024 22:42]  Keara: Keara the stablemaster
+[10/04/2024 22:42]  Geodoro: bank room vendor buy
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  a dog: a dog
+[10/04/2024 22:42]  Kama: Kama the creature broker
+[10/04/2024 22:42]  Hanan: Hanan the animal wrangler
+[10/04/2024 22:42]  Geodoro: bank room vendor buy
+[10/04/2024 22:42]  Hanan: Hanan the animal wrangler
+[10/04/2024 22:42]  Geodoro: bank room vendor buy
+[10/04/2024 22:42]  System: You have left the protection of the town guards.
+[10/04/2024 22:42]  System: You enter the rental room.
+[10/04/2024 22:42]  System: WorldMap loaded!
+[10/04/2024 22:42]  Ailiin: [Ripe, SQzD]
+[10/04/2024 22:42]  Ailiin: Ailiin
+[10/04/2024 22:43]  System: Taake has completed the achievement: Serial Killer (Basic).
+[10/04/2024 22:43]  You see: saw
+[10/04/2024 22:43]  You see: (100 uses remaining)
+[10/04/2024 22:44]  You see: Greater Heal potion : 131
+[10/04/2024 22:44]  System: You place the empty bottle in your backpack.
+[10/04/2024 22:44]  System: The keg will not hold any more!
+[10/04/2024 22:44]  You see: a potion keg: greater cure
+[10/04/2024 22:44]  You see: The keg is completely full.
+[10/04/2024 22:44]  Geodoro: Geodoro
+[10/04/2024 22:44]  You see: Lesser Heal potion : 2
+[10/04/2024 22:44]  You see: Lesser Magic Resist potion : 46
+[10/04/2024 22:44]  You see: Greater Strength potion : 26
+[10/04/2024 22:44]  You see: Greater Agility potion : 3
+[10/04/2024 22:44]  You see: bottle : 165
+[10/04/2024 22:44]  You see: ginseng : 1158
+[10/04/2024 22:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/04/2024 22:45]  You see: ginseng : 1190
+[10/04/2024 22:45]  You see: nightshade : 949
+[10/04/2024 22:45]  You see: garlic : 50
+[10/04/2024 22:45]  You see: pouch
+[10/04/2024 22:45]  You see: (3 items, 3 stones)
+[10/04/2024 22:46]  System: WUMN (WUMN) guild has reached prestige level 5.
+[10/04/2024 22:46]  You see: cooked steaks : 5
+[10/04/2024 22:46]  You see: (meagre)
+[10/04/2024 22:46]  You see: cooked sausage
+[10/04/2024 22:46]  You see: (meagre)
+[10/04/2024 22:46]  You see: cooked ribs : 392
+[10/04/2024 22:46]  You see: (paltry)
+[10/04/2024 22:47]  You see: iron ingot : 2
+[10/04/2024 22:47]  System: BigBellyButton has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/04/2024 22:47]  System: Mooshu has completed the achievement: Skill Mastery (Epic).
+[10/04/2024 22:47]  System: Mooshu has completed the achievement: Scribe (Epic).
+[10/04/2024 22:48]  System: You are now under the effect of a Song of Peacemaking (4.9% healing amounts for 15 minutes).
+[10/04/2024 22:48]  System: You are now under the effect of a Song of Discordance (4.9% reduced damage from creatures for 15 minutes).
+[10/04/2024 22:48]  System: You are now under the effect of a Song of Provocation (+4.9% damage against creatures for 15 minutes).
+[10/04/2024 22:51]  System: Evil Mages of Outlands (EVIL) guild has reached prestige level 381.
+[10/04/2024 22:51]  iron ingot: [locked down]
+[10/04/2024 22:51]  System: The world will save in 15 seconds.
+[10/04/2024 22:51]  System: The world is saving, please wait.
+[10/04/2024 22:51]  System: World save complete. The entire process took 2.6 seconds.
+[10/04/2024 22:52]  System: Derkinz has completed the achievement: Transmutation (Basic).
+[10/04/2024 22:52]  System: An Omni Realm has now become public.
+[10/04/2024 22:52]  System: Jack Venner has completed the achievement: Omni-Realm Invader (Basic).
+[10/04/2024 22:52]  iron ingot: [no longer locked down]
+[10/04/2024 22:52]  System: Ronder has completed the achievement: Guardian of Kraul Hive (Intermediate).
+[10/04/2024 22:53]  System: Yedan has completed the achievement: Weaponmastery (Basic).
+[10/04/2024 22:53]  You see: board : 4009
+[10/04/2024 22:53]  You see: feather : 1717
+[10/04/2024 22:53]  You see: board : 4009
+[10/04/2024 22:53]  System: Crazy Corax has completed the achievement: Netherzone Hunter (Basic).
+[10/04/2024 22:53]  System: Item added to queue.
+[10/04/2024 22:53]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/04/2024 22:53]  System: Sir Mokebe has completed the achievement: Wilderness Hunter (Basic).
+[10/04/2024 22:53]  System: Target container set: pouch.
+[10/04/2024 22:53]  System: Source container set: pouch.
+[10/04/2024 22:54]  System: Which container do you wish to use as the destination container for this item? Target yourself for your backpack.
+[10/04/2024 22:54]  System: Target container set: pouch.
+[10/04/2024 22:54]  System: Destination container set: pouch.
+[10/04/2024 22:54]  System: Crafting queue begun.
+[10/04/2024 22:54]  System: PoisonPain has completed the achievement: Enhanced (Basic).
+[10/04/2024 22:54]  System: Skillet: Skipped
+[10/04/2024 22:54]  System: Cooked Ribs: Skipped
+[10/04/2024 22:54]  System: Sewing Kit: Skipped
+[10/04/2024 22:54]  System: Leather Gorget: Skipped
+[10/04/2024 22:54]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:54]  System: Club (1/1 made): You create an exceptional quality item.
+[10/04/2024 22:54]  System: Club: 1 crafted complete.
+[10/04/2024 22:54]  System: Crafting queue complete.
+[10/04/2024 22:54]  You see: exceptional club
+[10/04/2024 22:54]  System: Sylvaris the Red has completed the achievement: Aspect Mastery (Basic).
+[10/04/2024 22:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/04/2024 22:55]  System: Paralytic has completed the achievement: Guardian of Cavernam (Basic).
+[10/04/2024 22:55]  : tunic
+[10/04/2024 22:55]  System: Upir Zehr has completed the achievement: Weaponmastery (Epic).
+[10/04/2024 22:55]  You see: bronzehide bone skirt
+[10/04/2024 22:56]  You see: bronzehide bone legs
+[10/04/2024 22:56]  You see: copperhide bone legs
+[10/04/2024 22:56]  System: Corydoras has completed the achievement: Affluent (Basic).
+[10/04/2024 22:56]  System: Crafting queue begun.
+[10/04/2024 22:56]  System: Skillet: Skipped
+[10/04/2024 22:56]  System: Cooked Ribs: Skipped
+[10/04/2024 22:56]  System: Sewing Kit: Skipped
+[10/04/2024 22:56]  You see: board : 4001
+[10/04/2024 22:56]  System: Leather Gorget: Skipped
+[10/04/2024 22:56]  System: Cha. has completed the achievement: Guardian of Time (Intermediate).
+[10/04/2024 22:56]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:56]  System: Club (0/1 made): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:56]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:56]  System: Club (0/1 made): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:56]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:56]  System: Your skill in Carpentry has increased by 0.1.  It is now 50.1.
+[10/04/2024 22:56]  System: Club (0/1 made): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:56]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:56]  System: Club (1/1 made): You create the item.
+[10/04/2024 22:56]  System: Club: 1 crafted complete.
+[10/04/2024 22:56]  System: Crafting queue complete.
+[10/04/2024 22:56]  System: Crafting queue begun.
+[10/04/2024 22:57]  System: Skillet: Skipped
+[10/04/2024 22:57]  System: Cooked Ribs: Skipped
+[10/04/2024 22:57]  System: Sewing Kit: Skipped
+[10/04/2024 22:57]  System: Leather Gorget: Skipped
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.1/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.1/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.1/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.1/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.1/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Your skill in Carpentry has increased by 0.1.  It is now 50.2.
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You create the item.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Club (50.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:57]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:57]  System: Your skill in Carpentry has increased by 0.1.  It is now 50.3.
+[10/04/2024 22:57]  System: Club (50.3/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Smogg has completed the achievement: Artificers Enclave Initiate.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Your skill in Carpentry has increased by 0.1.  It is now 50.4.
+[10/04/2024 22:58]  System: Club (50.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.4/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.4/60.0 skill): You create an exceptional quality item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Iconic Revolution (ICON) guild has reached prestige level 94.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Peachi has completed the achievement: Artificer (Basic).
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Your skill in Carpentry has increased by 0.1.  It is now 50.5.
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Sgf has completed the achievement: Raffler (Basic).
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Shittles has completed the achievement: Domestication (Basic).
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You create the item.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:58]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:58]  System: Club (50.5/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.5/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.5/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.5/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Your skill in Carpentry has increased by 0.1.  It is now 50.6.
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You create an exceptional quality item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You create an exceptional quality item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You create an exceptional quality item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Your skill in Carpentry has increased by 0.1.  It is now 50.7.
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You create the item.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Your skill in Carpentry has increased by 0.1.  It is now 50.8.
+[10/04/2024 22:59]  System: Club (50.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 22:59]  System: Carpentry skillgain: 10.000%
+[10/04/2024 22:59]  System: Club (50.8/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (50.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (50.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (50.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (50.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (50.8/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (50.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (50.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: You have worn out your tool!
+[10/04/2024 23:00]  System: Club (50.8/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Your skill in Carpentry has increased by 0.1.  It is now 50.9.
+[10/04/2024 23:00]  System: Club (50.9/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.0.
+[10/04/2024 23:00]  System: Club (51.0/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.0/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.0/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.0/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.1.
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You create the item.
+[10/04/2024 23:00]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:00]  System: Club (51.1/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.2.
+[10/04/2024 23:01]  System: Club (51.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.3.
+[10/04/2024 23:01]  System: Club (51.3/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.4.
+[10/04/2024 23:01]  System: Club (51.4/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.5.
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.5/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.6.
+[10/04/2024 23:01]  System: Club (51.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.6/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.6/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.7.
+[10/04/2024 23:01]  System: Club (51.7/60.0 skill): You create the item.
+[10/04/2024 23:01]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:01]  System: Club (51.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.8.
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.8/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Your skill in Carpentry has increased by 0.1.  It is now 51.9.
+[10/04/2024 23:02]  System: Club (51.9/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.9/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (51.9/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.0.
+[10/04/2024 23:02]  System: Club (52.0/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.0/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.0/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.0/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.0/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.1.
+[10/04/2024 23:02]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.1/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:02]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:02]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: You are now under the effect of a Song of Peacemaking (4.9% healing amounts for 15 minutes).
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: You have worn out your tool!
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: You are now under the effect of a Song of Discordance (4.9% reduced damage from creatures for 15 minutes).
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:03]  System: You are now under the effect of a Song of Provocation (+4.9% damage against creatures for 15 minutes).
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.2.
+[10/04/2024 23:03]  System: Club (52.2/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Club (52.2/60.0 skill): You create the item.
+[10/04/2024 23:03]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:03]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.3.
+[10/04/2024 23:03]  System: Club (52.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.3/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.3/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.4.
+[10/04/2024 23:04]  System: Club (52.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.5.
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.6.
+[10/04/2024 23:04]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:04]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:04]  System: Club (52.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:04]  System: SmellyFingers has completed the achievement: Captain (Intermediate).
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.6/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: AvrilLavigne has completed the achievement: Wilderness Hunter (Basic).
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.7.
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Artix Shadowgrym has completed the achievement: Animal Bond (Master).
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:05]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:05]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:06]  System: The world will save in 15 seconds.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You create the item.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.8.
+[10/04/2024 23:06]  System: Club (52.8/60.0 skill): You create the item.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Your skill in Carpentry has increased by 0.1.  It is now 52.9.
+[10/04/2024 23:06]  System: Club (52.9/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (52.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.0.
+[10/04/2024 23:06]  System: Club (53.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: SaLt LiFe has completed the achievement: Skill Mastery (Basic).
+[10/04/2024 23:06]  System: SaLt LiFe has completed the achievement: Tinker (Epic).
+[10/04/2024 23:06]  System: The world is saving, please wait.
+[10/04/2024 23:06]  System: World save complete. The entire process took 2.5 seconds.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.0/60.0 skill): You create the item.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.1.
+[10/04/2024 23:06]  System: Club (53.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.2.
+[10/04/2024 23:06]  System: Club (53.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.2/60.0 skill): You create the item.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:06]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:06]  System: Club (53.2/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.3.
+[10/04/2024 23:07]  System: You have worn out your tool!
+[10/04/2024 23:07]  System: Club (53.3/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.4.
+[10/04/2024 23:07]  System: Club (53.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.4/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.4/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.4/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.4/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.4/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.4/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.5.
+[10/04/2024 23:07]  System: Club (53.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.5/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.5/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.5/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.5/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:07]  System: raurapoo has completed the achievement: Humanoid Slayer (Basic).
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.6.
+[10/04/2024 23:07]  System: Club (53.6/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.6/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.7.
+[10/04/2024 23:07]  System: Club (53.7/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.7/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.7/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.7/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Dot Rotten has completed the achievement: Boss Slayer (Epic).
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.7/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.7/60.0 skill): You create the item.
+[10/04/2024 23:07]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:07]  System: Club (53.7/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.8.
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Your skill in Carpentry has increased by 0.1.  It is now 53.9.
+[10/04/2024 23:08]  System: Club (53.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.9/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Elmma Maria has completed the achievement: Order of Armorers Dignitary.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.9/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (53.9/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.0.
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:08]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:08]  System: Club (54.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.0/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.1.
+[10/04/2024 23:09]  System: Club (54.1/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.1/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.1/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.2.
+[10/04/2024 23:09]  System: Club (54.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.2/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.3.
+[10/04/2024 23:09]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:09]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:09]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.3/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.4.
+[10/04/2024 23:10]  System: You have worn out your tool!
+[10/04/2024 23:10]  System: Club (54.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.4/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.5.
+[10/04/2024 23:10]  System: Club (54.5/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.5/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.5/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.5/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.5/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.5/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.5/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.6.
+[10/04/2024 23:10]  System: Club (54.6/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.6/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.6/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.6/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.6/60.0 skill): You create the item.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:10]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:10]  System: Club (54.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.6/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.6/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.7.
+[10/04/2024 23:11]  System: Club (54.7/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: yumyums has completed the achievement: Mini-Boss Slayer (Advanced).
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.8.
+[10/04/2024 23:11]  System: Club (54.8/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.8/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.8/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.8/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.8/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.8/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Your skill in Carpentry has increased by 0.1.  It is now 54.9.
+[10/04/2024 23:11]  System: Club (54.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Club (54.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 10.000%
+[10/04/2024 23:11]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.0.
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: A Hooded Bard has completed the achievement: Netherzone Hunter (Basic).
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:11]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:11]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Kaizer Sozey has completed the achievement: Elemental Slayer (Epic).
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.0/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.1.
+[10/04/2024 23:12]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:12]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:12]  System: Club (55.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.1/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.2.
+[10/04/2024 23:13]  System: Club (55.2/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.2/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.2/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.3.
+[10/04/2024 23:13]  System: Club (55.3/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.3/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.3/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.3/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.3/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.4.
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: skilled laborers has completed the achievement: Chef (Epic).
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Z'elinko has completed the achievement: Savant (Basic).
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:13]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:13]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:14]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:14]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Animalus Ringeck has completed the achievement: Order of Armorers Dignitary.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.4/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.5.
+[10/04/2024 23:15]  System: Club (55.5/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.6.
+[10/04/2024 23:15]  System: You have worn out your tool!
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:15]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:15]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.6/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.7.
+[10/04/2024 23:16]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.7/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:16]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:16]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.7/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.8.
+[10/04/2024 23:17]  System: Club (55.8/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.8/60.0 skill): You create the item.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.8/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:17]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:17]  System: Club (55.8/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Your skill in Carpentry has increased by 0.1.  It is now 55.9.
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You create an exceptional quality item.
+[10/04/2024 23:18]  System: You are now under the effect of a Song of Peacemaking (4.9% healing amounts for 15 minutes).
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (55.9/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Your skill in Carpentry has increased by 0.1.  It is now 56.0.
+[10/04/2024 23:18]  System: Club (56.0/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.0/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: You are now under the effect of a Song of Discordance (4.9% reduced damage from creatures for 15 minutes).
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.0/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Your skill in Carpentry has increased by 0.1.  It is now 56.1.
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: You are now under the effect of a Song of Provocation (+4.9% damage against creatures for 15 minutes).
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:18]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:18]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.1/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.1/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Your skill in Carpentry has increased by 0.1.  It is now 56.2.
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Iron Rod has completed the achievement: Savant (Advanced).
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: GrimmSmith has completed the achievement: Metalsmith (Basic).
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Before Light has completed the achievement: Monster Hunter Associate.
+[10/04/2024 23:19]  System: Nekky the Nekro has completed the achievement: Monster Hunter Associate.
+[10/04/2024 23:19]  System: Yew Militia (Yew) guild has reached prestige level 715.
+[10/04/2024 23:19]  System: An Omni Realm will become public in 10 minutes.
+[10/04/2024 23:19]  System: Tromes has completed the achievement: Trawler (Basic).
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You create the item.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: Carpentry skillgain: 5.000%
+[10/04/2024 23:19]  System: Club (56.2/60.0 skill): You failed to create the item, and some of your materials are lost.
+[10/04/2024 23:19]  System: Club: You don't have the resources required to make that item.
+[10/04/2024 23:19]  System: Club: You don't have the resources required to make that item.
+[10/04/2024 23:19]  System: Crafting queue complete.
+[10/04/2024 23:21]  System: The world will save in 15 seconds.
+[10/04/2024 23:21]  System: Ranger Walker has completed the achievement: Versatility (Advanced).
+[10/04/2024 23:21]  System: The world is saving, please wait.
+[10/04/2024 23:21]  System: World save complete. The entire process took 2.5 seconds.
+[10/04/2024 23:22]  System: Balain Moonstone has completed the achievement: Artificers Enclave Patrician.
+[10/04/2024 23:25]  System: In ThE EnD' has registered an antiquity: Emerald
+[10/04/2024 23:27]  System: I Unlock Stuff has completed the achievement: Treasure Seeker (Epic).
+[10/04/2024 23:28]  System: Znk has completed the achievement: Nature Slayer (Basic).
+[10/04/2024 23:29]  System: An Omni Realm has now become public.
+[10/04/2024 23:30]  System: Kulharin has completed the achievement: Omni-Realm Invader (Advanced).
+[10/04/2024 23:32]  System: The Minoc Syndicate (Syn) guild has reached prestige level 3726.
+[10/04/2024 23:32]  System: An Omni Realm will become public in 10 minutes.
+[10/04/2024 23:33]  System: You are now under the effect of a Song of Peacemaking (4.9% healing amounts for 15 minutes).
+[10/04/2024 23:33]  System: You are now under the effect of a Song of Discordance (4.9% reduced damage from creatures for 15 minutes).
+[10/04/2024 23:33]  System: You are now under the effect of a Song of Provocation (+4.9% damage against creatures for 15 minutes).
+[10/04/2024 23:34]  System: l Luke l has completed the achievement: Omni Slayer (Basic).
+[10/04/2024 23:34]  System: Eat at Joes has completed the achievement: Omni Slayer (Basic).
+[10/04/2024 23:35]  System: The world will save in 15 seconds.
+[10/04/2024 23:36]  System: The world is saving, please wait.
+[10/04/2024 23:36]  System: World save complete. The entire process took 2.5 seconds.
+[10/04/2024 23:37]  You see: board
+[10/04/2024 23:38]  System: goblin shredder has completed the achievement: Seafarer Initiate.
+[10/04/2024 23:39]  System: Ton Rocky Horror has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/04/2024 23:40]  System: HawkerDaemon has completed the achievement: Scribe (Advanced).
+[10/04/2024 23:40]  System: Sophie Yunish has completed the achievement: Artificers Enclave Initiate.
+[10/04/2024 23:42]  System: An Omni Realm has now become public.
+[10/04/2024 23:42]  System: Brittney Spearss has completed the achievement: Netherzone Hunter (Basic).
+[10/04/2024 23:42]  System: Doug Drealer has completed the achievement: Alchemist (Basic).
+[10/04/2024 23:42]  System: Smacky has completed the achievement: Monster Hunter Initiate.
+[10/04/2024 23:43]  System: Recyclops has completed the achievement: Netherzone Hunter (Basic).
+[10/04/2024 23:43]  System: Bazileus has completed the achievement: Artificers Enclave Initiate.
+[10/04/2024 23:45]  System: Smogg has completed the achievement: Alchemist (Epic).
+[10/04/2024 23:45]  System: Made in Bulgaria has completed the achievement: Order of Armorers Associate.
+[10/04/2024 23:45]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/04/2024 23:45]  System: Zkittlez has completed the achievement: Connoisseur (Epic).
+[10/04/2024 23:47]  System: Face (-_-) guild has reached prestige level 3806.
+[10/04/2024 23:47]  System: Cupid Corax has completed the achievement: Black Marketeer (Basic).
+[10/04/2024 23:48]  System: Your Song of Peacemaking effect ends.
+[10/04/2024 23:48]  System: Your Song of Discordance effect ends.
+[10/04/2024 23:48]  System: Your Song of Provocation effect ends.
+[10/04/2024 23:49]  System: Staff message from Expo:
+[10/04/2024 23:49]  System: The Outlands Lottery will be drawn in 2 HOURS and 10 MINUTES (8PM ET)! Visit the Prevalia Casino to buy a ticket for a chance at winning the Gold Jackpot!
+[10/04/2024 23:49]  System: Roman has completed the achievement: Raffler (Basic).
+[10/04/2024 23:50]  System: The world will save in 15 seconds.
+[10/04/2024 23:50]  System: Hammer. has completed the achievement: Aspect Mastery (Epic).
+[10/04/2024 23:50]  System: The world is saving, please wait.
+[10/04/2024 23:51]  System: World save complete. The entire process took 2.6 seconds.
+[10/04/2024 23:52]  System: Dirty Rice has completed the achievement: Weaponmastery (Advanced).
+[10/04/2024 23:53]  System: Mazel Tough has completed the achievement: Tradesman Union Luminary.
+[10/04/2024 23:54]  System: Just Creator has completed the achievement: Enchanter (Epic).
+[10/04/2024 23:55]  System: skilled laborers has completed the achievement: Culinary Savvy (Basic).
+[10/04/2024 23:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/04/2024 23:56]  System: tiny. has completed the achievement: Woodsman (Basic).
+[10/04/2024 23:56]  System: Gruul Fire has completed the achievement: Domestication (Master).
+[10/04/2024 23:56]  System: bealaqueen has completed the achievement: Omni Slayer (Basic).
+[10/04/2024 23:56]  System: Staff message from Owyn:
+[10/04/2024 23:56]  System: The Prevalia Lotto will be drawn in 2 hours, at 8PM ET! Tickets are 1000gp and available at the Prevalia Casino.  Buy a ticket for your chance to win!
+[10/04/2024 23:57]  System: Spoiler II has completed the achievement: Cartographer (Epic).
+[10/04/2024 23:57]  System: Raveness has completed the achievement: Triggered (Epic).
+[10/05/2024 00:00]  System: [DF] A Dungeon Flashpoint for Pulma has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/05/2024 00:00]  System: The Council (T^C) guild has reached prestige level 122.
+[10/05/2024 00:01]  Ailiin: [Ripe, SQzD]
+[10/05/2024 00:01]  Ailiin: Ailiin
+[10/05/2024 00:02]  System: AngelicInnocence has completed the achievement: Omni-Realm Invader (Basic).
+[10/05/2024 00:02]  System: Turbo Goat has completed the achievement: Omni-Realm Invader (Basic).
+[10/05/2024 00:02]  System: Melochabrage has completed the achievement: Omni-Realm Invader (Advanced).
+[10/05/2024 00:02]  System: Terz has completed the achievement: Omni-Realm Invader (Basic).
+[10/05/2024 00:02]  System: A Hooded Reaper has completed the achievement: Omni-Realm Invader (Basic).
+[10/05/2024 00:02]  System: nibolinha has completed the achievement: Omni-Realm Invader (Basic).
+[10/05/2024 00:02]  System: DekzflamE has completed the achievement: Paragon Hunter (Advanced).
+[10/05/2024 00:03]  Ailiin: Kal Ort Por
+[10/05/2024 00:03]  System: Seamstres has completed the achievement: Leatherworker (Basic).
+[10/05/2024 00:03]  System: Societie Farmer has completed the achievement: Tailor (Basic).
+[10/05/2024 00:04]  System: skilled laborers has completed the achievement: Culinary Savvy (Advanced).
+[10/05/2024 00:04]  System: Cannibal Bum has completed the achievement: Chef (Basic).
+[10/05/2024 00:04]  System: Znk has completed the achievement: Animal Bond (Basic).
+[10/05/2024 00:05]  System: The world will save in 15 seconds.
+[10/05/2024 00:05]  System: The world is saving, please wait.
+[10/05/2024 00:05]  System: World save complete. The entire process took 2.5 seconds.
+[10/05/2024 00:06]  System: Garrash has completed the achievement: Skinner (Advanced).
+[10/05/2024 00:07]  System: An Omni Realm will become public in 10 minutes.
+[10/05/2024 00:09]  System: Asbal has completed the achievement: Wilderness Hunter (Basic).
+[10/05/2024 00:11]  Ailiin: [Ripe, SQzD]
+[10/05/2024 00:11]  Ailiin: Ailiin
+[10/05/2024 00:11]  System: Athrun Zala has completed the achievement: Triggered (Advanced).
+[10/05/2024 00:11]  System: Red Ribbon Army (RR) guild has reached prestige level 3.
+[10/05/2024 00:11]  System: Tio Gilito has completed the achievement: Daemonic Slayer (Basic).
+[10/05/2024 00:12]  System: Porthole has completed the achievement: Tailor (Advanced).
+[10/05/2024 00:13]  System: nice girl has completed the achievement: Raffler (Advanced).
+[10/05/2024 00:14]  System: Znk has completed the achievement: Adventurer Initiate.
+[10/05/2024 00:14]  System: Hexan Hia Hia has completed the achievement: Transmutation (Basic).
+[10/05/2024 00:14]  System: esclaba has completed the achievement: Loremaster (Epic).
+[10/05/2024 00:15]  Ailiin: [Ripe, SQzD]
+[10/05/2024 00:15]  Ailiin: Ailiin
+[10/05/2024 00:16]  System: Art Bat has completed the achievement: Artificers Enclave Dignitary.
+[10/05/2024 00:17]  System: An Omni Realm has now become public.
+[10/05/2024 00:17]  System: SergeantKawaii has completed the achievement: Savant (Basic).
+[10/05/2024 00:17]  You see: gold coin : 1083
+[10/05/2024 00:18]  System: Carpentry skillgain: 5.000%
+[10/05/2024 00:18]  System: Carpentry skillgain: 5.000%
+[10/05/2024 00:18]  System: Carpentry skillgain: 5.000%
+[10/05/2024 00:18]  System: Carpentry skillgain: 5.000%
+[10/05/2024 00:18]  System: Carpentry skillgain: 5.000%
+[10/05/2024 00:18]  System: Your skill in Carpentry has increased by 0.1.  It is now 56.3.
+[10/05/2024 00:18]  System: Carpentry skillgain: 5.000%
+[10/05/2024 00:18]  System: Carpentry skillgain: 5.000%
+[10/05/2024 00:18]  System: Carpentry skillgain: 5.000%
+[10/05/2024 00:18]  You see: exceptional rosewood bow
+[10/05/2024 00:18]  You see: [mastercrafted by NewPlayerMall]
+[10/05/2024 00:19]  You see: dullwood hunting bow
+[10/05/2024 00:19]  System: Dr Shakalu has completed the achievement: Savant (Basic).
+[10/05/2024 00:20]  System: The world will save in 15 seconds.

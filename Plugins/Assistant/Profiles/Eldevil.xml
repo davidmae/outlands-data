@@ -11,10 +11,10 @@
 	<property name="ObjectDelayEnabled" type="System.Boolean">True</property>
 	<property name="AlwaysOnTop" type="System.Boolean">False</property>
 	<property name="SortCounters" type="System.Boolean">True</property>
-	<property name="QueueActions" type="System.Boolean">False</property>
+	<property name="QueueActions" type="System.Boolean">True</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">916</property>
-	<property name="WindowY" type="System.Int32">282</property>
+	<property name="WindowX" type="System.Int32">2584</property>
+	<property name="WindowY" type="System.Int32">999</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">160</property>
-	<property name="RazorHeight" type="System.Int32">28</property>
+	<property name="RazorWidth" type="System.Int32">874</property>
+	<property name="RazorHeight" type="System.Int32">411</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -243,7 +243,7 @@
 		<Restock-1 hotbag="0">
 			<item id="3617" amount="100" />
 			<item id="8012" amount="10" />
-			<item id="5370" amount="8" />
+			<item id="5370" amount="4" />
 		</Restock-1>
 		<Restock-2 hotbag="0" />
 		<Restock-3 hotbag="0" />
@@ -296,6 +296,12 @@
 		</list>
 	</dresslists>
 	<hotkeys>
+		<key mod="1" key="49" send="True">L:1391</key>
+		<key mod="0" key="49" send="True">L:2022</key>
+		<key mod="0" key="52" send="True">L:2024</key>
+		<key mod="0" key="51" send="True">L:2026</key>
+		<key mod="0" key="50" send="True">L:2027</key>
+		<key mod="0" key="53" send="True">L:2028</key>
 		<key mod="1" key="32" send="True">Restock Agent-01</key>
 	</hotkeys>
 	<overheadmessages>
@@ -308,6 +314,7 @@
 		<scriptvariable serial="0x59E67A" name="mobTwo" />
 		<scriptvariable serial="0x0" name="carving_activated" />
 		<scriptvariable serial="0xBF" name="info_color" />
+		<scriptvariable serial="0xBB8" name="all_kill_timer" />
 	</scriptvariables>
 	<friends>
 		<group name="outlands" enabled="True" overheadformat="[Friend]" overheadhue="63" overheadenabled="False">

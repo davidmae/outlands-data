@@ -1,0 +1,33 @@
+overhead "[+Start PeaceNearest]" 111
+hotkey 'target closest non-friendly monster'
+wait 200
+if insysmsg "no one matching"
+    overhead  "Nothing to attack" 34
+
+    wait 200
+    hotkey "Play Script: _davidma\PVM\auto-heal"
+    stop
+endif
+
+@setvar! myKillTarget lasttarget
+
+
+clearignore 
+useskill 'Peacemaking'
+wft 500
+if targetexists 
+    target myKillTarget
+    wft 150
+    if insysmsg "You fail to pacify your opponent. You estimate the task to be fairly reasonable."
+        overhead "Failed to pacify" 34
+        wait 100
+    endif
+    
+    getlabel myKillTarget description
+    overhead description
+    attack myKillTarget
+endif
+
+
+wait 200
+hotkey "Play Script: _davidma\PVM\auto-heal"

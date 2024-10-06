@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 90,
   "circle_of_transparency_type": 2,
   "vendor_gump_height": 504,
-  "default_scale": 0.6999999,
+  "default_scale": 0.7,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -91,8 +91,8 @@
   "hold_shift_to_split_stack": false,
   "lock_follower_rename": false,
   "window_client_bounds": {
-    "X": 1921,
-    "Y": 1040
+    "X": 2048,
+    "Y": 1152
   },
   "game_window_position": {
     "X": 0,
@@ -229,7 +229,7 @@
   "override_all_fonts": false,
   "override_all_fonts_is_unicode": true,
   "sallos_easy_grab": false,
-  "containers_scale": 140,
+  "containers_scale": 150,
   "items_scale": 110,
   "double_click_to_loot_inside_containers": true,
   "relative_drag_and_drop_items": false,
@@ -291,8 +291,8 @@
   "cooldown_bar_height": 30,
   "hide_inactive_cooldown_bars": false,
   "last_used_desktop": "default.gumps.xml",
-  "journal_width": 432,
-  "journal_height": 496,
+  "journal_width": 421,
+  "journal_height": 312,
   "journal_enable_resize": true,
   "journal_lock_position": false,
   "journal_use_24_hour_clock": true,

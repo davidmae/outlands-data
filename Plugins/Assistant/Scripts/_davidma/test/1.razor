@@ -58,6 +58,17 @@
 #    endif
 #endwhile
 
+createtimer time
 dclicktype 3553
-wait 180000
-loop
+
+while not dead
+
+    if timer time > 30000
+        dclicktype 3553
+        settimer time 0
+    endif
+
+    skill 'spiritspeak'
+    wait 1000
+
+endwhile

@@ -1,3 +1,7 @@
-if insysmsg "You see"
-    overhead "see"
-endif
+while not dead
+    if findtype 3617 backpack -1 -1 -1 as ban
+        if hp < 100 and not bandaging
+            hotkey 'Bandage Self'
+        endif
+    endif
+endwhile

@@ -162,4 +162,10 @@
 		<itemid>3821</itemid>
 		<hue>-1</hue>
 	</counter>
+	<counter>
+		<name>ribs</name>
+		<format>ribs</format>
+		<itemid>2545</itemid>
+		<hue>-1</hue>
+	</counter>
 </counters>

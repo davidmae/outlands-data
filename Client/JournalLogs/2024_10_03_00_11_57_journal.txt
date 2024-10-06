@@ -1,0 +1,2625 @@
+[10/03/2024 00:11]  System: WorldMap loading...
+[10/03/2024 00:11]  System: Loading WorldMap markers..
+[10/03/2024 00:11]  System: ..Banks_and_Healers.xml (39)
+[10/03/2024 00:11]  System: ..Dungeons.xml (13)
+[10/03/2024 00:11]  System: ..Dungeon_Gates.xml (392)
+[10/03/2024 00:11]  System: ..Healer_Caravans.xml (42)
+[10/03/2024 00:11]  System: ..Kings_Faire.xml (49)
+[10/03/2024 00:11]  System: ..Moongates.xml (10)
+[10/03/2024 00:11]  System: ..POI.xml (251)
+[10/03/2024 00:11]  System: ..PvP_Locations.xml (71)
+[10/03/2024 00:11]  System: ..Shrines.xml (9)
+[10/03/2024 00:11]  System: ..Sub-Dungeons.xml (4)
+[10/03/2024 00:11]  System: ..Townships.xml (10)
+[10/03/2024 00:11]  System: ..UOAM_Atlas.xml (1887)
+[10/03/2024 00:11]  System: ..UOAM_T-Map.xml (255)
+[10/03/2024 00:11]  System: ..UOAM_Treasure.xml (523)
+[10/03/2024 00:11]  System: WorldMap markers loaded (3555)
+[10/03/2024 00:11]  System: Welcome Ailiin!
+[10/03/2024 00:11]  Razor: [- (s)]
+[10/03/2024 00:11]  Razor: [+Food Satisfaction (1071s)]
+[10/03/2024 00:11]  Ailiin: [Ripe, SQzD]
+[10/03/2024 00:11]  Ailiin: Ailiin
+[10/03/2024 00:11]  Geodoro: Geodoro
+[10/03/2024 00:11]  System: WorldMap loaded!
+[10/03/2024 00:11]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/03/2024 00:12]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:12]  System: You are now under the effect of a Song of Peacemaking (11.3% healing amounts for 15 minutes).
+[10/03/2024 00:12]  Razor: [+Song of Peacemaking (900s)]
+[10/03/2024 00:12]  System: Opening door...
+[10/03/2024 00:12]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:12]  System: You are now under the effect of a Song of Discordance (11.3% reduced damage from creatures for 15 minutes).
+[10/03/2024 00:12]  Razor: [+Song of Discordance (900s)]
+[10/03/2024 00:12]  You see: unidentified hurdy-gurdy
+[10/03/2024 00:12]  You see: (500/500 uses remaining)
+[10/03/2024 00:12]  System: What do you wish to use this on?
+[10/03/2024 00:12]  System: You identify the item.
+[10/03/2024 00:12]  You see: melodious hurdy-gurdy
+[10/03/2024 00:12]  You see: (500/500 uses remaining)
+[10/03/2024 00:12]  Ailiin: You estimate the gold worth of the item to be 0.
+[10/03/2024 00:12]  Ailiin: You estimate the arcane essence value of item to be 4.
+[10/03/2024 00:12]  You see: melodious hurdy-gurdy
+[10/03/2024 00:12]  You see: (500/500 uses remaining)
+[10/03/2024 00:12]  You see: wooden chest
+[10/03/2024 00:12]  You see: [secure]
+[10/03/2024 00:12]  You see: (121 items, 2867 stones)
+[10/03/2024 00:12]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/03/2024 00:12]  System: You are now under the effect of a Song of Provocation (+11.3% damage against creatures for 15 minutes).
+[10/03/2024 00:12]  Razor: [+Song of Provocation (900s)]
+[10/03/2024 00:12]  You see: surpassingly melodious sackbut
+[10/03/2024 00:12]  You see: (500/500 uses remaining)
+[10/03/2024 00:12]  You see: melodious tambourine
+[10/03/2024 00:12]  You see: (500/500 uses remaining)
+[10/03/2024 00:12]  System: Opening door...
+[10/03/2024 00:12]  System: You are now under the protection of the town guards.
+[10/03/2024 00:12]  System: You exit the rental room.
+[10/03/2024 00:12]  a pig: a pig
+[10/03/2024 00:12]  a pig: a pig
+[10/03/2024 00:12]  a cow: a cow
+[10/03/2024 00:12]  Cedric: Cedric the farmer
+[10/03/2024 00:12]  a goat: a goat
+[10/03/2024 00:12]  Hanan: Hanan the animal wrangler
+[10/03/2024 00:12]  Kama: Kama the creature broker
+[10/03/2024 00:12]  Sergio Rangel: Sergio Rangel
+[10/03/2024 00:12]  a dog: a dog
+[10/03/2024 00:12]  a goat: a goat
+[10/03/2024 00:12]  Keara: Keara the stablemaster
+[10/03/2024 00:12]  Renee: Renee the stablemaster
+[10/03/2024 00:12]  Denton: Denton the innkeeper
+[10/03/2024 00:12]  Thurston: Thurston the waiter
+[10/03/2024 00:12]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:12]  System: WorldMap loaded!
+[10/03/2024 00:12]  System: Opening door...
+[10/03/2024 00:12]  Baasa: Artificer Initiate
+[10/03/2024 00:12]  Baasa: [Private, MEMO]
+[10/03/2024 00:12]  Baasa: Baasa
+[10/03/2024 00:12]  You see: unidentified kryss
+[10/03/2024 00:12]  You see: accurate ruin lesser beastial slaying kukri
+[10/03/2024 00:13]  a pig: a pig
+[10/03/2024 00:13]  a pig: a pig
+[10/03/2024 00:13]  Ailiin: Bank Vendor buy
+[10/03/2024 00:13]  Renee: Greetings.  Have a look around.
+[10/03/2024 00:13]  Ailiin: Room
+[10/03/2024 00:13]  System: That vendor is too far away from you.
+[10/03/2024 00:13]  System: That vendor is too far away from you.
+[10/03/2024 00:13]  a dog: a dog
+[10/03/2024 00:13]  a dog: a dog
+[10/03/2024 00:13]  System: You have left the protection of the town guards.
+[10/03/2024 00:13]  System: You enter the rental room.
+[10/03/2024 00:13]  System: WorldMap loaded!
+[10/03/2024 00:13]  Geodoro: Geodoro
+[10/03/2024 00:13]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:13]  Ailiin: Bank Vendor buy
+[10/03/2024 00:13]  Ailiin: Room
+[10/03/2024 00:13]  System: Opening door...
+[10/03/2024 00:13]  System: You are now under the protection of the town guards.
+[10/03/2024 00:13]  System: You exit the rental room.
+[10/03/2024 00:13]  a bull: a bull
+[10/03/2024 00:13]  a pig: a pig
+[10/03/2024 00:13]  a pig: a pig
+[10/03/2024 00:13]  a cow: a cow
+[10/03/2024 00:13]  Cedric: Cedric the farmer
+[10/03/2024 00:13]  a goat: a goat
+[10/03/2024 00:13]  a goat: a goat
+[10/03/2024 00:13]  Hanan: Hanan the animal wrangler
+[10/03/2024 00:13]  Kama: Kama the creature broker
+[10/03/2024 00:13]  Sergio Rangel: Sergio Rangel
+[10/03/2024 00:13]  a dog: a dog
+[10/03/2024 00:13]  Keara: Keara the stablemaster
+[10/03/2024 00:13]  Renee: Renee the stablemaster
+[10/03/2024 00:13]  Denton: Denton the innkeeper
+[10/03/2024 00:13]  Thurston: Thurston the waiter
+[10/03/2024 00:13]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:13]  System: WorldMap loaded!
+[10/03/2024 00:13]  System: Opening door...
+[10/03/2024 00:13]  Sir Clay Dawg: [Recruit, L%C]
+[10/03/2024 00:13]  Sir Clay Dawg: Sir Clay Dawg
+[10/03/2024 00:13]  System: Your skill in Tactics has decreased by 30.0.  It is now 100.0.
+[10/03/2024 00:13]  Ailiin: Kal Ort Por
+[10/03/2024 00:13]  System: You have left the protection of the town guards.
+[10/03/2024 00:13]  Ailiin: Your mount finds a quiet place to rest safely.
+[10/03/2024 00:13]  You see: a goblin corpse
+[10/03/2024 00:13]  You see: an aegis minion corpse
+[10/03/2024 00:13]  an effigy: an effigy
+[10/03/2024 00:13]  an aegis minion: an aegis minion
+[10/03/2024 00:13]  an aegis mongbat: an aegis mongbat
+[10/03/2024 00:13]  You see: a goblin corpse
+[10/03/2024 00:13]  You see: a gremlin corpse
+[10/03/2024 00:13]  You see: a goblin corpse
+[10/03/2024 00:13]  You see: a goblin corpse
+[10/03/2024 00:14]  You see: a chaos footman corpse
+[10/03/2024 00:14]  You see: an aegis slime corpse
+[10/03/2024 00:14]  System: Your skill in Tactics has increased by 30.0.  It is now 130.0.
+[10/03/2024 00:14]  You see: an aegis minion corpse
+[10/03/2024 00:14]  You see: a blood ape corpse
+[10/03/2024 00:14]  You see: an aegis minion corpse
+[10/03/2024 00:14]  Obrewon: Legendary Savant
+[10/03/2024 00:14]  Obrewon: [Member, WaM!]
+[10/03/2024 00:14]  Obrewon: Obrewon
+[10/03/2024 00:14]  Obrewon: Por Ort Grav
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  a rotting flesh: (summoned)
+[10/03/2024 00:14]  a rotting flesh: a rotting flesh
+[10/03/2024 00:14]  an ancient mummy: (summoned)
+[10/03/2024 00:14]  an ancient mummy: an ancient mummy
+[10/03/2024 00:14]  an ancient mummy: (summoned)
+[10/03/2024 00:14]  an ancient mummy: an ancient mummy
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  a chaos footman: *pacified 37s discord 1m 45s*
+[10/03/2024 00:14]  a chaos footman: a chaos footman
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  You see: a blood ape corpse
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  You see: a blood ape corpse
+[10/03/2024 00:14]  You see: a blood ape corpse
+[10/03/2024 00:14]  You see: a blood ape corpse
+[10/03/2024 00:14]  You see: an aegis minion corpse
+[10/03/2024 00:14]  You see: a blood ape corpse
+[10/03/2024 00:14]  You see: an aegis slime corpse
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  a flamehound: (bonded)
+[10/03/2024 00:14]  a flamehound: a flamehound
+[10/03/2024 00:14]  a flamehound: (bonded)
+[10/03/2024 00:14]  a flamehound: a flamehound
+[10/03/2024 00:14]  a flamehound: (bonded)
+[10/03/2024 00:14]  a flamehound: a flamehound
+[10/03/2024 00:14]  an embear: (tame)
+[10/03/2024 00:14]  an embear: an embear
+[10/03/2024 00:14]  Obrewon: Por Ort Grav
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  a flamehound: (bonded)
+[10/03/2024 00:14]  a flamehound: a flamehound
+[10/03/2024 00:14]  a flamehound: (bonded)
+[10/03/2024 00:14]  a flamehound: a flamehound
+[10/03/2024 00:14]  a flamehound: (bonded)
+[10/03/2024 00:14]  a flamehound: a flamehound
+[10/03/2024 00:14]  an embear: (tame)
+[10/03/2024 00:14]  an embear: an embear
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  You see: an aegis slime corpse
+[10/03/2024 00:14]  You see: a blood ape corpse
+[10/03/2024 00:14]  You see: an aegis imp corpse
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  a chaos footman: *pacified 31s discord 1m 39s*
+[10/03/2024 00:14]  a chaos footman: a chaos footman
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  You see: a chaos footman corpse
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  You see: an aegis whelp corpse
+[10/03/2024 00:14]  You see: a blood hellion corpse
+[10/03/2024 00:14]  You see: a blood ogremage corpse
+[10/03/2024 00:14]  You see: a blood troll corpse
+[10/03/2024 00:14]  You see: a blood ogremage corpse
+[10/03/2024 00:14]  a blood troll: a blood troll
+[10/03/2024 00:14]  a blood ogre mage: a blood ogre mage
+[10/03/2024 00:14]  a blood harpy: a blood harpy
+[10/03/2024 00:14]  an aegis whelp: an aegis whelp
+[10/03/2024 00:14]  a flamehound: (bonded)
+[10/03/2024 00:14]  a flamehound: a flamehound
+[10/03/2024 00:14]  a flamehound: (bonded)
+[10/03/2024 00:14]  a flamehound: a flamehound
+[10/03/2024 00:14]  a flamehound: (bonded)
+[10/03/2024 00:14]  a flamehound: a flamehound
+[10/03/2024 00:14]  a blood hellion: a blood hellion
+[10/03/2024 00:14]  an embear: (tame)
+[10/03/2024 00:14]  an embear: an embear
+[10/03/2024 00:14]  BurntNoob: [Infamous, DOPE]
+[10/03/2024 00:14]  BurntNoob: Lady BurntNoob
+[10/03/2024 00:14]  a blood hellion: a blood hellion
+[10/03/2024 00:14]  a blood hellion: a blood hellion
+[10/03/2024 00:14]  a blood troll: a blood troll
+[10/03/2024 00:14]  You see: a blood orc corpse
+[10/03/2024 00:14]  You see: a blood hellion corpse
+[10/03/2024 00:14]  a blood orc: a blood orc
+[10/03/2024 00:14]  a blood orc: a blood orc
+[10/03/2024 00:14]  a blood ogre mage: a blood ogre mage
+[10/03/2024 00:14]  a blood harpy: a blood harpy
+[10/03/2024 00:14]  an aegis whelp: an aegis whelp
+[10/03/2024 00:14]  a blood harpy: a blood harpy
+[10/03/2024 00:14]  a blood ogre mage: a blood ogre mage
+[10/03/2024 00:14]  System: LilJimmy has completed the achievement: Woodsman (Epic).
+[10/03/2024 00:14]  You see: a blood ogremage corpse
+[10/03/2024 00:14]  a clay man: a clay man
+[10/03/2024 00:14]  a blood troll: a blood troll
+[10/03/2024 00:14]  a blood troll: a blood troll
+[10/03/2024 00:14]  an aegis lich: an aegis lich
+[10/03/2024 00:14]  Ailiin: Target: a blood ogre mage
+[10/03/2024 00:14]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:14]  Razor: * Target *
+[10/03/2024 00:14]  a blood ogre mage: a blood ogre mage
+[10/03/2024 00:14]  an aegis noble: an aegis noble
+[10/03/2024 00:14]  System: You play successfully, pacifying your target. (46s)
+[10/03/2024 00:14]  a blood ogre mage: *looks calmed*
+[10/03/2024 00:14]  an aegis scorpion: an aegis scorpion
+[10/03/2024 00:14]  You see: a clay man corpse
+[10/03/2024 00:14]  You see: a coagulator corpse
+[10/03/2024 00:14]  You see: a blood rat corpse
+[10/03/2024 00:14]  You see: a coagulator corpse
+[10/03/2024 00:14]  You see: a clay man corpse
+[10/03/2024 00:14]  You see: a blood rat corpse
+[10/03/2024 00:14]  a bloodrat: a bloodrat
+[10/03/2024 00:14]  You see: a blood troll corpse
+[10/03/2024 00:14]  You see: a coagulator corpse
+[10/03/2024 00:14]  You see: a blood rat corpse
+[10/03/2024 00:14]  You see: a blood rat corpse
+[10/03/2024 00:14]  You see: a coagulator corpse
+[10/03/2024 00:14]  a clay man: a clay man
+[10/03/2024 00:14]  a bloodrat: *blood expertise*
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  a bloodrat: a bloodrat
+[10/03/2024 00:14]  a coagulator: a coagulator
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  an aegis asp: an aegis asp
+[10/03/2024 00:14]  an aegis lich: an aegis lich
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  an aegis lich: an aegis lich
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:14]  System: You increase your damage resistance to creature-casted spells.
+[10/03/2024 00:14]  Razor: [+Magic Resist Potion (120s)]
+[10/03/2024 00:14]  System: You must wait to perform another action.
+[10/03/2024 00:14]  an entombed: an entombed
+[10/03/2024 00:14]  an aegis cultist: an aegis cultist
+[10/03/2024 00:14]  an aegis noble: an aegis noble
+[10/03/2024 00:14]  You see: an aegis leech corpse
+[10/03/2024 00:14]  You see: a twilight guardian corpse
+[10/03/2024 00:14]  You see: the remains of Gorkash
+[10/03/2024 00:14]  You see: a skulker corpse
+[10/03/2024 00:14]  You see: an aegis leech corpse
+[10/03/2024 00:14]  You see: an aegis leech corpse
+[10/03/2024 00:14]  You see: an aegis leech corpse
+[10/03/2024 00:14]  You see: a twilight guardian corpse
+[10/03/2024 00:14]  You see: a skulker corpse
+[10/03/2024 00:14]  a bloodrat: *blood expertise*
+[10/03/2024 00:14]  You see: an aegis noble corpse
+[10/03/2024 00:14]  You see: an aegis leech corpse
+[10/03/2024 00:14]  You see: an aegis scorpion corpse
+[10/03/2024 00:14]  You see: an aegis leech corpse
+[10/03/2024 00:14]  a blood cyclops: a blood cyclops
+[10/03/2024 00:14]  a bloodwolf: a bloodwolf
+[10/03/2024 00:14]  You see: a chaos warrior corpse
+[10/03/2024 00:14]  Satan Hussein: [IDC]
+[10/03/2024 00:14]  Satan Hussein: Satan Hussein
+[10/03/2024 00:14]  a bloodwolf: a bloodwolf
+[10/03/2024 00:14]  You see: a blood cyclops corpse
+[10/03/2024 00:14]  System: Where do you wish to traverse to?
+[10/03/2024 00:14]  System: You must wait to perform another action.
+[10/03/2024 00:14]  a bloodrat: a bloodrat
+[10/03/2024 00:14]  Razor: [+Paralyze (0s)]
+[10/03/2024 00:14]  Razor: [-Paralyze (s)]
+[10/03/2024 00:14]  System: You are no longer hindered.
+[10/03/2024 00:14]  You see: a blood courser corpse
+[10/03/2024 00:14]  an aegis asp: an aegis asp
+[10/03/2024 00:14]  You see: the remains of Grey Ghost
+[10/03/2024 00:14]  You see: a bloodwolf corpse
+[10/03/2024 00:14]  You see: an aegis noble corpse
+[10/03/2024 00:14]  You see: a chaos warrior corpse
+[10/03/2024 00:14]  You see: an aegis asp corpse
+[10/03/2024 00:14]  an aegis noble: an aegis noble
+[10/03/2024 00:14]  a bloodrat: a bloodrat
+[10/03/2024 00:14]  You see: an aegis knight corpse
+[10/03/2024 00:14]  You see: a blood courser corpse
+[10/03/2024 00:14]  You see: an aegis noble corpse
+[10/03/2024 00:14]  You see: a blood courser corpse
+[10/03/2024 00:14]  Satan Hussein: [IDC]
+[10/03/2024 00:14]  Satan Hussein: Satan Hussein
+[10/03/2024 00:14]  an aegis noble: an aegis noble
+[10/03/2024 00:14]  System: Keibra has completed the achievement: Nature Slayer (Basic).
+[10/03/2024 00:14]  System: That is too far away.
+[10/03/2024 00:14]  a bloodwolf: a bloodwolf
+[10/03/2024 00:14]  a chaos warrior: a chaos warrior
+[10/03/2024 00:14]  You see: a blood courser corpse
+[10/03/2024 00:14]  You see: a blood cyclops corpse
+[10/03/2024 00:14]  You see: an aegis noble corpse
+[10/03/2024 00:14]  Mezzo: Beast Slayer
+[10/03/2024 00:14]  Mezzo: Lord Mezzo
+[10/03/2024 00:14]  an ankheg: (bonded)
+[10/03/2024 00:14]  an ankheg: an ankheg
+[10/03/2024 00:14]  You see: an aegis knight corpse
+[10/03/2024 00:14]  a poison mephit: (bonded)
+[10/03/2024 00:14]  a poison mephit: a poison mephit
+[10/03/2024 00:14]  an eldritch mephit: (bonded)
+[10/03/2024 00:14]  an eldritch mephit: an eldritch mephit
+[10/03/2024 00:14]  a poison mephit: (bonded)
+[10/03/2024 00:14]  a poison mephit: a poison mephit
+[10/03/2024 00:14]  an aegis knight: [Greater Poison]
+[10/03/2024 00:14]  an aegis knight: an aegis knight
+[10/03/2024 00:14]  System: PocketRocket has completed the achievement: Scribe (Advanced).
+[10/03/2024 00:14]  a chaos warrior: a chaos warrior
+[10/03/2024 00:14]  an aegis knight: *parries spell*
+[10/03/2024 00:14]  System: Where do you wish to traverse to?
+[10/03/2024 00:14]  Razor: [+Paralyze (0s)]
+[10/03/2024 00:14]  Razor: [-Paralyze (s)]
+[10/03/2024 00:14]  System: You are no longer hindered.
+[10/03/2024 00:14]  You see: an aegis knight corpse
+[10/03/2024 00:14]  a blood courser: a blood courser
+[10/03/2024 00:14]  You see: a blood courser corpse
+[10/03/2024 00:14]  You see: a blood courser corpse
+[10/03/2024 00:14]  a lich: (summoned)
+[10/03/2024 00:14]  a lich: a lich
+[10/03/2024 00:14]  You see: an aegis knight corpse
+[10/03/2024 00:14]  You see: a blood courser corpse
+[10/03/2024 00:14]  Necroswan: Necroswan
+[10/03/2024 00:14]  You see: an aegis asp corpse
+[10/03/2024 00:14]  an aegis asp: an aegis asp
+[10/03/2024 00:14]  You see: a chaos knight corpse
+[10/03/2024 00:14]  You see: a chaos knight corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a blood ravager corpse
+[10/03/2024 00:14]  You see: a chaos knight corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a chaos knight corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a blood scorpion corpse
+[10/03/2024 00:14]  You see: a blood ravager corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a blood scorpion corpse
+[10/03/2024 00:14]  Close One: [Chicki's Chosen, RAT]
+[10/03/2024 00:14]  Close One: Close One
+[10/03/2024 00:14]  a malform: a malform
+[10/03/2024 00:14]  a blood ravager: a blood ravager
+[10/03/2024 00:14]  a blood scorpion: a blood scorpion
+[10/03/2024 00:14]  a blood serpent: a blood serpent
+[10/03/2024 00:14]  a blood scorpion: a blood scorpion
+[10/03/2024 00:14]  You see: a chaos knight corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a chaos knight corpse
+[10/03/2024 00:14]  You see: a chaos knight corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a chaos knight corpse
+[10/03/2024 00:14]  You see: blood elemental corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a doppelganger corpse
+[10/03/2024 00:14]  You see: a bloodworm corpse
+[10/03/2024 00:14]  You see: a malform corpse
+[10/03/2024 00:14]  You see: a doppelganger corpse
+[10/03/2024 00:14]  You see: a blood serpent corpse
+[10/03/2024 00:14]  a doppelganger: a doppelganger
+[10/03/2024 00:14]  a blood serpent: a blood serpent
+[10/03/2024 00:14]  You see: a blood fiend corpse
+[10/03/2024 00:14]  a chaos knight: a chaos knight
+[10/03/2024 00:14]  You see: a chaos knight corpse
+[10/03/2024 00:14]  You see: a blood hunter corpse
+[10/03/2024 00:15]  You see: a chaos knight corpse
+[10/03/2024 00:15]  System: The world will save in 15 seconds.
+[10/03/2024 00:15]  Close One: [Chicki's Chosen, RAT]
+[10/03/2024 00:15]  Close One: Close One
+[10/03/2024 00:15]  You see: blood elemental corpse
+[10/03/2024 00:15]  You see: a chaos knight corpse
+[10/03/2024 00:15]  You see: a malform corpse
+[10/03/2024 00:15]  You see: blood elemental corpse
+[10/03/2024 00:15]  You see: a malform corpse
+[10/03/2024 00:15]  You see: a blood sorcerer corpse
+[10/03/2024 00:15]  You see: a blood sorcerer corpse
+[10/03/2024 00:15]  You see: a chaos knight corpse
+[10/03/2024 00:15]  You see: the remains of Gothdog
+[10/03/2024 00:15]  You see: blood elemental corpse
+[10/03/2024 00:15]  a blood serpent: a blood serpent
+[10/03/2024 00:15]  You see: a lesser blood daemon corpse
+[10/03/2024 00:15]  You see: a blood sorcerer corpse
+[10/03/2024 00:15]  You see: a blood sorcerer corpse
+[10/03/2024 00:15]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:15]  You see: a blood sorcerer corpse
+[10/03/2024 00:15]  You see: a blood sorcerer corpse
+[10/03/2024 00:15]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:15]  You see: a lesser blood daemon corpse
+[10/03/2024 00:15]  You see: a doppelganger corpse
+[10/03/2024 00:15]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:15]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:15]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:15]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:15]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:15]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:15]  You see: a blood fiend corpse
+[10/03/2024 00:15]  You see: a chaos knight corpse
+[10/03/2024 00:15]  You see: a blood fiend corpse
+[10/03/2024 00:15]  Close One: [Chicki's Chosen, RAT]
+[10/03/2024 00:15]  Close One: Close One
+[10/03/2024 00:15]  You see: a blood fiend corpse
+[10/03/2024 00:15]  You see: a bloodworm corpse
+[10/03/2024 00:15]  Ailiin: Target: a chaos knight
+[10/03/2024 00:15]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:15]  Razor: * Target *
+[10/03/2024 00:15]  System: You play successfully, pacifying your target. (46s)
+[10/03/2024 00:15]  a chaos knight: *looks calmed*
+[10/03/2024 00:15]  You see: a blood feaster corpse
+[10/03/2024 00:15]  Xander Xavier: Wilderness Guardian
+[10/03/2024 00:15]  Xander Xavier: [Magnate, COOL]
+[10/03/2024 00:15]  Xander Xavier: Xander Xavier
+[10/03/2024 00:15]  a chaos knight: a chaos knight
+[10/03/2024 00:15]  a blood serpent: a blood serpent
+[10/03/2024 00:15]  a doppelganger: a doppelganger
+[10/03/2024 00:15]  a chaos knight: -157
+[10/03/2024 00:15]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:15]  [Razor]: New target set.
+[10/03/2024 00:15]  [Razor]: Ignore List cleared
+[10/03/2024 00:15]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:15]  Gothdog: [Druid, BEAR]
+[10/03/2024 00:15]  Gothdog: Gothdog
+[10/03/2024 00:15]  You see: a chaos knight corpse
+[10/03/2024 00:15]  a blood feaster: a blood feaster
+[10/03/2024 00:15]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:15]  a chaos knight: -105
+[10/03/2024 00:15]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:15]  [Razor]: New target set.
+[10/03/2024 00:15]  [Razor]: Ignore List cleared
+[10/03/2024 00:15]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:15]  System: The world is saving, please wait.
+[10/03/2024 00:15]  System: World save complete. The entire process took 2.8 seconds.
+[10/03/2024 00:15]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 46s)
+[10/03/2024 00:15]  Razor: -86
+[10/03/2024 00:15]  a chaos knight: *pacified 37s discord 1m 46s*
+[10/03/2024 00:15]  a chaos knight: a chaos knight
+[10/03/2024 00:15]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:15]  a blood hunter: a blood hunter
+[10/03/2024 00:15]  You see: a bloodworm corpse
+[10/03/2024 00:15]  You see: a chaos knight corpse
+[10/03/2024 00:15]  System: Your shot hinders your target!
+[10/03/2024 00:15]  a chaos knight: -226
+[10/03/2024 00:15]  Razor: [*** Hinder Target ***]
+[10/03/2024 00:15]  a doppelganger: a doppelganger
+[10/03/2024 00:15]  System: Ready? (RDY) guild has reached prestige level 170.
+[10/03/2024 00:15]  a doppelganger: a doppelganger
+[10/03/2024 00:15]  Novikof: Lord Novikof
+[10/03/2024 00:15]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/03/2024 00:15]  a blood hunter: a blood hunter
+[10/03/2024 00:15]  You see: a blood serpent corpse
+[10/03/2024 00:15]  You see: a doppelganger corpse
+[10/03/2024 00:15]  Razor: * Target *
+[10/03/2024 00:15]  a malform: a malform
+[10/03/2024 00:15]  System: Whom do you wish them to attack?
+[10/03/2024 00:15]  Razor: * Target *
+[10/03/2024 00:15]  System: You play successfully, provoking your targets. (53s)
+[10/03/2024 00:15]  a blood hunter: -156
+[10/03/2024 00:15]  a blood hunter: *looks furious*
+[10/03/2024 00:15]  a chaos knight: *looks furious*
+[10/03/2024 00:15]  You see: a bloodworm corpse
+[10/03/2024 00:15]  Xander Xavier: Wilderness Guardian
+[10/03/2024 00:15]  Xander Xavier: [Magnate, COOL]
+[10/03/2024 00:15]  Xander Xavier: Xander Xavier
+[10/03/2024 00:15]  a chaos knight: a chaos knight
+[10/03/2024 00:15]  a blood hunter: *blood frenzy*
+[10/03/2024 00:15]  You see: a chaos knight corpse
+[10/03/2024 00:15]  You see: the remains of Gothdog
+[10/03/2024 00:15]  a blood hunter: a blood hunter
+[10/03/2024 00:15]  a chaos knight: -101
+[10/03/2024 00:15]  a blood hunter: -58
+[10/03/2024 00:15]  a blood hunter: -47
+[10/03/2024 00:15]  a chaos knight: -209
+[10/03/2024 00:15]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:15]  Zes Ria: Zes Ria
+[10/03/2024 00:15]  Razor: * Target *
+[10/03/2024 00:15]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 46s)
+[10/03/2024 00:15]  a blood hunter: -56
+[10/03/2024 00:15]  a chaos knight: -213
+[10/03/2024 00:15]  Tattercoats: [Tatertots, HiTi]
+[10/03/2024 00:15]  Tattercoats: Lady Tattercoats
+[10/03/2024 00:15]  a blood hunter: -38
+[10/03/2024 00:15]  a chaos knight: -202
+[10/03/2024 00:15]  a blood hunter: -56
+[10/03/2024 00:15]  Xander Xavier: Wilderness Guardian
+[10/03/2024 00:15]  Xander Xavier: [Magnate, COOL]
+[10/03/2024 00:15]  Xander Xavier: Xander Xavier
+[10/03/2024 00:15]  a chaos knight: -158
+[10/03/2024 00:15]  a chaos knight: -25
+[10/03/2024 00:15]  a chaos knight: -141
+[10/03/2024 00:15]  a chaos knight: -40
+[10/03/2024 00:15]  a chaos knight: -125
+[10/03/2024 00:15]  a blood hunter: -50
+[10/03/2024 00:15]  a blood hunter: -56
+[10/03/2024 00:15]  a chaos knight: -14
+[10/03/2024 00:15]  a chaos knight: -25
+[10/03/2024 00:15]  a chaos knight: -108
+[10/03/2024 00:15]  a blood hunter: -50
+[10/03/2024 00:15]  Xander Xavier: Wilderness Guardian
+[10/03/2024 00:15]  Xander Xavier: [Magnate, COOL]
+[10/03/2024 00:15]  Xander Xavier: Xander Xavier
+[10/03/2024 00:15]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/03/2024 00:15]  System: Whom do you wish them to attack?
+[10/03/2024 00:15]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[10/03/2024 00:15]  a chaos knight: -286
+[10/03/2024 00:15]  Razor: * Target *
+[10/03/2024 00:15]  a chaos knight: -14
+[10/03/2024 00:15]  System: You play successfully, provoking your targets. (53s)
+[10/03/2024 00:15]  a blood hunter: *looks furious*
+[10/03/2024 00:15]  a chaos knight: *looks furious*
+[10/03/2024 00:15]  a chaos knight: -32
+[10/03/2024 00:15]  a blood hunter: -45
+[10/03/2024 00:15]  a chaos knight: -226
+[10/03/2024 00:15]  You see: exceptional avarite earth aspect viking sword
+[10/03/2024 00:15]  You see: [mastercrafted by Christine Jones]
+[10/03/2024 00:15]  a blood hunter: -56
+[10/03/2024 00:15]  a chaos knight: -14
+[10/03/2024 00:15]  a chaos knight: -14
+[10/03/2024 00:15]  a chaos knight: -27
+[10/03/2024 00:15]  You see: an exquisite mastery chain
+[10/03/2024 00:15]  You see: [blessed]
+[10/03/2024 00:15]  You see: (bound to Xander Xavier)
+[10/03/2024 00:15]  a chaos knight: -110
+[10/03/2024 00:15]  a blood hunter: -40
+[10/03/2024 00:15]  You see: an exquisite mastery chain
+[10/03/2024 00:15]  You see: [blessed]
+[10/03/2024 00:15]  You see: (bound to Xander Xavier)
+[10/03/2024 00:15]  a chaos knight: -14
+[10/03/2024 00:15]  a chaos knight: -14
+[10/03/2024 00:15]  a chaos knight: -29
+[10/03/2024 00:16]  a blood hunter: *blood frenzy*
+[10/03/2024 00:16]  Glorscht: Aegis Keep Legend
+[10/03/2024 00:16]  Glorscht: [#Bonk Life, O|P]
+[10/03/2024 00:16]  Glorscht: Lord Glorscht
+[10/03/2024 00:16]  a chaos knight: -218
+[10/03/2024 00:16]  System: Your shot turns the target into a pincushion.
+[10/03/2024 00:16]  a chaos knight: -424
+[10/03/2024 00:16]  a chaos knight: -411
+[10/03/2024 00:16]  System: You have gained a lot of fame.
+[10/03/2024 00:16]  System: You have gained a lot of karma.
+[10/03/2024 00:16]  Ailiin: (Lyric Aspect 1,858.5/3000 xp)
+[10/03/2024 00:16]  System: Society Job Progress: 22,600/25,000 [Kill 25,000 Gold Worth of Creatures].
+[10/03/2024 00:16]  System: -232
+[10/03/2024 00:16]  You see: a chaos knight corpse
+[10/03/2024 00:16]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:16]  You see: a chaos knight corpse
+[10/03/2024 00:16]  Ailiin: Target: a blood hunter
+[10/03/2024 00:16]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:16]  System: Your shot hinders your target!
+[10/03/2024 00:16]  a blood hunter: -182
+[10/03/2024 00:16]  Razor: [*** Hinder Target ***]
+[10/03/2024 00:16]  a blood serpent: a blood serpent
+[10/03/2024 00:16]  Warkitten: [yipes it's, DTF]
+[10/03/2024 00:16]  Warkitten: Lady Warkitten
+[10/03/2024 00:16]  You see: a blood serpent corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  Ailiin: Your aspect items revert to normal (no arcane essence remaining).
+[10/03/2024 00:16]  a blood hunter: -173
+[10/03/2024 00:16]  Ailiin: Target: a blood hunter
+[10/03/2024 00:16]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:16]  Razor: * Target *
+[10/03/2024 00:16]  System: You play successfully, pacifying your target. (48s)
+[10/03/2024 00:16]  a blood hunter: *looks calmed*
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  a blood hunter: -180
+[10/03/2024 00:16]  a blood hunter: -163
+[10/03/2024 00:16]  a blood hunter: *barding break*
+[10/03/2024 00:16]  Ailiin: -8
+[10/03/2024 00:16]  System: The creature strikes ferociously, causing you to bleed!
+[10/03/2024 00:16]  Razor: [+Bleed (15s)]
+[10/03/2024 00:16]  System: Who will you use the bandages on?
+[10/03/2024 00:16]  System: You begin applying the bandages.
+[10/03/2024 00:16]  Razor: Bandage: 7s
+[10/03/2024 00:16]  Ailiin: Target: a blood hunter
+[10/03/2024 00:16]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:16]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[10/03/2024 00:16]  a blood hunter: -156
+[10/03/2024 00:16]  Razor: Bandage: 6s
+[10/03/2024 00:16]  You see: a chaos knight corpse
+[10/03/2024 00:16]  Novikof: Lord Novikof
+[10/03/2024 00:16]  You see: a chaos knight corpse
+[10/03/2024 00:16]  You see: the remains of Gothdog
+[10/03/2024 00:16]  Ailiin: -2
+[10/03/2024 00:16]  Razor: Bandage: 5s
+[10/03/2024 00:16]  Ailiin: Target: a blood hunter
+[10/03/2024 00:16]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  Razor: Bandage: 4s
+[10/03/2024 00:16]  System: Your shot hinders your target!
+[10/03/2024 00:16]  a blood hunter: -201
+[10/03/2024 00:16]  Razor: [*** Hinder Target ***]
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  Razor: Bandage: 3s
+[10/03/2024 00:16]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  Tattercoats: [Tatertots, HiTi]
+[10/03/2024 00:16]  Tattercoats: Lady Tattercoats
+[10/03/2024 00:16]  You see: a blood dragon corpse
+[10/03/2024 00:16]  a malform: a malform
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  Ailiin: -3
+[10/03/2024 00:16]  Razor: Bandage: 2s
+[10/03/2024 00:16]  a blood hunter: -107
+[10/03/2024 00:16]  Razor: Bandage: 1s
+[10/03/2024 00:16]  Ailiin: Target: a blood hunter
+[10/03/2024 00:16]  System: You finish applying the bandages.
+[10/03/2024 00:16]  Ailiin: +12
+[10/03/2024 00:16]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:16]  System: You play successfully, pacifying your target. (48s)
+[10/03/2024 00:16]  a blood hunter: *looks calmed*
+[10/03/2024 00:16]  Ailiin: -2
+[10/03/2024 00:16]  a blood hunter: -148
+[10/03/2024 00:16]  a blood sorcerer: *summons bloodstorm*
+[10/03/2024 00:16]  a chaos knight: a chaos knight
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  Ailiin: -2
+[10/03/2024 00:16]  System: Who will you use the bandages on?
+[10/03/2024 00:16]  System: You begin applying the bandages.
+[10/03/2024 00:16]  Razor: Bandage: 7s
+[10/03/2024 00:16]  a blood hunter: -161
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  You see: a blood fiend corpse
+[10/03/2024 00:16]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:16]  Razor: Bandage: 6s
+[10/03/2024 00:16]  Ailiin: -2
+[10/03/2024 00:16]  System: Your fingers slip!
+[10/03/2024 00:16]  System: You are no longer bleeding.
+[10/03/2024 00:16]  Razor: [-Bleed (s)]
+[10/03/2024 00:16]  Razor: Bandage: 5s
+[10/03/2024 00:16]  You see: a chaos knight corpse
+[10/03/2024 00:16]  You see: a blood feaster corpse
+[10/03/2024 00:16]  Razor: Bandage: 4s
+[10/03/2024 00:16]  a blood serpent: a blood serpent
+[10/03/2024 00:16]  You see: a blood serpent corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  Razor: Bandage: 3s
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  Zes Ria: Enchanter
+[10/03/2024 00:16]  Zes Ria: [rekt]
+[10/03/2024 00:16]  Zes Ria: Lady Zes Ria
+[10/03/2024 00:16]  Ailiin: Target: a chaos knight
+[10/03/2024 00:16]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:16]  You see: a bloodworm corpse
+[10/03/2024 00:16]  You see: a chaos knight corpse
+[10/03/2024 00:16]  Razor: Bandage: 2s
+[10/03/2024 00:16]  Ailiin: Target: a chaos knight
+[10/03/2024 00:16]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:16]  Ailiin: Target: a chaos knight
+[10/03/2024 00:16]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:16]  Razor: Bandage: 1s
+[10/03/2024 00:16]  Razor: * Target *
+[10/03/2024 00:16]  System: You play successfully, pacifying your target. (41s)
+[10/03/2024 00:16]  a chaos knight: *looks calmed*
+[10/03/2024 00:16]  System: Your magic resist potion has worn off.
+[10/03/2024 00:16]  Razor: [-Magic Resist Potion (s)]
+[10/03/2024 00:16]  System: You finish applying the bandages.
+[10/03/2024 00:16]  Ailiin: +4
+[10/03/2024 00:16]  a chaos knight: -90
+[10/03/2024 00:16]  You see: a blood fiend corpse
+[10/03/2024 00:16]  You see: a blood feaster corpse
+[10/03/2024 00:16]  You see: a chaos knight corpse
+[10/03/2024 00:16]  You see: the remains of Gothdog
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  Ailiin: Target: a blood hunter
+[10/03/2024 00:16]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  a blood fiend: a blood fiend
+[10/03/2024 00:16]  You see: a blood fiend corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  System: Being perfectly rested, you shove something invisible out of the way.
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  a chaos knight: *barding break*
+[10/03/2024 00:16]  a blood hunter: -180
+[10/03/2024 00:16]  a blood fiend: *taunted*
+[10/03/2024 00:16]  a blood fiend: *blood frenzy*
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  You see: blood elemental corpse
+[10/03/2024 00:16]  a malform: a malform
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  a blood serpent: a blood serpent
+[10/03/2024 00:16]  You see: blood elemental corpse
+[10/03/2024 00:16]  You see: a blood serpent corpse
+[10/03/2024 00:16]  Ailiin: Target: a chaos knight
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:16]  System: You play successfully, pacifying your target. (41s)
+[10/03/2024 00:16]  a chaos knight: *looks calmed*
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:16]  a blood fiend: a blood fiend
+[10/03/2024 00:16]  You see: a chaos knight corpse
+[10/03/2024 00:16]  Zes Ria: Enchanter
+[10/03/2024 00:16]  Zes Ria: [rekt]
+[10/03/2024 00:16]  Zes Ria: Lady Zes Ria
+[10/03/2024 00:16]  You see: a blood fiend corpse
+[10/03/2024 00:16]  You see: a blood feaster corpse
+[10/03/2024 00:16]  You see: a chaos knight corpse
+[10/03/2024 00:16]  You see: the remains of Gothdog
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  Ailiin: Target: a blood hunter
+[10/03/2024 00:16]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:16]  a blood hunter: -139
+[10/03/2024 00:16]  You see: a blood fiend corpse
+[10/03/2024 00:16]  Rexter: Daemonic Slayer
+[10/03/2024 00:16]  Rexter: [Member, R&S]
+[10/03/2024 00:16]  Rexter: Lord Rexter
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:16]  [Razor]: New target set.
+[10/03/2024 00:16]  Razor: * Target *
+[10/03/2024 00:16]  [Razor]: Ignore List cleared
+[10/03/2024 00:16]  System: You have gained a good amount of fame.
+[10/03/2024 00:16]  System: You have gained a good amount of karma.
+[10/03/2024 00:16]  Ailiin: (Lyric Aspect 1,866.4/3000 xp)
+[10/03/2024 00:16]  System: Society Job Progress: 22,995/25,000 [Kill 25,000 Gold Worth of Creatures].
+[10/03/2024 00:16]  System: -2
+[10/03/2024 00:16]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  Close One: [Chicki's Chosen, RAT]
+[10/03/2024 00:16]  Close One: Close One
+[10/03/2024 00:16]  System: What corpse or location do you wish to carve?
+[10/03/2024 00:16]  System: You carve materials from the corpse.
+[10/03/2024 00:16]  System: You must wait another moment before you may pick up an item from here.
+[10/03/2024 00:16]  Tattercoats: [Tatertots, HiTi]
+[10/03/2024 00:16]  Tattercoats: Lady Tattercoats
+[10/03/2024 00:16]  Glorscht: Aegis Keep Legend
+[10/03/2024 00:16]  Glorscht: [#Bonk Life, O|P]
+[10/03/2024 00:16]  Glorscht: Lord Glorscht
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a blood sorcerer corpse
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a malform corpse
+[10/03/2024 00:16]  You see: a blood dragon corpse
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  Warkitten: [yipes it's, DTF]
+[10/03/2024 00:16]  Warkitten: Lady Warkitten
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  You see: a lesser blood daemon corpse
+[10/03/2024 00:16]  You see: a doppelganger corpse
+[10/03/2024 00:16]  You see: a blood daemon corpse
+[10/03/2024 00:16]  You see: a blood hunter corpse
+[10/03/2024 00:16]  Warkitten: [yipes it's, DTF]
+[10/03/2024 00:16]  Warkitten: Lady Warkitten
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  You see: a doppelganger corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:17]  an earth elemental: (summoned)
+[10/03/2024 00:17]  an earth elemental: an earth elemental
+[10/03/2024 00:17]  an earth elemental: (summoned)
+[10/03/2024 00:17]  an earth elemental: an earth elemental
+[10/03/2024 00:17]  Zkittlez: [Syn]
+[10/03/2024 00:17]  Zkittlez: Lord Zkittlez
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  System: What corpse or location do you wish to carve?
+[10/03/2024 00:17]  System: You carve materials from the corpse.
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  a blood dragon: a blood dragon
+[10/03/2024 00:17]  System: You must wait another moment before you may pick up an item from here.
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a chaos knight corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  a blood dragon: *looks violently ill*
+[10/03/2024 00:17]  Glorscht: Aegis Keep Legend
+[10/03/2024 00:17]  Glorscht: [#Bonk Life, O|P]
+[10/03/2024 00:17]  Glorscht: Lord Glorscht
+[10/03/2024 00:17]  a blood dragon: *looks violently ill*
+[10/03/2024 00:17]  You see: a doppelganger corpse
+[10/03/2024 00:17]  a blood dragon: *looks violently ill*
+[10/03/2024 00:17]  System: You have gained a little fame.
+[10/03/2024 00:17]  System: You have gained a little karma.
+[10/03/2024 00:17]  System: Society Job Progress: 23,010/25,000 [Kill 25,000 Gold Worth of Creatures].
+[10/03/2024 00:17]  a blood dragon: *looks violently ill*
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  a blood dragon: *looks violently ill*
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a chaos knight corpse
+[10/03/2024 00:17]  You see: a blood hunter corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  a lesser blood daemon: a lesser blood daemon
+[10/03/2024 00:17]  Glorscht: Aegis Keep Legend
+[10/03/2024 00:17]  Glorscht: [#Bonk Life, O|P]
+[10/03/2024 00:17]  Glorscht: Lord Glorscht
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  a blood dragon: a blood dragon
+[10/03/2024 00:17]  an earth elemental: (summoned)
+[10/03/2024 00:17]  an earth elemental: an earth elemental
+[10/03/2024 00:17]  an earth elemental: (summoned)
+[10/03/2024 00:17]  an earth elemental: an earth elemental
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  Zkittlez: [Syn]
+[10/03/2024 00:17]  Zkittlez: Lord Zkittlez
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/03/2024 00:17]  a lesser blood daemon: *blood rage*
+[10/03/2024 00:17]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  You see: a chaos knight corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a chaos knight corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: What corpse or location do you wish to carve?
+[10/03/2024 00:17]  System: You carve materials from the corpse.
+[10/03/2024 00:17]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/03/2024 00:17]  You see: a blood hunter corpse
+[10/03/2024 00:17]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:17]  Tattercoats: [Tatertots, HiTi]
+[10/03/2024 00:17]  Tattercoats: Lady Tattercoats
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a blood fiend corpse
+[10/03/2024 00:17]  You see: a blood fiend corpse
+[10/03/2024 00:17]  Zkittlez: [Syn]
+[10/03/2024 00:17]  Zkittlez: Lord Zkittlez
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/03/2024 00:17]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:17]  System: What corpse or location do you wish to carve?
+[10/03/2024 00:17]  System: You carve materials from the corpse.
+[10/03/2024 00:17]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/03/2024 00:17]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/03/2024 00:17]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/03/2024 00:17]  You see: a doppelganger corpse
+[10/03/2024 00:17]  You see: a doppelganger corpse
+[10/03/2024 00:17]  You see: a doppelganger corpse
+[10/03/2024 00:17]  You see: a blood hunter corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  Glorscht: Aegis Keep Legend
+[10/03/2024 00:17]  Glorscht: [#Bonk Life, O|P]
+[10/03/2024 00:17]  Glorscht: Lord Glorscht
+[10/03/2024 00:17]  Close One: [Chicki's Chosen, RAT]
+[10/03/2024 00:17]  Close One: Close One
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a chaos knight corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a blood hunter corpse
+[10/03/2024 00:17]  You see: the remains of Gothdog
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a malform corpse
+[10/03/2024 00:17]  You see: a blood hunter corpse
+[10/03/2024 00:17]  You see: a chaos knight corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  Zkittlez: [Syn]
+[10/03/2024 00:17]  Zkittlez: Lord Zkittlez
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a malform corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  Rexter: Daemonic Slayer
+[10/03/2024 00:17]  Rexter: [Member, R&S]
+[10/03/2024 00:17]  Rexter: Lord Rexter
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a chaos knight corpse
+[10/03/2024 00:17]  You see: a blood hunter corpse
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  Warkitten: [yipes it's, DTF]
+[10/03/2024 00:17]  Warkitten: Lady Warkitten
+[10/03/2024 00:17]  a blood feaster: a blood feaster
+[10/03/2024 00:17]  You see: a doppelganger corpse
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  You see: a doppelganger corpse
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  Zkittlez: [Syn]
+[10/03/2024 00:17]  Zkittlez: Lord Zkittlez
+[10/03/2024 00:17]  an earth elemental: (summoned)
+[10/03/2024 00:17]  an earth elemental: an earth elemental
+[10/03/2024 00:17]  an earth elemental: (summoned)
+[10/03/2024 00:17]  an earth elemental: an earth elemental
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a blood dragon corpse
+[10/03/2024 00:17]  Rexter: Daemonic Slayer
+[10/03/2024 00:17]  Rexter: [Member, R&S]
+[10/03/2024 00:17]  Rexter: Lord Rexter
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  a blood dragon: a blood dragon
+[10/03/2024 00:17]  a lesser blood daemon: a lesser blood daemon
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  You see: a doppelganger corpse
+[10/03/2024 00:17]  You see: a doppelganger corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  a lesser blood daemon: a lesser blood daemon
+[10/03/2024 00:17]  Tattercoats: [Tatertots, HiTi]
+[10/03/2024 00:17]  Tattercoats: Lady Tattercoats
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  a blood dragon: *looks violently ill*
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  You see: the remains of Mobius Red
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  a lesser blood daemon: *blood rage*
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  a blood hunter: a blood hunter
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  Ailiin: -32
+[10/03/2024 00:17]  You see: a blood feaster corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a blood sorcerer corpse
+[10/03/2024 00:17]  You see: a blood hunter corpse
+[10/03/2024 00:17]  You see: a lesser blood daemon corpse
+[10/03/2024 00:17]  You see: a malform corpse
+[10/03/2024 00:17]  a blood daemon: a blood daemon
+[10/03/2024 00:17]  You see: a blood daemon corpse
+[10/03/2024 00:17]  You see: a chaos knight corpse
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:17]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:18]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/03/2024 00:18]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:18]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:18]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:18]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:18]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:18]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:18]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:18]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:18]  You see: a blood sorcerer corpse
+[10/03/2024 00:18]  You see: a blood hunter corpse
+[10/03/2024 00:18]  System: You are now under the protection of the town guards.
+[10/03/2024 00:18]  Razor: [+Hidden/Stealthing (0s)]
+[10/03/2024 00:18]  Razor: Steps: 0
+[10/03/2024 00:18]  Ailiin: Your mount returns.
+[10/03/2024 00:18]  a dog: a dog
+[10/03/2024 00:18]  a dog: a dog
+[10/03/2024 00:18]  a bull: a bull
+[10/03/2024 00:18]  a dog: a dog
+[10/03/2024 00:18]  Cedric: Cedric the farmer
+[10/03/2024 00:18]  Razor: [-Hidden/Stealthing (s)]
+[10/03/2024 00:18]  Keara: Keara the stablemaster
+[10/03/2024 00:18]  Keara: Keara the stablemaster
+[10/03/2024 00:18]  a pig: a pig
+[10/03/2024 00:18]  Hanan: Hanan the animal wrangler
+[10/03/2024 00:18]  Kama: Kama the creature broker
+[10/03/2024 00:18]  a dog: a dog
+[10/03/2024 00:18]  Renee: Renee the stablemaster
+[10/03/2024 00:18]  a dog: a dog
+[10/03/2024 00:18]  Sergio Rangel: Sergio Rangel
+[10/03/2024 00:18]  Thurston: Thurston the waiter
+[10/03/2024 00:18]  a goat: a goat
+[10/03/2024 00:18]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:18]  [Razor]: New target set.
+[10/03/2024 00:18]  Razor: * Target *
+[10/03/2024 00:18]  [Razor]: Ignore List cleared
+[10/03/2024 00:18]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:18]  System: That is too far away.
+[10/03/2024 00:18]  Lunt: Lunt the herbalist
+[10/03/2024 00:18]  Adena: Adena the alchemist
+[10/03/2024 00:18]  System: Entity not found.
+[10/03/2024 00:18]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:18]  Donnelly: Donnelly the scribe
+[10/03/2024 00:18]  Asta: Asta the mage
+[10/03/2024 00:18]  Ravi: Ravi the Town Crier
+[10/03/2024 00:18]  a dog: a dog
+[10/03/2024 00:18]  Razor: description
+[10/03/2024 00:18]  a cat: a cat
+[10/03/2024 00:18]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:18]  System: Who will you use the bandages on?
+[10/03/2024 00:18]  System: You begin applying the bandages.
+[10/03/2024 00:18]  Razor: Bandage: 7s
+[10/03/2024 00:18]  Thurston: Thurston the waiter
+[10/03/2024 00:18]  a dog: a dog
+[10/03/2024 00:18]  Denton: Denton the innkeeper
+[10/03/2024 00:18]  Razor: Bandage: 6s
+[10/03/2024 00:18]  Renee: Renee the stablemaster
+[10/03/2024 00:18]  Keara: Keara the stablemaster
+[10/03/2024 00:18]  Razor: Bandage: 5s
+[10/03/2024 00:18]  a goat: a goat
+[10/03/2024 00:18]  a dog: a dog
+[10/03/2024 00:18]  Ailiin: Bank Vendor buy
+[10/03/2024 00:18]  Sergio Rangel: Sergio Rangel
+[10/03/2024 00:18]  Razor: Bandage: 4s
+[10/03/2024 00:18]  Ailiin: Room
+[10/03/2024 00:18]  System: You have left the protection of the town guards.
+[10/03/2024 00:18]  System: You enter the rental room.
+[10/03/2024 00:18]  System: WorldMap loaded!
+[10/03/2024 00:18]  Geodoro: Geodoro
+[10/03/2024 00:18]  Razor: Bandage: 3s
+[10/03/2024 00:18]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:18]  Razor: Bandage: 2s
+[10/03/2024 00:18]  Razor: Bandage: 1s
+[10/03/2024 00:18]  System: You finish applying the bandages.
+[10/03/2024 00:18]  Ailiin: +26
+[10/03/2024 00:18]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:18]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:18]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:18]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:18]  : wooden planks
+[10/03/2024 00:18]  : wooden planks
+[10/03/2024 00:18]  [Razor]: Organize Agent queued 5 item(s) to be moved. (This may take a few moments)
+[10/03/2024 00:18]  System: That container cannot hold more items.
+[10/03/2024 00:18]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:18]  System: That container cannot hold more items.
+[10/03/2024 00:18]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:18]  System: That container cannot hold more items.
+[10/03/2024 00:18]  [Razor]: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[10/03/2024 00:18]  System: That container cannot hold more items.
+[10/03/2024 00:18]  System: That container cannot hold more items.
+[10/03/2024 00:18]  System: That container cannot hold more items.
+[10/03/2024 00:18]  System: That container cannot hold more items.
+[10/03/2024 00:18]  System: That container cannot hold more items.
+[10/03/2024 00:18]  [Razor]: Finished 8 queued actions in 4.2 seconds.
+[10/03/2024 00:18]  You see: spellbook
+[10/03/2024 00:18]  You see: (0 spells)
+[10/03/2024 00:18]  You see: [blessed]
+[10/03/2024 00:18]  You see: poison scroll
+[10/03/2024 00:18]  You see: paralyze field scroll : 5
+[10/03/2024 00:19]  System: That container cannot hold more items.
+[10/03/2024 00:19]  System: That container cannot hold more items.
+[10/03/2024 00:19]  System: That container cannot hold more items.
+[10/03/2024 00:19]  System: That container cannot hold more items.
+[10/03/2024 00:19]  You see: exceptional verehide wizard's satchel
+[10/03/2024 00:19]  You see: [mastercrafted by Lil Slap]
+[10/03/2024 00:19]  You see: (0 items, 26 stones)
+[10/03/2024 00:19]  System: That container cannot hold more items.
+[10/03/2024 00:19]  System: That container cannot hold more items.
+[10/03/2024 00:19]  You see: raw ribs : 60
+[10/03/2024 00:19]  You see: recall scroll : 985
+[10/03/2024 00:19]  You see: cooked ribs : 1157
+[10/03/2024 00:19]  You see: (paltry)
+[10/03/2024 00:19]  You see: cooked ribs : 50
+[10/03/2024 00:19]  You see: (paltry)
+[10/03/2024 00:19]  System: That container cannot hold more items.
+[10/03/2024 00:19]  System: That container cannot hold more items.
+[10/03/2024 00:20]  System: That container cannot hold more items.
+[10/03/2024 00:20]  System: You have a new trash barrel.  Three minutes after you put something in the barrel, the trash will be emptied.  Be forewarned, this is permanent!
+[10/03/2024 00:20]  Ailiin: i wish to place a trash barrel
+[10/03/2024 00:20]  System: Dove Emry has completed the achievement: Trapper (Basic).
+[10/03/2024 00:21]  System: Dimbor The Dull has completed the achievement: Beastmaster (Basic).
+[10/03/2024 00:24]  You see: raw ribs : 60
+[10/03/2024 00:24]  [Razor]: Organize Agent queued 5 item(s) to be moved. (This may take a few moments)
+[10/03/2024 00:24]  [Razor]: Warning: Nightshade amount is now 0!
+[10/03/2024 00:24]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:24]  [Razor]: Warning: Ginseng amount is now 0!
+[10/03/2024 00:24]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:24]  [Razor]: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[10/03/2024 00:24]  [Razor]: Warning: Black Pearl amount is now 0!
+[10/03/2024 00:24]  [Razor]: Warning: Mandrake Root amount is now 0!
+[10/03/2024 00:24]  [Razor]: Warning: Blood Moss amount is now 0!
+[10/03/2024 00:24]  [Razor]: Finished 8 queued actions in 4.2 seconds.
+[10/03/2024 00:24]  You see: gold coin : 2521
+[10/03/2024 00:24]  : wooden planks
+[10/03/2024 00:24]  You see: unidentified leather gloves
+[10/03/2024 00:24]  System: Target arcane essence you wish to consume and add to this character.
+[10/03/2024 00:24]  System: You must target arcane essence in your backpack.
+[10/03/2024 00:24]  System: Target arcane essence you wish to consume and add to this character.
+[10/03/2024 00:24]  System: You consume 135 arcane essence.
+[10/03/2024 00:24]  System: Being perfectly rested, you shove them out of the way.
+[10/03/2024 00:24]  System: Opening door...
+[10/03/2024 00:24]  System: You are now under the protection of the town guards.
+[10/03/2024 00:24]  System: You exit the rental room.
+[10/03/2024 00:24]  Hanan: Hanan the animal wrangler
+[10/03/2024 00:24]  Kama: Kama the creature broker
+[10/03/2024 00:24]  Sergio Rangel: Sergio Rangel
+[10/03/2024 00:24]  a dog: a dog
+[10/03/2024 00:24]  a goat: a goat
+[10/03/2024 00:24]  Keara: Keara the stablemaster
+[10/03/2024 00:24]  Renee: Renee the stablemaster
+[10/03/2024 00:24]  a dog: a dog
+[10/03/2024 00:24]  Denton: Denton the innkeeper
+[10/03/2024 00:24]  Thurston: Thurston the waiter
+[10/03/2024 00:24]  Callidora: Callidora the tavern keeper
+[10/03/2024 00:24]  a cat: a cat
+[10/03/2024 00:24]  System: Opening door...
+[10/03/2024 00:24]  Dacey: Dacey the waiter
+[10/03/2024 00:24]  a dog: a dog
+[10/03/2024 00:24]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:24]  System: WorldMap loaded!
+[10/03/2024 00:25]  Ravi: Ravi the Town Crier
+[10/03/2024 00:25]  Donnelly: Donnelly the scribe
+[10/03/2024 00:25]  a cat: a cat
+[10/03/2024 00:25]  Arbor the tree: Legendary Carpenter
+[10/03/2024 00:25]  Arbor the tree: [Ancient, Oak]
+[10/03/2024 00:25]  Arbor the tree: Lord Arbor the tree
+[10/03/2024 00:25]  Brandi: Brandi the banker
+[10/03/2024 00:25]  Dacey: Dacey the waiter
+[10/03/2024 00:25]  Cellachan: Cellachan
+[10/03/2024 00:25]  Bern: Affluent
+[10/03/2024 00:25]  Bern: Bern
+[10/03/2024 00:25]  Ailiin: Bank Vendor buy
+[10/03/2024 00:25]  Ailiin: Items: 38/125
+[10/03/2024 00:25]  Ailiin: Total Weight: 974
+[10/03/2024 00:25]  Ailiin: Room
+[10/03/2024 00:25]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:25]  [Razor]: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[10/03/2024 00:25]  [Razor]: Warning: Gold amount is now 0!
+[10/03/2024 00:25]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:25]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:25]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/03/2024 00:25]  System: You are now under the effect of a Song of Provocation (+10.1% damage against creatures for 15 minutes).
+[10/03/2024 00:25]  Razor: [-Song of Provocation (s)]
+[10/03/2024 00:25]  Razor: [+Song of Provocation (900s)]
+[10/03/2024 00:25]  System: Your skill in Tactics has decreased by 30.0.  It is now 100.0.
+[10/03/2024 00:25]  Ailiin: Kal Ort Por
+[10/03/2024 00:25]  System: You have left the protection of the town guards.
+[10/03/2024 00:25]  Ailiin: Your mount finds a quiet place to rest safely.
+[10/03/2024 00:25]  You see: an effigy corpse
+[10/03/2024 00:25]  You see: an aegis minion corpse
+[10/03/2024 00:25]  You see: an aegis mongbat corpse
+[10/03/2024 00:25]  You see: a goblin corpse
+[10/03/2024 00:25]  You see: an aegis mongbat corpse
+[10/03/2024 00:25]  an effigy: an effigy
+[10/03/2024 00:25]  You see: an aegis slime corpse
+[10/03/2024 00:25]  Rivendal: Rivendal
+[10/03/2024 00:25]  You see: a goblin corpse
+[10/03/2024 00:25]  You see: a goblin corpse
+[10/03/2024 00:25]  a gremlin: a gremlin
+[10/03/2024 00:25]  You see: a goblin corpse
+[10/03/2024 00:25]  a goblin: a goblin
+[10/03/2024 00:25]  You see: a goblin corpse
+[10/03/2024 00:25]  You see: a chaos footman corpse
+[10/03/2024 00:25]  an aegis slime: an aegis slime
+[10/03/2024 00:25]  You see: an aegis slime corpse
+[10/03/2024 00:25]  You see: an aegis slime corpse
+[10/03/2024 00:25]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:25]  Razor: * Target *
+[10/03/2024 00:25]  a goblin: *looks calmed*
+[10/03/2024 00:25]  an aegis slime: *looks calmed*
+[10/03/2024 00:25]  a gremlin: *looks calmed*
+[10/03/2024 00:25]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  You see: an aegis minion corpse
+[10/03/2024 00:25]  You see: an aegis minion corpse
+[10/03/2024 00:25]  You see: an aegis minion corpse
+[10/03/2024 00:25]  You see: a chaos footman corpse
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  System: Temperian has completed the achievement: Weaponmastery (Basic).
+[10/03/2024 00:25]  You see: a chaos footman corpse
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  You see: a chaos footman corpse
+[10/03/2024 00:25]  System: You must wait to perform another action.
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  System: You must wait to perform another action.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: Your skill in Tactics has increased by 10.0.  It is now 110.0.
+[10/03/2024 00:25]  System: You must wait to perform another action.
+[10/03/2024 00:25]  System: You must wait to perform another action.
+[10/03/2024 00:25]  You see: an aegis minion corpse
+[10/03/2024 00:25]  You see: an aegis imp corpse
+[10/03/2024 00:25]  You see: an aegis imp corpse
+[10/03/2024 00:25]  You see: a chaos footman corpse
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  an aegis imp: an aegis imp
+[10/03/2024 00:25]  You see: an aegis imp corpse
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  You see: an aegis imp corpse
+[10/03/2024 00:25]  You see: an aegis imp corpse
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  You see: an aegis slime corpse
+[10/03/2024 00:25]  You see: an aegis slime corpse
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  an ankheg: (bonded)
+[10/03/2024 00:25]  an ankheg: an ankheg
+[10/03/2024 00:25]  a poison mephit: (bonded)
+[10/03/2024 00:25]  a poison mephit: a poison mephit
+[10/03/2024 00:25]  an eldritch mephit: (bonded)
+[10/03/2024 00:25]  an eldritch mephit: an eldritch mephit
+[10/03/2024 00:25]  a poison mephit: (bonded)
+[10/03/2024 00:25]  a poison mephit: a poison mephit
+[10/03/2024 00:25]  Mezzo: Beast Slayer
+[10/03/2024 00:25]  Mezzo: Lord Mezzo
+[10/03/2024 00:25]  an aegis slime: an aegis slime
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  You see: an aegis imp corpse
+[10/03/2024 00:25]  You see: the remains of Hurda
+[10/03/2024 00:25]  You see: an aegis imp corpse
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  an aegis imp: an aegis imp
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  an ankheg: *digs*
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  an ankheg: (bonded)
+[10/03/2024 00:25]  an ankheg: an ankheg
+[10/03/2024 00:25]  an aegis slime: *regens*
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  a chaos footman: a chaos footman
+[10/03/2024 00:25]  a chaos footman: a chaos footman
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  You see: a chaos footman corpse
+[10/03/2024 00:25]  an aegis imp: an aegis imp
+[10/03/2024 00:25]  You see: a blood ape corpse
+[10/03/2024 00:25]  You see: a chaos footman corpse
+[10/03/2024 00:25]  You see: an aegis imp corpse
+[10/03/2024 00:25]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:25]  an aegis imp: *looks calmed*
+[10/03/2024 00:25]  an aegis slime: *looks calmed*
+[10/03/2024 00:25]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  You see: a blood troll corpse
+[10/03/2024 00:25]  You see: a blood harpy corpse
+[10/03/2024 00:25]  You see: a blood ogremage corpse
+[10/03/2024 00:25]  You see: a blood ogremage corpse
+[10/03/2024 00:25]  You see: an aegis whelp corpse
+[10/03/2024 00:25]  You see: a blood hellion corpse
+[10/03/2024 00:25]  You see: a blood hellion corpse
+[10/03/2024 00:25]  You see: a blood orc corpse
+[10/03/2024 00:25]  You see: a blood orc corpse
+[10/03/2024 00:25]  You see: a blood ogremage corpse
+[10/03/2024 00:25]  You see: a blood hellion corpse
+[10/03/2024 00:25]  You see: a blood troll corpse
+[10/03/2024 00:25]  an aegis whelp: an aegis whelp
+[10/03/2024 00:25]  a blood hellion: a blood hellion
+[10/03/2024 00:25]  a blood troll: a blood troll
+[10/03/2024 00:25]  Rivendal: Rivendal
+[10/03/2024 00:25]  a blood hellion: a blood hellion
+[10/03/2024 00:25]  a blood hellion: a blood hellion
+[10/03/2024 00:25]  a blood troll: a blood troll
+[10/03/2024 00:25]  a blood orc: a blood orc
+[10/03/2024 00:25]  You see: a blood orc corpse
+[10/03/2024 00:25]  You see: a blood hellion corpse
+[10/03/2024 00:25]  You see: a blood troll corpse
+[10/03/2024 00:25]  an aegis whelp: an aegis whelp
+[10/03/2024 00:25]  You see: a blood harpy corpse
+[10/03/2024 00:25]  You see: a blood hellion corpse
+[10/03/2024 00:25]  You see: a blood hellion corpse
+[10/03/2024 00:25]  You see: a blood orc corpse
+[10/03/2024 00:25]  You see: a blood orc corpse
+[10/03/2024 00:25]  You see: an aegis whelp corpse
+[10/03/2024 00:25]  You see: a blood troll corpse
+[10/03/2024 00:25]  You see: a blood ogremage corpse
+[10/03/2024 00:25]  You see: a blood ogremage corpse
+[10/03/2024 00:25]  You see: a blood orc corpse
+[10/03/2024 00:25]  You see: a blood hellion corpse
+[10/03/2024 00:25]  a blood harpy: a blood harpy
+[10/03/2024 00:25]  a blood ogre mage: a blood ogre mage
+[10/03/2024 00:25]  a blood harpy: a blood harpy
+[10/03/2024 00:25]  You see: a clay man corpse
+[10/03/2024 00:25]  a blood troll: a blood troll
+[10/03/2024 00:25]  a blood ogre mage: a blood ogre mage
+[10/03/2024 00:25]  You see: a blood troll corpse
+[10/03/2024 00:25]  a blood ogre mage: a blood ogre mage
+[10/03/2024 00:25]  a blood ogre mage: *blood potency*
+[10/03/2024 00:25]  You see: a clay man corpse
+[10/03/2024 00:25]  You see: a clay man corpse
+[10/03/2024 00:25]  an aegis noble: an aegis noble
+[10/03/2024 00:25]  a clay man: a clay man
+[10/03/2024 00:25]  an aegis lich: an aegis lich
+[10/03/2024 00:25]  a blood hellion: *blood frenzy*
+[10/03/2024 00:25]  Ailiin: Target: a blood ogre mage
+[10/03/2024 00:25]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:25]  You see: a blood rat corpse
+[10/03/2024 00:25]  an aegis scorpion: an aegis scorpion
+[10/03/2024 00:25]  You see: a coagulator corpse
+[10/03/2024 00:25]  You see: a blood rat corpse
+[10/03/2024 00:25]  You see: a coagulator corpse
+[10/03/2024 00:25]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:25]  a clay man: *looks calmed*
+[10/03/2024 00:25]  a blood ogre mage: *looks calmed*
+[10/03/2024 00:25]  a blood troll: *looks calmed*
+[10/03/2024 00:25]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[10/03/2024 00:25]  You see: a blood rat corpse
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  Ailiin: -13
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: Where do you wish to traverse to?
+[10/03/2024 00:25]  Razor: [+Paralyze (0s)]
+[10/03/2024 00:25]  Razor: [-Paralyze (s)]
+[10/03/2024 00:25]  System: You are no longer hindered.
+[10/03/2024 00:25]  a clay man: a clay man
+[10/03/2024 00:25]  a bloodrat: a bloodrat
+[10/03/2024 00:25]  an aegis asp: an aegis asp
+[10/03/2024 00:25]  You see: a blood rat corpse
+[10/03/2024 00:25]  You see: a coagulator corpse
+[10/03/2024 00:25]  You see: a twilight guardian corpse
+[10/03/2024 00:25]  You see: an aegis leech corpse
+[10/03/2024 00:25]  You see: a twilight guardian corpse
+[10/03/2024 00:25]  You see: a blood rat corpse
+[10/03/2024 00:25]  You see: a coagulator corpse
+[10/03/2024 00:25]  an aegis cultist: an aegis cultist
+[10/03/2024 00:25]  a twilight guardian: a twilight guardian
+[10/03/2024 00:25]  an aegis leech: an aegis leech
+[10/03/2024 00:25]  an aegis leech: an aegis leech
+[10/03/2024 00:25]  You see: an aegis leech corpse
+[10/03/2024 00:25]  You see: an aegis leech corpse
+[10/03/2024 00:25]  You see: an aegis scorpion corpse
+[10/03/2024 00:25]  You see: the remains of Gorkash
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  an aegis leech: an aegis leech
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  Rivendal: Rivendal
+[10/03/2024 00:25]  an aegis scorpion: an aegis scorpion
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:25]  You see: a skulker corpse
+[10/03/2024 00:25]  You see: a skulker corpse
+[10/03/2024 00:25]  You see: an aegis leech corpse
+[10/03/2024 00:25]  You see: an aegis asp corpse
+[10/03/2024 00:25]  You see: a bloodwolf corpse
+[10/03/2024 00:25]  a chaos warrior: a chaos warrior
+[10/03/2024 00:25]  a bloodwolf: a bloodwolf
+[10/03/2024 00:25]  You see: a blood courser corpse
+[10/03/2024 00:25]  You see: the remains of Grey Ghost
+[10/03/2024 00:25]  You see: a skulker corpse
+[10/03/2024 00:26]  You see: a skulker corpse
+[10/03/2024 00:26]  an aegis noble: an aegis noble
+[10/03/2024 00:26]  You see: a blood courser corpse
+[10/03/2024 00:26]  an aegis knight: an aegis knight
+[10/03/2024 00:26]  You see: an aegis asp corpse
+[10/03/2024 00:26]  an embear: (bonded)
+[10/03/2024 00:26]  an embear: an embear
+[10/03/2024 00:26]  an embear: (bonded)
+[10/03/2024 00:26]  an embear: an embear
+[10/03/2024 00:26]  BurntNoob: [Infamous, DOPE]
+[10/03/2024 00:26]  BurntNoob: Lady BurntNoob
+[10/03/2024 00:26]  a blood cyclops: a blood cyclops
+[10/03/2024 00:26]  a flamehound: (bonded)
+[10/03/2024 00:26]  a flamehound: a flamehound
+[10/03/2024 00:26]  an aegis knight: an aegis knight
+[10/03/2024 00:26]  an aegis noble: an aegis noble
+[10/03/2024 00:26]  an aegis asp: an aegis asp
+[10/03/2024 00:26]  Rivendal: Rivendal
+[10/03/2024 00:26]  : stone wall
+[10/03/2024 00:26]  : stone wall
+[10/03/2024 00:26]  a chaos warrior: a chaos warrior
+[10/03/2024 00:26]  You see: a blood courser corpse
+[10/03/2024 00:26]  a blood cyclops: a blood cyclops
+[10/03/2024 00:26]  a chaos warrior: a chaos warrior
+[10/03/2024 00:26]  an aegis knight: an aegis knight
+[10/03/2024 00:26]  a bloodwolf: a bloodwolf
+[10/03/2024 00:26]  an embear: *charges*
+[10/03/2024 00:26]  a skulker: a skulker
+[10/03/2024 00:26]  Ailiin: That is out of my line of sight.
+[10/03/2024 00:26]  Ailiin: That is out of my line of sight.
+[10/03/2024 00:26]  an embear: *charges*
+[10/03/2024 00:26]  Ailiin: That is out of my line of sight.
+[10/03/2024 00:26]  Ailiin: That is out of my line of sight.
+[10/03/2024 00:26]  You see: a blood courser corpse
+[10/03/2024 00:26]  You see: a blood courser corpse
+[10/03/2024 00:26]  You see: a skulker corpse
+[10/03/2024 00:26]  You see: a blood courser corpse
+[10/03/2024 00:26]  an aegis knight: an aegis knight
+[10/03/2024 00:26]  a blood courser: a blood courser
+[10/03/2024 00:26]  You see: a blood courser corpse
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  an aegis asp: an aegis asp
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  Ailiin: That is out of my line of sight.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a blood scorpion corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a malform corpse
+[10/03/2024 00:26]  You see: a malform corpse
+[10/03/2024 00:26]  You see: a malform corpse
+[10/03/2024 00:26]  You see: a malform corpse
+[10/03/2024 00:26]  You see: a malform corpse
+[10/03/2024 00:26]  a malform: a malform
+[10/03/2024 00:26]  a chaos knight: a chaos knight
+[10/03/2024 00:26]  a blood ravager: a blood ravager
+[10/03/2024 00:26]  a malform: a malform
+[10/03/2024 00:26]  a blood serpent: a blood serpent
+[10/03/2024 00:26]  a malform: a malform
+[10/03/2024 00:26]  a blood scorpion: a blood scorpion
+[10/03/2024 00:26]  a chaos knight: a chaos knight
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  a chaos knight: a chaos knight
+[10/03/2024 00:26]  Rixrax: Rixrax
+[10/03/2024 00:26]  You see: a doppelganger corpse
+[10/03/2024 00:26]  You see: a malform corpse
+[10/03/2024 00:26]  You see: a doppelganger corpse
+[10/03/2024 00:26]  You see: a doppelganger corpse
+[10/03/2024 00:26]  You see: a blood serpent corpse
+[10/03/2024 00:26]  You see: a blood serpent corpse
+[10/03/2024 00:26]  You see: a bloodworm corpse
+[10/03/2024 00:26]  Kelem the Seeker: Kelem the Seeker
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  Obrewon: Legendary Savant
+[10/03/2024 00:26]  Obrewon: [Member, WaM!]
+[10/03/2024 00:26]  Obrewon: Obrewon
+[10/03/2024 00:26]  a rotting flesh: (summoned)
+[10/03/2024 00:26]  a rotting flesh: a rotting flesh
+[10/03/2024 00:26]  an ancient mummy: (summoned)
+[10/03/2024 00:26]  an ancient mummy: an ancient mummy
+[10/03/2024 00:26]  a vampire thrall: (summoned)
+[10/03/2024 00:26]  a vampire thrall: a vampire thrall
+[10/03/2024 00:26]  You see: a blood fiend corpse
+[10/03/2024 00:26]  a blood fiend: *discord 1m 54s*
+[10/03/2024 00:26]  a blood fiend: a blood fiend
+[10/03/2024 00:26]  a chaos knight: a chaos knight
+[10/03/2024 00:26]  You see: a blood hunter corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a blood hunter corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  Ailiin: Target: a chaos knight
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:26]  Razor: * Target *
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You play successfully, pacifying your target. (41s)
+[10/03/2024 00:26]  a chaos knight: *looks calmed*
+[10/03/2024 00:26]  You see: a blood fiend corpse
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  a chaos knight: -125
+[10/03/2024 00:26]  a blood fiend: *pacified 1m 2s discord 1m 47s*
+[10/03/2024 00:26]  a blood fiend: a blood fiend
+[10/03/2024 00:26]  Obrewon: Legendary Savant
+[10/03/2024 00:26]  Obrewon: [Member, WaM!]
+[10/03/2024 00:26]  Obrewon: Obrewon
+[10/03/2024 00:26]  a rotting flesh: (summoned)
+[10/03/2024 00:26]  a rotting flesh: a rotting flesh
+[10/03/2024 00:26]  an ancient mummy: (summoned)
+[10/03/2024 00:26]  an ancient mummy: an ancient mummy
+[10/03/2024 00:26]  a vampire thrall: (summoned)
+[10/03/2024 00:26]  a vampire thrall: a vampire thrall
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  You see: a blood hunter corpse
+[10/03/2024 00:26]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:26]  [Razor]: New target set.
+[10/03/2024 00:26]  [Razor]: Ignore List cleared
+[10/03/2024 00:26]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:26]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:26]  a chaos knight: -66
+[10/03/2024 00:26]  System: Click again to confirm.
+[10/03/2024 00:26]  System: Your skill in Tactics has decreased by 10.0.  It is now 100.0.
+[10/03/2024 00:26]  System: Your skill in Tactics has increased by 30.0.  It is now 130.0.
+[10/03/2024 00:26]  Ailiin: Lyric aspect weapon activated.
+[10/03/2024 00:26]  a chaos knight: -95
+[10/03/2024 00:26]  System: Click again to confirm.
+[10/03/2024 00:26]  Ailiin: Lyric aspect armor activated.
+[10/03/2024 00:26]  Leif Helgarson: Legendary Daemonic Slayer
+[10/03/2024 00:26]  Leif Helgarson: [Vampire Lord of, OFP]
+[10/03/2024 00:26]  Leif Helgarson: Lord Leif Helgarson
+[10/03/2024 00:26]  YellowSnowSpot: (bonded)
+[10/03/2024 00:26]  YellowSnowSpot: YellowSnowSpot
+[10/03/2024 00:26]  YellowSnowConne: (bonded)
+[10/03/2024 00:26]  YellowSnowConne: YellowSnowConne
+[10/03/2024 00:26]  Connor MacLeod: Legend of Aspects
+[10/03/2024 00:26]  Connor MacLeod: [OFP]
+[10/03/2024 00:26]  Connor MacLeod: Lord Connor MacLeod
+[10/03/2024 00:26]  Obrewon: Legendary Savant
+[10/03/2024 00:26]  Obrewon: [Member, WaM!]
+[10/03/2024 00:26]  Obrewon: Obrewon
+[10/03/2024 00:26]  a chaos knight: -57
+[10/03/2024 00:26]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:26]  [Razor]: New target set.
+[10/03/2024 00:26]  [Razor]: Ignore List cleared
+[10/03/2024 00:26]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:26]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 46s)
+[10/03/2024 00:26]  Razor: *pacified 29s discord 1m 46s* a chaos knight
+[10/03/2024 00:26]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  a chaos knight: -182
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  Glorscht: Aegis Keep Legend
+[10/03/2024 00:26]  Glorscht: [#Bonk Life, O|P]
+[10/03/2024 00:26]  Glorscht: Lord Glorscht
+[10/03/2024 00:26]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:26]  a chaos knight: -132
+[10/03/2024 00:26]  Leif Helgarson: *pukes*
+[10/03/2024 00:26]  Leif Helgarson: mmmm tasty
+[10/03/2024 00:26]  a vampire thrall: (summoned)
+[10/03/2024 00:26]  a vampire thrall: a vampire thrall
+[10/03/2024 00:26]  an ancient mummy: (summoned)
+[10/03/2024 00:26]  an ancient mummy: an ancient mummy
+[10/03/2024 00:26]  Glorscht: Aegis Keep Legend
+[10/03/2024 00:26]  Glorscht: [#Bonk Life, O|P]
+[10/03/2024 00:26]  Glorscht: Lord Glorscht
+[10/03/2024 00:26]  Connor MacLeod: Legend of Aspects
+[10/03/2024 00:26]  Connor MacLeod: [OFP]
+[10/03/2024 00:26]  Connor MacLeod: Lord Connor MacLeod
+[10/03/2024 00:26]  a chaos knight: *pacified 24s discord 1m 41s*
+[10/03/2024 00:26]  a chaos knight: a chaos knight
+[10/03/2024 00:26]  a rotting flesh: (summoned)
+[10/03/2024 00:26]  a rotting flesh: a rotting flesh
+[10/03/2024 00:26]  Leif Helgarson: Legendary Daemonic Slayer
+[10/03/2024 00:26]  Leif Helgarson: [Vampire Lord of, OFP]
+[10/03/2024 00:26]  Leif Helgarson: Lord Leif Helgarson
+[10/03/2024 00:26]  YellowSnowConne: (bonded)
+[10/03/2024 00:26]  YellowSnowConne: YellowSnowConne
+[10/03/2024 00:26]  a blood fiend: *pacified 48s discord 1m 32s*
+[10/03/2024 00:26]  a blood fiend: a blood fiend
+[10/03/2024 00:26]  YellowSnowSpot: (bonded)
+[10/03/2024 00:26]  YellowSnowSpot: YellowSnowSpot
+[10/03/2024 00:26]  You see: a blood serpent corpse
+[10/03/2024 00:26]  You see: a blood serpent corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a blood hunter corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a blood fiend corpse
+[10/03/2024 00:26]  a chaos knight: *barding break*
+[10/03/2024 00:26]  You see: the remains of Gothdog
+[10/03/2024 00:26]  a blood hunter: a blood hunter
+[10/03/2024 00:26]  You see: a doppelganger corpse
+[10/03/2024 00:26]  You see: a blood sorcerer corpse
+[10/03/2024 00:26]  You see: a doppelganger corpse
+[10/03/2024 00:26]  You see: a blood sorcerer corpse
+[10/03/2024 00:26]  a blood hunter: a blood hunter
+[10/03/2024 00:26]  biggtez: [Veteran, G.G]
+[10/03/2024 00:26]  biggtez: biggtez
+[10/03/2024 00:26]  Calvin KWK: [Private, G.G]
+[10/03/2024 00:26]  Calvin KWK: Calvin KWK
+[10/03/2024 00:26]  You see: a blood sorcerer corpse
+[10/03/2024 00:26]  You see: a blood sorcerer corpse
+[10/03/2024 00:26]  You see: a doppelganger corpse
+[10/03/2024 00:26]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:26]  a malform: a malform
+[10/03/2024 00:26]  a chaos knight: -103
+[10/03/2024 00:26]  Ailiin: -5
+[10/03/2024 00:26]  System: Who will you use the bandages on?
+[10/03/2024 00:26]  System: You begin applying the bandages.
+[10/03/2024 00:26]  Razor: Bandage: 7s
+[10/03/2024 00:26]  a chaos knight: a chaos knight
+[10/03/2024 00:26]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/03/2024 00:26]  Ailiin: Target: a chaos knight
+[10/03/2024 00:26]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:26]  Razor: * Target *
+[10/03/2024 00:26]  a malform: *vomits*
+[10/03/2024 00:26]  System: That target is currently under a barding break effect.
+[10/03/2024 00:26]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:26]  You see: a doppelganger corpse
+[10/03/2024 00:26]  You see: a blood fiend corpse
+[10/03/2024 00:26]  Razor: Bandage: 6s
+[10/03/2024 00:26]  a blood fiend: *pacified 40s discord 1m 24s*
+[10/03/2024 00:26]  a blood fiend: a blood fiend
+[10/03/2024 00:26]  a rotting flesh: (summoned)
+[10/03/2024 00:26]  a rotting flesh: a rotting flesh
+[10/03/2024 00:26]  an ancient mummy: (summoned)
+[10/03/2024 00:26]  an ancient mummy: an ancient mummy
+[10/03/2024 00:26]  Obrewon: Legendary Savant
+[10/03/2024 00:26]  Obrewon: [Member, WaM!]
+[10/03/2024 00:26]  Obrewon: Obrewon
+[10/03/2024 00:26]  a chaos knight: -116
+[10/03/2024 00:26]  Razor: Bandage: 5s
+[10/03/2024 00:26]  Razor: Bandage: 4s
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  a vampire thrall: (summoned)
+[10/03/2024 00:26]  a vampire thrall: a vampire thrall
+[10/03/2024 00:26]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/03/2024 00:26]  You see: a blood serpent corpse
+[10/03/2024 00:26]  Razor: Bandage: 3s
+[10/03/2024 00:26]  System: Whom do you wish them to attack?
+[10/03/2024 00:26]  a chaos knight: -152
+[10/03/2024 00:26]  Razor: * Target *
+[10/03/2024 00:26]  System: You play successfully, provoking your targets. (53s)
+[10/03/2024 00:26]  a chaos knight: *looks furious*
+[10/03/2024 00:26]  a blood hunter: *looks furious*
+[10/03/2024 00:26]  You see: a blood fiend corpse
+[10/03/2024 00:26]  Razor: Bandage: 2s
+[10/03/2024 00:26]  You see: a chaos knight corpse
+[10/03/2024 00:26]  You see: a doppelganger corpse
+[10/03/2024 00:26]  Razor: Bandage: 1s
+[10/03/2024 00:26]  You see: a doppelganger corpse
+[10/03/2024 00:26]  You see: a lesser blood daemon corpse
+[10/03/2024 00:26]  Obrewon: Legendary Savant
+[10/03/2024 00:26]  Obrewon: [Member, WaM!]
+[10/03/2024 00:26]  Obrewon: Obrewon
+[10/03/2024 00:26]  System: You finish applying the bandages.
+[10/03/2024 00:26]  Ailiin: +4
+[10/03/2024 00:27]  a rotting flesh: (summoned)
+[10/03/2024 00:27]  a rotting flesh: a rotting flesh
+[10/03/2024 00:27]  an ancient mummy: (summoned)
+[10/03/2024 00:27]  an ancient mummy: an ancient mummy
+[10/03/2024 00:27]  a vampire thrall: (summoned)
+[10/03/2024 00:27]  a vampire thrall: a vampire thrall
+[10/03/2024 00:27]  a chaos knight: -154
+[10/03/2024 00:27]  a chaos knight: -171
+[10/03/2024 00:27]  Rixrax: Rixrax
+[10/03/2024 00:27]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:27]  System: Your Song of Peacemaking effect ends.
+[10/03/2024 00:27]  Razor: [-Song of Peacemaking (s)]
+[10/03/2024 00:27]  a malform: a malform
+[10/03/2024 00:27]  Calvin KWK: In Vas Mani
+[10/03/2024 00:27]  System: You are now under the effect of a Song of Discordance (11.3% reduced damage from creatures for 15 minutes).
+[10/03/2024 00:27]  Ailiin: Your barding skill cooldowns reset.
+[10/03/2024 00:27]  Razor: [-Song of Discordance (s)]
+[10/03/2024 00:27]  Razor: [+Song of Discordance (900s)]
+[10/03/2024 00:27]  Calvin KWK: [Private, G.G]
+[10/03/2024 00:27]  Calvin KWK: Calvin KWK
+[10/03/2024 00:27]  a chaos knight: -40
+[10/03/2024 00:27]  a chaos knight: -130
+[10/03/2024 00:27]  a blood hunter: -47
+[10/03/2024 00:27]  Calvin KWK: Kal Vas Xen Ylem
+[10/03/2024 00:27]  You see: a doppelganger corpse
+[10/03/2024 00:27]  bongeR II: Lord bongeR II
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:27]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[10/03/2024 00:27]  a chaos knight: -197
+[10/03/2024 00:27]  bongeR II: all kill
+[10/03/2024 00:27]  bongeR II: all kill
+[10/03/2024 00:27]  a blood hunter: -58
+[10/03/2024 00:27]  a malform: *vomits*
+[10/03/2024 00:27]  Glorscht: Aegis Keep Legend
+[10/03/2024 00:27]  Glorscht: [#Bonk Life, O|P]
+[10/03/2024 00:27]  Glorscht: Lord Glorscht
+[10/03/2024 00:27]  Rixrax: Rixrax
+[10/03/2024 00:27]  MarioDoto: (bonded)
+[10/03/2024 00:27]  MarioDoto: MarioDoto
+[10/03/2024 00:27]  CoolGuyMMXXIV: (bonded)
+[10/03/2024 00:27]  CoolGuyMMXXIV: CoolGuyMMXXIV
+[10/03/2024 00:27]  suinevole: (bonded)
+[10/03/2024 00:27]  suinevole: suinevole
+[10/03/2024 00:27]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:27]  a chaos knight: -27
+[10/03/2024 00:27]  kiraquinn: (bonded)
+[10/03/2024 00:27]  kiraquinn: kiraquinn
+[10/03/2024 00:27]  bongeR II: Kal Vas Flam
+[10/03/2024 00:27]  a chaos knight: -174
+[10/03/2024 00:27]  an earth elemental: (summoned)
+[10/03/2024 00:27]  an earth elemental: an earth elemental
+[10/03/2024 00:27]  mrpdor: (bonded)
+[10/03/2024 00:27]  mrpdor: mrpdor
+[10/03/2024 00:27]  a blood hunter: -40
+[10/03/2024 00:27]  Rixrax: Rixrax
+[10/03/2024 00:27]  System: You have gained a good amount of fame.
+[10/03/2024 00:27]  System: You have gained a good amount of karma.
+[10/03/2024 00:27]  Ailiin: (Lyric Aspect 1,874.2/3000 xp)
+[10/03/2024 00:27]  System: Society Job Progress: 23,321/25,000 [Kill 25,000 Gold Worth of Creatures].
+[10/03/2024 00:27]  You see: a chaos knight corpse
+[10/03/2024 00:27]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:27]  Rixrax: In Vas Mani
+[10/03/2024 00:27]  Razor: * Target *
+[10/03/2024 00:27]  System: You play successfully, pacifying your target. (46s)
+[10/03/2024 00:27]  a blood hunter: *looks calmed*
+[10/03/2024 00:27]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  bongeR II: all kill
+[10/03/2024 00:27]  You see: a blood serpent corpse
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: What corpse or location do you wish to carve?
+[10/03/2024 00:27]  Ailiin: Target: a blood hunter
+[10/03/2024 00:27]  a blood hunter: -135
+[10/03/2024 00:27]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:27]  You see: blood elemental corpse
+[10/03/2024 00:27]  a malform: a malform
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  blood elemental: blood elemental
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  a blood hunter: -127
+[10/03/2024 00:27]  suinevole: (bonded)
+[10/03/2024 00:27]  suinevole: suinevole
+[10/03/2024 00:27]  mrpdor: (bonded)
+[10/03/2024 00:27]  mrpdor: mrpdor
+[10/03/2024 00:27]  System: You have gained a little fame.
+[10/03/2024 00:27]  System: You have gained a little karma.
+[10/03/2024 00:27]  Ailiin: (Lyric Aspect 1,876.1/3000 xp)
+[10/03/2024 00:27]  System: Society Job Progress: 23,385/25,000 [Kill 25,000 Gold Worth of Creatures].
+[10/03/2024 00:27]  MarioDoto: (bonded)
+[10/03/2024 00:27]  MarioDoto: MarioDoto
+[10/03/2024 00:27]  You see: a blood hunter corpse
+[10/03/2024 00:27]  bongeR II: all follow me
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  Calvin KWK: [Private, G.G]
+[10/03/2024 00:27]  Calvin KWK: Calvin KWK
+[10/03/2024 00:27]  an earth elemental: (summoned)
+[10/03/2024 00:27]  an earth elemental: an earth elemental
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  You see: the remains of Gothdog
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  a malform: a malform
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: Baelyn Telyrei has completed the achievement: Aspect Mastery (Advanced).
+[10/03/2024 00:27]  Calvin KWK: [Private, G.G]
+[10/03/2024 00:27]  Calvin KWK: Calvin KWK
+[10/03/2024 00:27]  You see: gold coin : 636
+[10/03/2024 00:27]  You see: a doppelganger corpse
+[10/03/2024 00:27]  You see: a blood fiend corpse
+[10/03/2024 00:27]  You see: a blood fiend corpse
+[10/03/2024 00:27]  You see: a chaos knight corpse
+[10/03/2024 00:27]  a malform: *vomits*
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  You see: blood elemental corpse
+[10/03/2024 00:27]  You see: a blood serpent corpse
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:27]  You see: a blood daemon corpse
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  Ailiin: Target: a blood sorcerer
+[10/03/2024 00:27]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:27]  Razor: * Target *
+[10/03/2024 00:27]  System: You play successfully, pacifying your target. (46s)
+[10/03/2024 00:27]  a blood sorcerer: *looks calmed*
+[10/03/2024 00:27]  You see: a blood sorcerer corpse
+[10/03/2024 00:27]  You see: a blood daemon corpse
+[10/03/2024 00:27]  a blood sorcerer: -174
+[10/03/2024 00:27]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:27]  [Razor]: New target set.
+[10/03/2024 00:27]  System: Your shot hinders your target!
+[10/03/2024 00:27]  a blood sorcerer: -187
+[10/03/2024 00:27]  [Razor]: Ignore List cleared
+[10/03/2024 00:27]  Razor: [*** Hinder Target ***]
+[10/03/2024 00:27]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:27]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 46s)
+[10/03/2024 00:27]  Ailiin: Your barding skill cooldowns reset.
+[10/03/2024 00:27]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:27]  Razor: *pacified 38s discord 1m 46s* a blood sorcerer
+[10/03/2024 00:27]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:27]  a blood sorcerer: -229
+[10/03/2024 00:27]  a blood sorcerer: -165
+[10/03/2024 00:27]  a blood sorcerer: -248
+[10/03/2024 00:27]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:27]  System: Big Bad Don has completed the achievement: Landowner (Basic).
+[10/03/2024 00:27]  System: Big Bad Don has completed the achievement: Landowner (Advanced).
+[10/03/2024 00:27]  a blood sorcerer: -213
+[10/03/2024 00:27]  a blood sorcerer: -224
+[10/03/2024 00:27]  Temperian: Triggered
+[10/03/2024 00:27]  Temperian: Lady Temperian
+[10/03/2024 00:28]  a blood sorcerer: -210
+[10/03/2024 00:28]  a blood sorcerer: -184
+[10/03/2024 00:28]  a blood sorcerer: -246
+[10/03/2024 00:28]  a blood sorcerer: -193
+[10/03/2024 00:28]  a blood sorcerer: -206
+[10/03/2024 00:28]  biggtez: [Veteran, G.G]
+[10/03/2024 00:28]  biggtez: biggtez
+[10/03/2024 00:28]  System: You have gained a lot of fame.
+[10/03/2024 00:28]  System: You have gained a lot of karma.
+[10/03/2024 00:28]  System: You have unlocked a codex upgrade point for Archery (4 available).
+[10/03/2024 00:28]  Ailiin: (Lyric Aspect 1,887.4/3000 xp)
+[10/03/2024 00:28]  System: Society Job Progress: 23,950/25,000 [Kill 25,000 Gold Worth of Creatures].
+[10/03/2024 00:28]  System: -21
+[10/03/2024 00:28]  You see: a blood sorcerer corpse
+[10/03/2024 00:28]  You see: a blood sorcerer corpse
+[10/03/2024 00:28]  You see: a blood daemon corpse
+[10/03/2024 00:28]  a blood daemon: a blood daemon
+[10/03/2024 00:28]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:28]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:28]  Ailiin: Target: a blood sorcerer
+[10/03/2024 00:28]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:28]  Razor: * Target *
+[10/03/2024 00:28]  System: That is too far away.
+[10/03/2024 00:28]  a blood sorcerer: *summons bloodstorm*
+[10/03/2024 00:28]  Ailiin: -18
+[10/03/2024 00:28]  System: Who will you use the bandages on?
+[10/03/2024 00:28]  System: You begin applying the bandages.
+[10/03/2024 00:28]  Razor: Bandage: 7s
+[10/03/2024 00:28]  Alathar Theolin: Monster Hunter Initiate
+[10/03/2024 00:28]  Alathar Theolin: Lord Alathar Theolin
+[10/03/2024 00:28]  You see: a chaos knight corpse
+[10/03/2024 00:28]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:28]  You see: a chaos knight corpse
+[10/03/2024 00:28]  You see: a blood hunter corpse
+[10/03/2024 00:28]  biggtez: [Veteran, G.G]
+[10/03/2024 00:28]  biggtez: biggtez
+[10/03/2024 00:28]  Helric Houvac: [Prospect, T^C]
+[10/03/2024 00:28]  Helric Houvac: Helric Houvac
+[10/03/2024 00:28]  Razor: Bandage: 6s
+[10/03/2024 00:28]  System: You increase your damage resistance to creature-casted spells.
+[10/03/2024 00:28]  Razor: Bandage: 5s
+[10/03/2024 00:28]  Razor: [+Magic Resist Potion (120s)]
+[10/03/2024 00:28]  Ailiin: -28
+[10/03/2024 00:28]  Razor: Bandage: 4s
+[10/03/2024 00:28]  Razor: Bandage: 3s
+[10/03/2024 00:28]  Razor: Bandage: 2s
+[10/03/2024 00:28]  Razor: Bandage: 1s
+[10/03/2024 00:28]  System: You finish applying the bandages.
+[10/03/2024 00:28]  Ailiin: +45
+[10/03/2024 00:28]  Ailiin: Target: a blood sorcerer
+[10/03/2024 00:28]  You see: a blood sorcerer corpse
+[10/03/2024 00:28]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:28]  System: You play successfully, pacifying your target. (46s)
+[10/03/2024 00:28]  a blood sorcerer: *looks calmed*
+[10/03/2024 00:28]  You see: a blood sorcerer corpse
+[10/03/2024 00:28]  You see: a blood daemon corpse
+[10/03/2024 00:28]  You see: a blood sorcerer corpse
+[10/03/2024 00:28]  You see: a blood daemon corpse
+[10/03/2024 00:28]  a blood sorcerer: -141
+[10/03/2024 00:28]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:28]  [Razor]: New target set.
+[10/03/2024 00:28]  [Razor]: Ignore List cleared
+[10/03/2024 00:28]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:28]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:28]  a blood sorcerer: -174
+[10/03/2024 00:28]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:28]  [Razor]: New target set.
+[10/03/2024 00:28]  [Razor]: Ignore List cleared
+[10/03/2024 00:28]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:28]  You see: a chaos knight corpse
+[10/03/2024 00:28]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 46s)
+[10/03/2024 00:28]  Ailiin: Your barding skill cooldowns reset.
+[10/03/2024 00:28]  Razor: *pacified 40s discord 1m 46s* a blood sorcerer
+[10/03/2024 00:28]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:28]  a doppelganger: a doppelganger
+[10/03/2024 00:28]  Ailiin: Target: a blood sorcerer
+[10/03/2024 00:28]  a blood sorcerer: -244
+[10/03/2024 00:28]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:28]  Razor: * Target *
+[10/03/2024 00:28]  System: You play successfully, pacifying your target. (53s)
+[10/03/2024 00:28]  a blood sorcerer: *looks calmed*
+[10/03/2024 00:28]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:28]  [Razor]: New target set.
+[10/03/2024 00:28]  [Razor]: Ignore List cleared
+[10/03/2024 00:28]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:28]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:28]  a blood sorcerer: -209
+[10/03/2024 00:28]  a blood sorcerer: -237
+[10/03/2024 00:28]  a blood sorcerer: -169
+[10/03/2024 00:28]  a blood sorcerer: -213
+[10/03/2024 00:28]  a blood sorcerer: -233
+[10/03/2024 00:28]  Ailiin: Target: a blood sorcerer
+[10/03/2024 00:28]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:28]  System: You play successfully, pacifying your target. (53s)
+[10/03/2024 00:28]  a blood sorcerer: *looks calmed*
+[10/03/2024 00:28]  a blood sorcerer: -171
+[10/03/2024 00:28]  a blood sorcerer: -273
+[10/03/2024 00:28]  biggtez: [Veteran, G.G]
+[10/03/2024 00:28]  biggtez: biggtez
+[10/03/2024 00:28]  System: Your shot hinders your target!
+[10/03/2024 00:28]  a blood sorcerer: -358
+[10/03/2024 00:28]  System: Your shot turns the target into a pincushion.
+[10/03/2024 00:28]  Razor: [*** Hinder Target ***]
+[10/03/2024 00:28]  System: You have gained a lot of fame.
+[10/03/2024 00:28]  System: You have gained a lot of karma.
+[10/03/2024 00:28]  Ailiin: (Lyric Aspect 1,898.7/3000 xp)
+[10/03/2024 00:28]  System: Society Job Progress: 24,515/25,000 [Kill 25,000 Gold Worth of Creatures].
+[10/03/2024 00:28]  System: -78
+[10/03/2024 00:28]  a lesser blood daemon: a lesser blood daemon
+[10/03/2024 00:28]  You see: a blood sorcerer corpse
+[10/03/2024 00:28]  a malform: a malform
+[10/03/2024 00:29]  You see: a blood hunter corpse
+[10/03/2024 00:29]  a blood daemon: a blood daemon
+[10/03/2024 00:29]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:29]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:29]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:29]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:29]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:29]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/03/2024 00:29]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:29]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:29]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:29]  Ailiin: Target: a blood daemon
+[10/03/2024 00:29]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:29]  Razor: * Target *
+[10/03/2024 00:29]  System: You play successfully, pacifying your target. (46s)
+[10/03/2024 00:29]  a blood daemon: *looks calmed*
+[10/03/2024 00:29]  [Alliance][Elder]: [SQzD] two smp reds in KH 2 
+[10/03/2024 00:29]  Ailiin: Target: a blood daemon
+[10/03/2024 00:29]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:29]  a blood daemon: -207
+[10/03/2024 00:29]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:29]  [Razor]: New target set.
+[10/03/2024 00:29]  [Razor]: Ignore List cleared
+[10/03/2024 00:29]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:29]  a blood daemon: -155
+[10/03/2024 00:29]  System: You fail to discord your opponent. You estimate the task to be fairly reasonable.
+[10/03/2024 00:29]  Ailiin: Your barding skill cooldowns reset.
+[10/03/2024 00:29]  Razor: *pacified 39s* a blood daemon
+[10/03/2024 00:29]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:29]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:29]  [Razor]: New target set.
+[10/03/2024 00:29]  Razor: * Target *
+[10/03/2024 00:29]  [Razor]: Ignore List cleared
+[10/03/2024 00:29]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:29]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 46s)
+[10/03/2024 00:29]  Razor: *pacified 37s discord 1m 46s* a blood daemon
+[10/03/2024 00:29]  a blood daemon: -231
+[10/03/2024 00:29]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:29]  a blood daemon: -193
+[10/03/2024 00:29]  a blood daemon: -240
+[10/03/2024 00:29]  System: Your shot hinders your target!
+[10/03/2024 00:29]  a blood daemon: -273
+[10/03/2024 00:29]  Razor: [*** Hinder Target ***]
+[10/03/2024 00:29]  a blood daemon: -166
+[10/03/2024 00:29]  a blood daemon: -202
+[10/03/2024 00:29]  a blood daemon: -217
+[10/03/2024 00:29]  Mezzo: Beast Slayer
+[10/03/2024 00:29]  Mezzo: Lord Mezzo
+[10/03/2024 00:29]  a blood daemon: -195
+[10/03/2024 00:29]  a blood daemon: -289
+[10/03/2024 00:29]  a blood daemon: -146
+[10/03/2024 00:29]  You see: a blood daemon corpse
+[10/03/2024 00:29]  a blood ravager: a blood ravager
+[10/03/2024 00:29]  a blood ravager: *blood expertise*
+[10/03/2024 00:29]  Ailiin: Target: a blood daemon
+[10/03/2024 00:29]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:29]  Razor: * Target *
+[10/03/2024 00:29]  System: You play successfully, pacifying your target. (53s)
+[10/03/2024 00:29]  a blood daemon: *looks calmed*
+[10/03/2024 00:29]  a blood daemon: -229
+[10/03/2024 00:29]  System: The world will save in 15 seconds.
+[10/03/2024 00:29]  System: Your food satisfaction effect has expired.
+[10/03/2024 00:29]  a blood daemon: -196
+[10/03/2024 00:29]  : carpet
+[10/03/2024 00:29]  a blood daemon: -149
+[10/03/2024 00:29]  Ailiin: Target: a blood daemon
+[10/03/2024 00:29]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:29]  Razor: [-Food Satisfaction (s)]
+[10/03/2024 00:29]  a blood daemon: -240
+[10/03/2024 00:29]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:29]  [Razor]: New target set.
+[10/03/2024 00:29]  [Razor]: Ignore List cleared
+[10/03/2024 00:29]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:29]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 46s)
+[10/03/2024 00:29]  blood elemental: [Greater Poison]
+[10/03/2024 00:29]  blood elemental: blood elemental
+[10/03/2024 00:29]  Razor: *pacified 42s discord 1m 46s* a blood daemon
+[10/03/2024 00:29]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:29]  a blood daemon: -149
+[10/03/2024 00:30]  a blood daemon: -182
+[10/03/2024 00:30]  a blood daemon: -317
+[10/03/2024 00:30]  System: The world is saving, please wait.
+[10/03/2024 00:30]  System: World save complete. The entire process took 2.6 seconds.
+[10/03/2024 00:30]  a blood daemon: -200
+[10/03/2024 00:30]  a blood sorcerer: a blood sorcerer
+[10/03/2024 00:30]  a blood daemon: -255
+[10/03/2024 00:30]  Razor: [+Start PeaceNearest]
+[10/03/2024 00:30]  [Razor]: New target set.
+[10/03/2024 00:30]  Razor: * Target *
+[10/03/2024 00:30]  [Razor]: Ignore List cleared
+[10/03/2024 00:30]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:30]  System: You fail to pacify your opponent. You estimate the task to be fairly reasonable.
+[10/03/2024 00:30]  Razor: Failed to pacify
+[10/03/2024 00:30]  an ankheg: (bonded)
+[10/03/2024 00:30]  an ankheg: an ankheg
+[10/03/2024 00:30]  Razor: *pacified 29s discord 1m 33s* a blood daemon
+[10/03/2024 00:30]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:30]  a blood daemon: -179
+[10/03/2024 00:30]  a blood sorcerer: *summons bloodstorm*
+[10/03/2024 00:30]  blood elemental: *blood potency*
+[10/03/2024 00:30]  You see: blood elemental corpse
+[10/03/2024 00:30]  a poison mephit: (bonded)
+[10/03/2024 00:30]  a poison mephit: a poison mephit
+[10/03/2024 00:30]  an eldritch mephit: (bonded)
+[10/03/2024 00:30]  an eldritch mephit: an eldritch mephit
+[10/03/2024 00:30]  a poison mephit: (bonded)
+[10/03/2024 00:30]  a poison mephit: a poison mephit
+[10/03/2024 00:30]  a malform: [Greater Poison]
+[10/03/2024 00:30]  a malform: a malform
+[10/03/2024 00:30]  a blood ravager: [Greater Poison]
+[10/03/2024 00:30]  a blood ravager: a blood ravager
+[10/03/2024 00:30]  a blood scorpion: a blood scorpion
+[10/03/2024 00:30]  System: Fenris McMaster has completed the achievement: Alchemist (Epic).
+[10/03/2024 00:30]  a blood daemon: -221
+[10/03/2024 00:30]  Ailiin: -14
+[10/03/2024 00:30]  a blood ravager: *blood expertise*
+[10/03/2024 00:30]  Grimmitch: Boss Slayer
+[10/03/2024 00:30]  Grimmitch: [Legend, KoU]
+[10/03/2024 00:30]  Grimmitch: Lord Grimmitch
+[10/03/2024 00:30]  Ailiin: Target: a blood sorcerer
+[10/03/2024 00:30]  You see: a chaos knight corpse
+[10/03/2024 00:30]  You see: a blood hunter corpse
+[10/03/2024 00:30]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:30]  Razor: * Target *
+[10/03/2024 00:30]  Ailiin: -16
+[10/03/2024 00:30]  System: You play successfully, pacifying your target. (46s)
+[10/03/2024 00:30]  a blood sorcerer: *looks calmed*
+[10/03/2024 00:30]  Ailiin: Your barding skill cooldowns reset.
+[10/03/2024 00:30]  You see: a blood sorcerer corpse
+[10/03/2024 00:30]  a blood sorcerer: -154
+[10/03/2024 00:30]  a blood sorcerer: *looks violently ill*
+[10/03/2024 00:30]  Ailiin: Target: a blood daemon
+[10/03/2024 00:30]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:30]  Razor: * Target *
+[10/03/2024 00:30]  System: You play successfully, pacifying your target. (53s)
+[10/03/2024 00:30]  a blood daemon: *looks calmed*
+[10/03/2024 00:30]  a blood daemon: -244
+[10/03/2024 00:30]  a blood sorcerer: *looks violently ill*
+[10/03/2024 00:30]  an ankheg: *digs*
+[10/03/2024 00:30]  System: Your magic resist potion has worn off.
+[10/03/2024 00:30]  Razor: [-Magic Resist Potion (s)]
+[10/03/2024 00:30]  System: Your shot hinders your target!
+[10/03/2024 00:30]  a blood daemon: -262
+[10/03/2024 00:30]  Razor: [*** Hinder Target ***]
+[10/03/2024 00:30]  an ankheg: (bonded)
+[10/03/2024 00:30]  an ankheg: an ankheg
+[10/03/2024 00:30]  a malform: *vomits*
+[10/03/2024 00:30]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:30]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:30]  a blood daemon: -165
+[10/03/2024 00:30]  System: You have gained a little fame.
+[10/03/2024 00:30]  System: You have gained a little karma.
+[10/03/2024 00:30]  Ailiin: (Lyric Aspect 1,899.6/3000 xp)
+[10/03/2024 00:30]  System: Society Job Progress: 24,550/25,000 [Kill 25,000 Gold Worth of Creatures].
+[10/03/2024 00:30]  You see: a blood sorcerer corpse
+[10/03/2024 00:30]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/03/2024 00:30]  a blood daemon: -169
+[10/03/2024 00:30]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:30]  [Razor]: New target set.
+[10/03/2024 00:30]  [Razor]: Ignore List cleared
+[10/03/2024 00:30]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:30]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 46s)
+[10/03/2024 00:30]  Razor: *pacified 44s discord 1m 46s* a blood daemon
+[10/03/2024 00:30]  You see: a blood ravager corpse
+[10/03/2024 00:30]  Razor: [+Start 'auto-heal']
+[10/03/2024 00:30]  System: Who will you use the bandages on?
+[10/03/2024 00:30]  System: You begin applying the bandages.
+[10/03/2024 00:30]  Razor: Bandage: 7s
+[10/03/2024 00:30]  System: You must wait a few moments to use another skill.
+[10/03/2024 00:30]  a blood daemon: -273
+[10/03/2024 00:30]  Razor: Bandage: 6s
+[10/03/2024 00:30]  a blood daemon: *looks violently ill*
+[10/03/2024 00:30]  Razor: Bandage: 5s
+[10/03/2024 00:30]  Mezzo: Beast Slayer
+[10/03/2024 00:30]  Mezzo: Lord Mezzo
+[10/03/2024 00:30]  System: You have gained a very large amount of fame.
+[10/03/2024 00:30]  System: You have gained a very large amount of karma.
+[10/03/2024 00:30]  Ailiin: (Lyric Aspect 1,926.1/3000 xp)
+[10/03/2024 00:30]  System: You have completed a society job [Kill 25,000 Gold Worth of Creatures] and have earned 4 points within the Monster Hunter Society!
+[10/03/2024 00:30]  You see: a blood daemon corpse
+[10/03/2024 00:30]  Razor: Bandage: 4s
+[10/03/2024 00:30]  a malform: [Greater Poison]
+[10/03/2024 00:30]  a malform: a malform
+[10/03/2024 00:30]  You see: a blood sorcerer corpse
+[10/03/2024 00:30]  Razor: Bandage: 3s
+[10/03/2024 00:30]  Razor: Bandage: 2s
+[10/03/2024 00:30]  Razor: Bandage: 1s
+[10/03/2024 00:30]  System: You finish applying the bandages.
+[10/03/2024 00:30]  Ailiin: +25
+[10/03/2024 00:30]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/03/2024 00:30]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/03/2024 00:30]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/03/2024 00:30]  System: What corpse or location do you wish to carve?
+[10/03/2024 00:30]  Mezzo: Beast Slayer
+[10/03/2024 00:30]  Mezzo: Lord Mezzo
+[10/03/2024 00:30]  [Razor]: Finished 5 queued actions in 2.4 seconds.
+[10/03/2024 00:30]  Razor: * Target *
+[10/03/2024 00:30]  System: You carve materials from the corpse.
+[10/03/2024 00:30]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/03/2024 00:30]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:30]  an ankheg: (bonded)
+[10/03/2024 00:30]  an ankheg: an ankheg
+[10/03/2024 00:30]  a malform: [Greater Poison]
+[10/03/2024 00:30]  a malform: a malform
+[10/03/2024 00:30]  Mezzo: Beast Slayer
+[10/03/2024 00:30]  Mezzo: Lord Mezzo
+[10/03/2024 00:30]  You see: a chaos knight corpse
+[10/03/2024 00:30]  You see: a blood hunter corpse
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  You see: a chaos knight corpse
+[10/03/2024 00:30]  System: Sadahar has completed the achievement: Humanoid Slayer (Basic).
+[10/03/2024 00:30]  You see: a chaos knight corpse
+[10/03/2024 00:30]  You see: a blood hunter corpse
+[10/03/2024 00:30]  You see: the remains of Gothdog
+[10/03/2024 00:30]  You see: a chaos knight corpse
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  You see: Fortune Aspect Core
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:30]  You see: a blood sorcerer corpse
+[10/03/2024 00:30]  You see: a lesser blood daemon corpse
+[10/03/2024 00:30]  You see: a lesser blood daemon corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  a malform: *looks violently ill*
+[10/03/2024 00:30]  You see: a blood hunter corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  a malform: a malform
+[10/03/2024 00:30]  Grimmitch: Boss Slayer
+[10/03/2024 00:30]  Grimmitch: [Legend, KoU]
+[10/03/2024 00:30]  Grimmitch: Lord Grimmitch
+[10/03/2024 00:30]  a malform: *vomits*
+[10/03/2024 00:30]  You see: a lesser blood daemon corpse
+[10/03/2024 00:30]  You see: a chaos knight corpse
+[10/03/2024 00:30]  You see: a malform corpse
+[10/03/2024 00:30]  You see: a malform corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  You see: a blood hunter corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  You see: a lesser blood daemon corpse
+[10/03/2024 00:30]  You see: a lesser blood daemon corpse
+[10/03/2024 00:30]  You see: a malform corpse
+[10/03/2024 00:30]  Rixrax: Rixrax
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  You see: a blood daemon corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  You see: a blood feaster corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  a doppelganger: a doppelganger
+[10/03/2024 00:30]  a blood hunter: a blood hunter
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  You see: a lesser blood daemon corpse
+[10/03/2024 00:30]  You see: a lesser blood daemon corpse
+[10/03/2024 00:30]  You see: a blood daemon corpse
+[10/03/2024 00:30]  You see: a blood daemon corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  You see: a blood daemon corpse
+[10/03/2024 00:30]  You see: a blood daemon corpse
+[10/03/2024 00:30]  You see: a blood hunter corpse
+[10/03/2024 00:30]  You see: a blood feaster corpse
+[10/03/2024 00:30]  You see: a blood sorcerer corpse
+[10/03/2024 00:30]  Rekt it Ralph: Backstabber
+[10/03/2024 00:30]  Rekt it Ralph: [Scoundrel, dRs]
+[10/03/2024 00:30]  Rekt it Ralph: Rekt it Ralph
+[10/03/2024 00:30]  You see: a blood dragon corpse
+[10/03/2024 00:30]  You see: a doppelganger corpse
+[10/03/2024 00:30]  You see: a blood hunter corpse
+[10/03/2024 00:30]  a doppelganger: a doppelganger
+[10/03/2024 00:30]  You see: a blood sorcerer corpse
+[10/03/2024 00:30]  You see: a blood dragon corpse
+[10/03/2024 00:30]  Connor MacLeod: Legend of Aspects
+[10/03/2024 00:30]  Connor MacLeod: [OFP]
+[10/03/2024 00:30]  Connor MacLeod: Lord Connor MacLeod
+[10/03/2024 00:30]  You see: a blood dragon corpse
+[10/03/2024 00:30]  You see: a blood dragon corpse
+[10/03/2024 00:30]  Helric Houvac: [Prospect, T^C]
+[10/03/2024 00:30]  Helric Houvac: Helric Houvac
+[10/03/2024 00:30]  You see: a blood dragon corpse
+[10/03/2024 00:30]  You see: a blood dragon corpse
+[10/03/2024 00:30]  Grimmitch: Boss Slayer
+[10/03/2024 00:30]  Grimmitch: [Legend, KoU]
+[10/03/2024 00:30]  Grimmitch: Lord Grimmitch
+[10/03/2024 00:30]  Rekt it Ralph: Backstabber
+[10/03/2024 00:30]  Rekt it Ralph: [Scoundrel, dRs]
+[10/03/2024 00:30]  Rekt it Ralph: Rekt it Ralph
+[10/03/2024 00:31]  You see: a blood dragon corpse
+[10/03/2024 00:31]  You see: a malform corpse
+[10/03/2024 00:31]  Tattercoats: [Tatertots, HiTi]
+[10/03/2024 00:31]  Tattercoats: Lady Tattercoats
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  Helric Houvac: Helric Houvac
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  Freddie Mercuryy: Legendary Domesticator
+[10/03/2024 00:31]  Freddie Mercuryy: [Recruit, L%C]
+[10/03/2024 00:31]  Freddie Mercuryy: Freddie Mercuryy
+[10/03/2024 00:31]  SunnBaby: (bonded)
+[10/03/2024 00:31]  SunnBaby: SunnBaby
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  SunnDaddy: (bonded)
+[10/03/2024 00:31]  SunnDaddy: SunnDaddy
+[10/03/2024 00:31]  You see: exceptional agapite air aspect pitchfork
+[10/03/2024 00:31]  You see: [crafted by GrimmSmith]
+[10/03/2024 00:31]  Connor MacLeod: *pukes*
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  Sir Clay Dawg: [Recruit, L%C]
+[10/03/2024 00:31]  Sir Clay Dawg: Sir Clay Dawg
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  You see: a lesser blood daemon corpse
+[10/03/2024 00:31]  You see: a lesser blood daemon corpse
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  You see: a lesser blood daemon corpse
+[10/03/2024 00:31]  You see: a lesser blood daemon corpse
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  You see: a lesser blood daemon corpse
+[10/03/2024 00:31]  System: You are currently prevented from performing criminal looting actions.
+[10/03/2024 00:31]  Connor MacLeod: Kal Vas Flam
+[10/03/2024 00:31]  You see: a lesser blood daemon corpse
+[10/03/2024 00:31]  You see: a blood hunter corpse
+[10/03/2024 00:31]  You see: a blood daemon corpse
+[10/03/2024 00:31]  You see: a blood daemon corpse
+[10/03/2024 00:31]  You see: a lesser blood daemon corpse
+[10/03/2024 00:31]  You see: a lesser blood daemon corpse
+[10/03/2024 00:31]  Helric Houvac: [Prospect, T^C]
+[10/03/2024 00:31]  Helric Houvac: Helric Houvac
+[10/03/2024 00:31]  Helric Houvac: Helric Houvac
+[10/03/2024 00:31]  Rixrax: Rixrax
+[10/03/2024 00:31]  Grimmitch: Boss Slayer
+[10/03/2024 00:31]  Grimmitch: [Legend, KoU]
+[10/03/2024 00:31]  Grimmitch: Lord Grimmitch
+[10/03/2024 00:31]  You see: a blood sorcerer corpse
+[10/03/2024 00:31]  You see: a blood sorcerer corpse
+[10/03/2024 00:31]  You see: a blood daemon corpse
+[10/03/2024 00:31]  You see: a blood sorcerer corpse
+[10/03/2024 00:31]  a blood daemon: a blood daemon
+[10/03/2024 00:31]  You see: a blood sorcerer corpse
+[10/03/2024 00:31]  Grimmitch: Boss Slayer
+[10/03/2024 00:31]  Grimmitch: [Legend, KoU]
+[10/03/2024 00:31]  Grimmitch: Lord Grimmitch
+[10/03/2024 00:31]  You see: a lesser blood daemon corpse
+[10/03/2024 00:31]  Grimmitch: Boss Slayer
+[10/03/2024 00:31]  Grimmitch: [Legend, KoU]
+[10/03/2024 00:31]  Grimmitch: Lord Grimmitch
+[10/03/2024 00:31]  a blood daemon: *blood rage*
+[10/03/2024 00:31]  Rixrax: Rixrax
+[10/03/2024 00:31]  Connor MacLeod: Kal Vas Flam
+[10/03/2024 00:31]  a blood hunter: *blood frenzy*
+[10/03/2024 00:31]  Connor MacLeod: Kal Vas Flam
+[10/03/2024 00:31]  System: You are now under the protection of the town guards.
+[10/03/2024 00:31]  Razor: [+Hidden/Stealthing (0s)]
+[10/03/2024 00:31]  Razor: Steps: 0
+[10/03/2024 00:31]  Ailiin: Your mount returns.
+[10/03/2024 00:31]  Nona: Nona the cook
+[10/03/2024 00:31]  Guy: Guy the blacksmith
+[10/03/2024 00:31]  Lari: Lari the armorer
+[10/03/2024 00:31]  Khoury: Khoury the weaponsmith
+[10/03/2024 00:31]  a cat: a cat
+[10/03/2024 00:31]  Rosa: Rosa the miner
+[10/03/2024 00:31]  Razor: [-Hidden/Stealthing (s)]
+[10/03/2024 00:31]  Jafar: Jafar the baker
+[10/03/2024 00:31]  Davin: Davin the architect
+[10/03/2024 00:31]  Dane: Dane the mapmaker
+[10/03/2024 00:31]  a cat: a cat
+[10/03/2024 00:31]  Marsha: Marsha the provisioner
+[10/03/2024 00:31]  Patsy: Patsy the real estate broker
+[10/03/2024 00:31]  Tadi: Tadi the barkeep
+[10/03/2024 00:31]  Patsy: Patsy the real estate broker
+[10/03/2024 00:31]  Lari: Lari the armorer
+[10/03/2024 00:31]  Khoury: Khoury the weaponsmith
+[10/03/2024 00:31]  Davin: Davin the architect
+[10/03/2024 00:31]  Rosa: Rosa the miner
+[10/03/2024 00:31]  a cat: a cat
+[10/03/2024 00:31]  Brandi: Brandi the banker
+[10/03/2024 00:31]  Arbor the tree: Legendary Carpenter
+[10/03/2024 00:31]  Arbor the tree: [Ancient, Oak]
+[10/03/2024 00:31]  Arbor the tree: Lord Arbor the tree
+[10/03/2024 00:31]  Cellachan: Cellachan
+[10/03/2024 00:31]  Leon the Lame: Leon the Lame
+[10/03/2024 00:31]  a cat: a cat
+[10/03/2024 00:31]  Ravi: Ravi the Town Crier
+[10/03/2024 00:31]  Galatea: Galatea the healer
+[10/03/2024 00:31]  Ailiin: Bank Vendor buy
+[10/03/2024 00:31]  Ailiin: Items: 38/125
+[10/03/2024 00:31]  Ailiin: Total Weight: 1,024
+[10/03/2024 00:31]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:31]  [Razor]: Organize Agent queued 2 item(s) to be moved. (This may take a few moments)
+[10/03/2024 00:31]  [Razor]: Warning: Gold amount is now 0!
+[10/03/2024 00:31]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:31]  Killer Queen: Wizard
+[10/03/2024 00:31]  Killer Queen: [Soldier, SOF]
+[10/03/2024 00:31]  Killer Queen: Lady Killer Queen
+[10/03/2024 00:31]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:31]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:31]  Killer Queen: banl
+[10/03/2024 00:31]  Galatea: Galatea the healer
+[10/03/2024 00:31]  Ravi: Ravi the Town Crier
+[10/03/2024 00:31]  Pierce: Pierce the tailor
+[10/03/2024 00:31]  Ivar: Ivar the jeweler
+[10/03/2024 00:31]  Donnelly: Donnelly the scribe
+[10/03/2024 00:31]  Alonzo: Alonzo the tinker
+[10/03/2024 00:31]  Asta: Asta the mage
+[10/03/2024 00:31]  a dog: a dog
+[10/03/2024 00:31]  Killer Queen: Wizard
+[10/03/2024 00:31]  Killer Queen: [Soldier, SOF]
+[10/03/2024 00:31]  Killer Queen: Lady Killer Queen
+[10/03/2024 00:31]  Donnelly: Donnelly the scribe
+[10/03/2024 00:31]  a dog: a dog
+[10/03/2024 00:31]  Thurston: Thurston the waiter
+[10/03/2024 00:31]  Denton: Denton the innkeeper
+[10/03/2024 00:31]  Renee: Renee the stablemaster
+[10/03/2024 00:31]  a goat: a goat
+[10/03/2024 00:31]  Keara: Keara the stablemaster
+[10/03/2024 00:31]  a dog: a dog
+[10/03/2024 00:31]  Sergio Rangel: Sergio Rangel
+[10/03/2024 00:31]  Ailiin: Bank Vendor buy
+[10/03/2024 00:31]  Ailiin: Room
+[10/03/2024 00:31]  a dog: a dog
+[10/03/2024 00:31]  System: You have left the protection of the town guards.
+[10/03/2024 00:31]  System: You enter the rental room.
+[10/03/2024 00:31]  Geodoro: Geodoro
+[10/03/2024 00:31]  System: WorldMap loaded!
+[10/03/2024 00:31]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:31]  System: Opening door...
+[10/03/2024 00:31]  System: Entity not found.
+[10/03/2024 00:31]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/03/2024 00:32]  System: Malwulf has completed the achievement: Guardian of Cavernam (Intermediate).
+[10/03/2024 00:33]  System: Entity not found.
+[10/03/2024 00:33]  System: Real Dwayne has completed the achievement: Raffler (Advanced).
+[10/03/2024 00:36]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:36]  [Razor]: No one matching that was found on your screen.
+[10/03/2024 00:36]  Razor: Nothing to attack
+[10/03/2024 00:36]  Razor: [+Start auto-heal]
+[10/03/2024 00:36]  System: WeedMon has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/03/2024 00:36]  Razor: [+Start PeaceNearest]
+[10/03/2024 00:36]  [Razor]: No one matching that was found on your screen.
+[10/03/2024 00:36]  Razor: Nothing to attack
+[10/03/2024 00:36]  Razor: [+Start auto-heal]
+[10/03/2024 00:37]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:37]  [Razor]: No one matching that was found on your screen.
+[10/03/2024 00:37]  Razor: Nothing to attack
+[10/03/2024 00:37]  Razor: [+Start auto-heal]
+[10/03/2024 00:37]  Razor: [+Start PeaceNearest]
+[10/03/2024 00:37]  [Razor]: No one matching that was found on your screen.
+[10/03/2024 00:37]  Razor: Nothing to attack
+[10/03/2024 00:37]  Razor: [+Start auto-heal]
+[10/03/2024 00:37]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:37]  [Razor]: No one matching that was found on your screen.
+[10/03/2024 00:37]  Razor: Nothing to attack
+[10/03/2024 00:37]  Razor: [+Start auto-heal]
+[10/03/2024 00:37]  System: Rosanne has completed the achievement: Transmutation (Advanced).
+[10/03/2024 00:38]  Razor: [+Start DiscordNearest]
+[10/03/2024 00:38]  [Razor]: No one matching that was found on your screen.
+[10/03/2024 00:38]  Razor: Nothing to attack
+[10/03/2024 00:38]  Razor: [+Start auto-heal]
+[10/03/2024 00:38]  Razor: [+Start PeaceNearest]
+[10/03/2024 00:38]  [Razor]: No one matching that was found on your screen.
+[10/03/2024 00:38]  Razor: Nothing to attack
+[10/03/2024 00:38]  Razor: [+Start auto-heal]
+[10/03/2024 00:38]  System: Being perfectly rested, you shove them out of the way.
+[10/03/2024 00:38]  You see: unidentified gemshorn
+[10/03/2024 00:38]  You see: (500/500 uses remaining)
+[10/03/2024 00:38]  [Razor]: Queuing action request 1... 0.6 seconds left.
+[10/03/2024 00:38]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/03/2024 00:38]  [Razor]: Organize Agent queued 5 item(s) to be moved. (This may take a few moments)
+[10/03/2024 00:38]  [Razor]: Warning: Ginseng amount is now 0!
+[10/03/2024 00:38]  [Razor]: Organize Agent did not find any items to move.
+[10/03/2024 00:38]  [Razor]: Warning: Garlic amount is now 0!
+[10/03/2024 00:38]  [Razor]: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[10/03/2024 00:38]  [Razor]: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[10/03/2024 00:38]  [Razor]: Warning: Spider's Silk amount is now 0!
+[10/03/2024 00:38]  [Razor]: Warning: Sulfurous Ash amount is now 0!
+[10/03/2024 00:38]  [Razor]: Warning: Nightshade amount is now 0!
+[10/03/2024 00:38]  [Razor]: Finished 9 queued actions in 4.8 seconds.
+[10/03/2024 00:38]  Ailiin: [Ripe, SQzD]
+[10/03/2024 00:38]  Ailiin: Ailiin
+[10/03/2024 00:39]  System: Clothing item that occupies the Outer Legs layer.
+[10/03/2024 00:39]  System: Decorative item that occupies the Back layer. Item is blessed. Can be dyed with Accessory Dye.
+[10/03/2024 00:39]  System: Can be added to a player's Mastery Chain.

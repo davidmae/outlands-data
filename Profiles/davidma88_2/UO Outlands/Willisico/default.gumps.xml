@@ -18,22 +18,21 @@
 		<gump type="7" x="611" y="721" serial="1022" name="InfoItem" graphicId="11546" hideLabel="False" scale="1.2" matrix_x="0" matrix_y="0" />
 		<gump type="7" x="687" y="721" serial="1044" name="DroopLoot" graphicId="11546" hideLabel="False" scale="1.2" matrix_x="1" matrix_y="0" />
 	</anchored_group_gump>
-	<gump type="9" x="329" y="726" serial="6890869" isminimized="False" />
-	<gump type="21" x="551" y="900" serial="0" />
-	<gump type="2" x="475" y="755" serial="1625778011" graphic="60" isminimized="False" />
+	<gump type="9" x="872" y="94" serial="2813715" isminimized="False" />
+	<gump type="10" x="434" y="45" serial="0" isminimized="False" height="558" />
 	<gump type="16" x="18" y="110" serial="0" id="38" />
 	<gump type="5" x="29" y="91" serial="1" />
 	<gump type="3" x="784" y="9" serial="0" rows="27" columns="1" rectsize="40">
 		<controls>
 			<control graphic="0" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
-			<control graphic="0" hue="2406" key="119" mousebutton="0" alt="True" ctrl="False" shift="False" />
-			<control graphic="0" hue="2413" key="101" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="0" hue="0" key="119" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="0" hue="0" key="101" mousebutton="0" alt="True" ctrl="False" shift="False" />
 			<control graphic="0" hue="0" key="114" mousebutton="0" alt="True" ctrl="False" shift="False" />
 			<control graphic="0" hue="0" key="103" mousebutton="0" alt="False" ctrl="False" shift="False" />
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
-			<control graphic="0" hue="2419" />
+			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
@@ -57,7 +56,7 @@
 	<gump type="1" x="724" y="2" serial="0" graphic="30079" direction="0" />
 	<gump type="5" x="517" y="694" serial="0" />
 	<gump type="24" x="574" y="78" serial="0" />
-	<gump type="4" x="572" y="12" serial="6890869" />
 	<gump type="27" x="675" y="478" serial="0" />
+	<gump type="21" x="551" y="900" serial="0" />
 	<gump type="18" x="3" y="751" serial="0" />
 </gumps>

@@ -193,6 +193,7 @@ createlist ItemTypes
 if findtype 3702 ground -1 -1 2 as bag
     dclick bag  
     wait 500 
+    clearignore 
     foreach x in ItemTypes
         if findtype x bag as found
             hotkey 'set last target'
@@ -216,6 +217,7 @@ endif
 if findtype 3702 ground -1 -1 2 as bag
     dclick bag  
     wait 500 
+    clearignore 
     foreach x in ItemTypes
         if findtype x bag as found
             hotkey 'set last target'
@@ -241,6 +243,7 @@ if findtype 3702 ground -1 -1 2 as bag
                 drop backpack
             endif               
         endif
+        ignore x
     endfor
 endif 
 
