@@ -13,13 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">True</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-<<<<<<< HEAD
-	<property name="WindowX" type="System.Int32">2601</property>
-	<property name="WindowY" type="System.Int32">922</property>
-=======
-	<property name="WindowX" type="System.Int32">400</property>
-	<property name="WindowY" type="System.Int32">400</property>
->>>>>>> ae037eab036d07b9afabfd05bfa0bc283035e100
+	<property name="WindowX" type="System.Int32">1048</property>
+	<property name="WindowY" type="System.Int32">428</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,18 +22,13 @@
 	<property name="Opacity" type="System.Int32">100</property>
 	<property name="BlockDismount" type="System.Boolean">False</property>
 	<property name="CapFullScreen" type="System.Boolean">False</property>
-	<property name="CapPath" type="System.String">C:\Users\David\OneDrive\Imágenes\RazorScreenShots</property>
+	<property name="CapPath" type="System.String">C:\Users\david\OneDrive\Imágenes\RazorScreenShots</property>
 	<property name="CapTimeStamp" type="System.Boolean">True</property>
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-<<<<<<< HEAD
-	<property name="RazorWidth" type="System.Int32">912</property>
-	<property name="RazorHeight" type="System.Int32">734</property>
-=======
-	<property name="RazorWidth" type="System.Int32">160</property>
-	<property name="RazorHeight" type="System.Int32">28</property>
->>>>>>> ae037eab036d07b9afabfd05bfa0bc283035e100
+	<property name="RazorWidth" type="System.Int32">652</property>
+	<property name="RazorHeight" type="System.Int32">530</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -64,7 +54,7 @@
 	<property name="DiffTargetByType" type="System.Boolean">False</property>
 	<property name="StepThroughMacro" type="System.Boolean">False</property>
 	<property name="ShowTargetSelfLastClearOverhead" type="System.Boolean">True</property>
-	<property name="ShowOverheadMessages" type="System.Boolean">True</property>
+	<property name="ShowOverheadMessages" type="System.Boolean">False</property>
 	<property name="OverheadFormat" type="System.String">[{msg}]</property>
 	<property name="OverheadStyle" type="System.Int32">1</property>
 	<property name="LightLevel" type="System.Int32">31</property>
@@ -155,13 +145,14 @@
 		<counter name="Bandages" enabled="True" image="True" />
 		<counter name="Black Pearl" enabled="True" image="True" />
 		<counter name="Blood Moss" enabled="True" image="True" />
+		<counter name="Cure Potions" enabled="True" image="True" />
 		<counter name="Garlic" enabled="True" image="True" />
 		<counter name="Ginseng" enabled="True" image="True" />
+		<counter name="Heal Potions" enabled="True" image="True" />
 		<counter name="Mandrake Root" enabled="True" image="True" />
 		<counter name="Nightshade" enabled="True" image="True" />
 		<counter name="Spider's Silk" enabled="True" image="True" />
 		<counter name="Sulfurous Ash" enabled="True" image="True" />
-		<counter name="Gold" enabled="True" image="True" />
 	</counters>
 	<agents>
 		<Buy-1 enabled="False" />
@@ -177,43 +168,51 @@
 		<IgnoreList enabled="False" />
 		<Organizer-1 hotbag="1094065123">
 			<item id="3821" />
-			<item id="3862" />
 			<item id="3873" />
 			<item id="3877" />
 			<item id="3859" />
 			<item id="3885" />
 			<item id="3856" />
 			<item id="3865" />
-			<item id="3878" />
+			<item id="3862" />
 			<item id="3861" />
+			<item id="3878" />
 		</Organizer-1>
-		<Organizer-2 hotbag="1257982994">
-			<item id="3972" />
-			<item id="3980" />
-			<item id="3963" />
-			<item id="3976" />
+		<Organizer-2 hotbag="1671216080">
 			<item id="3962" />
 			<item id="3981" />
+			<item id="3976" />
+			<item id="3980" />
+			<item id="3963" />
+			<item id="3972" />
 			<item id="3973" />
+			<item id="8028" />
+			<item id="8005" />
+			<item id="8007" />
+			<item id="8022" />
+			<item id="8027" />
+			<item id="8023" />
+			<item id="8006" />
+			<item id="8010" />
+			<item id="8009" />
+			<item id="8024" />
+			<item id="8017" />
+			<item id="8019" />
+			<item id="8013" />
+			<item id="8018" />
+			<item id="8015" />
+			<item id="8020" />
+			<item id="8014" />
+			<item id="8025" />
+			<item id="8016" />
 			<item id="3974" />
 		</Organizer-2>
-		<Organizer-3 hotbag="1121942032">
+		<Organizer-3 hotbag="1672790153">
 			<item id="4225" />
-			<item id="7127" />
-			<item id="7154" />
-			<item id="3827" />
-			<item id="3903" />
-			<item id="7163" />
-			<item id="3617" />
-			<item id="7121" />
-			<item id="52149" />
-			<item id="2545" />
-			<item id="2422" />
-			<item id="2515" />
-			<item id="5154" />
-			<item id="5639" />
 		</Organizer-3>
-		<Organizer-4 hotbag="0" />
+		<Organizer-4 hotbag="1672790156">
+			<item id="2545" />
+		</Organizer-4>
 		<Organizer-5 hotbag="0" />
 		<Organizer-6 hotbag="0" />
 		<Organizer-7 hotbag="0" />
@@ -239,8 +238,11 @@
 		<Restock-7 hotbag="0" />
 		<Restock-8 hotbag="0" />
 		<Restock-9 hotbag="0" />
-		<Restock-10 hotbag="0" />
-		<Scavenger enabled="True" />
+		<Restock-10 hotbag="1525483696" />
+		<Scavenger enabled="True">
+			<bag serial="0x62B488B2" />
+			<item id="3903" />
+		</Scavenger>
 		<AutoSearchExemptions />
 		<Sell enabled="False" />
 		<UseOnce />

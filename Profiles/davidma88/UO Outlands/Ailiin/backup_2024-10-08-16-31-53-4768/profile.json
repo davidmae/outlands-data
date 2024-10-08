@@ -1,8 +1,8 @@
 {
   "enable_sound": true,
-  "sound_volume": 55,
+  "sound_volume": 31,
   "enable_music": true,
-  "music_volume": 29,
+  "music_volume": 59,
   "foot_steps_volume": 63,
   "loop_music": true,
   "enable_footsteps_sound": true,
@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 640,
-  "default_scale": 0.70000005,
+  "default_scale": 0.9,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -102,12 +102,12 @@
   "game_window_full_size": true,
   "window_borderless": true,
   "game_window_size": {
-    "X": 1920,
-    "Y": 1080
+    "X": 2048,
+    "Y": 1152
   },
   "topbar_gump_position": {
-    "X": 658,
-    "Y": 1
+    "X": 3,
+    "Y": 0
   },
   "topbar_gump_is_minimized": true,
   "topbar_gump_is_disabled": false,
@@ -172,7 +172,7 @@
   "drag_select_start_x": 554,
   "drag_select_start_y": 438,
   "drag_select_as_anchor": true,
-  "last_active_name_overhead_option": "Mobiles only",
+  "last_active_name_overhead_option": "Mobiles \u0026 Corpses only",
   "name_overhead_toggled": true,
   "keep_overhead_manager_gump_open": true,
   "show_target_range_indicator": true,
@@ -213,8 +213,8 @@
   "grid_loot_type": 2,
   "grid_loot_close_when_zero": true,
   "grid_loot_position": {
-    "X": 788,
-    "Y": 613
+    "X": 977,
+    "Y": 599
   },
   "grid_loot_size": {
     "X": 4,
@@ -267,14 +267,14 @@
   "block_looting_allied_corpses_in_grid_loot": true,
   "ignore_innocent_corpses": false,
   "enable_client_side_stam_block": true,
-  "world_map_width": 357,
-  "world_map_height": 296,
+  "world_map_width": 393,
+  "world_map_height": 371,
   "world_map_font": 3,
   "world_map_flip_map": true,
   "world_map_top_most": false,
   "world_map_free_view": false,
   "world_map_show_party": true,
-  "world_map_zoom_index": 3,
+  "world_map_zoom_index": 6,
   "world_map_show_coordinates": true,
   "world_map_show_mobiles": true,
   "world_map_show_player_name": true,
@@ -290,9 +290,9 @@
   "cooldown_bar_width": 150,
   "cooldown_bar_height": 30,
   "hide_inactive_cooldown_bars": false,
-  "last_used_desktop": "Ailiin.gumps.xml",
-  "journal_width": 483,
-  "journal_height": 287,
+  "last_used_desktop": "default.gumps.xml",
+  "journal_width": 503,
+  "journal_height": 305,
   "journal_enable_resize": true,
   "journal_lock_position": false,
   "journal_use_24_hour_clock": true,
