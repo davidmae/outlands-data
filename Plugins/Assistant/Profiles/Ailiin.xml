@@ -13,7 +13,7 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">True</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1115</property>
+	<property name="WindowX" type="System.Int32">1233</property>
 	<property name="WindowY" type="System.Int32">0</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">160</property>
-	<property name="RazorHeight" type="System.Int32">28</property>
+	<property name="RazorWidth" type="System.Int32">694</property>
+	<property name="RazorHeight" type="System.Int32">1039</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -254,14 +254,12 @@
 		<UseOnce />
 	</agents>
 	<dresslists />
-	<hotkeys>
-		<key mod="1" key="51" send="True">L:2018</key>
-	</hotkeys>
+	<hotkeys />
 	<overheadmessages />
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x93F8F8" name="mobTwo" />
+		<scriptvariable serial="0x785CA3" name="mobTwo" />
 	</scriptvariables>
 	<friends />
 	<textfilters />

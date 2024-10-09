@@ -55,7 +55,9 @@
 	</group>
 	<group name="Thieving">
 		<skillids>
+			<skill id="14" />
 			<skill id="21" />
+			<skill id="24" />
 			<skill id="30" />
 			<skill id="28" />
 			<skill id="33" />
@@ -73,9 +75,7 @@
 	<group name="Eldevil">
 		<skillids>
 			<skill id="10" />
-			<skill id="14" />
 			<skill id="19" />
-			<skill id="24" />
 			<skill id="25" />
 			<skill id="46" />
 			<skill id="26" />

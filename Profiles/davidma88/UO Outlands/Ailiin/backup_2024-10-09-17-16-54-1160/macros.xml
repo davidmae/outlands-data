@@ -204,6 +204,11 @@
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\DiscordNearest" />
 		</actions>
 	</macro>
+	<macro name="ProvokeNearestAuto" key="0" mousebutton="2" alt="False" ctrl="True" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script Combat\ProvokNearest" />
+		</actions>
+	</macro>
 	<macro name="BardBuff" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\BardBuff" />
@@ -247,11 +252,6 @@
 	<macro name="PeaceNearest1" key="0" mousebutton="4" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\PeaceNearest" />
-		</actions>
-	</macro>
-	<macro name="ProvoNearest" key="0" mousebutton="2" alt="False" ctrl="True" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\ProvoNearest" />
 		</actions>
 	</macro>
 </macros>
