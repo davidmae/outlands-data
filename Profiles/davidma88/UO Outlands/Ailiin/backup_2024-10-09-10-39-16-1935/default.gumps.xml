@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="7" x="1370" y="4" serial="1006" name="Bow" graphicId="701" hideLabel="False" scale="2" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1414" y="4" serial="1007" name="Salute" graphicId="701" hideLabel="False" scale="2" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="4">
+		<gump type="7" x="1663" y="343" serial="1050" name="SplitGold" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="1751" y="343" serial="1053" name="AddEssence" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="1" />
+		<gump type="7" x="1663" y="387" serial="1023" name="RestockBank" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="2" />
+		<gump type="7" x="1751" y="387" serial="1048" name="DressPVE#1" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="2" />
+		<gump type="7" x="1663" y="431" serial="1041" name="DroopLoot" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="3" />
+		<gump type="7" x="1751" y="431" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="3" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="7" x="1471" y="234" serial="1045" name="BardBuff" graphicId="108" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="1535" y="234" serial="1049" name="Stats" graphicId="355" hideLabel="False" scale="0.6" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="9" x="1604" y="-9" serial="5891706" isminimized="False" />
+	<gump type="2" x="1509" y="512" serial="1547581360" graphic="60" isminimized="False" />
+	<gump type="3" x="1877" y="3" serial="0" rows="27" columns="1" rectsize="40">
+		<controls>
+			<control graphic="3617" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="5370" hue="2799" key="119" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3852" hue="0" key="101" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3847" hue="0" key="114" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3851" hue="0" />
+			<control graphic="3846" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="8901" hue="0" />
+			<control graphic="8012" hue="0" />
+			<control graphic="2545" hue="0" />
+			<control graphic="4225" hue="0" />
+			<control graphic="7163" hue="0" />
+			<control graphic="3903" hue="0" />
+			<control graphic="11552" hue="0" />
+			<control graphic="27538" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="11897" hue="0" />
+			<control graphic="11886" hue="0" />
+			<control graphic="11884" hue="0" />
+			<control graphic="8786" hue="0" />
+			<control graphic="24436" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3821" hue="0" />
+		</controls>
+	</gump>
+	<gump type="8" x="443" y="-148" serial="0" isminimized="False" />
+	<gump type="24" x="1145" y="5" serial="0" />
+	<gump type="25" x="1003" y="5" serial="0" entryname="skill" />
+	<gump type="5" x="695" y="1" serial="0" />
+	<gump type="21" x="1614" y="878" serial="0" />
+	<gump type="5" x="1557" y="348" serial="1" />
+	<gump type="7" x="1468" y="8" serial="1047" name="Terran" graphicId="236" hideLabel="False" scale="0.8" />
+	<gump type="1" x="1528" y="9" serial="0" graphic="30079" direction="0" />
+	<gump type="27" x="201" y="277" serial="0" />
+	<gump type="18" x="0" y="0" serial="0" />
+	<gump type="6" x="0" y="299" serial="0" />
+</gumps>

@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">True</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1048</property>
-	<property name="WindowY" type="System.Int32">428</property>
+	<property name="WindowX" type="System.Int32">1115</property>
+	<property name="WindowY" type="System.Int32">0</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">652</property>
-	<property name="RazorHeight" type="System.Int32">530</property>
+	<property name="RazorWidth" type="System.Int32">160</property>
+	<property name="RazorHeight" type="System.Int32">28</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -229,7 +229,12 @@
 		<Organizer-18 hotbag="0" />
 		<Organizer-19 hotbag="0" />
 		<Organizer-20 hotbag="0" />
-		<Restock-1 hotbag="0" />
+		<Restock-1 hotbag="1672790152">
+			<item id="7163" amount="200" />
+			<item id="3617" amount="111" />
+			<item id="5370" amount="15" />
+			<item id="3854" amount="25" />
+		</Restock-1>
 		<Restock-2 hotbag="0" />
 		<Restock-3 hotbag="0" />
 		<Restock-4 hotbag="0" />
@@ -242,17 +247,22 @@
 		<Scavenger enabled="True">
 			<bag serial="0x62B488B2" />
 			<item id="3903" />
+			<item id="7163" />
 		</Scavenger>
 		<AutoSearchExemptions />
 		<Sell enabled="False" />
 		<UseOnce />
 	</agents>
 	<dresslists />
-	<hotkeys />
+	<hotkeys>
+		<key mod="1" key="51" send="True">L:2018</key>
+	</hotkeys>
 	<overheadmessages />
 	<containerlabels />
 	<macrovariables />
-	<scriptvariables />
+	<scriptvariables>
+		<scriptvariable serial="0x93F8F8" name="mobTwo" />
+	</scriptvariables>
 	<friends />
 	<textfilters />
 	<targetfilters />

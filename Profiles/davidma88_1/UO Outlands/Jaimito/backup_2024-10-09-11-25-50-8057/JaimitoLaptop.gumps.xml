@@ -22,8 +22,8 @@
 		<gump type="15" x="1553" y="125" serial="0" id="36" matrix_x="0" matrix_y="2" />
 	</anchored_group_gump>
 	<anchored_group_gump matrix_w="2" matrix_h="1">
-		<gump type="15" x="1726" y="337" serial="0" id="45" matrix_x="0" matrix_y="0" />
-		<gump type="15" x="1770" y="337" serial="0" id="32" matrix_x="1" matrix_y="0" />
+		<gump type="15" x="1727" y="337" serial="0" id="45" matrix_x="0" matrix_y="0" />
+		<gump type="15" x="1771" y="337" serial="0" id="32" matrix_x="1" matrix_y="0" />
 	</anchored_group_gump>
 	<anchored_group_gump matrix_w="5" matrix_h="1">
 		<gump type="15" x="809" y="24" serial="0" id="22" matrix_x="1" matrix_y="0" />
@@ -51,9 +51,9 @@
 		<gump type="7" x="430" y="45" serial="1010" name="Guards" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
 	</anchored_group_gump>
 	<gump type="9" x="1617" y="-1" serial="1258595" isminimized="False" />
-	<gump type="2" x="1538" y="426" serial="1160050294" graphic="60" isminimized="False" />
+	<gump type="2" x="1536" y="454" serial="1160050294" graphic="60" isminimized="False" />
 	<gump type="21" x="1591" y="848" serial="0" />
-	<gump type="3" x="1878" y="0" serial="0" rows="27" columns="1" rectsize="42">
+	<gump type="3" x="1875" y="-48" serial="0" rows="27" columns="1" rectsize="42">
 		<controls>
 			<control graphic="52149" hue="2876" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
 			<control graphic="5370" hue="2799" key="119" mousebutton="0" alt="True" ctrl="False" shift="False" />

@@ -1,0 +1,32 @@
+[10/08/2024 17:47]  System: WorldMap loading...
+[10/08/2024 17:47]  System: Loading WorldMap markers..
+[10/08/2024 17:47]  System: ..Banks_and_Healers.xml (39)
+[10/08/2024 17:47]  System: ..Dungeons.xml (13)
+[10/08/2024 17:47]  System: ..Dungeon_Gates.xml (392)
+[10/08/2024 17:47]  System: ..Healer_Caravans.xml (42)
+[10/08/2024 17:47]  System: ..Kings_Faire.xml (49)
+[10/08/2024 17:47]  System: ..Moongates.xml (10)
+[10/08/2024 17:47]  System: ..POI.xml (251)
+[10/08/2024 17:47]  System: ..PvP_Locations.xml (71)
+[10/08/2024 17:47]  System: ..Shrines.xml (9)
+[10/08/2024 17:47]  System: ..Sub-Dungeons.xml (4)
+[10/08/2024 17:47]  System: ..Townships.xml (10)
+[10/08/2024 17:47]  System: ..UOAM_Atlas.xml (1887)
+[10/08/2024 17:47]  System: ..UOAM_T-Map.xml (255)
+[10/08/2024 17:47]  System: ..UOAM_Treasure.xml (523)
+[10/08/2024 17:47]  System: WorldMap markers loaded (3555)
+[10/08/2024 17:47]  System: Welcome Ailiin!
+[10/08/2024 17:47]  System: Your food satisfaction effect has expired.
+[10/08/2024 17:47]  Ailiin: [Ripe, SQzD]
+[10/08/2024 17:47]  Ailiin: Ailiin
+[10/08/2024 17:47]  System: WorldMap loaded!
+[10/08/2024 17:47]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/08/2024 17:47]  System: Your skill in Tactics has increased by 20.0.  It is now 120.0.
+[10/08/2024 17:47]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/08/2024 17:47]  System: You are now under the effect of a Song of Peacemaking (11.2% healing amounts for 15 minutes).
+[10/08/2024 17:47]  System: Click again to confirm.
+[10/08/2024 17:47]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/08/2024 17:47]  System: You are now under the effect of a Song of Discordance (11.2% reduced damage from creatures for 15 minutes).
+[10/08/2024 17:47]  Ailiin: Lyric aspect tier level increased!
+[10/08/2024 17:48]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/08/2024 17:48]  System: You are now under the effect of a Song of Provocation (+11.3% damage against creatures for 15 minutes).
