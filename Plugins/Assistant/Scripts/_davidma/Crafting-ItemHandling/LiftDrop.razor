@@ -1,0 +1,11 @@
+@setvar! item 2546
+@setvar! container 0x7018634A
+
+while not dead 
+    if findtype item backpack -1 11 -1 as ribs
+        lift ribs 11
+        wait 200
+        drop container
+    endif
+    wait 1000
+endwhile
