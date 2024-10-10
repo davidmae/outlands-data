@@ -1,0 +1,1210 @@
+[10/10/2024 09:43]  System: WorldMap loading...
+[10/10/2024 09:43]  System: Loading WorldMap markers..
+[10/10/2024 09:43]  System: ..Banks_and_Healers.xml (39)
+[10/10/2024 09:43]  System: ..Dungeons.xml (13)
+[10/10/2024 09:43]  System: ..Dungeon_Gates.xml (392)
+[10/10/2024 09:43]  System: ..Healer_Caravans.xml (42)
+[10/10/2024 09:43]  System: ..Kings_Faire.xml (49)
+[10/10/2024 09:43]  System: ..Moongates.xml (10)
+[10/10/2024 09:43]  System: ..POI.xml (251)
+[10/10/2024 09:43]  System: ..PvP_Locations.xml (71)
+[10/10/2024 09:43]  System: ..Shrines.xml (9)
+[10/10/2024 09:43]  System: ..Sub-Dungeons.xml (4)
+[10/10/2024 09:43]  System: ..Townships.xml (10)
+[10/10/2024 09:43]  System: WorldMap loaded!
+[10/10/2024 09:43]  System: ..UOAM_Atlas.xml (1887)
+[10/10/2024 09:43]  System: ..UOAM_T-Map.xml (255)
+[10/10/2024 09:43]  System: ..UOAM_Treasure.xml (523)
+[10/10/2024 09:43]  System: WorldMap markers loaded (3555)
+[10/10/2024 09:43]  System: Welcome Eldevil!
+[10/10/2024 09:43]  [Razor]: Ignoring action request (already queued).
+[10/10/2024 09:43]  Razor: [- (s)]
+[10/10/2024 09:43]  Razor: [+Hidden/Stealthing (0s)]
+[10/10/2024 09:43]  System: The world is saving, please wait.
+[10/10/2024 09:43]  System: World save complete. The entire process took 2.4 seconds.
+[10/10/2024 09:43]  [Razor]: Finished 3 queued actions in 3.1 seconds.
+[10/10/2024 09:43]  You see: iron lockpicks
+[10/10/2024 09:43]  You see: (100 uses remaining)
+[10/10/2024 09:43]  You see: iron lockpicks
+[10/10/2024 09:43]  You see: (64 uses remaining)
+[10/10/2024 09:43]  System: It appears to be locked.
+[10/10/2024 09:43]  System: You attempt to pick the lock.
+[10/10/2024 09:43]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:43]  System: You fail to make any progress on the lock.
+[10/10/2024 09:43]  System: You continue to pick the lock.
+[10/10/2024 09:43]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:43]  System: You fail to make any progress on the lock.
+[10/10/2024 09:43]  System: You continue to pick the lock.
+[10/10/2024 09:43]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:43]  System: You fail to make any progress on the lock.
+[10/10/2024 09:43]  System: You continue to pick the lock.
+[10/10/2024 09:43]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:43]  System: You fail to make any progress on the lock.
+[10/10/2024 09:43]  System: You continue to pick the lock.
+[10/10/2024 09:43]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:43]  System: You fail to make any progress on the lock.
+[10/10/2024 09:43]  System: You continue to pick the lock.
+[10/10/2024 09:43]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:43]  System: You fail to make any progress on the lock.
+[10/10/2024 09:43]  System: You continue to pick the lock.
+[10/10/2024 09:43]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:43]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:43]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: What do you wish to track?
+[10/10/2024 09:44]  System: You will only be able to track individuals and creatures currently within this house.
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  Eldevil: You begin hunting.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  Razor: [+Tracking Hunting (0s)]
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: Your skill in Meditation has decreased by 0.1.  It is now 81.2.
+[10/10/2024 09:44]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.0.
+[10/10/2024 09:44]  System: You make some progress on the lock. (36%)
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: Your skill in Meditation has decreased by 0.1.  It is now 81.1.
+[10/10/2024 09:44]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.1.
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You make some progress on the lock. (64%)
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Joemy has completed the achievement: Aspect Mastery (Basic).
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You make some progress on the lock. (39%)
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  System: Your skill in Meditation has decreased by 0.1.  It is now 81.0.
+[10/10/2024 09:44]  System: Your skill in Tracking has increased by 0.1.  It is now 88.5.
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You make some progress on the lock. (73%)
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.9.
+[10/10/2024 09:44]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.2.
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.8.
+[10/10/2024 09:44]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.3.
+[10/10/2024 09:44]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You fail to make any progress on the lock.
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You make some progress on the lock. (36%)
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:44]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:44]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:44]  System: You make some progress on the lock. (74%)
+[10/10/2024 09:44]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: [CCC] A Corpse Creek Contest will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Aubetoile Maker has completed the achievement: Artificers Enclave Dignitary.
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.7.
+[10/10/2024 09:45]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.4.
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.6.
+[10/10/2024 09:45]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.5.
+[10/10/2024 09:45]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You make some progress on the lock. (29%)
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You make some progress on the lock. (64%)
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You make some progress on the lock. (93%)
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:45]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:45]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:45]  System: You fail to make any progress on the lock.
+[10/10/2024 09:45]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You make some progress on the lock. (38%)
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.5.
+[10/10/2024 09:46]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.6.
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You make some progress on the lock. (70%)
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You make some progress on the lock. (38%)
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You make some progress on the lock. (65%)
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You make some progress on the lock. (87%)
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.4.
+[10/10/2024 09:46]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.7.
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You fail to make any progress on the lock.
+[10/10/2024 09:46]  System: You have worn out your tool.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:46]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:46]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:46]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You make some progress on the lock. (38%)
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You make some progress on the lock. (66%)
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You make some progress on the lock. (99%)
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.3.
+[10/10/2024 09:47]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.8.
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.2.
+[10/10/2024 09:47]  System: Your skill in Lockpicking has increased by 0.1.  It is now 56.9.
+[10/10/2024 09:47]  System: You make some progress on the lock. (28%)
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.1.
+[10/10/2024 09:47]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.0.
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:47]  System: You fail to make any progress on the lock.
+[10/10/2024 09:47]  System: You continue to pick the lock.
+[10/10/2024 09:47]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You make some progress on the lock. (60%)
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: Your skill in Meditation has decreased by 0.1.  It is now 80.0.
+[10/10/2024 09:48]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.1.
+[10/10/2024 09:48]  System: You make some progress on the lock. (93%)
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.9.
+[10/10/2024 09:48]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.2.
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You make some progress on the lock. (31%)
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:48]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:48]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:48]  System: You fail to make any progress on the lock.
+[10/10/2024 09:48]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.8.
+[10/10/2024 09:49]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.3.
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Mom's Touch has completed the achievement: Construct Slayer (Advanced).
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You make some progress on the lock. (67%)
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You make some progress on the lock. (98%)
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Made in China (CN) guild has reached prestige level 251.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You fail to make any progress on the lock.
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:49]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:49]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:49]  System: You make some progress on the lock. (20%)
+[10/10/2024 09:49]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.7.
+[10/10/2024 09:50]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.4.
+[10/10/2024 09:50]  System: You make some progress on the lock. (41%)
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You make some progress on the lock. (70%)
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You make some progress on the lock. (94%)
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.6.
+[10/10/2024 09:50]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.5.
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You make some progress on the lock. (34%)
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.5.
+[10/10/2024 09:50]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.6.
+[10/10/2024 09:50]  System: You make some progress on the lock. (64%)
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:50]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:50]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:50]  System: You fail to make any progress on the lock.
+[10/10/2024 09:50]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.4.
+[10/10/2024 09:51]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.7.
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You make some progress on the lock. (85%)
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.3.
+[10/10/2024 09:51]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.8.
+[10/10/2024 09:51]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You make some progress on the lock. (29%)
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You make some progress on the lock. (49%)
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.2.
+[10/10/2024 09:51]  System: Your skill in Lockpicking has increased by 0.1.  It is now 57.9.
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You fail to make any progress on the lock.
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:51]  Fierro: Fierro
+[10/10/2024 09:51]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:51]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:51]  System: You make some progress on the lock. (73%)
+[10/10/2024 09:51]  System: You continue to pick the lock.
+[10/10/2024 09:52]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:52]  System: You fail to make any progress on the lock.
+[10/10/2024 09:52]  System: You continue to pick the lock.
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:52]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.1.
+[10/10/2024 09:52]  System: Your skill in Lockpicking has increased by 0.1.  It is now 58.0.
+[10/10/2024 09:52]  System: You fail to make any progress on the lock.
+[10/10/2024 09:52]  System: You continue to pick the lock.
+[10/10/2024 09:52]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:52]  System: You fail to make any progress on the lock.
+[10/10/2024 09:52]  System: You continue to pick the lock.
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Lockpicking skillgain: 13.812%
+[10/10/2024 09:52]  System: You unlock the box and its mechanisms reset itself.
+[10/10/2024 09:52]  System: You have worn out your tool.
+[10/10/2024 09:52]  System: You continue to pick the lock.
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Those lockpicks are no longer available.
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Your skill in Meditation has decreased by 0.1.  It is now 79.0.
+[10/10/2024 09:52]  System: Your skill in Tracking has increased by 0.1.  It is now 88.6.
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:52]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.9.
+[10/10/2024 09:53]  System: Your skill in Tracking has increased by 0.1.  It is now 88.7.
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.8.
+[10/10/2024 09:53]  System: Your skill in Tracking has increased by 0.1.  It is now 88.8.
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:53]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Astana has completed the achievement: Alchemist (Basic).
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.7.
+[10/10/2024 09:54]  System: Your skill in Tracking has increased by 0.1.  It is now 88.9.
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:54]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: [CCC] A Corpse Creek Contest will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:55]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:56]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.6.
+[10/10/2024 09:57]  System: Your skill in Tracking has increased by 0.1.  It is now 89.0.
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: The world will save in 15 seconds.
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:57]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:58]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:58]  System: The world is saving, please wait.
+[10/10/2024 09:58]  System: World save complete. The entire process took 2.6 seconds.
+[10/10/2024 09:58]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:58]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:58]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:58]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:58]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:58]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:58]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:58]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.5.
+[10/10/2024 09:59]  System: Your skill in Tracking has increased by 0.1.  It is now 89.1.
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: chen feng has completed the achievement: Aspect Mastery (Epic).
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: Belian Maieslav has completed the achievement: Order of Armorers Associate.
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 09:59]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: [CCC] The Corpse Creek Contest has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:00]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.4.
+[10/10/2024 10:01]  System: Your skill in Tracking has increased by 0.1.  It is now 89.2.
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:01]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.3.
+[10/10/2024 10:02]  System: Your skill in Tracking has increased by 0.1.  It is now 89.3.
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:02]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:03]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.2.
+[10/10/2024 10:04]  System: Your skill in Tracking has increased by 0.1.  It is now 89.4.
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:04]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:05]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:06]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Peachi has completed the achievement: Maester (Basic).
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:07]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.1.
+[10/10/2024 10:08]  System: Your skill in Tracking has increased by 0.1.  It is now 89.5.
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:08]  System: Your skill in Meditation has decreased by 0.1.  It is now 78.0.
+[10/10/2024 10:08]  System: Your skill in Tracking has increased by 0.1.  It is now 89.6.
+[10/10/2024 10:08]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:09]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.9.
+[10/10/2024 10:10]  System: Your skill in Tracking has increased by 0.1.  It is now 89.7.
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.8.
+[10/10/2024 10:10]  System: Your skill in Tracking has increased by 0.1.  It is now 89.8.
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.7.
+[10/10/2024 10:10]  System: Your skill in Tracking has increased by 0.1.  It is now 89.9.
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:10]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:11]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: The world will save in 15 seconds.
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:12]  System: The world is saving, please wait.
+[10/10/2024 10:12]  System: World save complete. The entire process took 2.6 seconds.
+[10/10/2024 10:12]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: FeiLong has completed the achievement: Domestication (Advanced).
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: Seven. has completed the achievement: Enchanter (Epic).
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:13]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:14]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:15]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:15]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:15]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:15]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:15]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:15]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:15]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:15]  System: Tracking skillgain: 6.031%
+[10/10/2024 10:15]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.6.
+[10/10/2024 10:15]  System: Your skill in Tracking has increased by 0.1.  It is now 90.0.
+[10/10/2024 10:15]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:15]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:16]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.5.
+[10/10/2024 10:17]  System: Your skill in Tracking has increased by 0.1.  It is now 90.1.
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:17]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.4.
+[10/10/2024 10:18]  System: Your skill in Tracking has increased by 0.1.  It is now 90.2.
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Cham has completed the achievement: Alchemist (Advanced).
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:18]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:19]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.3.
+[10/10/2024 10:19]  System: Your skill in Tracking has increased by 0.1.  It is now 90.3.
+[10/10/2024 10:19]  System: Moneyline Parlay has completed the achievement: Shipwright (Basic).
+[10/10/2024 10:19]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Dead Boy has completed the achievement: Paragon Slayer (Basic).
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.2.
+[10/10/2024 10:20]  System: Your skill in Tracking has increased by 0.1.  It is now 90.4.
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:20]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:21]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.1.
+[10/10/2024 10:22]  System: Your skill in Tracking has increased by 0.1.  It is now 90.5.
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:22]  System: Your skill in Meditation has decreased by 0.1.  It is now 77.0.
+[10/10/2024 10:22]  System: Your skill in Tracking has increased by 0.1.  It is now 90.6.
+[10/10/2024 10:22]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  a black bear: (summoned)
+[10/10/2024 10:23]  a black bear: a black bear
+[10/10/2024 10:23]  a monitor hatchling: (summoned)
+[10/10/2024 10:23]  a monitor hatchling: a monitor hatchling
+[10/10/2024 10:23]  a sand crab: (summoned)
+[10/10/2024 10:23]  a sand crab: a sand crab
+[10/10/2024 10:23]  shallow water: (summoned)
+[10/10/2024 10:23]  shallow water: shallow water
+[10/10/2024 10:23]  Fierro: Fierro
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.9.
+[10/10/2024 10:23]  System: Your skill in Tracking has increased by 0.1.  It is now 90.7.
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:23]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.8.
+[10/10/2024 10:24]  System: Your skill in Tracking has increased by 0.1.  It is now 90.8.
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:24]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.7.
+[10/10/2024 10:25]  System: Your skill in Tracking has increased by 0.1.  It is now 90.9.
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: His Dudeness has completed the achievement: Affluent (Advanced).
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:25]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.6.
+[10/10/2024 10:25]  System: Your skill in Tracking has increased by 0.1.  It is now 91.0.
+[10/10/2024 10:25]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:26]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.5.
+[10/10/2024 10:27]  System: Your skill in Tracking has increased by 0.1.  It is now 91.1.
+[10/10/2024 10:27]  System: The world will save in 15 seconds.
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: The world is saving, please wait.
+[10/10/2024 10:27]  System: World save complete. The entire process took 2.8 seconds.
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:27]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.4.
+[10/10/2024 10:28]  System: Your skill in Tracking has increased by 0.1.  It is now 91.2.
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.3.
+[10/10/2024 10:28]  System: Your skill in Tracking has increased by 0.1.  It is now 91.3.
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:28]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:29]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.2.
+[10/10/2024 10:30]  System: Your skill in Tracking has increased by 0.1.  It is now 91.4.
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:30]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:31]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:32]  System: Mustang has completed the achievement: Elemental Slayer (Epic).
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:33]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Smash GT has completed the achievement: Transmutation (Mythical).
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.1.
+[10/10/2024 10:34]  System: Your skill in Tracking has increased by 0.1.  It is now 91.5.
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:34]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:35]  System: Your skill in Meditation has decreased by 0.1.  It is now 76.0.
+[10/10/2024 10:35]  System: Your skill in Tracking has increased by 0.1.  It is now 91.6.
+[10/10/2024 10:36]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:36]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:36]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:36]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:36]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:36]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:36]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:36]  System: Tracking skillgain: 4.822%
+[10/10/2024 10:36]  System: Tracking skillgain: 4.822%

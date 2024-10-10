@@ -1,0 +1,56 @@
+[10/10/2024 12:19]  System: WorldMap loading...
+[10/10/2024 12:19]  System: Loading WorldMap markers..
+[10/10/2024 12:19]  System: ..Banks_and_Healers.xml (39)
+[10/10/2024 12:19]  System: ..Dungeons.xml (13)
+[10/10/2024 12:19]  System: ..Dungeon_Gates.xml (392)
+[10/10/2024 12:19]  System: ..Healer_Caravans.xml (42)
+[10/10/2024 12:19]  System: ..Kings_Faire.xml (49)
+[10/10/2024 12:19]  System: ..Moongates.xml (10)
+[10/10/2024 12:19]  System: ..POI.xml (251)
+[10/10/2024 12:19]  System: ..PvP_Locations.xml (71)
+[10/10/2024 12:19]  System: ..Shrines.xml (9)
+[10/10/2024 12:19]  System: ..Sub-Dungeons.xml (4)
+[10/10/2024 12:19]  System: ..Townships.xml (10)
+[10/10/2024 12:19]  System: ..UOAM_Atlas.xml (1887)
+[10/10/2024 12:19]  System: ..UOAM_T-Map.xml (255)
+[10/10/2024 12:19]  System: ..UOAM_Treasure.xml (523)
+[10/10/2024 12:19]  System: WorldMap markers loaded (3555)
+[10/10/2024 12:19]  System: Welcome Ailiin!
+[10/10/2024 12:19]  Ailiin: [Ripe, SQzD]
+[10/10/2024 12:19]  Ailiin: Ailiin
+[10/10/2024 12:19]  System: WorldMap loaded!
+[10/10/2024 12:19]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/10/2024 12:19]  [Razor]: Queuing action request 1... 1.0 seconds left.
+[10/10/2024 12:19]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/10/2024 12:20]  System: Vaci has completed the achievement: Monster Hunter Initiate.
+[10/10/2024 12:20]  [Razor]: Your script could not be parsed due to a syntax error in line 22.
+[10/10/2024 12:20]  [Razor]: Script Error: Value was either too large or too small for an unsigned byte. (Line: 20)
+[10/10/2024 12:20]  [Razor]: Queuing action request 1... 0.7 seconds left.
+[10/10/2024 12:20]  [Razor]: Queuing action request 1... 0.8 seconds left.
+[10/10/2024 12:20]  [Razor]: Queuing action request 1... 0.8 seconds left.
+[10/10/2024 12:20]  [Razor]: Finished 4 queued actions in 1.8 seconds.
+[10/10/2024 12:21]  [Razor]: Queuing action request 2... 1.6 seconds left.
+[10/10/2024 12:21]  [Razor]: Queuing action request 3... 1.9 seconds left.
+[10/10/2024 12:21]  [Razor]: Queuing action request 4... 2.6 seconds left.
+[10/10/2024 12:21]  [Razor]: Queuing action request 5... 3.4 seconds left.
+[10/10/2024 12:21]  [Razor]: Queuing action request 6... 3.9 seconds left.
+[10/10/2024 12:21]  [Razor]: Queuing action request 7... 4.8 seconds left.
+[10/10/2024 12:22]  [Razor]: WARNING: Drag/Drop timeout! Dropping item in hand to backpack.
+[10/10/2024 12:22]  System: You must wait to perform another action.
+[10/10/2024 12:22]  [Razor]: Finished 7 queued actions in 94.4 seconds.
+[10/10/2024 12:22]  [Razor]: Script Error: Value was either too large or too small for an unsigned byte. (Line: 20)
+[10/10/2024 12:22]  System: Snooze has completed the achievement: Affluent (Basic).
+[10/10/2024 12:23]  [Razor]: Script Error: Value was either too large or too small for an unsigned byte. (Line: 20)
+[10/10/2024 12:23]  System: Astana has completed the achievement: Artificers Enclave Initiate.
+[10/10/2024 12:23]  : log post
+[10/10/2024 12:23]  [Razor]: Script Error: Requested value '0x51BCA842' was not found. (Line: 20)
+[10/10/2024 12:24]  [Razor]: Script Error: Value was either too large or too small for an unsigned byte. (Line: 20)
+[10/10/2024 12:24]  System: You must wait another moment before you may pick up an item from here.
+[10/10/2024 12:25]  System: The world will save in 15 seconds.
+[10/10/2024 12:25]  System: The world is saving, please wait.
+[10/10/2024 12:26]  System: World save complete. The entire process took 2.7 seconds.
+[10/10/2024 12:28]  System: Levis has completed the achievement: Culinary Savvy (Epic).
+[10/10/2024 12:28]  System: Ambrosia Pura has completed the achievement: Affluent (Basic).
+[10/10/2024 12:28]  System: Grepfruit has registered an antiquity: Armageddon
+[10/10/2024 12:29]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/10/2024 12:30]  System: Victoria has completed the achievement: Distinguished Strategist.

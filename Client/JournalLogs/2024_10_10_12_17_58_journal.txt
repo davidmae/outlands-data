@@ -1,0 +1,23 @@
+[10/10/2024 12:17]  System: WorldMap loading...
+[10/10/2024 12:17]  System: Loading WorldMap markers..
+[10/10/2024 12:17]  System: ..Banks_and_Healers.xml (39)
+[10/10/2024 12:17]  System: ..Dungeons.xml (13)
+[10/10/2024 12:17]  System: ..Dungeon_Gates.xml (392)
+[10/10/2024 12:17]  System: ..Healer_Caravans.xml (42)
+[10/10/2024 12:17]  System: ..Kings_Faire.xml (49)
+[10/10/2024 12:17]  System: ..Moongates.xml (10)
+[10/10/2024 12:17]  System: ..POI.xml (251)
+[10/10/2024 12:17]  System: ..PvP_Locations.xml (71)
+[10/10/2024 12:17]  System: ..Shrines.xml (9)
+[10/10/2024 12:17]  System: ..Sub-Dungeons.xml (4)
+[10/10/2024 12:17]  System: ..Townships.xml (10)
+[10/10/2024 12:17]  System: ..UOAM_Atlas.xml (1887)
+[10/10/2024 12:17]  System: ..UOAM_T-Map.xml (255)
+[10/10/2024 12:17]  System: ..UOAM_Treasure.xml (523)
+[10/10/2024 12:17]  System: WorldMap markers loaded (3555)
+[10/10/2024 12:17]  System: WorldMap loaded!
+[10/10/2024 12:17]  System: Welcome Ailiin!
+[10/10/2024 12:17]  [Razor]: Ignoring action request (already queued).
+[10/10/2024 12:17]  Ailiin: [Ripe, SQzD]
+[10/10/2024 12:17]  Ailiin: Ailiin
+[10/10/2024 12:18]  [Razor]: Finished 3 queued actions in 1.2 seconds.

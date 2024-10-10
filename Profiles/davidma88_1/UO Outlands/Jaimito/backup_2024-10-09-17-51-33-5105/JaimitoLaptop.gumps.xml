@@ -51,20 +51,8 @@
 		<gump type="7" x="430" y="45" serial="1010" name="Guards" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
 	</anchored_group_gump>
 	<gump type="9" x="1617" y="-1" serial="1258595" isminimized="False" />
-	<gump type="2" x="1538" y="426" serial="1160050294" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="2" x="1426" y="555" serial="1270825796" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="8" x="517" y="-148" serial="0" isminimized="False" />
-	<gump type="15" x="1321" y="45" serial="0" id="44" />
-	<gump type="5" x="1434" y="109" serial="1" />
-	<gump type="1" x="1422" y="49" serial="0" graphic="30080" direction="1" />
-	<gump type="27" x="860" y="478" serial="0" />
-	<gump type="4" x="1140" y="36" serial="1258595" />
-	<gump type="25" x="938" y="141" serial="0" entryname="skill" />
-	<gump type="25" x="982" y="76" serial="0" entryname="SmokeBomb" />
-	<gump type="5" x="789" y="0" serial="0" />
-	<gump type="24" x="819" y="76" serial="0" />
-	<gump type="7" x="1507" y="403" serial="1033" name="Escape" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="15" x="1555" y="313" serial="0" id="30" />
+	<gump type="2" x="1538" y="426" serial="1160050294" graphic="60" isminimized="False" />
+	<gump type="21" x="1591" y="848" serial="0" />
 	<gump type="3" x="1878" y="0" serial="0" rows="27" columns="1" rectsize="42">
 		<controls>
 			<control graphic="52149" hue="2876" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -96,7 +84,18 @@
 			<control graphic="3821" hue="0" />
 		</controls>
 	</gump>
-	<gump type="21" x="1591" y="848" serial="0" />
+	<gump type="15" x="1555" y="313" serial="0" id="30" />
+	<gump type="7" x="1507" y="403" serial="1033" name="Escape" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="24" x="819" y="76" serial="0" />
+	<gump type="5" x="789" y="0" serial="0" />
+	<gump type="25" x="982" y="76" serial="0" entryname="SmokeBomb" />
+	<gump type="25" x="938" y="141" serial="0" entryname="skill" />
+	<gump type="4" x="1140" y="36" serial="1258595" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="1" x="1422" y="49" serial="0" graphic="30080" direction="1" />
+	<gump type="5" x="1434" y="109" serial="1" />
+	<gump type="15" x="1321" y="45" serial="0" id="44" />
+	<gump type="8" x="517" y="-148" serial="0" isminimized="False" />
 	<gump type="18" x="7" y="3" serial="0" />
 	<gump type="6" x="15" y="738" serial="0" />
 </gumps>

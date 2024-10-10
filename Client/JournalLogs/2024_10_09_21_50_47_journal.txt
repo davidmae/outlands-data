@@ -1,0 +1,168 @@
+[10/09/2024 21:50]  System: WorldMap loading...
+[10/09/2024 21:50]  System: Loading WorldMap markers..
+[10/09/2024 21:50]  System: ..Banks_and_Healers.xml (39)
+[10/09/2024 21:50]  System: ..Dungeons.xml (13)
+[10/09/2024 21:50]  System: ..Dungeon_Gates.xml (392)
+[10/09/2024 21:50]  System: ..Healer_Caravans.xml (42)
+[10/09/2024 21:50]  System: ..Kings_Faire.xml (49)
+[10/09/2024 21:50]  System: ..Moongates.xml (10)
+[10/09/2024 21:50]  System: ..POI.xml (251)
+[10/09/2024 21:50]  System: ..PvP_Locations.xml (71)
+[10/09/2024 21:50]  System: ..Shrines.xml (9)
+[10/09/2024 21:50]  System: ..Sub-Dungeons.xml (4)
+[10/09/2024 21:50]  System: ..Townships.xml (10)
+[10/09/2024 21:50]  System: ..UOAM_Atlas.xml (1887)
+[10/09/2024 21:50]  System: ..UOAM_T-Map.xml (255)
+[10/09/2024 21:50]  System: ..UOAM_Treasure.xml (523)
+[10/09/2024 21:50]  System: WorldMap markers loaded (3555)
+[10/09/2024 21:50]  System: WorldMap loaded!
+[10/09/2024 21:50]  System: Welcome Eldevil!
+[10/09/2024 21:50]  [Razor]: Ignoring action request (already queued).
+[10/09/2024 21:50]  Eldevil: Eldevil
+[10/09/2024 21:50]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/09/2024 21:51]  System: It appears to be locked.
+[10/09/2024 21:51]  System: You attempt to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You have worn out your tool.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Gwenno has completed the achievement: Guardian of Shadowspire (Basic).
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You make some progress on the lock. (61%)
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:51]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:51]  System: You fail to make any progress on the lock.
+[10/09/2024 21:51]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You make some progress on the lock. (85%)
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You unlock the box and its mechanisms reset itself.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You make some progress on the lock. (21%)
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You make some progress on the lock. (57%)
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You make some progress on the lock. (77%)
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  You see: iron lockpicks
+[10/09/2024 21:52]  You see: (100 uses remaining)
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: Your skill in Meditation has decreased by 0.1.  It is now 81.3.
+[10/09/2024 21:52]  System: Your skill in Lockpicking has increased by 0.1.  It is now 50.1.
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  You see: iron lockpicks
+[10/09/2024 21:52]  You see: (100 uses remaining)
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: You unlock the box and its mechanisms reset itself.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:52]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:52]  System: Your skill in Tracking has decreased by 0.1.  It is now 94.1.
+[10/09/2024 21:52]  System: Your skill in Lockpicking has increased by 0.1.  It is now 50.2.
+[10/09/2024 21:52]  System: You fail to make any progress on the lock.
+[10/09/2024 21:52]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You fail to make any progress on the lock.
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You make some progress on the lock. (25%)
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You fail to make any progress on the lock.
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: Your skill in Tracking has decreased by 0.1.  It is now 94.0.
+[10/09/2024 21:53]  System: Your skill in Lockpicking has increased by 0.1.  It is now 50.3.
+[10/09/2024 21:53]  System: You fail to make any progress on the lock.
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You fail to make any progress on the lock.
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You fail to make any progress on the lock.
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You make some progress on the lock. (55%)
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You fail to make any progress on the lock.
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You fail to make any progress on the lock.
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You fail to make any progress on the lock.
+[10/09/2024 21:53]  System: You continue to pick the lock.
+[10/09/2024 21:53]  System: Lockpicking skillgain: 17.241%
+[10/09/2024 21:53]  System: You make some progress on the lock. (86%)
+[10/09/2024 21:53]  System: You continue to pick the lock.

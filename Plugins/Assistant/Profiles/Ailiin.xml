@@ -11,10 +11,10 @@
 	<property name="ObjectDelayEnabled" type="System.Boolean">True</property>
 	<property name="AlwaysOnTop" type="System.Boolean">False</property>
 	<property name="SortCounters" type="System.Boolean">True</property>
-	<property name="QueueActions" type="System.Boolean">True</property>
+	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1233</property>
-	<property name="WindowY" type="System.Int32">0</property>
+	<property name="WindowX" type="System.Int32">115</property>
+	<property name="WindowY" type="System.Int32">277</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">694</property>
-	<property name="RazorHeight" type="System.Int32">1039</property>
+	<property name="RazorWidth" type="System.Int32">762</property>
+	<property name="RazorHeight" type="System.Int32">610</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -206,6 +206,8 @@
 			<item id="8025" />
 			<item id="8016" />
 			<item id="3974" />
+			<item id="8026" />
+			<item id="8021" />
 		</Organizer-2>
 		<Organizer-3 hotbag="1672790153">
 			<item id="4225" />
@@ -213,7 +215,15 @@
 		<Organizer-4 hotbag="1672790156">
 			<item id="2545" />
 		</Organizer-4>
-		<Organizer-5 hotbag="0" />
+		<Organizer-5 hotbag="1371318338">
+			<item id="5146" />
+			<item id="5143" />
+			<item id="5138" />
+			<item id="7031" />
+			<item id="5142" />
+			<item id="5139" />
+			<item id="31015" />
+		</Organizer-5>
 		<Organizer-6 hotbag="0" />
 		<Organizer-7 hotbag="0" />
 		<Organizer-8 hotbag="0" />
@@ -234,6 +244,7 @@
 			<item id="3617" amount="111" />
 			<item id="5370" amount="15" />
 			<item id="3854" amount="25" />
+			<item id="8012" amount="10" />
 		</Restock-1>
 		<Restock-2 hotbag="0" />
 		<Restock-3 hotbag="0" />

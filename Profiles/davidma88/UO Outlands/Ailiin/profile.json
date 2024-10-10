@@ -19,7 +19,7 @@
   "ignore_alliance_messages": false,
   "ignore_guild_messages": false,
   "speech_text_clickable": true,
-  "speech_hue": 690,
+  "speech_hue": 921,
   "whisper_hue": 51,
   "emote_hue": 33,
   "yell_hue": 33,
@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 640,
-  "default_scale": 1,
+  "default_scale": 0.6999999,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -213,8 +213,8 @@
   "grid_loot_type": 2,
   "grid_loot_close_when_zero": true,
   "grid_loot_position": {
-    "X": 1222,
-    "Y": 715
+    "X": 1065,
+    "Y": 224
   },
   "grid_loot_size": {
     "X": 4,
@@ -274,7 +274,7 @@
   "world_map_top_most": false,
   "world_map_free_view": false,
   "world_map_show_party": true,
-  "world_map_zoom_index": 5,
+  "world_map_zoom_index": 6,
   "world_map_show_coordinates": true,
   "world_map_show_mobiles": true,
   "world_map_show_player_name": true,
@@ -291,8 +291,8 @@
   "cooldown_bar_height": 30,
   "hide_inactive_cooldown_bars": false,
   "last_used_desktop": "Ailiin.gumps.xml",
-  "journal_width": 450,
-  "journal_height": 463,
+  "journal_width": 516,
+  "journal_height": 367,
   "journal_enable_resize": true,
   "journal_lock_position": false,
   "journal_use_24_hour_clock": true,
