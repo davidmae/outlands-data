@@ -25,11 +25,7 @@
 		<gump type="7" x="1492" y="398" serial="1044" name="DroopLoot" graphicId="11546" hideLabel="False" scale="1.2" matrix_x="0" matrix_y="2" />
 	</anchored_group_gump>
 	<gump type="9" x="1617" y="-6" serial="6890869" isminimized="False" />
-	<gump type="2" x="1230" y="188" serial="1270813508" graphic="73" isminimized="False" iscarried="False" />
 	<gump type="2" x="1571" y="322" serial="1625778011" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="2" x="60" y="60" serial="1721143368" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="985" y="347" serial="1270814709" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="140" y="140" serial="1270825796" graphic="73" isminimized="False" iscarried="False" />
 	<gump type="5" x="804" y="23" serial="0" />
 	<gump type="27" x="675" y="478" serial="0" />
 	<gump type="1" x="1493" y="20" serial="0" graphic="30079" direction="0" />

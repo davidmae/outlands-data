@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 640,
-  "default_scale": 0.6999999,
+  "default_scale": 0.9000002,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -213,8 +213,8 @@
   "grid_loot_type": 2,
   "grid_loot_close_when_zero": true,
   "grid_loot_position": {
-    "X": 1065,
-    "Y": 224
+    "X": 1112,
+    "Y": 800
   },
   "grid_loot_size": {
     "X": 4,

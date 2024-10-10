@@ -1,0 +1,15 @@
+say "Bank Vendor buy Room" 941
+wait 1000 
+
+#if say Room - Access to room quickly
+
+if gumpexists 2827143522
+    gumpclose 
+    wait 1000
+endif
+
+waitforgump 2393832411
+gumpresponse 5
+wait 500
+waitforgump 2393832411
+gumpresponse 100

@@ -5,14 +5,14 @@
 #    waitforgump 453554062
 #endif
 #loop
-#
-#if findtype 2546 backpack -1 11 -1 as ribs
-#    lift ribs 11
-#    wait 200
-#    drop 0x588675CF
-#endif
-#wait 1000
-#loop
+
+if findtype 2546 backpack -1 11 -1 as ribs
+    lift ribs 11
+    wait 200
+    drop 0x7018634A
+endif
+wait 1000
+loop
 
 #platemail arms "platemail arms" 5143
 #bascinet "norse helm" 5132
@@ -22,10 +22,10 @@
 #platemail gorget "platemail gorget" 5139
 #platemail helm "plate helm" 5138 
 #platemail leggings "platemail legs" 5146
-while findtype 5142 backpack -1 1 -1 as platechest
-    lift platechest 1
-    drop 0x51BCA842 43 65 0
-endwhile
+#while findtype 5142 backpack -1 1 -1 as platechest
+#    lift platechest 1
+#    drop 0x51BCA842 43 65 0
+#endwhile
 #norse helm "bascinet" 5135
 #platemail skirt "leather skirt" 7177 (pre expansion)
 #platemail skirt "plate skirt" 31008

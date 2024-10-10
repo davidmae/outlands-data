@@ -1,0 +1,74 @@
+[10/10/2024 13:05]  System: WorldMap loading...
+[10/10/2024 13:05]  System: Loading WorldMap markers..
+[10/10/2024 13:05]  System: ..Banks_and_Healers.xml (39)
+[10/10/2024 13:05]  System: ..Dungeons.xml (13)
+[10/10/2024 13:05]  System: ..Dungeon_Gates.xml (392)
+[10/10/2024 13:05]  System: ..Healer_Caravans.xml (42)
+[10/10/2024 13:05]  System: ..Kings_Faire.xml (49)
+[10/10/2024 13:05]  System: ..Moongates.xml (10)
+[10/10/2024 13:05]  System: ..POI.xml (251)
+[10/10/2024 13:05]  System: ..PvP_Locations.xml (71)
+[10/10/2024 13:05]  System: ..Shrines.xml (9)
+[10/10/2024 13:05]  System: ..Sub-Dungeons.xml (4)
+[10/10/2024 13:05]  System: ..Townships.xml (10)
+[10/10/2024 13:05]  System: ..UOAM_Atlas.xml (1887)
+[10/10/2024 13:05]  System: ..UOAM_T-Map.xml (255)
+[10/10/2024 13:05]  System: ..UOAM_Treasure.xml (523)
+[10/10/2024 13:05]  System: WorldMap markers loaded (3555)
+[10/10/2024 13:05]  System: Welcome Fierro!
+[10/10/2024 13:05]  Razor: [- (s)]
+[10/10/2024 13:05]  Razor: [+Tracking Hunting (0s)]
+[10/10/2024 13:05]  Razor: [-Tracking Hunting (s)]
+[10/10/2024 13:05]  System: WorldMap loaded!
+[10/10/2024 13:05]  Fierro: Fierro
+[10/10/2024 13:05]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/10/2024 13:05]  You see: gold coin : 85
+[10/10/2024 13:06]  System: Amberiel has completed the achievement: Artificers Enclave Luminary.
+[10/10/2024 13:06]  System: What do you want to use this item on?
+[10/10/2024 13:06]  System: You shape the logs into boards.
+[10/10/2024 13:06]  Razor: board : 638
+[10/10/2024 13:06]  Razor: dullwood board : 10
+[10/10/2024 13:06]  Razor: shadowwood board : 9
+[10/10/2024 13:06]  System: What do you want to use this item on?
+[10/10/2024 13:06]  Razor: board : 638
+[10/10/2024 13:06]  Razor: dullwood board : 10
+[10/10/2024 13:06]  System: You shape the logs into boards.
+[10/10/2024 13:06]  Razor: shadowwood board : 9
+[10/10/2024 13:06]  [Razor]: Container not set.
+[10/10/2024 13:06]  [Razor]: Container not set.
+[10/10/2024 13:06]  [Razor]: Container not set.
+[10/10/2024 13:06]  [Razor]: Container not set.
+[10/10/2024 13:06]  [Razor]: Container not set.
+[10/10/2024 13:06]  [Razor]: Container not set.
+[10/10/2024 13:06]  [Razor]: Container not set.
+[10/10/2024 13:06]  [Razor]: Container not set.
+[10/10/2024 13:06]  You see: board : 1949
+[10/10/2024 13:06]  You see: board : 638
+[10/10/2024 13:07]  You see: shadowwood board : 131
+[10/10/2024 13:07]  You see: goldenwood board : 2
+[10/10/2024 13:07]  You see: goldenwood board : 17
+[10/10/2024 13:07]  You see: dullwood board : 109
+[10/10/2024 13:07]  You see: bronzewood board : 49
+[10/10/2024 13:07]  You see: gold coin : 85
+[10/10/2024 13:07]  You see: extremely common seed : 9
+[10/10/2024 13:07]  You see:  common seed : 3
+[10/10/2024 13:07]  You see: very common seed : 9
+[10/10/2024 13:07]  You see:  common seed : 3
+[10/10/2024 13:07]  You see: aegis keep dungeon seed
+[10/10/2024 13:08]  You see: dyes : 2
+[10/10/2024 13:08]  You see: [locked down]
+[10/10/2024 13:08]  System: Select the dye tub to use the dyes on.
+[10/10/2024 13:08]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[10/10/2024 13:08]  System: You dye an item.
+[10/10/2024 13:08]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[10/10/2024 13:08]  System: You dye an item.
+[10/10/2024 13:09]  System: Select the dye tub to use the dyes on.
+[10/10/2024 13:09]  You see: dye tub
+[10/10/2024 13:09]  You see: [locked down]
+[10/10/2024 13:09]  You see: (hue 867)
+[10/10/2024 13:09]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[10/10/2024 13:09]  System: You dye an item.
+[10/10/2024 13:09]  System: Select the dye tub to use the dyes on.
+[10/10/2024 13:09]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[10/10/2024 13:09]  System: You dye an item.
+[10/10/2024 13:09]  You see: exceptional ringmail helm

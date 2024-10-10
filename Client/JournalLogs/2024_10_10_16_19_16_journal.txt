@@ -1,0 +1,93 @@
+[10/10/2024 16:19]  System: WorldMap loading...
+[10/10/2024 16:19]  System: Loading WorldMap markers..
+[10/10/2024 16:19]  System: ..Banks_and_Healers.xml (39)
+[10/10/2024 16:19]  System: ..Dungeons.xml (13)
+[10/10/2024 16:19]  System: ..Dungeon_Gates.xml (392)
+[10/10/2024 16:19]  System: ..Healer_Caravans.xml (42)
+[10/10/2024 16:19]  System: ..Kings_Faire.xml (49)
+[10/10/2024 16:19]  System: ..Moongates.xml (10)
+[10/10/2024 16:19]  System: ..POI.xml (251)
+[10/10/2024 16:19]  System: ..PvP_Locations.xml (71)
+[10/10/2024 16:19]  System: ..Shrines.xml (9)
+[10/10/2024 16:19]  System: ..Sub-Dungeons.xml (4)
+[10/10/2024 16:19]  System: ..Townships.xml (10)
+[10/10/2024 16:19]  System: ..UOAM_Atlas.xml (1887)
+[10/10/2024 16:19]  System: ..UOAM_T-Map.xml (255)
+[10/10/2024 16:19]  System: ..UOAM_Treasure.xml (523)
+[10/10/2024 16:19]  System: WorldMap markers loaded (3555)
+[10/10/2024 16:19]  System: Welcome Eldevil!
+[10/10/2024 16:19]  [Razor]: Ignoring action request (already queued).
+[10/10/2024 16:19]  Eldevil: Eldevil
+[10/10/2024 16:19]  Adam: Adam the guard
+[10/10/2024 16:19]  iSweat: iSweat
+[10/10/2024 16:19]  Hu Mungas: Hu Mungas
+[10/10/2024 16:19]  Marti: Marti the healer
+[10/10/2024 16:19]  Dusty: Dusty the cook
+[10/10/2024 16:19]  Giles: Giles the thief
+[10/10/2024 16:19]  Rockstarz: [Veteran, -_-]
+[10/10/2024 16:19]  Rockstarz: Rockstarz (Young)
+[10/10/2024 16:19]  Fuller: Fuller the barkeep
+[10/10/2024 16:19]  Jayne: Jayne the innkeeper
+[10/10/2024 16:19]  Rose Minor: Rose Minor (Young)
+[10/10/2024 16:19]  System: WorldMap loaded!
+[10/10/2024 16:19]  System: You begin hiking to your destination.
+[10/10/2024 16:19]  Eldevil: *hiking to destination*
+[10/10/2024 16:19]  Razor: [+Paralyze (4s)]
+[10/10/2024 16:19]  Razor: [-Paralyze (s)]
+[10/10/2024 16:19]  Razor: [+Paralyze (3s)]
+[10/10/2024 16:19]  Eldevil: *hiking to destination*
+[10/10/2024 16:19]  Razor: [-Paralyze (s)]
+[10/10/2024 16:19]  Razor: [+Paralyze (2s)]
+[10/10/2024 16:19]  Razor: [-Paralyze (s)]
+[10/10/2024 16:19]  Razor: [+Paralyze (1s)]
+[10/10/2024 16:19]  Eldevil: *hiking to destination*
+[10/10/2024 16:19]  Razor: [-Paralyze (s)]
+[10/10/2024 16:19]  Razor: [+Paralyze (0s)]
+[10/10/2024 16:19]  Razor: [-Paralyze (s)]
+[10/10/2024 16:19]  System: You are no longer hindered.
+[10/10/2024 16:19]  System: You hike to your destination.
+[10/10/2024 16:19]  Eldevil: *You have arrived at your destination*
+[10/10/2024 16:19]  a cat: a cat
+[10/10/2024 16:19]  Jafar: Jafar the baker
+[10/10/2024 16:19]  Nona: Nona the cook
+[10/10/2024 16:19]  a cat: a cat
+[10/10/2024 16:19]  Patsy: Patsy the real estate broker
+[10/10/2024 16:19]  Marsha: Marsha the provisioner
+[10/10/2024 16:19]  Dane: Dane the mapmaker
+[10/10/2024 16:19]  Lari: Lari the armorer
+[10/10/2024 16:19]  Khoury: Khoury the weaponsmith
+[10/10/2024 16:19]  Guy: Guy the blacksmith
+[10/10/2024 16:20]  Zara: Zara the cook
+[10/10/2024 16:20]  Zara: Zara the cook
+[10/10/2024 16:20]  an ancient mummy: (summoned)
+[10/10/2024 16:20]  an ancient mummy: an ancient mummy
+[10/10/2024 16:20]  an ancient mummy: (summoned)
+[10/10/2024 16:20]  an ancient mummy: an ancient mummy
+[10/10/2024 16:20]  Nox Play: Nox Play
+[10/10/2024 16:20]  Tadi: Tadi the barkeep
+[10/10/2024 16:20]  a dog: a dog
+[10/10/2024 16:20]  tuan: [The Tavern], [tT]
+[10/10/2024 16:20]  tuan: tuan
+[10/10/2024 16:20]  Brandi: Brandi the banker
+[10/10/2024 16:20]  Dacey: Dacey the waiter
+[10/10/2024 16:20]  Ibalgin Jones: Adventurer Initiate
+[10/10/2024 16:20]  Ibalgin Jones: [Squire, C-C]
+[10/10/2024 16:20]  Ibalgin Jones: Ibalgin Jones
+[10/10/2024 16:20]  Ravi: Ravi the Town Crier
+[10/10/2024 16:20]  a cat: a cat
+[10/10/2024 16:20]  Callidora: Callidora the tavern keeper
+[10/10/2024 16:20]  Donnelly: Donnelly the scribe
+[10/10/2024 16:20]  Thurston: Thurston the waiter
+[10/10/2024 16:20]  a dog: a dog
+[10/10/2024 16:20]  Denton: Denton the innkeeper
+[10/10/2024 16:20]  Renee: Renee the stablemaster
+[10/10/2024 16:20]  Keara: Keara the stablemaster
+[10/10/2024 16:20]  a dog: a dog
+[10/10/2024 16:20]  a goat: a goat
+[10/10/2024 16:20]  Kama: Kama the creature broker
+[10/10/2024 16:20]  Hanan: Hanan the animal wrangler
+[10/10/2024 16:20]  Eldevil: Bank Vendor buy
+[10/10/2024 16:20]  Eldevil: Room
+[10/10/2024 16:20]  System: You have left the protection of the town guards.
+[10/10/2024 16:20]  System: You enter the rental room.
+[10/10/2024 16:20]  System: WorldMap loaded!
