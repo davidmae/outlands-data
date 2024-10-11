@@ -1,5 +1,14 @@
-wait 200
-hotkey 'Play Script: _davidma\Crafting-ItemHandling\OpenChests'
+removelist chests
+createlist chests
+
+pushlist chests 0x4BBF4344
+pushlist chests 0x4BBF17F5
+
+foreach chest in chests
+    dclick chest
+    wait 300
+endfor 
+
 wait 2000
 
 organizer 1

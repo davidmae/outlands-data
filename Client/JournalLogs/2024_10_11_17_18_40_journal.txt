@@ -1,0 +1,1301 @@
+[10/11/2024 17:18]  System: WorldMap loading...
+[10/11/2024 17:18]  System: Loading WorldMap markers..
+[10/11/2024 17:18]  System: ..Banks_and_Healers.xml (39)
+[10/11/2024 17:18]  System: ..Dungeons.xml (13)
+[10/11/2024 17:18]  System: ..Dungeon_Gates.xml (392)
+[10/11/2024 17:18]  System: ..Healer_Caravans.xml (42)
+[10/11/2024 17:18]  System: ..Kings_Faire.xml (49)
+[10/11/2024 17:18]  System: ..Moongates.xml (10)
+[10/11/2024 17:18]  System: ..POI.xml (251)
+[10/11/2024 17:18]  System: ..PvP_Locations.xml (71)
+[10/11/2024 17:18]  System: ..Shrines.xml (9)
+[10/11/2024 17:18]  System: ..Sub-Dungeons.xml (4)
+[10/11/2024 17:18]  System: ..Townships.xml (10)
+[10/11/2024 17:18]  System: ..UOAM_Atlas.xml (1887)
+[10/11/2024 17:18]  System: ..UOAM_T-Map.xml (255)
+[10/11/2024 17:18]  System: ..UOAM_Treasure.xml (523)
+[10/11/2024 17:18]  System: WorldMap markers loaded (3555)
+[10/11/2024 17:18]  System: Welcome Geodoro!
+[10/11/2024 17:18]  System: WorldMap loaded!
+[10/11/2024 17:18]  Geodoro: Geodoro
+[10/11/2024 17:18]  Ailiin: [Ripe, SQzD]
+[10/11/2024 17:18]  Ailiin: Ailiin
+[10/11/2024 17:18]  a horse: (tame)
+[10/11/2024 17:18]  a horse: a horse
+[10/11/2024 17:18]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/11/2024 17:18]  System: You must wait to perform another action.
+[10/11/2024 17:18]  System: a lul has completed the achievement: Enchanter (Advanced).
+[10/11/2024 17:18]  You see: dullwood bow
+[10/11/2024 17:19]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/11/2024 17:19]  System: Target container set: backpack.
+[10/11/2024 17:19]  System: Source container set: backpack.
+[10/11/2024 17:19]  System: Which container do you wish to use as the destination container for this item? Target yourself for your backpack.
+[10/11/2024 17:19]  System: Target container set: backpack.
+[10/11/2024 17:19]  System: Destination container set: backpack.
+[10/11/2024 17:19]  System: Crafting queue begun.
+[10/11/2024 17:19]  System: Skillet: Skipped
+[10/11/2024 17:19]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:19]  System: Cooked Ribs (98.6/100.0 skill): You create the item.
+[10/11/2024 17:19]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:19]  System: Cooked Ribs (98.6/100.0 skill): You create the item.
+[10/11/2024 17:19]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:19]  System: Cooked Ribs (98.6/100.0 skill): You create the item.
+[10/11/2024 17:19]  System: Crafting queue stopped.
+[10/11/2024 17:19]  System: Which container do you wish to use as the destination container for this item? Target yourself for your backpack.
+[10/11/2024 17:19]  System: Target container set: backpack.
+[10/11/2024 17:19]  System: Destination container set: backpack.
+[10/11/2024 17:19]  System: Crafting queue begun.
+[10/11/2024 17:19]  System: Skillet: Skipped
+[10/11/2024 17:19]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:19]  System: Cooked Ribs (98.6/100.0 skill): You create the item.
+[10/11/2024 17:19]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:19]  System: Cooked Ribs (98.6/100.0 skill): You create the item.
+[10/11/2024 17:19]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:19]  System: Your skill in Cooking has increased by 0.1.  It is now 98.7.
+[10/11/2024 17:19]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:19]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:19]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:19]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:19]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:19]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:19]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  : The item will be deleted in three minutes.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  You see: cooked ribs : 3
+[10/11/2024 17:20]  You see: (paltry)
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.7/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Your skill in Cooking has increased by 0.1.  It is now 98.8.
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  : The item will be deleted in three minutes.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  : The item will be deleted in three minutes.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:20]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:20]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  : The item will be deleted in three minutes.
+[10/11/2024 17:21]  System: Maloka has completed the achievement: Seafarer Luminary.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  : The item will be deleted in three minutes.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:21]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:21]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  : The item will be deleted in three minutes.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  : The item will be deleted in three minutes.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.8/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Your skill in Cooking has increased by 0.1.  It is now 98.9.
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  : The item will be deleted in three minutes.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:22]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:22]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  : The item will be deleted in three minutes.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You failed to create the item, and some of your materials are lost.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  : The item will be deleted in three minutes.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  : The item will be deleted in three minutes.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:23]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:23]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (98.9/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Your skill in Cooking has increased by 0.1.  It is now 99.0.
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  : The item will be deleted in three minutes.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  : The item will be deleted in three minutes.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: You have worn out your tool!
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:24]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:24]  : The item will be deleted in three minutes.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  : The item will be deleted in three minutes.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  : The item will be deleted in three minutes.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.0/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Your skill in Cooking has increased by 0.1.  It is now 99.1.
+[10/11/2024 17:25]  System: Cooked Ribs (99.1/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.1/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.1/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.1/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.1/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.1/100.0 skill): You create the item.
+[10/11/2024 17:25]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:25]  System: Cooked Ribs (99.1/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Your skill in Cooking has increased by 0.1.  It is now 99.2.
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  : The item will be deleted in three minutes.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: legendary chucho has completed the achievement: Order of Armorers Dignitary.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  : The item will be deleted in three minutes.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooked Ribs: You must wait to perform another action.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.2/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Your skill in Cooking has increased by 0.1.  It is now 99.3.
+[10/11/2024 17:26]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:26]  : The item will be deleted in three minutes.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:26]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:26]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.3/100.0 skill): You failed to create the item, and some of your materials are lost.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.3/100.0 skill): You create the item.
+[10/11/2024 17:27]  : The item will be deleted in three minutes.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Your skill in Cooking has increased by 0.1.  It is now 99.4.
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  : The item will be deleted in three minutes.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You failed to create the item, and some of your materials are lost.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:27]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:27]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  : The item will be deleted in three minutes.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: You have worn out your tool!
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  : The item will be deleted in three minutes.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  : The item will be deleted in three minutes.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:28]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:28]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  : The item will be deleted in three minutes.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.4/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Your skill in Cooking has increased by 0.1.  It is now 99.5.
+[10/11/2024 17:29]  System: Cooked Ribs (99.5/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.5/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.5/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Your skill in Cooking has increased by 0.1.  It is now 99.6.
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  : The item will be deleted in three minutes.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Tirith has completed the achievement: Triggered (Basic).
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  : The item will be deleted in three minutes.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:29]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:29]  System: Cooked Ribs (99.6/100.0 skill): You failed to create the item, and some of your materials are lost.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  : The item will be deleted in three minutes.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  : The item will be deleted in three minutes.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Bobby Vila has completed the achievement: Cartographer (Advanced).
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:30]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:30]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  : The item will be deleted in three minutes.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  : The item will be deleted in three minutes.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: You have worn out your tool!
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  : The item will be deleted in three minutes.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:31]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:31]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: The world will save in 15 seconds.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  : The item will be deleted in three minutes.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: The world is saving, please wait.
+[10/11/2024 17:32]  System: World save complete. The entire process took 2.7 seconds.
+[10/11/2024 17:32]  System: Cooked Ribs: You must wait to perform another action.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  : The item will be deleted in three minutes.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You failed to create the item, and some of your materials are lost.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Arizona Rose has completed the achievement: Triggered (Advanced).
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:32]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:32]  : The item will be deleted in three minutes.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.6/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Your skill in Cooking has increased by 0.1.  It is now 99.7.
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  : The item will be deleted in three minutes.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  : The item will be deleted in three minutes.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:33]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:33]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  : The item will be deleted in three minutes.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You failed to create the item, and some of your materials are lost.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  : The item will be deleted in three minutes.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  : The item will be deleted in three minutes.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:34]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:34]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  : The item will be deleted in three minutes.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.7/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Your skill in Cooking has increased by 0.1.  It is now 99.8.
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  : The item will be deleted in three minutes.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:35]  : The item will be deleted in three minutes.
+[10/11/2024 17:35]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:35]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  : The item will be deleted in three minutes.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: You have worn out your tool!
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.8/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Your skill in Cooking has increased by 0.1.  It is now 99.9.
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:36]  : The item will be deleted in three minutes.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:36]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:36]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  : The item will be deleted in three minutes.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  : The item will be deleted in three minutes.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  : The item will be deleted in three minutes.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:37]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:37]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  : The item will be deleted in three minutes.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: TinkerWink has completed the achievement: Artificers Enclave Initiate.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  : The item will be deleted in three minutes.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Cooked Ribs (99.9/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooking skillgain: 2.500%
+[10/11/2024 17:38]  System: Your skill in Cooking has increased by 0.1.  It is now 100.0.
+[10/11/2024 17:38]  System: You have completed the achievement: 'Chef (Basic)'.
+[10/11/2024 17:38]  System: Cooked Ribs (100.0/100.0 skill): You create the item.
+[10/11/2024 17:38]  System: Cooked Ribs: Cooking 100.0 skill reached.
+[10/11/2024 17:38]  System: Sewing Kit: Skipped
+[10/11/2024 17:38]  System: Leather Gloves: Skipped
+[10/11/2024 17:38]  System: Leather Cap: Skipped
+[10/11/2024 17:38]  System: Club: Skipped
+[10/11/2024 17:38]  System: Crafting queue complete.
+[10/11/2024 17:38]  System: The Green Man has completed the achievement: Versatility (Basic).
+[10/11/2024 17:39]  : Emptying trash barrel!
+[10/11/2024 17:41]  System: Leira has completed the achievement: Cartographer (Advanced).
+[10/11/2024 17:42]  System: PocketRocket has completed the achievement: Humanoid Slayer (Basic).
+[10/11/2024 17:44]  System: HappyOne has completed the achievement: Beastial Slayer (Basic).
+[10/11/2024 17:44]  System: Oscy has completed the achievement: Wilderness Hunter (Basic).
+[10/11/2024 17:45]  System: [CCC] A Corpse Creek Contest will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/11/2024 17:46]  System: Chopperthan has completed the achievement: Tradesman Union Patrician.
+[10/11/2024 17:46]  System: The world will save in 15 seconds.
+[10/11/2024 17:46]  System: Surge has completed the achievement: Savant (Epic).
+[10/11/2024 17:47]  System: The world is saving, please wait.
+[10/11/2024 17:47]  System: World save complete. The entire process took 2.6 seconds.
+[10/11/2024 17:47]  System: Dashing William has completed the achievement: Transmutation (Basic).
+[10/11/2024 17:50]  System: Lupe Vergazos has completed the achievement: Zoologist (Advanced).
+[10/11/2024 17:51]  System: The Entropy has completed the achievement: Enhanced (Basic).
+[10/11/2024 17:54]  System: a dread has completed the achievement: Scientist (Basic).
+[10/11/2024 17:55]  System: [CCC] A Corpse Creek Contest will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/11/2024 17:56]  System: My Morning Wood has completed the achievement: Chef (Basic).
+[10/11/2024 17:56]  System: The server will be coming down for a patch in 48 minutes.
+[10/11/2024 17:57]  System: PhoenixZhou has completed the achievement: Skill Mastery (Basic).
+[10/11/2024 17:57]  System: Griezee has completed the achievement: Scribe (Advanced).
+[10/11/2024 17:59]  System: The server will be coming down for a patch in 45 minutes.
+[10/11/2024 18:00]  System: [CCC] The Corpse Creek Contest has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/11/2024 18:00]  System: Global End has completed the achievement: Expressive (Advanced).
+[10/11/2024 18:01]  System: The world will save in 15 seconds.
+[10/11/2024 18:01]  System: The world is saving, please wait.
+[10/11/2024 18:01]  System: World save complete. The entire process took 2.9 seconds.
+[10/11/2024 18:05]  System: caoyao-OoO- has completed the achievement: Maester (Basic).
+[10/11/2024 18:06]  System: Edge Lord has completed the achievement: Daemonic Slayer (Basic).
+[10/11/2024 18:06]  System: Darvel has completed the achievement: Tradesman Union Dignitary.
+[10/11/2024 18:07]  System: EmSee Hammer has completed the achievement: Tailor (Epic).
+[10/11/2024 18:07]  : The item will be deleted in three minutes.
+[10/11/2024 18:07]  You see: raw ribs : 1030
+[10/11/2024 18:08]  : The item will be deleted in three minutes.
+[10/11/2024 18:08]  You see: raw ribs : 229
+[10/11/2024 18:08]  You see: raw ribs : 229
+[10/11/2024 18:08]  You see: raw ribs : 229
+[10/11/2024 18:08]  You see: raw meat shank : 5
+[10/11/2024 18:09]  System: Ms Buns has completed the achievement: Artificers Enclave Dignitary.
+[10/11/2024 18:09]  : Emptying trash barrel!
+[10/11/2024 18:10]  System: DirtyTail has completed the achievement: Order of Armorers Initiate.

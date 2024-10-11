@@ -1,0 +1,379 @@
+[10/11/2024 18:28]  System: WorldMap loading...
+[10/11/2024 18:28]  System: Loading WorldMap markers..
+[10/11/2024 18:28]  System: ..Banks_and_Healers.xml (39)
+[10/11/2024 18:28]  System: ..Dungeons.xml (13)
+[10/11/2024 18:28]  System: ..Dungeon_Gates.xml (392)
+[10/11/2024 18:28]  System: ..Healer_Caravans.xml (42)
+[10/11/2024 18:28]  System: ..Kings_Faire.xml (49)
+[10/11/2024 18:28]  System: ..Moongates.xml (10)
+[10/11/2024 18:28]  System: ..POI.xml (251)
+[10/11/2024 18:28]  System: ..PvP_Locations.xml (71)
+[10/11/2024 18:28]  System: ..Shrines.xml (9)
+[10/11/2024 18:28]  System: ..Sub-Dungeons.xml (4)
+[10/11/2024 18:28]  System: ..Townships.xml (10)
+[10/11/2024 18:28]  System: ..UOAM_Atlas.xml (1887)
+[10/11/2024 18:28]  System: ..UOAM_T-Map.xml (255)
+[10/11/2024 18:28]  System: ..UOAM_Treasure.xml (523)
+[10/11/2024 18:28]  System: WorldMap markers loaded (3555)
+[10/11/2024 18:28]  System: Welcome Ailiin!
+[10/11/2024 18:28]  [Razor]: Ignoring action request (already queued).
+[10/11/2024 18:28]  System: WorldMap loaded!
+[10/11/2024 18:28]  Ailiin: [Ripe, SQzD]
+[10/11/2024 18:28]  Ailiin: Ailiin
+[10/11/2024 18:28]  Jaimito: Jaimito
+[10/11/2024 18:28]  : wooden planks
+[10/11/2024 18:29]  [Razor]: Queuing action request 1... 0.6 seconds left.
+[10/11/2024 18:29]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/11/2024 18:29]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[10/11/2024 18:29]  [Razor]: Restock request in progress....
+[10/11/2024 18:29]  [Razor]: Restock done, queued 1 item.
+[10/11/2024 18:29]  System: 9° 24'N, 20° 40'E
+[10/11/2024 18:29]  System: Your skill in Tactics has decreased by 37.0.  It is now 100.0.
+[10/11/2024 18:29]  Ailiin: Kal Ort Por
+[10/11/2024 18:29]  System: You are now under the protection of the town guards.
+[10/11/2024 18:29]  Jowday: Jowday
+[10/11/2024 18:29]  Calendonia: Calendonia the banker
+[10/11/2024 18:29]  Glenn: Glenn the banker
+[10/11/2024 18:29]  What The: What The
+[10/11/2024 18:29]  NoahSkape: NoahSkape
+[10/11/2024 18:29]  Ingmar: Ingmar the banker
+[10/11/2024 18:29]  Harlie: Harlie
+[10/11/2024 18:29]  TheFossum: TheFossum
+[10/11/2024 18:29]  rRashin Toast: [Citizen, Yew]
+[10/11/2024 18:29]  rRashin Toast: rRashin Toast
+[10/11/2024 18:29]  Dashing: Dashing
+[10/11/2024 18:29]  Alodie: Alodie the banker
+[10/11/2024 18:29]  Harry Bob: [Miner of, NP$]
+[10/11/2024 18:29]  Harry Bob: Harry Bob
+[10/11/2024 18:29]  Alkursmith: [The Tavern], [tT]
+[10/11/2024 18:29]  Alkursmith: Alkursmith
+[10/11/2024 18:29]  bbning: Beastmaster
+[10/11/2024 18:29]  bbning: Lady bbning
+[10/11/2024 18:29]  Aurelia: Aurelia the Town Crier
+[10/11/2024 18:29]  Ravena Ravenclaw: Ravena Ravenclaw
+[10/11/2024 18:29]  Espardo: Espardo
+[10/11/2024 18:29]  ratmandu: ratmandu
+[10/11/2024 18:29]  Nocturn: Time Guardian
+[10/11/2024 18:29]  Nocturn: [DTF]
+[10/11/2024 18:29]  Nocturn: Lord Nocturn
+[10/11/2024 18:29]  an admirable cambrian horse: (tame)
+[10/11/2024 18:29]  an admirable cambrian horse: an admirable cambrian horse
+[10/11/2024 18:29]  Vonlichtenstein: Vonlichtenstein
+[10/11/2024 18:29]  RowdySlayz: [Almost, RDY]
+[10/11/2024 18:29]  RowdySlayz: RowdySlayz
+[10/11/2024 18:29]  Mooche: Relic Hunter
+[10/11/2024 18:29]  Mooche: Lady Mooche
+[10/11/2024 18:29]  Antonius Luculus: [Guildmaster, eLy]
+[10/11/2024 18:29]  Antonius Luculus: Antonius Luculus
+[10/11/2024 18:29]  Boosoof: [Little Miss Pulma, DTF]
+[10/11/2024 18:29]  Boosoof: Lord Boosoof
+[10/11/2024 18:29]  Arbitrage: [Super Prankster, O|P]
+[10/11/2024 18:29]  Arbitrage: Arbitrage
+[10/11/2024 18:29]  AlphonseH: AlphonseH
+[10/11/2024 18:29]  IvarTheBoneless: Scourge of the Seas
+[10/11/2024 18:29]  IvarTheBoneless: [The Boss, NEW!]
+[10/11/2024 18:29]  IvarTheBoneless: Lord IvarTheBoneless
+[10/11/2024 18:29]  Azrael: Legendary Summoner
+[10/11/2024 18:29]  Azrael: [Architect, BOO]
+[10/11/2024 18:29]  Azrael: Lord Azrael
+[10/11/2024 18:29]  Horseshoe Bae: Mythic of Aspects
+[10/11/2024 18:29]  Horseshoe Bae: [DTF]
+[10/11/2024 18:29]  Horseshoe Bae: Horseshoe Bae
+[10/11/2024 18:29]  Dyara: Lifetime Eventsman
+[10/11/2024 18:29]  Dyara: Dyara
+[10/11/2024 18:29]  Stephanie: Legendary Mugger
+[10/11/2024 18:29]  Stephanie: [Filthy Cute, Au]
+[10/11/2024 18:29]  Stephanie: Lady Stephanie
+[10/11/2024 18:29]  The Cike: Aegis Keep Guardian
+[10/11/2024 18:29]  The Cike: [Beard Brother, BB]
+[10/11/2024 18:29]  The Cike: The Cike
+[10/11/2024 18:29]  Yzlin: Legendary Chef
+[10/11/2024 18:29]  Yzlin: Yzlin
+[10/11/2024 18:29]  Lykan Beastlord: Lykan Beastlord
+[10/11/2024 18:29]  a llama: (tame)
+[10/11/2024 18:29]  a llama: a llama
+[10/11/2024 18:29]  Kibmonk: Kibmonk
+[10/11/2024 18:29]  Zoomber: [Hostile Miner, HOST]
+[10/11/2024 18:29]  Zoomber: Zoomber
+[10/11/2024 18:29]  a lich: (summoned)
+[10/11/2024 18:29]  a lich: a lich
+[10/11/2024 18:29]  a ghoul: (summoned)
+[10/11/2024 18:29]  a ghoul: a ghoul
+[10/11/2024 18:29]  an earth elemental: (summoned)
+[10/11/2024 18:29]  an earth elemental: an earth elemental
+[10/11/2024 18:29]  Aema: Captain
+[10/11/2024 18:29]  Aema: [DTF]
+[10/11/2024 18:29]  Aema: Lady Aema
+[10/11/2024 18:29]  Mortimer Graves: Mortimer Graves the Beechwood Manor House Raffle Official
+[10/11/2024 18:29]  You see: the remains of Jorjee
+[10/11/2024 18:29]  You see: the remains of Vonlichtenstein
+[10/11/2024 18:29]  System: WorldMap loaded!
+[10/11/2024 18:29]  Cross Philotes: Cross Philotes
+[10/11/2024 18:29]  System: Wood So Good has completed the achievement: Order of Armorers Associate.
+[10/11/2024 18:29]  [Razor]: 16 item(s) queued to be de-equipped.
+[10/11/2024 18:29]  Cross Philotes: Cross Philotes
+[10/11/2024 18:29]  [Razor]: Finished 16 queued actions in 9.0 seconds.
+[10/11/2024 18:29]  [Razor]: 16 item(s) queued to be equipped.
+[10/11/2024 18:29]  [Razor]: 1 item(s) were not found. (Out of Range)
+[10/11/2024 18:29]  Calendonia: Your gold balance is 135,262.
+[10/11/2024 18:29]  You see: a twin loop mastery chain
+[10/11/2024 18:29]  You see: [blessed]
+[10/11/2024 18:29]  You see: (bound to Ailiin)
+[10/11/2024 18:29]  You see: [active]
+[10/11/2024 18:29]  Tyrus: Legendary Daemonic Slayer
+[10/11/2024 18:29]  Tyrus: [Fallen Lord, Syn]
+[10/11/2024 18:29]  Tyrus: Lord Tyrus
+[10/11/2024 18:29]  System: The server will be coming down for a patch in 15 minutes.
+[10/11/2024 18:29]  Zoomber: Kal Ort Por
+[10/11/2024 18:29]  Oz: Legendary Backstabber
+[10/11/2024 18:29]  Oz: [SO, COOL]
+[10/11/2024 18:29]  Oz: Lord Oz
+[10/11/2024 18:29]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 18:29]  Monk.: The Dread Pirate
+[10/11/2024 18:29]  Monk.: Lord Monk.
+[10/11/2024 18:29]  Siege Perilous: Legendary Landowner
+[10/11/2024 18:29]  Siege Perilous: Siege Perilous
+[10/11/2024 18:29]  Hazed: Hazed
+[10/11/2024 18:29]  ratmandu: ratmandu
+[10/11/2024 18:29]  a frenzied ostard: (bonded)
+[10/11/2024 18:29]  a frenzied ostard: a frenzied ostard
+[10/11/2024 18:29]  a frenzied ostard: (bonded)
+[10/11/2024 18:29]  a frenzied ostard: a frenzied ostard
+[10/11/2024 18:29]  a frenzied ostard: (bonded)
+[10/11/2024 18:29]  a frenzied ostard: a frenzied ostard
+[10/11/2024 18:29]  a horse: (bonded)
+[10/11/2024 18:29]  a horse: a horse
+[10/11/2024 18:29]  ratmandu: ratmandu
+[10/11/2024 18:29]  a horse: (bonded)
+[10/11/2024 18:29]  a horse: a horse
+[10/11/2024 18:29]  a llama: (bonded)
+[10/11/2024 18:29]  a llama: a llama
+[10/11/2024 18:29]  a llama: (bonded)
+[10/11/2024 18:29]  a llama: a llama
+[10/11/2024 18:29]  [Razor]: Finished 16 queued actions in 9.0 seconds.
+[10/11/2024 18:29]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 18:29]  Aurelia: Get your very own Pumpkin Mask at Prevalia Bank, next to the Prevalian Merchant! BOO!
+[10/11/2024 18:30]  System: Your skill in Tactics has increased by 37.0.  It is now 137.0.
+[10/11/2024 18:30]  You see: force lyric aspect pistol crossbow
+[10/11/2024 18:30]  System: Sleiz has completed the achievement: Hardened Soldier.
+[10/11/2024 18:30]  System: Prices are now listed in doubloon amounts.
+[10/11/2024 18:30]  System: Prices are now listed in gold amounts.
+[10/11/2024 18:30]  Tyrus: Kal Ort Por
+[10/11/2024 18:30]  Jakesh: Thou'rt scum! Guards!
+[10/11/2024 18:30]  Houston: Thou wilt regret thine actions, swine!
+[10/11/2024 18:30]  Houston: Houston the guard
+[10/11/2024 18:30]  You see: the remains of Cross Philotes
+[10/11/2024 18:30]  Urdla: [Recruit, -_-]
+[10/11/2024 18:30]  Urdla: Urdla
+[10/11/2024 18:30]  Urdla: [Recruit, -_-]
+[10/11/2024 18:30]  Urdla: Urdla
+[10/11/2024 18:30]  Senagal: [Knight, NEW!]
+[10/11/2024 18:30]  Senagal: Senagal
+[10/11/2024 18:30]  You see: the remains of Jorjee
+[10/11/2024 18:30]  You see: the remains of Cross Philotes
+[10/11/2024 18:30]  Mr Praline: [Recruit, NWO]
+[10/11/2024 18:30]  Mr Praline: Mr Praline
+[10/11/2024 18:30]  System: Maloka has completed the achievement: Enhanced (Epic).
+[10/11/2024 18:30]  System: Prices are now listed in doubloon amounts.
+[10/11/2024 18:30]  Starcodebacon: Mausoleum Guardian
+[10/11/2024 18:30]  Starcodebacon: [Path]
+[10/11/2024 18:30]  Starcodebacon: Starcodebacon
+[10/11/2024 18:31]  System: Prices are now listed in prevalia coin amounts.
+[10/11/2024 18:31]  Aurelia: A contested ocean boss will spawn shortly at (615, 4275, -5)
+[10/11/2024 18:31]  System: Prices are now listed in doubloon amounts.
+[10/11/2024 18:31]  System: Prices are now listed in prevalia coin amounts.
+[10/11/2024 18:31]  Starcodebacon: Mausoleum Guardian
+[10/11/2024 18:31]  Starcodebacon: [Path]
+[10/11/2024 18:31]  Starcodebacon: Starcodebacon
+[10/11/2024 18:31]  System: The world will save in 15 seconds.
+[10/11/2024 18:31]  BlakMagic: [Recruit, Yew]
+[10/11/2024 18:31]  BlakMagic: BlakMagic
+[10/11/2024 18:31]  a lich: (summoned)
+[10/11/2024 18:31]  a lich: a lich
+[10/11/2024 18:31]  System: Marlatt has registered an antiquity: Stack of Logs
+[10/11/2024 18:31]  Andrea Messe: Andrea Messe
+[10/11/2024 18:31]  System: The world is saving, please wait.
+[10/11/2024 18:31]  System: World save complete. The entire process took 2.9 seconds.
+[10/11/2024 18:31]  System: Prices are now listed in doubloon amounts.
+[10/11/2024 18:31]  System: Prices are now listed in gold amounts.
+[10/11/2024 18:31]  Kaledrion Myriad: Kaledrion Myriad
+[10/11/2024 18:31]  Deez Nutsss: Monster Hunter Initiate
+[10/11/2024 18:31]  Deez Nutsss: [The Cavernam Boys, T^C]
+[10/11/2024 18:31]  Deez Nutsss: Deez Nutsss
+[10/11/2024 18:31]  Saint Albert: Scribe
+[10/11/2024 18:31]  Saint Albert: [The Tavern], [tT]
+[10/11/2024 18:31]  Saint Albert: Saint Albert
+[10/11/2024 18:31]  Mortimer Graves: Speak to me to enter the raffle for your dream home... really!
+[10/11/2024 18:31]  Silvius: [Friends, FRND]
+[10/11/2024 18:31]  Silvius: Silvius
+[10/11/2024 18:31]  System: Prices are now listed in doubloon amounts.
+[10/11/2024 18:31]  System: Prices are now listed in prevalia coin amounts.
+[10/11/2024 18:31]  System: Prices are now listed in gold amounts.
+[10/11/2024 18:32]  Aurelia: Speak to Mortimer Graves at Prevalia Bank to enter the Beechwood Manor raffle! Do you dare confront its haunted past?
+[10/11/2024 18:32]  System: Prices are now listed in prevalia coin amounts.
+[10/11/2024 18:32]  Mortimer Graves: This house isn't haunted, we promise!
+[10/11/2024 18:32]  Zooker: Legendary Pirate
+[10/11/2024 18:32]  Zooker: [Quartermaster, P.S.]
+[10/11/2024 18:32]  Zooker: Lord Zooker
+[10/11/2024 18:32]  an ancient mummy: (summoned)
+[10/11/2024 18:32]  an ancient mummy: an ancient mummy
+[10/11/2024 18:32]  an ancient mummy: (summoned)
+[10/11/2024 18:32]  an ancient mummy: an ancient mummy
+[10/11/2024 18:32]  Zooker: Legendary Pirate
+[10/11/2024 18:32]  Zooker: [Quartermaster, P.S.]
+[10/11/2024 18:32]  Zooker: Lord Zooker
+[10/11/2024 18:32]  an ancient mummy: (summoned)
+[10/11/2024 18:32]  an ancient mummy: an ancient mummy
+[10/11/2024 18:32]  Duhat: Duhat
+[10/11/2024 18:32]  Mortimer Graves: Will you be the one to tame the horrors within, or will you too become part of its haunted legacy?
+[10/11/2024 18:32]  Cleston: Cleston
+[10/11/2024 18:32]  Senagal: [Knight, NEW!]
+[10/11/2024 18:32]  Senagal: Senagal
+[10/11/2024 18:32]  Tiger: Legendary Loremaster
+[10/11/2024 18:32]  Tiger: [COOL]
+[10/11/2024 18:32]  Tiger: Tiger
+[10/11/2024 18:32]  Morganik: [IDC]
+[10/11/2024 18:32]  Morganik: Morganik
+[10/11/2024 18:32]  Mortimer Graves: The Beechwood Manor could be all yours!
+[10/11/2024 18:32]  Rockman X: Rockman X
+[10/11/2024 18:32]  Jonezy: Jonezy
+[10/11/2024 18:32]  System: (Hue 1126) Can be consumed to change the hue of a Smoking item and add Charges to it.
+[10/11/2024 18:32]  Mortimer Graves: The Beechwood Manor could be all yours!
+[10/11/2024 18:33]  Aurelia: Get your very own Pumpkin Mask at Prevalia Bank, next to the Prevalian Merchant! BOO!
+[10/11/2024 18:33]  System: Prices are now listed in doubloon amounts.
+[10/11/2024 18:33]  System: Prices are now listed in gold amounts.
+[10/11/2024 18:33]  System: Prices are now listed in prevalia coin amounts.
+[10/11/2024 18:33]  System: Prices are now listed in doubloon amounts.
+[10/11/2024 18:33]  System: Prices are now listed in gold amounts.
+[10/11/2024 18:33]  The Cike: Kal Ort Por
+[10/11/2024 18:33]  Ingmar: Your gold balance is 1,238,013.
+[10/11/2024 18:33]  fufuwuwu: [Recruit, -_-]
+[10/11/2024 18:33]  fufuwuwu: Lord fufuwuwu
+[10/11/2024 18:33]  System: Prices are now listed in prevalia coin amounts.
+[10/11/2024 18:33]  Bilbo Stabbings: [Cutpurse, Toll]
+[10/11/2024 18:33]  Bilbo Stabbings: Bilbo Stabbings
+[10/11/2024 18:33]  System: Danny Rand has completed the achievement: Enhanced (Advanced).
+[10/11/2024 18:33]  Mc Smashy: [Smashs Stuff in, NWO]
+[10/11/2024 18:33]  Mc Smashy: Lord Mc Smashy
+[10/11/2024 18:33]  Mc Smashy: [Smashs Stuff in, NWO]
+[10/11/2024 18:33]  Mc Smashy: Lord Mc Smashy
+[10/11/2024 18:33]  Mifdexxer: Mythical Echosmith
+[10/11/2024 18:33]  Mifdexxer: [IDC]
+[10/11/2024 18:33]  Mifdexxer: Lord Mifdexxer
+[10/11/2024 18:33]  Don Elias: Don Elias
+[10/11/2024 18:33]  Newbye: [Recruit, G.G]
+[10/11/2024 18:33]  Newbye: Newbye
+[10/11/2024 18:33]  Haz Mat: [Recruit, Yew]
+[10/11/2024 18:33]  Haz Mat: Haz Mat
+[10/11/2024 18:33]  Cross Philotes: Cross Philotes
+[10/11/2024 18:33]  Mifdexxer: Bank Guards I Ban Thee
+[10/11/2024 18:33]  Haz Mat: [Recruit, Yew]
+[10/11/2024 18:33]  Haz Mat: Haz Mat
+[10/11/2024 18:33]  Mifdexxer: Kal Ort Por
+[10/11/2024 18:33]  Buba Apples: Buba Apples
+[10/11/2024 18:33]  Mortimer Graves: Buy your tickets here for The Beechwood Manor House!
+[10/11/2024 18:33]  Cross Philotes: Cross Philotes
+[10/11/2024 18:33]  Dark Malicia: [Runner, PKs]
+[10/11/2024 18:33]  Dark Malicia: Dark Malicia
+[10/11/2024 18:34]  Dark Malicia: bank
+[10/11/2024 18:34]  Aurelia: A contested ocean boss will spawn shortly at (615, 4275, -5)
+[10/11/2024 18:34]  Duhat: Duhat
+[10/11/2024 18:34]  Kaledrion Myriad: Kaledrion Myriad
+[10/11/2024 18:34]  System: Hobbiton Gardens (HG) guild has reached prestige level 22.
+[10/11/2024 18:34]  Mortimer Graves: The Beechwood Manor could be all yours!
+[10/11/2024 18:34]  Oz: bank
+[10/11/2024 18:34]  a llama: (bonded)
+[10/11/2024 18:34]  a llama: a llama
+[10/11/2024 18:34]  a llama: (bonded)
+[10/11/2024 18:34]  a llama: a llama
+[10/11/2024 18:34]  a lich: (summoned)
+[10/11/2024 18:34]  a lich: a lich
+[10/11/2024 18:34]  BlakMagic: [Recruit, Yew]
+[10/11/2024 18:34]  BlakMagic: BlakMagic
+[10/11/2024 18:34]  Bilbo Stabbings: Kal Ort Por
+[10/11/2024 18:34]  Bilbo Stabbings: [Cutpurse, Toll]
+[10/11/2024 18:34]  Bilbo Stabbings: Bilbo Stabbings
+[10/11/2024 18:34]  Jowday: Jowday
+[10/11/2024 18:34]  an ancient mummy: (summoned)
+[10/11/2024 18:34]  an ancient mummy: an ancient mummy
+[10/11/2024 18:34]  Calendonia: Calendonia the banker
+[10/11/2024 18:34]  Glenn: Glenn the banker
+[10/11/2024 18:34]  Don Elias: Don Elias
+[10/11/2024 18:34]  Alodie: Alodie the banker
+[10/11/2024 18:34]  a dog: a dog
+[10/11/2024 18:34]  Mooche: Relic Hunter
+[10/11/2024 18:34]  Mooche: Lady Mooche
+[10/11/2024 18:34]  Kibmonk: Kibmonk
+[10/11/2024 18:34]  Mortimer Graves: This house isn't haunted, we promise!
+[10/11/2024 18:34]  Ailiin: Bank Vendor buy
+[10/11/2024 18:34]  Ailiin: Items: 36/125
+[10/11/2024 18:34]  Ailiin: Total Weight: 4,070
+[10/11/2024 18:34]  Ailiin: Room
+[10/11/2024 18:34]  Peg LEg Pete: Seafarer Associate
+[10/11/2024 18:34]  Peg LEg Pete: [BOATER, NP$]
+[10/11/2024 18:34]  Peg LEg Pete: Peg LEg Pete
+[10/11/2024 18:34]  System: Obeo Xendmart has completed the achievement: Artificer (Epic).
+[10/11/2024 18:34]  Calendonia: Guards! A villain!
+[10/11/2024 18:34]  Calendonia: Your gold balance is 4,311,350.
+[10/11/2024 18:34]  Glenn: Your gold balance is 4,311,350.
+[10/11/2024 18:34]  System: The server will be coming down for a patch in 10 minutes.
+[10/11/2024 18:34]  System: Buck Satan has completed the achievement: Order of Armorers Associate.
+[10/11/2024 18:34]  Peg LEg Pete: Seafarer Associate
+[10/11/2024 18:34]  Peg LEg Pete: [BOATER, NP$]
+[10/11/2024 18:34]  Peg LEg Pete: Peg LEg Pete
+[10/11/2024 18:34]  Peg LEg Pete: Seafarer Associate
+[10/11/2024 18:34]  Peg LEg Pete: [BOATER, NP$]
+[10/11/2024 18:34]  Peg LEg Pete: Peg LEg Pete
+[10/11/2024 18:34]  You see: gold coin : 54672
+[10/11/2024 18:34]  You see: gold coin : 60000
+[10/11/2024 18:34]  You see: gold coin : 60000
+[10/11/2024 18:34]  : stone stairs
+[10/11/2024 18:34]  Ragnor Storm: [Karl, ICON]
+[10/11/2024 18:34]  Ragnor Storm: Ragnor Storm
+[10/11/2024 18:34]  Viperis: Kal Ort Por
+[10/11/2024 18:34]  Viperis: Viperis
+[10/11/2024 18:35]  Aurelia: Speak to Mortimer Graves at Prevalia Bank to enter the Beechwood Manor raffle! Do you dare confront its haunted past?
+[10/11/2024 18:35]  Viderius Temper: Viderius Temper
+[10/11/2024 18:35]  Yottawatts: Yottawatts
+[10/11/2024 18:35]  Duhat: Duhat
+[10/11/2024 18:35]  Andrea Messe: Andrea Messe
+[10/11/2024 18:35]  : stone wall
+[10/11/2024 18:35]  Alodie: I have placed a check in your bank box for the amount of 190,000
+[10/11/2024 18:35]  Ailiin: check 90000
+[10/11/2024 18:35]  Ingmar: I have placed a check in your bank box for the amount of 90,000
+[10/11/2024 18:35]  System: Your campfire is now secure.
+[10/11/2024 18:35]  You see: a bank check for
+[10/11/2024 18:35]  You see: (90,000 gold)
+[10/11/2024 18:35]  You see: [blessed]
+[10/11/2024 18:35]  Viderius Temper: bank
+[10/11/2024 18:35]  System: 14° 3'N, 41° 45'W
+[10/11/2024 18:35]  System: Your skill in Tactics has decreased by 37.0.  It is now 100.0.
+[10/11/2024 18:35]  Ailiin: Kal Ort Por
+[10/11/2024 18:35]  a goat: a goat
+[10/11/2024 18:35]  Keara: Keara the stablemaster
+[10/11/2024 18:35]  Renee: Renee the stablemaster
+[10/11/2024 18:35]  a dog: a dog
+[10/11/2024 18:35]  Denton: Denton the innkeeper
+[10/11/2024 18:35]  Thurston: Thurston the waiter
+[10/11/2024 18:35]  [Razor]: You must disarm something before you can arm it.
+[10/11/2024 18:35]  [Razor]: You must disarm something before you can arm it.
+[10/11/2024 18:35]  Hanan: Hanan the animal wrangler
+[10/11/2024 18:35]  a horse: *released*
+[10/11/2024 18:35]  a horse: a horse
+[10/11/2024 18:35]  [Razor]: lift - Item not found or out of range
+[10/11/2024 18:35]  [Razor]: drop - Not holding anything
+[10/11/2024 18:35]  : wooden planks
+[10/11/2024 18:35]  Ailiin: Bank Vendor buy
+[10/11/2024 18:35]  Ailiin: Room
+[10/11/2024 18:35]  System: You have left the protection of the town guards.
+[10/11/2024 18:35]  System: You enter the rental room.
+[10/11/2024 18:35]  System: WorldMap loaded!
+[10/11/2024 18:35]  Jaimito: Jaimito
+[10/11/2024 18:36]  System: ArqueiroVesgo has completed the achievement: Guardian of Mount Petram (Intermediate).
+[10/11/2024 18:39]  System: Big Man IronArms has completed the achievement: Boss Slayer (Epic).
+[10/11/2024 18:39]  System: The server will be coming down for a patch in 5 minutes.
+[10/11/2024 18:40]  [Guild][Galavain]: literally every 5 minutes my recall script is going off. reds are bored today
+[10/11/2024 18:40]  [Guild][Lulonaro]: yet factions are insane
+[10/11/2024 18:40]  [Guild][Lulonaro]: except prevalia (ours)
+[10/11/2024 18:41]  System: HorseCloud has completed the achievement: Versatility (Basic).
+[10/11/2024 18:42]  System: The server will be coming down for a patch in 2 minutes.

@@ -51,10 +51,6 @@
 		<gump type="7" x="430" y="45" serial="1010" name="Guards" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
 	</anchored_group_gump>
 	<gump type="9" x="1617" y="-1" serial="1258595" isminimized="False" />
-	<gump type="2" x="1539" y="507" serial="1270814709" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="1207" y="232" serial="1672790157" graphic="60" isminimized="False" iscarried="False" />
-	<gump type="2" x="60" y="60" serial="1149163235" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="1046" y="495" serial="1270825796" graphic="73" isminimized="False" iscarried="False" />
 	<gump type="2" x="1519" y="487" serial="1160050294" graphic="60" isminimized="False" iscarried="True" />
 	<gump type="4" x="1140" y="36" serial="1258595" />
 	<gump type="3" x="1878" y="0" serial="0" rows="27" columns="1" rectsize="42">

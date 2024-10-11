@@ -11,10 +11,10 @@
 	<property name="ObjectDelayEnabled" type="System.Boolean">True</property>
 	<property name="AlwaysOnTop" type="System.Boolean">False</property>
 	<property name="SortCounters" type="System.Boolean">True</property>
-	<property name="QueueActions" type="System.Boolean">False</property>
+	<property name="QueueActions" type="System.Boolean">True</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">983</property>
-	<property name="WindowY" type="System.Int32">-1043</property>
+	<property name="WindowX" type="System.Int32">1163</property>
+	<property name="WindowY" type="System.Int32">-1066</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -95,11 +95,11 @@
 	<property name="GrabHotBag" type="System.String">0</property>
 	<property name="MacroActionDelay" type="System.Boolean">False</property>
 	<property name="DisableMacroPlayFinish" type="System.Boolean">False</property>
-	<property name="ShowBandageTimer" type="System.Boolean">False</property>
+	<property name="ShowBandageTimer" type="System.Boolean">True</property>
 	<property name="ShowBandageTimerFormat" type="System.String">Bandage: {count}s</property>
 	<property name="ShowBandageTimerLocation" type="System.Int32">0</property>
 	<property name="OnlyShowBandageTimerEvery" type="System.Boolean">False</property>
-	<property name="OnlyShowBandageTimerSeconds" type="System.Int32">1</property>
+	<property name="OnlyShowBandageTimerSeconds" type="System.Int32">3</property>
 	<property name="ShowBandageTimerHue" type="System.Int32">88</property>
 	<property name="TargetIndicatorHue" type="System.Int32">10</property>
 	<property name="FilterSystemMessages" type="System.Boolean">False</property>
@@ -285,9 +285,7 @@
 			<item serial="1572420450" />
 		</list>
 	</dresslists>
-	<hotkeys>
-		<key mod="2" key="67" send="True">Play Script: _davidma\OpenChests</key>
-	</hotkeys>
+	<hotkeys />
 	<overheadmessages />
 	<containerlabels />
 	<macrovariables />

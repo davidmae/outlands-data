@@ -1,8 +1,8 @@
 {
   "enable_sound": true,
-  "sound_volume": 40,
+  "sound_volume": 41,
   "enable_music": true,
-  "music_volume": 15,
+  "music_volume": 24,
   "foot_steps_volume": 63,
   "loop_music": true,
   "enable_footsteps_sound": true,
@@ -113,7 +113,7 @@
   "topbar_gump_is_disabled": false,
   "use_alternative_lights": false,
   "use_custom_light_level": true,
-  "light_level": 13,
+  "light_level": 11,
   "use_colored_lights": true,
   "use_dark_nights": false,
   "close_health_bar_type": 2,
@@ -192,9 +192,9 @@
   "counter_bar_display_abbreviated_amount": false,
   "counter_bar_abbreviated_amount": 1000,
   "counter_bar_highlight_amount": 3,
-  "counter_bar_cell_size": 40,
-  "counter_bar_rows": 27,
-  "counter_bar_columns": 1,
+  "counter_bar_cell_size": 44,
+  "counter_bar_rows": 2,
+  "counter_bar_columns": 8,
   "show_skills_changed_message": true,
   "show_stats_changed_message": true,
   "shadows_enabled": true,
@@ -213,8 +213,8 @@
   "grid_loot_type": 2,
   "grid_loot_close_when_zero": true,
   "grid_loot_position": {
-    "X": 1137,
-    "Y": 653
+    "X": 876,
+    "Y": 573
   },
   "grid_loot_size": {
     "X": 4,

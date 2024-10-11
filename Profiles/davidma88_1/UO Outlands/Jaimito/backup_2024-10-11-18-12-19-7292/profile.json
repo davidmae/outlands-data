@@ -229,7 +229,7 @@
   "override_all_fonts": false,
   "override_all_fonts_is_unicode": true,
   "sallos_easy_grab": false,
-  "containers_scale": 150,
+  "containers_scale": 160,
   "items_scale": 100,
   "double_click_to_loot_inside_containers": false,
   "relative_drag_and_drop_items": false,
