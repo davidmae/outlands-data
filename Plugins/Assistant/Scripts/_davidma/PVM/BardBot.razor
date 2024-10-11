@@ -1,6 +1,6 @@
-overhead "[+Start BardBot]"
+overhead "[+Start BardBot]" 111
 
-setvar carving_activated 0
+setvar carving_activated 1
 setvar info_color 191
 
 clearall 
@@ -52,15 +52,23 @@ while not dead
         endif  
     else 
         if 'provoked' in enemy
-        elseif 'a' in enemy or 'an' in enemy
-            skill 'peacemaking'
-            wait 500
-            target curr_target
-            wait 350
-            overhead enemy info_color
+            if 'discord' in enemy
+            else
+                skill 'discordance'
+                wait 500
+                target curr_target
+                wait 350
+                overhead enemy info_color
+                if 'a' in enemy or 'an' in enemy
+                    skill 'peacemaking'
+                    wait 500
+                    target curr_target
+                    wait 350
+                    overhead enemy info_color
+                endif
+            endif
         endif
     endif
-    
     wait 200
     
     if "barding break" in enemy

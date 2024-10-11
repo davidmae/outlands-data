@@ -1,0 +1,185 @@
+[10/11/2024 11:30]  System: WorldMap loading...
+[10/11/2024 11:30]  System: Loading WorldMap markers..
+[10/11/2024 11:30]  System: ..Banks_and_Healers.xml (39)
+[10/11/2024 11:30]  System: ..Dungeons.xml (13)
+[10/11/2024 11:30]  System: ..Dungeon_Gates.xml (392)
+[10/11/2024 11:30]  System: ..Healer_Caravans.xml (42)
+[10/11/2024 11:30]  System: ..Kings_Faire.xml (49)
+[10/11/2024 11:30]  System: ..Moongates.xml (10)
+[10/11/2024 11:30]  System: ..POI.xml (251)
+[10/11/2024 11:30]  System: ..PvP_Locations.xml (71)
+[10/11/2024 11:30]  System: ..Shrines.xml (9)
+[10/11/2024 11:30]  System: ..Sub-Dungeons.xml (4)
+[10/11/2024 11:30]  System: ..Townships.xml (10)
+[10/11/2024 11:30]  System: ..UOAM_Atlas.xml (1887)
+[10/11/2024 11:30]  System: ..UOAM_T-Map.xml (255)
+[10/11/2024 11:30]  System: ..UOAM_Treasure.xml (523)
+[10/11/2024 11:30]  System: WorldMap markers loaded (3555)
+[10/11/2024 11:30]  System: WorldMap loaded!
+[10/11/2024 11:30]  System: Welcome Ailiin!
+[10/11/2024 11:30]  [Razor]: Ignoring action request (already queued).
+[10/11/2024 11:30]  Ailiin: [Ripe, SQzD]
+[10/11/2024 11:30]  Ailiin: Ailiin
+[10/11/2024 11:30]  Geodoro: Geodoro
+[10/11/2024 11:30]  a horse: (tame)
+[10/11/2024 11:30]  a horse: a horse
+[10/11/2024 11:30]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/11/2024 11:30]  System: You must wait to perform another action.
+[10/11/2024 11:31]  [Razor]: Organize Agent did not find any items to move.
+[10/11/2024 11:31]  [Razor]: Organize Agent queued 2 item(s) to be moved. (This may take a few moments)
+[10/11/2024 11:31]  [Razor]: Warning: Ginseng amount is now 0!
+[10/11/2024 11:31]  [Razor]: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[10/11/2024 11:31]  [Razor]: Warning: Black Pearl amount is now 0!
+[10/11/2024 11:31]  [Razor]: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[10/11/2024 11:31]  [Razor]: Finished 6 queued actions in 3.0 seconds.
+[10/11/2024 11:31]  System: Your food satisfaction effect has expired.
+[10/11/2024 11:32]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/11/2024 11:33]  You see: exceedingly melodious gemshorn
+[10/11/2024 11:33]  You see: (228/500 uses remaining)
+[10/11/2024 11:34]  You see: exceedingly melodious gemshorn
+[10/11/2024 11:34]  You see: (228/500 uses remaining)
+[10/11/2024 11:34]  System: Select an item or mobile to view/inspect
+[10/11/2024 11:34]  [Razor]: LanguageString "ScriptCopied" not found!
+[10/11/2024 11:34]  [Razor]: Script Error: 'pve_1' not found (Line: 4)
+[10/11/2024 11:34]  [Razor]: Script Error: 'pve_1' not found (Line: 4)
+[10/11/2024 11:34]  [Razor]: Script Error: lift - Invalid serial (Line: 1)
+[10/11/2024 11:35]  [Razor]: LanguageString "ScriptCopied" not found!
+[10/11/2024 11:35]  [Razor]: Script Error: 'pve_1' not found (Line: 4)
+[10/11/2024 11:35]  System: Your Song of Discordance effect ends.
+[10/11/2024 11:35]  System: Your skill in Tactics has increased by 10.0.  It is now 110.0.
+[10/11/2024 11:36]  System: Click again to confirm.
+[10/11/2024 11:36]  System: Your skill in Tactics has decreased by 10.0.  It is now 100.0.
+[10/11/2024 11:36]  System: Your skill in Tactics has increased by 32.0.  It is now 132.0.
+[10/11/2024 11:36]  Ailiin: Lyric aspect weapon activated.
+[10/11/2024 11:36]  System: Click again to confirm.
+[10/11/2024 11:36]  System: You do not have a full suit of armor equipped.
+[10/11/2024 11:36]  You see: exceptional platemail gorget
+[10/11/2024 11:36]  You see: [mastercrafted by Iron Belly]
+[10/11/2024 11:36]  System: Click again to confirm.
+[10/11/2024 11:36]  Ailiin: Lyric aspect armor activated.
+[10/11/2024 11:36]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/11/2024 11:36]  System: You are now under the effect of a Song of Peacemaking (11.9% healing amounts for 15 minutes).
+[10/11/2024 11:37]  System: The world will save in 15 seconds.
+[10/11/2024 11:37]  [Razor]: lift - Item not found or out of range
+[10/11/2024 11:37]  [Razor]: drop - Not holding anything
+[10/11/2024 11:37]  System: The world is saving, please wait.
+[10/11/2024 11:37]  System: World save complete. The entire process took 2.5 seconds.
+[10/11/2024 11:37]  System: H O A X has completed the achievement: Wilderness Hunter (Advanced).
+[10/11/2024 11:37]  System: Nethalyos has completed the achievement: Order of Armorers Initiate.
+[10/11/2024 11:39]  System: Your skill in Tactics has decreased by 32.0.  It is now 100.0.
+[10/11/2024 11:40]  [Razor]: 2 item(s) queued to be equipped.
+[10/11/2024 11:40]  [Razor]: 15 item(s) already equipped.
+[10/11/2024 11:40]  System: Your skill in Tactics has increased by 32.0.  It is now 132.0.
+[10/11/2024 11:40]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/11/2024 11:40]  System: Your skill in Tactics has decreased by 32.0.  It is now 100.0.
+[10/11/2024 11:40]  System: DekzErAilor has completed the achievement: Versatility (Advanced).
+[10/11/2024 11:40]  [Razor]: 2 item(s) queued to be equipped.
+[10/11/2024 11:40]  [Razor]: 15 item(s) already equipped.
+[10/11/2024 11:40]  System: Your skill in Tactics has increased by 32.0.  It is now 132.0.
+[10/11/2024 11:40]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/11/2024 11:40]  [Razor]: Finished 17 queued actions in 9.6 seconds.
+[10/11/2024 11:40]  [Razor]: Finished 6 queued actions in 3.0 seconds.
+[10/11/2024 11:41]  [Razor]: Queuing dragdrop request 2... 1.6 seconds left.
+[10/11/2024 11:41]  [Razor]: Queuing action request 3... 1.9 seconds left.
+[10/11/2024 11:41]  Razor: [+Stop]
+[10/11/2024 11:41]  System: Logrus has completed the achievement: Artificers Enclave Initiate.
+[10/11/2024 11:41]  System: You must wait another moment before you may pick up an item from here.
+[10/11/2024 11:41]  [Razor]: Finished 3 queued actions in 26.5 seconds.
+[10/11/2024 11:41]  [Razor]: 1 item(s) queued to be equipped.
+[10/11/2024 11:41]  [Razor]: 16 item(s) already equipped.
+[10/11/2024 11:42]  [Razor]: 17 item(s) queued to be de-equipped.
+[10/11/2024 11:42]  Razor: [+Stop]
+[10/11/2024 11:42]  System: Your skill in Tactics has decreased by 32.0.  It is now 100.0.
+[10/11/2024 11:42]  [Razor]: Finished 17 queued actions in 9.6 seconds.
+[10/11/2024 11:42]  [Razor]: 17 item(s) queued to be equipped.
+[10/11/2024 11:42]  System: Your skill in Tactics has increased by 32.0.  It is now 132.0.
+[10/11/2024 11:42]  [Razor]: Finished 17 queued actions in 9.6 seconds.
+[10/11/2024 11:43]  [Razor]: drop - Not holding anything
+[10/11/2024 11:43]  Razor: [+Stop]
+[10/11/2024 11:43]  [Razor]: Finished 16 queued actions in 9.0 seconds.
+[10/11/2024 11:43]  System: Bjorn Strongskin has completed the achievement: Guardian of The Mausoleum (Master).
+[10/11/2024 11:45]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/11/2024 11:46]  System: Evil Drake has completed the achievement: Affluent (Epic).
+[10/11/2024 11:46]  System: Styler Woods has left the guild.
+[10/11/2024 11:49]  System: Apobawer has been given the rank of Juicy.
+[10/11/2024 11:50]  System: Repo Man ($_$) guild has reached prestige level 51.
+[10/11/2024 11:51]  System: The world will save in 15 seconds.
+[10/11/2024 11:51]  System: Your Song of Peacemaking effect ends.
+[10/11/2024 11:52]  System: The world is saving, please wait.
+[10/11/2024 11:52]  System: World save complete. The entire process took 2.6 seconds.
+[10/11/2024 11:52]  System: Wanderer has completed the achievement: Adventurer Associate.
+[10/11/2024 11:53]  System: POTHEADD has completed the achievement: Nature Slayer (Advanced).
+[10/11/2024 11:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/11/2024 11:55]  System: PotatoOne has completed the achievement: Colorful (Basic).
+[10/11/2024 11:56]  System: A Wild Animal has completed the achievement: Guardian of Pulma (Basic).
+[10/11/2024 11:59]  System: Grishord-TTV has completed the achievement: Chef (Basic).
+[10/11/2024 12:00]  System: [DF] A Dungeon Flashpoint for Pulma has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/11/2024 12:00]  System: Sticky Bandit has completed the achievement: Connoisseur (Epic).
+[10/11/2024 12:03]  System: Eastern Heretic has completed the achievement: Connoisseur (Basic).
+[10/11/2024 12:06]  System: The world will save in 15 seconds.
+[10/11/2024 12:06]  System: The world is saving, please wait.
+[10/11/2024 12:06]  System: World save complete. The entire process took 2.7 seconds.
+[10/11/2024 12:10]  System: Themess has completed the achievement: Triggered (Basic).
+[10/11/2024 12:15]  System: SaveMe Regardles has completed the achievement: Enchanter (Advanced).
+[10/11/2024 12:15]  System: BriOn Artisan has completed the achievement: Order of Armorers Dignitary.
+[10/11/2024 12:18]  System: Daddy MapMuncher has completed the achievement: Alchemist (Epic).
+[10/11/2024 12:20]  System: Jobsworth jimmy has completed the achievement: Scientist (Advanced).
+[10/11/2024 12:21]  System: The world will save in 15 seconds.
+[10/11/2024 12:21]  System: The world is saving, please wait.
+[10/11/2024 12:21]  System: World save complete. The entire process took 2.6 seconds.
+[10/11/2024 12:23]  System: Lizzzo has completed the achievement: Wilderness Hunter (Basic).
+[10/11/2024 12:25]  System: SaveMe Crater has completed the achievement: Artificers Enclave Associate.
+[10/11/2024 12:30]  System: Irene Montero has completed the achievement: Artificers Enclave Associate.
+[10/11/2024 12:35]  System: weeklies barf has completed the achievement: Tailor (Advanced).
+[10/11/2024 12:35]  System: Jared Goff has completed the achievement: Artificer (Basic).
+[10/11/2024 12:36]  System: The world will save in 15 seconds.
+[10/11/2024 12:36]  System: Dismember has completed the achievement: Angler (Epic).
+[10/11/2024 12:36]  System: The world is saving, please wait.
+[10/11/2024 12:36]  System: World save complete. The entire process took 2.5 seconds.
+[10/11/2024 12:39]  System: Sophie Yunish has completed the achievement: Tradesman Union Initiate.
+[10/11/2024 12:40]  System: JohnyLesh has completed the achievement: Mugger (Basic).
+[10/11/2024 12:41]  System: SaveMe Crater has completed the achievement: Order of Armorers Dignitary.
+[10/11/2024 12:44]  System: Dorkinator has completed the achievement: Captain (Epic).
+[10/11/2024 12:44]  System: Firegirly has completed the achievement: Weaponmastery (Basic).
+[10/11/2024 12:45]  System: [TS] A Town Struggle (mountless) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[10/11/2024 12:45]  System: Crafter Moo has completed the achievement: Order of Armorers Associate.
+[10/11/2024 12:49]  System: Talon Skyfyre has completed the achievement: Raffler (Advanced).
+[10/11/2024 12:50]  System: The world will save in 15 seconds.
+[10/11/2024 12:51]  System: The world is saving, please wait.
+[10/11/2024 12:51]  System: World save complete. The entire process took 2.6 seconds.
+[10/11/2024 12:52]  System: Adabelle has completed the achievement: Artificers Enclave Initiate.
+[10/11/2024 12:55]  System: Snaesh has completed the achievement: Elemental Slayer (Advanced).
+[10/11/2024 12:56]  System: Benazir Bhutto has completed the achievement: Mugger (Basic).
+[10/11/2024 13:00]  System: Omero has completed the achievement: Tailor (Advanced).
+[10/11/2024 13:00]  System: Mdm Mim has completed the achievement: Guardian of Kraul Hive (Advanced).
+[10/11/2024 13:00]  System: TinkerWink has completed the achievement: Alchemist (Basic).
+[10/11/2024 13:04]  System: Argayl has completed the achievement: Triggered (Basic).
+[10/11/2024 13:05]  System: Sursa has completed the achievement: Paragon Hunter (Advanced).
+[10/11/2024 13:05]  System: The world will save in 15 seconds.
+[10/11/2024 13:05]  System: The world is saving, please wait.
+[10/11/2024 13:06]  System: World save complete. The entire process took 2.4 seconds.
+[10/11/2024 13:06]  System: Jose Hindo has completed the achievement: Echosmith (Advanced).
+[10/11/2024 13:08]  System: Suzie Greenberg has completed the achievement: Black Marketeer (Basic).
+[10/11/2024 13:10]  System: Shaif Hirboush has completed the achievement: Artificers Enclave Luminary.
+[10/11/2024 13:11]  System: Magus McNault has completed the achievement: Wizard (Basic).
+[10/11/2024 13:12]  You see: wooden chest
+[10/11/2024 13:12]  You see: (7 items, 31 stones)
+[10/11/2024 13:12]  System: Your skill in Tactics has decreased by 32.0.  It is now 100.0.
+[10/11/2024 13:12]  System: Your skill in Tactics has increased by 1.0.  It is now 101.0.
+[10/11/2024 13:13]  System: Your skill in Tactics has decreased by 1.0.  It is now 100.0.
+[10/11/2024 13:13]  System: Your skill in Tactics has increased by 32.0.  It is now 132.0.
+[10/11/2024 13:13]  System: Anculas has completed the achievement: Shipwright (Basic).
+[10/11/2024 13:13]  System: Your skill in Tactics has decreased by 32.0.  It is now 100.0.
+[10/11/2024 13:13]  You see: might crossbow
+[10/11/2024 13:13]  System: Your skill in Tactics has increased by 10.0.  It is now 110.0.
+[10/11/2024 13:13]  You see: dullwood bow
+[10/11/2024 13:13]  System: Your skill in Tactics has decreased by 10.0.  It is now 100.0.
+[10/11/2024 13:13]  System: Your skill in Tactics has increased by 1.0.  It is now 101.0.
+[10/11/2024 13:13]  System: Your skill in Tactics has decreased by 1.0.  It is now 100.0.
+[10/11/2024 13:13]  System: Your skill in Tactics has increased by 10.0.  It is now 110.0.
+[10/11/2024 13:13]  You see: shadowwood bow
+[10/11/2024 13:13]  You see: shadowwood bow
+[10/11/2024 13:13]  You see: shadowwood bow
+[10/11/2024 13:13]  You see: shadowwood bow
+[10/11/2024 13:13]  You see: bronzewood bow
+[10/11/2024 13:14]  You see: dullwood bow

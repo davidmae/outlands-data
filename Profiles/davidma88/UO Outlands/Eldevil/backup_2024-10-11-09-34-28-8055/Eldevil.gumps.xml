@@ -4,8 +4,22 @@
 		<gump type="7" x="451" y="1089" serial="1018" name="LastObject" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
 	</anchored_group_gump>
 	<gump type="9" x="1615" y="10" serial="3074037" isminimized="False" />
-	<gump type="2" x="1565" y="379" serial="1307925070" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="10" x="1572" y="646" serial="0" isminimized="False" height="410" />
+	<gump type="2" x="1214" y="284" serial="1270814709" graphic="73" isminimized="False" iscarried="False" />
+	<gump type="2" x="40" y="40" serial="1756335318" graphic="75" isminimized="False" iscarried="False" />
+	<gump type="2" x="1260" y="674" serial="1721143368" graphic="73" isminimized="False" iscarried="False" />
+	<gump type="2" x="1084" y="579" serial="1270825796" graphic="73" isminimized="False" iscarried="False" />
+	<gump type="2" x="588" y="574" serial="1270813508" graphic="73" isminimized="False" iscarried="False" />
+	<gump type="2" x="1552" y="393" serial="1307925070" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="10" x="1560" y="697" serial="0" isminimized="False" height="365" />
+	<gump type="1" x="1535" y="29" serial="0" graphic="30079" direction="0" />
+	<gump type="7" x="1756" y="352" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="7" x="640" y="1081" serial="1037" name="Carve" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="4" x="1211" y="44" serial="3074037" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="5" x="806" y="7" serial="0" />
+	<gump type="24" x="888" y="30" serial="0" />
+	<gump type="8" x="476" y="-139" serial="0" isminimized="False" />
+	<gump type="16" x="397" y="1" serial="0" id="38" />
 	<gump type="3" x="764" y="958" serial="0" rows="2" columns="10" rectsize="46">
 		<controls>
 			<control graphic="3903" hue="0" />
@@ -30,15 +44,6 @@
 			<control graphic="0" hue="0" />
 		</controls>
 	</gump>
-	<gump type="16" x="397" y="1" serial="0" id="38" />
-	<gump type="8" x="476" y="-139" serial="0" isminimized="False" />
-	<gump type="24" x="888" y="30" serial="0" />
-	<gump type="5" x="806" y="7" serial="0" />
-	<gump type="27" x="860" y="478" serial="0" />
-	<gump type="4" x="1211" y="44" serial="3074037" />
-	<gump type="7" x="640" y="1081" serial="1037" name="Carve" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="7" x="1756" y="352" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="1" x="1535" y="29" serial="0" graphic="30079" direction="0" />
 	<gump type="21" x="1349" y="859" serial="0" />
 	<gump type="18" x="4" y="4" serial="0" />
 	<gump type="6" x="17" y="767" serial="0" />

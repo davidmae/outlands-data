@@ -1,4 +1,6 @@
-clearignore 
+overhead "[+Start ProvoNearest]" 111
+clearall 
+
 hotkey 'target closest non-friendly monster'
 wait 200
 if insysmsg "no one matching"
@@ -9,8 +11,7 @@ endif
 @setvar! mobOne lasttarget 
 getlabel mobOne descOne
 overhead "MobOne = {{descOne}}"
-
-wait 750
+wait 250
 
 hotkey 'next target non friendly'
 wait 200
@@ -22,13 +23,12 @@ endif
 @setvar! mobTwo lasttarget
 getlabel mobTwo descTwo
 overhead "MobTwo = {{descTwo}}"
-
-wait 750
+wait 250
 
 useskill 'Provocation'
 wft 250
-if targetexists 
-    target mobOne
-    wft 500
-    target mobTwo
-endif
+target mobOne
+wft 500
+target mobTwo
+
+hotkey 'clear target queue'

@@ -1,4 +1,6 @@
 overhead "[+Start DiscordNearest]" 111
+clearall 
+
 hotkey 'target closest non-friendly monster'
 wait 200
 if insysmsg "no one matching"
@@ -10,18 +12,17 @@ if insysmsg "no one matching"
 endif
 
 @setvar! myKillTarget lasttarget
-
+attack myKillTarget
 
 clearignore 
 useskill 'Discordance'
 wft 500
-if targetexists 
-    target myKillTarget
-    wait 150
-    getlabel myKillTarget description
-    overhead description
-    attack myKillTarget
-endif
+#if targetexists 
+target myKillTarget
+wait 150
+getlabel myKillTarget description
+overhead description
+#endif
 
 wait 200
 hotkey "Play Script: _davidma\PVM\auto-heal"

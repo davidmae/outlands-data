@@ -1,4 +1,6 @@
 overhead "[+Start PeaceNearest]" 111
+clearall 
+
 hotkey 'target closest non-friendly monster'
 wait 200
 if insysmsg "no one matching"
@@ -15,18 +17,20 @@ endif
 clearignore 
 useskill 'Peacemaking'
 wft 500
-if targetexists 
-    target myKillTarget
-    wft 150
-    if insysmsg "You fail to pacify your opponent. You estimate the task to be fairly reasonable."
-        overhead "Failed to pacify" 34
-        wait 100
-    endif
-    
-    getlabel myKillTarget description
-    overhead description
-    attack myKillTarget
+attack myKillTarget
+
+#if targetexists 
+target myKillTarget
+wft 150
+if insysmsg "You fail to pacify your opponent. You estimate the task to be fairly reasonable."
+    overhead "Failed to pacify" 34
+    wait 100
 endif
+
+getlabel myKillTarget description
+overhead description
+
+#endif
 
 
 wait 200

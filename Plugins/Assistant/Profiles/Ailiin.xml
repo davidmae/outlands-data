@@ -11,10 +11,10 @@
 	<property name="ObjectDelayEnabled" type="System.Boolean">True</property>
 	<property name="AlwaysOnTop" type="System.Boolean">False</property>
 	<property name="SortCounters" type="System.Boolean">True</property>
-	<property name="QueueActions" type="System.Boolean">True</property>
+	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">583</property>
-	<property name="WindowY" type="System.Int32">260</property>
+	<property name="WindowX" type="System.Int32">983</property>
+	<property name="WindowY" type="System.Int32">-1043</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -264,14 +264,36 @@
 		<Sell enabled="False" />
 		<UseOnce />
 	</agents>
-	<dresslists />
-	<hotkeys />
+	<dresslists>
+		<list name="pve_1">
+			<item serial="1589520468" />
+			<item serial="1669602800" />
+			<item serial="1669602806" />
+			<item serial="1078718640" />
+			<item serial="1377856117" />
+			<item serial="1572418405" />
+			<item serial="1835152941" />
+			<item serial="1406957086" />
+			<item serial="1547581378" />
+			<item serial="1879631214" />
+			<item serial="1146359900" />
+			<item serial="1669602803" />
+			<item serial="1138189883" />
+			<item serial="1835227340" />
+			<item serial="1429887125" />
+			<item serial="1547581380" />
+			<item serial="1572420450" />
+		</list>
+	</dresslists>
+	<hotkeys>
+		<key mod="2" key="67" send="True">Play Script: _davidma\OpenChests</key>
+	</hotkeys>
 	<overheadmessages />
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
 		<scriptvariable serial="0x785CA3" name="mobTwo" />
-		<scriptvariable serial="0x0" name="carving_activated" />
+		<scriptvariable serial="0x1" name="carving_activated" />
 		<scriptvariable serial="0xBF" name="info_color" />
 	</scriptvariables>
 	<friends />

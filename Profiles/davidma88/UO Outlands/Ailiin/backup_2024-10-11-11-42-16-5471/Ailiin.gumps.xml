@@ -27,10 +27,10 @@
 	<gump type="20" x="11" y="360" serial="0" minimized="True" />
 	<gump type="19" x="11" y="306" serial="0" minimized="False" />
 	<gump type="9" x="1605" y="7" serial="5891706" isminimized="False" />
-	<gump type="2" x="100" y="100" serial="1270814709" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="484" y="652" serial="1672790157" graphic="60" isminimized="False" iscarried="False" />
-	<gump type="2" x="524" y="252" serial="1149163235" graphic="73" isminimized="False" iscarried="False" />
 	<gump type="2" x="1532" y="513" serial="1547581360" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="2" x="1161" y="402" serial="1182295987" graphic="75" isminimized="False" iscarried="False" />
+	<gump type="2" x="1128" y="700" serial="1270814709" graphic="73" isminimized="False" iscarried="False" />
+	<gump type="2" x="812" y="676" serial="1270825796" graphic="73" isminimized="False" iscarried="False" />
 	<gump type="5" x="1550" y="372" serial="1" />
 	<gump type="7" x="362" y="1" serial="1014" name="Circle Trans" graphicId="0" hideLabel="False" scale="1" />
 	<gump type="8" x="443" y="-148" serial="0" isminimized="False" />

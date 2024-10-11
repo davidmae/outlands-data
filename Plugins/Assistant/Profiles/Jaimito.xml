@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">58</property>
-	<property name="WindowY" type="System.Int32">223</property>
+	<property name="WindowX" type="System.Int32">62</property>
+	<property name="WindowY" type="System.Int32">408</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">160</property>
-	<property name="RazorHeight" type="System.Int32">28</property>
+	<property name="RazorWidth" type="System.Int32">766</property>
+	<property name="RazorHeight" type="System.Int32">570</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -196,10 +196,18 @@
 		<Organizer-14 hotbag="0" />
 		<Organizer-15 hotbag="0" />
 		<Organizer-16 hotbag="0" />
-		<Organizer-17 hotbag="0" />
-		<Organizer-18 hotbag="0" />
-		<Organizer-19 hotbag="0" />
-		<Organizer-20 hotbag="0" />
+		<Organizer-17 hotbag="1149146720">
+			<item id="5042" />
+		</Organizer-17>
+		<Organizer-18 hotbag="1149159038">
+			<item id="5042" />
+		</Organizer-18>
+		<Organizer-19 hotbag="1149161715">
+			<item id="5042" />
+		</Organizer-19>
+		<Organizer-20 hotbag="1149163235">
+			<item id="5042" />
+		</Organizer-20>
 		<Restock-1 hotbag="1671216080">
 			<item id="3976" amount="50" />
 			<item id="3963" amount="50" />
@@ -218,7 +226,9 @@
 		<Restock-7 hotbag="0" />
 		<Restock-8 hotbag="0" />
 		<Restock-9 hotbag="0" />
-		<Restock-10 hotbag="0" />
+		<Restock-10 hotbag="1458969872">
+			<item id="5042" amount="11111" />
+		</Restock-10>
 		<Scavenger enabled="False" />
 		<AutoSearchExemptions />
 		<Sell enabled="False" />
