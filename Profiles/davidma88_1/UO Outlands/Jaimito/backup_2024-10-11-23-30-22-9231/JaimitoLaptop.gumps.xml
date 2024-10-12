@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gumps>
 	<anchored_group_gump matrix_w="4" matrix_h="2">
-		<gump type="7" x="564" y="958" serial="1016" name="Target Self" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
-		<gump type="7" x="564" y="1002" serial="1017" name="Pouch" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
-		<gump type="7" x="652" y="1002" serial="1015" name="Last Target" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="1" />
-		<gump type="7" x="740" y="1002" serial="1018" name="LastObject" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="1" />
-		<gump type="7" x="828" y="1002" serial="1023" name="Nearest Chest" graphicId="0" hideLabel="False" scale="1" matrix_x="3" matrix_y="1" />
+		<gump type="7" x="454" y="984" serial="1016" name="Target Self" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="454" y="1028" serial="1017" name="Pouch" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="542" y="1028" serial="1015" name="Last Target" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="1" />
+		<gump type="7" x="630" y="1028" serial="1018" name="LastObject" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="1" />
+		<gump type="7" x="718" y="1028" serial="1023" name="Nearest Chest" graphicId="0" hideLabel="False" scale="1" matrix_x="3" matrix_y="1" />
 	</anchored_group_gump>
 	<anchored_group_gump matrix_w="1" matrix_h="2">
 		<gump type="15" x="1550" y="186" serial="0" id="24" matrix_x="0" matrix_y="0" />
@@ -50,18 +50,24 @@
 		<gump type="7" x="430" y="1" serial="1032" name="CT" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
 		<gump type="7" x="430" y="45" serial="1010" name="Guards" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
 	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="7" x="1615" y="396" serial="1033" name="Escape" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1703" y="396" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="1615" y="440" serial="1031" name="BankRoomVendor" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+	</anchored_group_gump>
 	<gump type="9" x="1617" y="-1" serial="1258595" isminimized="False" />
-	<gump type="2" x="1519" y="487" serial="1160050294" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="2" x="1055" y="293" serial="1458969872" graphic="61" isminimized="False" iscarried="True" />
-	<gump type="2" x="1281" y="627" serial="1270814709" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="220" y="220" serial="1672790157" graphic="60" isminimized="False" iscarried="False" />
-	<gump type="2" x="797" y="218" serial="1149163235" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="320" y="320" serial="1149159038" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="340" y="340" serial="1149146720" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="1046" y="495" serial="1270825796" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="160" y="160" serial="1721143368" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="411" y="322" serial="1270813508" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="4" x="1140" y="36" serial="1258595" />
+	<gump type="2" x="1522" y="500" serial="1160050294" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="21" x="1591" y="848" serial="0" />
+	<gump type="8" x="517" y="-148" serial="0" isminimized="False" />
+	<gump type="15" x="1321" y="45" serial="0" id="44" />
+	<gump type="5" x="1434" y="109" serial="1" />
+	<gump type="1" x="1422" y="49" serial="0" graphic="30080" direction="1" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="25" x="938" y="141" serial="0" entryname="skill" />
+	<gump type="25" x="982" y="76" serial="0" entryname="SmokeBomb" />
+	<gump type="5" x="789" y="0" serial="0" />
+	<gump type="24" x="819" y="76" serial="0" />
+	<gump type="15" x="1555" y="313" serial="0" id="30" />
 	<gump type="3" x="1878" y="0" serial="0" rows="27" columns="1" rectsize="42">
 		<controls>
 			<control graphic="52149" hue="2876" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -93,20 +99,7 @@
 			<control graphic="3821" hue="0" />
 		</controls>
 	</gump>
-	<gump type="7" x="1630" y="402" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="7" x="935" y="1003" serial="1031" name="BankRoomVendor" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="15" x="1555" y="313" serial="0" id="30" />
-	<gump type="7" x="1507" y="403" serial="1033" name="Escape" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="24" x="819" y="76" serial="0" />
-	<gump type="5" x="789" y="0" serial="0" />
-	<gump type="25" x="982" y="76" serial="0" entryname="SmokeBomb" />
-	<gump type="25" x="938" y="141" serial="0" entryname="skill" />
-	<gump type="27" x="860" y="478" serial="0" />
-	<gump type="1" x="1422" y="49" serial="0" graphic="30080" direction="1" />
-	<gump type="5" x="1434" y="109" serial="1" />
-	<gump type="15" x="1321" y="45" serial="0" id="44" />
-	<gump type="8" x="517" y="-148" serial="0" isminimized="False" />
-	<gump type="21" x="1591" y="848" serial="0" />
+	<gump type="4" x="1140" y="36" serial="1258595" />
 	<gump type="18" x="7" y="3" serial="0" />
-	<gump type="6" x="15" y="738" serial="0" />
+	<gump type="6" x="10" y="754" serial="0" />
 </gumps>

@@ -24,21 +24,14 @@
 		<gump type="7" x="1471" y="236" serial="1040" name="BardBuff" graphicId="108" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
 		<gump type="7" x="1535" y="236" serial="1043" name="Stats" graphicId="355" hideLabel="False" scale="0.6" matrix_x="1" matrix_y="1" />
 	</anchored_group_gump>
-	<anchored_group_gump matrix_w="2" matrix_h="3">
-		<gump matrix_x="0" matrix_y="0" />
-		<gump matrix_x="0" matrix_y="1" />
-		<gump matrix_x="1" matrix_y="1" />
-		<gump matrix_x="1" matrix_y="2" />
-	</anchored_group_gump>
 	<gump type="20" x="11" y="360" serial="0" minimized="True" />
 	<gump type="19" x="11" y="306" serial="0" minimized="False" />
 	<gump type="9" x="1605" y="6" serial="5891706" isminimized="False" />
-	<gump type="2" x="120" y="120" serial="1159435879" graphic="9" isminimized="False" iscarried="False" />
-	<gump type="2" x="100" y="100" serial="1159526959" graphic="9" isminimized="False" iscarried="False" />
+	<gump type="2" x="1553" y="499" serial="1547581360" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="24" x="1098" y="158" serial="0" />
+	<gump type="5" x="832" y="923" serial="0" />
+	<gump type="25" x="1212" y="34" serial="0" entryname="skill" />
 	<gump type="5" x="1145" y="962" serial="1" />
-	<gump type="2" x="1549" y="502" serial="1547581360" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="25" x="1306" y="85" serial="0" entryname="skill" />
-	<gump type="24" x="1116" y="29" serial="0" />
 	<gump type="3" x="783" y="957" serial="0" rows="2" columns="8" rectsize="44">
 		<controls>
 			<control graphic="3617" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -54,13 +47,11 @@
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
-			<control graphic="0" hue="0" />
-			<control graphic="0" hue="0" />
+			<control graphic="3903" hue="0" />
+			<control graphic="7163" hue="0" />
 			<control graphic="8901" hue="0" />
 		</controls>
 	</gump>
-	<gump type="4" x="646" y="48" serial="5891706" />
-	<gump type="5" x="813" y="8" serial="0" />
 	<gump type="7" x="362" y="1" serial="1014" name="Circle Trans" graphicId="0" hideLabel="False" scale="1" />
 	<gump type="8" x="443" y="-148" serial="0" isminimized="False" />
 	<gump type="1" x="1528" y="9" serial="0" graphic="30079" direction="0" />

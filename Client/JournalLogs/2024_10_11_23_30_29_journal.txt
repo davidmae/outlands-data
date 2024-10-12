@@ -1,0 +1,883 @@
+[10/11/2024 23:30]  System: WorldMap loading...
+[10/11/2024 23:30]  System: Loading WorldMap markers..
+[10/11/2024 23:30]  System: ..Banks_and_Healers.xml (39)
+[10/11/2024 23:30]  System: ..Dungeons.xml (13)
+[10/11/2024 23:30]  System: ..Dungeon_Gates.xml (392)
+[10/11/2024 23:30]  System: ..Healer_Caravans.xml (42)
+[10/11/2024 23:30]  System: ..Kings_Faire.xml (49)
+[10/11/2024 23:30]  System: ..Moongates.xml (10)
+[10/11/2024 23:30]  System: ..POI.xml (251)
+[10/11/2024 23:30]  System: ..PvP_Locations.xml (71)
+[10/11/2024 23:30]  System: ..Shrines.xml (9)
+[10/11/2024 23:30]  System: ..Sub-Dungeons.xml (4)
+[10/11/2024 23:30]  System: ..Townships.xml (10)
+[10/11/2024 23:30]  System: ..UOAM_Atlas.xml (1887)
+[10/11/2024 23:30]  System: ..UOAM_T-Map.xml (255)
+[10/11/2024 23:30]  System: ..UOAM_Treasure.xml (523)
+[10/11/2024 23:30]  System: WorldMap markers loaded (3555)
+[10/11/2024 23:30]  System: Welcome Ailiin!
+[10/11/2024 23:30]  [Razor]: Ignoring action request (already queued).
+[10/11/2024 23:30]  [Razor]: Steps: 0
+[10/11/2024 23:30]  System: WorldMap loaded!
+[10/11/2024 23:30]  System: You are now under the protection of the town guards.
+[10/11/2024 23:30]  Alodie: Alodie the banker
+[10/11/2024 23:30]  Leon: Leon the rare mason
+[10/11/2024 23:30]  Rhoneus: [Henchman, Syn]
+[10/11/2024 23:30]  Rhoneus: Rhoneus
+[10/11/2024 23:30]  Dhamonick: [Good Guy, G.G]
+[10/11/2024 23:30]  Dhamonick: Lord Dhamonick
+[10/11/2024 23:30]  Asrai Rexxar: Asrai Rexxar
+[10/11/2024 23:30]  Youpi: Legendary Roll Player
+[10/11/2024 23:30]  Youpi: [Le Fou du Roi, LDS]
+[10/11/2024 23:30]  Youpi: Lord Youpi
+[10/11/2024 23:30]  Phnom Penh: [Member, R&S]
+[10/11/2024 23:30]  Phnom Penh: Lady Phnom Penh
+[10/11/2024 23:30]  DooH GnibboR: Legendary Pirate
+[10/11/2024 23:30]  DooH GnibboR: [Member, NC]
+[10/11/2024 23:30]  DooH GnibboR: Lord DooH GnibboR
+[10/11/2024 23:30]  Agatha all along: Agatha all along
+[10/11/2024 23:30]  Frights: Legendary Connoisseur
+[10/11/2024 23:30]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:30]  Frights: Lord Frights
+[10/11/2024 23:30]  BOBFROMACOUNTING: Legendary Zoologist
+[10/11/2024 23:30]  BOBFROMACOUNTING: [Veteran, Syn]
+[10/11/2024 23:30]  BOBFROMACOUNTING: Lord BOBFROMACOUNTING
+[10/11/2024 23:30]  a gravebug: (bonded)
+[10/11/2024 23:30]  a gravebug: a gravebug
+[10/11/2024 23:30]  a fire mephit: (bonded)
+[10/11/2024 23:30]  a fire mephit: a fire mephit
+[10/11/2024 23:30]  a fire mephit: (bonded)
+[10/11/2024 23:30]  a fire mephit: a fire mephit
+[10/11/2024 23:30]  a fire mephit: (bonded)
+[10/11/2024 23:30]  a fire mephit: a fire mephit
+[10/11/2024 23:30]  Aema: Captain
+[10/11/2024 23:30]  Aema: Lady Aema
+[10/11/2024 23:30]  Baasa: [Recruit, MEMO]
+[10/11/2024 23:30]  Baasa: Baasa
+[10/11/2024 23:30]  a horse: (tame)
+[10/11/2024 23:30]  a horse: a horse
+[10/11/2024 23:30]  Isaac Netero: Aegis Keep Hero
+[10/11/2024 23:30]  Isaac Netero: [Veteran, -_-]
+[10/11/2024 23:30]  Isaac Netero: Lord Isaac Netero
+[10/11/2024 23:30]  Shaka Kahn: [EVIL]
+[10/11/2024 23:30]  Shaka Kahn: Lord Shaka Kahn
+[10/11/2024 23:30]  Juggs Dukeness: Mythic of Aspects
+[10/11/2024 23:30]  Juggs Dukeness: [G.G]
+[10/11/2024 23:30]  Juggs Dukeness: Lord Juggs Dukeness
+[10/11/2024 23:30]  Zaak: Legendary Zoologist
+[10/11/2024 23:30]  Zaak: [Private, G.G]
+[10/11/2024 23:30]  Zaak: Lord Zaak
+[10/11/2024 23:30]  Galimatias: Heralded Gladiator
+[10/11/2024 23:30]  Galimatias: Lord Galimatias
+[10/11/2024 23:30]  Sagara: Sagara the banker
+[10/11/2024 23:30]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:30]  Tilikum: [sangre X, SxS]
+[10/11/2024 23:30]  Tilikum: Tilikum
+[10/11/2024 23:30]  Aphra: Expressive
+[10/11/2024 23:30]  Aphra: [Officer, NEW!]
+[10/11/2024 23:30]  Aphra: Lady Aphra
+[10/11/2024 23:30]  Jeff Cavaliere: Enhanced
+[10/11/2024 23:30]  Jeff Cavaliere: [Born, RDY]
+[10/11/2024 23:30]  Jeff Cavaliere: Jeff Cavaliere
+[10/11/2024 23:30]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:30]  Pex Storm: Boss Slayer
+[10/11/2024 23:30]  Pex Storm: [Henchman, Syn]
+[10/11/2024 23:30]  Pex Storm: Lord Pex Storm
+[10/11/2024 23:30]  System: You have rejoined the party.
+[10/11/2024 23:30]  System: WorldMap loaded!
+[10/11/2024 23:30]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/11/2024 23:30]  Zemeckis: Weaponmaster
+[10/11/2024 23:30]  Zemeckis: Zemeckis
+[10/11/2024 23:30]  Asrai Rexxar: Asrai Rexxar
+[10/11/2024 23:30]  You see: rental vendor contract
+[10/11/2024 23:30]  Frights: Legendary Connoisseur
+[10/11/2024 23:30]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:30]  Frights: Lord Frights
+[10/11/2024 23:30]  You see: a magic item vault
+[10/11/2024 23:30]  You see: (0 items, 0 stones)
+[10/11/2024 23:30]  Standford: Standford the provisioner
+[10/11/2024 23:30]  Ingmar: Ingmar the banker
+[10/11/2024 23:30]  Pearce: Pearce the banker
+[10/11/2024 23:30]  Baasa: [Recruit, MEMO]
+[10/11/2024 23:30]  Baasa: Baasa
+[10/11/2024 23:30]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:30]  a fire mephit: (bonded)
+[10/11/2024 23:30]  a fire mephit: a fire mephit
+[10/11/2024 23:30]  Thaur'Ug: Thaur'Ug
+[10/11/2024 23:30]  Kallos: (bonded)
+[10/11/2024 23:30]  Kallos: Kallos
+[10/11/2024 23:30]  Aurelia: Aurelia the Town Crier
+[10/11/2024 23:30]  Callion: [Guardian, KoU]
+[10/11/2024 23:30]  Callion: Callion
+[10/11/2024 23:30]  a horse: (tame)
+[10/11/2024 23:30]  a horse: a horse
+[10/11/2024 23:30]  Sunbrite: [Moondim, NKB]
+[10/11/2024 23:30]  Sunbrite: Lady Sunbrite
+[10/11/2024 23:30]  an undead wizard: Seasoned Strategist
+[10/11/2024 23:30]  an undead wizard: [EVIL]
+[10/11/2024 23:30]  an undead wizard: an undead wizard
+[10/11/2024 23:30]  Standford: Standford the provisioner
+[10/11/2024 23:30]  Phnom Penh: [Member, R&S]
+[10/11/2024 23:30]  Phnom Penh: Lady Phnom Penh
+[10/11/2024 23:30]  Givon: Givon the tailor
+[10/11/2024 23:30]  Kurt: Kurt the real estate broker
+[10/11/2024 23:31]  of the Cosmos: Legendarily Triggered
+[10/11/2024 23:31]  of the Cosmos: [Monsters Rummage Corpses, NEW!]
+[10/11/2024 23:31]  of the Cosmos: Lord of the Cosmos
+[10/11/2024 23:31]  Frights: Legendary Connoisseur
+[10/11/2024 23:31]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:31]  Frights: Lord Frights
+[10/11/2024 23:31]  Snaesh: Time Guardian
+[10/11/2024 23:31]  Snaesh: [1000K Gold Please, AWN]
+[10/11/2024 23:31]  Snaesh: Lord Snaesh
+[10/11/2024 23:31]  Merrlin: Merrlin
+[10/11/2024 23:31]  Phnom Penh: Bank
+[10/11/2024 23:31]  Kurt: Kurt the real estate broker
+[10/11/2024 23:31]  You see: war fork
+[10/11/2024 23:31]  Aponi: Aponi the cobbler
+[10/11/2024 23:31]  Phnom Penh: Kal Ort Por
+[10/11/2024 23:31]  System: Resupply complete: no items needed.
+[10/11/2024 23:31]  Shady Jack: Legendary Scribe
+[10/11/2024 23:31]  Shady Jack: [Juicy, SQzD]
+[10/11/2024 23:31]  Shady Jack: Lord Shady Jack
+[10/11/2024 23:31]  Frights: Legendary Connoisseur
+[10/11/2024 23:31]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:31]  Frights: Lord Frights
+[10/11/2024 23:31]  of the Cosmos: bank
+[10/11/2024 23:31]  System: Benjamin F Gates has completed the achievement: Enhanced (Epic).
+[10/11/2024 23:31]  of the Cosmos: Kal Ort Por
+[10/11/2024 23:32]  You see: arrow : 2
+[10/11/2024 23:32]  Idonaxx: Legendary Wizard
+[10/11/2024 23:32]  Idonaxx: [BRvk]
+[10/11/2024 23:32]  Idonaxx: Lady Idonaxx
+[10/11/2024 23:32]  System: Benjamin F Gates has completed the achievement: Echosmith (Epic).
+[10/11/2024 23:32]  System: Spark Clan (SC!) guild has reached prestige level 1.
+[10/11/2024 23:32]  System: Benjamin F Gates has completed the achievement: Echosmith (Mythical).
+[10/11/2024 23:32]  Shady Jack: Legendary Scribe
+[10/11/2024 23:32]  Shady Jack: [Juicy, SQzD]
+[10/11/2024 23:32]  Shady Jack: Lord Shady Jack
+[10/11/2024 23:32]  Idonaxx: bank
+[10/11/2024 23:32]  Shady Jack: bank
+[10/11/2024 23:32]  System: Resupply complete.
+[10/11/2024 23:32]  System: Resupply complete: no items needed.
+[10/11/2024 23:32]  System: Click again to confirm clearing loadout.
+[10/11/2024 23:32]  System: Resupply complete: no items needed.
+[10/11/2024 23:33]  Frights: Legendary Connoisseur
+[10/11/2024 23:33]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:33]  Frights: Lord Frights
+[10/11/2024 23:33]  Givon: Givon the tailor
+[10/11/2024 23:33]  Benjamin F Gates: Kraul Hive Guardian
+[10/11/2024 23:33]  Benjamin F Gates: [Guildmaster, SC!]
+[10/11/2024 23:33]  Benjamin F Gates: Lord Benjamin F Gates
+[10/11/2024 23:33]  Aponi: Aponi the cobbler
+[10/11/2024 23:33]  Kurt: Kurt the real estate broker
+[10/11/2024 23:33]  Shady Jack: bank
+[10/11/2024 23:33]  You see: ship editor
+[10/11/2024 23:33]  Kurt: Kurt the real estate broker
+[10/11/2024 23:33]  Aponi: Aponi the cobbler
+[10/11/2024 23:33]  Sagara: Sagara the banker
+[10/11/2024 23:33]  You see: Square Table
+[10/11/2024 23:33]  Nyssa: Nyssa the tanner
+[10/11/2024 23:33]  You see: Square Table
+[10/11/2024 23:33]  [Razor]: Queuing action request 1... 0.8 seconds left.
+[10/11/2024 23:33]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/11/2024 23:33]  You see: a resource stockpile
+[10/11/2024 23:33]  You see: a resource stockpile
+[10/11/2024 23:33]  Frights: Legendary Connoisseur
+[10/11/2024 23:33]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:33]  Frights: Lord Frights
+[10/11/2024 23:33]  Nyssa: Nyssa the tanner
+[10/11/2024 23:33]  System: This item must be in your backpack in order to adjust it.
+[10/11/2024 23:33]  System: That is too far away.
+[10/11/2024 23:33]  System: That is too far away.
+[10/11/2024 23:33]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:34]  Frights: Legendary Connoisseur
+[10/11/2024 23:34]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:34]  Frights: Lord Frights
+[10/11/2024 23:34]  Zaak: Legendary Zoologist
+[10/11/2024 23:34]  Zaak: [Private, G.G]
+[10/11/2024 23:34]  Zaak: Lord Zaak
+[10/11/2024 23:34]  a horse: (tame)
+[10/11/2024 23:34]  a horse: a horse
+[10/11/2024 23:34]  System: Being perfectly rested, you shove them out of the way.
+[10/11/2024 23:34]  Rhoneus: [Henchman, Syn]
+[10/11/2024 23:34]  Rhoneus: Rhoneus
+[10/11/2024 23:34]  Tilikum: [sangre X, SxS]
+[10/11/2024 23:34]  Tilikum: Tilikum
+[10/11/2024 23:34]  Bartholmeus: Legendary Boss Slayer
+[10/11/2024 23:34]  Bartholmeus: [Major, DKR]
+[10/11/2024 23:34]  Bartholmeus: Lord Bartholmeus
+[10/11/2024 23:34]  BOBFROMACOUNTING: Legendary Zoologist
+[10/11/2024 23:34]  BOBFROMACOUNTING: [Veteran, Syn]
+[10/11/2024 23:34]  BOBFROMACOUNTING: Lord BOBFROMACOUNTING
+[10/11/2024 23:34]  a gravebug: (bonded)
+[10/11/2024 23:34]  a gravebug: a gravebug
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  Aema: Captain
+[10/11/2024 23:34]  Aema: Lady Aema
+[10/11/2024 23:34]  Zemeckis: Weaponmaster
+[10/11/2024 23:34]  Zemeckis: Zemeckis
+[10/11/2024 23:34]  Alodie: Alodie the banker
+[10/11/2024 23:34]  Isaac Netero: Aegis Keep Hero
+[10/11/2024 23:34]  Isaac Netero: [Veteran, -_-]
+[10/11/2024 23:34]  Isaac Netero: Lord Isaac Netero
+[10/11/2024 23:34]  Aphra: Expressive
+[10/11/2024 23:34]  Aphra: [Officer, NEW!]
+[10/11/2024 23:34]  Aphra: Lady Aphra
+[10/11/2024 23:34]  Zaak: Legendary Zoologist
+[10/11/2024 23:34]  Zaak: [Private, G.G]
+[10/11/2024 23:34]  Zaak: Lord Zaak
+[10/11/2024 23:34]  a horse: (tame)
+[10/11/2024 23:34]  a horse: a horse
+[10/11/2024 23:34]  Shaka Kahn: [EVIL]
+[10/11/2024 23:34]  Shaka Kahn: Lord Shaka Kahn
+[10/11/2024 23:34]  Maloka: Legendary Pirate
+[10/11/2024 23:34]  Maloka: [4:20, MOZO]
+[10/11/2024 23:34]  Maloka: Lady Maloka
+[10/11/2024 23:34]  You see: bloody skull fountain
+[10/11/2024 23:34]  Calendonia: Calendonia the banker
+[10/11/2024 23:34]  You see: thieves codex
+[10/11/2024 23:34]  You see: [blessed]
+[10/11/2024 23:34]  Rhoneus: [Henchman, Syn]
+[10/11/2024 23:34]  Rhoneus: Rhoneus
+[10/11/2024 23:34]  Tilikum: [sangre X, SxS]
+[10/11/2024 23:34]  Tilikum: Tilikum
+[10/11/2024 23:34]  Ingmar: Ingmar the banker
+[10/11/2024 23:34]  Bartholmeus: Legendary Boss Slayer
+[10/11/2024 23:34]  Bartholmeus: [Major, DKR]
+[10/11/2024 23:34]  Bartholmeus: Lord Bartholmeus
+[10/11/2024 23:34]  BOBFROMACOUNTING: Legendary Zoologist
+[10/11/2024 23:34]  BOBFROMACOUNTING: [Veteran, Syn]
+[10/11/2024 23:34]  BOBFROMACOUNTING: Lord BOBFROMACOUNTING
+[10/11/2024 23:34]  a gravebug: (bonded)
+[10/11/2024 23:34]  a gravebug: a gravebug
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  Aema: Captain
+[10/11/2024 23:34]  Aema: Lady Aema
+[10/11/2024 23:34]  Zemeckis: Weaponmaster
+[10/11/2024 23:34]  Zemeckis: Zemeckis
+[10/11/2024 23:34]  Pearce: Pearce the banker
+[10/11/2024 23:34]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  Thaur'Ug: Thaur'Ug
+[10/11/2024 23:34]  Merrlin: Merrlin
+[10/11/2024 23:34]  Kallos: (bonded)
+[10/11/2024 23:34]  Kallos: Kallos
+[10/11/2024 23:34]  Aurelia: Aurelia the Town Crier
+[10/11/2024 23:34]  Callion: [Guardian, KoU]
+[10/11/2024 23:34]  Callion: Callion
+[10/11/2024 23:34]  a horse: (tame)
+[10/11/2024 23:34]  a horse: a horse
+[10/11/2024 23:34]  Sunbrite: [Moondim, NKB]
+[10/11/2024 23:34]  Sunbrite: Lady Sunbrite
+[10/11/2024 23:34]  an undead wizard: Seasoned Strategist
+[10/11/2024 23:34]  an undead wizard: [EVIL]
+[10/11/2024 23:34]  an undead wizard: an undead wizard
+[10/11/2024 23:34]  KraKaren: Master of Aspects
+[10/11/2024 23:34]  KraKaren: [Consigliere, DPS]
+[10/11/2024 23:34]  KraKaren: Lady KraKaren
+[10/11/2024 23:34]  Shuen Di: Legendarily Triggered
+[10/11/2024 23:34]  Shuen Di: [-_-]
+[10/11/2024 23:34]  Shuen Di: Lord Shuen Di
+[10/11/2024 23:34]  Asrai Rexxar: Asrai Rexxar
+[10/11/2024 23:34]  Xyster: Pirate
+[10/11/2024 23:34]  Xyster: [Syn]
+[10/11/2024 23:34]  Xyster: Xyster
+[10/11/2024 23:34]  Galimatias: Heralded Gladiator
+[10/11/2024 23:34]  Galimatias: Lord Galimatias
+[10/11/2024 23:34]  Baasa: [Recruit, MEMO]
+[10/11/2024 23:34]  Baasa: Baasa
+[10/11/2024 23:34]  Hammerbell: [Keeper Of Lies], [D^O]
+[10/11/2024 23:34]  Hammerbell: Hammerbell
+[10/11/2024 23:34]  a wild crab: Legend of Aspects
+[10/11/2024 23:34]  a wild crab: [Officer, G.G]
+[10/11/2024 23:34]  a wild crab: Lord a wild crab
+[10/11/2024 23:34]  Ajaz: Ajaz
+[10/11/2024 23:34]  Bellrocks: Triggered
+[10/11/2024 23:34]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:34]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:34]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:34]  Dr Bitty: [The Tavern], [tT]
+[10/11/2024 23:34]  Dr Bitty: Dr Bitty
+[10/11/2024 23:34]  a horse: (tame)
+[10/11/2024 23:34]  a horse: a horse
+[10/11/2024 23:34]  Sinaloa: Sinaloa
+[10/11/2024 23:34]  Glenn: Glenn the banker
+[10/11/2024 23:34]  Bitty Inc: Bitty Inc
+[10/11/2024 23:34]  Exar Kunn: [Nightmare Whisperer, NWO]
+[10/11/2024 23:34]  Exar Kunn: Exar Kunn
+[10/11/2024 23:34]  You see: tall fountain
+[10/11/2024 23:34]  Frights: Legendary Connoisseur
+[10/11/2024 23:34]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:34]  Frights: Lord Frights
+[10/11/2024 23:34]  System: That is too far away.
+[10/11/2024 23:34]  Dr Bitty: [The Tavern], [tT]
+[10/11/2024 23:34]  Dr Bitty: Dr Bitty
+[10/11/2024 23:34]  a horse: (tame)
+[10/11/2024 23:34]  a horse: a horse
+[10/11/2024 23:34]  Frights: Legendary Connoisseur
+[10/11/2024 23:34]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:34]  Frights: Lord Frights
+[10/11/2024 23:34]  Bellrocks: Triggered
+[10/11/2024 23:34]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:34]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:34]  a horse: (tame)
+[10/11/2024 23:34]  a horse: a horse
+[10/11/2024 23:34]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:34]  Pearce: Pearce the banker
+[10/11/2024 23:34]  Sagara: Sagara the banker
+[10/11/2024 23:34]  a gravebug: (bonded)
+[10/11/2024 23:34]  a gravebug: a gravebug
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  Juggs Dukeness: Mythic of Aspects
+[10/11/2024 23:34]  Juggs Dukeness: [G.G]
+[10/11/2024 23:34]  Juggs Dukeness: Lord Juggs Dukeness
+[10/11/2024 23:34]  Tilikum: [sangre X, SxS]
+[10/11/2024 23:34]  Tilikum: Tilikum
+[10/11/2024 23:34]  a fire mephit: (bonded)
+[10/11/2024 23:34]  a fire mephit: a fire mephit
+[10/11/2024 23:34]  Bellrocks: Triggered
+[10/11/2024 23:34]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:34]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:34]  Bin Laggin-: Triggered
+[10/11/2024 23:34]  Bin Laggin-: Bin Laggin-
+[10/11/2024 23:34]  Maloka: Legendary Pirate
+[10/11/2024 23:34]  Maloka: [4:20, MOZO]
+[10/11/2024 23:34]  Maloka: Lady Maloka
+[10/11/2024 23:34]  a horse: (tame)
+[10/11/2024 23:34]  a horse: a horse
+[10/11/2024 23:34]  Bellrocks: Triggered
+[10/11/2024 23:34]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:34]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:34]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:34]  Kallos: (bonded)
+[10/11/2024 23:34]  Kallos: Kallos
+[10/11/2024 23:34]  Jeff Cavaliere: Enhanced
+[10/11/2024 23:34]  Jeff Cavaliere: [Born, RDY]
+[10/11/2024 23:34]  Jeff Cavaliere: Jeff Cavaliere
+[10/11/2024 23:34]  an undead wizard: Seasoned Strategist
+[10/11/2024 23:34]  an undead wizard: [EVIL]
+[10/11/2024 23:34]  an undead wizard: an undead wizard
+[10/11/2024 23:34]  Pex Storm: Boss Slayer
+[10/11/2024 23:34]  Pex Storm: [Henchman, Syn]
+[10/11/2024 23:34]  Pex Storm: Lord Pex Storm
+[10/11/2024 23:34]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:34]  Aphra: Expressive
+[10/11/2024 23:34]  Aphra: [Officer, NEW!]
+[10/11/2024 23:34]  Aphra: Lady Aphra
+[10/11/2024 23:34]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:34]  You see: exceptional undead kin mask
+[10/11/2024 23:34]  Frights: Legendary Connoisseur
+[10/11/2024 23:34]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:34]  Frights: Lord Frights
+[10/11/2024 23:34]  Sinaloa: Sinaloa
+[10/11/2024 23:34]  Bitty Inc: Bitty Inc
+[10/11/2024 23:34]  Oflu: Wilderness Legend
+[10/11/2024 23:34]  Oflu: [Veteran, G.G]
+[10/11/2024 23:34]  Oflu: Lady Oflu
+[10/11/2024 23:34]  Lewle: Wilderness Savior
+[10/11/2024 23:34]  Lewle: [RDY]
+[10/11/2024 23:34]  Lewle: Lewle
+[10/11/2024 23:34]  a horse: *released*
+[10/11/2024 23:34]  a horse: a horse
+[10/11/2024 23:34]  Fahrettin: [GALATASARAY, -_-]
+[10/11/2024 23:34]  Fahrettin: Lord Fahrettin
+[10/11/2024 23:35]  Ajaz: Ajaz
+[10/11/2024 23:35]  : spider throne
+[10/11/2024 23:35]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:35]  System: The world will save in 15 seconds.
+[10/11/2024 23:35]  System: Prices are now listed in doubloon amounts.
+[10/11/2024 23:35]  System: Prices are now listed in gold amounts.
+[10/11/2024 23:35]  System: Prices are now listed in prevalia coin amounts.
+[10/11/2024 23:35]  System: The world is saving, please wait.
+[10/11/2024 23:35]  System: World save complete. The entire process took 4.6 seconds.
+[10/11/2024 23:35]  Bartholmeus: vendor buy bank guards stable room
+[10/11/2024 23:35]  Dr Bitty: [The Tavern], [tT]
+[10/11/2024 23:35]  Dr Bitty: Dr Bitty
+[10/11/2024 23:35]  Bartholmeus: vendor buy bank guards stable room
+[10/11/2024 23:35]  System: tOXc has completed the achievement: Carpenter (Basic).
+[10/11/2024 23:35]  System: tOXc has completed the achievement: Carpenter (Advanced).
+[10/11/2024 23:35]  System: tOXc has completed the achievement: Carpenter (Epic).
+[10/11/2024 23:35]  System: You do not have enough prevalia coin in your bank to purchase that item.
+[10/11/2024 23:35]  System: You do not have enough prevalia coin in your bank to purchase that item.
+[10/11/2024 23:35]  System: You do not have enough prevalia coin in your bank to purchase that item.
+[10/11/2024 23:35]  Bin Laggin-: BANK
+[10/11/2024 23:35]  Shady Jack: Legendary Scribe
+[10/11/2024 23:35]  Shady Jack: [Juicy, SQzD]
+[10/11/2024 23:35]  Shady Jack: Lord Shady Jack
+[10/11/2024 23:35]  Sagara: Sagara the banker
+[10/11/2024 23:35]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:35]  Dr Bitty: [The Tavern], [tT]
+[10/11/2024 23:35]  Dr Bitty: Dr Bitty
+[10/11/2024 23:35]  Glenn: Glenn the banker
+[10/11/2024 23:35]  Alodie: Alodie the banker
+[10/11/2024 23:35]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:35]  Maloka: Legendary Pirate
+[10/11/2024 23:35]  Maloka: [4:20, MOZO]
+[10/11/2024 23:35]  Maloka: Lady Maloka
+[10/11/2024 23:36]  Agatha all along: Agatha all along
+[10/11/2024 23:36]  Haid D'Salaami: Haid D'Salaami
+[10/11/2024 23:36]  Jeff Cavaliere: Enhanced
+[10/11/2024 23:36]  Jeff Cavaliere: [Born, RDY]
+[10/11/2024 23:36]  Jeff Cavaliere: Jeff Cavaliere
+[10/11/2024 23:36]  You see: wraith mantle
+[10/11/2024 23:36]  Maloka: Legendary Pirate
+[10/11/2024 23:36]  Maloka: [4:20, MOZO]
+[10/11/2024 23:36]  Maloka: Lady Maloka
+[10/11/2024 23:36]  Galimatias: Heralded Gladiator
+[10/11/2024 23:36]  Galimatias: Lord Galimatias
+[10/11/2024 23:36]  an undead wizard: Seasoned Strategist
+[10/11/2024 23:36]  an undead wizard: [EVIL]
+[10/11/2024 23:36]  an undead wizard: an undead wizard
+[10/11/2024 23:36]  Bartholmeus: vendor buy bank guards stable room
+[10/11/2024 23:36]  You see: veteran hedge mage crewmember contract
+[10/11/2024 23:36]  You see: (800 base doubloon cost)
+[10/11/2024 23:36]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:36]  Aphra: Expressive
+[10/11/2024 23:36]  Aphra: [Officer, NEW!]
+[10/11/2024 23:36]  Aphra: Lady Aphra
+[10/11/2024 23:36]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:36]  Sinaloa: Sinaloa
+[10/11/2024 23:36]  Dr Bitty: [The Tavern], [tT]
+[10/11/2024 23:36]  Dr Bitty: Dr Bitty
+[10/11/2024 23:36]  Bitty Inc: Bitty Inc
+[10/11/2024 23:36]  Oflu: Wilderness Legend
+[10/11/2024 23:36]  Oflu: [Veteran, G.G]
+[10/11/2024 23:36]  Oflu: Lady Oflu
+[10/11/2024 23:36]  Lewle: Wilderness Savior
+[10/11/2024 23:36]  Lewle: [RDY]
+[10/11/2024 23:36]  Lewle: Lewle
+[10/11/2024 23:36]  a horse: (tame)
+[10/11/2024 23:36]  a horse: a horse
+[10/11/2024 23:36]  Standford: Standford the provisioner
+[10/11/2024 23:36]  a horse: *released*
+[10/11/2024 23:36]  a horse: a horse
+[10/11/2024 23:36]  Fahrettin: [GALATASARAY, -_-]
+[10/11/2024 23:36]  Fahrettin: Lord Fahrettin
+[10/11/2024 23:36]  Givon: Givon the tailor
+[10/11/2024 23:36]  You see: a storage shelf
+[10/11/2024 23:36]  Tawnie: Tawnie the bowyer
+[10/11/2024 23:36]  Aponi: Aponi the cobbler
+[10/11/2024 23:36]  System: You may only access this container while it is in your bank box, a ship's hold, or a house.
+[10/11/2024 23:36]  Delmore: Delmore the ranger
+[10/11/2024 23:36]  Jeff Cavaliere: Enhanced
+[10/11/2024 23:36]  Jeff Cavaliere: [Born, RDY]
+[10/11/2024 23:36]  Jeff Cavaliere: Jeff Cavaliere
+[10/11/2024 23:36]  Givon: Givon the tailor
+[10/11/2024 23:36]  Margaret: Margaret the baker
+[10/11/2024 23:36]  Nevada: Nevada the architect
+[10/11/2024 23:36]  Natasha: Natasha the tinker
+[10/11/2024 23:36]  You see: a prevalia trunk
+[10/11/2024 23:36]  You see: (0 items, 0 stones)
+[10/11/2024 23:36]  Kurt: Kurt the real estate broker
+[10/11/2024 23:36]  Nyssa: Nyssa the tanner
+[10/11/2024 23:36]  Shady Jack: Legendary Scribe
+[10/11/2024 23:36]  Shady Jack: [Juicy, SQzD]
+[10/11/2024 23:36]  Shady Jack: Lord Shady Jack
+[10/11/2024 23:36]  Sagara: Sagara the banker
+[10/11/2024 23:36]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:36]  Maloka: Legendary Pirate
+[10/11/2024 23:36]  Maloka: [4:20, MOZO]
+[10/11/2024 23:36]  Maloka: Lady Maloka
+[10/11/2024 23:36]  Bartholmeus: Legendary Boss Slayer
+[10/11/2024 23:36]  Bartholmeus: [Major, DKR]
+[10/11/2024 23:36]  Bartholmeus: Lord Bartholmeus
+[10/11/2024 23:36]  Bellrocks: Triggered
+[10/11/2024 23:36]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:36]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:36]  Bellrocks: Triggered
+[10/11/2024 23:36]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:36]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:36]  Bellrocks: Triggered
+[10/11/2024 23:36]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:36]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:36]  Bartholmeus: Legendary Boss Slayer
+[10/11/2024 23:36]  Bartholmeus: [Major, DKR]
+[10/11/2024 23:36]  Bartholmeus: Lord Bartholmeus
+[10/11/2024 23:36]  Maloka: Legendary Pirate
+[10/11/2024 23:36]  Maloka: [4:20, MOZO]
+[10/11/2024 23:36]  Maloka: Lady Maloka
+[10/11/2024 23:36]  Fahrettin: [GALATASARAY, -_-]
+[10/11/2024 23:36]  Fahrettin: Lord Fahrettin
+[10/11/2024 23:36]  Bellrocks: Triggered
+[10/11/2024 23:36]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:36]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:36]  Delmore: Delmore the ranger
+[10/11/2024 23:36]  Hammerbell: [Keeper Of Lies], [D^O]
+[10/11/2024 23:36]  Hammerbell: Hammerbell
+[10/11/2024 23:36]  Tawnie: Tawnie the bowyer
+[10/11/2024 23:36]  Aponi: Aponi the cobbler
+[10/11/2024 23:37]  a horse: *released*
+[10/11/2024 23:37]  a horse: a horse
+[10/11/2024 23:37]  Ingmar: Ingmar the banker
+[10/11/2024 23:37]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:37]  You see: unholy lexicon
+[10/11/2024 23:37]  System: Being perfectly rested, you shove them out of the way.
+[10/11/2024 23:37]  Bitty Inc: Bitty Inc
+[10/11/2024 23:37]  Jeff Cavaliere: Enhanced
+[10/11/2024 23:37]  Jeff Cavaliere: [Born, RDY]
+[10/11/2024 23:37]  Jeff Cavaliere: Jeff Cavaliere
+[10/11/2024 23:37]  a horse: (tame)
+[10/11/2024 23:37]  a horse: a horse
+[10/11/2024 23:37]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:37]  Calendonia: Calendonia the banker
+[10/11/2024 23:37]  Dr Bitty: [The Tavern], [tT]
+[10/11/2024 23:37]  Dr Bitty: Dr Bitty
+[10/11/2024 23:37]  sudo rm rf: Time Savior
+[10/11/2024 23:37]  sudo rm rf: sudo rm rf
+[10/11/2024 23:37]  Zemeckis: Weaponmaster
+[10/11/2024 23:37]  Zemeckis: Zemeckis
+[10/11/2024 23:37]  Tilikum: [sangre X, SxS]
+[10/11/2024 23:37]  Tilikum: Tilikum
+[10/11/2024 23:37]  a horse: (tame)
+[10/11/2024 23:37]  a horse: a horse
+[10/11/2024 23:37]  Calendonia: Calendonia the banker
+[10/11/2024 23:37]  a horse: (tame)
+[10/11/2024 23:37]  a horse: a horse
+[10/11/2024 23:37]  You see: exceptional witch hunter's hood
+[10/11/2024 23:37]  Isaac Netero: Aegis Keep Hero
+[10/11/2024 23:37]  Isaac Netero: [Veteran, -_-]
+[10/11/2024 23:37]  Isaac Netero: Lord Isaac Netero
+[10/11/2024 23:37]  Galimatias: Heralded Gladiator
+[10/11/2024 23:37]  Galimatias: Lord Galimatias
+[10/11/2024 23:37]  Aphra: Expressive
+[10/11/2024 23:37]  Aphra: [Officer, NEW!]
+[10/11/2024 23:37]  Aphra: Lady Aphra
+[10/11/2024 23:37]  Dhamonick: [Good Guy, G.G]
+[10/11/2024 23:37]  Dhamonick: Lord Dhamonick
+[10/11/2024 23:37]  Juggs Dukeness: Mythic of Aspects
+[10/11/2024 23:37]  Juggs Dukeness: [G.G]
+[10/11/2024 23:37]  Juggs Dukeness: Lord Juggs Dukeness
+[10/11/2024 23:37]  System: Being perfectly rested, you shove them out of the way.
+[10/11/2024 23:37]  Aema: Captain
+[10/11/2024 23:37]  Aema: Lady Aema
+[10/11/2024 23:37]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:38]  Maloka: Legendary Pirate
+[10/11/2024 23:38]  Maloka: [4:20, MOZO]
+[10/11/2024 23:38]  Maloka: Lady Maloka
+[10/11/2024 23:38]  Bartholmeus: vendor buy bank guards stable room
+[10/11/2024 23:38]  Dr Bitty: [The Tavern], [tT]
+[10/11/2024 23:38]  Dr Bitty: Dr Bitty
+[10/11/2024 23:38]  Bin Laggin-: BANK
+[10/11/2024 23:38]  Linnea: Wow, you look fabulous, darling!
+[10/11/2024 23:38]  Bartholmeus: vendor buy bank guards stable room
+[10/11/2024 23:38]  Aema: Captain
+[10/11/2024 23:38]  Aema: Lady Aema
+[10/11/2024 23:38]  Rhoneus: [Henchman, Syn]
+[10/11/2024 23:38]  Rhoneus: Rhoneus
+[10/11/2024 23:38]  Dhamonick: Bank Guards I ban thee
+[10/11/2024 23:38]  Trane: Trane
+[10/11/2024 23:38]  Linnea: Wow, you look fabulous, darling!
+[10/11/2024 23:38]  Trane: bank
+[10/11/2024 23:38]  PoundCake: Prospector
+[10/11/2024 23:38]  PoundCake: [Elite, NC]
+[10/11/2024 23:38]  PoundCake: Lord PoundCake
+[10/11/2024 23:39]  System: Being perfectly rested, you shove them out of the way.
+[10/11/2024 23:39]  Calendonia: Calendonia the banker
+[10/11/2024 23:39]  Jeff Cavaliere: Enhanced
+[10/11/2024 23:39]  Jeff Cavaliere: [Born, RDY]
+[10/11/2024 23:39]  Jeff Cavaliere: Jeff Cavaliere
+[10/11/2024 23:39]  Sagara: Sagara the banker
+[10/11/2024 23:39]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:39]  Alodie: Alodie the banker
+[10/11/2024 23:39]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:39]  Tyrok: [Lieutenant, Syn.]
+[10/11/2024 23:39]  Tyrok: Lord Tyrok
+[10/11/2024 23:39]  Glenn: Glenn the banker
+[10/11/2024 23:39]  Agatha all along: Agatha all along
+[10/11/2024 23:39]  Haid D'Salaami: Haid D'Salaami
+[10/11/2024 23:39]  Oflu: Wilderness Legend
+[10/11/2024 23:39]  Oflu: [Veteran, G.G]
+[10/11/2024 23:39]  Oflu: Lady Oflu
+[10/11/2024 23:39]  Agatha all along: Agatha all along
+[10/11/2024 23:39]  Haid D'Salaami: Haid D'Salaami
+[10/11/2024 23:39]  Sinaloa: Sinaloa
+[10/11/2024 23:39]  Maloka: Legendary Pirate
+[10/11/2024 23:39]  Maloka: [4:20, MOZO]
+[10/11/2024 23:39]  Maloka: Lady Maloka
+[10/11/2024 23:39]  Bin Laggin-: BANK
+[10/11/2024 23:39]  Scarlet Moon: [Ripe, SQzD]
+[10/11/2024 23:39]  Scarlet Moon: Scarlet Moon
+[10/11/2024 23:39]  Bin Laggin-: BANK
+[10/11/2024 23:39]  Frights: Legendary Connoisseur
+[10/11/2024 23:39]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:39]  Frights: Lord Frights
+[10/11/2024 23:39]  Dexter MOrgn: [New Player, NP$]
+[10/11/2024 23:39]  Dexter MOrgn: Dexter MOrgn
+[10/11/2024 23:39]  Haid D'Salaami: Haid D'Salaami
+[10/11/2024 23:39]  Slippery Jane: Kraul Hive Legend
+[10/11/2024 23:39]  Slippery Jane: [Juicy, SQzD]
+[10/11/2024 23:39]  Slippery Jane: Lady Slippery Jane
+[10/11/2024 23:39]  Ailiin: [Ripe, SQzD]
+[10/11/2024 23:39]  Ailiin: Ailiin
+[10/11/2024 23:39]  You see: skeletal sunflowers
+[10/11/2024 23:39]  You see: (hue 1995: metallic wine)
+[10/11/2024 23:39]  Bitty Inc: Bitty Inc
+[10/11/2024 23:39]  Oflu: Wilderness Legend
+[10/11/2024 23:39]  Oflu: [Veteran, G.G]
+[10/11/2024 23:39]  Oflu: Lady Oflu
+[10/11/2024 23:40]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:40]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:40]  Maloka: Legendary Pirate
+[10/11/2024 23:40]  Maloka: [4:20, MOZO]
+[10/11/2024 23:40]  Maloka: Lady Maloka
+[10/11/2024 23:40]  Fahrettin: [GALATASARAY, -_-]
+[10/11/2024 23:40]  Fahrettin: Lord Fahrettin
+[10/11/2024 23:40]  Sagara: Sagara the banker
+[10/11/2024 23:40]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:40]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:40]  Tyrok: [Lieutenant, Syn.]
+[10/11/2024 23:40]  Tyrok: Lord Tyrok
+[10/11/2024 23:40]  Standford: Standford the provisioner
+[10/11/2024 23:40]  Givon: Givon the tailor
+[10/11/2024 23:40]  Kurt: Kurt the real estate broker
+[10/11/2024 23:40]  Aponi: Aponi the cobbler
+[10/11/2024 23:40]  Pearce: Pearce the banker
+[10/11/2024 23:40]  Fri Day: [Yew]
+[10/11/2024 23:40]  Fri Day: Fri Day
+[10/11/2024 23:40]  Pearce: Greetings.  Have a look around.
+[10/11/2024 23:40]  Alodie: Alodie the banker
+[10/11/2024 23:40]  Calendonia: Calendonia the banker
+[10/11/2024 23:40]  Fahrettin: [GALATASARAY, -_-]
+[10/11/2024 23:40]  Fahrettin: Lord Fahrettin
+[10/11/2024 23:40]  PoundCake: Prospector
+[10/11/2024 23:40]  PoundCake: [Elite, NC]
+[10/11/2024 23:40]  PoundCake: Lord PoundCake
+[10/11/2024 23:40]  Glenn: Glenn the banker
+[10/11/2024 23:40]  System: Being perfectly rested, you shove them out of the way.
+[10/11/2024 23:40]  Sagara: Sagara the banker
+[10/11/2024 23:40]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:40]  Alodie: Alodie the banker
+[10/11/2024 23:40]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:40]  Tyrok: [Lieutenant, Syn.]
+[10/11/2024 23:40]  Tyrok: Lord Tyrok
+[10/11/2024 23:40]  Agatha all along: Agatha all along
+[10/11/2024 23:40]  Haid D'Salaami: Haid D'Salaami
+[10/11/2024 23:40]  Aema: Captain
+[10/11/2024 23:40]  Aema: Lady Aema
+[10/11/2024 23:40]  Pex Storm: Boss Slayer
+[10/11/2024 23:40]  Pex Storm: [Henchman, Syn]
+[10/11/2024 23:40]  Pex Storm: Lord Pex Storm
+[10/11/2024 23:40]  Leon: Leon the rare mason
+[10/11/2024 23:40]  Calendonia: Calendonia the banker
+[10/11/2024 23:40]  Glenn: Glenn the banker
+[10/11/2024 23:40]  a horse: (bonded)
+[10/11/2024 23:40]  a horse: a horse
+[10/11/2024 23:40]  Frights: Legendary Connoisseur
+[10/11/2024 23:40]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:40]  Frights: Lord Frights
+[10/11/2024 23:40]  Ace: Ace the miner
+[10/11/2024 23:40]  Leon: Leon the rare mason
+[10/11/2024 23:40]  Leon: Greetings.  Have a look around.
+[10/11/2024 23:40]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:40]  Ace: Ace the miner
+[10/11/2024 23:40]  Givon: Givon the tailor
+[10/11/2024 23:40]  Standford: Standford the provisioner
+[10/11/2024 23:40]  Bond: Bond the blacksmith
+[10/11/2024 23:40]  Kurt: Kurt the real estate broker
+[10/11/2024 23:40]  Aponi: Aponi the cobbler
+[10/11/2024 23:40]  Nyssa: Nyssa the tanner
+[10/11/2024 23:40]  Nevada: Nevada the architect
+[10/11/2024 23:40]  Natasha: Natasha the tinker
+[10/11/2024 23:40]  Qamra: Qamra the blacksmith
+[10/11/2024 23:40]  Astrid: Astrid the tailor
+[10/11/2024 23:40]  Errol: Errol the provisioner
+[10/11/2024 23:40]  Juggs Dukeness: Mythic of Aspects
+[10/11/2024 23:40]  Juggs Dukeness: [G.G]
+[10/11/2024 23:40]  Juggs Dukeness: Lord Juggs Dukeness
+[10/11/2024 23:40]  Shaka Kahn: [EVIL]
+[10/11/2024 23:40]  Shaka Kahn: Lord Shaka Kahn
+[10/11/2024 23:40]  Isaac Netero: Aegis Keep Hero
+[10/11/2024 23:40]  Isaac Netero: [Veteran, -_-]
+[10/11/2024 23:40]  Isaac Netero: Lord Isaac Netero
+[10/11/2024 23:40]  Galimatias: Heralded Gladiator
+[10/11/2024 23:40]  Galimatias: Lord Galimatias
+[10/11/2024 23:40]  a horse: (tame)
+[10/11/2024 23:40]  a horse: a horse
+[10/11/2024 23:40]  Maloka: Legendary Pirate
+[10/11/2024 23:40]  Maloka: [4:20, MOZO]
+[10/11/2024 23:40]  Maloka: Lady Maloka
+[10/11/2024 23:40]  Errol: Errol the provisioner
+[10/11/2024 23:40]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:40]  Aphra: Expressive
+[10/11/2024 23:40]  Aphra: [Officer, NEW!]
+[10/11/2024 23:40]  Aphra: Lady Aphra
+[10/11/2024 23:40]  Slippery Jane: Kraul Hive Legend
+[10/11/2024 23:40]  Slippery Jane: [Juicy, SQzD]
+[10/11/2024 23:40]  Slippery Jane: Lady Slippery Jane
+[10/11/2024 23:40]  Fri Day: [Yew]
+[10/11/2024 23:40]  Fri Day: Fri Day
+[10/11/2024 23:40]  Pearce: Pearce the banker
+[10/11/2024 23:40]  Linnea: Linnea the Prevalian stylist
+[10/11/2024 23:40]  Thaur'Ug: Thaur'Ug
+[10/11/2024 23:40]  Scarlet Moon: [Ripe, SQzD]
+[10/11/2024 23:40]  Scarlet Moon: Scarlet Moon
+[10/11/2024 23:40]  Kallos: (bonded)
+[10/11/2024 23:40]  Kallos: Kallos
+[10/11/2024 23:40]  Callion: [Guardian, KoU]
+[10/11/2024 23:40]  Callion: Callion
+[10/11/2024 23:40]  a horse: (tame)
+[10/11/2024 23:40]  a horse: a horse
+[10/11/2024 23:40]  Sunbrite: [Moondim, NKB]
+[10/11/2024 23:40]  Sunbrite: Lady Sunbrite
+[10/11/2024 23:40]  an undead wizard: Seasoned Strategist
+[10/11/2024 23:40]  an undead wizard: [EVIL]
+[10/11/2024 23:40]  an undead wizard: an undead wizard
+[10/11/2024 23:40]  Trane: Trane
+[10/11/2024 23:40]  Shuen Di: Legendarily Triggered
+[10/11/2024 23:40]  Shuen Di: [-_-]
+[10/11/2024 23:40]  Shuen Di: Lord Shuen Di
+[10/11/2024 23:40]  Dr Bitty: [The Tavern], [tT]
+[10/11/2024 23:40]  Dr Bitty: Dr Bitty
+[10/11/2024 23:40]  Asrai Rexxar: Asrai Rexxar
+[10/11/2024 23:40]  Zemeckis: Weaponmaster
+[10/11/2024 23:40]  Zemeckis: Zemeckis
+[10/11/2024 23:40]  Dexter MOrgn: [New Player, NP$]
+[10/11/2024 23:40]  Dexter MOrgn: Dexter MOrgn
+[10/11/2024 23:40]  Xyster: Pirate
+[10/11/2024 23:40]  Xyster: [Syn]
+[10/11/2024 23:40]  Xyster: Xyster
+[10/11/2024 23:40]  Bin Laggin-: Triggered
+[10/11/2024 23:40]  Bin Laggin-: Bin Laggin-
+[10/11/2024 23:40]  Dhamonick: [Good Guy, G.G]
+[10/11/2024 23:40]  Dhamonick: Lord Dhamonick
+[10/11/2024 23:40]  Tilikum: [sangre X, SxS]
+[10/11/2024 23:40]  Tilikum: Tilikum
+[10/11/2024 23:40]  a wild crab: Legend of Aspects
+[10/11/2024 23:40]  a wild crab: [Officer, G.G]
+[10/11/2024 23:40]  a wild crab: Lord a wild crab
+[10/11/2024 23:40]  Ajaz: Ajaz
+[10/11/2024 23:40]  Margaret: Margaret the baker
+[10/11/2024 23:40]  Martha: Martha the cook
+[10/11/2024 23:40]  Jakesh: Jakesh the Prevalian merchant
+[10/11/2024 23:40]  a wild crab: Legend of Aspects
+[10/11/2024 23:40]  a wild crab: [Officer, G.G]
+[10/11/2024 23:40]  a wild crab: Lord a wild crab
+[10/11/2024 23:40]  Dhamonick: [Good Guy, G.G]
+[10/11/2024 23:40]  Dhamonick: Lord Dhamonick
+[10/11/2024 23:40]  a horse: (tame)
+[10/11/2024 23:40]  a horse: a horse
+[10/11/2024 23:40]  Sunbrite: [Moondim, NKB]
+[10/11/2024 23:40]  Sunbrite: Lady Sunbrite
+[10/11/2024 23:40]  Shaka Kahn: [EVIL]
+[10/11/2024 23:40]  Shaka Kahn: Lord Shaka Kahn
+[10/11/2024 23:40]  Asrai Rexxar: Asrai Rexxar
+[10/11/2024 23:40]  Fri Day: [Yew]
+[10/11/2024 23:40]  Fri Day: Fri Day
+[10/11/2024 23:40]  Bartholmeus: Legendary Boss Slayer
+[10/11/2024 23:40]  Bartholmeus: [Major, DKR]
+[10/11/2024 23:40]  Bartholmeus: Lord Bartholmeus
+[10/11/2024 23:40]  Tawnie: Tawnie the bowyer
+[10/11/2024 23:40]  Delmore: Delmore the ranger
+[10/11/2024 23:40]  Fahrettin: [GALATASARAY, -_-]
+[10/11/2024 23:40]  Fahrettin: Lord Fahrettin
+[10/11/2024 23:40]  Trane: Trane
+[10/11/2024 23:40]  Oflu: Wilderness Legend
+[10/11/2024 23:40]  Oflu: [Veteran, G.G]
+[10/11/2024 23:40]  Oflu: Lady Oflu
+[10/11/2024 23:40]  Sinaloa: Sinaloa
+[10/11/2024 23:40]  sudo rm rf: Time Savior
+[10/11/2024 23:40]  sudo rm rf: sudo rm rf
+[10/11/2024 23:40]  Aurelia: Aurelia the Town Crier
+[10/11/2024 23:40]  a horse: *released*
+[10/11/2024 23:40]  a horse: a horse
+[10/11/2024 23:41]  Bellrocks: Triggered
+[10/11/2024 23:41]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:41]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:41]  Bellrocks: Triggered
+[10/11/2024 23:41]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:41]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:41]  Bellrocks: Triggered
+[10/11/2024 23:41]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:41]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:41]  Taemon: [Loyal, NKB]
+[10/11/2024 23:41]  Taemon: Lord Taemon
+[10/11/2024 23:41]  Bellrocks: Triggered
+[10/11/2024 23:41]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:41]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:41]  Bellrocks: Triggered
+[10/11/2024 23:41]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:41]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:41]  Bellrocks: Triggered
+[10/11/2024 23:41]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:41]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:41]  Ne'rull: [Elder, Urk]
+[10/11/2024 23:41]  Ne'rull: Ne'rull
+[10/11/2024 23:41]  Bellrocks: Triggered
+[10/11/2024 23:41]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:41]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:41]  Morgoth Bauglir: Renowned Zoologist
+[10/11/2024 23:41]  Morgoth Bauglir: Lord Morgoth Bauglir
+[10/11/2024 23:42]  Bellrocks: Triggered
+[10/11/2024 23:42]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:42]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:42]  System: tOXc has completed the achievement: Engineer (Basic).
+[10/11/2024 23:42]  Benifold: Benifold
+[10/11/2024 23:42]  Slippery Jane: Kraul Hive Legend
+[10/11/2024 23:42]  Slippery Jane: [Juicy, SQzD]
+[10/11/2024 23:42]  Slippery Jane: Lady Slippery Jane
+[10/11/2024 23:42]  Merrlin: Merrlin
+[10/11/2024 23:42]  Shaka Kahn: [EVIL]
+[10/11/2024 23:42]  Shaka Kahn: Lord Shaka Kahn
+[10/11/2024 23:42]  Overheat: Time Guardian
+[10/11/2024 23:42]  Overheat: [AWN]
+[10/11/2024 23:42]  Overheat: Lord Overheat
+[10/11/2024 23:43]  Adepta Sororitas: Legendary Brilliance
+[10/11/2024 23:43]  Adepta Sororitas: [The God Emperor Protects, DoK]
+[10/11/2024 23:43]  Adepta Sororitas: Lady Adepta Sororitas
+[10/11/2024 23:43]  a horse: *released*
+[10/11/2024 23:43]  a horse: a horse
+[10/11/2024 23:43]  Tilikum: [sangre X, SxS]
+[10/11/2024 23:43]  Tilikum: Tilikum
+[10/11/2024 23:43]  Dr Bitty: [The Tavern], [tT]
+[10/11/2024 23:43]  Dr Bitty: Dr Bitty
+[10/11/2024 23:43]  Bellethee: [Private, AOG]
+[10/11/2024 23:43]  Bellethee: Lady Bellethee
+[10/11/2024 23:43]  a horse: *released*
+[10/11/2024 23:43]  a horse: a horse
+[10/11/2024 23:43]  Merrlin: In Vas Mani
+[10/11/2024 23:43]  a horse: (bonded)
+[10/11/2024 23:43]  a horse: a horse
+[10/11/2024 23:44]  Bitty Inc: Bitty Inc
+[10/11/2024 23:44]  Shaka Kahn: [EVIL]
+[10/11/2024 23:44]  Shaka Kahn: Lord Shaka Kahn
+[10/11/2024 23:44]  Tilikum: [sangre X, SxS]
+[10/11/2024 23:44]  Tilikum: Tilikum
+[10/11/2024 23:44]  Time-locked Aoki: Time Guardian
+[10/11/2024 23:44]  Time-locked Aoki: [SOF]
+[10/11/2024 23:44]  Time-locked Aoki: Time-locked Aoki
+[10/11/2024 23:44]  Bellrocks: Triggered
+[10/11/2024 23:44]  Bellrocks: [Dungeon Master], [D^O]
+[10/11/2024 23:44]  Bellrocks: Lord Bellrocks
+[10/11/2024 23:44]  Bellethee: [Private, AOG]
+[10/11/2024 23:44]  Bellethee: Lady Bellethee
+[10/11/2024 23:44]  Bartholmeus: Legendary Boss Slayer
+[10/11/2024 23:44]  Bartholmeus: [Major, DKR]
+[10/11/2024 23:44]  Bartholmeus: Lord Bartholmeus
+[10/11/2024 23:44]  Frights: Legendary Connoisseur
+[10/11/2024 23:44]  Frights: [Squirrel Master, HiTi]
+[10/11/2024 23:44]  Frights: Lord Frights
+[10/11/2024 23:44]  Tilikum: [sangre X, SxS]
+[10/11/2024 23:44]  Tilikum: Tilikum
+[10/11/2024 23:44]  Aphra: Expressive
+[10/11/2024 23:44]  Aphra: [Officer, NEW!]
+[10/11/2024 23:44]  Aphra: Lady Aphra
+[10/11/2024 23:44]  Cilobonci: Scribe
+[10/11/2024 23:44]  Cilobonci: [Syn]
+[10/11/2024 23:44]  Cilobonci: Lord Cilobonci

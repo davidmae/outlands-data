@@ -145,6 +145,7 @@
 	<macro name="TargetNearest" key="0" mousebutton="4" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="50" subcode="205" submenutype="1" />
+			<action code="27" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
 	<macro name="PrepareSteal" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">

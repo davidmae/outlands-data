@@ -1,6 +1,6 @@
 {
   "enable_sound": true,
-  "sound_volume": 36,
+  "sound_volume": 55,
   "enable_music": true,
   "music_volume": 36,
   "foot_steps_volume": 50,
@@ -229,8 +229,8 @@
   "override_all_fonts": false,
   "override_all_fonts_is_unicode": true,
   "sallos_easy_grab": false,
-  "containers_scale": 200,
-  "items_scale": 115,
+  "containers_scale": 150,
+  "items_scale": 100,
   "double_click_to_loot_inside_containers": true,
   "relative_drag_and_drop_items": false,
   "highlight_container_when_selected": true,

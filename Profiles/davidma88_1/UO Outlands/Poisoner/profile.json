@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 90,
   "circle_of_transparency_type": 2,
   "vendor_gump_height": 504,
-  "default_scale": 1.0000002,
+  "default_scale": 0.5000001,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
