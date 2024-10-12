@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="3" matrix_h="2">
+		<gump type="7" x="2" y="275" serial="1014" name="Circle Trans" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="90" y="275" serial="1006" name="Salute" graphicId="701" hideLabel="False" scale="2" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="134" y="275" serial="1005" name="Bow" graphicId="701" hideLabel="False" scale="2" matrix_x="2" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="3">
+		<gump type="16" x="1001" y="346" serial="0" id="9" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="1001" y="346" serial="0" id="9" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="1001" y="390" serial="0" id="15" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="1001" y="390" serial="0" id="15" matrix_x="1" matrix_y="1" />
+		<gump type="16" x="1001" y="434" serial="0" id="22" matrix_x="0" matrix_y="2" />
+		<gump type="16" x="1001" y="434" serial="0" id="22" matrix_x="1" matrix_y="2" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="3" matrix_h="4">
+		<gump type="7" x="1090" y="346" serial="1047" name="AddEssence" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="1178" y="346" serial="1044" name="SplitGold" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="1" />
+		<gump type="7" x="1090" y="390" serial="1042" name="DressPVE#1" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="2" />
+		<gump type="7" x="1178" y="390" serial="1022" name="RestockBank" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="2" />
+		<gump type="7" x="1090" y="434" serial="1020" name="InfoItem" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="3" />
+		<gump type="7" x="1178" y="434" serial="1038" name="DroopLoot" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="3" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="3" matrix_h="2">
+		<gump type="7" x="1105" y="490" serial="1041" name="Terran" graphicId="236" hideLabel="False" scale="0.8" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1149" y="490" serial="1040" name="BardBuff" graphicId="108" hideLabel="False" scale="1" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="1213" y="490" serial="1043" name="Stats" graphicId="355" hideLabel="False" scale="0.6" matrix_x="2" matrix_y="0" />
+	</anchored_group_gump>
+	<gump type="19" x="1078" y="561" serial="0" minimized="False" />
+	<gump type="20" x="1163" y="575" serial="0" minimized="True" />
+	<gump type="9" x="1024" y="8" serial="5891706" isminimized="False" />
+	<gump type="5" x="815" y="720" serial="1" />
+	<gump type="5" x="487" y="685" serial="0" />
+	<gump type="3" x="460" y="713" serial="0" rows="2" columns="8" rectsize="44">
+		<controls>
+			<control graphic="3617" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="5370" hue="2799" key="119" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3852" hue="0" key="101" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3847" hue="0" key="97" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3851" hue="0" key="115" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="3846" hue="0" key="100" mousebutton="0" alt="True" ctrl="False" shift="False" />
+			<control graphic="0" hue="0" />
+			<control graphic="27538" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3903" hue="0" />
+			<control graphic="7163" hue="0" />
+			<control graphic="8901" hue="0" />
+		</controls>
+	</gump>
+	<gump type="21" x="1056" y="615" serial="0" />
+	<gump type="1" x="958" y="19" serial="0" graphic="30079" direction="0" />
+	<gump type="25" x="767" y="38" serial="0" entryname="skill" />
+	<gump type="24" x="607" y="35" serial="0" />
+	<gump type="8" x="452" y="-150" serial="0" isminimized="False" />
+	<gump type="27" x="201" y="277" serial="0" />
+	<gump type="18" x="1" y="1" serial="0" />
+</gumps>

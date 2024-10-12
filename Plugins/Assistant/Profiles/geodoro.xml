@@ -214,7 +214,7 @@
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x42CD5966" name="myVariable" />
+		<scriptvariable serial="0x43E3BBC9" name="myVariable" />
 		<scriptvariable serial="0x56F61D10" name="my_loot_to_id_bag" />
 		<scriptvariable serial="0x7018634A" name="$container" />
 		<scriptvariable serial="0x430894D5" name="item" />

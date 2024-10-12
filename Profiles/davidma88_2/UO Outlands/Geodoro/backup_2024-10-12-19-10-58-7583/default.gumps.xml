@@ -15,11 +15,13 @@
 		<gump type="7" x="703" y="734" serial="1044" name="DroopLoot" graphicId="11546" hideLabel="False" scale="1.2" matrix_x="1" matrix_y="0" />
 	</anchored_group_gump>
 	<gump type="9" x="266" y="756" serial="3262917" isminimized="False" />
-	<gump type="2" x="839" y="431" serial="1182295987" graphic="75" isminimized="False" iscarried="False" />
 	<gump type="2" x="1169" y="277" serial="1270825796" graphic="73" isminimized="False" iscarried="False" />
+	<gump type="2" x="356" y="373" serial="1671216079" graphic="60" isminimized="False" iscarried="False" />
+	<gump type="2" x="1132" y="696" serial="1371318338" graphic="60" isminimized="False" iscarried="False" />
+	<gump type="2" x="838" y="431" serial="1182295987" graphic="75" isminimized="False" iscarried="False" />
 	<gump type="2" x="821" y="704" serial="1371318332" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="16" x="1066" y="671" serial="0" id="3" />
 	<gump type="10" x="837" y="-3" serial="0" isminimized="False" height="430" />
+	<gump type="16" x="684" y="617" serial="0" id="3" />
 	<gump type="24" x="517" y="24" serial="0" />
 	<gump type="5" x="365" y="380" serial="1" />
 	<gump type="5" x="502" y="708" serial="0" />
