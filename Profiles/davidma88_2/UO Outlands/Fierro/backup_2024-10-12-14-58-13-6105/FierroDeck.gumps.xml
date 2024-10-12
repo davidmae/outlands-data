@@ -19,6 +19,12 @@
 	</anchored_group_gump>
 	<gump type="9" x="1010" y="6" serial="6890869" isminimized="False" />
 	<gump type="2" x="970" y="497" serial="1625778011" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="15" x="768" y="617" serial="0" id="45" />
+	<gump type="1" x="943" y="26" serial="0" graphic="30079" direction="0" />
+	<gump type="24" x="583" y="36" serial="0" />
+	<gump type="5" x="517" y="2" serial="0" />
+	<gump type="5" x="606" y="417" serial="1" />
+	<gump type="27" x="675" y="478" serial="0" />
 	<gump type="3" x="444" y="675" serial="0" rows="3" columns="9" rectsize="40">
 		<controls>
 			<control graphic="7133" hue="0" />
@@ -50,11 +56,5 @@
 			<control graphic="3981" hue="0" />
 		</controls>
 	</gump>
-	<gump type="27" x="675" y="478" serial="0" />
-	<gump type="5" x="606" y="417" serial="1" />
-	<gump type="5" x="517" y="2" serial="0" />
-	<gump type="24" x="583" y="36" serial="0" />
-	<gump type="1" x="943" y="26" serial="0" graphic="30079" direction="0" />
-	<gump type="15" x="768" y="617" serial="0" id="45" />
 	<gump type="18" x="-1" y="3" serial="0" />
 </gumps>

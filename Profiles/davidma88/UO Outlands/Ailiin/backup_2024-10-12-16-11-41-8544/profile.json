@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 640,
-  "default_scale": 1,
+  "default_scale": 0.9,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -102,8 +102,8 @@
   "game_window_full_size": true,
   "window_borderless": true,
   "game_window_size": {
-    "X": 1280,
-    "Y": 800
+    "X": 1920,
+    "Y": 1080
   },
   "topbar_gump_position": {
     "X": 646,
@@ -267,8 +267,8 @@
   "block_looting_allied_corpses_in_grid_loot": true,
   "ignore_innocent_corpses": false,
   "enable_client_side_stam_block": true,
-  "world_map_width": 251,
-  "world_map_height": 268,
+  "world_map_width": 307,
+  "world_map_height": 276,
   "world_map_font": 3,
   "world_map_flip_map": true,
   "world_map_top_most": false,

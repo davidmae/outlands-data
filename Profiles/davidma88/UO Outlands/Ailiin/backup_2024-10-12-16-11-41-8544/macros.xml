@@ -156,7 +156,7 @@
 	</macro>
 	<macro name="DiscNearest" key="50" mousebutton="0" alt="True" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\DiscordNearest" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\DiscordNearest" />
 		</actions>
 	</macro>
 	<macro name="NobleSacr" key="113" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -249,7 +249,7 @@
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\PeaceNearest" />
 		</actions>
 	</macro>
-	<macro name="ProvoNearest" key="0" mousebutton="2" alt="True" ctrl="False" shift="False">
+	<macro name="ProvoNearest" key="0" mousebutton="2" alt="False" ctrl="True" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\ProvoNearest" />
 		</actions>

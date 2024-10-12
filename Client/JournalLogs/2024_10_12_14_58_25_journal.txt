@@ -1,0 +1,322 @@
+[10/12/2024 14:58]  System: WorldMap loading...
+[10/12/2024 14:58]  System: Loading WorldMap markers..
+[10/12/2024 14:58]  System: ..Banks_and_Healers.xml (39)
+[10/12/2024 14:58]  System: ..Dungeons.xml (13)
+[10/12/2024 14:58]  System: ..Dungeon_Gates.xml (392)
+[10/12/2024 14:58]  System: ..Healer_Caravans.xml (42)
+[10/12/2024 14:58]  System: ..Kings_Faire.xml (49)
+[10/12/2024 14:58]  System: ..Moongates.xml (10)
+[10/12/2024 14:58]  System: ..POI.xml (251)
+[10/12/2024 14:58]  System: ..PvP_Locations.xml (71)
+[10/12/2024 14:58]  System: ..Shrines.xml (9)
+[10/12/2024 14:58]  System: ..Sub-Dungeons.xml (4)
+[10/12/2024 14:58]  System: ..Townships.xml (10)
+[10/12/2024 14:58]  System: ..UOAM_Atlas.xml (1887)
+[10/12/2024 14:58]  System: ..UOAM_T-Map.xml (255)
+[10/12/2024 14:58]  System: ..UOAM_Treasure.xml (523)
+[10/12/2024 14:58]  System: WorldMap markers loaded (3555)
+[10/12/2024 14:58]  System: Welcome Poisoner!
+[10/12/2024 14:58]  System: WorldMap loaded!
+[10/12/2024 14:58]  Poisoner: Poisoner
+[10/12/2024 14:58]  a horse: (tame)
+[10/12/2024 14:58]  a horse: a horse
+[10/12/2024 14:58]  System: You have rejoined the party.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:58]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:58]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Grimmire has completed the achievement: Connoisseur (Epic).
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 14:59]  System: StarInc has completed the achievement: Cartographer (Basic).
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 14:59]  System: Alchemy skillgain: 2.000%
+[10/12/2024 14:59]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: [SR] A Stygian Rifts event has begun!
+[10/12/2024 15:00]  System: That must be in your pack for you to use it.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.4/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Your skill in Focus has decreased by 0.1.  It is now 35.4.
+[10/12/2024 15:00]  System: Your skill in Alchemy has increased by 0.1.  It is now 72.5.
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: You have worn out your tool!
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.5/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Your skill in Focus has decreased by 0.1.  It is now 35.3.
+[10/12/2024 15:00]  System: Your skill in Alchemy has increased by 0.1.  It is now 72.6.
+[10/12/2024 15:00]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.6/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:00]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:00]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Abbs has completed the achievement: Cartographer (Basic).
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:01]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:01]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You pour the potion into a bottle.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Alchemy skillgain: 2.000%
+[10/12/2024 15:02]  System: Greater Poison Potion (72.6/90.0 skill): You fail to create a useful potion.
+[10/12/2024 15:02]  System: Greater Poison Potion: You don't have the resources required to make that item.
+[10/12/2024 15:02]  System: Greater Poison Potion: You don't have the resources required to make that item.
+[10/12/2024 15:02]  System: Crafting queue complete.
+[10/12/2024 15:03]  System: Centurion. has completed the achievement: Transmutation (Advanced).
+[10/12/2024 15:03]  System: MIJAOBBA has completed the achievement: Landowner (Basic).
+[10/12/2024 15:05]  System: Kasimira has completed the achievement: Wilderness Hunter (Intermediate).
+[10/12/2024 15:06]  System: A house is in danger of collapsing at (1535, 2994, 0).
+[10/12/2024 15:06]  System: The world will save in 15 seconds.
+[10/12/2024 15:06]  System: The world is saving, please wait.
+[10/12/2024 15:06]  System: World save complete. The entire process took 2.6 seconds.
+[10/12/2024 15:07]  System: Dorkinator has completed the achievement: Affluent (Advanced).
+[10/12/2024 15:08]  System: Supple Irons has completed the achievement: Blacksmith (Advanced).
+[10/12/2024 15:08]  System: Dirt Grub has completed the achievement: Leatherworker (Basic).
+[10/12/2024 15:09]  System: Xytras has completed the achievement: Aspect Mastery (Basic).
+[10/12/2024 15:10]  System: fack has completed the achievement: Expressive (Mythical).
+[10/12/2024 15:11]  System: Ronnie the Rat has completed the achievement: Tradesman Union Initiate.

@@ -11,13 +11,18 @@
 		<gump type="7" x="1068" y="1011" serial="1015" name="Last Target" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="0" />
 		<gump type="7" x="1156" y="1011" serial="1018" name="LastObject" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
 	</anchored_group_gump>
-	<gump type="9" x="82" y="64" serial="3247949" isminimized="False" />
-	<gump type="2" x="531" y="170" serial="1323385255" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="2" x="544" y="305" serial="1270814709" graphic="73" isminimized="False" iscarried="False" />
-	<gump type="2" x="274" y="122" serial="1671216080" graphic="60" isminimized="False" iscarried="False" />
 	<gump type="10" x="1001" y="132" serial="0" isminimized="False" height="534" />
-	<gump type="4" x="1091" y="43" serial="3247949" />
-	<gump type="7" x="1658" y="345" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="2" x="544" y="305" serial="1270814709" graphic="73" isminimized="False" iscarried="False" />
+	<gump type="2" x="441" y="94" serial="1671216080" graphic="60" isminimized="False" iscarried="False" />
+	<gump type="2" x="710" y="124" serial="1672790152" graphic="60" isminimized="False" iscarried="False" />
+	<gump type="2" x="189" y="132" serial="1323385255" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="9" x="82" y="64" serial="3247949" isminimized="False" />
+	<gump type="1" x="1492" y="26" serial="0" graphic="30079" direction="0" />
+	<gump type="5" x="656" y="1" serial="0" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="8" x="441" y="-148" serial="0" isminimized="False" />
+	<gump type="24" x="771" y="50" serial="0" />
+	<gump type="7" x="360" y="9" serial="1032" name="CT" graphicId="0" hideLabel="False" scale="1" />
 	<gump type="3" x="1828" y="0" serial="0" rows="25" columns="2" rectsize="43">
 		<controls>
 			<control graphic="3617" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -72,12 +77,8 @@
 			<control graphic="0" hue="0" />
 		</controls>
 	</gump>
-	<gump type="7" x="360" y="9" serial="1032" name="CT" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="24" x="771" y="50" serial="0" />
-	<gump type="8" x="441" y="-148" serial="0" isminimized="False" />
-	<gump type="27" x="860" y="478" serial="0" />
-	<gump type="5" x="656" y="1" serial="0" />
-	<gump type="1" x="1492" y="26" serial="0" graphic="30079" direction="0" />
+	<gump type="7" x="1658" y="345" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="4" x="1091" y="43" serial="3247949" />
 	<gump type="21" x="1283" y="876" serial="0" />
 	<gump type="18" x="1" y="-1" serial="0" />
 	<gump type="6" x="24" y="462" serial="0" />

@@ -15,6 +15,11 @@
 			<action code="8" subcode="12" submenutype="1" />
 		</actions>
 	</macro>
+	<macro name="Open Status Bar" key="115" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="8" subcode="11" submenutype="1" />
+		</actions>
+	</macro>
 	<macro name="Backpack" key="105" mousebutton="0" alt="True" ctrl="False" shift="False">
 		<actions>
 			<action code="8" subcode="16" submenutype="1" />
@@ -52,7 +57,7 @@
 	</macro>
 	<macro name="Bank" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\EasySays\BankRoomMain" />
+			<action code="1" subcode="0" submenutype="2" text="bank room vendor buy" />
 		</actions>
 	</macro>
 	<macro name="Lockdown Item" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -83,6 +88,11 @@
 	<macro name="Target Self" key="0" mousebutton="8" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="23" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Pouch" key="98" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[pouch" />
 		</actions>
 	</macro>
 	<macro name="LastObject" key="122" mousebutton="0" alt="False" ctrl="True" shift="False">
@@ -125,9 +135,17 @@
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\CampingRecall2" />
 		</actions>
 	</macro>
+	<macro name="TargetNearest" key="0" mousebutton="4" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="50" subcode="205" submenutype="1" />
+			<action code="27" subcode="0" submenutype="0" />
+			<action code="13" subcode="48" submenutype="1" />
+			<action code="53" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
 	<macro name="PeaceNearest" key="49" mousebutton="0" alt="True" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\PeaceNearest" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PeaceNearest" />
 		</actions>
 	</macro>
 	<macro name="Peace" key="49" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -150,13 +168,12 @@
 	<macro name="TargetNearest1" key="186" mousebutton="0" alt="True" ctrl="False" shift="False">
 		<actions>
 			<action code="50" subcode="205" submenutype="1" />
-			<action code="53" subcode="0" submenutype="0" />
 			<action code="27" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
 	<macro name="DiscNearest" key="50" mousebutton="0" alt="True" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\DiscordNearest" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\DiscordNearest" />
 		</actions>
 	</macro>
 	<macro name="NobleSacr" key="113" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -174,6 +191,11 @@
 			<action code="69" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
+	<macro name="ProvokNearest" key="51" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\ProvokNearest" />
+		</actions>
+	</macro>
 	<macro name="Peace+Disc" key="49" mousebutton="0" alt="False" ctrl="True" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PeaceNearest+Discord" />
@@ -189,9 +211,19 @@
 			<action code="1" subcode="0" submenutype="2" text="[SacredJourney" />
 		</actions>
 	</macro>
-	<macro name="Escape" key="98" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Escape" key="109" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Escape" />
+		</actions>
+	</macro>
+	<macro name="ProvokeNearest2" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\ProvokNearest" />
+		</actions>
+	</macro>
+	<macro name="DropLootBank" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\DropLootInBank" />
 		</actions>
 	</macro>
 	<macro name="DroopLoot" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -201,62 +233,42 @@
 	</macro>
 	<macro name="DiscNearest2" key="0" mousebutton="5" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\DiscordNearest" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\DiscordNearest" />
+		</actions>
+	</macro>
+	<macro name="ProvokeNearestAuto" key="0" mousebutton="2" alt="False" ctrl="True" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\ProvokNearest" />
+		</actions>
+	</macro>
+	<macro name="UltraBuff" key="97" mousebutton="0" alt="True" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\UltraBuff" />
 		</actions>
 	</macro>
 	<macro name="BardBuff" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\BardBuff" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\BardBuff" />
 		</actions>
 	</macro>
-	<macro name="Terran" key="98" mousebutton="0" alt="True" ctrl="False" shift="False">
+	<macro name="Minar" key="1073741906" mousebutton="0" alt="True" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Mobility\Terran" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Crafting-ItemHandling\Minar" />
 		</actions>
 	</macro>
-	<macro name="DressPVE#1" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Stop" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\ToggleDressPVE#1" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Stop" />
 		</actions>
 	</macro>
-	<macro name="Stats" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Fundir" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="[playerstats" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Crafting-ItemHandling\Fundir" />
 		</actions>
 	</macro>
-	<macro name="SplitGold" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Dress_1" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\SplitGold" />
-		</actions>
-	</macro>
-	<macro name="BardBot" key="0" mousebutton="2" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\BardBot" />
-		</actions>
-	</macro>
-	<macro name="Carve" key="103" mousebutton="0" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\Carve" />
-		</actions>
-	</macro>
-	<macro name="AddEssence" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\AddEssence" />
-		</actions>
-	</macro>
-	<macro name="PeaceNearest1" key="0" mousebutton="4" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\PeaceNearest" />
-		</actions>
-	</macro>
-	<macro name="ProvoNearest" key="0" mousebutton="2" alt="True" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\ProvoNearest" />
-		</actions>
-	</macro>
-	<macro name="Stop" key="27" mousebutton="0" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\_Stop" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVE\ToggleDressPVE#1" />
 		</actions>
 	</macro>
 </macros>
