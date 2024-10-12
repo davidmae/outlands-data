@@ -1,0 +1,1383 @@
+[10/12/2024 11:37]  System: WorldMap loading...
+[10/12/2024 11:37]  System: Loading WorldMap markers..
+[10/12/2024 11:37]  System: ..Banks_and_Healers.xml (39)
+[10/12/2024 11:37]  System: ..Dungeons.xml (13)
+[10/12/2024 11:37]  System: ..Dungeon_Gates.xml (392)
+[10/12/2024 11:37]  System: ..Healer_Caravans.xml (42)
+[10/12/2024 11:37]  System: ..Kings_Faire.xml (49)
+[10/12/2024 11:37]  System: ..Moongates.xml (10)
+[10/12/2024 11:37]  System: ..POI.xml (251)
+[10/12/2024 11:37]  System: ..PvP_Locations.xml (71)
+[10/12/2024 11:37]  System: ..Shrines.xml (9)
+[10/12/2024 11:37]  System: ..Sub-Dungeons.xml (4)
+[10/12/2024 11:37]  System: ..Townships.xml (10)
+[10/12/2024 11:37]  System: ..UOAM_Atlas.xml (1887)
+[10/12/2024 11:37]  System: ..UOAM_T-Map.xml (255)
+[10/12/2024 11:37]  System: ..UOAM_Treasure.xml (523)
+[10/12/2024 11:37]  System: WorldMap markers loaded (3555)
+[10/12/2024 11:37]  System: Welcome Geodoro!
+[10/12/2024 11:37]  Geodoro: Geodoro
+[10/12/2024 11:37]  Poisoner: Poisoner
+[10/12/2024 11:37]  a horse: (tame)
+[10/12/2024 11:37]  a horse: a horse
+[10/12/2024 11:37]  a horse: (tame)
+[10/12/2024 11:37]  a horse: a horse
+[10/12/2024 11:37]  System: WorldMap loaded!
+[10/12/2024 11:37]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/12/2024 11:37]  You see: iron ingot : 55
+[10/12/2024 11:37]  System: You must wait to perform another action.
+[10/12/2024 11:37]  You see: leather : 96
+[10/12/2024 11:37]  System: BigChungusTheG has completed the achievement: Artificers Enclave Dignitary.
+[10/12/2024 11:39]  System: BigShow has completed the achievement: Cartographer (Epic).
+[10/12/2024 11:39]  [Razor]: Select target for variable 'item'
+[10/12/2024 11:39]  [Razor]: Select target for variable 'item'
+[10/12/2024 11:39]  [Razor]: Select target for variable 'container'
+[10/12/2024 11:39]  System: The world will save in 15 seconds.
+[10/12/2024 11:39]  System: The world is saving, please wait.
+[10/12/2024 11:39]  System: World save complete. The entire process took 2.5 seconds.
+[10/12/2024 11:40]  [Razor]: Target an item to add.
+[10/12/2024 11:40]  [Razor]: Item added.
+[10/12/2024 11:40]  [Razor]: Target a Container.
+[10/12/2024 11:40]  [Razor]: Container set successfully.
+[10/12/2024 11:40]  [Razor]: Organize Agent queued 12 item(s) to be moved. (This may take a few moments)
+[10/12/2024 11:40]  System: CroatzOCE has completed the achievement: Skill Proficiency (Basic).
+[10/12/2024 11:40]  [Razor]: Finished 12 queued actions in 6.6 seconds.
+[10/12/2024 11:41]  You see: leather : 2064
+[10/12/2024 11:41]  You see: board : 7
+[10/12/2024 11:42]  System: Crafting queue begun.
+[10/12/2024 11:42]  System: Skillet: Skipped
+[10/12/2024 11:42]  System: Cooked Ribs: Skipped
+[10/12/2024 11:42]  System: Sewing Kit: Skipped
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.3/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Your skill in Tailoring has increased by 0.1.  It is now 67.4.
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:42]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:42]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.4/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Your skill in Tailoring has increased by 0.1.  It is now 67.5.
+[10/12/2024 11:43]  System: Leather Gloves (67.5/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.5/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.5/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.5/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.5/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.5/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Your skill in Tailoring has increased by 0.1.  It is now 67.6.
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: www.samsung.com has completed the achievement: Artificers Enclave Dignitary.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:43]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:43]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:44]  System: Cham has completed the achievement: Tailor (Advanced).
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:44]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:44]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:45]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Memento-Mori (MEMO) guild has reached prestige level 12.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: You have worn out your tool!
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Banksitters Anonymous (BsA) guild has reached prestige level 3.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:45]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:45]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: DuBL BuBL has completed the achievement: Scientist (Basic).
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.6/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Your skill in Tailoring has increased by 0.1.  It is now 67.7.
+[10/12/2024 11:46]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:46]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:46]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:47]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:47]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:48]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:48]  System: Leather Gloves (67.7/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Taylor The Swift has completed the achievement: Mugger (Advanced).
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:49]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:49]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: You have worn out your tool!
+[10/12/2024 11:50]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.7/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.7/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Your skill in Tailoring has increased by 0.1.  It is now 67.8.
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:50]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:50]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Afrodite Warlord has completed the achievement: Connoisseur (Advanced).
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:51]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:51]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.8/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Your skill in Tailoring has increased by 0.1.  It is now 67.9.
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:52]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:52]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: You have worn out your tool!
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:53]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:53]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:54]  System: The world will save in 15 seconds.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: The world is saving, please wait.
+[10/12/2024 11:54]  System: World save complete. The entire process took 2.4 seconds.
+[10/12/2024 11:54]  System: Leather Gloves: You must wait to perform another action.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:54]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:54]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:55]  System: Lost in Tides (LiT) guild has reached prestige level 15.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Al'Stitcher Guo has completed the achievement: Artificers Enclave Luminary.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:55]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:55]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: You have worn out your tool!
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:56]  System: Eat at Joes has completed the achievement: Echosmith (Basic).
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:56]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:56]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:57]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:57]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:58]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:58]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 11:59]  System: Tailoring skillgain: 1.875%
+[10/12/2024 11:59]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: [DF] A Dungeon Flashpoint for Inferno has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: You have worn out your tool!
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:00]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:00]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:01]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:01]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (67.9/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Your skill in Tailoring has increased by 0.1.  It is now 68.0.
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Helena Chan has completed the achievement: Raffler (Epic).
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.0/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Your skill in Tailoring has increased by 0.1.  It is now 68.1.
+[10/12/2024 12:02]  System: Leather Gloves (68.1/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.1/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.1/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.1/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.1/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.1/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.1/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.1/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Your skill in Tailoring has increased by 0.1.  It is now 68.2.
+[10/12/2024 12:02]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.2/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:02]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:02]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You failed to create the item, and some of your materials are lost.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create the item.
+[10/12/2024 12:03]  System: Tailoring skillgain: 1.875%
+[10/12/2024 12:03]  System: Leather Gloves (68.2/70.0 skill): You create an exceptional quality item.
+[10/12/2024 12:03]  System: Leather Gloves: You don't have the resources required to make that item.
+[10/12/2024 12:03]  System: Leather Gloves: You don't have the resources required to make that item.
+[10/12/2024 12:03]  System: Leather Cap: You don't have the resources required to make that item.
+[10/12/2024 12:03]  System: Leather Cap: You don't have the resources required to make that item.
+[10/12/2024 12:03]  System: Club: Skipped
+[10/12/2024 12:03]  System: Crafting queue complete.
+[10/12/2024 12:06]  System: Hardy Har Har (RDRR) guild has reached prestige level 3.
+[10/12/2024 12:09]  System: The world will save in 15 seconds.
+[10/12/2024 12:09]  System: The world is saving, please wait.
+[10/12/2024 12:09]  System: World save complete. The entire process took 2.6 seconds.
+[10/12/2024 12:10]  System: Neepers has completed the achievement: Alchemist (Epic).
+[10/12/2024 12:14]  System: Choco Caramel has completed the achievement: Order of Armorers Dignitary.
+[10/12/2024 12:15]  You see: leather : 3

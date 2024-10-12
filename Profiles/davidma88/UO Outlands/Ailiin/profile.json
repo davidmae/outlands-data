@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 640,
-  "default_scale": 0.9000001,
+  "default_scale": 0.9,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -113,7 +113,7 @@
   "topbar_gump_is_disabled": false,
   "use_alternative_lights": false,
   "use_custom_light_level": true,
-  "light_level": 5,
+  "light_level": 11,
   "use_colored_lights": true,
   "use_dark_nights": false,
   "close_health_bar_type": 2,
@@ -213,8 +213,8 @@
   "grid_loot_type": 2,
   "grid_loot_close_when_zero": true,
   "grid_loot_position": {
-    "X": 729,
-    "Y": 119
+    "X": 1008,
+    "Y": 344
   },
   "grid_loot_size": {
     "X": 4,
@@ -274,7 +274,7 @@
   "world_map_top_most": false,
   "world_map_free_view": false,
   "world_map_show_party": true,
-  "world_map_zoom_index": 6,
+  "world_map_zoom_index": 5,
   "world_map_show_coordinates": true,
   "world_map_show_mobiles": true,
   "world_map_show_player_name": true,

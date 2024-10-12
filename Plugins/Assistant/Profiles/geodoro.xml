@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1067</property>
-	<property name="WindowY" type="System.Int32">107</property>
+	<property name="WindowX" type="System.Int32">1098</property>
+	<property name="WindowY" type="System.Int32">-991</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -186,7 +186,9 @@
 		<Organizer-17 hotbag="0" />
 		<Organizer-18 hotbag="0" />
 		<Organizer-19 hotbag="0" />
-		<Organizer-20 hotbag="0" />
+		<Organizer-20 hotbag="1671216080">
+			<item id="3739" />
+		</Organizer-20>
 		<Restock-1 hotbag="1182295987">
 			<item id="2546" amount="500" />
 		</Restock-1>
@@ -212,9 +214,11 @@
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables>
-		<scriptvariable serial="0x408F5CA3" name="myVariable" />
+		<scriptvariable serial="0x42CD5966" name="myVariable" />
 		<scriptvariable serial="0x56F61D10" name="my_loot_to_id_bag" />
 		<scriptvariable serial="0x7018634A" name="$container" />
+		<scriptvariable serial="0x430894D5" name="item" />
+		<scriptvariable serial="0x639CBBD0" name="container" />
 	</scriptvariables>
 	<friends />
 	<textfilters />
