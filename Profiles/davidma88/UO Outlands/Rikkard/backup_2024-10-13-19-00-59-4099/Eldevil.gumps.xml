@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="7" x="451" y="1089" serial="1018" name="LastObject" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="5" x="300" y="300" serial="1" />
+	<gump />
+	<gump type="9" x="1641" y="15" serial="1951856" isminimized="False" />
+	<gump type="2" x="1568" y="355" serial="1215879064" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="2" x="180" y="180" serial="1215879070" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="10" x="1276" y="28" serial="0" isminimized="False" height="646" />
+	<gump type="1" x="1535" y="29" serial="0" graphic="30079" direction="0" />
+	<gump type="7" x="1756" y="352" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="7" x="640" y="1081" serial="1037" name="Carve" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="5" x="806" y="7" serial="0" />
+	<gump type="24" x="888" y="30" serial="0" />
+	<gump type="8" x="476" y="-139" serial="0" isminimized="False" />
+	<gump type="16" x="397" y="1" serial="0" id="38" />
+	<gump type="3" x="764" y="958" serial="0" rows="27" columns="1" rectsize="42">
+		<controls>
+			<control graphic="3903" hue="0" />
+			<control graphic="3617" hue="0" />
+			<control graphic="3922" hue="0" />
+			<control graphic="3999" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3821" hue="0" />
+			<control graphic="24436" hue="0" />
+			<control graphic="3553" hue="0" />
+			<control graphic="11552" hue="0" key="52" mousebutton="0" alt="False" ctrl="False" shift="False" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+		</controls>
+	</gump>
+	<gump type="21" x="1349" y="859" serial="0" />
+	<gump type="18" x="4" y="4" serial="0" />
+	<gump type="6" x="17" y="767" serial="0" />
+</gumps>
