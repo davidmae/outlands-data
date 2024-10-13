@@ -53,9 +53,7 @@
 		<gump type="7" x="1615" y="440" serial="1031" name="BankRoomVendor" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
 	</anchored_group_gump>
 	<gump type="9" x="1619" y="4" serial="1258595" isminimized="False" />
-	<gump type="10" x="40" y="317" serial="0" isminimized="False" height="418" />
 	<gump type="2" x="1550" y="488" serial="1160050294" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="15" x="1771" y="337" serial="0" id="32" />
 	<gump type="3" x="1878" y="-1" serial="0" rows="27" columns="1" rectsize="42">
 		<controls>
 			<control graphic="52149" hue="2876" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -96,6 +94,8 @@
 	<gump type="25" x="982" y="76" serial="0" entryname="SmokeBomb" />
 	<gump type="5" x="789" y="0" serial="0" />
 	<gump type="15" x="1555" y="313" serial="0" id="30" />
+	<gump type="4" x="1140" y="36" serial="1258595" />
+	<gump type="15" x="1771" y="337" serial="0" id="32" />
 	<gump type="24" x="846" y="91" serial="0" />
 	<gump type="21" x="1591" y="848" serial="0" />
 	<gump type="18" x="11" y="23" serial="0" />

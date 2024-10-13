@@ -5,12 +5,12 @@
 		<gump type="7" x="515" y="51" serial="1006" name="Salute" graphicId="701" hideLabel="False" scale="2" matrix_x="1" matrix_y="0" />
 	</anchored_group_gump>
 	<anchored_group_gump matrix_w="2" matrix_h="3">
-		<gump type="16" x="479" y="109" serial="0" id="9" matrix_x="0" matrix_y="0" />
-		<gump type="16" x="479" y="109" serial="0" id="9" matrix_x="1" matrix_y="0" />
-		<gump type="16" x="479" y="153" serial="0" id="15" matrix_x="0" matrix_y="1" />
-		<gump type="16" x="479" y="153" serial="0" id="15" matrix_x="1" matrix_y="1" />
-		<gump type="16" x="479" y="197" serial="0" id="22" matrix_x="0" matrix_y="2" />
-		<gump type="16" x="479" y="197" serial="0" id="22" matrix_x="1" matrix_y="2" />
+		<gump type="16" x="375" y="169" serial="0" id="9" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="375" y="169" serial="0" id="9" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="375" y="213" serial="0" id="15" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="375" y="213" serial="0" id="15" matrix_x="1" matrix_y="1" />
+		<gump type="16" x="375" y="257" serial="0" id="22" matrix_x="0" matrix_y="2" />
+		<gump type="16" x="375" y="257" serial="0" id="22" matrix_x="1" matrix_y="2" />
 	</anchored_group_gump>
 	<anchored_group_gump matrix_w="2" matrix_h="3">
 		<gump type="7" x="1594" y="349" serial="1040" name="BardBuff" graphicId="108" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
@@ -29,10 +29,26 @@
 		<gump type="7" x="1722" y="434" serial="1038" name="DroopLoot" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="3" />
 		<gump type="7" x="1810" y="434" serial="1020" name="InfoItem" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="3" />
 	</anchored_group_gump>
-	<gump type="20" x="87" y="324" serial="0" minimized="True" />
-	<gump type="19" x="4" y="325" serial="0" minimized="False" />
+	<anchored_group_gump matrix_w="1" matrix_h="2">
+		<gump matrix_x="0" matrix_y="0" />
+		<gump matrix_x="0" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="20" x="376" y="119" serial="0" minimized="True" />
+	<gump type="19" x="376" y="62" serial="0" minimized="False" />
+	<gump type="2" x="185" y="131" serial="1211492944" graphic="9" isminimized="False" iscarried="False" />
 	<gump type="9" x="1629" y="14" serial="5891706" isminimized="False" />
-	<gump type="2" x="1597" y="506" serial="1547581360" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="2" x="185" y="131" serial="1211479093" graphic="9" isminimized="False" iscarried="False" />
+	<gump type="4" x="714" y="24" serial="5891706" />
+	<gump type="2" x="1547" y="512" serial="1547581360" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="7" x="911" y="7" serial="1053" name="Cooldowns" graphicId="30077" hideLabel="True" scale="1.6" />
+	<gump type="7" x="597" y="49" serial="1051" name="OpenAllCorpses" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="1" x="1566" y="24" serial="0" graphic="30079" direction="0" />
+	<gump type="7" x="1379" y="974" serial="1052" name="WeaponAbility2" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="8" x="455" y="-145" serial="0" isminimized="False" />
+	<gump type="27" x="201" y="277" serial="0" />
+	<gump type="5" x="1149" y="989" serial="1" />
+	<gump type="5" x="839" y="961" serial="0" />
+	<gump type="7" x="369" y="10" serial="1014" name="Circle Trans" graphicId="0" hideLabel="False" scale="1" />
 	<gump type="3" x="790" y="988" serial="0" rows="2" columns="8" rectsize="44">
 		<controls>
 			<control graphic="3617" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -43,8 +59,8 @@
 			<control graphic="3846" hue="0" key="100" mousebutton="0" alt="True" ctrl="False" shift="False" />
 			<control graphic="3853" hue="0" key="102" mousebutton="0" alt="True" ctrl="False" shift="False" />
 			<control graphic="27538" hue="0" />
-			<control graphic="3849" hue="0" />
-			<control graphic="3848" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
@@ -53,16 +69,6 @@
 			<control graphic="8901" hue="0" />
 		</controls>
 	</gump>
-	<gump type="7" x="471" y="4" serial="1014" name="Circle Trans" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="8" x="551" y="-143" serial="0" isminimized="False" />
-	<gump type="7" x="597" y="49" serial="1051" name="OpenAllCorpses" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="4" x="714" y="24" serial="5891706" />
-	<gump type="7" x="911" y="7" serial="1053" name="Cooldowns" graphicId="30077" hideLabel="True" scale="1.6" />
-	<gump type="1" x="1566" y="24" serial="0" graphic="30079" direction="0" />
-	<gump type="7" x="1379" y="974" serial="1052" name="WeaponAbility2" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="27" x="201" y="277" serial="0" />
-	<gump type="5" x="1149" y="989" serial="1" />
-	<gump type="5" x="839" y="961" serial="0" />
 	<gump type="24" x="909" y="42" serial="0" />
 	<gump type="25" x="1106" y="39" serial="0" entryname="skill" />
 	<gump type="21" x="1692" y="880" serial="0" />

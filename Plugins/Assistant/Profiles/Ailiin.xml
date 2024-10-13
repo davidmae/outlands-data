@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">True</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1005</property>
-	<property name="WindowY" type="System.Int32">-927</property>
+	<property name="WindowX" type="System.Int32">619</property>
+	<property name="WindowY" type="System.Int32">141</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,8 +27,8 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">759</property>
-	<property name="RazorHeight" type="System.Int32">658</property>
+	<property name="RazorWidth" type="System.Int32">790</property>
+	<property name="RazorHeight" type="System.Int32">697</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
@@ -48,7 +48,7 @@
 	<property name="MapY" type="System.Int32">200</property>
 	<property name="MapW" type="System.Int32">200</property>
 	<property name="MapH" type="System.Int32">200</property>
-	<property name="ShowPartyStats" type="System.Boolean">True</property>
+	<property name="ShowPartyStats" type="System.Boolean">False</property>
 	<property name="PartyStatFmt" type="System.String">[{0}% / {1}%]</property>
 	<property name="HotKeyStop" type="System.Boolean">False</property>
 	<property name="DiffTargetByType" type="System.Boolean">False</property>
@@ -266,23 +266,22 @@
 	</agents>
 	<dresslists>
 		<list name="pve_1">
-			<item serial="1589520468" />
-			<item serial="1669602800" />
-			<item serial="1669602806" />
-			<item serial="1078718640" />
 			<item serial="1377856117" />
-			<item serial="1572418405" />
-			<item serial="1835152941" />
-			<item serial="1406957086" />
-			<item serial="1547581378" />
-			<item serial="1879631214" />
-			<item serial="1146359900" />
-			<item serial="1669602803" />
 			<item serial="1138189883" />
-			<item serial="1835227340" />
-			<item serial="1429887125" />
+			<item serial="1514260661" />
+			<item serial="1669602800" />
+			<item serial="1834602897" />
+			<item serial="1146359900" />
+			<item serial="1879631214" />
 			<item serial="1547581380" />
-			<item serial="1572420450" />
+			<item serial="1096015105" />
+			<item serial="1197463485" />
+			<item serial="1547581378" />
+			<item serial="1669602806" />
+			<item serial="1477954420" />
+			<item serial="1547581379" />
+			<item serial="1093334050" />
+			<item serial="1892268570" />
 		</list>
 	</dresslists>
 	<hotkeys />

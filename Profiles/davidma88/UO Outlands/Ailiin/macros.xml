@@ -269,4 +269,19 @@
 			<action code="1" subcode="0" submenutype="2" text="[WeaponAbility2" />
 		</actions>
 	</macro>
+	<macro name="Cooldowns" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Prevalia" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Mobility\Prevalia" />
+		</actions>
+	</macro>
+	<macro name="Shelter" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Mobility\Shelter" />
+		</actions>
+	</macro>
 </macros>
