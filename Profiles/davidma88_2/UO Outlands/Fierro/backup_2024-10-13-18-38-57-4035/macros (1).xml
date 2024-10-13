@@ -57,11 +57,7 @@
 	</macro>
 	<macro name="Bank" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-<<<<<<<< Updated upstream:Profiles/davidma88_2/UO Outlands/Fierro/backup_2024-10-10-19-46-28-4574/macros.xml
 			<action code="1" subcode="0" submenutype="2" text="bank room vendor buy" />
-========
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma/EasySays/BankRoomMain" />
->>>>>>>> Stashed changes:Profiles/davidma88_2/UO Outlands/Fierro/backup_2024-10-09-18-50-59-2970/macros.xml
 		</actions>
 	</macro>
 	<macro name="Lockdown Item" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -255,11 +251,7 @@
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\BardBuff" />
 		</actions>
 	</macro>
-<<<<<<<< Updated upstream:Profiles/davidma88_2/UO Outlands/Fierro/backup_2024-10-10-19-46-28-4574/macros.xml
-	<macro name="Minar" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
-========
 	<macro name="Minar" key="1073741906" mousebutton="0" alt="True" ctrl="False" shift="False">
->>>>>>>> Stashed changes:Profiles/davidma88_2/UO Outlands/Fierro/backup_2024-10-09-18-50-59-2970/macros.xml
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Crafting-ItemHandling\Minar" />
 		</actions>
