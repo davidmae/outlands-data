@@ -1,0 +1,113 @@
+[10/14/2024 16:27]  System: WorldMap loading...
+[10/14/2024 16:27]  System: Loading WorldMap markers..
+[10/14/2024 16:27]  System: ..Banks_and_Healers.xml (39)
+[10/14/2024 16:27]  System: ..Dungeons.xml (13)
+[10/14/2024 16:27]  System: ..Dungeon_Gates.xml (392)
+[10/14/2024 16:27]  System: ..Healer_Caravans.xml (42)
+[10/14/2024 16:27]  System: ..Kings_Faire.xml (49)
+[10/14/2024 16:27]  System: ..Moongates.xml (10)
+[10/14/2024 16:27]  System: ..POI.xml (251)
+[10/14/2024 16:27]  System: ..PvP_Locations.xml (71)
+[10/14/2024 16:27]  System: ..Shrines.xml (9)
+[10/14/2024 16:27]  System: ..Sub-Dungeons.xml (4)
+[10/14/2024 16:27]  System: ..Townships.xml (10)
+[10/14/2024 16:27]  System: ..UOAM_Atlas.xml (1887)
+[10/14/2024 16:27]  System: ..UOAM_T-Map.xml (255)
+[10/14/2024 16:27]  System: ..UOAM_Treasure.xml (523)
+[10/14/2024 16:27]  System: WorldMap markers loaded (3555)
+[10/14/2024 16:27]  System: Welcome Rikkard!
+[10/14/2024 16:27]  Razor: [- (s)]
+[10/14/2024 16:27]  Razor: [+Tracking Hunting (0s)]
+[10/14/2024 16:27]  Razor: [- (s)]
+[10/14/2024 16:27]  Razor: [+Food Satisfaction (2393s)]
+[10/14/2024 16:27]  Razor: [-Tracking Hunting (s)]
+[10/14/2024 16:27]  Rikkard: Rikkard (Young)
+[10/14/2024 16:27]  a thrush: a thrush
+[10/14/2024 16:27]  a chickadee: a chickadee
+[10/14/2024 16:27]  Cyrus: Cyrus the lumberjack
+[10/14/2024 16:27]  a plover: a plover
+[10/14/2024 16:27]  Kevin: Kevin the guard
+[10/14/2024 16:27]  a pack horse: (tame)
+[10/14/2024 16:27]  a pack horse: [0/2000 stones]
+[10/14/2024 16:27]  a pack horse: [0/125 items]
+[10/14/2024 16:27]  a pack horse: a pack horse
+[10/14/2024 16:27]  a pack horse: (tame)
+[10/14/2024 16:27]  a pack horse: [0/2000 stones]
+[10/14/2024 16:27]  a pack horse: [0/125 items]
+[10/14/2024 16:27]  a pack horse: a pack horse
+[10/14/2024 16:27]  Satzumi: Satzumi
+[10/14/2024 16:27]  HolyWarrior: HolyWarrior (Young)
+[10/14/2024 16:27]  Black Is Fuel: [Lesser Kalami, CN]
+[10/14/2024 16:27]  Black Is Fuel: Black Is Fuel
+[10/14/2024 16:27]  Marti: Marti the healer
+[10/14/2024 16:27]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/14/2024 16:27]  System: WorldMap loaded!
+[10/14/2024 16:27]  a plover: a plover
+[10/14/2024 16:27]  a pack horse: (tame)
+[10/14/2024 16:27]  a pack horse: [0/2000 stones]
+[10/14/2024 16:27]  a pack horse: [0/125 items]
+[10/14/2024 16:27]  a pack horse: a pack horse
+[10/14/2024 16:27]  a pack horse: (tame)
+[10/14/2024 16:27]  a pack horse: [0/2000 stones]
+[10/14/2024 16:27]  a pack horse: [0/125 items]
+[10/14/2024 16:27]  a pack horse: a pack horse
+[10/14/2024 16:27]  xxxDitto: xxxDitto (Young)
+[10/14/2024 16:27]  Salty Treats: Salty Treats (Young)
+[10/14/2024 16:28]  Ezar Lex: Ezar Lex (Young)
+[10/14/2024 16:28]  Salty Treats: Salty Treats (Young)
+[10/14/2024 16:28]  a thrush: a thrush
+[10/14/2024 16:28]  HolyWarrior: HolyWarrior (Young)
+[10/14/2024 16:28]  System: You do not have that spell!
+[10/14/2024 16:28]  a plover: a plover
+[10/14/2024 16:28]  System: You do not have that spell!
+[10/14/2024 16:28]  Rikkard: Por Ort Grav
+[10/14/2024 16:28]  System: You do not have that spell!
+[10/14/2024 16:28]  System: You do not have that spell!
+[10/14/2024 16:28]  CroatzOCE: Daemonic Slayer
+[10/14/2024 16:28]  CroatzOCE: Lord CroatzOCE
+[10/14/2024 16:28]  Razor: Target: Rikkard
+[10/14/2024 16:28]  Razor: * Target *
+[10/14/2024 16:28]  System: EvalInt skillgain: 11.776%
+[10/14/2024 16:28]  Lootaio: Lootaio (Young)
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  CroatzOCE: Daemonic Slayer
+[10/14/2024 16:28]  CroatzOCE: Lord CroatzOCE
+[10/14/2024 16:28]  Rikkard: Target: a chickadee
+[10/14/2024 16:28]  Razor: Attack: a chickadee
+[10/14/2024 16:28]  System: You do not have that spell!
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  System: 16% arcane buildup.
+[10/14/2024 16:28]  System: You have gained a little fame.
+[10/14/2024 16:28]  System: You have gained a little karma.
+[10/14/2024 16:28]  System: -25
+[10/14/2024 16:28]  You see: a bird corpse
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  Rikkard: Target: a plover
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  Razor: Attack: a plover
+[10/14/2024 16:28]  System: You do not have that spell!
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  System: 32% arcane buildup.
+[10/14/2024 16:28]  System: You have gained a little fame.
+[10/14/2024 16:28]  System: You have gained a little karma.
+[10/14/2024 16:28]  System: -25
+[10/14/2024 16:28]  You see: a bird corpse
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  System: Entity not found.
+[10/14/2024 16:28]  HumanCase: HumanCase
+[10/14/2024 16:28]  System: Entity not found.
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  System: Meditation skillgain: 3.676%
+[10/14/2024 16:28]  System: You do not have that spell!
+[10/14/2024 16:28]  a thrush: a thrush
+[10/14/2024 16:28]  System: 12% arcane buildup.
+[10/14/2024 16:28]  Salty Treats: Salty Treats (Young)
+[10/14/2024 16:29]  System: 0% arcane buildup.
+[10/14/2024 16:29]  Moshik: [7n]
+[10/14/2024 16:29]  Moshik: Lord Moshik
+[10/14/2024 16:29]  Ezar Lex: Ezar Lex (Young)
+[10/14/2024 16:29]  LiuKang: LiuKang
+[10/14/2024 16:30]  Cyrus: I will teach thee all I know, if paid the amount in full.  The price is: 91
+[10/14/2024 16:30]  Cyrus: For less I shall teach thee less.

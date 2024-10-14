@@ -201,11 +201,9 @@
 			<action code="15" subcode="101" submenutype="1" />
 		</actions>
 	</macro>
-	<macro name="Greater Heal" key="50" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Greater Heal" key="104" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="15" subcode="90" submenutype="1" />
-			<action code="25" subcode="0" submenutype="0" />
-			<action code="23" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
 	<macro name="Invisibility" key="105" mousebutton="0" alt="False" ctrl="False" shift="False">

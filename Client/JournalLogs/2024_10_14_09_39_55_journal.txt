@@ -1,0 +1,135 @@
+[10/14/2024 09:39]  System: WorldMap loading...
+[10/14/2024 09:39]  System: Loading WorldMap markers..
+[10/14/2024 09:39]  System: ..Banks_and_Healers.xml (39)
+[10/14/2024 09:39]  System: ..Dungeons.xml (13)
+[10/14/2024 09:39]  System: ..Dungeon_Gates.xml (392)
+[10/14/2024 09:39]  System: ..Healer_Caravans.xml (42)
+[10/14/2024 09:39]  System: ..Kings_Faire.xml (49)
+[10/14/2024 09:39]  System: ..Moongates.xml (10)
+[10/14/2024 09:39]  System: ..POI.xml (251)
+[10/14/2024 09:39]  System: ..PvP_Locations.xml (71)
+[10/14/2024 09:39]  System: ..Shrines.xml (9)
+[10/14/2024 09:39]  System: ..Sub-Dungeons.xml (4)
+[10/14/2024 09:39]  System: ..Townships.xml (10)
+[10/14/2024 09:39]  System: ..UOAM_Atlas.xml (1887)
+[10/14/2024 09:39]  System: ..UOAM_T-Map.xml (255)
+[10/14/2024 09:39]  System: ..UOAM_Treasure.xml (523)
+[10/14/2024 09:39]  System: WorldMap markers loaded (3555)
+[10/14/2024 09:39]  System: Welcome Rikkard!
+[10/14/2024 09:39]  Razor: [Last Target]
+[10/14/2024 09:39]  Razor: [- (s)]
+[10/14/2024 09:39]  Razor: [+Tracking Hunting (0s)]
+[10/14/2024 09:39]  Razor: [-Tracking Hunting (s)]
+[10/14/2024 09:39]  System: 80% arcane buildup.
+[10/14/2024 09:39]  Rikkard: Rikkard (Young)
+[10/14/2024 09:39]  Kasinda: Kasinda the alchemist
+[10/14/2024 09:39]  Zann: Zann the Necromancer
+[10/14/2024 09:39]  hopp: Triggered
+[10/14/2024 09:39]  hopp: [Big Horse, HBZ]
+[10/14/2024 09:39]  hopp: hopp
+[10/14/2024 09:39]  a robust cambrian steed: (bonded)
+[10/14/2024 09:39]  a robust cambrian steed: a robust cambrian steed
+[10/14/2024 09:39]  Triel: The Dread Pirate
+[10/14/2024 09:39]  Triel: [Private, G.G]
+[10/14/2024 09:39]  Triel: Lady Triel
+[10/14/2024 09:39]  ArtBardo: ArtBardo (Young)
+[10/14/2024 09:39]  Ashleigh: Ashleigh the battle trainer
+[10/14/2024 09:39]  Alben: Alben the battle trainer
+[10/14/2024 09:39]  Harper Corellon: [Juicy, SQzD]
+[10/14/2024 09:39]  Harper Corellon: Lady Harper Corellon
+[10/14/2024 09:39]  Mitch Feggus: Loremaster
+[10/14/2024 09:39]  Mitch Feggus: [Sorry B..., misc]
+[10/14/2024 09:39]  Mitch Feggus: Lord Mitch Feggus
+[10/14/2024 09:39]  Corniglia: [Council, NC]
+[10/14/2024 09:39]  Corniglia: Lord Corniglia
+[10/14/2024 09:39]  thegnarone: Legendary Zoologist
+[10/14/2024 09:39]  thegnarone: [Sorry B..., misc]
+[10/14/2024 09:39]  thegnarone: Lord thegnarone
+[10/14/2024 09:39]  Maggpie: Maggpie (Young)
+[10/14/2024 09:39]  La MaNdriana: Legendary Domesticator
+[10/14/2024 09:39]  La MaNdriana: [Membro, ITA.]
+[10/14/2024 09:39]  La MaNdriana: Lady La MaNdriana
+[10/14/2024 09:39]  Happy Pilfer: Time Hero
+[10/14/2024 09:39]  Happy Pilfer: [DPS]
+[10/14/2024 09:39]  Happy Pilfer: Lord Happy Pilfer
+[10/14/2024 09:39]  Anogar: Anogar
+[10/14/2024 09:39]  a llama: (bonded)
+[10/14/2024 09:39]  a llama: a llama
+[10/14/2024 09:39]  Mephistus: Mephistus (Young)
+[10/14/2024 09:39]  Charis: Charis the battle trainer
+[10/14/2024 09:39]  Tree Trunk Timmy: Tree Trunk Timmy
+[10/14/2024 09:39]  Brew: Brew
+[10/14/2024 09:39]  Shar Xh'aldur: Shar Xh'aldur (Young)
+[10/14/2024 09:39]  dontlikeov: dontlikeov
+[10/14/2024 09:39]  PKisya: PKisya
+[10/14/2024 09:39]  Green Gobin: Green Gobin
+[10/14/2024 09:39]  Mingus Bingus: Mingus Bingus (Young)
+[10/14/2024 09:39]  Nature Boy: Lord Nature Boy
+[10/14/2024 09:39]  Maths Archer: Maths Archer (Young)
+[10/14/2024 09:39]  Rooney: Rooney the banker
+[10/14/2024 09:39]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/14/2024 09:39]  System: WorldMap loaded!
+[10/14/2024 09:40]  Razor: Attack: Charis
+[10/14/2024 09:40]  System: 60% arcane buildup.
+[10/14/2024 09:40]  Razor: Attack: Charis
+[10/14/2024 09:40]  Razor: Attack: Charis
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: Your strength has changed by 1.  It is now 89
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: 74% arcane buildup.
+[10/14/2024 09:40]  Charis: -3
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: 87% arcane buildup.
+[10/14/2024 09:40]  Charis: -3
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: 100% arcane buildup.
+[10/14/2024 09:40]  Charis: -3
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  Charis: -3
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  Silverslip: Silverslip
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: 80% arcane buildup.
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: 94% arcane buildup.
+[10/14/2024 09:40]  Charis: -3
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: 100% arcane buildup.
+[10/14/2024 09:40]  Charis: -3
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  Charis: -3
+[10/14/2024 09:40]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:40]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:40]  Charis: -3
+[10/14/2024 09:41]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:41]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:41]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:41]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:41]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:41]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:41]  Charis: -3
+[10/14/2024 09:41]  System: Arcane skillgain: 5.411%
+[10/14/2024 09:41]  System: Tactics skillgain: 3.463%
+[10/14/2024 09:41]  Charis: -3

@@ -1,0 +1,3289 @@
+[10/14/2024 10:34]  System: WorldMap loading...
+[10/14/2024 10:34]  System: Loading WorldMap markers..
+[10/14/2024 10:34]  System: ..Banks_and_Healers.xml (39)
+[10/14/2024 10:34]  System: ..Dungeons.xml (13)
+[10/14/2024 10:34]  System: ..Dungeon_Gates.xml (392)
+[10/14/2024 10:34]  System: ..Healer_Caravans.xml (42)
+[10/14/2024 10:34]  System: ..Kings_Faire.xml (49)
+[10/14/2024 10:34]  System: ..Moongates.xml (10)
+[10/14/2024 10:34]  System: ..POI.xml (251)
+[10/14/2024 10:34]  System: ..PvP_Locations.xml (71)
+[10/14/2024 10:34]  System: ..Shrines.xml (9)
+[10/14/2024 10:34]  System: ..Sub-Dungeons.xml (4)
+[10/14/2024 10:34]  System: ..Townships.xml (10)
+[10/14/2024 10:34]  System: ..UOAM_Atlas.xml (1887)
+[10/14/2024 10:34]  System: ..UOAM_T-Map.xml (255)
+[10/14/2024 10:34]  System: ..UOAM_Treasure.xml (523)
+[10/14/2024 10:34]  System: WorldMap markers loaded (3555)
+[10/14/2024 10:34]  System: Welcome Rikkard!
+[10/14/2024 10:34]  System: 74% arcane buildup.
+[10/14/2024 10:34]  Rikkard: Rikkard (Young)
+[10/14/2024 10:34]  Kasinda: Kasinda the alchemist
+[10/14/2024 10:34]  hopp: Triggered
+[10/14/2024 10:34]  hopp: [Big Horse, HBZ]
+[10/14/2024 10:34]  hopp: hopp
+[10/14/2024 10:34]  a robust cambrian steed: (bonded)
+[10/14/2024 10:34]  a robust cambrian steed: a robust cambrian steed
+[10/14/2024 10:34]  Triel: The Dread Pirate
+[10/14/2024 10:34]  Triel: [Private, G.G]
+[10/14/2024 10:34]  Triel: Lady Triel
+[10/14/2024 10:34]  Zann: Zann the Necromancer
+[10/14/2024 10:34]  Ashleigh: Ashleigh the battle trainer
+[10/14/2024 10:34]  Alben: Alben the battle trainer
+[10/14/2024 10:34]  Harper Corellon: [Juicy, SQzD]
+[10/14/2024 10:34]  Harper Corellon: Lady Harper Corellon
+[10/14/2024 10:34]  Corniglia: [Council, NC]
+[10/14/2024 10:34]  Corniglia: Lord Corniglia
+[10/14/2024 10:34]  thegnarone: Legendary Zoologist
+[10/14/2024 10:34]  thegnarone: [Sorry B..., misc]
+[10/14/2024 10:34]  thegnarone: Lord thegnarone
+[10/14/2024 10:34]  Maggpie: Maggpie (Young)
+[10/14/2024 10:34]  La MaNdriana: Legendary Domesticator
+[10/14/2024 10:34]  La MaNdriana: [Membro, ITA.]
+[10/14/2024 10:34]  La MaNdriana: Lady La MaNdriana
+[10/14/2024 10:34]  Happy Pilfer: Time Hero
+[10/14/2024 10:34]  Happy Pilfer: [DPS]
+[10/14/2024 10:34]  Happy Pilfer: Lord Happy Pilfer
+[10/14/2024 10:34]  DER BOY: DER BOY (Young)
+[10/14/2024 10:34]  Mephistus: Mephistus (Young)
+[10/14/2024 10:34]  Maths Archer: Maths Archer (Young)
+[10/14/2024 10:34]  Charis: Charis the battle trainer
+[10/14/2024 10:34]  Tree Trunk Timmy: Tree Trunk Timmy
+[10/14/2024 10:34]  Brew: Brew
+[10/14/2024 10:34]  Shar Xh'aldur: Shar Xh'aldur (Young)
+[10/14/2024 10:34]  PKisya: PKisya
+[10/14/2024 10:34]  Green Gobin: Green Gobin
+[10/14/2024 10:34]  Nature Boy: Lord Nature Boy
+[10/14/2024 10:34]  Valbertik: Valbertik (Young)
+[10/14/2024 10:34]  Anogar: Anogar
+[10/14/2024 10:34]  Rooney: Rooney the banker
+[10/14/2024 10:34]  [Razor]: Finished 2 queued actions in 0.7 seconds.
+[10/14/2024 10:34]  System: WorldMap loaded!
+[10/14/2024 10:35]  System: 54% arcane buildup.
+[10/14/2024 10:35]  System: 34% arcane buildup.
+[10/14/2024 10:35]  System: What would you like to evaluate?
+[10/14/2024 10:35]  Razor: Target: Tree Trunk Timmy
+[10/14/2024 10:35]  Razor: * Target *
+[10/14/2024 10:35]  System: EvalInt skillgain: 16.667%
+[10/14/2024 10:35]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 41.1.
+[10/14/2024 10:35]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 49.9.
+[10/14/2024 10:35]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:35]  System: 14% arcane buildup.
+[10/14/2024 10:35]  System: 0% arcane buildup.
+[10/14/2024 10:36]  System: ANARKOS II has completed the achievement: Adventurer Associate.
+[10/14/2024 10:36]  System: King Bolete has completed the achievement: Chef (Basic).
+[10/14/2024 10:36]  System: What would you like to evaluate?
+[10/14/2024 10:36]  System: EvalInt skillgain: 16.667%
+[10/14/2024 10:36]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 41.0.
+[10/14/2024 10:36]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.0.
+[10/14/2024 10:36]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:36]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:36]  System: What would you like to evaluate?
+[10/14/2024 10:36]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:36]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:36]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:36]  System: What would you like to evaluate?
+[10/14/2024 10:36]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:36]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:36]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:36]  System: What would you like to evaluate?
+[10/14/2024 10:36]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:36]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:36]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:36]  Razor: Attack: Charis
+[10/14/2024 10:36]  System: What would you like to evaluate?
+[10/14/2024 10:36]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:36]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:36]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:36]  System: What would you like to evaluate?
+[10/14/2024 10:36]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:36]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:36]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:36]  Razor: Attack: Charis
+[10/14/2024 10:36]  System: What would you like to evaluate?
+[10/14/2024 10:36]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:36]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:36]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:36]  Razor: Attack: Charis
+[10/14/2024 10:36]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:36]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:36]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.9.
+[10/14/2024 10:36]  System: Your skill in Tactics has increased by 0.1.  It is now 78.7.
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: 14% arcane buildup.
+[10/14/2024 10:37]  Charis: -3
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: 28% arcane buildup.
+[10/14/2024 10:37]  Charis: -3
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: 42% arcane buildup.
+[10/14/2024 10:37]  Charis: -3
+[10/14/2024 10:37]  Studda Jud: Studda Jud (Young)
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.8.
+[10/14/2024 10:37]  System: Your skill in Tactics has increased by 0.1.  It is now 78.8.
+[10/14/2024 10:37]  System: 22% arcane buildup.
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: 36% arcane buildup.
+[10/14/2024 10:37]  Charis: -3
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: 16% arcane buildup.
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.7.
+[10/14/2024 10:37]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.1.
+[10/14/2024 10:37]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: 30% arcane buildup.
+[10/14/2024 10:37]  Charis: -3
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: 45% arcane buildup.
+[10/14/2024 10:37]  Charis: -3
+[10/14/2024 10:37]  System: What would you like to evaluate?
+[10/14/2024 10:37]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:37]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:37]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:37]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:37]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:37]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.6.
+[10/14/2024 10:37]  System: Your skill in Tactics has increased by 0.1.  It is now 78.9.
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  Slimeball Jr: Slimeball Jr (Young)
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: 59% arcane buildup.
+[10/14/2024 10:38]  Charis: -3
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: 73% arcane buildup.
+[10/14/2024 10:38]  Charis: -3
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: 53% arcane buildup.
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: 33% arcane buildup.
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.5.
+[10/14/2024 10:38]  System: Your skill in Tactics has increased by 0.1.  It is now 79.0.
+[10/14/2024 10:38]  System: 47% arcane buildup.
+[10/14/2024 10:38]  Charis: -3
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: 61% arcane buildup.
+[10/14/2024 10:38]  Charis: -3
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: 75% arcane buildup.
+[10/14/2024 10:38]  Charis: -3
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.4.
+[10/14/2024 10:38]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.2.
+[10/14/2024 10:38]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Szazor has completed the achievement: Undead Slayer (Basic).
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: 89% arcane buildup.
+[10/14/2024 10:38]  Charis: -3
+[10/14/2024 10:38]  System: What would you like to evaluate?
+[10/14/2024 10:38]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:38]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:38]  System: 100% arcane buildup.
+[10/14/2024 10:38]  Charis: -3
+[10/14/2024 10:38]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:38]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:38]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.3.
+[10/14/2024 10:39]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.3.
+[10/14/2024 10:39]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  Slimeball Jr: Slimeball Jr (Young)
+[10/14/2024 10:39]  Onge: Onge (Young)
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  Studda Jud: Studda Jud (Young)
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  System: 80% arcane buildup.
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  System: 94% arcane buildup.
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.2.
+[10/14/2024 10:39]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.4.
+[10/14/2024 10:39]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  Kasinda: You have nothing I would be interested in.
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  System: 100% arcane buildup.
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  Zann: You have nothing I would be interested in.
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  Slimeball Jr: Slimeball Jr (Young)
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Studda Jud: Studda Jud (Young)
+[10/14/2024 10:39]  System: What would you like to evaluate?
+[10/14/2024 10:39]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:39]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:39]  Charis: -3
+[10/14/2024 10:39]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:39]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:39]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  Muffinatrix: Muffinatrix (Young)
+[10/14/2024 10:40]  Studda Jud: Studda Jud (Young)
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.1.
+[10/14/2024 10:40]  System: Your skill in Tactics has increased by 0.1.  It is now 79.1.
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 40.0.
+[10/14/2024 10:40]  System: Your skill in Arcane has increased by 0.1.  It is now 70.7.
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.9.
+[10/14/2024 10:40]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.5.
+[10/14/2024 10:40]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.8.
+[10/14/2024 10:40]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.6.
+[10/14/2024 10:40]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  Slimeball Jr: Slimeball Jr (Young)
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: 80% arcane buildup.
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: 94% arcane buildup.
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: What would you like to evaluate?
+[10/14/2024 10:40]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:40]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:40]  System: 100% arcane buildup.
+[10/14/2024 10:40]  Charis: -3
+[10/14/2024 10:40]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:40]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:40]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: 80% arcane buildup.
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: 94% arcane buildup.
+[10/14/2024 10:41]  Charis: -3
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: 100% arcane buildup.
+[10/14/2024 10:41]  Charis: -3
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  Charis: -3
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  Charis: -3
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  DER BOY: DER BOY (Young)
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.7.
+[10/14/2024 10:41]  System: Your skill in Arcane has increased by 0.1.  It is now 70.8.
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  Charis: -3
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  Charis: -3
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: 80% arcane buildup.
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: 94% arcane buildup.
+[10/14/2024 10:41]  Charis: -3
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:41]  System: What would you like to evaluate?
+[10/14/2024 10:41]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:41]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:41]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:41]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:41]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: A house ownership lottery has begun for a Small Stone And Plaster House at (3906, 2832, 0).
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.6.
+[10/14/2024 10:42]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.7.
+[10/14/2024 10:42]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: 74% arcane buildup.
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: 88% arcane buildup.
+[10/14/2024 10:42]  Charis: -3
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  Gjak'ko: [Drool'n Snotling ^, Urk]
+[10/14/2024 10:42]  Gjak'ko: Gjak'ko
+[10/14/2024 10:42]  an eldritch drake: (bonded)
+[10/14/2024 10:42]  an eldritch drake: an eldritch drake
+[10/14/2024 10:42]  Urghhh: (bonded)
+[10/14/2024 10:42]  Urghhh: Urghhh
+[10/14/2024 10:42]  an eldritch drake: (bonded)
+[10/14/2024 10:42]  an eldritch drake: an eldritch drake
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.5.
+[10/14/2024 10:42]  System: Your skill in Tactics has increased by 0.1.  It is now 79.2.
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: 100% arcane buildup.
+[10/14/2024 10:42]  Charis: -3
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  DER BOY: DER BOY (Young)
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  Charis: -3
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  Charis: -3
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  Charis: -3
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: 80% arcane buildup.
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: 94% arcane buildup.
+[10/14/2024 10:42]  Charis: -3
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: 100% arcane buildup.
+[10/14/2024 10:42]  Charis: -3
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:42]  DER BOY: DER BOY (Young)
+[10/14/2024 10:42]  System: What would you like to evaluate?
+[10/14/2024 10:42]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:42]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:42]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:42]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:42]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.4.
+[10/14/2024 10:43]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.8.
+[10/14/2024 10:43]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  DER BOY: DER BOY (Young)
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  System: 80% arcane buildup.
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  System: 94% arcane buildup.
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  System: 100% arcane buildup.
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  Corrombo: Corrombo
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  Maths Archer: Maths Archer (Young)
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.3.
+[10/14/2024 10:43]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 50.9.
+[10/14/2024 10:43]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.2.
+[10/14/2024 10:43]  System: Your skill in Arcane has increased by 0.1.  It is now 70.9.
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:43]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:43]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:43]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:43]  Charis: -3
+[10/14/2024 10:43]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  DER BOY: DER BOY (Young)
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  Charis: -3
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  Charis: -3
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  Charis: -3
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  Charis: -3
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  Charis: -3
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  Charis: -3
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  Charis: -3
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.1.
+[10/14/2024 10:44]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.0.
+[10/14/2024 10:44]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: 80% arcane buildup.
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: 94% arcane buildup.
+[10/14/2024 10:44]  Charis: -3
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:44]  System: What would you like to evaluate?
+[10/14/2024 10:44]  DER BOY: DER BOY (Young)
+[10/14/2024 10:44]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:44]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:44]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:44]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:44]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: 74% arcane buildup.
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 39.0.
+[10/14/2024 10:45]  System: Your skill in Arcane has increased by 0.1.  It is now 71.0.
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.9.
+[10/14/2024 10:45]  System: Your skill in Arcane has increased by 0.1.  It is now 71.1.
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: 88% arcane buildup.
+[10/14/2024 10:45]  Charis: -3
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: 68% arcane buildup.
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: 82% arcane buildup.
+[10/14/2024 10:45]  Charis: -3
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.8.
+[10/14/2024 10:45]  System: Your skill in Arcane has increased by 0.1.  It is now 71.2.
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  Supawiz: Supawiz (Young)
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: 96% arcane buildup.
+[10/14/2024 10:45]  Charis: -3
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  System: 100% arcane buildup.
+[10/14/2024 10:45]  Charis: -3
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  Charis: -3
+[10/14/2024 10:45]  System: The world will save in 15 seconds.
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  DER BOY: DER BOY (Young)
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  Charis: -3
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.7.
+[10/14/2024 10:45]  System: Your skill in Arcane has increased by 0.1.  It is now 71.3.
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  Charis: -3
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  Charis: -3
+[10/14/2024 10:45]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:45]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: The world is saving, please wait.
+[10/14/2024 10:45]  System: World save complete. The entire process took 2.6 seconds.
+[10/14/2024 10:45]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:45]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:45]  Charis: -3
+[10/14/2024 10:45]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:45]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  Supawiz: Supawiz (Young)
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  DER BOY: DER BOY (Young)
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Zann: I will teach thee all I know, if paid the amount in full.  The price is: 250
+[10/14/2024 10:46]  Zann: For less I shall teach thee less.
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.6.
+[10/14/2024 10:46]  System: Your skill in Tactics has increased by 0.1.  It is now 79.3.
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  DER BOY: DER BOY (Young)
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.5.
+[10/14/2024 10:46]  System: Your skill in Arcane has increased by 0.1.  It is now 71.4.
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  Charis: -3
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:46]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:46]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:46]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:46]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:46]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:46]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  Supawiz: Supawiz (Young)
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  Lyric Liteweight: Lyric Liteweight
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  System: ARAWN (AWN) guild has reached prestige level 702.
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  DER BOY: DER BOY (Young)
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.4.
+[10/14/2024 10:47]  System: Your skill in Arcane has increased by 0.1.  It is now 71.5.
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:47]  Supawiz: Supawiz (Young)
+[10/14/2024 10:47]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:47]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:47]  Charis: -3
+[10/14/2024 10:47]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:47]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:47]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:47]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  DER BOY: DER BOY (Young)
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.3.
+[10/14/2024 10:48]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.1.
+[10/14/2024 10:48]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  DER BOY: DER BOY (Young)
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.2.
+[10/14/2024 10:48]  System: Your skill in Arcane has increased by 0.1.  It is now 71.6.
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:48]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:48]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:48]  Charis: -3
+[10/14/2024 10:48]  System: What would you like to evaluate?
+[10/14/2024 10:48]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:48]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:48]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  DER BOY: DER BOY (Young)
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  Proteus: Wizard
+[10/14/2024 10:49]  Proteus: [DTF]
+[10/14/2024 10:49]  Proteus: Proteus
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: YoshiHiro has completed the achievement: Nobility (Basic).
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  Proteus: Wizard
+[10/14/2024 10:49]  Proteus: [DTF]
+[10/14/2024 10:49]  Proteus: Proteus
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  Proteus: Wizard
+[10/14/2024 10:49]  Proteus: [DTF]
+[10/14/2024 10:49]  Proteus: Proteus
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.1.
+[10/14/2024 10:49]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.2.
+[10/14/2024 10:49]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  Charis: -3
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:49]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:49]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:49]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:49]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:49]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:49]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  Charis: -3
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  Ghostly Gale: Legendary Pirate
+[10/14/2024 10:50]  Ghostly Gale: [F]
+[10/14/2024 10:50]  Ghostly Gale: Lady Ghostly Gale
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  Charis: -3
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  Charis: -3
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  RomperEXTREME: Monster Hunter Initiate
+[10/14/2024 10:50]  RomperEXTREME: [Recruit, AWN]
+[10/14/2024 10:50]  RomperEXTREME: Lord RomperEXTREME
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 38.0.
+[10/14/2024 10:50]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.3.
+[10/14/2024 10:50]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: 80% arcane buildup.
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  DER BOY: DER BOY (Young)
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: Neptunus has completed the achievement: Skinner (Advanced).
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: 94% arcane buildup.
+[10/14/2024 10:50]  Charis: -3
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: 100% arcane buildup.
+[10/14/2024 10:50]  Charis: -3
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  Charis: -3
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.9.
+[10/14/2024 10:50]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.4.
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  Charis: -3
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.8.
+[10/14/2024 10:50]  System: Your skill in Tactics has increased by 0.1.  It is now 79.4.
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  Charis: -3
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  Charis: -3
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:50]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:50]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:50]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:50]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:50]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:50]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.7.
+[10/14/2024 10:51]  System: Your skill in Tactics has increased by 0.1.  It is now 79.5.
+[10/14/2024 10:51]  System: GISA has completed the achievement: Savant (Advanced).
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: As You Wish has completed the achievement: Enhanced (Advanced).
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  DER BOY: DER BOY (Young)
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.6.
+[10/14/2024 10:51]  System: Your skill in Arcane has increased by 0.1.  It is now 71.7.
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: 80% arcane buildup.
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: 94% arcane buildup.
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: 100% arcane buildup.
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.5.
+[10/14/2024 10:51]  System: Your skill in Arcane has increased by 0.1.  It is now 71.8.
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  Charis: -3
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:51]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:51]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:51]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:51]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:51]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:51]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  DER BOY: DER BOY (Young)
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  DER BOY: DER BOY (Young)
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: 80% arcane buildup.
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: 94% arcane buildup.
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: 100% arcane buildup.
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  Tox Nox: [Private, RED]
+[10/14/2024 10:52]  Tox Nox: Lord Tox Nox
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.4.
+[10/14/2024 10:52]  System: Your skill in Tactics has increased by 0.1.  It is now 79.6.
+[10/14/2024 10:52]  Charis: -3
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:52]  System: What would you like to evaluate?
+[10/14/2024 10:52]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:52]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:52]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:52]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:52]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  DER BOY: DER BOY (Young)
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: 80% arcane buildup.
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: 94% arcane buildup.
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: 100% arcane buildup.
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  DER BOY: DER BOY (Young)
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:53]  System: What would you like to evaluate?
+[10/14/2024 10:53]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:53]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:53]  Charis: -3
+[10/14/2024 10:53]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:53]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:53]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  Charis: -3
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  Charis: -3
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  Charis: -3
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  Tox Nox: Kal Ort Por
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.3.
+[10/14/2024 10:54]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.5.
+[10/14/2024 10:54]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  Charis: -3
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  Charis: -3
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  Charis: -3
+[10/14/2024 10:54]  Bourgy: Bourgy (Young)
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  DER BOY: DER BOY (Young)
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  Charis: -3
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  Charis: -3
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: 80% arcane buildup.
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.2.
+[10/14/2024 10:54]  System: Your skill in Arcane has increased by 0.1.  It is now 71.9.
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:54]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:54]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.1.
+[10/14/2024 10:54]  System: Your skill in Arcane has increased by 0.1.  It is now 72.0.
+[10/14/2024 10:54]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:54]  System: What would you like to evaluate?
+[10/14/2024 10:54]  System: 60% arcane buildup.
+[10/14/2024 10:54]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:54]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:54]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: 74% arcane buildup.
+[10/14/2024 10:55]  Charis: -3
+[10/14/2024 10:55]  DER BOY: DER BOY (Young)
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 37.0.
+[10/14/2024 10:55]  System: Your skill in Tactics has increased by 0.1.  It is now 79.7.
+[10/14/2024 10:55]  System: 88% arcane buildup.
+[10/14/2024 10:55]  Charis: -3
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: 100% arcane buildup.
+[10/14/2024 10:55]  Charis: -3
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Viktor McFly has completed the achievement: Savant (Epic).
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  Charis: -3
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  Salad Snake: Salad Snake (Young)
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  Charis: -3
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  Charis: -3
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  Charis: -3
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.9.
+[10/14/2024 10:55]  System: Your skill in Tactics has increased by 0.1.  It is now 79.8.
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  Charis: -3
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  DER BOY: DER BOY (Young)
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  Charis: -3
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:55]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:55]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:55]  System: What would you like to evaluate?
+[10/14/2024 10:55]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:55]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:55]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: 80% arcane buildup.
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: 94% arcane buildup.
+[10/14/2024 10:56]  Charis: -3
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.8.
+[10/14/2024 10:56]  System: Your skill in Tactics has increased by 0.1.  It is now 79.9.
+[10/14/2024 10:56]  System: 100% arcane buildup.
+[10/14/2024 10:56]  Charis: -3
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  Charis: -3
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.7.
+[10/14/2024 10:56]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.6.
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: 80% arcane buildup.
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: 94% arcane buildup.
+[10/14/2024 10:56]  Charis: -3
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.6.
+[10/14/2024 10:56]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.7.
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: 100% arcane buildup.
+[10/14/2024 10:56]  Charis: -3
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  Charis: -3
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: 80% arcane buildup.
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: 94% arcane buildup.
+[10/14/2024 10:56]  Charis: -3
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  DER BOY: DER BOY (Young)
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:56]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:56]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:56]  System: 100% arcane buildup.
+[10/14/2024 10:56]  Charis: -3
+[10/14/2024 10:56]  System: What would you like to evaluate?
+[10/14/2024 10:56]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:56]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:56]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  Charis: -3
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: Xacura has completed the achievement: Summoning (Basic).
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: 80% arcane buildup.
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: 94% arcane buildup.
+[10/14/2024 10:57]  Charis: -3
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: 100% arcane buildup.
+[10/14/2024 10:57]  Charis: -3
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Tactics skillgain: 3.798%
+[10/14/2024 10:57]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.5.
+[10/14/2024 10:57]  System: Your skill in Tactics has increased by 0.1.  It is now 80.0.
+[10/14/2024 10:57]  System: You have reached the maximum skill gain allowed for Tactics on Shelter Island and it will gain no further while there.
+[10/14/2024 10:57]  System: 80% arcane buildup.
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: 94% arcane buildup.
+[10/14/2024 10:57]  Charis: -3
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: 100% arcane buildup.
+[10/14/2024 10:57]  Charis: -3
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  System: Mady has completed the achievement: Guardian of Shadowspire (Basic).
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  Charis: -3
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  Charis: -3
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:57]  System: What would you like to evaluate?
+[10/14/2024 10:57]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:57]  Charis: -3
+[10/14/2024 10:57]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:57]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:57]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.4.
+[10/14/2024 10:58]  System: Your skill in Arcane has increased by 0.1.  It is now 72.1.
+[10/14/2024 10:58]  DER BOY: DER BOY (Young)
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Cthurolog has completed the achievement: Affluent (Advanced).
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  DER BOY: DER BOY (Young)
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:58]  System: What would you like to evaluate?
+[10/14/2024 10:58]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:58]  Charis: -3
+[10/14/2024 10:58]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:58]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:58]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  DER BOY: DER BOY (Young)
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  DER BOY: DER BOY (Young)
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 10:59]  System: What would you like to evaluate?
+[10/14/2024 10:59]  System: Arcane skillgain: 4.748%
+[10/14/2024 10:59]  Charis: -3
+[10/14/2024 10:59]  System: EvalInt skillgain: 5.747%
+[10/14/2024 10:59]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 10:59]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: 80% arcane buildup.
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: 94% arcane buildup.
+[10/14/2024 11:00]  Charis: -3
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: 100% arcane buildup.
+[10/14/2024 11:00]  Charis: -3
+[10/14/2024 11:00]  DER BOY: DER BOY (Young)
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.3.
+[10/14/2024 11:00]  System: Your skill in Arcane has increased by 0.1.  It is now 72.2.
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: 80% arcane buildup.
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: 94% arcane buildup.
+[10/14/2024 11:00]  Charis: -3
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: The world will save in 15 seconds.
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.2.
+[10/14/2024 11:00]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.8.
+[10/14/2024 11:00]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: 100% arcane buildup.
+[10/14/2024 11:00]  Charis: -3
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: 80% arcane buildup.
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: The world is saving, please wait.
+[10/14/2024 11:00]  System: World save complete. The entire process took 2.6 seconds.
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: 94% arcane buildup.
+[10/14/2024 11:00]  Charis: -3
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: 100% arcane buildup.
+[10/14/2024 11:00]  Charis: -3
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  Charis: -3
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:00]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:00]  System: What would you like to evaluate?
+[10/14/2024 11:00]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:00]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:00]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.1.
+[10/14/2024 11:01]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 51.9.
+[10/14/2024 11:01]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  Charis: -3
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:01]  System: What would you like to evaluate?
+[10/14/2024 11:01]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:01]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:01]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 11:01]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  Charis: -3
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  Charis: -3
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  DER BOY: DER BOY (Young)
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  Charis: -3
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: 80% arcane buildup.
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: 94% arcane buildup.
+[10/14/2024 11:02]  Charis: -3
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: 74% arcane buildup.
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:02]  System: What would you like to evaluate?
+[10/14/2024 11:02]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:02]  System: 54% arcane buildup.
+[10/14/2024 11:02]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:02]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:02]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: 68% arcane buildup.
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  DER BOY: DER BOY (Young)
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 36.0.
+[10/14/2024 11:03]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 52.0.
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: 48% arcane buildup.
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: 62% arcane buildup.
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 35.9.
+[10/14/2024 11:03]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 52.1.
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: 76% arcane buildup.
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 35.8.
+[10/14/2024 11:03]  System: Your skill in Arcane has increased by 0.1.  It is now 72.3.
+[10/14/2024 11:03]  System: 91% arcane buildup.
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: 100% arcane buildup.
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 35.7.
+[10/14/2024 11:03]  System: Your skill in Arcane has increased by 0.1.  It is now 72.4.
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  DER BOY: DER BOY (Young)
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:03]  System: What would you like to evaluate?
+[10/14/2024 11:03]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:03]  Charis: -3
+[10/14/2024 11:03]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:03]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:03]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  Charis: -3
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  Charis: -3
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: 80% arcane buildup.
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: 94% arcane buildup.
+[10/14/2024 11:04]  Charis: -3
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: 100% arcane buildup.
+[10/14/2024 11:04]  Charis: -3
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  DER BOY: DER BOY (Young)
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 35.6.
+[10/14/2024 11:04]  System: Your skill in Arcane has increased by 0.1.  It is now 72.5.
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: 80% arcane buildup.
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  Corrombo: Corrombo
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: 94% arcane buildup.
+[10/14/2024 11:04]  Charis: -3
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  Corrombo: Corrombo
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: 100% arcane buildup.
+[10/14/2024 11:04]  Charis: -3
+[10/14/2024 11:04]  DER BOY: DER BOY (Young)
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  Charis: -3
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: Seleni has completed the achievement: Beastial Slayer (Basic).
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  Charis: -3
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:04]  System: What would you like to evaluate?
+[10/14/2024 11:04]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:04]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:04]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:04]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  System: 80% arcane buildup.
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  System: 94% arcane buildup.
+[10/14/2024 11:05]  Charis: -3
+[10/14/2024 11:05]  Corrombo: ифтл
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  System: 100% arcane buildup.
+[10/14/2024 11:05]  Charis: -3
+[10/14/2024 11:05]  Corrombo: ифл
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  Charis: -3
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  Corrombo: bak
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  Charis: -3
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  DER BOY: DER BOY (Young)
+[10/14/2024 11:05]  Corrombo: bank
+[10/14/2024 11:05]  Rooney: Alas, my goods and services are only available to those with young player status.
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  Charis: -3
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: He looks about average.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  Corrombo: sd
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  Charis: -3
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: He looks not the brightest.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  Tree Trunk Timmy: He looks fairly stupid.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  System: 80% arcane buildup.
+[10/14/2024 11:05]  System: What would you like to evaluate?
+[10/14/2024 11:05]  System: EvalInt skillgain: 5.747%
+[10/14/2024 11:05]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 35.5.
+[10/14/2024 11:05]  System: Your skill in Evaluating Intelligence has increased by 0.1.  It is now 52.2.
+[10/14/2024 11:05]  Tree Trunk Timmy: You cannot quite judge his mental abilities.
+[10/14/2024 11:05]  System: You must wait a few moments to use another skill.
+[10/14/2024 11:05]  System: Arcane skillgain: 4.748%
+[10/14/2024 11:05]  System: 94% arcane buildup.
+[10/14/2024 11:05]  Charis: -3
