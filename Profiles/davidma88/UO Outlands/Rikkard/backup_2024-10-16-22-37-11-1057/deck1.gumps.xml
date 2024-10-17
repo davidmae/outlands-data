@@ -14,20 +14,24 @@
 		<gump type="7" x="837" y="62" serial="1011" name="Bank" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="1" />
 	</anchored_group_gump>
 	<anchored_group_gump matrix_w="1" matrix_h="4">
-		<gump type="7" x="303" y="186" serial="1040" name="Greater Heal" graphicId="0" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="0" />
-		<gump type="7" x="303" y="247" serial="1026" name="TargetNearest" graphicId="0" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="1" />
-		<gump type="7" x="303" y="308" serial="1043" name="LastSpell" graphicId="0" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="2" />
-		<gump type="7" x="303" y="369" serial="1048" name="SpellTarget" graphicId="0" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="3" />
+		<gump type="7" x="303" y="114" serial="1040" name="Greater Heal" graphicId="0" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="303" y="175" serial="1026" name="TargetNearest" graphicId="0" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="303" y="236" serial="1043" name="LastSpell" graphicId="0" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="2" />
+		<gump type="7" x="303" y="297" serial="1048" name="SpellTarget" graphicId="0" hideLabel="False" scale="1.4" matrix_x="0" matrix_y="3" />
 	</anchored_group_gump>
-	<gump type="9" x="1020" y="-20" serial="1951856" isminimized="False" />
-	<gump type="2" x="1022" y="375" serial="1215879064" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="7" x="1148" y="303" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
-	<gump type="24" x="484" y="14" serial="0" />
-	<gump type="1" x="958" y="17" serial="0" graphic="30079" direction="0" />
-	<gump type="5" x="730" y="696" serial="0" />
-	<gump type="5" x="924" y="718" serial="1" />
-	<gump type="27" x="860" y="478" serial="0" />
-	<gump type="16" x="489" y="72" serial="0" id="38" />
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="16" x="299" y="11" serial="0" id="38" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="299" y="11" serial="0" id="38" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="299" y="55" serial="0" id="46" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="299" y="55" serial="0" id="46" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="4" x="713" y="136" serial="1951856" />
+	<gump type="9" x="1020" y="-14" serial="1951856" isminimized="False" />
+	<gump type="2" x="1007" y="358" serial="1215879064" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="15" x="927" y="654" serial="0" id="7" />
+	<gump type="7" x="1160" y="310" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="21" x="1060" y="620" serial="0" />
+	<gump type="1" x="956" y="26" serial="0" graphic="30079" direction="0" />
 	<gump type="3" x="449" y="715" serial="0" rows="2" columns="11" rectsize="43">
 		<controls>
 			<control graphic="3903" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -54,9 +58,9 @@
 			<control graphic="0" hue="0" />
 		</controls>
 	</gump>
-	<gump type="16" x="461" y="145" serial="0" id="16" />
-	<gump type="15" x="927" y="654" serial="0" id="7" />
-	<gump type="10" x="11" y="102" serial="0" isminimized="False" height="492" />
-	<gump type="21" x="1059" y="605" serial="0" />
-	<gump type="18" x="4" y="4" serial="0" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="5" x="924" y="718" serial="1" />
+	<gump type="5" x="730" y="696" serial="0" />
+	<gump type="24" x="484" y="14" serial="0" />
+	<gump type="18" x="1" y="6" serial="0" />
 </gumps>

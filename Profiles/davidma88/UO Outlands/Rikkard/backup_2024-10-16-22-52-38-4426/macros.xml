@@ -201,9 +201,11 @@
 			<action code="15" subcode="101" submenutype="1" />
 		</actions>
 	</macro>
-	<macro name="Greater Heal" key="104" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Greater Heal" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="15" subcode="90" submenutype="1" />
+			<action code="25" subcode="0" submenutype="0" />
+			<action code="23" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
 	<macro name="Invisibility" key="105" mousebutton="0" alt="False" ctrl="False" shift="False">
@@ -216,7 +218,7 @@
 			<action code="15" subcode="79" submenutype="1" />
 		</actions>
 	</macro>
-	<macro name="LastSpell" key="115" mousebutton="0" alt="True" ctrl="False" shift="False">
+	<macro name="LastSpell" key="49" mousebutton="0" alt="True" ctrl="False" shift="False">
 		<actions>
 			<action code="16" subcode="0" submenutype="0" />
 		</actions>
@@ -241,7 +243,7 @@
 			<action code="15" subcode="104" submenutype="1" />
 		</actions>
 	</macro>
-	<macro name="SpellTarget" key="49" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="SpellTarget" key="0" mousebutton="5" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="16" subcode="0" submenutype="0" />
 			<action code="25" subcode="0" submenutype="0" />

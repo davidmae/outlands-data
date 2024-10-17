@@ -42,11 +42,10 @@
 		<gump type="7" x="1160" y="310" serial="1021" name="InfoItem" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
 	</anchored_group_gump>
 	<gump type="9" x="1020" y="-14" serial="1951856" isminimized="False" />
-	<gump type="2" x="1007" y="358" serial="1215879064" graphic="60" isminimized="False" iscarried="True" />
-	<gump type="4" x="811" y="142" serial="1951856" />
-	<gump type="24" x="484" y="14" serial="0" />
-	<gump type="27" x="860" y="478" serial="0" />
-	<gump type="1" x="956" y="26" serial="0" graphic="30079" direction="0" />
+	<gump type="4" x="754" y="135" serial="1951856" />
+	<gump type="5" x="720" y="696" serial="0" />
+	<gump type="15" x="1010" y="701" serial="0" id="40" />
+	<gump type="5" x="911" y="717" serial="1" />
 	<gump type="3" x="437" y="714" serial="0" rows="2" columns="11" rectsize="43">
 		<controls>
 			<control graphic="3903" hue="0" key="113" mousebutton="0" alt="True" ctrl="False" shift="False" />
@@ -73,9 +72,10 @@
 			<control graphic="0" hue="0" />
 		</controls>
 	</gump>
-	<gump type="5" x="911" y="717" serial="1" />
-	<gump type="15" x="1010" y="701" serial="0" id="40" />
-	<gump type="5" x="720" y="696" serial="0" />
 	<gump type="21" x="1064" y="617" serial="0" />
+	<gump type="2" x="1007" y="358" serial="1215879064" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="1" x="956" y="26" serial="0" graphic="30079" direction="0" />
+	<gump type="27" x="860" y="478" serial="0" />
+	<gump type="24" x="484" y="14" serial="0" />
 	<gump type="18" x="1" y="6" serial="0" />
 </gumps>
