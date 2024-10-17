@@ -1,6 +1,6 @@
 {
   "enable_sound": true,
-  "sound_volume": 52,
+  "sound_volume": 35,
   "enable_music": true,
   "music_volume": 41,
   "foot_steps_volume": 63,
@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 44,
   "circle_of_transparency_type": 0,
   "vendor_gump_height": 504,
-  "default_scale": 0.6999999,
+  "default_scale": 0.7,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -102,8 +102,8 @@
   "game_window_full_size": true,
   "window_borderless": true,
   "game_window_size": {
-    "X": 1280,
-    "Y": 800
+    "X": 1920,
+    "Y": 1080
   },
   "topbar_gump_position": {
     "X": 3,
@@ -290,7 +290,7 @@
   "cooldown_bar_width": 150,
   "cooldown_bar_height": 30,
   "hide_inactive_cooldown_bars": false,
-  "last_used_desktop": "deck1.gumps.xml",
+  "last_used_desktop": "deck2.gumps.xml",
   "journal_width": 560,
   "journal_height": 269,
   "journal_enable_resize": true,

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<infos version="1">
+	<infobar>
+		<info text="H" var="0" hue="438" />
+		<info text="M" var="1" hue="493" />
+		<info text="S" var="2" hue="558" />
+		<info text="W" var="3" hue="978" />
+	</infobar>
+	<infobar>
+		<info text="Gold" var="5" hue="53" />
+		<info text="Armor" var="7" hue="448" />
+		<info text="Damage" var="6" hue="38" />
+		<info text="Essence" var="25" hue="310" />
+	</infobar>
+</infos>
