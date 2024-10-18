@@ -1,0 +1,577 @@
+[10/18/2024 01:27]  System: WorldMap loading...
+[10/18/2024 01:27]  System: Loading WorldMap markers..
+[10/18/2024 01:27]  System: ..Banks_and_Healers.xml (39)
+[10/18/2024 01:27]  System: ..Dungeons.xml (13)
+[10/18/2024 01:27]  System: ..Dungeon_Gates.xml (392)
+[10/18/2024 01:27]  System: ..Healer_Caravans.xml (42)
+[10/18/2024 01:27]  System: ..Kings_Faire.xml (49)
+[10/18/2024 01:27]  System: ..Moongates.xml (10)
+[10/18/2024 01:27]  System: ..POI.xml (251)
+[10/18/2024 01:27]  System: ..PvP_Locations.xml (71)
+[10/18/2024 01:27]  System: ..Shrines.xml (9)
+[10/18/2024 01:27]  System: ..Sub-Dungeons.xml (4)
+[10/18/2024 01:27]  System: ..Townships.xml (10)
+[10/18/2024 01:27]  System: ..UOAM_Atlas.xml (1887)
+[10/18/2024 01:27]  System: ..UOAM_T-Map.xml (255)
+[10/18/2024 01:27]  System: ..UOAM_Treasure.xml (523)
+[10/18/2024 01:27]  System: WorldMap markers loaded (3555)
+[10/18/2024 01:27]  System: Welcome Rikkard!
+[10/18/2024 01:27]  Rikkard: Rikkard (Young)
+[10/18/2024 01:27]  Carlton: Carlton the stablemaster
+[10/18/2024 01:27]  MiniMembro: (bonded)
+[10/18/2024 01:27]  MiniMembro: MiniMembro
+[10/18/2024 01:27]  Zara: Zara the scribe
+[10/18/2024 01:27]  Sherwin: Sherwin the mage
+[10/18/2024 01:27]  Kasinda: Kasinda the alchemist
+[10/18/2024 01:27]  Zann: Zann the Necromancer
+[10/18/2024 01:27]  Kenelm: Kenelm the tavern keeper
+[10/18/2024 01:27]  FireballsOutButt: FireballsOutButt (Young)
+[10/18/2024 01:27]  Rosaline: Rosaline the waiter
+[10/18/2024 01:27]  Ashleigh: Ashleigh the battle trainer
+[10/18/2024 01:27]  Alben: *discord 30s*
+[10/18/2024 01:27]  Alben: Alben the battle trainer
+[10/18/2024 01:27]  Foursum: [Veteran, Path]
+[10/18/2024 01:27]  Foursum: Lord Foursum
+[10/18/2024 01:27]  ChildlessCatLady: ChildlessCatLady (Young)
+[10/18/2024 01:27]  He Who: He Who (Young)
+[10/18/2024 01:27]  Heji: Heji (Young)
+[10/18/2024 01:27]  Kolix: Kolix (Young)
+[10/18/2024 01:27]  FiveLarges: [G.G]
+[10/18/2024 01:27]  FiveLarges: Lord FiveLarges
+[10/18/2024 01:27]  a llama: (bonded)
+[10/18/2024 01:27]  a llama: a llama
+[10/18/2024 01:27]  Flu Logger the S: [Officer, SUI]
+[10/18/2024 01:27]  Flu Logger the S: Flu Logger the S
+[10/18/2024 01:27]  fuef: (bonded)
+[10/18/2024 01:27]  fuef: fuef
+[10/18/2024 01:27]  Irenus: [Prospect, T^C]
+[10/18/2024 01:27]  Irenus: Irenus
+[10/18/2024 01:27]  Trust No One: Trust No One
+[10/18/2024 01:27]  Sergio: Sergio the battle trainer
+[10/18/2024 01:27]  Masked Potato: Masked Potato (Young)
+[10/18/2024 01:27]  Raide: Raide (Young)
+[10/18/2024 01:27]  Mister Peabody: [Rookie, NP$]
+[10/18/2024 01:27]  Mister Peabody: Mister Peabody
+[10/18/2024 01:27]  Girth Algar: Girth Algar (Young)
+[10/18/2024 01:27]  Defectiv: Defectiv
+[10/18/2024 01:27]  Alejandro Fabian: Alejandro Fabian
+[10/18/2024 01:27]  Fabian Alejandro: Fabian Alejandro
+[10/18/2024 01:27]  Likedeeler: Likedeeler (Young)
+[10/18/2024 01:27]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/18/2024 01:27]  Topflight: Topflight (Young)
+[10/18/2024 01:27]  System: WorldMap loaded!
+[10/18/2024 01:27]  Jordan: Jordan the beggar
+[10/18/2024 01:27]  Flusoya: [SQzD]
+[10/18/2024 01:27]  Flusoya: Flusoya
+[10/18/2024 01:27]  a pack horse: (tame)
+[10/18/2024 01:27]  a pack horse: [136/2000 stones]
+[10/18/2024 01:27]  a pack horse: [71/125 items]
+[10/18/2024 01:27]  a pack horse: a pack horse
+[10/18/2024 01:27]  a pack horse: (tame)
+[10/18/2024 01:27]  a pack horse: [120/2000 stones]
+[10/18/2024 01:27]  a pack horse: [65/125 items]
+[10/18/2024 01:27]  a pack horse: a pack horse
+[10/18/2024 01:27]  Jayne: Jayne the innkeeper
+[10/18/2024 01:27]  Fuller: Fuller the barkeep
+[10/18/2024 01:27]  Miner Imbalance: Miner Imbalance (Young)
+[10/18/2024 01:27]  Giles: Giles the thief
+[10/18/2024 01:27]  Marti: Marti the healer
+[10/18/2024 01:27]  Dusty: Dusty the cook
+[10/18/2024 01:27]  Cra: (tame)
+[10/18/2024 01:27]  Cra: Cra
+[10/18/2024 01:27]  Cra: (tame)
+[10/18/2024 01:27]  Cra: Cra
+[10/18/2024 01:27]  Sellerike: Sellerike (Young)
+[10/18/2024 01:27]  Raziel HaMalakh: [ITA.]
+[10/18/2024 01:27]  Raziel HaMalakh: Raziel HaMalakh
+[10/18/2024 01:27]  a sun wyrm: (tame)
+[10/18/2024 01:27]  a sun wyrm: a sun wyrm
+[10/18/2024 01:27]  a monitor: *released*
+[10/18/2024 01:27]  a monitor: a monitor
+[10/18/2024 01:27]  IslandBearBoi: (tame)
+[10/18/2024 01:27]  IslandBearBoi: IslandBearBoi
+[10/18/2024 01:27]  HotSteppa: (tame)
+[10/18/2024 01:27]  HotSteppa: [902/2000 stones]
+[10/18/2024 01:27]  HotSteppa: [3/125 items]
+[10/18/2024 01:27]  HotSteppa: HotSteppa
+[10/18/2024 01:27]  Shelter Isle Boi: [Initiate, who]
+[10/18/2024 01:27]  Shelter Isle Boi: Shelter Isle Boi (Young)
+[10/18/2024 01:27]  Quantic: Quantic
+[10/18/2024 01:27]  You see: the remains of Topflight
+[10/18/2024 01:27]  Darrell: Darrell the guard
+[10/18/2024 01:27]  Dusty: Dusty the cook
+[10/18/2024 01:27]  Giles: Giles the thief
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  a great hart: a great hart
+[10/18/2024 01:27]  a hind: a hind
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  a hind: a hind
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  System: You have left the protection of the town guards.
+[10/18/2024 01:27]  You see: the remains of Clonks
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  a wounded harpy: a wounded harpy
+[10/18/2024 01:27]  GenericLooter: GenericLooter
+[10/18/2024 01:27]  Zgechni: Zgechni (Young)
+[10/18/2024 01:27]  a skeleton: a skeleton
+[10/18/2024 01:27]  a mongbat: a mongbat
+[10/18/2024 01:27]  LazMan: Monster Hunter Initiate
+[10/18/2024 01:27]  LazMan: [Private First Class, TES]
+[10/18/2024 01:27]  LazMan: LazMan
+[10/18/2024 01:27]  Richard Flair: Legendary Affluence
+[10/18/2024 01:27]  Richard Flair: [Stylin and Profil, Inn]
+[10/18/2024 01:27]  Richard Flair: Lord Richard Flair
+[10/18/2024 01:27]  a zombie: a zombie
+[10/18/2024 01:27]  Crikilli: Crikilli
+[10/18/2024 01:27]  Athenie: Legendary Artificer
+[10/18/2024 01:27]  Athenie: [Private, AOG]
+[10/18/2024 01:27]  Athenie: Athenie
+[10/18/2024 01:27]  Clonks: [DKR]
+[10/18/2024 01:27]  Clonks: Lord Clonks
+[10/18/2024 01:27]  Vikernas: [Learners Permit, TES]
+[10/18/2024 01:27]  Vikernas: Vikernas
+[10/18/2024 01:27]  Schokoladdie: Schokoladdie
+[10/18/2024 01:27]  Warner the Watch: [Knight, Sir.]
+[10/18/2024 01:27]  Warner the Watch: Warner the Watch
+[10/18/2024 01:27]  a frenzied ostard: (bonded)
+[10/18/2024 01:27]  a frenzied ostard: a frenzied ostard
+[10/18/2024 01:27]  Sheltem: Sheltem
+[10/18/2024 01:27]  iDOpot: iDOpot (Young)
+[10/18/2024 01:27]  Snooj: Monstrous Slayer
+[10/18/2024 01:27]  Snooj: [Big Boom, CtS]
+[10/18/2024 01:27]  Snooj: Lady Snooj
+[10/18/2024 01:27]  Breaks Bones: Prevalia
+[10/18/2024 01:27]  Breaks Bones: [EXECUTIONER, TOP]
+[10/18/2024 01:27]  Breaks Bones: Breaks Bones
+[10/18/2024 01:27]  an earth elemental: (summoned)
+[10/18/2024 01:27]  an earth elemental: an earth elemental
+[10/18/2024 01:27]  Rynehawk: [Rookie, NP$]
+[10/18/2024 01:27]  Rynehawk: Rynehawk (Young)
+[10/18/2024 01:27]  Jooci: Chef
+[10/18/2024 01:27]  Jooci: [Druid Veteran, BEAR]
+[10/18/2024 01:27]  Jooci: Jooci
+[10/18/2024 01:27]  Caul Shivers: The Dread Pirate
+[10/18/2024 01:27]  Caul Shivers: [Recruit, G.G]
+[10/18/2024 01:27]  Caul Shivers: Caul Shivers
+[10/18/2024 01:27]  Tool MacBaine: Tool MacBaine
+[10/18/2024 01:27]  Idi Adin: Idi Adin
+[10/18/2024 01:27]  Rofl Copter: Rofl Copter (Young)
+[10/18/2024 01:27]  Snooj: In Mani Ylem
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  Snooj: In Mani Ylem
+[10/18/2024 01:27]  You see: a giant rat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  Alexandra Rae: Alexandra Rae (Young)
+[10/18/2024 01:27]  a zombie: (summoned)
+[10/18/2024 01:27]  a zombie: a zombie
+[10/18/2024 01:27]  a mongbat: a mongbat
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  You see: a giant rat corpse
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  You see: a mongbat corpse
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  a zombie: a zombie
+[10/18/2024 01:27]  Ronny James Dio: Ronny James Dio (Young)
+[10/18/2024 01:27]  You see: the remains of Topflight
+[10/18/2024 01:27]  You see: a headless corpse
+[10/18/2024 01:27]  You see: a headless corpse
+[10/18/2024 01:27]  You see: a headless corpse
+[10/18/2024 01:27]  a headless: a headless
+[10/18/2024 01:27]  Fryos Scyvos: Fryos Scyvos (Young)
+[10/18/2024 01:27]  a skeleton: a skeleton
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  a mongbat: *looks violently ill*
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  a mongbat: a mongbat
+[10/18/2024 01:27]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:27]  Alexandra Rae: Alexandra Rae (Young)
+[10/18/2024 01:27]  You see: a corpser corpse
+[10/18/2024 01:27]  You see: a corpser corpse
+[10/18/2024 01:27]  You see: a giant rat corpse
+[10/18/2024 01:27]  You see: the remains of Snooj
+[10/18/2024 01:27]  a giant frog: a giant frog
+[10/18/2024 01:27]  System: Opening door...
+[10/18/2024 01:27]  a giant frog: a giant frog
+[10/18/2024 01:27]  a colossal frog: a colossal frog
+[10/18/2024 01:27]  a giant frog: a giant frog
+[10/18/2024 01:27]  You see: a skeletal corpse
+[10/18/2024 01:27]  a skeleton: a skeleton
+[10/18/2024 01:27]  You see: a skeletal corpse
+[10/18/2024 01:27]  a mongbat: a mongbat
+[10/18/2024 01:27]  a skeleton: a skeleton
+[10/18/2024 01:27]  You see: the remains of Topflight
+[10/18/2024 01:27]  a corpser: a corpser
+[10/18/2024 01:27]  You see: the remains of kublia
+[10/18/2024 01:27]  a giant rat: a giant rat
+[10/18/2024 01:27]  Rikkard: That is out of my line of sight.
+[10/18/2024 01:27]  System: Opening door...
+[10/18/2024 01:27]  System: You may not loot this corpse.
+[10/18/2024 01:27]  You see: a giant rat corpse
+[10/18/2024 01:27]  You see: a giant rat corpse
+[10/18/2024 01:27]  System: You may not loot this corpse.
+[10/18/2024 01:27]  a skeleton: a skeleton
+[10/18/2024 01:27]  a zombie: a zombie
+[10/18/2024 01:27]  a zombie: a zombie
+[10/18/2024 01:27]  System: You may not loot this corpse.
+[10/18/2024 01:27]  Rikkard: Target: a skeleton
+[10/18/2024 01:27]  Razor: Attack: a skeleton
+[10/18/2024 01:27]  System: 16% arcane buildup.
+[10/18/2024 01:27]  a skeleton: -32
+[10/18/2024 01:27]  System: You may not loot this corpse.
+[10/18/2024 01:27]  You see: a headless corpse
+[10/18/2024 01:27]  System: You may not loot this corpse.
+[10/18/2024 01:27]  System: That is too far away.
+[10/18/2024 01:27]  System: 32% arcane buildup.
+[10/18/2024 01:27]  a skeleton: -33
+[10/18/2024 01:27]  a skeleton: a skeleton
+[10/18/2024 01:27]  System: 48% arcane buildup.
+[10/18/2024 01:27]  a skeleton: -32
+[10/18/2024 01:28]  System: 64% arcane buildup.
+[10/18/2024 01:28]  a skeleton: -30
+[10/18/2024 01:28]  Rikkard: Por Ort Grav
+[10/18/2024 01:28]  You see: a skeletal corpse
+[10/18/2024 01:28]  Razor: Target: a skeleton
+[10/18/2024 01:28]  a skeleton: -55
+[10/18/2024 01:28]  System: 80% arcane buildup.
+[10/18/2024 01:28]  a skeleton: -31
+[10/18/2024 01:28]  Rikkard: Target: a skeleton
+[10/18/2024 01:28]  Razor: Attack: a skeleton
+[10/18/2024 01:28]  Rikkard: Por Ort Grav
+[10/18/2024 01:28]  a giant rat: a giant rat
+[10/18/2024 01:28]  System: 96% arcane buildup.
+[10/18/2024 01:28]  a skeleton: -31
+[10/18/2024 01:28]  a skeleton: a skeleton
+[10/18/2024 01:28]  Rikkard: -2
+[10/18/2024 01:28]  System: gzuf has completed the achievement: Mini-Boss Slayer (Basic).
+[10/18/2024 01:28]  System: You charge your spell with additional energy!
+[10/18/2024 01:28]  a skeleton: -77
+[10/18/2024 01:28]  System: 100% arcane buildup.
+[10/18/2024 01:28]  a skeleton: -26
+[10/18/2024 01:28]  Rikkard: Por Ort Grav
+[10/18/2024 01:28]  You see: a giant rat corpse
+[10/18/2024 01:28]  System: You have gained a little fame.
+[10/18/2024 01:28]  System: You have gained a little karma.
+[10/18/2024 01:28]  System: -53
+[10/18/2024 01:28]  You see: a skeletal corpse
+[10/18/2024 01:28]  System: You must wait another moment before you may pick up an item from here.
+[10/18/2024 01:28]  You see: a giant rat corpse
+[10/18/2024 01:28]  You see: unidentified wooden shield
+[10/18/2024 01:28]  System: 80% arcane buildup.
+[10/18/2024 01:28]  System: 60% arcane buildup.
+[10/18/2024 01:28]  a skeleton: a skeleton
+[10/18/2024 01:28]  You see: a mongbat corpse
+[10/18/2024 01:28]  Alexandra Rae: Alexandra Rae (Young)
+[10/18/2024 01:28]  a zombie: (summoned)
+[10/18/2024 01:28]  a zombie: a zombie
+[10/18/2024 01:28]  System: 40% arcane buildup.
+[10/18/2024 01:28]  a giant frog: a giant frog
+[10/18/2024 01:28]  You see: a skeletal corpse
+[10/18/2024 01:28]  : bones
+[10/18/2024 01:28]  System: You do not have that spell!
+[10/18/2024 01:28]  System: 20% arcane buildup.
+[10/18/2024 01:29]  System: 0% arcane buildup.
+[10/18/2024 01:29]  a mongbat: a mongbat
+[10/18/2024 01:29]  System: 0% arcane buildup.
+[10/18/2024 01:29]  LazMan: Monster Hunter Initiate
+[10/18/2024 01:29]  LazMan: [Private First Class, TES]
+[10/18/2024 01:29]  LazMan: LazMan
+[10/18/2024 01:29]  a skeleton: a skeleton
+[10/18/2024 01:29]  a headless: a headless
+[10/18/2024 01:29]  You see: a giant rat corpse
+[10/18/2024 01:29]  Alexandra Rae: Alexandra Rae (Young)
+[10/18/2024 01:29]  a zombie: (summoned)
+[10/18/2024 01:29]  a zombie: a zombie
+[10/18/2024 01:29]  a mongbat: a mongbat
+[10/18/2024 01:29]  You see: a giant rat corpse
+[10/18/2024 01:29]  Ronny James Dio: Ronny James Dio (Young)
+[10/18/2024 01:29]  LazMan: *looks violently ill*
+[10/18/2024 01:29]  a mongbat: a mongbat
+[10/18/2024 01:29]  a giant rat: a giant rat
+[10/18/2024 01:29]  You see: a mongbat corpse
+[10/18/2024 01:29]  You see: a giant rat corpse
+[10/18/2024 01:29]  You see: a mongbat corpse
+[10/18/2024 01:30]  a skeleton: a skeleton
+[10/18/2024 01:30]  System: 16% arcane buildup.
+[10/18/2024 01:30]  a skeleton: -41
+[10/18/2024 01:30]  You see: a mongbat corpse
+[10/18/2024 01:30]  System: Brews has completed the achievement: Artisan (Basic).
+[10/18/2024 01:30]  Rikkard: -3
+[10/18/2024 01:30]  System: You blast the unprotected target, dealing significant damage!
+[10/18/2024 01:30]  System: 32% arcane buildup.
+[10/18/2024 01:30]  a skeleton: -53
+[10/18/2024 01:30]  System: 48% arcane buildup.
+[10/18/2024 01:30]  a skeleton: -37
+[10/18/2024 01:30]  Ronny James Dio: Ronny James Dio (Young)
+[10/18/2024 01:30]  a mongbat: *looks violently ill*
+[10/18/2024 01:30]  System: 64% arcane buildup.
+[10/18/2024 01:30]  a skeleton: -35
+[10/18/2024 01:30]  Rikkard: In Por Ylem
+[10/18/2024 01:30]  System: 80% arcane buildup.
+[10/18/2024 01:30]  a skeleton: -29
+[10/18/2024 01:30]  System: Your reactive armor spell has expired.
+[10/18/2024 01:30]  System: Your reactive armor spell has been nullified.
+[10/18/2024 01:30]  Rikkard: -10
+[10/18/2024 01:30]  System: 96% arcane buildup.
+[10/18/2024 01:30]  a skeleton: -43
+[10/18/2024 01:30]  LazMan: *looks violently ill*
+[10/18/2024 01:30]  Razor: Target: a skeleton
+[10/18/2024 01:30]  System: 100% arcane buildup.
+[10/18/2024 01:30]  a skeleton: -36
+[10/18/2024 01:30]  You see: a mongbat corpse
+[10/18/2024 01:30]  a skeleton: -20
+[10/18/2024 01:30]  Fripp: Fripp (Young)
+[10/18/2024 01:30]  System: Viperine Shadow has completed the achievement: Seasoned Veteran.
+[10/18/2024 01:30]  Rikkard: In Por Ylem
+[10/18/2024 01:30]  a giant frog: (tame)
+[10/18/2024 01:30]  a giant frog: a giant frog
+[10/18/2024 01:30]  a colossal frog: (tame)
+[10/18/2024 01:30]  a colossal frog: a colossal frog
+[10/18/2024 01:30]  a giant frog: (tame)
+[10/18/2024 01:30]  a giant frog: a giant frog
+[10/18/2024 01:30]  a skeleton: a skeleton
+[10/18/2024 01:30]  System: You generate mana for your spell.
+[10/18/2024 01:30]  a skeleton: -33
+[10/18/2024 01:30]  a skeleton: -24
+[10/18/2024 01:30]  You see: a giant rat corpse
+[10/18/2024 01:30]  Rikkard: In Por Ylem
+[10/18/2024 01:30]  a skeleton: -32
+[10/18/2024 01:30]  System: You have gained a little fame.
+[10/18/2024 01:30]  System: You have gained a little karma.
+[10/18/2024 01:30]  System: -17
+[10/18/2024 01:30]  You see: a skeletal corpse
+[10/18/2024 01:30]  a corpser: a corpser
+[10/18/2024 01:30]  a skeleton: a skeleton
+[10/18/2024 01:30]  You see: a rotting corpse
+[10/18/2024 01:30]  a ghoul: a ghoul
+[10/18/2024 01:30]  Rikkard: That is out of my line of sight.
+[10/18/2024 01:30]  You see: a corpser corpse
+[10/18/2024 01:30]  a zombie: (summoned)
+[10/18/2024 01:30]  a zombie: a zombie
+[10/18/2024 01:30]  System: 80% arcane buildup.
+[10/18/2024 01:30]  Rikkard: That is out of my line of sight.
+[10/18/2024 01:30]  System: You may not loot this corpse.
+[10/18/2024 01:30]  System: You may not loot this corpse.
+[10/18/2024 01:30]  System: You may not loot this corpse.
+[10/18/2024 01:30]  You see: a giant rat corpse
+[10/18/2024 01:30]  You see: a giant rat corpse
+[10/18/2024 01:30]  System: You may not loot this corpse.
+[10/18/2024 01:30]  System: You may not loot this corpse.
+[10/18/2024 01:30]  System: That is too far away.
+[10/18/2024 01:30]  Rikkard: Target: a skeleton
+[10/18/2024 01:30]  Razor: Attack: a skeleton
+[10/18/2024 01:30]  a ghoul: a ghoul
+[10/18/2024 01:30]  Rikkard: Corp Por
+[10/18/2024 01:30]  Rikkard: -11
+[10/18/2024 01:30]  Razor: Target: a skeleton
+[10/18/2024 01:30]  System: Magery skillgain: 100%
+[10/18/2024 01:30]  System: Your skill in Tactics has decreased by 0.1.  It is now 16.6.
+[10/18/2024 01:30]  System: Your skill in Magery has increased by 0.1.  It is now 61.1.
+[10/18/2024 01:30]  Rikkard: The spell fizzles.
+[10/18/2024 01:30]  System: 96% arcane buildup.
+[10/18/2024 01:30]  a skeleton: -34
+[10/18/2024 01:30]  Rikkard: Corp Por
+[10/18/2024 01:30]  System: Magery skillgain: 100%
+[10/18/2024 01:30]  System: Your skill in Tactics has decreased by 0.1.  It is now 16.5.
+[10/18/2024 01:30]  System: Your skill in Magery has increased by 0.1.  It is now 61.2.
+[10/18/2024 01:30]  Rikkard: The spell fizzles.
+[10/18/2024 01:30]  System: 100% arcane buildup.
+[10/18/2024 01:30]  a skeleton: -34
+[10/18/2024 01:30]  Rikkard: Corp Por
+[10/18/2024 01:30]  Rikkard: -14
+[10/18/2024 01:30]  System: Looted Goods has completed the achievement: Scribe (Advanced).
+[10/18/2024 01:30]  System: Magery skillgain: 100%
+[10/18/2024 01:30]  System: Your skill in Tactics has decreased by 0.1.  It is now 16.4.
+[10/18/2024 01:30]  System: Your skill in Magery has increased by 0.1.  It is now 61.3.
+[10/18/2024 01:30]  Rikkard: The spell fizzles.
+[10/18/2024 01:30]  a skeleton: -34
+[10/18/2024 01:30]  Rikkard: In Nox
+[10/18/2024 01:30]  a skeleton: *looks ill*
+[10/18/2024 01:30]  Rikkard: Por Ort Grav
+[10/18/2024 01:30]  a skeleton: -28
+[10/18/2024 01:30]  System: You charge your spell with additional energy!
+[10/18/2024 01:30]  a skeleton: -81
+[10/18/2024 01:30]  a skeleton: *looks ill*
+[10/18/2024 01:30]  a skeleton: -8
+[10/18/2024 01:30]  a skeleton: -31
+[10/18/2024 01:30]  Rikkard: Por Ort Grav
+[10/18/2024 01:31]  a skeleton: -58
+[10/18/2024 01:31]  System: You blast the unprotected target, dealing significant damage!
+[10/18/2024 01:31]  System: You have gained a little fame.
+[10/18/2024 01:31]  System: You have gained a little karma.
+[10/18/2024 01:31]  System: -16
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  System: CroatzOCE has completed the achievement: Guardian of The Mausoleum (Intermediate).
+[10/18/2024 01:31]  Rikkard: In Nox
+[10/18/2024 01:31]  Rikkard: Target: a skeleton
+[10/18/2024 01:31]  Razor: Attack: a skeleton
+[10/18/2024 01:31]  a skeleton: -34
+[10/18/2024 01:31]  Razor: Target: a skeleton
+[10/18/2024 01:31]  System: You generate mana for your spell.
+[10/18/2024 01:31]  a skeleton: *looks ill*
+[10/18/2024 01:31]  Rikkard: Corp Por
+[10/18/2024 01:31]  Rikkard: -11
+[10/18/2024 01:31]  a skeleton: -37
+[10/18/2024 01:31]  System: Magery skillgain: 100%
+[10/18/2024 01:31]  System: Your skill in Tactics has decreased by 0.1.  It is now 16.3.
+[10/18/2024 01:31]  System: Your skill in Magery has increased by 0.1.  It is now 61.4.
+[10/18/2024 01:31]  Rikkard: The spell fizzles.
+[10/18/2024 01:31]  a skeleton: *looks ill*
+[10/18/2024 01:31]  a skeleton: -8
+[10/18/2024 01:31]  Rikkard: Corp Por
+[10/18/2024 01:31]  Rikkard: -14
+[10/18/2024 01:31]  a skeleton: -37
+[10/18/2024 01:31]  System: Magery skillgain: 100%
+[10/18/2024 01:31]  System: Your skill in Tactics has decreased by 0.1.  It is now 16.2.
+[10/18/2024 01:31]  System: Your skill in Magery has increased by 0.1.  It is now 61.5.
+[10/18/2024 01:31]  Rikkard: The spell fizzles.
+[10/18/2024 01:31]  a skeleton: -33
+[10/18/2024 01:31]  Rikkard: Corp Por
+[10/18/2024 01:31]  a skeleton: -38
+[10/18/2024 01:31]  System: Magery skillgain: 100%
+[10/18/2024 01:31]  System: Your skill in Tactics has decreased by 0.1.  It is now 16.1.
+[10/18/2024 01:31]  System: Your skill in Magery has increased by 0.1.  It is now 61.6.
+[10/18/2024 01:31]  Rikkard: The spell fizzles.
+[10/18/2024 01:31]  Rikkard: In Vas Mani
+[10/18/2024 01:31]  a skeleton: *looks ill*
+[10/18/2024 01:31]  a skeleton: -8
+[10/18/2024 01:31]  System: You generate mana for your spell.
+[10/18/2024 01:31]  Rikkard: +26
+[10/18/2024 01:31]  System: some damage has been healed : 26
+[10/18/2024 01:31]  a skeleton: -26
+[10/18/2024 01:31]  Rikkard: In Nox
+[10/18/2024 01:31]  System: You blast the unprotected target, dealing significant damage!
+[10/18/2024 01:31]  a skeleton: -66
+[10/18/2024 01:31]  System: You generate mana for your spell.
+[10/18/2024 01:31]  a skeleton: -1
+[10/18/2024 01:31]  Rikkard: -14
+[10/18/2024 01:31]  a skeleton: -26
+[10/18/2024 01:31]  Rikkard: In Por Ylem
+[10/18/2024 01:31]  System: You generate mana for your spell.
+[10/18/2024 01:31]  System: You charge your spell with additional energy!
+[10/18/2024 01:31]  a skeleton: -43
+[10/18/2024 01:31]  Rikkard: Corp Por
+[10/18/2024 01:31]  a skeleton: *looks ill*
+[10/18/2024 01:31]  a skeleton: -8
+[10/18/2024 01:31]  System: You have gained a little fame.
+[10/18/2024 01:31]  System: You have gained a little karma.
+[10/18/2024 01:31]  System: -35
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  You see: a ghoul corpse
+[10/18/2024 01:31]  a ghoul: a ghoul
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  a skeleton: a skeleton
+[10/18/2024 01:31]  kublia: kublia (Young)
+[10/18/2024 01:31]  You see: the remains of Netos
+[10/18/2024 01:31]  You see: a monitor hatchling corpse
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  System: 80% arcane buildup.
+[10/18/2024 01:31]  a ghoul: a ghoul
+[10/18/2024 01:31]  a monitor hatchling: a monitor hatchling
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  System: You may not loot this corpse.
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  System: You may not loot this corpse.
+[10/18/2024 01:31]  System: You may not loot this corpse.
+[10/18/2024 01:31]  You see: a monitor hatchling corpse
+[10/18/2024 01:31]  System: You may not loot this corpse.
+[10/18/2024 01:31]  a ghoul: a ghoul
+[10/18/2024 01:31]  System: That is too far away.
+[10/18/2024 01:31]  Fripp: Fripp (Young)
+[10/18/2024 01:31]  You see: a ghoul corpse
+[10/18/2024 01:31]  a giant frog: (tame)
+[10/18/2024 01:31]  a giant frog: a giant frog
+[10/18/2024 01:31]  a colossal frog: (tame)
+[10/18/2024 01:31]  a colossal frog: a colossal frog
+[10/18/2024 01:31]  a giant frog: (tame)
+[10/18/2024 01:31]  a giant frog: a giant frog
+[10/18/2024 01:31]  a skeleton: a skeleton
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  You see: a corpser corpse
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  System: Opening door...
+[10/18/2024 01:31]  a skeleton: a skeleton
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  Rikkard: That is out of my line of sight.
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:31]  System: You may not loot this corpse.
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  System: You may not loot this corpse.
+[10/18/2024 01:31]  System: You may not loot this corpse.
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  a giant frog: a giant frog
+[10/18/2024 01:31]  You see: a skeletal corpse
+[10/18/2024 01:31]  a colossal frog: a colossal frog
+[10/18/2024 01:31]  Rikkard: Target: a ghoul
+[10/18/2024 01:31]  Razor: Attack: a ghoul
+[10/18/2024 01:31]  System: MagicResist skillgain: 100%
+[10/18/2024 01:31]  System: Your skill in Tactics has decreased by 1.0.  It is now 15.1.
+[10/18/2024 01:31]  System: Your skill in Resisting Spells has increased by 1.0.  It is now 63.3.
+[10/18/2024 01:31]  Rikkard: -7
+[10/18/2024 01:31]  System: 60% arcane buildup.
+[10/18/2024 01:31]  System: 76% arcane buildup.
+[10/18/2024 01:31]  a ghoul: -27
+[10/18/2024 01:31]  Rikkard: Corp Por
+[10/18/2024 01:31]  Razor: Target: a ghoul
+[10/18/2024 01:31]  System: Magery skillgain: 100%
+[10/18/2024 01:31]  System: Your skill in Tactics has decreased by 0.1.  It is now 15.0.
+[10/18/2024 01:31]  System: Your skill in Magery has increased by 0.1.  It is now 61.7.
+[10/18/2024 01:31]  System: 92% arcane buildup.
+[10/18/2024 01:31]  a ghoul: -30
+[10/18/2024 01:31]  Rikkard: Corp Por
+[10/18/2024 01:31]  a ghoul: -108
+[10/18/2024 01:31]  Rikkard: -5
+[10/18/2024 01:32]  System: Magery skillgain: 100%
+[10/18/2024 01:32]  System: Your skill in Tactics has decreased by 0.1.  It is now 14.9.
+[10/18/2024 01:32]  System: Your skill in Magery has increased by 0.1.  It is now 61.8.
+[10/18/2024 01:32]  Rikkard: The spell fizzles.
+[10/18/2024 01:32]  a monitor hatchling: a monitor hatchling
+[10/18/2024 01:32]  Rikkard: Corp Por
+[10/18/2024 01:32]  Rikkard: -15
+[10/18/2024 01:32]  System: 100% arcane buildup.
+[10/18/2024 01:32]  a ghoul: -30
+[10/18/2024 01:32]  System: Magery skillgain: 100%
+[10/18/2024 01:32]  System: Your skill in Tactics has decreased by 0.1.  It is now 14.8.
+[10/18/2024 01:32]  System: Your skill in Magery has increased by 0.1.  It is now 61.9.
+[10/18/2024 01:32]  Rikkard: The spell fizzles.
+[10/18/2024 01:32]  Rikkard: -2
+[10/18/2024 01:32]  a ghoul: -28
+[10/18/2024 01:32]  Rikkard: Corp Por
+[10/18/2024 01:32]  System: Magery skillgain: 100%
+[10/18/2024 01:32]  System: Your skill in Tactics has decreased by 0.1.  It is now 14.7.
+[10/18/2024 01:32]  System: Your skill in Magery has increased by 0.1.  It is now 62.0.
+[10/18/2024 01:32]  Rikkard: The spell fizzles.
+[10/18/2024 01:32]  Rikkard: In Vas Mani
+[10/18/2024 01:32]  a ghoul: -38
+[10/18/2024 01:32]  System: You generate mana for your spell.
+[10/18/2024 01:32]  Rikkard: +28
+[10/18/2024 01:32]  System: some damage has been healed : 28
+[10/18/2024 01:32]  System: MagicResist skillgain: 100%
+[10/18/2024 01:32]  System: Your skill in Tactics has decreased by 1.0.  It is now 13.7.
+[10/18/2024 01:32]  System: Your skill in Resisting Spells has increased by 1.0.  It is now 64.3.
+[10/18/2024 01:32]  Rikkard: -7
+[10/18/2024 01:32]  Rikkard: Flam Sanct

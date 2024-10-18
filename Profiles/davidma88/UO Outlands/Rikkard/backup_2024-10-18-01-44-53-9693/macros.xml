@@ -50,12 +50,12 @@
 			<action code="1" subcode="0" submenutype="2" text="[help" />
 		</actions>
 	</macro>
-	<macro name="Guards" key="1073741882" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Guards" key="1073741913" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="Guards!" />
 		</actions>
 	</macro>
-	<macro name="Bank" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Bank" key="1073741914" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\EasySays\BankRoomMain" />
 		</actions>
@@ -191,7 +191,7 @@
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\PVM\Carve" />
 		</actions>
 	</macro>
-	<macro name="Lightning" key="113" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Lightning" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="15" subcode="91" submenutype="1" />
 		</actions>
@@ -223,17 +223,17 @@
 			<action code="16" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
-	<macro name="Teleport" key="116" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Teleport" key="1073741882" mousebutton="0" alt="False" ctrl="False" shift="True">
 		<actions>
 			<action code="15" subcode="83" submenutype="1" />
 		</actions>
 	</macro>
-	<macro name="Wall of Stone" key="119" mousebutton="0" alt="False" ctrl="False" shift="True">
+	<macro name="Wall of Stone" key="1073741882" mousebutton="0" alt="False" ctrl="True" shift="False">
 		<actions>
 			<action code="15" subcode="85" submenutype="1" />
 		</actions>
 	</macro>
-	<macro name="Energy Bolt" key="101" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Energy Bolt" key="1073741884" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="15" subcode="103" submenutype="1" />
 		</actions>
@@ -253,6 +253,16 @@
 	<macro name="OpenCorpses" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="94" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Magic Arrow" key="1073741882" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="66" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Poison" key="1073741885" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="15" subcode="81" submenutype="1" />
 		</actions>
 	</macro>
 </macros>

@@ -1,0 +1,372 @@
+[10/18/2024 23:11]  System: WorldMap loading...
+[10/18/2024 23:11]  System: Loading WorldMap markers..
+[10/18/2024 23:11]  System: ..Banks_and_Healers.xml (39)
+[10/18/2024 23:11]  System: ..Dungeons.xml (13)
+[10/18/2024 23:11]  System: ..Dungeon_Gates.xml (392)
+[10/18/2024 23:11]  System: ..Healer_Caravans.xml (42)
+[10/18/2024 23:11]  System: ..Kings_Faire.xml (49)
+[10/18/2024 23:11]  System: ..Moongates.xml (10)
+[10/18/2024 23:11]  System: ..POI.xml (251)
+[10/18/2024 23:11]  System: ..PvP_Locations.xml (71)
+[10/18/2024 23:11]  System: ..Shrines.xml (9)
+[10/18/2024 23:11]  System: ..Sub-Dungeons.xml (4)
+[10/18/2024 23:11]  System: ..Townships.xml (10)
+[10/18/2024 23:11]  System: ..UOAM_Atlas.xml (1887)
+[10/18/2024 23:11]  System: ..UOAM_T-Map.xml (255)
+[10/18/2024 23:11]  System: ..UOAM_Treasure.xml (523)
+[10/18/2024 23:11]  System: WorldMap markers loaded (3555)
+[10/18/2024 23:11]  System: Welcome Rikkard!
+[10/18/2024 23:11]  [Razor]: Finished 2 queued actions in 0.7 seconds.
+[10/18/2024 23:11]  Rikkard: Rikkard (Young)
+[10/18/2024 23:11]  Lucy Olympos: Lucy Olympos (Young)
+[10/18/2024 23:11]  Carlton: Carlton the stablemaster
+[10/18/2024 23:11]  MiniMembro: (bonded)
+[10/18/2024 23:11]  MiniMembro: MiniMembro
+[10/18/2024 23:11]  Morthilda: Morthilda
+[10/18/2024 23:11]  Zara: Zara the scribe
+[10/18/2024 23:11]  Sherwin: Sherwin the mage
+[10/18/2024 23:11]  Kasinda: Kasinda the alchemist
+[10/18/2024 23:11]  Sellerike: Sellerike (Young)
+[10/18/2024 23:11]  a sun wyrm: (tame)
+[10/18/2024 23:11]  a sun wyrm: a sun wyrm
+[10/18/2024 23:11]  Raziel HaMalakh: [ITA.]
+[10/18/2024 23:11]  Raziel HaMalakh: Raziel HaMalakh
+[10/18/2024 23:11]  Kenelm: Kenelm the tavern keeper
+[10/18/2024 23:11]  Ottochad: [Garlic Lord Treasurer, GIT]
+[10/18/2024 23:11]  Ottochad: Ottochad
+[10/18/2024 23:11]  Zann: Zann the Necromancer
+[10/18/2024 23:11]  Rosaline: Rosaline the waiter
+[10/18/2024 23:11]  Ashleigh: Ashleigh the battle trainer
+[10/18/2024 23:11]  Alben: Alben the battle trainer
+[10/18/2024 23:11]  Wandering Merlin: Wandering Merlin
+[10/18/2024 23:11]  Deep Regret: Deep Regret (Young)
+[10/18/2024 23:11]  a horse: (tame)
+[10/18/2024 23:11]  a horse: a horse
+[10/18/2024 23:11]  Ker Keres: Ker Keres
+[10/18/2024 23:11]  Aneurysm: Aneurysm (Young)
+[10/18/2024 23:11]  Foopp: Foopp (Young)
+[10/18/2024 23:11]  iMDMA: Backstabber
+[10/18/2024 23:11]  iMDMA: iMDMA
+[10/18/2024 23:11]  TuneKing: Triggered
+[10/18/2024 23:11]  TuneKing: TuneKing
+[10/18/2024 23:11]  Morgan Gill: Morgan Gill
+[10/18/2024 23:11]  Reeko: Reeko (Young)
+[10/18/2024 23:11]  Akamilson: Akamilson (Young)
+[10/18/2024 23:11]  Irenus: [Prospect, T^C]
+[10/18/2024 23:11]  Irenus: Irenus
+[10/18/2024 23:11]  Sergio: Sergio the battle trainer
+[10/18/2024 23:11]  Jermaine: [1C3]
+[10/18/2024 23:11]  Jermaine: Jermaine
+[10/18/2024 23:11]  Ferrell: Triggered
+[10/18/2024 23:11]  Ferrell: Ferrell
+[10/18/2024 23:11]  Corniglia: [Council, NC]
+[10/18/2024 23:11]  Corniglia: Lord Corniglia
+[10/18/2024 23:11]  Brantly Brantlon: Brantly Brantlon (Young)
+[10/18/2024 23:11]  Tobin Billiams: Tobin Billiams (Young)
+[10/18/2024 23:11]  Neon Nightmare: Neon Nightmare
+[10/18/2024 23:11]  Luther Pandragon: Luther Pandragon (Young)
+[10/18/2024 23:11]  KPAKEH: KPAKEH (Young)
+[10/18/2024 23:11]  Delirivm: Delirivm (Young)
+[10/18/2024 23:11]  Bajson: Bajson (Young)
+[10/18/2024 23:11]  Grease Trap: Grease Trap (Young)
+[10/18/2024 23:11]  a boomer: [Ripe, SQzD]
+[10/18/2024 23:11]  a boomer: a boomer
+[10/18/2024 23:11]  System: WorldMap loaded!
+[10/18/2024 23:11]  Irenus: [Prospect, T^C]
+[10/18/2024 23:11]  Irenus: Irenus
+[10/18/2024 23:11]  Rikkard: Bank Vendor buy
+[10/18/2024 23:11]  Zara: Greetings.  Have a look around.
+[10/18/2024 23:11]  Rikkard: Room
+[10/18/2024 23:11]  Zara: Shhhh!
+[10/18/2024 23:12]  Irenus: [Prospect, T^C]
+[10/18/2024 23:12]  Irenus: Irenus
+[10/18/2024 23:12]  System: MetaCraft has completed the achievement: Order of Armorers Associate.
+[10/18/2024 23:12]  Lemmy Darker: Lemmy Darker
+[10/18/2024 23:12]  Irenus: [Prospect, T^C]
+[10/18/2024 23:12]  Irenus: Irenus
+[10/18/2024 23:12]  Irenus: [Prospect, T^C]
+[10/18/2024 23:12]  Irenus: Irenus
+[10/18/2024 23:13]  System: Selan has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/18/2024 23:13]  Irenus: [Prospect, T^C]
+[10/18/2024 23:13]  Irenus: Irenus
+[10/18/2024 23:13]  DeeDay: DeeDay
+[10/18/2024 23:13]  Irenus: [Prospect, T^C]
+[10/18/2024 23:13]  Irenus: Irenus
+[10/18/2024 23:13]  Tonia Haddix: Tonia Haddix (Young)
+[10/18/2024 23:13]  Irenus: [Prospect, T^C]
+[10/18/2024 23:13]  Irenus: Irenus
+[10/18/2024 23:14]  infi: infi (Young)
+[10/18/2024 23:14]  Irenus: [Prospect, T^C]
+[10/18/2024 23:14]  Irenus: Irenus
+[10/18/2024 23:14]  System: Sinth has completed the achievement: Omni Slayer (Advanced).
+[10/18/2024 23:14]  System: Benzitoe has completed the achievement: Enchanter (Basic).
+[10/18/2024 23:14]  Irenus: [Prospect, T^C]
+[10/18/2024 23:14]  Irenus: Irenus
+[10/18/2024 23:14]  Folso: Folso (Young)
+[10/18/2024 23:15]  Irenus: [Prospect, T^C]
+[10/18/2024 23:15]  Irenus: Irenus
+[10/18/2024 23:15]  infi: In Mani Ylem
+[10/18/2024 23:15]  Shallan Kholin: Shallan Kholin
+[10/18/2024 23:15]  Areaglar: [Membro, BRA]
+[10/18/2024 23:15]  Areaglar: Areaglar
+[10/18/2024 23:15]  a traveling worm: a traveling worm (Young)
+[10/18/2024 23:15]  infi: In Mani Ylem
+[10/18/2024 23:15]  Areaglar: [Membro, BRA]
+[10/18/2024 23:15]  Areaglar: Areaglar
+[10/18/2024 23:15]  System: Lupinho has completed the achievement: Triggered (Epic).
+[10/18/2024 23:15]  Irenus: [Prospect, T^C]
+[10/18/2024 23:15]  Irenus: Irenus
+[10/18/2024 23:15]  Sherwin: Sherwin the mage
+[10/18/2024 23:15]  a gravebug: (tame)
+[10/18/2024 23:15]  a gravebug: a gravebug
+[10/18/2024 23:15]  a phoenix: (bonded)
+[10/18/2024 23:15]  a phoenix: a phoenix
+[10/18/2024 23:15]  a lemura: (bonded)
+[10/18/2024 23:15]  a lemura: a lemura
+[10/18/2024 23:15]  System: Wayside- has completed the achievement: Versatility (Advanced).
+[10/18/2024 23:15]  Sherwin: Greetings.  Have a look around.
+[10/18/2024 23:15]  Irenus: [Prospect, T^C]
+[10/18/2024 23:15]  Irenus: Irenus
+[10/18/2024 23:15]  Lemmy Darker: Lemmy Darker
+[10/18/2024 23:15]  System: Chungky has completed the achievement: Artificers Enclave Initiate.
+[10/18/2024 23:16]  Leon III: Leon III (Young)
+[10/18/2024 23:16]  Irenus: [Prospect, T^C]
+[10/18/2024 23:16]  Irenus: Irenus
+[10/18/2024 23:16]  FireFly: FireFly
+[10/18/2024 23:16]  a phoenix: (bonded)
+[10/18/2024 23:16]  a phoenix: a phoenix
+[10/18/2024 23:16]  a lemura: (bonded)
+[10/18/2024 23:16]  a lemura: a lemura
+[10/18/2024 23:16]  a gravebug: (tame)
+[10/18/2024 23:16]  a gravebug: a gravebug
+[10/18/2024 23:16]  Irenus: [Prospect, T^C]
+[10/18/2024 23:16]  Irenus: Irenus
+[10/18/2024 23:16]  Areaglar: [Membro, BRA]
+[10/18/2024 23:16]  Areaglar: Areaglar
+[10/18/2024 23:17]  Irenus: [Prospect, T^C]
+[10/18/2024 23:17]  Irenus: Irenus
+[10/18/2024 23:17]  Irenus: [Prospect, T^C]
+[10/18/2024 23:17]  Irenus: Irenus
+[10/18/2024 23:17]  K e l l d u r a: K e l l d u r a (Young)
+[10/18/2024 23:17]  System: The world will save in 15 seconds.
+[10/18/2024 23:17]  Sherwin: Begging thy pardon, but thy bank account lacks these funds.
+[10/18/2024 23:17]  Sherwin: Sherwin the mage
+[10/18/2024 23:17]  : stone stairs
+[10/18/2024 23:17]  Zara: Zara the scribe
+[10/18/2024 23:17]  Rikkard: Rikkard (Young)
+[10/18/2024 23:17]  System: The world is saving, please wait.
+[10/18/2024 23:17]  System: World save complete. The entire process took 2.6 seconds.
+[10/18/2024 23:17]  Irenus: [Prospect, T^C]
+[10/18/2024 23:17]  Irenus: Irenus
+[10/18/2024 23:18]  Sherwin: Sherwin the mage
+[10/18/2024 23:18]  Sherwin: Greetings.  Have a look around.
+[10/18/2024 23:18]  Oak Night Spirit: Oak Night Spirit (Young)
+[10/18/2024 23:18]  Carlton: Carlton the stablemaster
+[10/18/2024 23:18]  Irenus: [Prospect, T^C]
+[10/18/2024 23:18]  Irenus: Irenus
+[10/18/2024 23:18]  Kenelm: Kenelm the tavern keeper
+[10/18/2024 23:18]  K e l l d u r a: K e l l d u r a (Young)
+[10/18/2024 23:18]  a horse: (tame)
+[10/18/2024 23:18]  a horse: a horse
+[10/18/2024 23:18]  Irenus: [Prospect, T^C]
+[10/18/2024 23:18]  Irenus: Irenus
+[10/18/2024 23:18]  K e l l d u r a: K e l l d u r a (Young)
+[10/18/2024 23:18]  a horse: (tame)
+[10/18/2024 23:18]  a horse: a horse
+[10/18/2024 23:19]  Irenus: [Prospect, T^C]
+[10/18/2024 23:19]  Irenus: Irenus
+[10/18/2024 23:19]  K e l l d u r a: K e l l d u r a (Young)
+[10/18/2024 23:19]  Sherwin: The total of thy purchase is 720 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[10/18/2024 23:19]  [Razor]: Warning: Nightshade amount is now 0!
+[10/18/2024 23:19]  [Razor]: Warning: Spider's Silk amount is now 4!
+[10/18/2024 23:19]  [Razor]: Warning: Blood Moss amount is now 0!
+[10/18/2024 23:19]  [Razor]: Warning: Garlic amount is now 4!
+[10/18/2024 23:19]  [Razor]: Warning: Garlic amount is now 4!
+[10/18/2024 23:19]  Lucy Olympos: Lucy Olympos (Young)
+[10/18/2024 23:19]  [Razor]: Warning: Sulfurous Ash amount is now 0!
+[10/18/2024 23:19]  [Razor]: Warning: Ginseng amount is now 2!
+[10/18/2024 23:19]  Irenus: [Prospect, T^C]
+[10/18/2024 23:19]  Irenus: Irenus
+[10/18/2024 23:19]  System: NewtonsLawz has completed the achievement: Artificers Enclave Associate.
+[10/18/2024 23:19]  Lucy Olympos: Lucy Olympos (Young)
+[10/18/2024 23:19]  System: Arapinha has completed the achievement: Skill Mastery (Basic).
+[10/18/2024 23:19]  Irenus: [Prospect, T^C]
+[10/18/2024 23:19]  Irenus: Irenus
+[10/18/2024 23:19]  Sherwin: Sherwin the mage
+[10/18/2024 23:19]  Sherwin: Greetings.  Have a look around.
+[10/18/2024 23:19]  Starbuck Pequod: Starbuck Pequod (Young)
+[10/18/2024 23:19]  Kenelm: Kenelm the tavern keeper
+[10/18/2024 23:20]  Tesorino: Tesorino
+[10/18/2024 23:20]  Irenus: [Prospect, T^C]
+[10/18/2024 23:20]  Irenus: Irenus
+[10/18/2024 23:20]  K e l l d u r a: K e l l d u r a (Young)
+[10/18/2024 23:20]  Green Elf: Green Elf
+[10/18/2024 23:20]  K e l l d u r a: K e l l d u r a (Young)
+[10/18/2024 23:20]  SweetCorn: SweetCorn (Young)
+[10/18/2024 23:20]  Irenus: [Prospect, T^C]
+[10/18/2024 23:20]  Irenus: Irenus
+[10/18/2024 23:20]  Alben: *looks calmed*
+[10/18/2024 23:20]  Sherwin: I will teach thee all I know, if paid the amount in full.  The price is: 450
+[10/18/2024 23:20]  Sherwin: For less I shall teach thee less.
+[10/18/2024 23:20]  PoundCake: Prospector
+[10/18/2024 23:20]  PoundCake: [Elite, NC]
+[10/18/2024 23:20]  PoundCake: Lord PoundCake
+[10/18/2024 23:20]  Sherwin: Let me show thee something of how this is done.
+[10/18/2024 23:20]  Kenelm: Kenelm the tavern keeper
+[10/18/2024 23:21]  MiniMembro: (bonded)
+[10/18/2024 23:21]  MiniMembro: MiniMembro
+[10/18/2024 23:21]  Rosaline: Rosaline the waiter
+[10/18/2024 23:21]  Sergio: Sergio the battle trainer
+[10/18/2024 23:21]  Jermaine: [1C3]
+[10/18/2024 23:21]  Jermaine: Jermaine
+[10/18/2024 23:21]  Bajson: Bajson (Young)
+[10/18/2024 23:21]  a boomer: [Ripe, SQzD]
+[10/18/2024 23:21]  a boomer: a boomer
+[10/18/2024 23:21]  Foopp: Foopp (Young)
+[10/18/2024 23:21]  TuneKing: Triggered
+[10/18/2024 23:21]  TuneKing: TuneKing
+[10/18/2024 23:21]  Morgan Gill: Morgan Gill
+[10/18/2024 23:21]  KPAKEH: KPAKEH (Young)
+[10/18/2024 23:21]  Ashleigh: Ashleigh the battle trainer
+[10/18/2024 23:21]  Ker Keres: Ker Keres
+[10/18/2024 23:21]  Aneurysm: Aneurysm (Young)
+[10/18/2024 23:21]  Jordan: Jordan the beggar
+[10/18/2024 23:21]  Rooster-: Terran
+[10/18/2024 23:21]  Rooster-: [EVIL]
+[10/18/2024 23:21]  Rooster-: Rooster-
+[10/18/2024 23:21]  Bly: Bly the fisherman
+[10/18/2024 23:21]  Broces: Broces
+[10/18/2024 23:21]  Jayne: Jayne the innkeeper
+[10/18/2024 23:21]  S c o u r g e: [SQzD]
+[10/18/2024 23:21]  S c o u r g e: S c o u r g e
+[10/18/2024 23:21]  Piglet the Chow: Piglet the Chow (Young)
+[10/18/2024 23:21]  Zara: Zara the scribe
+[10/18/2024 23:21]  Sherwin: Sherwin the mage
+[10/18/2024 23:21]  Green Elf: Green Elf
+[10/18/2024 23:21]  K e l l d u r a: K e l l d u r a (Young)
+[10/18/2024 23:21]  SweetCorn: SweetCorn (Young)
+[10/18/2024 23:21]  Randuin: Randuin (Young)
+[10/18/2024 23:21]  Carlton: Carlton the stablemaster
+[10/18/2024 23:21]  Carlton: Greetings.  Have a look around.
+[10/18/2024 23:21]  Lucy Olympos: Lucy Olympos (Young)
+[10/18/2024 23:21]  Green Elf: Green Elf
+[10/18/2024 23:21]  Broces: Broces
+[10/18/2024 23:21]  Jordan: Jordan the beggar
+[10/18/2024 23:21]  Bly: Bly the fisherman
+[10/18/2024 23:21]  Lemmy Darker: Lemmy Darker
+[10/18/2024 23:21]  Kismet Meiken: [Prankster, O|P]
+[10/18/2024 23:21]  Kismet Meiken: Kismet Meiken
+[10/18/2024 23:21]  Lene: Lene the salvage foreman
+[10/18/2024 23:21]  Tai: Tai the fisherman
+[10/18/2024 23:21]  Wijdan: Wijdan the mapmaker
+[10/18/2024 23:21]  Meg: Meg the bowyer
+[10/18/2024 23:21]  Madelyn: Madelyn the shipwright
+[10/18/2024 23:21]  a horse: (tame)
+[10/18/2024 23:21]  a horse: a horse
+[10/18/2024 23:21]  Piglet the Chow: Piglet the Chow (Young)
+[10/18/2024 23:21]  Chane: Chane the carpenter
+[10/18/2024 23:21]  Adara: Adara the bard
+[10/18/2024 23:21]  Doyle McPoyle: Doyle McPoyle
+[10/18/2024 23:21]  Komor: Komor the tanner
+[10/18/2024 23:21]  Kamali: Kamali the butcher
+[10/18/2024 23:21]  Adara: Adara the bard
+[10/18/2024 23:21]  Thea: Thea the beggar
+[10/18/2024 23:21]  Komor: Komor the tanner
+[10/18/2024 23:21]  Komor: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[10/18/2024 23:21]  Komor: For less I shall teach thee less.
+[10/18/2024 23:21]  System: Your skill in Tactics has decreased by 10.6.  It is now 0.0.
+[10/18/2024 23:21]  System: Your skill in Meditation has decreased by 39.4.  It is now 40.6.
+[10/18/2024 23:21]  System: Your skill in Forensic Evaluation has increased by 50.0.  It is now 50.0.
+[10/18/2024 23:21]  System: Sollet has completed the achievement: Chef (Advanced).
+[10/18/2024 23:21]  Komor: Komor the tanner
+[10/18/2024 23:21]  Komor: Greetings.  Have a look around.
+[10/18/2024 23:21]  Adara: Adara the bard
+[10/18/2024 23:21]  Komor: The total of thy purchase is 30 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[10/18/2024 23:21]  Komor: Komor the tanner
+[10/18/2024 23:22]  Madelyn: Madelyn the shipwright
+[10/18/2024 23:22]  Trav Daddy J: Aegis Keep Legend
+[10/18/2024 23:22]  Trav Daddy J: [TWINK BFF, NEW!]
+[10/18/2024 23:22]  Trav Daddy J: Lord Trav Daddy J
+[10/18/2024 23:22]  : grass
+[10/18/2024 23:22]  Artemis Spectre: Legendary Pirate
+[10/18/2024 23:22]  Artemis Spectre: [Mitglied, DoS]
+[10/18/2024 23:22]  Artemis Spectre: Lord Artemis Spectre
+[10/18/2024 23:22]  System: An Omni Realm will become public in 10 minutes.
+[10/18/2024 23:22]  System: Yew Militia (Yew) guild has reached prestige level 731.
+[10/18/2024 23:22]  Madelyn: Madelyn the shipwright
+[10/18/2024 23:22]  Madelyn: Madelyn the shipwright
+[10/18/2024 23:23]  Strenk: Legendary Weaponmaster
+[10/18/2024 23:23]  Strenk: [Senior Officer, TES]
+[10/18/2024 23:23]  Strenk: Lord Strenk
+[10/18/2024 23:23]  System: Pewpew McGoo has completed the achievement: Weaponmastery (Epic).
+[10/18/2024 23:23]  Madelyn: Madelyn the shipwright
+[10/18/2024 23:24]  System: ACME Inc. has completed the achievement: Order of Armorers Initiate.
+[10/18/2024 23:24]  Thea: Thea the beggar
+[10/18/2024 23:24]  Madelyn: Madelyn the shipwright
+[10/18/2024 23:24]  : wooden bench
+[10/18/2024 23:24]  K e l l d u r a: K e l l d u r a (Young)
+[10/18/2024 23:24]  Adara: Adara the bard
+[10/18/2024 23:25]  Adara: Adara the bard
+[10/18/2024 23:25]  FireFly: FireFly
+[10/18/2024 23:25]  a phoenix: (bonded)
+[10/18/2024 23:25]  a phoenix: a phoenix
+[10/18/2024 23:25]  a lemura: (bonded)
+[10/18/2024 23:25]  a lemura: a lemura
+[10/18/2024 23:25]  System: Bloody Belakor has completed the achievement: Monstrous Slayer (Basic).
+[10/18/2024 23:25]  Adara: Adara the bard
+[10/18/2024 23:25]  Rikkard: [carve
+[10/18/2024 23:25]  Madelyn: Madelyn the shipwright
+[10/18/2024 23:26]  Adara: Adara the bard
+[10/18/2024 23:26]  Madelyn: Madelyn the shipwright
+[10/18/2024 23:26]  Thea: Thea the beggar
+[10/18/2024 23:26]  System: Wormius has completed the achievement: Affluent (Advanced).
+[10/18/2024 23:26]  an eagle: an eagle
+[10/18/2024 23:26]  a hind: a hind
+[10/18/2024 23:27]  a great hart: a great hart
+[10/18/2024 23:27]  a hind: a hind
+[10/18/2024 23:28]  an eagle: an eagle
+[10/18/2024 23:28]  a hind: a hind
+[10/18/2024 23:29]  a hind: a hind
+[10/18/2024 23:29]  System: Rutger Shaw has completed the achievement: Cartographer (Basic).
+[10/18/2024 23:30]  System: Matthew Pairy has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/18/2024 23:30]  an eagle: an eagle
+[10/18/2024 23:30]  System: Porthole has completed the achievement: Alchemist (Advanced).
+[10/18/2024 23:30]  a hind: a hind
+[10/18/2024 23:30]  System: GrimJoy has completed the achievement: Leatherworker (Basic).
+[10/18/2024 23:30]  a great hart: a great hart
+[10/18/2024 23:30]  System: Loui Vuitton has completed the achievement: Engineer (Advanced).
+[10/18/2024 23:31]  a hind: a hind
+[10/18/2024 23:31]  System: Socjeter has completed the achievement: Artificers Enclave Patrician.
+[10/18/2024 23:32]  a hind: a hind
+[10/18/2024 23:32]  a hind: a hind
+[10/18/2024 23:32]  System: The world will save in 15 seconds.
+[10/18/2024 23:32]  System: The world is saving, please wait.
+[10/18/2024 23:32]  System: World save complete. The entire process took 2.7 seconds.
+[10/18/2024 23:32]  System: Porthole has completed the achievement: Artificers Enclave Associate.
+[10/18/2024 23:32]  System: An Omni Realm has now become public.
+[10/18/2024 23:33]  a hind: a hind
+[10/18/2024 23:33]  a great hart: a great hart
+[10/18/2024 23:33]  an eagle: an eagle
+[10/18/2024 23:33]  a great hart: a great hart
+[10/18/2024 23:34]  a great hart: a great hart
+[10/18/2024 23:34]  a great hart: a great hart
+[10/18/2024 23:34]  System: Onofre Guerra has completed the achievement: Woodworker (Basic).
+[10/18/2024 23:35]  a great hart: a great hart
+[10/18/2024 23:35]  a hind: a hind
+[10/18/2024 23:35]  a hind: a hind
+[10/18/2024 23:35]  a hind: a hind
+[10/18/2024 23:36]  a great hart: a great hart
+[10/18/2024 23:36]  System: The Unknown Brotherhood (who) guild has reached prestige level 3.
+[10/18/2024 23:36]  System: Prizm has completed the achievement: Kraul Hive Trophy (Rank 1).
+[10/18/2024 23:36]  a hind: a hind
+[10/18/2024 23:36]  Maurice Ravel: Maurice Ravel (Young)
+[10/18/2024 23:36]  a hind: a hind
+[10/18/2024 23:36]  System: Flegma has completed the achievement: Beastial Slayer (Basic).
+[10/18/2024 23:36]  Maurice Ravel: Maurice Ravel (Young)
+[10/18/2024 23:36]  a great hart: a great hart
+[10/18/2024 23:36]  Lorenzo Carcassi: [Member, NC]
+[10/18/2024 23:36]  Lorenzo Carcassi: Lorenzo Carcassi
+[10/18/2024 23:37]  a hind: a hind
+[10/18/2024 23:37]  System: Benifold has completed the achievement: Transmutation (Epic).
+[10/18/2024 23:37]  Boonism: [NEW!]
+[10/18/2024 23:37]  Boonism: Lord Boonism

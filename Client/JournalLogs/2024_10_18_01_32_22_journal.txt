@@ -1,0 +1,898 @@
+[10/18/2024 01:32]  System: WorldMap loading...
+[10/18/2024 01:32]  System: Loading WorldMap markers..
+[10/18/2024 01:32]  System: ..Banks_and_Healers.xml (39)
+[10/18/2024 01:32]  System: ..Dungeons.xml (13)
+[10/18/2024 01:32]  System: ..Dungeon_Gates.xml (392)
+[10/18/2024 01:32]  System: ..Healer_Caravans.xml (42)
+[10/18/2024 01:32]  System: ..Kings_Faire.xml (49)
+[10/18/2024 01:32]  System: ..Moongates.xml (10)
+[10/18/2024 01:32]  System: ..POI.xml (251)
+[10/18/2024 01:32]  System: ..PvP_Locations.xml (71)
+[10/18/2024 01:32]  System: ..Shrines.xml (9)
+[10/18/2024 01:32]  System: ..Sub-Dungeons.xml (4)
+[10/18/2024 01:32]  System: ..Townships.xml (10)
+[10/18/2024 01:32]  System: ..UOAM_Atlas.xml (1887)
+[10/18/2024 01:32]  System: ..UOAM_T-Map.xml (255)
+[10/18/2024 01:32]  System: ..UOAM_Treasure.xml (523)
+[10/18/2024 01:32]  System: WorldMap markers loaded (3555)
+[10/18/2024 01:32]  System: Welcome Rikkard!
+[10/18/2024 01:32]  Razor: [Last Target]
+[10/18/2024 01:32]  System: 80% arcane buildup.
+[10/18/2024 01:32]  Rikkard: Rikkard (Young)
+[10/18/2024 01:32]  a monitor hatchling: a monitor hatchling
+[10/18/2024 01:32]  a ghoul: a ghoul
+[10/18/2024 01:32]  a ghoul: a ghoul
+[10/18/2024 01:32]  kublia: kublia (Young)
+[10/18/2024 01:32]  a ghoul: a ghoul
+[10/18/2024 01:32]  Fripp: Fripp (Young)
+[10/18/2024 01:32]  a skeleton: a skeleton
+[10/18/2024 01:32]  a skeleton: a skeleton
+[10/18/2024 01:32]  a giant frog: a giant frog
+[10/18/2024 01:32]  You see: a monitor hatchling corpse
+[10/18/2024 01:32]  You see: a skeletal corpse
+[10/18/2024 01:32]  You see: a skeletal corpse
+[10/18/2024 01:32]  You see: a ghoul corpse
+[10/18/2024 01:32]  You see: a skeletal corpse
+[10/18/2024 01:32]  You see: a skeletal corpse
+[10/18/2024 01:32]  You see: the remains of Netos
+[10/18/2024 01:32]  You see: a ghoul corpse
+[10/18/2024 01:32]  You see: a corpser corpse
+[10/18/2024 01:32]  You see: a skeletal corpse
+[10/18/2024 01:32]  You see: a skeletal corpse
+[10/18/2024 01:32]  You see: a skeletal corpse
+[10/18/2024 01:32]  You see: a skeletal corpse
+[10/18/2024 01:32]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/18/2024 01:32]  System: WorldMap loaded!
+[10/18/2024 01:32]  a colossal frog: a colossal frog
+[10/18/2024 01:32]  Rikkard: Target: a ghoul
+[10/18/2024 01:32]  Razor: Attack: a ghoul
+[10/18/2024 01:32]  System: You parry the spell.
+[10/18/2024 01:32]  Rikkard: In Por Ylem
+[10/18/2024 01:32]  Rikkard: -2
+[10/18/2024 01:32]  a ghoul: -23
+[10/18/2024 01:32]  System: You parry the spell.
+[10/18/2024 01:32]  Rikkard: -1
+[10/18/2024 01:32]  System: 60% arcane buildup.
+[10/18/2024 01:32]  Rikkard: Por Ort Grav
+[10/18/2024 01:32]  a ghoul: -56
+[10/18/2024 01:32]  Rikkard: Por Ort Grav
+[10/18/2024 01:32]  System: You charge your spell with additional energy!
+[10/18/2024 01:32]  System: You have gained a little fame.
+[10/18/2024 01:32]  System: You have gained a little karma.
+[10/18/2024 01:32]  System: -60
+[10/18/2024 01:32]  You see: a ghoul corpse
+[10/18/2024 01:32]  You see: a ghoul corpse
+[10/18/2024 01:32]  System: You must wait another moment before you may pick up an item from here.
+[10/18/2024 01:32]  System: 40% arcane buildup.
+[10/18/2024 01:32]  You see: a monitor hatchling corpse
+[10/18/2024 01:32]  a monitor hatchling: a monitor hatchling
+[10/18/2024 01:32]  System: You may not loot this corpse.
+[10/18/2024 01:32]  System: You may not loot this corpse.
+[10/18/2024 01:32]  System: You may not loot this corpse.
+[10/18/2024 01:32]  System: Opening door...
+[10/18/2024 01:32]  Rikkard: That is out of my line of sight.
+[10/18/2024 01:32]  Rikkard: That is out of my line of sight.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  Rikkard: Target: a ghoul
+[10/18/2024 01:32]  Razor: Attack: a ghoul
+[10/18/2024 01:32]  System: 56% arcane buildup.
+[10/18/2024 01:32]  a ghoul: -39
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  a monitor hatchling: a monitor hatchling
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  a necromancer: a necromancer
+[10/18/2024 01:32]  a giant frog: (tame)
+[10/18/2024 01:32]  a giant frog: a giant frog
+[10/18/2024 01:32]  a colossal frog: (tame)
+[10/18/2024 01:32]  a colossal frog: a colossal frog
+[10/18/2024 01:32]  a giant frog: (tame)
+[10/18/2024 01:32]  a giant frog: a giant frog
+[10/18/2024 01:32]  You see: a corpser corpse
+[10/18/2024 01:32]  You see: a corpser corpse
+[10/18/2024 01:32]  Fripp: Fripp (Young)
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: MagicResist skillgain: 100%
+[10/18/2024 01:32]  System: Your skill in Tactics has decreased by 1.0.  It is now 12.7.
+[10/18/2024 01:32]  System: Your skill in Resisting Spells has increased by 1.0.  It is now 65.3.
+[10/18/2024 01:32]  System: Spell siphon max bonus reached (16.3%).
+[10/18/2024 01:32]  System: 72% arcane buildup.
+[10/18/2024 01:32]  a ghoul: -26
+[10/18/2024 01:32]  Rikkard: -8
+[10/18/2024 01:32]  Rikkard: Corp Por
+[10/18/2024 01:32]  System: You parry the spell.
+[10/18/2024 01:32]  Rikkard: -1
+[10/18/2024 01:32]  a colossal frog: a colossal frog
+[10/18/2024 01:32]  Razor: Target: a ghoul
+[10/18/2024 01:32]  System: Magery skillgain: 100%
+[10/18/2024 01:32]  System: Your skill in Tactics has decreased by 0.1.  It is now 12.6.
+[10/18/2024 01:32]  System: Your skill in Magery has increased by 0.1.  It is now 62.1.
+[10/18/2024 01:32]  System: 88% arcane buildup.
+[10/18/2024 01:32]  a ghoul: -42
+[10/18/2024 01:32]  a ghoul: -151
+[10/18/2024 01:32]  Rikkard: -2
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:32]  System: You blast the unprotected target, dealing significant damage!
+[10/18/2024 01:32]  System: 100% arcane buildup.
+[10/18/2024 01:32]  a ghoul: -47
+[10/18/2024 01:32]  Rikkard: Target: a ghoul
+[10/18/2024 01:32]  Razor: Attack: a ghoul
+[10/18/2024 01:32]  Rikkard: Por Ort Grav
+[10/18/2024 01:32]  a ghoul: -31
+[10/18/2024 01:33]  System: You generate mana for your spell.
+[10/18/2024 01:33]  System: You charge your spell with additional energy!
+[10/18/2024 01:33]  Rikkard: -8
+[10/18/2024 01:33]  System: You have gained a little fame.
+[10/18/2024 01:33]  System: You have gained a little karma.
+[10/18/2024 01:33]  System: -64
+[10/18/2024 01:33]  You see: a ghoul corpse
+[10/18/2024 01:33]  You see: a skeletal corpse
+[10/18/2024 01:33]  System: You must wait another moment before you may pick up an item from here.
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: That is too far away.
+[10/18/2024 01:33]  System: That is too far away.
+[10/18/2024 01:33]  Rikkard: Por Ort Grav
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  System: 80% arcane buildup.
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  Rikkard: In Vas Mani
+[10/18/2024 01:33]  System: You generate mana for your spell.
+[10/18/2024 01:33]  Rikkard: +26
+[10/18/2024 01:33]  System: some damage has been healed : 26
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  a sickly lizardman: a sickly lizardman
+[10/18/2024 01:33]  You see: the remains of Netos
+[10/18/2024 01:33]  a skeleton: (summoned)
+[10/18/2024 01:33]  a skeleton: a skeleton
+[10/18/2024 01:33]  a sickly lizardman: a sickly lizardman
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  a zombie: (summoned)
+[10/18/2024 01:33]  a zombie: a zombie
+[10/18/2024 01:33]  Netos: Netos (Young)
+[10/18/2024 01:33]  a zombie: (summoned)
+[10/18/2024 01:33]  a zombie: a zombie
+[10/18/2024 01:33]  a ghoul: (summoned)
+[10/18/2024 01:33]  a ghoul: a ghoul
+[10/18/2024 01:33]  Rikkard: Target: a sickly lizardman
+[10/18/2024 01:33]  Razor: Attack: a sickly lizardman
+[10/18/2024 01:33]  System: 96% arcane buildup.
+[10/18/2024 01:33]  a sickly lizardman: Ithysatha sthi! Slamiss.
+[10/18/2024 01:33]  a sickly lizardman: Oof! That hurt!
+[10/18/2024 01:33]  a sickly lizardman: -40
+[10/18/2024 01:33]  Rikkard: -15
+[10/18/2024 01:33]  System: 100% arcane buildup.
+[10/18/2024 01:33]  a sickly lizardman: -35
+[10/18/2024 01:33]  Rikkard: In Nox
+[10/18/2024 01:33]  Razor: Target: a sickly lizardman
+[10/18/2024 01:33]  a sickly lizardman: *looks ill*
+[10/18/2024 01:33]  System: You blast the unprotected target, dealing significant damage!
+[10/18/2024 01:33]  a sickly lizardman: -51
+[10/18/2024 01:33]  Rikkard: Corp Por
+[10/18/2024 01:33]  System: Magery skillgain: 100%
+[10/18/2024 01:33]  System: Your skill in Tactics has decreased by 0.1.  It is now 12.5.
+[10/18/2024 01:33]  System: Your skill in Magery has increased by 0.1.  It is now 62.2.
+[10/18/2024 01:33]  Rikkard: The spell fizzles.
+[10/18/2024 01:33]  System: You blast the unprotected target, dealing significant damage!
+[10/18/2024 01:33]  a sickly lizardman: Ithlyth ithitsthisthilthys.
+[10/18/2024 01:33]  a sickly lizardman: Oof! That hurt!
+[10/18/2024 01:33]  a sickly lizardman: -68
+[10/18/2024 01:33]  a zombie: (summoned)
+[10/18/2024 01:33]  a zombie: a zombie
+[10/18/2024 01:33]  a zombie: (summoned)
+[10/18/2024 01:33]  a zombie: a zombie
+[10/18/2024 01:33]  a skeleton: (summoned)
+[10/18/2024 01:33]  a skeleton: a skeleton
+[10/18/2024 01:33]  Rikkard: Corp Por
+[10/18/2024 01:33]  a sickly lizardman: *looks ill*
+[10/18/2024 01:33]  a sickly lizardman: -8
+[10/18/2024 01:33]  Netos: Kal Xen
+[10/18/2024 01:33]  Rikkard: -11
+[10/18/2024 01:33]  System: Magery skillgain: 100%
+[10/18/2024 01:33]  System: Your skill in Tactics has decreased by 0.1.  It is now 12.4.
+[10/18/2024 01:33]  System: Your skill in Magery has increased by 0.1.  It is now 62.3.
+[10/18/2024 01:33]  System: You charge your spell with additional energy!
+[10/18/2024 01:33]  a sickly lizardman: Shashmiss lishthys shashra!
+[10/18/2024 01:33]  a sickly lizardman: Good blow!
+[10/18/2024 01:33]  a sickly lizardman: -171
+[10/18/2024 01:33]  System: You blast the unprotected target, dealing significant damage!
+[10/18/2024 01:33]  a sickly lizardman: -58
+[10/18/2024 01:33]  Rikkard: Corp Por
+[10/18/2024 01:33]  You see: a skeletal corpse
+[10/18/2024 01:33]  System: Magery skillgain: 100%
+[10/18/2024 01:33]  System: Your skill in Tactics has decreased by 0.1.  It is now 12.3.
+[10/18/2024 01:33]  System: Your skill in Magery has increased by 0.1.  It is now 62.4.
+[10/18/2024 01:33]  Rikkard: The spell fizzles.
+[10/18/2024 01:33]  a polar bear: (summoned)
+[10/18/2024 01:33]  a polar bear: a polar bear
+[10/18/2024 01:33]  a sickly lizardman: -39
+[10/18/2024 01:33]  Rikkard: In Por Ylem
+[10/18/2024 01:33]  a sickly lizardman: Asithilyss cesiays.
+[10/18/2024 01:33]  a sickly lizardman: Me hurt!
+[10/18/2024 01:33]  a sickly lizardman: -28
+[10/18/2024 01:33]  a sickly lizardman: -35
+[10/18/2024 01:33]  Rikkard: In Por Ylem
+[10/18/2024 01:33]  a sickly lizardman: *looks ill*
+[10/18/2024 01:33]  a sickly lizardman: -8
+[10/18/2024 01:33]  a sickly lizardman: -28
+[10/18/2024 01:33]  System: You have gained a little fame.
+[10/18/2024 01:33]  System: You have gained a little karma.
+[10/18/2024 01:33]  System: -31
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  Rikkard: In Mani
+[10/18/2024 01:33]  Rikkard: +7
+[10/18/2024 01:33]  System: some damage has been healed : 7
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  System: You may not loot this corpse.
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  System: That is too far away.
+[10/18/2024 01:33]  System: Players cannot commit aggressive actions in that location.
+[10/18/2024 01:33]  a deformed troll: a deformed troll
+[10/18/2024 01:33]  You see: an injured ogre corpse
+[10/18/2024 01:33]  You see: an injured ogre corpse
+[10/18/2024 01:33]  You see: a primordial whelp corpse
+[10/18/2024 01:33]  System: 80% arcane buildup.
+[10/18/2024 01:33]  You see: a deformed troll corpse
+[10/18/2024 01:33]  an injured ogre: an injured ogre
+[10/18/2024 01:33]  Rikkard: Target: a deformed troll
+[10/18/2024 01:33]  Razor: Attack: a deformed troll
+[10/18/2024 01:33]  System: 96% arcane buildup.
+[10/18/2024 01:33]  a deformed troll: -33
+[10/18/2024 01:33]  Rikkard: In Nox
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  Razor: Target: a deformed troll
+[10/18/2024 01:33]  a deformed troll: *looks ill*
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  Rikkard: Por Ort Grav
+[10/18/2024 01:33]  You see: a sickly lizardman corpse
+[10/18/2024 01:33]  System: 100% arcane buildup.
+[10/18/2024 01:33]  a deformed troll: -34
+[10/18/2024 01:34]  a deformed troll: -72
+[10/18/2024 01:34]  a deformed troll: *looks ill*
+[10/18/2024 01:34]  a deformed troll: -8
+[10/18/2024 01:34]  a deformed troll: *regens*
+[10/18/2024 01:34]  You see: an injured ogre corpse
+[10/18/2024 01:34]  You see: an injured ogre corpse
+[10/18/2024 01:34]  Rikkard: Corp Por
+[10/18/2024 01:34]  You see: a deformed troll corpse
+[10/18/2024 01:34]  You see: a primordial whelp corpse
+[10/18/2024 01:34]  Haesten: Omni Slayer
+[10/18/2024 01:34]  Haesten: [-_-]
+[10/18/2024 01:34]  Haesten: Lord Haesten
+[10/18/2024 01:34]  a deformed troll: -33
+[10/18/2024 01:34]  System: Your reactive armor spell has expired.
+[10/18/2024 01:34]  System: Your reactive armor spell has been nullified.
+[10/18/2024 01:34]  Rikkard: -16
+[10/18/2024 01:34]  System: Magery skillgain: 100%
+[10/18/2024 01:34]  System: Your skill in Tactics has decreased by 0.1.  It is now 12.2.
+[10/18/2024 01:34]  System: Your skill in Magery has increased by 0.1.  It is now 62.5.
+[10/18/2024 01:34]  System: You generate mana for your spell.
+[10/18/2024 01:34]  a deformed troll: -132
+[10/18/2024 01:34]  Rikkard: Corp Por
+[10/18/2024 01:34]  a deformed troll: -36
+[10/18/2024 01:34]  System: Magery skillgain: 100%
+[10/18/2024 01:34]  System: Your skill in Tactics has decreased by 0.1.  It is now 12.1.
+[10/18/2024 01:34]  System: Your skill in Magery has increased by 0.1.  It is now 62.6.
+[10/18/2024 01:34]  Rikkard: The spell fizzles.
+[10/18/2024 01:34]  Rikkard: Corp Por
+[10/18/2024 01:34]  a deformed troll: -31
+[10/18/2024 01:34]  a deformed troll: *looks ill*
+[10/18/2024 01:34]  a deformed troll: -8
+[10/18/2024 01:34]  You see: an injured ogre corpse
+[10/18/2024 01:34]  System: Magery skillgain: 100%
+[10/18/2024 01:34]  System: Your skill in Tactics has decreased by 0.1.  It is now 12.0.
+[10/18/2024 01:34]  System: Your skill in Magery has increased by 0.1.  It is now 62.7.
+[10/18/2024 01:34]  Rikkard: The spell fizzles.
+[10/18/2024 01:34]  a deformed troll: -32
+[10/18/2024 01:34]  Rikkard: Corp Por
+[10/18/2024 01:34]  Rikkard: -3
+[10/18/2024 01:34]  System: Magery skillgain: 100%
+[10/18/2024 01:34]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.9.
+[10/18/2024 01:34]  System: Your skill in Magery has increased by 0.1.  It is now 62.8.
+[10/18/2024 01:34]  Rikkard: The spell fizzles.
+[10/18/2024 01:34]  a deformed troll: -41
+[10/18/2024 01:34]  a deformed troll: *regens*
+[10/18/2024 01:34]  Rikkard: Por Ort Grav
+[10/18/2024 01:34]  an injured ogre: an injured ogre
+[10/18/2024 01:34]  System: You charge your spell with additional energy!
+[10/18/2024 01:34]  a deformed troll: -74
+[10/18/2024 01:34]  Rikkard: Corp Por
+[10/18/2024 01:34]  a deformed troll: -27
+[10/18/2024 01:34]  a deformed troll: *looks ill*
+[10/18/2024 01:34]  a deformed troll: -8
+[10/18/2024 01:34]  System: Magery skillgain: 100%
+[10/18/2024 01:34]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.8.
+[10/18/2024 01:34]  System: Your skill in Magery has increased by 0.1.  It is now 62.9.
+[10/18/2024 01:34]  Rikkard: The spell fizzles.
+[10/18/2024 01:34]  a deformed troll: -37
+[10/18/2024 01:34]  Rikkard: Corp Por
+[10/18/2024 01:34]  System: Mina Viktoria has completed the achievement: Guardian of Time (Basic).
+[10/18/2024 01:34]  System: Magery skillgain: 100%
+[10/18/2024 01:34]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.7.
+[10/18/2024 01:34]  System: Your skill in Magery has increased by 0.1.  It is now 63.0.
+[10/18/2024 01:34]  Rikkard: The spell fizzles.
+[10/18/2024 01:34]  a deformed troll: -33
+[10/18/2024 01:34]  Rikkard: Corp Por
+[10/18/2024 01:34]  a deformed troll: -39
+[10/18/2024 01:34]  System: Magery skillgain: 100%
+[10/18/2024 01:34]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.6.
+[10/18/2024 01:34]  System: Your skill in Magery has increased by 0.1.  It is now 63.1.
+[10/18/2024 01:34]  Rikkard: The spell fizzles.
+[10/18/2024 01:34]  a deformed troll: *regens*
+[10/18/2024 01:34]  a deformed troll: *looks ill*
+[10/18/2024 01:34]  a deformed troll: -8
+[10/18/2024 01:34]  Rikkard: Corp Por
+[10/18/2024 01:34]  a deformed troll: -30
+[10/18/2024 01:34]  System: Magery skillgain: 100%
+[10/18/2024 01:34]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.5.
+[10/18/2024 01:34]  System: Your skill in Magery has increased by 0.1.  It is now 63.2.
+[10/18/2024 01:34]  Rikkard: The spell fizzles.
+[10/18/2024 01:34]  Rikkard: Corp Por
+[10/18/2024 01:34]  System: Magery skillgain: 100%
+[10/18/2024 01:34]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.4.
+[10/18/2024 01:34]  System: Your skill in Magery has increased by 0.1.  It is now 63.3.
+[10/18/2024 01:34]  System: You charge your spell with additional energy!
+[10/18/2024 01:34]  a deformed troll: -151
+[10/18/2024 01:34]  Rikkard: In Por Ylem
+[10/18/2024 01:34]  System: You charge your spell with additional energy!
+[10/18/2024 01:34]  a deformed troll: *looks ill*
+[10/18/2024 01:34]  a deformed troll: -8
+[10/18/2024 01:34]  a deformed troll: -29
+[10/18/2024 01:34]  a deformed troll: -29
+[10/18/2024 01:34]  Rikkard: In Por Ylem
+[10/18/2024 01:34]  Rikkard: Por Ort Grav
+[10/18/2024 01:34]  a deformed troll: -23
+[10/18/2024 01:34]  System: You generate mana for your spell.
+[10/18/2024 01:34]  a deformed troll: -72
+[10/18/2024 01:34]  a deformed troll: *regens*
+[10/18/2024 01:34]  Rikkard: In Por Ylem
+[10/18/2024 01:34]  System: You charge your spell with additional energy!
+[10/18/2024 01:34]  a deformed troll: -28
+[10/18/2024 01:34]  Rikkard: -4
+[10/18/2024 01:34]  Rikkard: Por Ort Grav
+[10/18/2024 01:34]  a deformed troll: *looks ill*
+[10/18/2024 01:34]  a deformed troll: -8
+[10/18/2024 01:34]  a deformed troll: -36
+[10/18/2024 01:34]  System: You generate mana for your spell.
+[10/18/2024 01:34]  System: You have gained a little fame.
+[10/18/2024 01:34]  System: You have gained a little karma.
+[10/18/2024 01:34]  System: -20
+[10/18/2024 01:34]  You see: a deformed troll corpse
+[10/18/2024 01:34]  System: You must wait another moment before you may pick up an item from here.
+[10/18/2024 01:35]  an injured ogre: an injured ogre
+[10/18/2024 01:35]  System: The world will save in 15 seconds.
+[10/18/2024 01:35]  System: 80% arcane buildup.
+[10/18/2024 01:35]  a crippled ettin: a crippled ettin
+[10/18/2024 01:35]  Rikkard: Corp Por
+[10/18/2024 01:35]  Rikkard: Target: a crippled ettin
+[10/18/2024 01:35]  Razor: Attack: a crippled ettin
+[10/18/2024 01:35]  System: 96% arcane buildup.
+[10/18/2024 01:35]  a crippled ettin: -39
+[10/18/2024 01:35]  Razor: Target: a crippled ettin
+[10/18/2024 01:35]  System: Magery skillgain: 100%
+[10/18/2024 01:35]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.3.
+[10/18/2024 01:35]  System: Your skill in Magery has increased by 0.1.  It is now 63.4.
+[10/18/2024 01:35]  Rikkard: The spell fizzles.
+[10/18/2024 01:35]  Rikkard: In Nox
+[10/18/2024 01:35]  System: 100% arcane buildup.
+[10/18/2024 01:35]  a crippled ettin: -37
+[10/18/2024 01:35]  Rikkard: -22
+[10/18/2024 01:35]  a crippled ettin: *looks ill*
+[10/18/2024 01:35]  Rikkard: In Nox
+[10/18/2024 01:35]  a crippled ettin: -35
+[10/18/2024 01:35]  System: Ready? (RDY) guild has reached prestige level 184.
+[10/18/2024 01:35]  System: The world is saving, please wait.
+[10/18/2024 01:35]  System: World save complete. The entire process took 2.6 seconds.
+[10/18/2024 01:35]  System: You have not yet recovered from casting a spell.
+[10/18/2024 01:35]  a crippled ettin: *looks ill*
+[10/18/2024 01:35]  a crippled ettin: -8
+[10/18/2024 01:35]  System: You generate mana for your spell.
+[10/18/2024 01:35]  a crippled ettin: -1
+[10/18/2024 01:35]  Rikkard: Corp Por
+[10/18/2024 01:35]  Rikkard: -19
+[10/18/2024 01:35]  System: Magery skillgain: 100%
+[10/18/2024 01:35]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.2.
+[10/18/2024 01:35]  System: Your skill in Magery has increased by 0.1.  It is now 63.5.
+[10/18/2024 01:35]  Rikkard: The spell fizzles.
+[10/18/2024 01:35]  System: 80% arcane buildup.
+[10/18/2024 01:35]  You see: a deformed troll corpse
+[10/18/2024 01:35]  Rikkard: Corp Por
+[10/18/2024 01:35]  System: 96% arcane buildup.
+[10/18/2024 01:35]  a crippled ettin: -34
+[10/18/2024 01:35]  System: Magery skillgain: 100%
+[10/18/2024 01:35]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.1.
+[10/18/2024 01:35]  System: Your skill in Magery has increased by 0.1.  It is now 63.6.
+[10/18/2024 01:35]  Rikkard: The spell fizzles.
+[10/18/2024 01:35]  Rikkard: In Vas Mani
+[10/18/2024 01:35]  System: 100% arcane buildup.
+[10/18/2024 01:35]  a crippled ettin: -42
+[10/18/2024 01:35]  a crippled ettin: *looks ill*
+[10/18/2024 01:35]  a crippled ettin: -8
+[10/18/2024 01:35]  Rikkard: +31
+[10/18/2024 01:35]  System: some damage has been healed : 31
+[10/18/2024 01:35]  Rikkard: In Mani
+[10/18/2024 01:35]  Rikkard: -4
+[10/18/2024 01:35]  Rikkard: +6
+[10/18/2024 01:35]  System: some damage has been healed : 6
+[10/18/2024 01:35]  Rikkard: Flam Sanct
+[10/18/2024 01:35]  a crippled ettin: -35
+[10/18/2024 01:35]  an injured ogre: an injured ogre
+[10/18/2024 01:35]  Rikkard: Corp Por
+[10/18/2024 01:35]  System: *looks ill*
+[10/18/2024 01:35]  System: -5
+[10/18/2024 01:35]  Razor: [Last Target]
+[10/18/2024 01:35]  a crippled ettin: [7 Lesser Ticks Left]
+[10/18/2024 01:35]  a crippled ettin: a crippled ettin
+[10/18/2024 01:35]  a crippled ettin: -37
+[10/18/2024 01:35]  System: Magery skillgain: 100%
+[10/18/2024 01:35]  System: Your skill in Tactics has decreased by 0.1.  It is now 11.0.
+[10/18/2024 01:35]  System: Your skill in Magery has increased by 0.1.  It is now 63.7.
+[10/18/2024 01:35]  System: You generate mana for your spell.
+[10/18/2024 01:35]  a crippled ettin: -151
+[10/18/2024 01:35]  Rikkard: Corp Por
+[10/18/2024 01:35]  a crippled ettin: -36
+[10/18/2024 01:35]  Rikkard: -17
+[10/18/2024 01:35]  System: Magery skillgain: 100%
+[10/18/2024 01:35]  System: Your skill in Tactics has decreased by 0.1.  It is now 10.9.
+[10/18/2024 01:35]  System: Your skill in Magery has increased by 0.1.  It is now 63.8.
+[10/18/2024 01:35]  Rikkard: The spell fizzles.
+[10/18/2024 01:35]  a crippled ettin: *looks ill*
+[10/18/2024 01:35]  a crippled ettin: -8
+[10/18/2024 01:35]  a crippled ettin: -35
+[10/18/2024 01:35]  Rikkard: Por Ort Grav
+[10/18/2024 01:35]  System: You charge your spell with additional energy!
+[10/18/2024 01:35]  a crippled ettin: -94
+[10/18/2024 01:35]  System: You blast the unprotected target, dealing significant damage!
+[10/18/2024 01:35]  a crippled ettin: -75
+[10/18/2024 01:35]  Rikkard: -12
+[10/18/2024 01:36]  Rikkard: Corp Por
+[10/18/2024 01:36]  System: Magery skillgain: 100%
+[10/18/2024 01:36]  System: Your skill in Tactics has decreased by 0.1.  It is now 10.8.
+[10/18/2024 01:36]  System: Your skill in Magery has increased by 0.1.  It is now 63.9.
+[10/18/2024 01:36]  a crippled ettin: -161
+[10/18/2024 01:36]  Rikkard: In Vas Mani
+[10/18/2024 01:36]  a crippled ettin: *looks ill*
+[10/18/2024 01:36]  a crippled ettin: -8
+[10/18/2024 01:36]  a crippled ettin: -32
+[10/18/2024 01:36]  Rikkard: +28
+[10/18/2024 01:36]  System: some damage has been healed : 28
+[10/18/2024 01:36]  Rikkard: In Mani
+[10/18/2024 01:36]  Rikkard: +7
+[10/18/2024 01:36]  System: some damage has been healed : 7
+[10/18/2024 01:36]  System: You blast the unprotected target, dealing significant damage!
+[10/18/2024 01:36]  a crippled ettin: -53
+[10/18/2024 01:36]  Rikkard: -4
+[10/18/2024 01:36]  Rikkard: Corp Por
+[10/18/2024 01:36]  a crippled ettin: -35
+[10/18/2024 01:36]  System: Magery skillgain: 100%
+[10/18/2024 01:36]  System: Your skill in Tactics has decreased by 0.1.  It is now 10.7.
+[10/18/2024 01:36]  System: Your skill in Magery has increased by 0.1.  It is now 64.0.
+[10/18/2024 01:36]  Rikkard: The spell fizzles.
+[10/18/2024 01:36]  Rikkard: Corp Por
+[10/18/2024 01:36]  a crippled ettin: *looks ill*
+[10/18/2024 01:36]  a crippled ettin: -8
+[10/18/2024 01:36]  System: Your arcane spellstone has been destroyed.
+[10/18/2024 01:36]  System: Magery skillgain: 100%
+[10/18/2024 01:36]  System: Your skill in Tactics has decreased by 0.1.  It is now 10.6.
+[10/18/2024 01:36]  System: Your skill in Magery has increased by 0.1.  It is now 64.1.
+[10/18/2024 01:36]  Rikkard: The spell fizzles.
+[10/18/2024 01:36]  Rikkard: Corp Por
+[10/18/2024 01:36]  a crippled ettin: -39
+[10/18/2024 01:36]  Rikkard: More reagents are needed for this spell.
+[10/18/2024 01:36]  System: Your reactive armor spell has expired.
+[10/18/2024 01:36]  System: Your reactive armor spell has been nullified.
+[10/18/2024 01:36]  Rikkard: -14
+[10/18/2024 01:36]  a deformed troll: a deformed troll
+[10/18/2024 01:36]  Rikkard: Corp Por
+[10/18/2024 01:36]  a crippled ettin: -37
+[10/18/2024 01:36]  Rikkard: More reagents are needed for this spell.
+[10/18/2024 01:36]  a crippled ettin: *looks ill*
+[10/18/2024 01:36]  a crippled ettin: -8
+[10/18/2024 01:36]  Rikkard: Por Ort Grav
+[10/18/2024 01:36]  a crippled ettin: -31
+[10/18/2024 01:36]  a crippled ettin: -77
+[10/18/2024 01:36]  [Razor]: Warning: Sulfurous Ash amount is now 3!
+[10/18/2024 01:36]  Rikkard: Por Ort Grav
+[10/18/2024 01:36]  System: You generate mana for your spell.
+[10/18/2024 01:36]  a crippled ettin: -72
+[10/18/2024 01:36]  [Razor]: Warning: Sulfurous Ash amount is now 2!
+[10/18/2024 01:36]  Rikkard: -4
+[10/18/2024 01:36]  Rikkard: Por Ort Grav
+[10/18/2024 01:36]  System: You generate mana for your spell.
+[10/18/2024 01:36]  [Razor]: Warning: Sulfurous Ash amount is now 1!
+[10/18/2024 01:36]  System: You have gained a little fame.
+[10/18/2024 01:36]  System: You have gained a little karma.
+[10/18/2024 01:36]  System: -9
+[10/18/2024 01:36]  You see: a crippled ettin corpse
+[10/18/2024 01:36]  System: 80% arcane buildup.
+[10/18/2024 01:36]  System: 60% arcane buildup.
+[10/18/2024 01:36]  Rikkard: Por Ort Grav
+[10/18/2024 01:36]  Rikkard: Target: a deformed troll
+[10/18/2024 01:36]  Razor: Attack: a deformed troll
+[10/18/2024 01:36]  System: 76% arcane buildup.
+[10/18/2024 01:36]  a deformed troll: -37
+[10/18/2024 01:36]  System: Donald D has completed the achievement: Artificers Enclave Dignitary.
+[10/18/2024 01:36]  Razor: Target: a deformed troll
+[10/18/2024 01:36]  a deformed troll: -60
+[10/18/2024 01:36]  a deformed troll: *regens*
+[10/18/2024 01:36]  Rikkard: -4
+[10/18/2024 01:36]  [Razor]: Warning: Sulfurous Ash amount is now 0!
+[10/18/2024 01:36]  Rikkard: Por Ort Grav
+[10/18/2024 01:36]  System: 92% arcane buildup.
+[10/18/2024 01:36]  a deformed troll: -34
+[10/18/2024 01:36]  Rikkard: More reagents are needed for this spell.
+[10/18/2024 01:36]  You see: a deformed troll corpse
+[10/18/2024 01:36]  System: 100% arcane buildup.
+[10/18/2024 01:36]  a deformed troll: -36
+[10/18/2024 01:37]  a deformed troll: -44
+[10/18/2024 01:37]  You see: a sickly lizardman corpse
+[10/18/2024 01:37]  You see: a sickly lizardman corpse
+[10/18/2024 01:37]  You see: a sickly lizardman corpse
+[10/18/2024 01:37]  You see: a sickly lizardman corpse
+[10/18/2024 01:37]  a zombie: (summoned)
+[10/18/2024 01:37]  a zombie: a zombie
+[10/18/2024 01:37]  a zombie: (summoned)
+[10/18/2024 01:37]  a zombie: a zombie
+[10/18/2024 01:37]  a sickly lizardman: a sickly lizardman
+[10/18/2024 01:37]  You see: a sickly lizardman corpse
+[10/18/2024 01:37]  You see: a sickly lizardman corpse
+[10/18/2024 01:37]  You see: a sickly lizardman corpse
+[10/18/2024 01:37]  You see: the remains of Netos
+[10/18/2024 01:37]  You see: a sickly lizardman corpse
+[10/18/2024 01:37]  a giant frog: a giant frog
+[10/18/2024 01:37]  You see: a crippled ettin corpse
+[10/18/2024 01:37]  You see: a sickly lizardman corpse
+[10/18/2024 01:37]  a sickly lizardman: a sickly lizardman
+[10/18/2024 01:37]  Razor: [Last Target]
+[10/18/2024 01:37]  You see: a deformed troll corpse
+[10/18/2024 01:37]  a deformed troll: a deformed troll
+[10/18/2024 01:37]  System: You are now under the protection of the town guards.
+[10/18/2024 01:37]  an eagle: an eagle
+[10/18/2024 01:37]  Shira: Shira the guard
+[10/18/2024 01:37]  a magpie: a magpie
+[10/18/2024 01:37]  a sparrow: a sparrow
+[10/18/2024 01:37]  a hind: a hind
+[10/18/2024 01:37]  a hind: a hind
+[10/18/2024 01:37]  A Sillyy Goose: [Senior Officer, TES]
+[10/18/2024 01:37]  A Sillyy Goose: A Sillyy Goose
+[10/18/2024 01:37]  Talkinghead: [Private First Class, TES]
+[10/18/2024 01:37]  Talkinghead: Talkinghead
+[10/18/2024 01:37]  Craft Her: Craft Her
+[10/18/2024 01:37]  NewType mrs: [AHO]
+[10/18/2024 01:37]  NewType mrs: NewType mrs
+[10/18/2024 01:37]  Homer Simpsons: Legendary Scribe
+[10/18/2024 01:37]  Homer Simpsons: Homer Simpsons
+[10/18/2024 01:37]  Dignson: Dignson
+[10/18/2024 01:37]  System: 80% arcane buildup.
+[10/18/2024 01:37]  Brentan: Brentan the miner
+[10/18/2024 01:37]  Carol: Carol the miner
+[10/18/2024 01:37]  Dead Skin Mask: Mythical Engineer
+[10/18/2024 01:37]  Dead Skin Mask: [L%C]
+[10/18/2024 01:37]  Dead Skin Mask: Lord Dead Skin Mask
+[10/18/2024 01:37]  Floorskin: Skinner
+[10/18/2024 01:37]  Floorskin: Floorskin
+[10/18/2024 01:37]  COACHYARD LLC: Legendary Scribe
+[10/18/2024 01:37]  COACHYARD LLC: COACHYARD LLC
+[10/18/2024 01:37]  Dwarfx: Dwarfx
+[10/18/2024 01:37]  Requies: Scientist
+[10/18/2024 01:37]  Requies: [TRT]
+[10/18/2024 01:37]  Requies: Requies
+[10/18/2024 01:37]  Emmeline.: Legendary Landowner
+[10/18/2024 01:37]  Emmeline.: Lady Emmeline.
+[10/18/2024 01:37]  Zepar: [Juicy AF, SQzD]
+[10/18/2024 01:37]  Zepar: Lady Zepar
+[10/18/2024 01:37]  Delia Darkmire: Legendary Pickpocket
+[10/18/2024 01:37]  Delia Darkmire: Lady Delia Darkmire
+[10/18/2024 01:37]  BOBFROMACOUNTING: Legendary Zoologist
+[10/18/2024 01:37]  BOBFROMACOUNTING: [Veteran, Syn]
+[10/18/2024 01:37]  BOBFROMACOUNTING: Lord BOBFROMACOUNTING
+[10/18/2024 01:37]  shoes: shoes
+[10/18/2024 01:37]  Dirt Mc.Girt: [1CE]
+[10/18/2024 01:37]  Dirt Mc.Girt: Dirt Mc.Girt
+[10/18/2024 01:37]  Hella Bore: [Recruit, L%C]
+[10/18/2024 01:37]  Hella Bore: Hella Bore
+[10/18/2024 01:37]  Favstvs: Artificer Dignitary
+[10/18/2024 01:37]  Favstvs: [Veteran, Syn]
+[10/18/2024 01:37]  Favstvs: Favstvs
+[10/18/2024 01:37]  TreeMoney: TreeMoney (Young)
+[10/18/2024 01:37]  a pack horse: (tame)
+[10/18/2024 01:37]  a pack horse: [58/2000 stones]
+[10/18/2024 01:37]  a pack horse: [1/125 items]
+[10/18/2024 01:37]  a pack horse: a pack horse
+[10/18/2024 01:37]  Varin Darksea: Legendary Affluence
+[10/18/2024 01:37]  Varin Darksea: [Emu War Survivor, PwN]
+[10/18/2024 01:37]  Varin Darksea: Lord Varin Darksea
+[10/18/2024 01:37]  VAPRACK: [Rookie, NP$]
+[10/18/2024 01:37]  VAPRACK: VAPRACK
+[10/18/2024 01:37]  Mercedes: Mercedes the ranger
+[10/18/2024 01:37]  Maloka: Legendary Pirate
+[10/18/2024 01:37]  Maloka: [4:20, MOZO]
+[10/18/2024 01:37]  Maloka: Lady Maloka
+[10/18/2024 01:37]  System: 60% arcane buildup.
+[10/18/2024 01:37]  Wanda: Wanda the blacksmith
+[10/18/2024 01:37]  Brentan: Brentan the miner
+[10/18/2024 01:37]  Crystal: Crystal the tinker
+[10/18/2024 01:37]  Selina: Selina the jeweler
+[10/18/2024 01:37]  NewType mrs: [AHO]
+[10/18/2024 01:37]  NewType mrs: NewType mrs
+[10/18/2024 01:37]  Homer Simpsons: Legendary Scribe
+[10/18/2024 01:37]  Homer Simpsons: Homer Simpsons
+[10/18/2024 01:37]  Dignson: Dignson
+[10/18/2024 01:37]  Subrey: Subrey the provisioner
+[10/18/2024 01:37]  Dr.Boom: Dr.Boom (Young)
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  Ardith: Ardith the tailor
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  a sheep: *released*
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  a sheep: *released*
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  System: 40% arcane buildup.
+[10/18/2024 01:37]  Saxon: Saxon the lumberjack
+[10/18/2024 01:37]  Amadis: Amadis the armorer
+[10/18/2024 01:37]  Starbuck Pequod: Starbuck Pequod (Young)
+[10/18/2024 01:37]  kublia: kublia (Young)
+[10/18/2024 01:37]  Bilal: Bilal the blacksmith
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  System: 20% arcane buildup.
+[10/18/2024 01:37]  Ayisha: Ayisha the weaponsmith
+[10/18/2024 01:37]  Jolanta: Jolanta the Paladin
+[10/18/2024 01:37]  Dane: Dane the farmer
+[10/18/2024 01:37]  Len: Len the banker
+[10/18/2024 01:37]  Nemeia: Nemeia (Young)
+[10/18/2024 01:37]  Tresor: [Le Francais, LEET]
+[10/18/2024 01:37]  Tresor: Lord Tresor
+[10/18/2024 01:37]  Zetan: Zetan (Young)
+[10/18/2024 01:37]  Jake: Jake the barkeep
+[10/18/2024 01:37]  Colon: Speak to Mortimer Graves at Prevalia Bank to enter the Beechwood Manor raffle! Do you dare confront its haunted past?
+[10/18/2024 01:37]  Colon: Colon the Town Crier
+[10/18/2024 01:37]  Alicia: Alicia the tavern keeper
+[10/18/2024 01:37]  Cinghiale: [Member, NC]
+[10/18/2024 01:37]  Cinghiale: Cinghiale
+[10/18/2024 01:37]  Dusty: Dusty the cook
+[10/18/2024 01:37]  Giles: Giles the thief
+[10/18/2024 01:37]  Jayne: Jayne the innkeeper
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  a sheep: *released*
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  a sheep: *released*
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  Amadis: Amadis the armorer
+[10/18/2024 01:37]  kublia: kublia (Young)
+[10/18/2024 01:37]  System: 0% arcane buildup.
+[10/18/2024 01:37]  Meg: Meg the bowyer
+[10/18/2024 01:37]  [Razor]: Warning: Spider's Silk amount is now 2!
+[10/18/2024 01:37]  Tresor: Contact @tedo54, @telyne aux heures FR sur le discord.
+[10/18/2024 01:37]  Zetan: withdraw 500
+[10/18/2024 01:37]  Len: Thou hast withdrawn 500 gold.
+[10/18/2024 01:37]  a sheep: a sheep
+[10/18/2024 01:37]  [Razor]: Warning: Ginseng amount is now 0!
+[10/18/2024 01:38]  Zetan: gyu
+[10/18/2024 01:38]  System: 0% arcane buildup.
+[10/18/2024 01:38]  Tresor: Ou Contact @xjanderx aux heures QC sur le discord.
+[10/18/2024 01:38]  Nemeia: Nemeia (Young)
+[10/18/2024 01:38]  a sheep: a sheep
+[10/18/2024 01:38]  Dane: Dane the farmer
+[10/18/2024 01:38]  a sheep: a sheep
+[10/18/2024 01:38]  a sheep: a sheep
+[10/18/2024 01:38]  Rikkard: Bank Vendor buy
+[10/18/2024 01:38]  Rikkard: Items: 4/125
+[10/18/2024 01:38]  Rikkard: Total Weight: 11
+[10/18/2024 01:38]  Rikkard: Room
+[10/18/2024 01:38]  You see: gold coin : 293
+[10/18/2024 01:38]  kublia: kublia (Young)
+[10/18/2024 01:38]  You see: gold coin : 948
+[10/18/2024 01:38]  SweetCorn: SweetCorn (Young)
+[10/18/2024 01:38]  SweetCorn: Guards Bank Room
+[10/18/2024 01:38]  Alexandra Rae: Alexandra Rae (Young)
+[10/18/2024 01:38]  a zombie: (summoned)
+[10/18/2024 01:38]  a zombie: a zombie
+[10/18/2024 01:38]  Colon: Get your very own Pumpkin Mask at Prevalia Bank, next to the Prevalian Merchant! BOO!
+[10/18/2024 01:38]  You see: training credits deed
+[10/18/2024 01:38]  You see: (1000 credits remaining)
+[10/18/2024 01:38]  You see: [bound to Rikkard]
+[10/18/2024 01:38]  Alexandra Rae: Alexandra Rae (Young)
+[10/18/2024 01:38]  a zombie: (summoned)
+[10/18/2024 01:38]  a zombie: a zombie
+[10/18/2024 01:38]  lasarinii: lasarinii (Young)
+[10/18/2024 01:39]  Murray Bookchin: Murray Bookchin (Young)
+[10/18/2024 01:39]  System: A house ownership lottery has begun for a Caravan Wagon East at (769, 1105, 0).
+[10/18/2024 01:39]  kublia: kublia (Young)
+[10/18/2024 01:39]  Murray Bookchin: bank
+[10/18/2024 01:39]  MaxWhaleSama: MaxWhaleSama (Young)
+[10/18/2024 01:39]  You see: training arcane staff
+[10/18/2024 01:39]  PorkPork: PorkPork (Young)
+[10/18/2024 01:39]  Dalia Maxwell: Dalia Maxwell (Young)
+[10/18/2024 01:39]  You see: spider's silk : 2
+[10/18/2024 01:39]  [Razor]: Warning: Ginseng amount is now 0!
+[10/18/2024 01:39]  [Razor]: Warning: Spider's Silk amount is now 2!
+[10/18/2024 01:39]  BoneZone: [Henchman, Syn]
+[10/18/2024 01:39]  BoneZone: BoneZone
+[10/18/2024 01:39]  [Razor]: Warning: Garlic amount is now 2!
+[10/18/2024 01:39]  [Razor]: Warning: Black Pearl amount is now 0!
+[10/18/2024 01:39]  Colon: A house ownership lottery has begun for a Caravan Wagon East at (769, 1105, 0).
+[10/18/2024 01:39]  kublia: kublia (Young)
+[10/18/2024 01:39]  [Razor]: Warning: Mandrake Root amount is now 0!
+[10/18/2024 01:39]  blakko: [Membro, ITA.]
+[10/18/2024 01:39]  blakko: blakko (Young)
+[10/18/2024 01:39]  Amadis: Amadis the armorer
+[10/18/2024 01:39]  MaxWhaleSama: MaxWhaleSama (Young)
+[10/18/2024 01:39]  Rikkard: Bank Vendor buy
+[10/18/2024 01:39]  Rikkard: Items: 7/125
+[10/18/2024 01:39]  Rikkard: Total Weight: 35
+[10/18/2024 01:40]  MeaselWeasel: MeaselWeasel
+[10/18/2024 01:40]  Rikkard: Room
+[10/18/2024 01:40]  You see: gold coin : 948
+[10/18/2024 01:40]  Rikkard: Bank Vendor buy
+[10/18/2024 01:40]  Rikkard: Items: 7/125
+[10/18/2024 01:40]  Rikkard: Total Weight: 35
+[10/18/2024 01:40]  Len: Alas, my goods and services are only available to those with young player status.
+[10/18/2024 01:40]  Rikkard: Room
+[10/18/2024 01:40]  You see: gold coin : 948
+[10/18/2024 01:40]  cuacisdead: [Beard Brother, BB]
+[10/18/2024 01:40]  cuacisdead: cuacisdead
+[10/18/2024 01:40]  Meg: Meg the bowyer
+[10/18/2024 01:40]  a sheep: a sheep
+[10/18/2024 01:40]  MiniMembro: (bonded)
+[10/18/2024 01:40]  MiniMembro: MiniMembro
+[10/18/2024 01:40]  Dusty: Dusty the cook
+[10/18/2024 01:40]  Giles: Giles the thief
+[10/18/2024 01:40]  Carlton: Carlton the stablemaster
+[10/18/2024 01:40]  Len: Alas, my goods and services are only available to those with young player status.
+[10/18/2024 01:40]  Jayne: Jayne the innkeeper
+[10/18/2024 01:40]  MeaselWeasel: MeaselWeasel
+[10/18/2024 01:40]  Tresor: Ou Contact @xjanderx aux heures QC sur le discord.
+[10/18/2024 01:40]  Kenelm: Kenelm the tavern keeper
+[10/18/2024 01:40]  Kaos Kriminal: Kaos Kriminal (Young)
+[10/18/2024 01:40]  MassacreurLDS: (tame)
+[10/18/2024 01:40]  MassacreurLDS: MassacreurLDS
+[10/18/2024 01:40]  : stone pavers Dark
+[10/18/2024 01:40]  MeaselWeasel: MeaselWeasel
+[10/18/2024 01:40]  jaji: [Membro, ITA.]
+[10/18/2024 01:40]  jaji: jaji
+[10/18/2024 01:40]  Rahn Lan: [Soldier, DKR]
+[10/18/2024 01:40]  Rahn Lan: Rahn Lan
+[10/18/2024 01:40]  Elerinna: [La Recruteuse, LDS]
+[10/18/2024 01:40]  Elerinna: Elerinna
+[10/18/2024 01:40]  LegendeLDS: (tame)
+[10/18/2024 01:40]  LegendeLDS: LegendeLDS
+[10/18/2024 01:40]  MaitreLDS: (tame)
+[10/18/2024 01:40]  MaitreLDS: MaitreLDS
+[10/18/2024 01:40]  GuerrierLDS: (tame)
+[10/18/2024 01:40]  GuerrierLDS: GuerrierLDS
+[10/18/2024 01:40]  Generic Player: Generic Player (Young)
+[10/18/2024 01:40]  Rosaline: Rosaline the waiter
+[10/18/2024 01:40]  MagiciensLDS: (tame)
+[10/18/2024 01:40]  MagiciensLDS: MagiciensLDS
+[10/18/2024 01:40]  Tai: Tai the fisherman
+[10/18/2024 01:40]  Jordan: Jordan the beggar
+[10/18/2024 01:40]  BoneZone: [Henchman, Syn]
+[10/18/2024 01:40]  BoneZone: BoneZone
+[10/18/2024 01:40]  Bly: Bly the fisherman
+[10/18/2024 01:40]  Zooker: Legendary Pirate
+[10/18/2024 01:40]  Zooker: [Quartermaster, P.S.]
+[10/18/2024 01:40]  Zooker: Lord Zooker
+[10/18/2024 01:40]  Lene: Lene the salvage foreman
+[10/18/2024 01:40]  Elerinna: Bienvenu sur outland! tu recherche une guild FR/QC?
+[10/18/2024 01:40]  Elerinna: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[10/18/2024 01:40]  Elerinna: @samxsnow // @idrielle // @youpietlefou // @nibelheim
+[10/18/2024 01:40]  Carlton: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[10/18/2024 01:40]  Carlton: For less I shall teach thee less.
+[10/18/2024 01:40]  Carlton: Let me show thee something of how this is done.
+[10/18/2024 01:40]  cuacisinsane: cuacisinsane (Young)
+[10/18/2024 01:40]  Elerinna: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[10/18/2024 01:41]  Elerinna: ■ Outland est bien different des autres serveurs, laisse nous te guider dans ton nouveau départ! 
+[10/18/2024 01:41]  Bitoquinha: Bitoquinha
+[10/18/2024 01:41]  Elerinna: ■ Des événements hebdomadaires pour du loot garantie ! 
+[10/18/2024 01:41]  System: IceCreamTruck has completed the achievement: Affluent (Advanced).
+[10/18/2024 01:41]  Elerinna: Bienvenu sur outland! tu recherche une guild FR/QC?
+[10/18/2024 01:41]  Elerinna: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[10/18/2024 01:41]  Elerinna: @samxsnow // @idrielle // @youpietlefou // @nibelheim
+[10/18/2024 01:41]  Elerinna: ■ Vien vivre l'experience 100% sirop d'érable dans les veines
+[10/18/2024 01:41]  Elerinna: ■ Outland est bien different des autres serveurs, laisse nous te guider dans ton nouveau départ! 
+[10/18/2024 01:41]  kublia: kublia (Young)
+[10/18/2024 01:41]  Elerinna: ■ Des événements hebdomadaires pour du loot garantie ! 
+[10/18/2024 01:41]  Stacy: Stacy the salvage foreman
+[10/18/2024 01:41]  Tai: Tai the fisherman
+[10/18/2024 01:41]  Lene: Lene the salvage foreman
+[10/18/2024 01:41]  Elerinna: Bienvenu sur outland! tu recherche une guild FR/QC?
+[10/18/2024 01:41]  a seagull: a seagull
+[10/18/2024 01:41]  Uriah: Uriah the dockmaster
+[10/18/2024 01:41]  Kira: Kira the dockmaster
+[10/18/2024 01:42]  kublia: kublia (Young)
+[10/18/2024 01:42]  Elerinna: ■ ■ LDS recrute! ■ ■  tu peu nous trouver en fesant une recherche d'usager sur le Discord de Outland
+[10/18/2024 01:42]  Zara: Zara the scribe
+[10/18/2024 01:42]  Sherwin: Sherwin the mage
+[10/18/2024 01:42]  Zann: Zann the Necromancer
+[10/18/2024 01:42]  Kasinda: Kasinda the alchemist
+[10/18/2024 01:42]  Fuller: Fuller the barkeep
+[10/18/2024 01:42]  Jayne: Jayne the innkeeper
+[10/18/2024 01:42]  a llama: (bonded)
+[10/18/2024 01:42]  a llama: a llama
+[10/18/2024 01:42]  Raide: Raide (Young)
+[10/18/2024 01:42]  Defectiv: Defectiv
+[10/18/2024 01:42]  Fabian Alejandro: Fabian Alejandro
+[10/18/2024 01:42]  Blodwydd: Blodwydd (Young)
+[10/18/2024 01:42]  Irenus: [Prospect, T^C]
+[10/18/2024 01:42]  Irenus: Irenus
+[10/18/2024 01:42]  Sergio: Sergio the battle trainer
+[10/18/2024 01:42]  Girth Algar: Girth Algar (Young)
+[10/18/2024 01:42]  Masked Potato: Masked Potato (Young)
+[10/18/2024 01:42]  Alejandro Fabian: Alejandro Fabian
+[10/18/2024 01:42]  Likedeeler: Likedeeler (Young)
+[10/18/2024 01:42]  Bitoquinha: Bitoquinha
+[10/18/2024 01:42]  Flu Logger the S: [Officer, SUI]
+[10/18/2024 01:42]  Flu Logger the S: Flu Logger the S
+[10/18/2024 01:42]  fuef: (bonded)
+[10/18/2024 01:42]  fuef: fuef
+[10/18/2024 01:42]  Trust No One: Trust No One
+[10/18/2024 01:42]  LazMan: Monster Hunter Initiate
+[10/18/2024 01:42]  LazMan: [Private First Class, TES]
+[10/18/2024 01:42]  LazMan: LazMan
+[10/18/2024 01:42]  Ashleigh: Ashleigh the battle trainer
+[10/18/2024 01:42]  Alben: *pacified 17s*
+[10/18/2024 01:42]  Alben: Alben the battle trainer
+[10/18/2024 01:42]  Foursum: [Veteran, Path]
+[10/18/2024 01:42]  Foursum: Lord Foursum
+[10/18/2024 01:42]  ChildlessCatLady: ChildlessCatLady (Young)
+[10/18/2024 01:42]  Kolix: Kolix (Young)
+[10/18/2024 01:42]  He Who: He Who (Young)
+[10/18/2024 01:42]  Heji: Heji (Young)
+[10/18/2024 01:42]  Zgechni: Zgechni (Young)
+[10/18/2024 01:42]  Zara: Zara the scribe
+[10/18/2024 01:42]  WhoIsYourDaddy: WhoIsYourDaddy (Young)
+[10/18/2024 01:42]  System: Hades Lord Death has completed the achievement: Alchemist (Advanced).
+[10/18/2024 01:42]  Quantic: Quantic
+[10/18/2024 01:42]  Alben: *looks calmed*
+[10/18/2024 01:43]  Rosaline: Rosaline the waiter
+[10/18/2024 01:43]  Zetan: Zetan (Young)
+[10/18/2024 01:43]  MaxWhaleSama: MaxWhaleSama (Young)
+[10/18/2024 01:44]  a good character: a good character
+[10/18/2024 01:44]  a good character: a good character
+[10/18/2024 01:44]  Rosaline: Rosaline the waiter
+[10/18/2024 01:44]  Bitoquinha: Bitoquinha
+[10/18/2024 01:44]  System: Dark Pit has completed the achievement: Guardian of Nusero (Basic).
+[10/18/2024 01:44]  Rosaline: Rosaline the waiter
