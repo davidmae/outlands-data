@@ -1,0 +1,108 @@
+[10/20/2024 10:32]  System: WorldMap loading...
+[10/20/2024 10:32]  System: Loading WorldMap markers..
+[10/20/2024 10:32]  System: ..Banks_and_Healers.xml (39)
+[10/20/2024 10:32]  System: ..Dungeons.xml (13)
+[10/20/2024 10:32]  System: ..Dungeon_Gates.xml (392)
+[10/20/2024 10:32]  System: ..Healer_Caravans.xml (42)
+[10/20/2024 10:32]  System: ..Kings_Faire.xml (49)
+[10/20/2024 10:32]  System: ..Moongates.xml (10)
+[10/20/2024 10:32]  System: ..POI.xml (251)
+[10/20/2024 10:32]  System: ..PvP_Locations.xml (71)
+[10/20/2024 10:32]  System: ..Shrines.xml (9)
+[10/20/2024 10:32]  System: ..Sub-Dungeons.xml (4)
+[10/20/2024 10:32]  System: ..Townships.xml (10)
+[10/20/2024 10:32]  System: ..UOAM_Atlas.xml (1887)
+[10/20/2024 10:32]  System: ..UOAM_T-Map.xml (255)
+[10/20/2024 10:32]  System: ..UOAM_Treasure.xml (523)
+[10/20/2024 10:32]  System: WorldMap markers loaded (3555)
+[10/20/2024 10:32]  System: Welcome Ailiin!
+[10/20/2024 10:32]  [Razor]: Ignoring action request (already queued).
+[10/20/2024 10:32]  Ailiin: [Ripe, SQzD]
+[10/20/2024 10:32]  Ailiin: Ailiin
+[10/20/2024 10:32]  Jaimito: Jaimito
+[10/20/2024 10:32]  System: WorldMap loaded!
+[10/20/2024 10:32]  System: Opening door...
+[10/20/2024 10:32]  System: You are now under the protection of the town guards.
+[10/20/2024 10:32]  System: You exit the rental room.
+[10/20/2024 10:32]  a cat: a cat
+[10/20/2024 10:32]  a cat: a cat
+[10/20/2024 10:32]  a pig: a pig
+[10/20/2024 10:32]  a pig: a pig
+[10/20/2024 10:32]  a cow: a cow
+[10/20/2024 10:32]  a bull: a bull
+[10/20/2024 10:32]  Cedric: Cedric the farmer
+[10/20/2024 10:32]  a goat: a goat
+[10/20/2024 10:32]  Hanan: Hanan the animal wrangler
+[10/20/2024 10:32]  Kama: Kama the creature broker
+[10/20/2024 10:32]  a dog: a dog
+[10/20/2024 10:32]  a goat: a goat
+[10/20/2024 10:32]  Keara: Keara the stablemaster
+[10/20/2024 10:32]  Renee: Renee the stablemaster
+[10/20/2024 10:32]  Denton: Denton the innkeeper
+[10/20/2024 10:32]  System: Opening door...
+[10/20/2024 10:32]  System: Opening door...
+[10/20/2024 10:32]  Thurston: Thurston the waiter
+[10/20/2024 10:32]  System: WorldMap loaded!
+[10/20/2024 10:32]  Athallwolf: [Private, MEMO]
+[10/20/2024 10:32]  Athallwolf: Athallwolf
+[10/20/2024 10:32]  : stone wall
+[10/20/2024 10:32]  : stone wall
+[10/20/2024 10:32]  a dog: a dog
+[10/20/2024 10:32]  a cat: a cat
+[10/20/2024 10:32]  Dacey: Dacey the waiter
+[10/20/2024 10:32]  Callidora: Callidora the tavern keeper
+[10/20/2024 10:32]  a dog: a dog
+[10/20/2024 10:32]  Donnelly: Donnelly the scribe
+[10/20/2024 10:32]  Ravi: Ravi the Town Crier
+[10/20/2024 10:32]  Asta: Asta the mage
+[10/20/2024 10:32]  Lunt: Lunt the herbalist
+[10/20/2024 10:32]  shankara: [The Tavern], [tT]
+[10/20/2024 10:32]  shankara: shankara
+[10/20/2024 10:32]  Adena: Adena the alchemist
+[10/20/2024 10:32]  Kvothe: [Ciridae, Amyr]
+[10/20/2024 10:32]  Kvothe: Kvothe
+[10/20/2024 10:32]  Brandi: Brandi the banker
+[10/20/2024 10:32]  a dog: a dog
+[10/20/2024 10:32]  a cat: a cat
+[10/20/2024 10:32]  a dog: a dog
+[10/20/2024 10:32]  Cellachan: Cellachan
+[10/20/2024 10:32]  Ailiin: check 50000
+[10/20/2024 10:32]  Brandi: I have placed a check in your bank box for the amount of 50,000
+[10/20/2024 10:32]  a cat: a cat
+[10/20/2024 10:32]  a dog: a dog
+[10/20/2024 10:32]  Dacey: Dacey the waiter
+[10/20/2024 10:32]  Ailiin: Bank Vendor buy
+[10/20/2024 10:32]  Ailiin: Items: 37/125
+[10/20/2024 10:32]  Ailiin: Total Weight: 4,394
+[10/20/2024 10:32]  Ailiin: Room
+[10/20/2024 10:32]  a cat: a cat
+[10/20/2024 10:32]  a dog: a dog
+[10/20/2024 10:32]  Dacey: Dacey the waiter
+[10/20/2024 10:32]  a dog: a dog
+[10/20/2024 10:32]  Donnelly: Donnelly the scribe
+[10/20/2024 10:32]  Thurston: Thurston the waiter
+[10/20/2024 10:32]  Denton: Denton the innkeeper
+[10/20/2024 10:32]  a cat: a cat
+[10/20/2024 10:32]  Renee: Renee the stablemaster
+[10/20/2024 10:32]  a goat: a goat
+[10/20/2024 10:32]  Keara: Keara the stablemaster
+[10/20/2024 10:32]  a dog: a dog
+[10/20/2024 10:32]  Hanan: Hanan the animal wrangler
+[10/20/2024 10:32]  Kama: Kama the creature broker
+[10/20/2024 10:32]  Ailiin: Bank Vendor buy
+[10/20/2024 10:32]  Denton: Greetings.  Have a look around.
+[10/20/2024 10:32]  Ailiin: Room
+[10/20/2024 10:32]  System: You have left the protection of the town guards.
+[10/20/2024 10:32]  System: You enter the rental room.
+[10/20/2024 10:32]  Jaimito: Jaimito
+[10/20/2024 10:32]  System: WorldMap loaded!
+[10/20/2024 10:32]  System: Mad-Bob has completed the achievement: Tailor (Advanced).
+[10/20/2024 10:32]  System: fufuwuwu has completed the achievement: Paragon Slayer (Basic).
+[10/20/2024 10:32]  Jaimito: Kal Ort Por [Recall]
+[10/20/2024 10:34]  System: Egads has completed the achievement: Seafarer Associate.
+[10/20/2024 10:34]  Jaimito: Jaimito
+[10/20/2024 10:35]  System: The server will be coming down for a patch in 10 minutes.
+[10/20/2024 10:35]  Jaimito: Kal Ort Por [Recall]
+[10/20/2024 10:36]  Jaimito: Jaimito
+[10/20/2024 10:36]  System: Zarus has completed the achievement: Artificers Enclave Initiate.
+[10/20/2024 10:37]  System: The world will save in 15 seconds.

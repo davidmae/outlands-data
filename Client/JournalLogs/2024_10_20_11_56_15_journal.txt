@@ -1,0 +1,3687 @@
+[10/20/2024 11:56]  System: WorldMap loading...
+[10/20/2024 11:56]  System: Loading WorldMap markers..
+[10/20/2024 11:56]  System: ..Banks_and_Healers.xml (39)
+[10/20/2024 11:56]  System: ..Dungeons.xml (13)
+[10/20/2024 11:56]  System: ..Dungeon_Gates.xml (392)
+[10/20/2024 11:56]  System: ..Healer_Caravans.xml (42)
+[10/20/2024 11:56]  System: ..Kings_Faire.xml (49)
+[10/20/2024 11:56]  System: ..Moongates.xml (10)
+[10/20/2024 11:56]  System: ..POI.xml (251)
+[10/20/2024 11:56]  System: ..PvP_Locations.xml (71)
+[10/20/2024 11:56]  System: ..Shrines.xml (9)
+[10/20/2024 11:56]  System: ..Sub-Dungeons.xml (4)
+[10/20/2024 11:56]  System: ..Townships.xml (10)
+[10/20/2024 11:56]  System: ..UOAM_Atlas.xml (1887)
+[10/20/2024 11:56]  System: ..UOAM_T-Map.xml (255)
+[10/20/2024 11:56]  System: ..UOAM_Treasure.xml (523)
+[10/20/2024 11:56]  System: WorldMap markers loaded (3555)
+[10/20/2024 11:56]  System: Welcome Ailiin!
+[10/20/2024 11:56]  [Razor]: Ignoring action request (already queued).
+[10/20/2024 11:56]  Ailiin: [Ripe, SQzD]
+[10/20/2024 11:56]  Ailiin: Ailiin
+[10/20/2024 11:56]  a dog: a dog
+[10/20/2024 11:56]  Ravi: Ravi the Town Crier
+[10/20/2024 11:56]  Brandi: Brandi the banker
+[10/20/2024 11:56]  System: WorldMap loaded!
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  Ailiin: Bank Vendor buy
+[10/20/2024 11:56]  Ailiin: Items: 37/125
+[10/20/2024 11:56]  Ailiin: Total Weight: 4,475
+[10/20/2024 11:56]  Ailiin: Room
+[10/20/2024 11:56]  [Razor]: Organize Agent queued 4 item(s) to be moved. (This may take a few moments)
+[10/20/2024 11:56]  Ravi: Speak to Mortimer Graves at Prevalia Bank to enter the Beechwood Manor raffle! Do you dare confront its haunted past?
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  You see: exceptional verewood lyric aspect bow
+[10/20/2024 11:56]  You see: [mastercrafted by NewPlayerMall]
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  You see: exceptional verewood lyric aspect bow
+[10/20/2024 11:56]  You see: [mastercrafted by NewPlayerMall]
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Queuing action request 2... 1.3 seconds left.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 11:56]  [Razor]: Finished 8 queued actions in 4.2 seconds.
+[10/20/2024 11:56]  You see: guarding platemail gorget
+[10/20/2024 11:56]  Lemieux: (*dishonored 23m 52s*) []
+[10/20/2024 11:56]  Lemieux: [MEMO]
+[10/20/2024 11:56]  Lemieux: Lemieux
+[10/20/2024 11:56]  a dog: a dog
+[10/20/2024 11:56]  a cat: a cat
+[10/20/2024 11:56]  Dacey: Dacey the waiter
+[10/20/2024 11:56]  Callidora: Callidora the tavern keeper
+[10/20/2024 11:56]  a dog: a dog
+[10/20/2024 11:56]  a dog: a dog
+[10/20/2024 11:56]  Donnelly: Donnelly the scribe
+[10/20/2024 11:56]  Thurston: Thurston the waiter
+[10/20/2024 11:56]  Denton: Denton the innkeeper
+[10/20/2024 11:56]  Renee: Renee the stablemaster
+[10/20/2024 11:56]  a goat: a goat
+[10/20/2024 11:56]  Keara: Keara the stablemaster
+[10/20/2024 11:56]  a dog: a dog
+[10/20/2024 11:56]  Kama: Kama the creature broker
+[10/20/2024 11:56]  Ailiin: Bank Vendor buy
+[10/20/2024 11:56]  Denton: Greetings.  Have a look around.
+[10/20/2024 11:56]  Ailiin: Room
+[10/20/2024 11:56]  System: You have left the protection of the town guards.
+[10/20/2024 11:56]  System: You enter the rental room.
+[10/20/2024 11:56]  System: WorldMap loaded!
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/20/2024 11:56]  [Razor]: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 11:56]  [Razor]: Queuing action request 4... 2.4 seconds left.
+[10/20/2024 11:56]  [Razor]: Warning: Spider's Silk amount is now 0!
+[10/20/2024 11:56]  [Razor]: Warning: Black Pearl amount is now 0!
+[10/20/2024 11:56]  [Razor]: Warning: Mandrake Root amount is now 0!
+[10/20/2024 11:56]  [Razor]: Finished 8 queued actions in 6.0 seconds.
+[10/20/2024 11:56]  You see: unidentified platemail gorget
+[10/20/2024 11:57]  System: 26° 58'N, 24° 2'E
+[10/20/2024 11:57]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[10/20/2024 11:57]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 11:57]  Qualinesti: Qualinesti
+[10/20/2024 11:57]  happy Skill Scrollzz: happy Skill Scrollzz
+[10/20/2024 11:57]  RuneLibrary: RuneLibrary the battle trainer
+[10/20/2024 11:57]  Cores and Sh!t: Cores and Sh!t
+[10/20/2024 11:57]  Tamary: Tamary
+[10/20/2024 11:57]  Monster Shuffle Rare: Monster Shuffle Rare
+[10/20/2024 11:57]  Prices Slashed: Prices Slashed
+[10/20/2024 11:57]  Cloth and Dyes: Cloth and Dyes
+[10/20/2024 11:57]  WoodMan/Fresh: WoodMan/Fresh
+[10/20/2024 11:57]  Hal: Hal
+[10/20/2024 11:57]  Thanos: Thanos
+[10/20/2024 11:57]  Melloweed Shop: Melloweed Shop
+[10/20/2024 11:57]  DUNGEON LOOT: DUNGEON LOOT
+[10/20/2024 11:57]  Time Gems: Time Gems
+[10/20/2024 11:57]  MarkInsideCY: MarkInsideCY the stablemaster
+[10/20/2024 11:57]  *(Grey Hand Goods)*: *(Grey Hand Goods)*
+[10/20/2024 11:57]  Runes R' Us: Runes R' Us
+[10/20/2024 11:57]  Shelter Favstvs gate: Shelter Favstvs gate
+[10/20/2024 11:57]  MoldyMilk Loot: MoldyMilk Loot
+[10/20/2024 11:57]  Prev N DUNGEONLOOT: Prev N DUNGEONLOOT
+[10/20/2024 11:57]  CORES N MORES: CORES N MORES
+[10/20/2024 11:57]  SscrollS: SscrollS
+[10/20/2024 11:57]  Moosh's Must Haves: [10% discount for SQzD]
+[10/20/2024 11:57]  Moosh's Must Haves: Moosh's Must Haves
+[10/20/2024 11:57]  Rnchas: Rnchas
+[10/20/2024 11:57]  Tales of Nine: Tales of Nine
+[10/20/2024 11:57]  My Loss UR Gain: My Loss UR Gain
+[10/20/2024 11:57]  Random things: Random things
+[10/20/2024 11:57]  Griffen: Griffen
+[10/20/2024 11:57]  Bian: Bian
+[10/20/2024 11:57]  Aristotle: Aristotle
+[10/20/2024 11:57]  Cores Runes Maps etc: Cores Runes Maps etc
+[10/20/2024 11:57]  Zevida: Zevida
+[10/20/2024 11:57]  SHIP STUFF ONLY: SHIP STUFF ONLY
+[10/20/2024 11:57]  INGOTS & BOARDS HERE: INGOTS & BOARDS HERE
+[10/20/2024 11:57]  MUSHROOM SPORE: MUSHROOM SPORE
+[10/20/2024 11:57]  DW Deals: [Syn only]
+[10/20/2024 11:57]  DW Deals: DW Deals
+[10/20/2024 11:57]  GOLD SILVER LINKS: GOLD SILVER LINKS
+[10/20/2024 11:57]  Ye Olde Shoppe: Ye Olde Shoppe
+[10/20/2024 11:57]  CORES & MORE: CORES & MORE
+[10/20/2024 11:57]  MASTERY SCROLLS: MASTERY SCROLLS
+[10/20/2024 11:57]  *Random Loooot*: *Random Loooot*
+[10/20/2024 11:57]  CORES GATE PASS: CORES GATE PASS
+[10/20/2024 11:57]  Amber Shelter: Amber Shelter
+[10/20/2024 11:57]  F GUILD: F GUILD
+[10/20/2024 11:57]  Plants N More: Plants N More
+[10/20/2024 11:57]  Verewood weapons: Verewood weapons
+[10/20/2024 11:57]  Cheap Cabbages!: Cheap Cabbages!
+[10/20/2024 11:57]  force greater Daemon: force greater Daemon
+[10/20/2024 11:57]  Random Great Stuff: Random Great Stuff
+[10/20/2024 11:57]  Cores Distills Rares: Cores Distills Rares
+[10/20/2024 11:57]  Restocked/New Stuff: Restocked/New Stuff
+[10/20/2024 11:57]  CORES SCROLLS N DIST: CORES SCROLLS N DIST
+[10/20/2024 11:57]  Eurospin: Eurospin
+[10/20/2024 11:57]  T Map LOOT: T Map LOOT
+[10/20/2024 11:57]  &&&SHOP&&&: &&&SHOP&&&
+[10/20/2024 11:57]  CORES ALL DAY LONG: CORES ALL DAY LONG
+[10/20/2024 11:57]  All Da Goodies: All Da Goodies
+[10/20/2024 11:57]  BEST PRICES ^_^: BEST PRICES ^_^
+[10/20/2024 11:57]  Doern Vendor: Doern Vendor
+[10/20/2024 11:57]  Magic Items: Magic Items
+[10/20/2024 11:57]  LOOT - Restocked: LOOT - Restocked
+[10/20/2024 11:57]  Rares and Magic Item: Rares and Magic Item
+[10/20/2024 11:57]  Dungeon Loot: Dungeon Loot
+[10/20/2024 11:57]  OVER 900000: OVER 900000
+[10/20/2024 11:57]  Dungeon_Drops: Dungeon_Drops
+[10/20/2024 11:57]  a gazer larva: a gazer larva
+[10/20/2024 11:57]  Leather Boner: Leather Boner
+[10/20/2024 11:57]  Alben - the cheapest: Alben - the cheapest
+[10/20/2024 11:57]  !!POTHEADS SHOP!!: !!POTHEADS SHOP!!
+[10/20/2024 11:57]  CHEAP WARES: CHEAP WARES
+[10/20/2024 11:57]  DISTILLS N CORES: [F only]
+[10/20/2024 11:57]  DISTILLS N CORES: DISTILLS N CORES
+[10/20/2024 11:57]  Bossing Loot: Bossing Loot
+[10/20/2024 11:57]  50% SALE: 50% SALE
+[10/20/2024 11:57]  Lockpicking Finds: Lockpicking Finds
+[10/20/2024 11:57]  Pitchforks n Recalls: Pitchforks n Recalls
+[10/20/2024 11:57]  Deco Prev Rares: Deco Prev Rares
+[10/20/2024 11:57]  Lifeguard: Lifeguard the dockmaster
+[10/20/2024 11:57]  Cores/Distills: Cores/Distills
+[10/20/2024 11:57]  Scrolls/Maps/ETC: Scrolls/Maps/ETC
+[10/20/2024 11:57]  --- CheapGoods ---: --- CheapGoods ---
+[10/20/2024 11:57]  Kurt: Kurt
+[10/20/2024 11:57]  lumber deal: lumber deal
+[10/20/2024 11:57]  System: WorldMap loaded!
+[10/20/2024 11:57]  System: Opening door...
+[10/20/2024 11:57]  System: You add 1 recall charges to the rune tome.
+[10/20/2024 11:57]  You see: Progressive Spawns
+[10/20/2024 11:57]  You see: a rune tome
+[10/20/2024 11:57]  You see: [locked down]
+[10/20/2024 11:57]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 11:57]  You see: a tribal poisoner corpse
+[10/20/2024 11:57]  You see: a forest ostard corpse
+[10/20/2024 11:57]  You see: a tribal hunter corpse
+[10/20/2024 11:57]  You see: a hallowed corpse
+[10/20/2024 11:57]  You see: a totem corpse
+[10/20/2024 11:57]  You see: a tribal fanatic corpse
+[10/20/2024 11:57]  You see: a tribal shaman corpse
+[10/20/2024 11:57]  You see: a tribal poisoner corpse
+[10/20/2024 11:57]  a tribal chieftain: a tribal chieftain
+[10/20/2024 11:57]  a tribal fanatic: a tribal fanatic
+[10/20/2024 11:57]  a tribal poisoner: a tribal poisoner
+[10/20/2024 11:57]  a tribal hunter: a tribal hunter
+[10/20/2024 11:57]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:57]  a tribal fanatic: -69
+[10/20/2024 11:57]  a tribal shaman: a tribal shaman
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:57]  a tribal fanatic: -112
+[10/20/2024 11:57]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 11:57]  Razor: Target: a tribal fanatic
+[10/20/2024 11:57]  System: Whom do you wish them to attack?
+[10/20/2024 11:57]  Razor: Target: a tribal poisoner
+[10/20/2024 11:57]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 11:57]  a tribal fanatic: *looks furious*
+[10/20/2024 11:57]  a tribal poisoner: *looks furious*
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:57]  a tribal poisoner: -194
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:57]  a tribal poisoner: -146
+[10/20/2024 11:57]  Oriole: Oriole the wandering healer
+[10/20/2024 11:57]  a tribal hunter: a tribal hunter
+[10/20/2024 11:57]  a sand crab: a sand crab
+[10/20/2024 11:57]  You see: a tribal shaman corpse
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.138%
+[10/20/2024 11:57]  a tribal poisoner: -144
+[10/20/2024 11:57]  a tribal shaman: a tribal shaman
+[10/20/2024 11:57]  a tribal poisoner: -40
+[10/20/2024 11:57]  Razor: [+Start DiscordNearest]
+[10/20/2024 11:57]  Razor: Target queue cleared.
+[10/20/2024 11:57]  [Razor]: You are not holding anything.
+[10/20/2024 11:57]  [Razor]: New target set.
+[10/20/2024 11:57]  Razor: Attack: a tribal poisoner
+[10/20/2024 11:57]  [Razor]: Ignore List cleared
+[10/20/2024 11:57]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 11:57]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 11:57]  Razor: *provoked 40s discord 1m 51s* a tribal poisoner
+[10/20/2024 11:57]  Razor: [+Start auto-heal]
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:57]  a tribal poisoner: -222
+[10/20/2024 11:57]  a tribal fanatic: -30
+[10/20/2024 11:57]  a tribal poisoner: -45
+[10/20/2024 11:57]  Razor: Attack: a tribal poisoner
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:57]  a tribal poisoner: -147
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:57]  a tribal poisoner: -212
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:57]  a tribal poisoner: -252
+[10/20/2024 11:57]  a tribal poisoner: -51
+[10/20/2024 11:57]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:57]  a tribal poisoner: -207
+[10/20/2024 11:57]  System: Your shot ricochets.
+[10/20/2024 11:57]  System: Your shot ricochets.
+[10/20/2024 11:57]  System: You have gained a good amount of fame.
+[10/20/2024 11:57]  System: You have gained a good amount of karma.
+[10/20/2024 11:57]  Ailiin: (Lyric Aspect 3,422.5/4000 xp)
+[10/20/2024 11:57]  System: -340
+[10/20/2024 11:57]  System: You have gained some fame.
+[10/20/2024 11:57]  System: You have gained some karma.
+[10/20/2024 11:57]  Ailiin: (Lyric Aspect 3,426.6/4000 xp)
+[10/20/2024 11:57]  System: -1789
+[10/20/2024 11:57]  You see: a tribal poisoner corpse
+[10/20/2024 11:57]  You see: a tribal fanatic corpse
+[10/20/2024 11:57]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/20/2024 11:57]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/20/2024 11:57]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 11:58]  You see: a forest ostard corpse
+[10/20/2024 11:58]  You see: a tribal hunter corpse
+[10/20/2024 11:58]  You see: a forest ostard corpse
+[10/20/2024 11:58]  You see: a tribal hunter corpse
+[10/20/2024 11:58]  a tribal hunter: a tribal hunter
+[10/20/2024 11:58]  a tribal poisoner: a tribal poisoner
+[10/20/2024 11:58]  Razor: [+Start PeaceNearest]
+[10/20/2024 11:58]  Razor: Target queue cleared.
+[10/20/2024 11:58]  [Razor]: You are not holding anything.
+[10/20/2024 11:58]  [Razor]: New target set.
+[10/20/2024 11:58]  Razor: Target: a tribal chieftain
+[10/20/2024 11:58]  [Razor]: Ignore List cleared
+[10/20/2024 11:58]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 11:58]  Razor: Attack: a tribal chieftain
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 11:58]  a tribal chieftain: *looks calmed*
+[10/20/2024 11:58]  Razor: *pacified 48s* a tribal chieftain
+[10/20/2024 11:58]  Razor: [+Start auto-heal]
+[10/20/2024 11:58]  Razor: [+Start DiscordNearest]
+[10/20/2024 11:58]  Razor: Target queue cleared.
+[10/20/2024 11:58]  [Razor]: You are not holding anything.
+[10/20/2024 11:58]  [Razor]: New target set.
+[10/20/2024 11:58]  Razor: Target: a tribal chieftain
+[10/20/2024 11:58]  [Razor]: Ignore List cleared
+[10/20/2024 11:58]  System: You must wait a few moments to use another skill.
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -255
+[10/20/2024 11:58]  Razor: *pacified 46s* a tribal chieftain
+[10/20/2024 11:58]  Razor: [+Start auto-heal]
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -245
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -211
+[10/20/2024 11:58]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -148
+[10/20/2024 11:58]  You see: a totem corpse
+[10/20/2024 11:58]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 11:58]  System: You must wait a few moments to use another skill.
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -201
+[10/20/2024 11:58]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 11:58]  Razor: Target: a tribal poisoner
+[10/20/2024 11:58]  System: Target cannot be seen.
+[10/20/2024 11:58]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -226
+[10/20/2024 11:58]  Razor: Target: a tribal chieftain
+[10/20/2024 11:58]  System: Whom do you wish them to attack?
+[10/20/2024 11:58]  Razor: Target: a tribal poisoner
+[10/20/2024 11:58]  System: Target cannot be seen.
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -112
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  System: Your shot hinders your target!
+[10/20/2024 11:58]  a tribal chieftain: -218
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -183
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -148
+[10/20/2024 11:58]  Razor: Attack: a tribal poisoner
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -165
+[10/20/2024 11:58]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 11:58]  System: Whom do you wish them to attack?
+[10/20/2024 11:58]  Razor: Target: a tribal chieftain
+[10/20/2024 11:58]  System: You play successfully, provoking your targets. (56s)
+[10/20/2024 11:58]  a tribal poisoner: *looks furious*
+[10/20/2024 11:58]  a tribal chieftain: *looks furious*
+[10/20/2024 11:58]  a tribal poisoner: -38
+[10/20/2024 11:58]  a tribal chieftain: *barding break*
+[10/20/2024 11:58]  You see: a forest ostard corpse
+[10/20/2024 11:58]  You see: a tribal hunter corpse
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.138%
+[10/20/2024 11:58]  a tribal chieftain: -211
+[10/20/2024 11:58]  Razor: Attack: a tribal poisoner
+[10/20/2024 11:58]  System: You must wait a few moments to use another skill.
+[10/20/2024 11:58]  Razor: Attack: a tribal poisoner
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal poisoner: -150
+[10/20/2024 11:58]  a tribal chieftain: -23
+[10/20/2024 11:58]  You see: a forest ostard corpse
+[10/20/2024 11:58]  You see: a tribal hunter corpse
+[10/20/2024 11:58]  You see: a tribal poisoner corpse
+[10/20/2024 11:58]  You see: a totem corpse
+[10/20/2024 11:58]  a tribal hunter: a tribal hunter
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal poisoner: -167
+[10/20/2024 11:58]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 11:58]  Razor: Target: a tribal poisoner
+[10/20/2024 11:58]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 11:58]  Razor: Attack: a tribal poisoner
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal poisoner: -235
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal poisoner: -227
+[10/20/2024 11:58]  a tribal chieftain: -23
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal poisoner: -190
+[10/20/2024 11:58]  a tribal chieftain: -28
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal poisoner: -182
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal poisoner: -342
+[10/20/2024 11:58]  System: GiselleM has completed the achievement: Scribe (Basic).
+[10/20/2024 11:58]  a tribal chieftain: -26
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal poisoner: -240
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal poisoner: -216
+[10/20/2024 11:58]  a tribal chieftain: -18
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  System: You have gained a good amount of fame.
+[10/20/2024 11:58]  System: You have gained a good amount of karma.
+[10/20/2024 11:58]  Ailiin: (Lyric Aspect 3,432.2/4000 xp)
+[10/20/2024 11:58]  System: -13
+[10/20/2024 11:58]  You see: a tribal poisoner corpse
+[10/20/2024 11:58]  Razor: [+Start PeaceNearest]
+[10/20/2024 11:58]  Razor: Target queue cleared.
+[10/20/2024 11:58]  [Razor]: You are not holding anything.
+[10/20/2024 11:58]  [Razor]: New target set.
+[10/20/2024 11:58]  Razor: Target: a tribal chieftain
+[10/20/2024 11:58]  [Razor]: Ignore List cleared
+[10/20/2024 11:58]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -147
+[10/20/2024 11:58]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 11:58]  a tribal chieftain: *looks calmed*
+[10/20/2024 11:58]  Razor: *pacified 48s* [Lethal Poison] a tribal chieftain
+[10/20/2024 11:58]  Razor: [+Start auto-heal]
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -148
+[10/20/2024 11:58]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:58]  a tribal chieftain: -190
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  System: You have gained a good amount of fame.
+[10/20/2024 11:59]  System: You have gained a good amount of karma.
+[10/20/2024 11:59]  Ailiin: (Lyric Aspect 3,439.4/4000 xp)
+[10/20/2024 11:59]  System: -64
+[10/20/2024 11:59]  You see: a tribal chieftain corpse
+[10/20/2024 11:59]  : bamboo wall
+[10/20/2024 11:59]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/20/2024 11:59]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/20/2024 11:59]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 11:59]  You see: a forest ostard corpse
+[10/20/2024 11:59]  You see: a tribal hunter corpse
+[10/20/2024 11:59]  You see: a forest ostard corpse
+[10/20/2024 11:59]  You see: a tribal hunter corpse
+[10/20/2024 11:59]  You see: a tribal poisoner corpse
+[10/20/2024 11:59]  a tribal hunter: a tribal hunter
+[10/20/2024 11:59]  You see: a zemi corpse
+[10/20/2024 11:59]  System: Mlody has completed the achievement: Pirate (Intermediate).
+[10/20/2024 11:59]  a tribal shaman: a tribal shaman
+[10/20/2024 11:59]  You see: a tribal shaman corpse
+[10/20/2024 11:59]  a tribal shaman: a tribal shaman
+[10/20/2024 11:59]  Razor: [+Start PeaceNearest]
+[10/20/2024 11:59]  Razor: Target queue cleared.
+[10/20/2024 11:59]  [Razor]: You are not holding anything.
+[10/20/2024 11:59]  [Razor]: New target set.
+[10/20/2024 11:59]  Razor: Target: a tribal hunter
+[10/20/2024 11:59]  [Razor]: Ignore List cleared
+[10/20/2024 11:59]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 11:59]  Razor: Attack: a tribal hunter
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal hunter: -121
+[10/20/2024 11:59]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 11:59]  a tribal hunter: *looks calmed*
+[10/20/2024 11:59]  Razor: *pacified 48s* a tribal hunter
+[10/20/2024 11:59]  Razor: [+Start auto-heal]
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal hunter: -110
+[10/20/2024 11:59]  System: That is too far away.
+[10/20/2024 11:59]  System: That is too far away.
+[10/20/2024 11:59]  You see: a tribal poisoner corpse
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal hunter: -97
+[10/20/2024 11:59]  Razor: Attack: a tribal shaman
+[10/20/2024 11:59]  a tribal shaman: *rattles bones*
+[10/20/2024 11:59]  Ailiin: -6
+[10/20/2024 11:59]  System: Who will you use the bandages on?
+[10/20/2024 11:59]  System: You begin applying the bandages.
+[10/20/2024 11:59]  Razor: Bandage: 7s
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.138%
+[10/20/2024 11:59]  a tribal shaman: -158
+[10/20/2024 11:59]  Ailiin: -5
+[10/20/2024 11:59]  System: Your fingers slip!
+[10/20/2024 11:59]  You see: a tribal fanatic corpse
+[10/20/2024 11:59]  a tribal poisoner: a tribal poisoner
+[10/20/2024 11:59]  a tribal fanatic: a tribal fanatic
+[10/20/2024 11:59]  Razor: Bandage: 6s
+[10/20/2024 11:59]  Razor: Attack: a tribal shaman
+[10/20/2024 11:59]  Ailiin: -6
+[10/20/2024 11:59]  System: Your fingers slip!
+[10/20/2024 11:59]  Razor: Bandage: 5s
+[10/20/2024 11:59]  System: You increase your damage resistance to creature-casted spells.
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.138%
+[10/20/2024 11:59]  a tribal shaman: -105
+[10/20/2024 11:59]  Razor: Bandage: 4s
+[10/20/2024 11:59]  Razor: Bandage: 3s
+[10/20/2024 11:59]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.138%
+[10/20/2024 11:59]  a tribal shaman: -124
+[10/20/2024 11:59]  Ailiin: -11
+[10/20/2024 11:59]  Razor: Bandage: 2s
+[10/20/2024 11:59]  Razor: Bandage: 1s
+[10/20/2024 11:59]  a tribal shaman: a tribal shaman
+[10/20/2024 11:59]  You see: a tribal poisoner corpse
+[10/20/2024 11:59]  System: You finish applying the bandages.
+[10/20/2024 11:59]  Ailiin: +27
+[10/20/2024 11:59]  System: Anatomy skillgain: 1.996%
+[10/20/2024 11:59]  Ailiin: +0
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  System: Your shot hinders your target!
+[10/20/2024 11:59]  a tribal shaman: -110
+[10/20/2024 11:59]  Ailiin: +0
+[10/20/2024 11:59]  Ailiin: -15
+[10/20/2024 11:59]  System: Who will you use the bandages on?
+[10/20/2024 11:59]  System: You begin applying the bandages.
+[10/20/2024 11:59]  Razor: Bandage: 7s
+[10/20/2024 11:59]  Ailiin: +7
+[10/20/2024 11:59]  a tribal shaman: a tribal shaman
+[10/20/2024 11:59]  You see: a hallowed corpse
+[10/20/2024 11:59]  You see: a tribal poisoner corpse
+[10/20/2024 11:59]  You see: a tribal poisoner corpse
+[10/20/2024 11:59]  You see: a tribal fanatic corpse
+[10/20/2024 11:59]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 11:59]  Razor: Bandage: 6s
+[10/20/2024 11:59]  Razor: Target: a tribal hunter
+[10/20/2024 11:59]  System: Whom do you wish them to attack?
+[10/20/2024 11:59]  Razor: Target: a tribal shaman
+[10/20/2024 11:59]  System: You play successfully, provoking your targets. (56s)
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal hunter: -93
+[10/20/2024 11:59]  a tribal hunter: *looks furious*
+[10/20/2024 11:59]  a tribal shaman: *looks furious*
+[10/20/2024 11:59]  Razor: Bandage: 5s
+[10/20/2024 11:59]  Razor: Attack: a tribal hunter
+[10/20/2024 11:59]  Razor: Bandage: 4s
+[10/20/2024 11:59]  a tribal shaman: -48
+[10/20/2024 11:59]  You see: a tribal fanatic corpse
+[10/20/2024 11:59]  a tribal poisoner: a tribal poisoner
+[10/20/2024 11:59]  Razor: Bandage: 3s
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal hunter: -144
+[10/20/2024 11:59]  Razor: Bandage: 2s
+[10/20/2024 11:59]  Razor: Bandage: 1s
+[10/20/2024 11:59]  System: You finish applying the bandages.
+[10/20/2024 11:59]  Ailiin: +7
+[10/20/2024 11:59]  System: Anatomy skillgain: 1.986%
+[10/20/2024 11:59]  a tribal shaman: -32
+[10/20/2024 11:59]  System: Who will you use the bandages on?
+[10/20/2024 11:59]  System: That being is not damaged!
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal hunter: -93
+[10/20/2024 11:59]  Razor: Attack: a tribal shaman
+[10/20/2024 11:59]  Ailiin: +0
+[10/20/2024 11:59]  a tribal hunter: -21
+[10/20/2024 11:59]  a tribal fanatic: a tribal fanatic
+[10/20/2024 11:59]  You see: a tribal fanatic corpse
+[10/20/2024 11:59]  a tribal shaman: *rattles bones*
+[10/20/2024 11:59]  Ailiin: +0
+[10/20/2024 11:59]  a tribal shaman: a tribal shaman
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  Ailiin: +0
+[10/20/2024 11:59]  Razor: Attack: a tribal poisoner
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.138%
+[10/20/2024 11:59]  System: Your shot hinders your target!
+[10/20/2024 11:59]  a tribal poisoner: -187
+[10/20/2024 11:59]  a tribal shaman: -42
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  You see: a hallowed corpse
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  You see: a tribal poisoner corpse
+[10/20/2024 11:59]  You see: a tribal fanatic corpse
+[10/20/2024 11:59]  a tribal shaman: -40
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  a tribal hunter: -22
+[10/20/2024 11:59]  a tribal shaman: -46
+[10/20/2024 11:59]  Razor: Attack: a tribal poisoner
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal poisoner: -137
+[10/20/2024 11:59]  a tribal shaman: -45
+[10/20/2024 11:59]  You see: a hallowed corpse
+[10/20/2024 11:59]  You see: a tribal fanatic corpse
+[10/20/2024 11:59]  a tribal hunter: -30
+[10/20/2024 11:59]  a tribal shaman: -34
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal poisoner: -146
+[10/20/2024 11:59]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 11:59]  Razor: Target: a tribal poisoner
+[10/20/2024 11:59]  System: Whom do you wish them to attack?
+[10/20/2024 11:59]  Razor: Target: a tribal hunter
+[10/20/2024 11:59]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 11:59]  a tribal poisoner: *looks furious*
+[10/20/2024 11:59]  a tribal hunter: *looks furious*
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  System: Your shot hinders your target!
+[10/20/2024 11:59]  a tribal hunter: -129
+[10/20/2024 11:59]  a tribal hunter: -33
+[10/20/2024 11:59]  Razor: Attack: a tribal poisoner
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal poisoner: -88
+[10/20/2024 11:59]  a tribal hunter: -24
+[10/20/2024 11:59]  You see: a tribal fanatic corpse
+[10/20/2024 11:59]  a tribal fanatic: a tribal fanatic
+[10/20/2024 11:59]  a tribal shaman: *rattles bones*
+[10/20/2024 11:59]  You see: a tribal poisoner corpse
+[10/20/2024 11:59]  a tribal shaman: a tribal shaman
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  You see: a tribal shaman corpse
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  a tribal hunter: a tribal hunter
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  Razor: Attack: a tribal fanatic
+[10/20/2024 11:59]  System: Anatomy skillgain: 2.128%
+[10/20/2024 11:59]  a tribal fanatic: -136
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  a tribal fanatic: a tribal fanatic
+[10/20/2024 11:59]  You see: a forest ostard corpse
+[10/20/2024 11:59]  You see: a tribal hunter corpse
+[10/20/2024 11:59]  a tribal poisoner: -33
+[10/20/2024 11:59]  a tribal hunter: -15
+[10/20/2024 11:59]  a tribal hunter: -33
+[10/20/2024 11:59]  You see: a tribal poisoner corpse
+[10/20/2024 11:59]  You see: a hallowed corpse
+[10/20/2024 11:59]  You see: a tribal hunter corpse
+[10/20/2024 11:59]  a tribal hunter: -22
+[10/20/2024 11:59]  a tribal hunter: -33
+[10/20/2024 11:59]  : palm frond roof
+[10/20/2024 11:59]  a tribal poisoner: -44
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal fanatic: -132
+[10/20/2024 12:00]  a tribal hunter: -22
+[10/20/2024 12:00]  a tribal hunter: -38
+[10/20/2024 12:00]  You see: a tribal fanatic corpse
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:00]  a tribal fanatic: -132
+[10/20/2024 12:00]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:00]  Razor: Target: a tribal fanatic
+[10/20/2024 12:00]  System: Whom do you wish them to attack?
+[10/20/2024 12:00]  a tribal hunter: -21
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal fanatic: -147
+[10/20/2024 12:00]  a tribal poisoner: -45
+[10/20/2024 12:00]  Razor: Target: a tribal poisoner
+[10/20/2024 12:00]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:00]  a tribal fanatic: *looks furious*
+[10/20/2024 12:00]  a tribal poisoner: *looks furious*
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal poisoner: -158
+[10/20/2024 12:00]  a tribal hunter: -38
+[10/20/2024 12:00]  a tribal poisoner: -54
+[10/20/2024 12:00]  a tribal shaman: *rattles bones*
+[10/20/2024 12:00]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:00]  a tribal poisoner: -39
+[10/20/2024 12:00]  a tribal hunter: -15
+[10/20/2024 12:00]  a tribal hunter: -15
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal poisoner: -170
+[10/20/2024 12:00]  a tribal hunter: -15
+[10/20/2024 12:00]  a tribal hunter: -15
+[10/20/2024 12:00]  a tribal hunter: -15
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal poisoner: -161
+[10/20/2024 12:00]  a tribal fanatic: -30
+[10/20/2024 12:00]  a tribal shaman: *barding break*
+[10/20/2024 12:00]  a tribal hunter: -38
+[10/20/2024 12:00]  a tribal poisoner: -44
+[10/20/2024 12:00]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal poisoner: -121
+[10/20/2024 12:00]  Ailiin: -13
+[10/20/2024 12:00]  : garbage
+[10/20/2024 12:00]  System: Who will you use the bandages on?
+[10/20/2024 12:00]  System: You begin applying the bandages.
+[10/20/2024 12:00]  Razor: Bandage: 7s
+[10/20/2024 12:00]  System: You must wait to perform another action.
+[10/20/2024 12:00]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:00]  Razor: Bandage: 6s
+[10/20/2024 12:00]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:00]  a tribal poisoner: -130
+[10/20/2024 12:00]  Razor: Bandage: 5s
+[10/20/2024 12:00]  Razor: Attack: a tribal shaman
+[10/20/2024 12:00]  Razor: Attack: a tribal shaman
+[10/20/2024 12:00]  Razor: Bandage: 4s
+[10/20/2024 12:00]  Ailiin: -16
+[10/20/2024 12:00]  System: Your fingers slip!
+[10/20/2024 12:00]  a tribal hunter: -38
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:00]  a tribal shaman: -63
+[10/20/2024 12:00]  Razor: Bandage: 3s
+[10/20/2024 12:00]  System: You increase your damage resistance to creature-casted spells.
+[10/20/2024 12:00]  Razor: Bandage: 2s
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:00]  a tribal shaman: -83
+[10/20/2024 12:00]  System: Where should I throw this potion?
+[10/20/2024 12:00]  Ailiin: 5
+[10/20/2024 12:00]  a tribal fanatic: -42
+[10/20/2024 12:00]  Razor: Bandage: 1s
+[10/20/2024 12:00]  Ailiin: -16
+[10/20/2024 12:00]  System: Your fingers slip!
+[10/20/2024 12:00]  Explosion potion: 4
+[10/20/2024 12:00]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:00]  System: You finish applying the bandages.
+[10/20/2024 12:00]  Ailiin: +44
+[10/20/2024 12:00]  System: Anatomy skillgain: 1.996%
+[10/20/2024 12:00]  Razor: Target: a tribal shaman
+[10/20/2024 12:00]  System: Whom do you wish them to attack?
+[10/20/2024 12:00]  Explosion potion: 3
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:00]  a tribal shaman: -85
+[10/20/2024 12:00]  Ailiin: +0
+[10/20/2024 12:00]  a tribal hunter: -38
+[10/20/2024 12:00]  Explosion potion: 2
+[10/20/2024 12:00]  Razor: Target: a tribal poisoner
+[10/20/2024 12:00]  a tribal shaman: *rattles bones*
+[10/20/2024 12:00]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:00]  a tribal shaman: *looks furious*
+[10/20/2024 12:00]  a tribal poisoner: *looks furious*
+[10/20/2024 12:00]  Ailiin: +0
+[10/20/2024 12:00]  Explosion potion: 1
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal poisoner: -133
+[10/20/2024 12:00]  Ailiin: +0
+[10/20/2024 12:00]  a tribal fanatic: -38
+[10/20/2024 12:00]  a tribal hunter: -150
+[10/20/2024 12:00]  a tribal fanatic: -9
+[10/20/2024 12:00]  a tribal shaman: -32
+[10/20/2024 12:00]  You see: a tribal fanatic corpse
+[10/20/2024 12:00]  a tribal poisoner: -15
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal hunter: -141
+[10/20/2024 12:00]  a tribal poisoner: -15
+[10/20/2024 12:00]  a tribal shaman: -32
+[10/20/2024 12:00]  a tribal hunter: -9
+[10/20/2024 12:00]  a tribal hunter: -38
+[10/20/2024 12:00]  a tribal poisoner: -39
+[10/20/2024 12:00]  Razor: Attack: a tribal poisoner
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal poisoner: -195
+[10/20/2024 12:00]  System: [DF] A Dungeon Flashpoint for Ossuary has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/20/2024 12:00]  Razor: Attack: a tribal hunter
+[10/20/2024 12:00]  a tribal fanatic: -38
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  System: Your shot hinders your target!
+[10/20/2024 12:00]  a tribal hunter: -109
+[10/20/2024 12:00]  a tribal poisoner: -30
+[10/20/2024 12:00]  a tribal poisoner: -17
+[10/20/2024 12:00]  System: You have gained a good amount of fame.
+[10/20/2024 12:00]  System: You have gained a good amount of karma.
+[10/20/2024 12:00]  Ailiin: (Lyric Aspect 3,445.0/4000 xp)
+[10/20/2024 12:00]  You see: a tribal poisoner corpse
+[10/20/2024 12:00]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:00]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  System: You have gained some fame.
+[10/20/2024 12:00]  System: You have gained some karma.
+[10/20/2024 12:00]  Ailiin: (Lyric Aspect 3,449.9/4000 xp)
+[10/20/2024 12:00]  System: -90
+[10/20/2024 12:00]  You see: a forest ostard corpse
+[10/20/2024 12:00]  You see: a tribal hunter corpse
+[10/20/2024 12:00]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:00]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:00]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:00]  Ailiin: -23
+[10/20/2024 12:00]  Razor: Target: a tribal shaman
+[10/20/2024 12:00]  System: Who will you use the bandages on?
+[10/20/2024 12:00]  System: You begin applying the bandages.
+[10/20/2024 12:00]  Razor: Bandage: 7s
+[10/20/2024 12:00]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:00]  Razor: Target: a tribal fanatic
+[10/20/2024 12:00]  Razor: Bandage: 6s
+[10/20/2024 12:00]  System: Whom do you wish them to attack?
+[10/20/2024 12:00]  Razor: Target: a tribal shaman
+[10/20/2024 12:00]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.160%
+[10/20/2024 12:00]  a tribal fanatic: -178
+[10/20/2024 12:00]  a tribal fanatic: *looks furious*
+[10/20/2024 12:00]  a tribal shaman: *looks furious*
+[10/20/2024 12:00]  Ailiin: -9
+[10/20/2024 12:00]  System: Your fingers slip!
+[10/20/2024 12:00]  Razor: Bandage: 5s
+[10/20/2024 12:00]  Razor: Bandage: 4s
+[10/20/2024 12:00]  a tribal shaman: *rattles bones*
+[10/20/2024 12:00]  Razor: Attack: a tribal shaman
+[10/20/2024 12:00]  a tribal fanatic: -18
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:00]  a tribal shaman: -150
+[10/20/2024 12:00]  Razor: Bandage: 3s
+[10/20/2024 12:00]  a tribal fanatic: -18
+[10/20/2024 12:00]  a tribal fanatic: -18
+[10/20/2024 12:00]  Razor: Bandage: 2s
+[10/20/2024 12:00]  a tribal fanatic: -18
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:00]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[10/20/2024 12:00]  a tribal shaman: -190
+[10/20/2024 12:00]  Razor: Bandage: 1s
+[10/20/2024 12:00]  a tribal fanatic: -18
+[10/20/2024 12:00]  System: You finish applying the bandages.
+[10/20/2024 12:00]  Ailiin: +31
+[10/20/2024 12:00]  System: Anatomy skillgain: 1.996%
+[10/20/2024 12:00]  a tribal shaman: -45
+[10/20/2024 12:00]  Ailiin: +0
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal shaman: -82
+[10/20/2024 12:00]  Ailiin: +0
+[10/20/2024 12:00]  a tribal fanatic: -24
+[10/20/2024 12:00]  Ailiin: +0
+[10/20/2024 12:00]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:00]  Razor: Target queue cleared.
+[10/20/2024 12:00]  [Razor]: You are not holding anything.
+[10/20/2024 12:00]  [Razor]: New target set.
+[10/20/2024 12:00]  Razor: Target: a tribal fanatic
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal shaman: -121
+[10/20/2024 12:00]  Razor: Attack: a tribal fanatic
+[10/20/2024 12:00]  [Razor]: Ignore List cleared
+[10/20/2024 12:00]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:00]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:00]  Razor: *provoked 39s discord 1m 51s* [Lethal Poison] a tribal fanatic
+[10/20/2024 12:00]  Razor: [+Start auto-heal]
+[10/20/2024 12:00]  a tribal fanatic: -22
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal fanatic: -295
+[10/20/2024 12:00]  a tribal shaman: -40
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal fanatic: -232
+[10/20/2024 12:00]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:00]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:00]  a tribal fanatic: -22
+[10/20/2024 12:00]  a tribal shaman: -42
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  a tribal fanatic: -280
+[10/20/2024 12:00]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:00]  Razor: Target: a tribal fanatic
+[10/20/2024 12:00]  System: You play successfully, pacifying your target. (56s)
+[10/20/2024 12:00]  a tribal fanatic: *looks calmed*
+[10/20/2024 12:00]  a tribal shaman: *rattles bones*
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:00]  System: You have gained some fame.
+[10/20/2024 12:00]  System: You have gained some karma.
+[10/20/2024 12:00]  System: You have unlocked a codex upgrade point for Archery (38 available).
+[10/20/2024 12:00]  Ailiin: (Lyric Aspect 3,454.1/4000 xp)
+[10/20/2024 12:00]  System: -133
+[10/20/2024 12:00]  You see: a tribal fanatic corpse
+[10/20/2024 12:00]  Ailiin: -5
+[10/20/2024 12:00]  System: Who will you use the bandages on?
+[10/20/2024 12:00]  System: You begin applying the bandages.
+[10/20/2024 12:00]  Razor: Bandage: 7s
+[10/20/2024 12:00]  Ailiin: -6
+[10/20/2024 12:00]  Razor: Bandage: 6s
+[10/20/2024 12:00]  Ailiin: -5
+[10/20/2024 12:00]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:00]  Razor: Target queue cleared.
+[10/20/2024 12:00]  [Razor]: You are not holding anything.
+[10/20/2024 12:00]  [Razor]: New target set.
+[10/20/2024 12:00]  Razor: Target: a tribal shaman
+[10/20/2024 12:00]  [Razor]: Ignore List cleared
+[10/20/2024 12:00]  Ailiin: -6
+[10/20/2024 12:00]  System: Your fingers slip!
+[10/20/2024 12:00]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:00]  Razor: Bandage: 5s
+[10/20/2024 12:00]  Razor: Attack: a tribal shaman
+[10/20/2024 12:00]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:00]  a tribal shaman: -84
+[10/20/2024 12:00]  Razor: a tribal shaman
+[10/20/2024 12:00]  Razor: [+Start auto-heal]
+[10/20/2024 12:00]  Razor: Bandage: 4s
+[10/20/2024 12:00]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:00]  Razor: Target queue cleared.
+[10/20/2024 12:00]  [Razor]: You are not holding anything.
+[10/20/2024 12:00]  [Razor]: New target set.
+[10/20/2024 12:00]  [Razor]: Ignore List cleared
+[10/20/2024 12:01]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:01]  Razor: Bandage: 3s
+[10/20/2024 12:01]  Ailiin: -10
+[10/20/2024 12:01]  System: Your fingers slip!
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:01]  a tribal shaman: -129
+[10/20/2024 12:01]  Razor: a tribal shaman
+[10/20/2024 12:01]  Razor: [+Start auto-heal]
+[10/20/2024 12:01]  Razor: Bandage: 2s
+[10/20/2024 12:01]  System: You increase your damage resistance to creature-casted spells.
+[10/20/2024 12:01]  Razor: Bandage: 1s
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:01]  System: You have gained a good amount of fame.
+[10/20/2024 12:01]  System: You have gained a good amount of karma.
+[10/20/2024 12:01]  Ailiin: (Lyric Aspect 3,462.8/4000 xp)
+[10/20/2024 12:01]  System: -38
+[10/20/2024 12:01]  System: You finish applying the bandages.
+[10/20/2024 12:01]  Ailiin: +31
+[10/20/2024 12:01]  System: Anatomy skillgain: 1.986%
+[10/20/2024 12:01]  You see: a tribal shaman corpse
+[10/20/2024 12:01]  Ailiin: +0
+[10/20/2024 12:01]  Ailiin: +0
+[10/20/2024 12:01]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/20/2024 12:01]  Ailiin: +0
+[10/20/2024 12:01]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/20/2024 12:01]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:01]  You see: a hallowed corpse
+[10/20/2024 12:01]  You see: a tribal poisoner corpse
+[10/20/2024 12:01]  You see: a tribal fanatic corpse
+[10/20/2024 12:01]  You see: a tribal poisoner corpse
+[10/20/2024 12:01]  a tribal shaman: a tribal shaman
+[10/20/2024 12:01]  You see: a tribal poisoner corpse
+[10/20/2024 12:01]  You see: a hallowed corpse
+[10/20/2024 12:01]  You see: a tribal poisoner corpse
+[10/20/2024 12:01]  You see: a tribal fanatic corpse
+[10/20/2024 12:01]  You see: a tribal poisoner corpse
+[10/20/2024 12:01]  You see: a tribal chieftain corpse
+[10/20/2024 12:01]  You see: a tribal fanatic corpse
+[10/20/2024 12:01]  Oriole: Oriole the wandering healer
+[10/20/2024 12:01]  a tribal hunter: a tribal hunter
+[10/20/2024 12:01]  You see: a tribal poisoner corpse
+[10/20/2024 12:01]  You see: a tribal chieftain corpse
+[10/20/2024 12:01]  You see: a forest ostard corpse
+[10/20/2024 12:01]  You see: a tribal hunter corpse
+[10/20/2024 12:01]  Oriole: Oriole the wandering healer
+[10/20/2024 12:01]  a tribal hunter: a tribal hunter
+[10/20/2024 12:01]  a sand crab: a sand crab
+[10/20/2024 12:01]  a sand crab: a sand crab
+[10/20/2024 12:01]  a marooned pirate: a marooned pirate
+[10/20/2024 12:01]  a writhing tentacle: a writhing tentacle
+[10/20/2024 12:01]  a giant spider: a giant spider
+[10/20/2024 12:01]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:01]  Ailiin: -10
+[10/20/2024 12:01]  System: Who will you use the bandages on?
+[10/20/2024 12:01]  System: You begin applying the bandages.
+[10/20/2024 12:01]  Razor: Bandage: 7s
+[10/20/2024 12:01]  System: You must wait to perform another action.
+[10/20/2024 12:01]  Razor: Bandage: 6s
+[10/20/2024 12:01]  a giant spider: a giant spider
+[10/20/2024 12:01]  Razor: Bandage: 5s
+[10/20/2024 12:01]  Razor: Bandage: 4s
+[10/20/2024 12:01]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:01]  Razor: Target: a marooned pirate
+[10/20/2024 12:01]  System: Whom do you wish them to attack?
+[10/20/2024 12:01]  Razor: Target: a tribal hunter
+[10/20/2024 12:01]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:01]  System: Your shot hinders your target!
+[10/20/2024 12:01]  a marooned pirate: -187
+[10/20/2024 12:01]  a marooned pirate: *looks furious*
+[10/20/2024 12:01]  a tribal hunter: *looks furious*
+[10/20/2024 12:01]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:01]  Razor: Bandage: 3s
+[10/20/2024 12:01]  Razor: Bandage: 2s
+[10/20/2024 12:01]  a tribal poisoner: a tribal poisoner
+[10/20/2024 12:01]  a marooned pirate: -39
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:01]  a tribal hunter: -165
+[10/20/2024 12:01]  Razor: Bandage: 1s
+[10/20/2024 12:01]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:01]  Razor: Target queue cleared.
+[10/20/2024 12:01]  [Razor]: You are not holding anything.
+[10/20/2024 12:01]  [Razor]: New target set.
+[10/20/2024 12:01]  Razor: Attack: a tribal hunter
+[10/20/2024 12:01]  [Razor]: Ignore List cleared
+[10/20/2024 12:01]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:01]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:01]  Razor: *provoked 46s discord 1m 51s* a tribal hunter
+[10/20/2024 12:01]  Razor: [+Start auto-heal]
+[10/20/2024 12:01]  System: You finish applying the bandages.
+[10/20/2024 12:01]  Ailiin: +9
+[10/20/2024 12:01]  System: Anatomy skillgain: 1.986%
+[10/20/2024 12:01]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:01]  Razor: Target queue cleared.
+[10/20/2024 12:01]  [Razor]: You are not holding anything.
+[10/20/2024 12:01]  [Razor]: New target set.
+[10/20/2024 12:01]  Razor: Target: a tribal hunter
+[10/20/2024 12:01]  [Razor]: Ignore List cleared
+[10/20/2024 12:01]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:01]  Ailiin: +0
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:01]  a tribal hunter: -187
+[10/20/2024 12:01]  a marooned pirate: -9
+[10/20/2024 12:01]  Razor: *provoked 44s discord 1m 49s* a tribal hunter
+[10/20/2024 12:01]  Razor: [+Start auto-heal]
+[10/20/2024 12:01]  Ailiin: +0
+[10/20/2024 12:01]  Ailiin: +0
+[10/20/2024 12:01]  System: Where should I throw this potion?
+[10/20/2024 12:01]  Ailiin: 5
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:01]  a tribal hunter: -217
+[10/20/2024 12:01]  Explosion potion: 4
+[10/20/2024 12:01]  a tribal poisoner: a tribal poisoner
+[10/20/2024 12:01]  Explosion potion: 3
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:01]  a tribal hunter: -240
+[10/20/2024 12:01]  Explosion potion: 2
+[10/20/2024 12:01]  Razor: Attack: a tribal hunter
+[10/20/2024 12:01]  Explosion potion: 1
+[10/20/2024 12:01]  a marooned pirate: -38
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:01]  a tribal hunter: -215
+[10/20/2024 12:01]  a marooned pirate: -153
+[10/20/2024 12:01]  a tribal hunter: -205
+[10/20/2024 12:01]  a tribal hunter: *barding break*
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:01]  a tribal hunter: -143
+[10/20/2024 12:01]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:01]  System: That target is currently under a barding break effect.
+[10/20/2024 12:01]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:01]  a tribal hunter: -166
+[10/20/2024 12:01]  Razor: Attack: a tribal hunter
+[10/20/2024 12:01]  a tribal hunter: -13
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  a tribal hunter: -147
+[10/20/2024 12:02]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:02]  Razor: Target: a marooned pirate
+[10/20/2024 12:02]  System: You play successfully, pacifying your target. (56s)
+[10/20/2024 12:02]  a marooned pirate: *looks calmed*
+[10/20/2024 12:02]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:02]  Razor: Attack: a tribal hunter
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  System: Your shot hinders your target!
+[10/20/2024 12:02]  a tribal hunter: -263
+[10/20/2024 12:02]  Ailiin: You must wait 2 seconds before throwing another explosion potion.
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  System: You have gained some fame.
+[10/20/2024 12:02]  System: You have gained some karma.
+[10/20/2024 12:02]  Ailiin: (Lyric Aspect 3,467.8/4000 xp)
+[10/20/2024 12:02]  System: -39
+[10/20/2024 12:02]  You see: a forest ostard corpse
+[10/20/2024 12:02]  You see: a tribal hunter corpse
+[10/20/2024 12:02]  System: Where should I throw this potion?
+[10/20/2024 12:02]  Ailiin: 5
+[10/20/2024 12:02]  Razor: Attack: a marooned pirate
+[10/20/2024 12:02]  Explosion potion: 4
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  a marooned pirate: -109
+[10/20/2024 12:02]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:02]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:02]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:02]  Explosion potion: 3
+[10/20/2024 12:02]  Explosion potion: 2
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  a marooned pirate: -75
+[10/20/2024 12:02]  Explosion potion: 1
+[10/20/2024 12:02]  a marooned pirate: -215
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  a marooned pirate: -195
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  a marooned pirate: -55
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  System: You have gained some fame.
+[10/20/2024 12:02]  System: You have gained some karma.
+[10/20/2024 12:02]  Ailiin: (Lyric Aspect 3,470.5/4000 xp)
+[10/20/2024 12:02]  System: -169
+[10/20/2024 12:02]  You see: a marooned pirate corpse
+[10/20/2024 12:02]  a writhing tentacle: a writhing tentacle
+[10/20/2024 12:02]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/20/2024 12:02]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/20/2024 12:02]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:02]  a giant spider: a giant spider
+[10/20/2024 12:02]  System: Where should I throw this potion?
+[10/20/2024 12:02]  Ailiin: 5
+[10/20/2024 12:02]  Explosion potion: 3
+[10/20/2024 12:02]  Explosion potion: 2
+[10/20/2024 12:02]  Explosion potion: 1
+[10/20/2024 12:02]  System: Where do you wish to traverse to?
+[10/20/2024 12:02]  System: You are no longer hindered.
+[10/20/2024 12:02]  a giant frog: a giant frog
+[10/20/2024 12:02]  stranglevines: stranglevines
+[10/20/2024 12:02]  a corpser: a corpser
+[10/20/2024 12:02]  a giant frog: a giant frog
+[10/20/2024 12:02]  a writhing tentacle: a writhing tentacle
+[10/20/2024 12:02]  a corpser: a corpser
+[10/20/2024 12:02]  a raven: a raven
+[10/20/2024 12:02]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:02]  Razor: Target: a corpser
+[10/20/2024 12:02]  System: Whom do you wish them to attack?
+[10/20/2024 12:02]  Razor: Target: a corpser
+[10/20/2024 12:02]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  a corpser: -84
+[10/20/2024 12:02]  a corpser: *looks furious*
+[10/20/2024 12:02]  a corpser: *looks furious*
+[10/20/2024 12:02]  Razor: Attack: stranglevines
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  stranglevines: -124
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  stranglevines: -99
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:02]  stranglevines: -173
+[10/20/2024 12:02]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:02]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  stranglevines: -98
+[10/20/2024 12:02]  a raven: a raven
+[10/20/2024 12:02]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:02]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  stranglevines: -110
+[10/20/2024 12:02]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:02]  Razor: Target: stranglevines
+[10/20/2024 12:02]  System: Whom do you wish them to attack?
+[10/20/2024 12:02]  Razor: Target: a corpser
+[10/20/2024 12:02]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:02]  stranglevines: *looks furious*
+[10/20/2024 12:02]  a corpser: *looks furious*
+[10/20/2024 12:02]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:02]  a corpser: -26
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  a corpser: -175
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  a corpser: -109
+[10/20/2024 12:02]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:02]  a corpser: -173
+[10/20/2024 12:02]  System: Cacophony activated.
+[10/20/2024 12:02]  System: You have gained a little fame.
+[10/20/2024 12:02]  System: You have gained a little karma.
+[10/20/2024 12:02]  Ailiin: (Lyric Aspect 3,471.5/4000 xp)
+[10/20/2024 12:02]  System: -117
+[10/20/2024 12:02]  System: You have gained a little fame.
+[10/20/2024 12:02]  System: You have gained a little karma.
+[10/20/2024 12:02]  Ailiin: (Lyric Aspect 3,472.6/4000 xp)
+[10/20/2024 12:02]  System: -516
+[10/20/2024 12:02]  System: You have gained some fame.
+[10/20/2024 12:02]  System: You have gained some karma.
+[10/20/2024 12:02]  Ailiin: (Lyric Aspect 3,474.8/4000 xp)
+[10/20/2024 12:02]  System: -396
+[10/20/2024 12:02]  You see: a corpser corpse
+[10/20/2024 12:02]  You see: a corpser corpse
+[10/20/2024 12:02]  You see: stranglevines corpse
+[10/20/2024 12:02]  a giant frog: a giant frog
+[10/20/2024 12:02]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/20/2024 12:02]  [Razor]: Queuing dragdrop request 1... 1.0 seconds left.
+[10/20/2024 12:02]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:02]  a lizardman: a lizardman
+[10/20/2024 12:02]  a corpser: a corpser
+[10/20/2024 12:02]  a lizardman: a lizardman
+[10/20/2024 12:02]  a colossal frog: a colossal frog
+[10/20/2024 12:03]  a giant frog: a giant frog
+[10/20/2024 12:03]  System: Your magic resist potion has worn off.
+[10/20/2024 12:03]  a colossal frog: a colossal frog
+[10/20/2024 12:03]  a crow: a crow
+[10/20/2024 12:03]  a colossal frog: a colossal frog
+[10/20/2024 12:03]  a plover: a plover
+[10/20/2024 12:03]  a colossal frog: a colossal frog
+[10/20/2024 12:03]  sentient vines: sentient vines
+[10/20/2024 12:03]  xXDoKsterXx: xXDoKsterXx the dockmaster
+[10/20/2024 12:03]  a swallow: a swallow
+[10/20/2024 12:03]  a giant frog: a giant frog
+[10/20/2024 12:03]  a colossal frog: a colossal frog
+[10/20/2024 12:03]  System: Where do you wish to traverse to?
+[10/20/2024 12:03]  System: You are no longer hindered.
+[10/20/2024 12:03]  a giant frog: a giant frog
+[10/20/2024 12:03]  You see: a corpser corpse
+[10/20/2024 12:03]  You see: a corpser corpse
+[10/20/2024 12:03]  You see: stranglevines corpse
+[10/20/2024 12:03]  a writhing tentacle: a writhing tentacle
+[10/20/2024 12:03]  a colossal frog: a colossal frog
+[10/20/2024 12:03]  Dophina: Dophina the wandering healer
+[10/20/2024 12:03]  a raven: a raven
+[10/20/2024 12:03]  a jaguar: a jaguar
+[10/20/2024 12:03]  a colossal swamp slug: a colossal swamp slug
+[10/20/2024 12:03]  a giant frog: a giant frog
+[10/20/2024 12:03]  a corpser: a corpser
+[10/20/2024 12:03]  a colossal swamp slug: a colossal swamp slug
+[10/20/2024 12:03]  a colossal frog: a colossal frog
+[10/20/2024 12:03]  System: Where do you wish to traverse to?
+[10/20/2024 12:03]  System: You are no longer hindered.
+[10/20/2024 12:03]  System: That location is blocked.
+[10/20/2024 12:03]  System: Where do you wish to traverse to?
+[10/20/2024 12:03]  System: You are no longer hindered.
+[10/20/2024 12:03]  a corpser: a corpser
+[10/20/2024 12:03]  a raven: a raven
+[10/20/2024 12:03]  a giant frog: a giant frog
+[10/20/2024 12:03]  a crossbill: a crossbill
+[10/20/2024 12:03]  Clayton: Clayton the dockmaster
+[10/20/2024 12:03]  a woodpecker: a woodpecker
+[10/20/2024 12:03]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:03]  Razor: Target queue cleared.
+[10/20/2024 12:03]  [Razor]: You are not holding anything.
+[10/20/2024 12:03]  [Razor]: New target set.
+[10/20/2024 12:03]  Razor: Target: a colossal swamp slug
+[10/20/2024 12:03]  [Razor]: Ignore List cleared
+[10/20/2024 12:03]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:03]  Razor: Attack: a colossal swamp slug
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:03]  a colossal swamp slug: -74
+[10/20/2024 12:03]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:03]  a colossal swamp slug: *looks calmed*
+[10/20/2024 12:03]  Razor: *pacified 48s* a colossal swamp slug
+[10/20/2024 12:03]  Razor: [+Start auto-heal]
+[10/20/2024 12:03]  Ailiin: -14
+[10/20/2024 12:03]  System: Who will you use the bandages on?
+[10/20/2024 12:03]  System: You begin applying the bandages.
+[10/20/2024 12:03]  Razor: Bandage: 7s
+[10/20/2024 12:03]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:03]  Razor: Target queue cleared.
+[10/20/2024 12:03]  [Razor]: You are not holding anything.
+[10/20/2024 12:03]  [Razor]: New target set.
+[10/20/2024 12:03]  Razor: Target: a colossal swamp slug
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.160%
+[10/20/2024 12:03]  a colossal swamp slug: -121
+[10/20/2024 12:03]  a giant frog: a giant frog
+[10/20/2024 12:03]  [Razor]: Ignore List cleared
+[10/20/2024 12:03]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:03]  Razor: Bandage: 6s
+[10/20/2024 12:03]  Razor: *pacified 45s* a colossal swamp slug
+[10/20/2024 12:03]  Razor: [+Start auto-heal]
+[10/20/2024 12:03]  Razor: Bandage: 5s
+[10/20/2024 12:03]  Razor: Bandage: 4s
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:03]  System: Your shot hinders your target!
+[10/20/2024 12:03]  a colossal swamp slug: -206
+[10/20/2024 12:03]  a jaguar: a jaguar
+[10/20/2024 12:03]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:03]  Razor: Target queue cleared.
+[10/20/2024 12:03]  [Razor]: You are not holding anything.
+[10/20/2024 12:03]  [Razor]: New target set.
+[10/20/2024 12:03]  Razor: Target: a jaguar
+[10/20/2024 12:03]  Razor: Bandage: 3s
+[10/20/2024 12:03]  Razor: Attack: a jaguar
+[10/20/2024 12:03]  [Razor]: Ignore List cleared
+[10/20/2024 12:03]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:03]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 36s)
+[10/20/2024 12:03]  a corpser: a corpser
+[10/20/2024 12:03]  Razor: *discord 1m 36s* a jaguar
+[10/20/2024 12:03]  Razor: [+Start auto-heal]
+[10/20/2024 12:03]  Razor: Bandage: 2s
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:03]  a jaguar: -195
+[10/20/2024 12:03]  Razor: Bandage: 1s
+[10/20/2024 12:03]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:03]  Ailiin: -4
+[10/20/2024 12:03]  System: Your fingers slip!
+[10/20/2024 12:03]  System: You finish applying the bandages.
+[10/20/2024 12:03]  Ailiin: +17
+[10/20/2024 12:03]  System: Anatomy skillgain: 1.996%
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:03]  a jaguar: -144
+[10/20/2024 12:03]  Ailiin: +0
+[10/20/2024 12:03]  Ailiin: +0
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:03]  a jaguar: -168
+[10/20/2024 12:03]  Ailiin: -3
+[10/20/2024 12:03]  Razor: Attack: a colossal swamp slug
+[10/20/2024 12:03]  Ailiin: +3
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:03]  a colossal swamp slug: -195
+[10/20/2024 12:03]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:03]  Razor: Target: a colossal swamp slug
+[10/20/2024 12:03]  Ailiin: -5
+[10/20/2024 12:03]  System: Whom do you wish them to attack?
+[10/20/2024 12:03]  System: Who will you use the bandages on?
+[10/20/2024 12:03]  System: You begin applying the bandages.
+[10/20/2024 12:03]  Razor: Bandage: 7s
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:03]  a colossal swamp slug: -235
+[10/20/2024 12:03]  Razor: Bandage: 6s
+[10/20/2024 12:03]  Razor: Attack: a jaguar
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:03]  a jaguar: -176
+[10/20/2024 12:03]  Razor: Bandage: 5s
+[10/20/2024 12:03]  Ailiin: -8
+[10/20/2024 12:03]  a jaguar: *frenzies*
+[10/20/2024 12:03]  Razor: Bandage: 4s
+[10/20/2024 12:03]  Razor: Attack: a jaguar
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:03]  System: You have gained some fame.
+[10/20/2024 12:03]  System: You have gained some karma.
+[10/20/2024 12:03]  Ailiin: (Lyric Aspect 3,477.2/4000 xp)
+[10/20/2024 12:03]  System: -117
+[10/20/2024 12:03]  Razor: Bandage: 3s
+[10/20/2024 12:03]  You see: a jaguar corpse
+[10/20/2024 12:03]  Dophina: Dophina the wandering healer
+[10/20/2024 12:03]  a raven: a raven
+[10/20/2024 12:03]  Razor: Bandage: 2s
+[10/20/2024 12:03]  System: Renevak has completed the achievement: Domestication (Epic).
+[10/20/2024 12:03]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:03]  Razor: Target queue cleared.
+[10/20/2024 12:03]  [Razor]: You are not holding anything.
+[10/20/2024 12:03]  [Razor]: New target set.
+[10/20/2024 12:03]  Razor: Target: a colossal swamp slug
+[10/20/2024 12:03]  [Razor]: Ignore List cleared
+[10/20/2024 12:03]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:03]  Razor: Attack: a colossal swamp slug
+[10/20/2024 12:03]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:03]  a colossal swamp slug: *looks calmed*
+[10/20/2024 12:03]  Razor: *pacified 48s* a colossal swamp slug
+[10/20/2024 12:03]  Razor: Bandage: 1s
+[10/20/2024 12:03]  Razor: [+Start auto-heal]
+[10/20/2024 12:03]  System: You finish applying the bandages.
+[10/20/2024 12:03]  Ailiin: +12
+[10/20/2024 12:03]  System: Anatomy skillgain: 1.986%
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:03]  a colossal swamp slug: -139
+[10/20/2024 12:03]  Ailiin: +0
+[10/20/2024 12:03]  Ailiin: +0
+[10/20/2024 12:03]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:03]  a colossal swamp slug: -158
+[10/20/2024 12:03]  Ailiin: +0
+[10/20/2024 12:03]  Clayton: Clayton the dockmaster
+[10/20/2024 12:03]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:03]  a raven: a raven
+[10/20/2024 12:04]  a giant frog: a giant frog
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -134
+[10/20/2024 12:04]  a corpser: a corpser
+[10/20/2024 12:04]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:04]  Razor: Target: a colossal swamp slug
+[10/20/2024 12:04]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:04]  Razor: Attack: a colossal swamp slug
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -227
+[10/20/2024 12:04]  System: Where should I throw this potion?
+[10/20/2024 12:04]  Ailiin: 5
+[10/20/2024 12:04]  Explosion potion: 4
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -227
+[10/20/2024 12:04]  Explosion potion: 3
+[10/20/2024 12:04]  Explosion potion: 2
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -247
+[10/20/2024 12:04]  Explosion potion: 1
+[10/20/2024 12:04]  a colossal swamp slug: -215
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -222
+[10/20/2024 12:04]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:04]  Razor: Target queue cleared.
+[10/20/2024 12:04]  [Razor]: You are not holding anything.
+[10/20/2024 12:04]  [Razor]: New target set.
+[10/20/2024 12:04]  [Razor]: Ignore List cleared
+[10/20/2024 12:04]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:04]  System: You play successfully, pacifying your target. (56s)
+[10/20/2024 12:04]  a colossal swamp slug: *looks calmed*
+[10/20/2024 12:04]  Razor: *pacified 56s discord 1m 43s* a colossal swamp slug
+[10/20/2024 12:04]  Razor: [+Start auto-heal]
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -252
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -257
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  System: Your shot hinders your target!
+[10/20/2024 12:04]  a colossal swamp slug: -310
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -207
+[10/20/2024 12:04]  System: Aurangzeb has completed the achievement: Connoisseur (Advanced).
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[10/20/2024 12:04]  a colossal swamp slug: -312
+[10/20/2024 12:04]  System: Barding break avoided for a colossal swamp slug
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -150
+[10/20/2024 12:04]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:04]  Razor: Target queue cleared.
+[10/20/2024 12:04]  [Razor]: You are not holding anything.
+[10/20/2024 12:04]  [Razor]: New target set.
+[10/20/2024 12:04]  Razor: Target: a colossal swamp slug
+[10/20/2024 12:04]  [Razor]: Ignore List cleared
+[10/20/2024 12:04]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:04]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:04]  Razor: *pacified 43s discord 1m 51s* a colossal swamp slug
+[10/20/2024 12:04]  Razor: [+Start auto-heal]
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  a colossal swamp slug: -105
+[10/20/2024 12:04]  System: Where should I throw this potion?
+[10/20/2024 12:04]  Ailiin: 5
+[10/20/2024 12:04]  Razor: Target: a colossal swamp slug
+[10/20/2024 12:04]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:04]  System: You have gained a lot of fame.
+[10/20/2024 12:04]  System: You have gained a lot of karma.
+[10/20/2024 12:04]  Ailiin: (Lyric Aspect 3,487.9/4000 xp)
+[10/20/2024 12:04]  System: -7
+[10/20/2024 12:04]  You see: a colossal swamp slug corpse
+[10/20/2024 12:04]  Explosion potion: 3
+[10/20/2024 12:04]  Explosion potion: 2
+[10/20/2024 12:04]  Explosion potion: 1
+[10/20/2024 12:04]  a corpser: a corpser
+[10/20/2024 12:04]  a giant frog: a giant frog
+[10/20/2024 12:04]  a woodpecker: a woodpecker
+[10/20/2024 12:04]  a corpser: a corpser
+[10/20/2024 12:04]  You see: a colossal swamp slug corpse
+[10/20/2024 12:04]  Clayton: Clayton the dockmaster
+[10/20/2024 12:04]  You see: a jaguar corpse
+[10/20/2024 12:04]  a tern: a tern
+[10/20/2024 12:04]  a warbler: a warbler
+[10/20/2024 12:04]  System: Where do you wish to traverse to?
+[10/20/2024 12:04]  System: You are no longer hindered.
+[10/20/2024 12:04]  a lizardman: a lizardman
+[10/20/2024 12:04]  a magpie: a magpie
+[10/20/2024 12:04]  a cuckoo: a cuckoo
+[10/20/2024 12:04]  a skylark: a skylark
+[10/20/2024 12:04]  a crow: a crow
+[10/20/2024 12:04]  a tern: a tern
+[10/20/2024 12:04]  a tern: a tern
+[10/20/2024 12:04]  a giant frog: a giant frog
+[10/20/2024 12:04]  System: 14° 3'N, 41° 45'W
+[10/20/2024 12:04]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[10/20/2024 12:04]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:04]  System: You are now under the protection of the town guards.
+[10/20/2024 12:04]  a dog: a dog
+[10/20/2024 12:04]  a goat: a goat
+[10/20/2024 12:04]  Keara: Keara the stablemaster
+[10/20/2024 12:04]  Renee: Renee the stablemaster
+[10/20/2024 12:04]  Denton: Denton the innkeeper
+[10/20/2024 12:04]  Thurston: Thurston the waiter
+[10/20/2024 12:04]  a dog: a dog
+[10/20/2024 12:04]  a cat: a cat
+[10/20/2024 12:04]  [Razor]: 5 item(s) already equipped.
+[10/20/2024 12:04]  [Razor]: 9 item(s) were not found. (Out of Range)
+[10/20/2024 12:04]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 12:04]  a dog: a dog
+[10/20/2024 12:04]  a dog: a dog
+[10/20/2024 12:04]  Donnelly: Donnelly the scribe
+[10/20/2024 12:04]  Ravi: Ravi the Town Crier
+[10/20/2024 12:04]  Brandi: Brandi the banker
+[10/20/2024 12:04]  Dacey: Dacey the waiter
+[10/20/2024 12:04]  a dog: a dog
+[10/20/2024 12:05]  Ailiin: Bank Vendor buy
+[10/20/2024 12:05]  Ailiin: Items: 37/125
+[10/20/2024 12:05]  Ailiin: Total Weight: 4,566
+[10/20/2024 12:05]  Ailiin: Room
+[10/20/2024 12:05]  [Razor]: Organize Agent queued 2 item(s) to be moved. (This may take a few moments)
+[10/20/2024 12:05]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:05]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:05]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:05]  [Razor]: Finished 5 queued actions in 2.4 seconds.
+[10/20/2024 12:05]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:05]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:05]  a dog: a dog
+[10/20/2024 12:05]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[10/20/2024 12:05]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:05]  a cat: a cat
+[10/20/2024 12:05]  Ailiin: Select Marked item.
+[10/20/2024 12:05]  Razor: [+Stop]
+[10/20/2024 12:05]  System: 149° 51'S, 155° 36'W
+[10/20/2024 12:05]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:05]  System: You have left the protection of the town guards.
+[10/20/2024 12:05]  Roscoe: Roscoe the house steward
+[10/20/2024 12:05]  Laraine: Laraine the stablemaster
+[10/20/2024 12:05]  a colony trader: Prevalia
+[10/20/2024 12:05]  a colony trader: a colony trader
+[10/20/2024 12:05]  Dobren: Prevalia
+[10/20/2024 12:05]  Dobren: Dobren
+[10/20/2024 12:05]  System: Opening door...
+[10/20/2024 12:05]  System: Your house and its contents have been refreshed. 29 days 19 hours 38 minutes remaining until owner refresh required.
+[10/20/2024 12:05]  AlwaysFresh: AlwaysFresh the dockmaster
+[10/20/2024 12:05]  Maxwell: Maxwell the barkeeper
+[10/20/2024 12:05]  System: Opening door...
+[10/20/2024 12:05]  System: Your house and its contents have been refreshed. 29 days 19 hours 38 minutes remaining until owner refresh required.
+[10/20/2024 12:05]  Zackery: Zackery the barkeeper
+[10/20/2024 12:05]  Dobren: Prevalia
+[10/20/2024 12:05]  Dobren: Dobren
+[10/20/2024 12:05]  Checkraiser: Prevalia
+[10/20/2024 12:05]  Checkraiser: [SQzD]
+[10/20/2024 12:05]  Checkraiser: Checkraiser
+[10/20/2024 12:05]  Checkmater: Legendarily Triggered
+[10/20/2024 12:05]  Checkmater: [Juicy, SQzD]
+[10/20/2024 12:05]  Checkmater: Lord Checkmater
+[10/20/2024 12:05]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:06]  a fisherman: a fisherman
+[10/20/2024 12:06]  a fisherman: a fisherman
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:06]  You see: a daemon corpse
+[10/20/2024 12:06]  a fisherman: a fisherman
+[10/20/2024 12:06]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:06]  Razor: Target queue cleared.
+[10/20/2024 12:06]  [Razor]: You are not holding anything.
+[10/20/2024 12:06]  [Razor]: New target set.
+[10/20/2024 12:06]  Razor: Target: a daemon
+[10/20/2024 12:06]  [Razor]: Ignore List cleared
+[10/20/2024 12:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:06]  Razor: Attack: a daemon
+[10/20/2024 12:06]  System: You fail to pacify your opponent. You estimate the task to be somewhat challenging.
+[10/20/2024 12:06]  Razor: a daemon
+[10/20/2024 12:06]  Razor: [+Start auto-heal]
+[10/20/2024 12:06]  a fisherman: a fisherman
+[10/20/2024 12:06]  You see: a fisherman's corpse
+[10/20/2024 12:06]  You see: a fisherman's corpse
+[10/20/2024 12:06]  Ailiin: -30
+[10/20/2024 12:06]  Razor: [Last Target]
+[10/20/2024 12:06]  System: Who will you use the bandages on?
+[10/20/2024 12:06]  System: You begin applying the bandages.
+[10/20/2024 12:06]  Razor: Bandage: 7s
+[10/20/2024 12:06]  System: You must wait to perform another action.
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:06]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 12:06]  Razor: [Last Target]
+[10/20/2024 12:06]  Razor: Bandage: 6s
+[10/20/2024 12:06]  You see: a fisherman's corpse
+[10/20/2024 12:06]  You see: a fisherman's corpse
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:06]  Razor: Bandage: 5s
+[10/20/2024 12:06]  Razor: Bandage: 4s
+[10/20/2024 12:06]  Razor: Bandage: 3s
+[10/20/2024 12:06]  Razor: Bandage: 2s
+[10/20/2024 12:06]  Razor: Bandage: 1s
+[10/20/2024 12:06]  System: You finish applying the bandages.
+[10/20/2024 12:06]  Ailiin: +29
+[10/20/2024 12:06]  System: Anatomy skillgain: 1.125%
+[10/20/2024 12:06]  Ailiin: +0
+[10/20/2024 12:06]  Ailiin: +0
+[10/20/2024 12:06]  Razor: [Last Target]
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:06]  You see: a daemon corpse
+[10/20/2024 12:06]  Ailiin: +0
+[10/20/2024 12:06]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:06]  Razor: Target queue cleared.
+[10/20/2024 12:06]  [Razor]: You are not holding anything.
+[10/20/2024 12:06]  [Razor]: New target set.
+[10/20/2024 12:06]  Razor: Target: a daemon
+[10/20/2024 12:06]  [Razor]: Ignore List cleared
+[10/20/2024 12:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:06]  System: You fail to pacify your opponent. You estimate the task to be somewhat challenging.
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:06]  Razor: -95
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:06]  Razor: [+Start auto-heal]
+[10/20/2024 12:06]  Ailiin: -23
+[10/20/2024 12:06]  System: Who will you use the bandages on?
+[10/20/2024 12:06]  System: You begin applying the bandages.
+[10/20/2024 12:06]  Razor: Bandage: 7s
+[10/20/2024 12:06]  System: You must wait to perform another action.
+[10/20/2024 12:06]  Razor: [Last Target]
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:06]  You see: a daemon corpse
+[10/20/2024 12:06]  Razor: Bandage: 6s
+[10/20/2024 12:06]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:06]  Razor: Target queue cleared.
+[10/20/2024 12:06]  [Razor]: You are not holding anything.
+[10/20/2024 12:06]  [Razor]: New target set.
+[10/20/2024 12:06]  Razor: Target: a daemon
+[10/20/2024 12:06]  Razor: Bandage: 5s
+[10/20/2024 12:06]  [Razor]: Ignore List cleared
+[10/20/2024 12:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:06]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:06]  a daemon: *looks calmed*
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:06]  Razor: -133
+[10/20/2024 12:06]  a daemon: *pacified 48s*
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:06]  Razor: [+Start auto-heal]
+[10/20/2024 12:06]  Razor: Bandage: 4s
+[10/20/2024 12:06]  Razor: Bandage: 3s
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -202
+[10/20/2024 12:06]  Razor: Bandage: 2s
+[10/20/2024 12:06]  Razor: Bandage: 1s
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:06]  a daemon: -195
+[10/20/2024 12:06]  System: You finish applying the bandages.
+[10/20/2024 12:06]  Ailiin: +22
+[10/20/2024 12:06]  System: Anatomy skillgain: 1.996%
+[10/20/2024 12:06]  Ailiin: +0
+[10/20/2024 12:06]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:06]  Razor: Target queue cleared.
+[10/20/2024 12:06]  [Razor]: You are not holding anything.
+[10/20/2024 12:06]  [Razor]: New target set.
+[10/20/2024 12:06]  Razor: Target: a daemon
+[10/20/2024 12:06]  [Razor]: Ignore List cleared
+[10/20/2024 12:06]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:06]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:06]  Razor: *pacified 42s discord 1m 51s* a daemon
+[10/20/2024 12:06]  Razor: [+Start auto-heal]
+[10/20/2024 12:06]  Ailiin: +0
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -247
+[10/20/2024 12:06]  Ailiin: +0
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -232
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -217
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -262
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -162
+[10/20/2024 12:06]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:06]  Razor: Target: a daemon
+[10/20/2024 12:06]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:06]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -227
+[10/20/2024 12:06]  System: Cacophony activated.
+[10/20/2024 12:06]  a daemon: -3398
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -325
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -245
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -170
+[10/20/2024 12:06]  Razor: [Last Target]
+[10/20/2024 12:06]  a daemon: *pacified 22s discord 1m 43s*
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:06]  : brambles
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -277
+[10/20/2024 12:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:06]  System: You fail to pacify your opponent. You estimate the task to be fairly reasonable.
+[10/20/2024 12:06]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -150
+[10/20/2024 12:06]  Razor: [Last Target]
+[10/20/2024 12:06]  a daemon: *pacified 18s discord 1m 38s*
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -171
+[10/20/2024 12:06]  System: You must wait a few moments before using another skill.
+[10/20/2024 12:06]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:06]  a daemon: -156
+[10/20/2024 12:06]  Razor: [Last Target]
+[10/20/2024 12:06]  a daemon: *pacified 15s discord 1m 36s*
+[10/20/2024 12:06]  a daemon: a daemon
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -242
+[10/20/2024 12:07]  a daemon: *barding break*
+[10/20/2024 12:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:07]  System: That target is currently under a barding break effect.
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  System: You increase your damage resistance to creature-casted spells.
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  Ailiin: -20
+[10/20/2024 12:07]  System: Who will you use the bandages on?
+[10/20/2024 12:07]  System: You begin applying the bandages.
+[10/20/2024 12:07]  Razor: Bandage: 7s
+[10/20/2024 12:07]  System: You must wait to perform another action.
+[10/20/2024 12:07]  Ailiin: -15
+[10/20/2024 12:07]  System: Your fingers slip!
+[10/20/2024 12:07]  Ailiin: +35
+[10/20/2024 12:07]  System: some damage has been healed : 35
+[10/20/2024 12:07]  Ailiin: -18
+[10/20/2024 12:07]  System: Your fingers slip!
+[10/20/2024 12:07]  Razor: Bandage: 6s
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.193%
+[10/20/2024 12:07]  a daemon: -154
+[10/20/2024 12:07]  Razor: Bandage: 5s
+[10/20/2024 12:07]  Razor: Bandage: 4s
+[10/20/2024 12:07]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:07]  Razor: Target queue cleared.
+[10/20/2024 12:07]  [Razor]: You are not holding anything.
+[10/20/2024 12:07]  [Razor]: New target set.
+[10/20/2024 12:07]  [Razor]: Ignore List cleared
+[10/20/2024 12:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:07]  Razor: Bandage: 3s
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.171%
+[10/20/2024 12:07]  a daemon: -122
+[10/20/2024 12:07]  System: That target is currently under a barding break effect.
+[10/20/2024 12:07]  Razor: Failed to pacify
+[10/20/2024 12:07]  Razor: *barding break 7s discord 1m 24s* a daemon
+[10/20/2024 12:07]  Razor: [+Start auto-heal]
+[10/20/2024 12:07]  Ailiin: -17
+[10/20/2024 12:07]  System: Your fingers slip!
+[10/20/2024 12:07]  Razor: Bandage: 2s
+[10/20/2024 12:07]  Razor: Bandage: 1s
+[10/20/2024 12:07]  System: You finish applying the bandages.
+[10/20/2024 12:07]  Ailiin: +34
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.047%
+[10/20/2024 12:07]  Razor: [Last Target]
+[10/20/2024 12:07]  a daemon: *barding break 4s discord 1m 21s*
+[10/20/2024 12:07]  a daemon: a daemon
+[10/20/2024 12:07]  Ailiin: -18
+[10/20/2024 12:07]  System: Who will you use the bandages on?
+[10/20/2024 12:07]  System: You begin applying the bandages.
+[10/20/2024 12:07]  Razor: Bandage: 7s
+[10/20/2024 12:07]  Ailiin: +4
+[10/20/2024 12:07]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:07]  Razor: Target queue cleared.
+[10/20/2024 12:07]  [Razor]: You are not holding anything.
+[10/20/2024 12:07]  [Razor]: New target set.
+[10/20/2024 12:07]  Razor: Target: a daemon
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.205%
+[10/20/2024 12:07]  a daemon: -84
+[10/20/2024 12:07]  [Razor]: Ignore List cleared
+[10/20/2024 12:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:07]  System: That target is currently under a barding break effect.
+[10/20/2024 12:07]  Razor: Bandage: 6s
+[10/20/2024 12:07]  Razor: *barding break 2s discord 1m 19s* a daemon
+[10/20/2024 12:07]  Ailiin: +4
+[10/20/2024 12:07]  Razor: [+Start auto-heal]
+[10/20/2024 12:07]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:07]  Razor: Target queue cleared.
+[10/20/2024 12:07]  [Razor]: You are not holding anything.
+[10/20/2024 12:07]  [Razor]: New target set.
+[10/20/2024 12:07]  Razor: Target: a daemon
+[10/20/2024 12:07]  Razor: Bandage: 5s
+[10/20/2024 12:07]  [Razor]: Ignore List cleared
+[10/20/2024 12:07]  Ailiin: +4
+[10/20/2024 12:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:07]  System: That target is currently under a barding break effect.
+[10/20/2024 12:07]  Razor: *barding break 1s discord 1m 18s* a daemon
+[10/20/2024 12:07]  Razor: [+Start auto-heal]
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.193%
+[10/20/2024 12:07]  a daemon: -138
+[10/20/2024 12:07]  System: Your shot ricochets.
+[10/20/2024 12:07]  System: Your shot ricochets.
+[10/20/2024 12:07]  System: You have gained a very large amount of fame.
+[10/20/2024 12:07]  System: You have gained a very large amount of karma.
+[10/20/2024 12:07]  Ailiin: (Lyric Aspect 3,519.7/4000 xp)
+[10/20/2024 12:07]  System: -396
+[10/20/2024 12:07]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:07]  Razor: Target queue cleared.
+[10/20/2024 12:07]  [Razor]: You are not holding anything.
+[10/20/2024 12:07]  [Razor]: No one matching that was found on your screen.
+[10/20/2024 12:07]  You see: a daemon corpse
+[10/20/2024 12:07]  Razor: Bandage: 4s
+[10/20/2024 12:07]  Razor: Nothing to attack
+[10/20/2024 12:07]  Razor: [+Start auto-heal]
+[10/20/2024 12:07]  You see: a daemon corpse
+[10/20/2024 12:07]  Razor: Bandage: 3s
+[10/20/2024 12:07]  Razor: Bandage: 2s
+[10/20/2024 12:07]  [Razor]: Queuing dragdrop request 1... 0.6 seconds left.
+[10/20/2024 12:07]  Razor: Bandage: 1s
+[10/20/2024 12:07]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/20/2024 12:07]  System: You finish applying the bandages.
+[10/20/2024 12:07]  Ailiin: +5
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.026%
+[10/20/2024 12:07]  Ailiin: +0
+[10/20/2024 12:07]  Ailiin: +0
+[10/20/2024 12:07]  Ailiin: +0
+[10/20/2024 12:07]  Jonah: Jonah the battle trainer
+[10/20/2024 12:07]  You see: a daemon corpse
+[10/20/2024 12:07]  a daemon: a daemon
+[10/20/2024 12:07]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:07]  Razor: Target queue cleared.
+[10/20/2024 12:07]  [Razor]: You are not holding anything.
+[10/20/2024 12:07]  [Razor]: New target set.
+[10/20/2024 12:07]  Razor: Target: a daemon
+[10/20/2024 12:07]  [Razor]: Ignore List cleared
+[10/20/2024 12:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:07]  Razor: Attack: a daemon
+[10/20/2024 12:07]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:07]  a daemon: *looks calmed*
+[10/20/2024 12:07]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:07]  Razor: -216
+[10/20/2024 12:07]  a daemon: *pacified 48s*
+[10/20/2024 12:07]  a daemon: a daemon
+[10/20/2024 12:07]  Razor: [+Start auto-heal]
+[10/20/2024 12:07]  You see: a daemon corpse
+[10/20/2024 12:07]  a daemon: a daemon
+[10/20/2024 12:07]  Ian: Ian the dockmaster
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:07]  a daemon: -143
+[10/20/2024 12:07]  System: The world will save in 15 seconds.
+[10/20/2024 12:07]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:07]  Razor: Target queue cleared.
+[10/20/2024 12:07]  [Razor]: You are not holding anything.
+[10/20/2024 12:07]  [Razor]: New target set.
+[10/20/2024 12:07]  Razor: Target: a daemon
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -126
+[10/20/2024 12:07]  [Razor]: Ignore List cleared
+[10/20/2024 12:07]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:07]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:07]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:07]  Razor: *pacified 43s discord 1m 51s* a daemon
+[10/20/2024 12:07]  Razor: [+Start auto-heal]
+[10/20/2024 12:07]  Ailiin: -14
+[10/20/2024 12:07]  System: Who will you use the bandages on?
+[10/20/2024 12:07]  System: You begin applying the bandages.
+[10/20/2024 12:07]  Razor: Bandage: 7s
+[10/20/2024 12:07]  System: You must wait to perform another action.
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:07]  a daemon: -252
+[10/20/2024 12:07]  System: Cacophony activated.
+[10/20/2024 12:07]  a daemon: -3398
+[10/20/2024 12:07]  Razor: Bandage: 6s
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -192
+[10/20/2024 12:07]  Razor: Bandage: 5s
+[10/20/2024 12:07]  Razor: Bandage: 4s
+[10/20/2024 12:07]  Razor: Bandage: 3s
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  System: Your shot hinders your target!
+[10/20/2024 12:07]  a daemon: -412
+[10/20/2024 12:07]  Razor: Bandage: 2s
+[10/20/2024 12:07]  Razor: Bandage: 1s
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -292
+[10/20/2024 12:07]  System: You finish applying the bandages.
+[10/20/2024 12:07]  Ailiin: +13
+[10/20/2024 12:07]  System: Anatomy skillgain: 1.986%
+[10/20/2024 12:07]  Razor: Attack: a daemon
+[10/20/2024 12:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:07]  Ailiin: +0
+[10/20/2024 12:07]  Razor: Target: a daemon
+[10/20/2024 12:07]  System: You play successfully, pacifying your target. (56s)
+[10/20/2024 12:07]  a daemon: *looks calmed*
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -245
+[10/20/2024 12:07]  Ailiin: +0
+[10/20/2024 12:07]  Razor: [Last Target]
+[10/20/2024 12:07]  a daemon: *pacified 55s discord 1m 40s*
+[10/20/2024 12:07]  a daemon: a daemon
+[10/20/2024 12:07]  Ailiin: +0
+[10/20/2024 12:07]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:07]  You see: a daemon corpse
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -235
+[10/20/2024 12:07]  System: The world is saving, please wait.
+[10/20/2024 12:07]  System: World save complete. The entire process took 2.5 seconds.
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -175
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -225
+[10/20/2024 12:07]  a daemon: a daemon
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -292
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -347
+[10/20/2024 12:07]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:07]  a daemon: -214
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -179
+[10/20/2024 12:08]  System: Julieann has completed the achievement: Zoologist (Basic).
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -197
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -195
+[10/20/2024 12:08]  a daemon: *barding break*
+[10/20/2024 12:08]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:08]  Razor: Target queue cleared.
+[10/20/2024 12:08]  [Razor]: You are not holding anything.
+[10/20/2024 12:08]  [Razor]: New target set.
+[10/20/2024 12:08]  [Razor]: Ignore List cleared
+[10/20/2024 12:08]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:08]  System: That target is currently under a barding break effect.
+[10/20/2024 12:08]  Razor: *barding break 15s discord 1m 19s* a daemon
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -183
+[10/20/2024 12:08]  Razor: [+Start auto-heal]
+[10/20/2024 12:08]  Ailiin: -13
+[10/20/2024 12:08]  System: Who will you use the bandages on?
+[10/20/2024 12:08]  System: You begin applying the bandages.
+[10/20/2024 12:08]  Razor: Bandage: 7s
+[10/20/2024 12:08]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:08]  Razor: Target queue cleared.
+[10/20/2024 12:08]  [Razor]: You are not holding anything.
+[10/20/2024 12:08]  [Razor]: New target set.
+[10/20/2024 12:08]  Razor: Target: a daemon
+[10/20/2024 12:08]  [Razor]: Ignore List cleared
+[10/20/2024 12:08]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:08]  System: Your shot hinders your target!
+[10/20/2024 12:08]  a daemon: -278
+[10/20/2024 12:08]  System: That target is currently under a barding break effect.
+[10/20/2024 12:08]  Razor: *barding break 12s discord 1m 16s* a daemon
+[10/20/2024 12:08]  Razor: [+Start auto-heal]
+[10/20/2024 12:08]  Razor: Bandage: 6s
+[10/20/2024 12:08]  Razor: Bandage: 5s
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[10/20/2024 12:08]  System: You have gained a very large amount of fame.
+[10/20/2024 12:08]  System: You have gained a very large amount of karma.
+[10/20/2024 12:08]  Ailiin: (Lyric Aspect 3,551.5/4000 xp)
+[10/20/2024 12:08]  System: -204
+[10/20/2024 12:08]  You see: a daemon corpse
+[10/20/2024 12:08]  Razor: Bandage: 4s
+[10/20/2024 12:08]  a daemon: a daemon
+[10/20/2024 12:08]  Ian: Ian the dockmaster
+[10/20/2024 12:08]  Razor: Bandage: 3s
+[10/20/2024 12:08]  Razor: Bandage: 2s
+[10/20/2024 12:08]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/20/2024 12:08]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/20/2024 12:08]  Razor: Bandage: 1s
+[10/20/2024 12:08]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/20/2024 12:08]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/20/2024 12:08]  System: You finish applying the bandages.
+[10/20/2024 12:08]  Ailiin: +12
+[10/20/2024 12:08]  System: Anatomy skillgain: 1.986%
+[10/20/2024 12:08]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/20/2024 12:08]  Ailiin: +0
+[10/20/2024 12:08]  [Razor]: Finished 7 queued actions in 3.6 seconds.
+[10/20/2024 12:08]  You see: reveal scroll : 6
+[10/20/2024 12:08]  Ailiin: +0
+[10/20/2024 12:08]  Ailiin: +0
+[10/20/2024 12:08]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:08]  Razor: Target queue cleared.
+[10/20/2024 12:08]  [Razor]: You are not holding anything.
+[10/20/2024 12:08]  [Razor]: New target set.
+[10/20/2024 12:08]  Razor: Target: a daemon
+[10/20/2024 12:08]  [Razor]: Ignore List cleared
+[10/20/2024 12:08]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:08]  Razor: Attack: a daemon
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -53
+[10/20/2024 12:08]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:08]  a daemon: *looks calmed*
+[10/20/2024 12:08]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:08]  Razor: *pacified 48s* a daemon
+[10/20/2024 12:08]  Razor: [+Start auto-heal]
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -117
+[10/20/2024 12:08]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:08]  Razor: Target queue cleared.
+[10/20/2024 12:08]  [Razor]: You are not holding anything.
+[10/20/2024 12:08]  [Razor]: New target set.
+[10/20/2024 12:08]  Razor: Target: a daemon
+[10/20/2024 12:08]  [Razor]: Ignore List cleared
+[10/20/2024 12:08]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:08]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:08]  a daemon: *looks calmed*
+[10/20/2024 12:08]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:08]  Razor: *pacified 48s* a daemon
+[10/20/2024 12:08]  Razor: [+Start auto-heal]
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:08]  a daemon: -148
+[10/20/2024 12:08]  : brambles
+[10/20/2024 12:08]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:08]  Razor: Target queue cleared.
+[10/20/2024 12:08]  [Razor]: You are not holding anything.
+[10/20/2024 12:08]  [Razor]: New target set.
+[10/20/2024 12:08]  Razor: Target: a daemon
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -199
+[10/20/2024 12:08]  [Razor]: Ignore List cleared
+[10/20/2024 12:08]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:08]  System: You fail to discord your opponent. You estimate the task to be fairly reasonable.
+[10/20/2024 12:08]  Razor: *pacified 45s* a daemon
+[10/20/2024 12:08]  Razor: [+Start auto-heal]
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -144
+[10/20/2024 12:08]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:08]  Razor: Target queue cleared.
+[10/20/2024 12:08]  [Razor]: You are not holding anything.
+[10/20/2024 12:08]  [Razor]: New target set.
+[10/20/2024 12:08]  Razor: Target: a daemon
+[10/20/2024 12:08]  [Razor]: Ignore List cleared
+[10/20/2024 12:08]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:08]  Razor: *pacified 42s* a daemon
+[10/20/2024 12:08]  Razor: [+Start auto-heal]
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -211
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -141
+[10/20/2024 12:08]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:08]  Razor: Target queue cleared.
+[10/20/2024 12:08]  [Razor]: You are not holding anything.
+[10/20/2024 12:08]  [Razor]: New target set.
+[10/20/2024 12:08]  [Razor]: Ignore List cleared
+[10/20/2024 12:08]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:08]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:08]  Razor: *pacified 37s discord 1m 51s* a daemon
+[10/20/2024 12:08]  Razor: [+Start auto-heal]
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -192
+[10/20/2024 12:08]  System: You cannot perform that ability yet.
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -175
+[10/20/2024 12:08]  System: Amaro del Capo has completed the achievement: Savant (Basic).
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -182
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -157
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -205
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -162
+[10/20/2024 12:08]  : brambles
+[10/20/2024 12:08]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:08]  Razor: Target queue cleared.
+[10/20/2024 12:08]  [Razor]: You are not holding anything.
+[10/20/2024 12:08]  [Razor]: New target set.
+[10/20/2024 12:08]  Razor: Target: a daemon
+[10/20/2024 12:08]  [Razor]: Ignore List cleared
+[10/20/2024 12:08]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -162
+[10/20/2024 12:08]  System: You play successfully, pacifying your target. (56s)
+[10/20/2024 12:08]  a daemon: *looks calmed*
+[10/20/2024 12:08]  Razor: *pacified 56s discord 1m 38s* a daemon
+[10/20/2024 12:08]  Razor: [+Start auto-heal]
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -202
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -200
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -290
+[10/20/2024 12:08]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:08]  a daemon: -235
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -195
+[10/20/2024 12:09]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -173
+[10/20/2024 12:09]  System: You are now under the effect of a Song of Provocation (+12.0% damage against creatures for 15 minutes).
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:09]  System: You fail to pacify your opponent. You estimate the task to be fairly reasonable.
+[10/20/2024 12:09]  Razor: Failed to pacify
+[10/20/2024 12:09]  Razor: *pacified 41s discord 1m 23s* a daemon
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -199
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -158
+[10/20/2024 12:09]  System: Your magic resist potion has worn off.
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -201
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:09]  System: You fail to pacify your opponent. You estimate the task to be fairly reasonable.
+[10/20/2024 12:09]  Razor: Failed to pacify
+[10/20/2024 12:09]  Razor: *pacified 36s discord 1m 18s* a daemon
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -129
+[10/20/2024 12:09]  Q u i n t i s: Lady Q u i n t i s
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -189
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -247
+[10/20/2024 12:09]  System: You fail to pacify your opponent. You estimate the task to be fairly reasonable.
+[10/20/2024 12:09]  Razor: Failed to pacify
+[10/20/2024 12:09]  Razor: *pacified 30s discord 1m 12s* a daemon
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -138
+[10/20/2024 12:09]  a daemon: *barding break*
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:09]  a daemon: -225
+[10/20/2024 12:09]  Ailiin: -14
+[10/20/2024 12:09]  Q u i n t i s: Kal Ort Por [Recall]
+[10/20/2024 12:09]  Razor: *barding break 14s discord 1m 8s* a daemon
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  System: Who will you use the bandages on?
+[10/20/2024 12:09]  System: You begin applying the bandages.
+[10/20/2024 12:09]  Razor: Bandage: 7s
+[10/20/2024 12:09]  Ailiin: -22
+[10/20/2024 12:09]  System: Your fingers slip!
+[10/20/2024 12:09]  System: You must wait to perform another action.
+[10/20/2024 12:09]  Ailiin: +36
+[10/20/2024 12:09]  System: some damage has been healed : 36
+[10/20/2024 12:09]  Razor: Bandage: 6s
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.182%
+[10/20/2024 12:09]  a daemon: -117
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:09]  Razor: Bandage: 5s
+[10/20/2024 12:09]  System: That target is currently under a barding break effect.
+[10/20/2024 12:09]  Razor: *barding break 11s discord 1m 5s* a daemon
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  Ailiin: -22
+[10/20/2024 12:09]  System: Your fingers slip!
+[10/20/2024 12:09]  Razor: Bandage: 4s
+[10/20/2024 12:09]  Razor: Bandage: 3s
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.182%
+[10/20/2024 12:09]  a daemon: -138
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:09]  System: That target is currently under a barding break effect.
+[10/20/2024 12:09]  Razor: *barding break 8s discord 1m 2s* a daemon
+[10/20/2024 12:09]  Razor: Bandage: 2s
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  Razor: Bandage: 1s
+[10/20/2024 12:09]  Ailiin: -21
+[10/20/2024 12:09]  System: You finish applying the bandages.
+[10/20/2024 12:09]  Ailiin: +43
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.047%
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.193%
+[10/20/2024 12:09]  a daemon: -166
+[10/20/2024 12:09]  Ailiin: +0
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  Ailiin: +0
+[10/20/2024 12:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:09]  System: That target is currently under a barding break effect.
+[10/20/2024 12:09]  Razor: *barding break 4s discord 58s* a daemon
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  Ailiin: +0
+[10/20/2024 12:09]  Ian: Ian the dockmaster
+[10/20/2024 12:09]  Ailiin: -17
+[10/20/2024 12:09]  System: Who will you use the bandages on?
+[10/20/2024 12:09]  System: You begin applying the bandages.
+[10/20/2024 12:09]  Razor: Bandage: 7s
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.182%
+[10/20/2024 12:09]  a daemon: -140
+[10/20/2024 12:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:09]  System: That target is currently under a barding break effect.
+[10/20/2024 12:09]  Razor: *barding break 2s discord 56s* a daemon
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  Razor: Bandage: 6s
+[10/20/2024 12:09]  Ian: Ian the dockmaster
+[10/20/2024 12:09]  Razor: Bandage: 5s
+[10/20/2024 12:09]  Ailiin: -15
+[10/20/2024 12:09]  System: Your fingers slip!
+[10/20/2024 12:09]  Ailiin: -17
+[10/20/2024 12:09]  System: Your fingers slip!
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  Razor: Bandage: 4s
+[10/20/2024 12:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:09]  Ailiin: +35
+[10/20/2024 12:09]  System: some damage has been healed : 35
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.216%
+[10/20/2024 12:09]  a daemon: -100
+[10/20/2024 12:09]  System: You fail to pacify your opponent. You estimate the task to be fairly reasonable.
+[10/20/2024 12:09]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:09]  Razor: Failed to pacify
+[10/20/2024 12:09]  Razor: *discord 52s* a daemon
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  Razor: Bandage: 3s
+[10/20/2024 12:09]  Razor: Bandage: 2s
+[10/20/2024 12:09]  Ailiin: -21
+[10/20/2024 12:09]  System: Your fingers slip!
+[10/20/2024 12:09]  Razor: Bandage: 1s
+[10/20/2024 12:09]  You see: a daemon corpse
+[10/20/2024 12:09]  Jonah: Jonah the battle trainer
+[10/20/2024 12:09]  System: You finish applying the bandages.
+[10/20/2024 12:09]  Ailiin: +34
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.069%
+[10/20/2024 12:09]  Razor: [Last Target]
+[10/20/2024 12:09]  a daemon: *discord 49s*
+[10/20/2024 12:09]  a daemon: a daemon
+[10/20/2024 12:09]  Ailiin: +0
+[10/20/2024 12:09]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:09]  System: You play successfully, pacifying your target. (56s)
+[10/20/2024 12:09]  a daemon: *looks calmed*
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.216%
+[10/20/2024 12:09]  Razor: -180
+[10/20/2024 12:09]  a daemon: *pacified 56s discord 47s*
+[10/20/2024 12:09]  a daemon: a daemon
+[10/20/2024 12:09]  Ailiin: +0
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  You see: a daemon corpse
+[10/20/2024 12:09]  Ailiin: +0
+[10/20/2024 12:09]  Ian: Ian the dockmaster
+[10/20/2024 12:09]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:09]  Razor: Target queue cleared.
+[10/20/2024 12:09]  [Razor]: You are not holding anything.
+[10/20/2024 12:09]  [Razor]: New target set.
+[10/20/2024 12:09]  Razor: Target: a daemon
+[10/20/2024 12:09]  [Razor]: Ignore List cleared
+[10/20/2024 12:09]  System: Anatomy skillgain: 2.205%
+[10/20/2024 12:09]  a daemon: -217
+[10/20/2024 12:09]  System: Your shot ricochets.
+[10/20/2024 12:09]  System: Your shot ricochets.
+[10/20/2024 12:09]  System: You have gained a very large amount of fame.
+[10/20/2024 12:09]  System: You have gained a very large amount of karma.
+[10/20/2024 12:09]  System: You have unlocked a codex upgrade point for Archery (39 available).
+[10/20/2024 12:09]  Ailiin: (Lyric Aspect 3,583.3/4000 xp)
+[10/20/2024 12:09]  System: -1913
+[10/20/2024 12:09]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:09]  You see: a daemon corpse
+[10/20/2024 12:09]  Razor: description
+[10/20/2024 12:09]  Razor: [+Start auto-heal]
+[10/20/2024 12:09]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/20/2024 12:09]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/20/2024 12:09]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:09]  System: 14° 3'N, 41° 45'W
+[10/20/2024 12:09]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[10/20/2024 12:09]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:09]  System: You are now under the protection of the town guards.
+[10/20/2024 12:09]  a dog: a dog
+[10/20/2024 12:09]  a goat: a goat
+[10/20/2024 12:09]  Keara: Keara the stablemaster
+[10/20/2024 12:09]  Renee: Renee the stablemaster
+[10/20/2024 12:09]  Denton: Denton the innkeeper
+[10/20/2024 12:09]  Thurston: Thurston the waiter
+[10/20/2024 12:09]  Aluvian Nox: Legendary Captain
+[10/20/2024 12:09]  Aluvian Nox: [SOF]
+[10/20/2024 12:09]  Aluvian Nox: Lord Aluvian Nox
+[10/20/2024 12:09]  [Razor]: 5 item(s) already equipped.
+[10/20/2024 12:09]  [Razor]: 9 item(s) were not found. (Out of Range)
+[10/20/2024 12:09]  a cat: a cat
+[10/20/2024 12:09]  a dog: a dog
+[10/20/2024 12:09]  a dog: a dog
+[10/20/2024 12:09]  a dog: a dog
+[10/20/2024 12:09]  Donnelly: Donnelly the scribe
+[10/20/2024 12:09]  Ravi: Ravi the Town Crier
+[10/20/2024 12:09]  a cat: a cat
+[10/20/2024 12:09]  Brandi: Brandi the banker
+[10/20/2024 12:09]  Dacey: Dacey the waiter
+[10/20/2024 12:09]  a dog: a dog
+[10/20/2024 12:09]  Ailiin: Bank Vendor buy
+[10/20/2024 12:09]  Ailiin: Items: 37/125
+[10/20/2024 12:09]  Ailiin: Total Weight: 4,649
+[10/20/2024 12:10]  Ailiin: Room
+[10/20/2024 12:10]  [Razor]: Organize Agent queued 2 item(s) to be moved. (This may take a few moments)
+[10/20/2024 12:10]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:10]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:10]  System: Your Song of Peacemaking effect ends.
+[10/20/2024 12:10]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:10]  [Razor]: Finished 5 queued actions in 2.4 seconds.
+[10/20/2024 12:10]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:10]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:10]  a dog: a dog
+[10/20/2024 12:10]  Dacey: Dacey the waiter
+[10/20/2024 12:10]  a dog: a dog
+[10/20/2024 12:10]  a dog: a dog
+[10/20/2024 12:10]  Donnelly: Donnelly the scribe
+[10/20/2024 12:10]  Thurston: Thurston the waiter
+[10/20/2024 12:10]  Denton: Denton the innkeeper
+[10/20/2024 12:10]  Renee: Renee the stablemaster
+[10/20/2024 12:10]  a goat: a goat
+[10/20/2024 12:10]  Keara: Keara the stablemaster
+[10/20/2024 12:10]  a dog: a dog
+[10/20/2024 12:10]  Ailiin: Bank Vendor buy
+[10/20/2024 12:10]  Ailiin: Room
+[10/20/2024 12:10]  System: You have left the protection of the town guards.
+[10/20/2024 12:10]  System: You enter the rental room.
+[10/20/2024 12:10]  System: Abdellah has completed the achievement: Pirate (Intermediate).
+[10/20/2024 12:10]  System: WorldMap loaded!
+[10/20/2024 12:10]  Ailiin: Bank Vendor buy
+[10/20/2024 12:10]  System: Your Song of Discordance effect ends.
+[10/20/2024 12:10]  Ailiin: Room
+[10/20/2024 12:10]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:10]  System: You are now under the effect of a Song of Discordance (12.0% reduced damage from creatures for 15 minutes).
+[10/20/2024 12:10]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:10]  System: You must wait a few moments before performing another barding song.
+[10/20/2024 12:10]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:10]  System: You must wait a few moments before performing another barding song.
+[10/20/2024 12:10]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:10]  System: You are now under the effect of a Song of Peacemaking (12.0% healing amounts for 15 minutes).
+[10/20/2024 12:10]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:10]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:10]  [Razor]: Organize Agent queued 2 item(s) to be moved. (This may take a few moments)
+[10/20/2024 12:10]  [Razor]: Warning: Blood Moss amount is now 0!
+[10/20/2024 12:10]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:10]  [Razor]: Warning: Garlic amount is now 0!
+[10/20/2024 12:10]  [Razor]: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[10/20/2024 12:10]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:10]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:10]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:11]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[10/20/2024 12:11]  [Razor]: Restock request in progress....
+[10/20/2024 12:11]  [Razor]: Restock done, queued 6 items.
+[10/20/2024 12:11]  [Razor]: Finished 6 queued actions in 3.0 seconds.
+[10/20/2024 12:11]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:12]  You see: arrow : 25
+[10/20/2024 12:12]  You see: arrow : 26
+[10/20/2024 12:12]  You see: recall scroll : 729
+[10/20/2024 12:12]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:12]  You see: arrow : 26
+[10/20/2024 12:13]  System: Moved 0 item to quiver.
+[10/20/2024 12:13]  System: No trapped pouches found.
+[10/20/2024 12:13]  System: Sett has completed the achievement: Domestication (Epic).
+[10/20/2024 12:13]  You see: dullhide quiver
+[10/20/2024 12:13]  You see: (0 items, 0 stones)
+[10/20/2024 12:13]  System: Moved 0 item to quiver.
+[10/20/2024 12:14]  You see: dullhide quiver
+[10/20/2024 12:14]  You see: (0 items, 0 stones)
+[10/20/2024 12:14]  System: Moved 1 item to quiver.
+[10/20/2024 12:14]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:14]  System: Moved 1 item to quiver.
+[10/20/2024 12:14]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 12:15]  Razor: [+Stop]
+[10/20/2024 12:15]  Razor: [+Stop]
+[10/20/2024 12:15]  You see: fortification rune : 2
+[10/20/2024 12:15]  You see: (Effective armor rating increased by 25)
+[10/20/2024 12:15]  You see: [double click to place]
+[10/20/2024 12:15]  You see: immunity rune : 4
+[10/20/2024 12:15]  You see: (15.0% chance to ignore bleed or disease damage)
+[10/20/2024 12:15]  You see: [double click to place]
+[10/20/2024 12:15]  [Guild][Fila Brazillia]: 2 pks cav 3
+[10/20/2024 12:15]  You see: Magic Resist potion : 3
+[10/20/2024 12:16]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[10/20/2024 12:16]  Razor: [+Stop]
+[10/20/2024 12:16]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[10/20/2024 12:16]  [Razor]: Restock request in progress....
+[10/20/2024 12:16]  [Razor]: Restock done, queued 0 items.
+[10/20/2024 12:16]  System: Opening door...
+[10/20/2024 12:16]  System: You are now under the protection of the town guards.
+[10/20/2024 12:16]  System: You exit the rental room.
+[10/20/2024 12:16]  a goat: a goat
+[10/20/2024 12:16]  a goat: a goat
+[10/20/2024 12:16]  Hanan: Hanan the animal wrangler
+[10/20/2024 12:16]  Kama: Kama the creature broker
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  Keara: Keara the stablemaster
+[10/20/2024 12:16]  Renee: Renee the stablemaster
+[10/20/2024 12:16]  Denton: Denton the innkeeper
+[10/20/2024 12:16]  Thurston: Thurston the waiter
+[10/20/2024 12:16]  Callidora: Callidora the tavern keeper
+[10/20/2024 12:16]  System: Opening door...
+[10/20/2024 12:16]  Dacey: Dacey the waiter
+[10/20/2024 12:16]  System: WorldMap loaded!
+[10/20/2024 12:16]  a cat: a cat
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  Ravi: Ravi the Town Crier
+[10/20/2024 12:16]  Donnelly: Donnelly the scribe
+[10/20/2024 12:16]  Brandi: Brandi the banker
+[10/20/2024 12:16]  Dacey: Dacey the waiter
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  Pierce: Pierce the tailor
+[10/20/2024 12:16]  a cat: a cat
+[10/20/2024 12:16]  Donnelly: Donnelly the scribe
+[10/20/2024 12:16]  Ivar: Ivar the jeweler
+[10/20/2024 12:16]  Alonzo: Alonzo the tinker
+[10/20/2024 12:16]  Galatea: Galatea the healer
+[10/20/2024 12:16]  System: Where do you wish to traverse to?
+[10/20/2024 12:16]  System: Target cannot be seen.
+[10/20/2024 12:16]  System: You are no longer hindered.
+[10/20/2024 12:16]  System: Where do you wish to traverse to?
+[10/20/2024 12:16]  System: Target cannot be seen.
+[10/20/2024 12:16]  System: You are no longer hindered.
+[10/20/2024 12:16]  Brandi: Brandi the banker
+[10/20/2024 12:16]  [Guild][Ernesto Rabello]: i was in pulma3 and its empty, go get ur tickets guys!!!
+[10/20/2024 12:16]  System: Opening door...
+[10/20/2024 12:16]  System: Opening door...
+[10/20/2024 12:16]  Nazirqah: Nazirqah the ranger
+[10/20/2024 12:16]  Renny: Renny the bowyer
+[10/20/2024 12:16]  a cat: a cat
+[10/20/2024 12:16]  a cat: a cat
+[10/20/2024 12:16]  Felix: Felix the ranger
+[10/20/2024 12:16]  System: Opening door...
+[10/20/2024 12:16]  a cat: a cat
+[10/20/2024 12:16]  Galatea: Galatea the healer
+[10/20/2024 12:16]  Ailiin: Bank Vendor buy
+[10/20/2024 12:16]  Renny: Greetings.  Have a look around.
+[10/20/2024 12:16]  Ailiin: Room
+[10/20/2024 12:16]  Renny: The total of thy purchase is 1998 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[10/20/2024 12:16]  System: You have received a rebate of 199 gold on your purchase.
+[10/20/2024 12:16]  System: You increase your damage resistance to creature-casted spells.
+[10/20/2024 12:16]  a cat: a cat
+[10/20/2024 12:16]  Alonzo: Alonzo the tinker
+[10/20/2024 12:16]  Ivar: Ivar the jeweler
+[10/20/2024 12:16]  a cat: a cat
+[10/20/2024 12:16]  Sner'dle Furtz: Legendary Paragon Hunter
+[10/20/2024 12:16]  Sner'dle Furtz: [Gruntee, Ork]
+[10/20/2024 12:16]  Sner'dle Furtz: Lord Sner'dle Furtz
+[10/20/2024 12:16]  a cat: a cat
+[10/20/2024 12:16]  Galatea: Galatea the healer
+[10/20/2024 12:16]  Pierce: Pierce the tailor
+[10/20/2024 12:16]  Sner'dle Furtz: *explores area*
+[10/20/2024 12:16]  System: Opening door...
+[10/20/2024 12:16]  System: Opening door...
+[10/20/2024 12:16]  Sner'dle Furtz: *explores area*
+[10/20/2024 12:16]  Brandi: Brandi the banker
+[10/20/2024 12:16]  Ravi: Ravi the Town Crier
+[10/20/2024 12:16]  Slider: Slider
+[10/20/2024 12:16]  Donnelly: Donnelly the scribe
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  Razor: [+Stop]
+[10/20/2024 12:16]  a cat: a cat
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  Razor: [+Stop]
+[10/20/2024 12:16]  Razor: [+Stop]
+[10/20/2024 12:16]  Dacey: Dacey the waiter
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  a dog: a dog
+[10/20/2024 12:16]  Donnelly: Donnelly the scribe
+[10/20/2024 12:16]  Thurston: Thurston the waiter
+[10/20/2024 12:16]  Denton: Denton the innkeeper
+[10/20/2024 12:16]  Renee: Renee the stablemaster
+[10/20/2024 12:17]  Keara: Keara the stablemaster
+[10/20/2024 12:17]  a goat: a goat
+[10/20/2024 12:17]  a dog: a dog
+[10/20/2024 12:17]  Aluvian Catalyst: [Officer, WIN]
+[10/20/2024 12:17]  Aluvian Catalyst: Aluvian Catalyst
+[10/20/2024 12:17]  : wooden planks
+[10/20/2024 12:17]  Slider: room
+[10/20/2024 12:17]  Ailiin: Bank Vendor buy
+[10/20/2024 12:17]  Denton: Greetings.  Have a look around.
+[10/20/2024 12:17]  Ailiin: Room
+[10/20/2024 12:17]  System: You have left the protection of the town guards.
+[10/20/2024 12:17]  System: You enter the rental room.
+[10/20/2024 12:17]  System: WorldMap loaded!
+[10/20/2024 12:17]  System: 26° 58'N, 24° 2'E
+[10/20/2024 12:17]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[10/20/2024 12:17]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:17]  Qualinesti: Qualinesti
+[10/20/2024 12:17]  happy Skill Scrollzz: happy Skill Scrollzz
+[10/20/2024 12:17]  RuneLibrary: RuneLibrary the battle trainer
+[10/20/2024 12:17]  Cores and Sh!t: Cores and Sh!t
+[10/20/2024 12:17]  Tamary: Tamary
+[10/20/2024 12:17]  Monster Shuffle Rare: Monster Shuffle Rare
+[10/20/2024 12:17]  Prices Slashed: Prices Slashed
+[10/20/2024 12:17]  Cloth and Dyes: Cloth and Dyes
+[10/20/2024 12:17]  WoodMan/Fresh: WoodMan/Fresh
+[10/20/2024 12:17]  Hal: Hal
+[10/20/2024 12:17]  Thanos: Thanos
+[10/20/2024 12:17]  Melloweed Shop: Melloweed Shop
+[10/20/2024 12:17]  DUNGEON LOOT: DUNGEON LOOT
+[10/20/2024 12:17]  Time Gems: Time Gems
+[10/20/2024 12:17]  MarkInsideCY: MarkInsideCY the stablemaster
+[10/20/2024 12:17]  *(Grey Hand Goods)*: *(Grey Hand Goods)*
+[10/20/2024 12:17]  Runes R' Us: Runes R' Us
+[10/20/2024 12:17]  Shelter Favstvs gate: Shelter Favstvs gate
+[10/20/2024 12:17]  MoldyMilk Loot: MoldyMilk Loot
+[10/20/2024 12:17]  Prev N DUNGEONLOOT: Prev N DUNGEONLOOT
+[10/20/2024 12:17]  CORES N MORES: CORES N MORES
+[10/20/2024 12:17]  SscrollS: SscrollS
+[10/20/2024 12:17]  Moosh's Must Haves: [10% discount for SQzD]
+[10/20/2024 12:17]  Moosh's Must Haves: Moosh's Must Haves
+[10/20/2024 12:17]  Rnchas: Rnchas
+[10/20/2024 12:17]  Tales of Nine: Tales of Nine
+[10/20/2024 12:17]  My Loss UR Gain: My Loss UR Gain
+[10/20/2024 12:17]  Random things: Random things
+[10/20/2024 12:17]  Griffen: Griffen
+[10/20/2024 12:17]  Bian: Bian
+[10/20/2024 12:17]  Aristotle: Aristotle
+[10/20/2024 12:17]  Cores Runes Maps etc: Cores Runes Maps etc
+[10/20/2024 12:17]  Zevida: Zevida
+[10/20/2024 12:17]  SHIP STUFF ONLY: SHIP STUFF ONLY
+[10/20/2024 12:17]  INGOTS & BOARDS HERE: INGOTS & BOARDS HERE
+[10/20/2024 12:17]  MUSHROOM SPORE: MUSHROOM SPORE
+[10/20/2024 12:17]  DW Deals: [Syn only]
+[10/20/2024 12:17]  DW Deals: DW Deals
+[10/20/2024 12:17]  GOLD SILVER LINKS: GOLD SILVER LINKS
+[10/20/2024 12:17]  Ye Olde Shoppe: Ye Olde Shoppe
+[10/20/2024 12:17]  CORES & MORE: CORES & MORE
+[10/20/2024 12:17]  MASTERY SCROLLS: MASTERY SCROLLS
+[10/20/2024 12:17]  *Random Loooot*: *Random Loooot*
+[10/20/2024 12:17]  CORES GATE PASS: CORES GATE PASS
+[10/20/2024 12:17]  Amber Shelter: Amber Shelter
+[10/20/2024 12:17]  F GUILD: F GUILD
+[10/20/2024 12:17]  Plants N More: Plants N More
+[10/20/2024 12:17]  Verewood weapons: Verewood weapons
+[10/20/2024 12:17]  Cheap Cabbages!: Cheap Cabbages!
+[10/20/2024 12:17]  force greater Daemon: force greater Daemon
+[10/20/2024 12:17]  Random Great Stuff: Random Great Stuff
+[10/20/2024 12:17]  Cores Distills Rares: Cores Distills Rares
+[10/20/2024 12:17]  Restocked/New Stuff: Restocked/New Stuff
+[10/20/2024 12:17]  CORES SCROLLS N DIST: CORES SCROLLS N DIST
+[10/20/2024 12:17]  Eurospin: Eurospin
+[10/20/2024 12:17]  T Map LOOT: T Map LOOT
+[10/20/2024 12:17]  &&&SHOP&&&: &&&SHOP&&&
+[10/20/2024 12:17]  CORES ALL DAY LONG: CORES ALL DAY LONG
+[10/20/2024 12:17]  All Da Goodies: All Da Goodies
+[10/20/2024 12:17]  BEST PRICES ^_^: BEST PRICES ^_^
+[10/20/2024 12:17]  Doern Vendor: Doern Vendor
+[10/20/2024 12:17]  Magic Items: Magic Items
+[10/20/2024 12:17]  LOOT - Restocked: LOOT - Restocked
+[10/20/2024 12:17]  Rares and Magic Item: Rares and Magic Item
+[10/20/2024 12:17]  Dungeon Loot: Dungeon Loot
+[10/20/2024 12:17]  OVER 900000: OVER 900000
+[10/20/2024 12:17]  Dungeon_Drops: Dungeon_Drops
+[10/20/2024 12:17]  Leather Boner: Leather Boner
+[10/20/2024 12:17]  Alben - the cheapest: Alben - the cheapest
+[10/20/2024 12:17]  !!POTHEADS SHOP!!: !!POTHEADS SHOP!!
+[10/20/2024 12:17]  a gazer larva: a gazer larva
+[10/20/2024 12:17]  CHEAP WARES: CHEAP WARES
+[10/20/2024 12:17]  DISTILLS N CORES: [F only]
+[10/20/2024 12:17]  DISTILLS N CORES: DISTILLS N CORES
+[10/20/2024 12:17]  Bossing Loot: Bossing Loot
+[10/20/2024 12:17]  50% SALE: 50% SALE
+[10/20/2024 12:17]  Lockpicking Finds: Lockpicking Finds
+[10/20/2024 12:17]  Pitchforks n Recalls: Pitchforks n Recalls
+[10/20/2024 12:17]  Deco Prev Rares: Deco Prev Rares
+[10/20/2024 12:17]  Lifeguard: Lifeguard the dockmaster
+[10/20/2024 12:17]  Cores/Distills: Cores/Distills
+[10/20/2024 12:17]  Scrolls/Maps/ETC: Scrolls/Maps/ETC
+[10/20/2024 12:17]  --- CheapGoods ---: --- CheapGoods ---
+[10/20/2024 12:17]  Kurt: Kurt
+[10/20/2024 12:17]  lumber deal: lumber deal
+[10/20/2024 12:17]  System: WorldMap loaded!
+[10/20/2024 12:17]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 12:17]  System: Opening door...
+[10/20/2024 12:17]  [Alliance][Aurelius Storm]: [SQzD] REDS PUMLA LVL TWO
+[10/20/2024 12:17]  System: You add 1 recall charges to the rune tome.
+[10/20/2024 12:17]  [Alliance][Aurelius Storm]: [SQzD] REDS PUMLA LVL TWO
+[10/20/2024 12:17]  [Alliance][Aurelius Storm]: [SQzD] REDS PUMLA LVL TWO
+[10/20/2024 12:17]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[10/20/2024 12:17]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:17]  a norse hammerman: a norse hammerman
+[10/20/2024 12:17]  a norse bear rider: a norse bear rider
+[10/20/2024 12:17]  Consuela: Consuela the dockmaster
+[10/20/2024 12:17]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 12:17]  a norse swordsman: a norse swordsman
+[10/20/2024 12:17]  a skald: a skald
+[10/20/2024 12:17]  a crow: a crow
+[10/20/2024 12:17]  a norse trapper: a norse trapper
+[10/20/2024 12:17]  a norse hammerman: a norse hammerman
+[10/20/2024 12:17]  a norse mage: a norse mage
+[10/20/2024 12:17]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:17]  a norse swordsman: -82
+[10/20/2024 12:17]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:17]  Razor: Target: a norse swordsman
+[10/20/2024 12:17]  System: Whom do you wish them to attack?
+[10/20/2024 12:17]  Razor: Target: a norse mage
+[10/20/2024 12:17]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:17]  a norse swordsman: -68
+[10/20/2024 12:17]  System: That is too far away.
+[10/20/2024 12:17]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:17]  Razor: Target queue cleared.
+[10/20/2024 12:17]  [Razor]: You are not holding anything.
+[10/20/2024 12:17]  [Razor]: New target set.
+[10/20/2024 12:17]  Razor: Target: a norse swordsman
+[10/20/2024 12:17]  [Razor]: Ignore List cleared
+[10/20/2024 12:17]  a norse swordsman: *shield bash*
+[10/20/2024 12:17]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:17]  Razor: Attack: a norse swordsman
+[10/20/2024 12:17]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:17]  a norse swordsman: *looks calmed*
+[10/20/2024 12:17]  Razor: *pacified 48s* a norse swordsman
+[10/20/2024 12:17]  a crow: a crow
+[10/20/2024 12:17]  Razor: [+Start auto-heal]
+[10/20/2024 12:17]  System: A shield bash knocks you off your feet!
+[10/20/2024 12:17]  Ailiin: -22
+[10/20/2024 12:17]  System: Who will you use the bandages on?
+[10/20/2024 12:17]  System: You begin applying the bandages.
+[10/20/2024 12:17]  Razor: Bandage: 7s
+[10/20/2024 12:17]  a norse hammerman: a norse hammerman
+[10/20/2024 12:17]  System: Anatomy skillgain: 2.160%
+[10/20/2024 12:17]  a norse swordsman: *enraged*
+[10/20/2024 12:17]  a norse swordsman: -90
+[10/20/2024 12:17]  Razor: Bandage: 6s
+[10/20/2024 12:18]  Razor: Bandage: 5s
+[10/20/2024 12:18]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:18]  Razor: Target queue cleared.
+[10/20/2024 12:18]  [Razor]: You are not holding anything.
+[10/20/2024 12:18]  [Razor]: New target set.
+[10/20/2024 12:18]  Razor: Target: a norse swordsman
+[10/20/2024 12:18]  System: Valenwolfe has completed the achievement: Guardian of Pulma (Basic).
+[10/20/2024 12:18]  [Razor]: Ignore List cleared
+[10/20/2024 12:18]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.160%
+[10/20/2024 12:18]  a norse swordsman: -107
+[10/20/2024 12:18]  Razor: Bandage: 4s
+[10/20/2024 12:18]  Razor: *pacified 45s* a norse swordsman
+[10/20/2024 12:18]  Razor: [+Start auto-heal]
+[10/20/2024 12:18]  Razor: Bandage: 3s
+[10/20/2024 12:18]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:18]  Razor: Target queue cleared.
+[10/20/2024 12:18]  [Razor]: You are not holding anything.
+[10/20/2024 12:18]  [Razor]: New target set.
+[10/20/2024 12:18]  [Razor]: Ignore List cleared
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:18]  a norse swordsman: -178
+[10/20/2024 12:18]  Razor: Bandage: 2s
+[10/20/2024 12:18]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:18]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:18]  Razor: *pacified 42s discord 1m 51s* a norse swordsman
+[10/20/2024 12:18]  Razor: [+Start auto-heal]
+[10/20/2024 12:18]  Razor: Bandage: 1s
+[10/20/2024 12:18]  Razor: [Last Target]
+[10/20/2024 12:18]  a norse swordsman: *pacified 41s discord 1m 50s*
+[10/20/2024 12:18]  a norse swordsman: a norse swordsman
+[10/20/2024 12:18]  System: You finish applying the bandages.
+[10/20/2024 12:18]  Ailiin: +21
+[10/20/2024 12:18]  System: Anatomy skillgain: 1.996%
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:18]  a norse swordsman: -42
+[10/20/2024 12:18]  Ailiin: +0
+[10/20/2024 12:18]  Ailiin: +0
+[10/20/2024 12:18]  [Guild][Frank Snow]: KRALLY CAN U REZ
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: -240
+[10/20/2024 12:18]  Ailiin: +0
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: -267
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: -160
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: -210
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: -21
+[10/20/2024 12:18]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:18]  Razor: Target: a norse hammerman
+[10/20/2024 12:18]  System: Whom do you wish them to attack?
+[10/20/2024 12:18]  Razor: Target: a norse swordsman
+[10/20/2024 12:18]  [Guild][Frank Snow]: thx
+[10/20/2024 12:18]  System: You play successfully, provoking your targets. (56s)
+[10/20/2024 12:18]  a norse hammerman: *looks furious*
+[10/20/2024 12:18]  a norse swordsman: *looks furious*
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: -55
+[10/20/2024 12:18]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: -47
+[10/20/2024 12:18]  a norse swordsman: *shield bash*
+[10/20/2024 12:18]  a norse hammerman: -58
+[10/20/2024 12:18]  a norse hammerman: *enraged*
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: *enraged*
+[10/20/2024 12:18]  a norse swordsman: -137
+[10/20/2024 12:18]  a norse swordsman: -30
+[10/20/2024 12:18]  a norse hammerman: -4
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: -50
+[10/20/2024 12:18]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:18]  Razor: Target: a norse hammerman
+[10/20/2024 12:18]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:18]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse swordsman: -155
+[10/20/2024 12:18]  System: Your shot ricochets.
+[10/20/2024 12:18]  System: Your shot ricochets.
+[10/20/2024 12:18]  System: You have gained some fame.
+[10/20/2024 12:18]  System: You have gained some karma.
+[10/20/2024 12:18]  Ailiin: (Lyric Aspect 3,588.1/4000 xp)
+[10/20/2024 12:18]  System: -61
+[10/20/2024 12:18]  a norse hammerman: -1322
+[10/20/2024 12:18]  You see: a norse swordsman corpse
+[10/20/2024 12:18]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:18]  Razor: Target queue cleared.
+[10/20/2024 12:18]  [Razor]: You are not holding anything.
+[10/20/2024 12:18]  [Razor]: New target set.
+[10/20/2024 12:18]  [Razor]: Ignore List cleared
+[10/20/2024 12:18]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:18]  Razor: Attack: a norse hammerman
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse hammerman: -151
+[10/20/2024 12:18]  System: You play successfully, pacifying your target. (56s)
+[10/20/2024 12:18]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:18]  Razor: *looks calmed*
+[10/20/2024 12:18]  a norse hammerman: *pacified 56s discord 1m 47s*
+[10/20/2024 12:18]  a norse hammerman: a norse hammerman
+[10/20/2024 12:18]  Razor: [+Start auto-heal]
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse hammerman: -217
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  a norse hammerman: -205
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:18]  System: You have gained some fame.
+[10/20/2024 12:18]  System: You have gained some karma.
+[10/20/2024 12:18]  Ailiin: (Lyric Aspect 3,592.9/4000 xp)
+[10/20/2024 12:18]  System: -43
+[10/20/2024 12:18]  You see: a norse hammerman corpse
+[10/20/2024 12:18]  System: Your magic resist potion has worn off.
+[10/20/2024 12:18]  a wisp: a wisp
+[10/20/2024 12:18]  a norse mage: a norse mage
+[10/20/2024 12:18]  a norse axeman: a norse axeman
+[10/20/2024 12:18]  a norse hammerman: a norse hammerman
+[10/20/2024 12:18]  a norse swordsman: a norse swordsman
+[10/20/2024 12:18]  a norse axeman: a norse axeman
+[10/20/2024 12:18]  a crow: a crow
+[10/20/2024 12:18]  a norse mage: a norse mage
+[10/20/2024 12:18]  an annalist: an annalist
+[10/20/2024 12:18]  an annalist: an annalist
+[10/20/2024 12:18]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:18]  Razor: Target: a norse trapper
+[10/20/2024 12:18]  System: Target cannot be seen.
+[10/20/2024 12:18]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:18]  a norse trapper: a norse trapper
+[10/20/2024 12:18]  Razor: Target: a skald
+[10/20/2024 12:18]  System: Whom do you wish them to attack?
+[10/20/2024 12:18]  System: You can't incite that!
+[10/20/2024 12:18]  a skald: *charges*
+[10/20/2024 12:18]  a norse hammerman: a norse hammerman
+[10/20/2024 12:18]  Ailiin: -25
+[10/20/2024 12:18]  System: Who will you use the bandages on?
+[10/20/2024 12:18]  System: You begin applying the bandages.
+[10/20/2024 12:18]  Razor: Bandage: 7s
+[10/20/2024 12:18]  You see: a norse hammerman corpse
+[10/20/2024 12:18]  a norse swordsman: a norse swordsman
+[10/20/2024 12:18]  Razor: Bandage: 6s
+[10/20/2024 12:18]  Razor: Bandage: 5s
+[10/20/2024 12:18]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:18]  Ailiin: -14
+[10/20/2024 12:18]  System: Your fingers slip!
+[10/20/2024 12:18]  System: They smash through your armor, temporarily reducing its effectiveness!
+[10/20/2024 12:18]  Razor: Bandage: 4s
+[10/20/2024 12:18]  Razor: Target: a norse hammerman
+[10/20/2024 12:18]  System: Whom do you wish them to attack?
+[10/20/2024 12:18]  Razor: Bandage: 3s
+[10/20/2024 12:18]  Razor: Target: a skald
+[10/20/2024 12:18]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:18]  System: Anatomy skillgain: 2.171%
+[10/20/2024 12:18]  a norse hammerman: *enraged*
+[10/20/2024 12:18]  a norse hammerman: -108
+[10/20/2024 12:18]  a norse hammerman: *looks furious*
+[10/20/2024 12:18]  a skald: *looks furious*
+[10/20/2024 12:19]  Razor: Bandage: 2s
+[10/20/2024 12:19]  a norse hammerman: -38
+[10/20/2024 12:19]  Razor: Bandage: 1s
+[10/20/2024 12:19]  System: You finish applying the bandages.
+[10/20/2024 12:19]  Ailiin: +38
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.016%
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.160%
+[10/20/2024 12:19]  a skald: -177
+[10/20/2024 12:19]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:19]  Razor: Target queue cleared.
+[10/20/2024 12:19]  [Razor]: You are not holding anything.
+[10/20/2024 12:19]  [Razor]: New target set.
+[10/20/2024 12:19]  Razor: Attack: a skald
+[10/20/2024 12:19]  [Razor]: Ignore List cleared
+[10/20/2024 12:19]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:19]  Ailiin: +0
+[10/20/2024 12:19]  Razor: *provoked 45s* a skald
+[10/20/2024 12:19]  Razor: [+Start auto-heal]
+[10/20/2024 12:19]  Ailiin: +0
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:19]  a skald: -105
+[10/20/2024 12:19]  Ailiin: +0
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:19]  a skald: -153
+[10/20/2024 12:19]  System: Where should I throw this potion?
+[10/20/2024 12:19]  Ailiin: 5
+[10/20/2024 12:19]  a norse hammerman: -39
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a skald: -107
+[10/20/2024 12:19]  Explosion potion: 4
+[10/20/2024 12:19]  a skald: -36
+[10/20/2024 12:19]  a skald: *enraged*
+[10/20/2024 12:19]  a norse trapper: a norse trapper
+[10/20/2024 12:19]  Explosion potion: 3
+[10/20/2024 12:19]  a skald: *charges*
+[10/20/2024 12:19]  Explosion potion: 2
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a skald: -120
+[10/20/2024 12:19]  a norse hammerman: -51
+[10/20/2024 12:19]  Explosion potion: 1
+[10/20/2024 12:19]  a skald: -28
+[10/20/2024 12:19]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:19]  a skald: -136
+[10/20/2024 12:19]  a norse hammerman: -127
+[10/20/2024 12:19]  a norse hammerman: -33
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a norse hammerman: -94
+[10/20/2024 12:19]  System: Whom do you wish them to attack?
+[10/20/2024 12:19]  Razor: Target: a norse hammerman
+[10/20/2024 12:19]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:19]  a skald: *looks furious*
+[10/20/2024 12:19]  a norse hammerman: *looks furious*
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  System: Your shot hinders your target!
+[10/20/2024 12:19]  a norse hammerman: *enraged*
+[10/20/2024 12:19]  a norse hammerman: -133
+[10/20/2024 12:19]  a norse hammerman: -39
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a norse hammerman: -163
+[10/20/2024 12:19]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:19]  Razor: Target queue cleared.
+[10/20/2024 12:19]  [Razor]: You are not holding anything.
+[10/20/2024 12:19]  [Razor]: New target set.
+[10/20/2024 12:19]  Razor: Target: a skald
+[10/20/2024 12:19]  [Razor]: Ignore List cleared
+[10/20/2024 12:19]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:19]  Razor: *provoked 43s* a skald
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a skald: -107
+[10/20/2024 12:19]  Razor: [+Start auto-heal]
+[10/20/2024 12:19]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:19]  Razor: Target queue cleared.
+[10/20/2024 12:19]  [Razor]: You are not holding anything.
+[10/20/2024 12:19]  [Razor]: New target set.
+[10/20/2024 12:19]  [Razor]: Ignore List cleared
+[10/20/2024 12:19]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:19]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  Razor: -107
+[10/20/2024 12:19]  a skald: *provoked 41s discord 1m 51s*
+[10/20/2024 12:19]  a skald: a skald
+[10/20/2024 12:19]  Razor: [+Start auto-heal]
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a skald: -235
+[10/20/2024 12:19]  a skald: *charges*
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a skald: -152
+[10/20/2024 12:19]  a norse hammerman: -52
+[10/20/2024 12:19]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  System: You have gained some fame.
+[10/20/2024 12:19]  System: You have gained some karma.
+[10/20/2024 12:19]  Ailiin: (Lyric Aspect 3,596.6/4000 xp)
+[10/20/2024 12:19]  System: -37
+[10/20/2024 12:19]  Razor: Target: a norse hammerman
+[10/20/2024 12:19]  You see: a polar bear corpse
+[10/20/2024 12:19]  You see: a skald corpse
+[10/20/2024 12:19]  System: You play successfully, pacifying your target. (56s)
+[10/20/2024 12:19]  a norse hammerman: *looks calmed*
+[10/20/2024 12:19]  System: Your armor is no longer pierced.
+[10/20/2024 12:19]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:19]  Razor: Target queue cleared.
+[10/20/2024 12:19]  [Razor]: You are not holding anything.
+[10/20/2024 12:19]  [Razor]: New target set.
+[10/20/2024 12:19]  Razor: Attack: a norse hammerman
+[10/20/2024 12:19]  [Razor]: Ignore List cleared
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a norse hammerman: *enraged*
+[10/20/2024 12:19]  a norse hammerman: -170
+[10/20/2024 12:19]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:19]  Razor: *pacified 51s* a norse hammerman
+[10/20/2024 12:19]  a goat: a goat
+[10/20/2024 12:19]  Razor: [+Start auto-heal]
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a norse hammerman: -114
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:19]  a norse hammerman: -134
+[10/20/2024 12:19]  System: Cacophony activated.
+[10/20/2024 12:19]  System: You have gained some fame.
+[10/20/2024 12:19]  System: You have gained some karma.
+[10/20/2024 12:19]  Ailiin: (Lyric Aspect 3,601.4/4000 xp)
+[10/20/2024 12:19]  System: -705
+[10/20/2024 12:19]  You see: a norse hammerman corpse
+[10/20/2024 12:19]  a norse trapper: a norse trapper
+[10/20/2024 12:19]  a norse trapper: a norse trapper
+[10/20/2024 12:19]  a norse swordsman: a norse swordsman
+[10/20/2024 12:19]  a norse trapper: a norse trapper
+[10/20/2024 12:19]  a norse mage: a norse mage
+[10/20/2024 12:19]  a norse mage: a norse mage
+[10/20/2024 12:19]  a norse swordsman: a norse swordsman
+[10/20/2024 12:19]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:19]  Ailiin: -16
+[10/20/2024 12:19]  System: Who will you use the bandages on?
+[10/20/2024 12:19]  System: You begin applying the bandages.
+[10/20/2024 12:19]  Razor: Bandage: 7s
+[10/20/2024 12:19]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:19]  a norse axeman: a norse axeman
+[10/20/2024 12:19]  Ailiin: -14
+[10/20/2024 12:19]  System: Your fingers slip!
+[10/20/2024 12:19]  Razor: Target: a norse axeman
+[10/20/2024 12:19]  System: Whom do you wish them to attack?
+[10/20/2024 12:19]  Razor: Bandage: 6s
+[10/20/2024 12:19]  Ailiin: -15
+[10/20/2024 12:19]  a norse trapper: a norse trapper
+[10/20/2024 12:19]  Razor: Bandage: 5s
+[10/20/2024 12:19]  Razor: Bandage: 4s
+[10/20/2024 12:19]  System: That is too far away.
+[10/20/2024 12:19]  Razor: Bandage: 3s
+[10/20/2024 12:19]  Ailiin: -16
+[10/20/2024 12:19]  System: Your fingers slip!
+[10/20/2024 12:19]  Razor: Bandage: 2s
+[10/20/2024 12:19]  Ailiin: +27
+[10/20/2024 12:19]  System: some damage has been healed : 27
+[10/20/2024 12:19]  Razor: Bandage: 1s
+[10/20/2024 12:19]  System: You finish applying the bandages.
+[10/20/2024 12:19]  Ailiin: +33
+[10/20/2024 12:19]  System: Anatomy skillgain: 1.125%
+[10/20/2024 12:19]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:19]  Ailiin: +0
+[10/20/2024 12:19]  Razor: Target: a norse axeman
+[10/20/2024 12:19]  Ailiin: +0
+[10/20/2024 12:19]  System: Whom do you wish them to attack?
+[10/20/2024 12:19]  Razor: Target: a norse axeman
+[10/20/2024 12:19]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:19]  System: Anatomy skillgain: 2.160%
+[10/20/2024 12:19]  a norse axeman: -34
+[10/20/2024 12:19]  a norse axeman: *looks furious*
+[10/20/2024 12:19]  a norse axeman: *looks furious*
+[10/20/2024 12:19]  Ailiin: +0
+[10/20/2024 12:19]  You see: a norse swordsman corpse
+[10/20/2024 12:19]  System: You increase your damage resistance to creature-casted spells.
+[10/20/2024 12:19]  a norse axeman: -40
+[10/20/2024 12:19]  Razor: Attack: a norse mage
+[10/20/2024 12:20]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:20]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:20]  Ailiin: -12
+[10/20/2024 12:20]  System: Who will you use the bandages on?
+[10/20/2024 12:20]  System: You begin applying the bandages.
+[10/20/2024 12:20]  Razor: Bandage: 7s
+[10/20/2024 12:20]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:20]  Ailiin: -12
+[10/20/2024 12:20]  a norse axeman: -34
+[10/20/2024 12:20]  Razor: Bandage: 6s
+[10/20/2024 12:20]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:20]  Razor: Target: a norse mage
+[10/20/2024 12:20]  Razor: Bandage: 5s
+[10/20/2024 12:20]  System: Whom do you wish them to attack?
+[10/20/2024 12:20]  Razor: Target: a norse axeman
+[10/20/2024 12:20]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:20]  a norse mage: *looks furious*
+[10/20/2024 12:20]  a norse axeman: *looks furious*
+[10/20/2024 12:20]  Razor: Bandage: 4s
+[10/20/2024 12:20]  a norse axeman: -36
+[10/20/2024 12:20]  a norse axeman: *enraged*
+[10/20/2024 12:20]  Razor: Bandage: 3s
+[10/20/2024 12:20]  a norse swordsman: a norse swordsman
+[10/20/2024 12:20]  a norse mage: -45
+[10/20/2024 12:20]  Razor: Bandage: 2s
+[10/20/2024 12:20]  Razor: Attack: a norse mage
+[10/20/2024 12:20]  a norse axeman: -24
+[10/20/2024 12:20]  Razor: Bandage: 1s
+[10/20/2024 12:20]  System: You finish applying the bandages.
+[10/20/2024 12:20]  Ailiin: +23
+[10/20/2024 12:20]  System: Anatomy skillgain: 1.986%
+[10/20/2024 12:20]  an annalist: an annalist
+[10/20/2024 12:20]  Ailiin: +0
+[10/20/2024 12:20]  Razor: Attack: a norse mage
+[10/20/2024 12:20]  Ailiin: +0
+[10/20/2024 12:20]  a norse mage: -33
+[10/20/2024 12:20]  a norse mage: *enraged*
+[10/20/2024 12:20]  Razor: Attack: a norse mage
+[10/20/2024 12:20]  Ailiin: +0
+[10/20/2024 12:20]  a norse axeman: -26
+[10/20/2024 12:20]  a norse mage: -33
+[10/20/2024 12:20]  a norse axeman: -28
+[10/20/2024 12:20]  a norse axeman: -38
+[10/20/2024 12:20]  a norse axeman: -10
+[10/20/2024 12:20]  a norse trapper: a norse trapper
+[10/20/2024 12:20]  a norse mage: -33
+[10/20/2024 12:20]  Razor: Attack: a norse mage
+[10/20/2024 12:20]  a norse axeman: -33
+[10/20/2024 12:20]  a norse axeman: -39
+[10/20/2024 12:20]  a norse axeman: -51
+[10/20/2024 12:20]  a norse mage: a norse mage
+[10/20/2024 12:20]  a norse mage: -34
+[10/20/2024 12:20]  System: 14° 3'N, 41° 45'W
+[10/20/2024 12:20]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[10/20/2024 12:20]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:20]  a norse mage: -38
+[10/20/2024 12:20]  a norse axeman: -36
+[10/20/2024 12:20]  System: You are now under the protection of the town guards.
+[10/20/2024 12:20]  a goat: a goat
+[10/20/2024 12:20]  Keara: Keara the stablemaster
+[10/20/2024 12:20]  Renee: Renee the stablemaster
+[10/20/2024 12:20]  a dog: a dog
+[10/20/2024 12:20]  Denton: Denton the innkeeper
+[10/20/2024 12:20]  Thurston: Thurston the waiter
+[10/20/2024 12:20]  a dog: a dog
+[10/20/2024 12:20]  Ailiin: Bank Vendor buy
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  Ailiin: Room
+[10/20/2024 12:20]  System: You have left the protection of the town guards.
+[10/20/2024 12:20]  System: You enter the rental room.
+[10/20/2024 12:20]  System: WorldMap loaded!
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: Moved 1 item to quiver.
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: 26° 58'N, 24° 2'E
+[10/20/2024 12:20]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  Qualinesti: Qualinesti
+[10/20/2024 12:20]  happy Skill Scrollzz: happy Skill Scrollzz
+[10/20/2024 12:20]  RuneLibrary: RuneLibrary the battle trainer
+[10/20/2024 12:20]  Cores and Sh!t: Cores and Sh!t
+[10/20/2024 12:20]  Tamary: Tamary
+[10/20/2024 12:20]  Monster Shuffle Rare: Monster Shuffle Rare
+[10/20/2024 12:20]  Prices Slashed: Prices Slashed
+[10/20/2024 12:20]  Cloth and Dyes: Cloth and Dyes
+[10/20/2024 12:20]  WoodMan/Fresh: WoodMan/Fresh
+[10/20/2024 12:20]  Hal: Hal
+[10/20/2024 12:20]  Thanos: Thanos
+[10/20/2024 12:20]  Melloweed Shop: Melloweed Shop
+[10/20/2024 12:20]  DUNGEON LOOT: DUNGEON LOOT
+[10/20/2024 12:20]  Time Gems: Time Gems
+[10/20/2024 12:20]  MarkInsideCY: MarkInsideCY the stablemaster
+[10/20/2024 12:20]  *(Grey Hand Goods)*: *(Grey Hand Goods)*
+[10/20/2024 12:20]  Runes R' Us: Runes R' Us
+[10/20/2024 12:20]  Shelter Favstvs gate: Shelter Favstvs gate
+[10/20/2024 12:20]  MoldyMilk Loot: MoldyMilk Loot
+[10/20/2024 12:20]  Prev N DUNGEONLOOT: Prev N DUNGEONLOOT
+[10/20/2024 12:20]  CORES N MORES: CORES N MORES
+[10/20/2024 12:20]  SscrollS: SscrollS
+[10/20/2024 12:20]  Moosh's Must Haves: [10% discount for SQzD]
+[10/20/2024 12:20]  Moosh's Must Haves: Moosh's Must Haves
+[10/20/2024 12:20]  Rnchas: Rnchas
+[10/20/2024 12:20]  Tales of Nine: Tales of Nine
+[10/20/2024 12:20]  My Loss UR Gain: My Loss UR Gain
+[10/20/2024 12:20]  Random things: Random things
+[10/20/2024 12:20]  Griffen: Griffen
+[10/20/2024 12:20]  Bian: Bian
+[10/20/2024 12:20]  Aristotle: Aristotle
+[10/20/2024 12:20]  Cores Runes Maps etc: Cores Runes Maps etc
+[10/20/2024 12:20]  Zevida: Zevida
+[10/20/2024 12:20]  SHIP STUFF ONLY: SHIP STUFF ONLY
+[10/20/2024 12:20]  INGOTS & BOARDS HERE: INGOTS & BOARDS HERE
+[10/20/2024 12:20]  MUSHROOM SPORE: MUSHROOM SPORE
+[10/20/2024 12:20]  DW Deals: [Syn only]
+[10/20/2024 12:20]  DW Deals: DW Deals
+[10/20/2024 12:20]  GOLD SILVER LINKS: GOLD SILVER LINKS
+[10/20/2024 12:20]  Ye Olde Shoppe: Ye Olde Shoppe
+[10/20/2024 12:20]  CORES & MORE: CORES & MORE
+[10/20/2024 12:20]  MASTERY SCROLLS: MASTERY SCROLLS
+[10/20/2024 12:20]  *Random Loooot*: *Random Loooot*
+[10/20/2024 12:20]  CORES GATE PASS: CORES GATE PASS
+[10/20/2024 12:20]  Amber Shelter: Amber Shelter
+[10/20/2024 12:20]  F GUILD: F GUILD
+[10/20/2024 12:20]  Plants N More: Plants N More
+[10/20/2024 12:20]  Verewood weapons: Verewood weapons
+[10/20/2024 12:20]  Cheap Cabbages!: Cheap Cabbages!
+[10/20/2024 12:20]  force greater Daemon: force greater Daemon
+[10/20/2024 12:20]  Random Great Stuff: Random Great Stuff
+[10/20/2024 12:20]  Cores Distills Rares: Cores Distills Rares
+[10/20/2024 12:20]  Restocked/New Stuff: Restocked/New Stuff
+[10/20/2024 12:20]  CORES SCROLLS N DIST: CORES SCROLLS N DIST
+[10/20/2024 12:20]  Eurospin: Eurospin
+[10/20/2024 12:20]  T Map LOOT: T Map LOOT
+[10/20/2024 12:20]  &&&SHOP&&&: &&&SHOP&&&
+[10/20/2024 12:20]  CORES ALL DAY LONG: CORES ALL DAY LONG
+[10/20/2024 12:20]  All Da Goodies: All Da Goodies
+[10/20/2024 12:20]  BEST PRICES ^_^: BEST PRICES ^_^
+[10/20/2024 12:20]  Doern Vendor: Doern Vendor
+[10/20/2024 12:20]  Magic Items: Magic Items
+[10/20/2024 12:20]  LOOT - Restocked: LOOT - Restocked
+[10/20/2024 12:20]  Rares and Magic Item: Rares and Magic Item
+[10/20/2024 12:20]  Dungeon Loot: Dungeon Loot
+[10/20/2024 12:20]  OVER 900000: OVER 900000
+[10/20/2024 12:20]  Dungeon_Drops: Dungeon_Drops
+[10/20/2024 12:20]  Leather Boner: Leather Boner
+[10/20/2024 12:20]  Alben - the cheapest: Alben - the cheapest
+[10/20/2024 12:20]  !!POTHEADS SHOP!!: !!POTHEADS SHOP!!
+[10/20/2024 12:20]  a gazer larva: a gazer larva
+[10/20/2024 12:20]  CHEAP WARES: CHEAP WARES
+[10/20/2024 12:20]  DISTILLS N CORES: [F only]
+[10/20/2024 12:20]  DISTILLS N CORES: DISTILLS N CORES
+[10/20/2024 12:20]  Bossing Loot: Bossing Loot
+[10/20/2024 12:20]  50% SALE: 50% SALE
+[10/20/2024 12:20]  Lockpicking Finds: Lockpicking Finds
+[10/20/2024 12:20]  Pitchforks n Recalls: Pitchforks n Recalls
+[10/20/2024 12:20]  Deco Prev Rares: Deco Prev Rares
+[10/20/2024 12:20]  Lifeguard: Lifeguard the dockmaster
+[10/20/2024 12:20]  Cores/Distills: Cores/Distills
+[10/20/2024 12:20]  Scrolls/Maps/ETC: Scrolls/Maps/ETC
+[10/20/2024 12:20]  --- CheapGoods ---: --- CheapGoods ---
+[10/20/2024 12:20]  Kurt: Kurt
+[10/20/2024 12:20]  lumber deal: lumber deal
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: Grundel has completed the achievement: Aspect Mastery (Basic).
+[10/20/2024 12:20]  System: WorldMap loaded!
+[10/20/2024 12:20]  System: Opening door...
+[10/20/2024 12:20]  System: You add 1 recall charges to the rune tome.
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  Ailiin: Insufficient mana for this spell.
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: -1
+[10/20/2024 12:20]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  You see: Progressive Spawns
+[10/20/2024 12:21]  You see: a rune tome
+[10/20/2024 12:21]  You see: [locked down]
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[10/20/2024 12:21]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  You see: a frostbane priest corpse
+[10/20/2024 12:21]  You see: a frostbane priest corpse
+[10/20/2024 12:21]  You see: an ice elemental corpse
+[10/20/2024 12:21]  You see: a frostbane priest corpse
+[10/20/2024 12:21]  a snowdrift: a snowdrift
+[10/20/2024 12:21]  a snow flurry: a snow flurry
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  a snowdrift: a snowdrift
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  a snowdrift: a snowdrift
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  a snowdrift: a snowdrift
+[10/20/2024 12:21]  an ice elemental: an ice elemental
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:21]  Razor: Target queue cleared.
+[10/20/2024 12:21]  [Razor]: You are not holding anything.
+[10/20/2024 12:21]  [Razor]: New target set.
+[10/20/2024 12:21]  Razor: Target: a snow flurry
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  [Razor]: Ignore List cleared
+[10/20/2024 12:21]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:21]  Razor: Attack: a snow flurry
+[10/20/2024 12:21]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:21]  a snow flurry: *looks calmed*
+[10/20/2024 12:21]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:21]  Razor: *pacified 48s* a snow flurry
+[10/20/2024 12:21]  Razor: [+Start auto-heal]
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:21]  Razor: Target queue cleared.
+[10/20/2024 12:21]  [Razor]: You are not holding anything.
+[10/20/2024 12:21]  [Razor]: New target set.
+[10/20/2024 12:21]  Razor: Target: a snow flurry
+[10/20/2024 12:21]  [Razor]: Ignore List cleared
+[10/20/2024 12:21]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:21]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:21]  Razor: *pacified 46s discord 1m 51s* a snow flurry
+[10/20/2024 12:21]  Razor: [+Start auto-heal]
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  a snow flurry: -265
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  a snow flurry: -75
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  a snow flurry: -60
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  a snow flurry: -97
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  a snow flurry: -255
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  a snow flurry: -230
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  System: You have gained some fame.
+[10/20/2024 12:21]  System: You have gained some karma.
+[10/20/2024 12:21]  Ailiin: (Lyric Aspect 3,604.0/4000 xp)
+[10/20/2024 12:21]  System: -18
+[10/20/2024 12:21]  You see: a snow flurry corpse
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/20/2024 12:21]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  You see: a snow flurry corpse
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  an ice elemental: an ice elemental
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:21]  Razor: Target: a frostbane priest
+[10/20/2024 12:21]  System: Whom do you wish them to attack?
+[10/20/2024 12:21]  Razor: Target: a frostbane priest
+[10/20/2024 12:21]  System: The creatures you are trying to provoke are too far away from each other for your music to have an effect.
+[10/20/2024 12:21]  Ailiin: -16
+[10/20/2024 12:21]  System: Who will you use the bandages on?
+[10/20/2024 12:21]  System: You begin applying the bandages.
+[10/20/2024 12:21]  Razor: Bandage: 7s
+[10/20/2024 12:21]  Ailiin: -14
+[10/20/2024 12:21]  System: Your fingers slip!
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  Razor: Bandage: 6s
+[10/20/2024 12:21]  Ailiin: +24
+[10/20/2024 12:21]  System: some damage has been healed : 24
+[10/20/2024 12:21]  You see: a snow flurry corpse
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  Razor: Bandage: 5s
+[10/20/2024 12:21]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:21]  Razor: Target queue cleared.
+[10/20/2024 12:21]  [Razor]: You are not holding anything.
+[10/20/2024 12:21]  [Razor]: New target set.
+[10/20/2024 12:21]  Razor: Target: a frostbane priest
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  [Razor]: Ignore List cleared
+[10/20/2024 12:21]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:21]  Razor: Attack: a frostbane priest
+[10/20/2024 12:21]  Ailiin: -11
+[10/20/2024 12:21]  System: Your fingers slip!
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:21]  a frostbane priest: -74
+[10/20/2024 12:21]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:21]  a frostbane priest: *looks calmed*
+[10/20/2024 12:21]  Ailiin: Your barding skill cooldowns reset.
+[10/20/2024 12:21]  Razor: *pacified 48s* a frostbane priest
+[10/20/2024 12:21]  a frostbane priest: *raises the frozen dead*
+[10/20/2024 12:21]  Ailiin: -13
+[10/20/2024 12:21]  System: Your fingers slip!
+[10/20/2024 12:21]  Razor: [+Start auto-heal]
+[10/20/2024 12:21]  Razor: Bandage: 4s
+[10/20/2024 12:21]  System: Nergal Lichigal has completed the achievement: Versatility (Basic).
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  System: Frankie Garage has completed the achievement: Transmutation (Epic).
+[10/20/2024 12:21]  You see: a frostbane priest corpse
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  a frostbane vicar: a frostbane vicar
+[10/20/2024 12:21]  a snowdrift: a snowdrift
+[10/20/2024 12:21]  Razor: Bandage: 3s
+[10/20/2024 12:21]  You see: a frostbane vicar corpse
+[10/20/2024 12:21]  You see: a mummy corpse
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  Razor: Bandage: 2s
+[10/20/2024 12:21]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:21]  Razor: Target queue cleared.
+[10/20/2024 12:21]  [Razor]: You are not holding anything.
+[10/20/2024 12:21]  [Razor]: New target set.
+[10/20/2024 12:21]  Razor: Target: a frostbane priest
+[10/20/2024 12:21]  a frostbane priest: a frostbane priest
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:21]  a frostbane priest: -136
+[10/20/2024 12:21]  a skeletal guardian: a skeletal guardian
+[10/20/2024 12:21]  [Razor]: Ignore List cleared
+[10/20/2024 12:21]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:21]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 51s)
+[10/20/2024 12:21]  Razor: *pacified 45s discord 1m 51s* a frostbane priest
+[10/20/2024 12:21]  Razor: Bandage: 1s
+[10/20/2024 12:21]  Razor: [+Start auto-heal]
+[10/20/2024 12:21]  System: You finish applying the bandages.
+[10/20/2024 12:21]  Ailiin: +29
+[10/20/2024 12:21]  System: Anatomy skillgain: 1.996%
+[10/20/2024 12:21]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:21]  a frostbane priest: -175
+[10/20/2024 12:21]  Ailiin: +0
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  Ailiin: +0
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  a frostbane priest: -175
+[10/20/2024 12:21]  Ailiin: +0
+[10/20/2024 12:21]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:21]  a frostbane priest: *restoration*
+[10/20/2024 12:21]  a frostbane priest: *restored*
+[10/20/2024 12:21]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:21]  System: Your magic resist potion has worn off.
+[10/20/2024 12:21]  Razor: Target: a frostbane priest
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  a frostbane priest: -250
+[10/20/2024 12:21]  System: Whom do you wish them to attack?
+[10/20/2024 12:21]  Razor: Target: a skeletal guardian
+[10/20/2024 12:21]  System: You play successfully, provoking your targets. (48s)
+[10/20/2024 12:21]  a frostbane priest: *looks furious*
+[10/20/2024 12:21]  a skeletal guardian: *looks furious*
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: -1
+[10/20/2024 12:21]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:21]  a skeletal guardian: -80
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a skeletal guardian: -100
+[10/20/2024 12:22]  a skeletal guardian: -32
+[10/20/2024 12:22]  Razor: Attack: a frostbane priest
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a frostbane priest: -270
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  a skeletal guardian: -22
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a frostbane priest: -132
+[10/20/2024 12:22]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:22]  Razor: Attack: a frostbane priest
+[10/20/2024 12:22]  a skeletal guardian: -22
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a frostbane priest: -117
+[10/20/2024 12:22]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:22]  Razor: Target: a frostbane priest
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: Whom do you wish them to attack?
+[10/20/2024 12:22]  Razor: Target: a skeletal guardian
+[10/20/2024 12:22]  System: You play successfully, provoking your targets. (56s)
+[10/20/2024 12:22]  a frostbane priest: *looks furious*
+[10/20/2024 12:22]  a skeletal guardian: *looks furious*
+[10/20/2024 12:22]  a frostbane priest: -21
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a skeletal guardian: -92
+[10/20/2024 12:22]  a frostbane priest: *restoration*
+[10/20/2024 12:22]  a skeletal guardian: *restored*
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  a skeletal guardian: -44
+[10/20/2024 12:22]  Razor: Attack: a frostbane priest
+[10/20/2024 12:22]  a skeletal guardian: -42
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a frostbane priest: -202
+[10/20/2024 12:22]  System: Your shot ricochets.
+[10/20/2024 12:22]  System: Your shot ricochets.
+[10/20/2024 12:22]  System: You have gained a good amount of fame.
+[10/20/2024 12:22]  System: You have gained a good amount of karma.
+[10/20/2024 12:22]  Ailiin: (Lyric Aspect 3,612.5/4000 xp)
+[10/20/2024 12:22]  System: -648
+[10/20/2024 12:22]  a frostbane priest: -1217
+[10/20/2024 12:22]  System: You have gained some fame.
+[10/20/2024 12:22]  System: You have gained some karma.
+[10/20/2024 12:22]  Ailiin: (Lyric Aspect 3,615.9/4000 xp)
+[10/20/2024 12:22]  System: -1216
+[10/20/2024 12:22]  You see: a frostbane priest corpse
+[10/20/2024 12:22]  You see: a skeleton guardian corpse
+[10/20/2024 12:22]  a frostbane priest: *raises the frozen dead*
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:22]  Razor: Target queue cleared.
+[10/20/2024 12:22]  [Razor]: You are not holding anything.
+[10/20/2024 12:22]  [Razor]: New target set.
+[10/20/2024 12:22]  Razor: Target: a frostbane priest
+[10/20/2024 12:22]  [Razor]: Ignore List cleared
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:22]  Razor: Attack: a frostbane priest
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:22]  a frostbane priest: -59
+[10/20/2024 12:22]  Razor: a frostbane priest
+[10/20/2024 12:22]  Razor: [+Start auto-heal]
+[10/20/2024 12:22]  a skeletal guardian: a skeletal guardian
+[10/20/2024 12:22]  a frostbane vicar: a frostbane vicar
+[10/20/2024 12:22]  a frostbane priest: a frostbane priest
+[10/20/2024 12:22]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:22]  Razor: Target queue cleared.
+[10/20/2024 12:22]  [Razor]: You are not holding anything.
+[10/20/2024 12:22]  [Razor]: New target set.
+[10/20/2024 12:22]  Razor: Target: a skeletal guardian
+[10/20/2024 12:22]  [Razor]: Ignore List cleared
+[10/20/2024 12:22]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a frostbane priest: -110
+[10/20/2024 12:22]  Razor: Attack: a skeletal guardian
+[10/20/2024 12:22]  Razor: a skeletal guardian
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  [Razor]: Queuing dragdrop request 1... 0.6 seconds left.
+[10/20/2024 12:22]  Razor: [+Start auto-heal]
+[10/20/2024 12:22]  Ailiin: -12
+[10/20/2024 12:22]  [Razor]: Queuing dragdrop request 1... 0.7 seconds left.
+[10/20/2024 12:22]  System: Who will you use the bandages on?
+[10/20/2024 12:22]  System: You begin applying the bandages.
+[10/20/2024 12:22]  Razor: Bandage: 7s
+[10/20/2024 12:22]  System: You must wait to perform another action.
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:22]  a skeletal guardian: -102
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  Razor: Bandage: 6s
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  Razor: Bandage: 5s
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  System: Your shot hinders your target!
+[10/20/2024 12:22]  a skeletal guardian: -123
+[10/20/2024 12:22]  Fanny w: [CN]
+[10/20/2024 12:22]  Fanny w: Fanny w
+[10/20/2024 12:22]  Razor: Bandage: 4s
+[10/20/2024 12:22]  a flamehound: (summoned)
+[10/20/2024 12:22]  a flamehound: a flamehound
+[10/20/2024 12:22]  Razor: [+Start PeaceNearest]
+[10/20/2024 12:22]  Razor: Target queue cleared.
+[10/20/2024 12:22]  [Razor]: You are not holding anything.
+[10/20/2024 12:22]  [Razor]: New target set.
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  [Razor]: Ignore List cleared
+[10/20/2024 12:22]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 12:22]  System: You play successfully, pacifying your target. (48s)
+[10/20/2024 12:22]  a skeletal guardian: *looks calmed*
+[10/20/2024 12:22]  Razor: Bandage: 3s
+[10/20/2024 12:22]  a frostbane vicar: *raises the frozen dead*
+[10/20/2024 12:22]  Razor: *pacified 48s* a skeletal guardian
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  Ailiin: -16
+[10/20/2024 12:22]  Razor: [+Start auto-heal]
+[10/20/2024 12:22]  [Razor]: Queuing dragdrop request 1... 0.6 seconds left.
+[10/20/2024 12:22]  Razor: Bandage: 2s
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:22]  a skeletal guardian: -136
+[10/20/2024 12:22]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/20/2024 12:22]  Razor: [+Start DiscordNearest]
+[10/20/2024 12:22]  Razor: Target queue cleared.
+[10/20/2024 12:22]  [Razor]: You are not holding anything.
+[10/20/2024 12:22]  [Razor]: New target set.
+[10/20/2024 12:22]  Razor: Target: a skeletal guardian
+[10/20/2024 12:22]  [Razor]: Ignore List cleared
+[10/20/2024 12:22]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:22]  Razor: Bandage: 1s
+[10/20/2024 12:22]  System: The world will save in 15 seconds.
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  Ailiin: -10
+[10/20/2024 12:22]  a skeletal fiend: a skeletal fiend
+[10/20/2024 12:22]  Razor: *pacified 46s* a skeletal guardian
+[10/20/2024 12:22]  Razor: [+Start auto-heal]
+[10/20/2024 12:22]  System: You finish applying the bandages.
+[10/20/2024 12:22]  Ailiin: +37
+[10/20/2024 12:22]  System: Anatomy skillgain: 1.996%
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  Ailiin: +0
+[10/20/2024 12:22]  an ice elemental: an ice elemental
+[10/20/2024 12:22]  Ailiin: +0
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a skeletal guardian: -209
+[10/20/2024 12:22]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:22]  a frostbane priest: *restoration*
+[10/20/2024 12:22]  a skeletal guardian: *restored*
+[10/20/2024 12:22]  Ailiin: -12
+[10/20/2024 12:22]  System: Who will you use the bandages on?
+[10/20/2024 12:22]  System: You begin applying the bandages.
+[10/20/2024 12:22]  Razor: Bandage: 7s
+[10/20/2024 12:22]  Ailiin: +7
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:22]  a skeletal guardian: -107
+[10/20/2024 12:22]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:22]  Razor: Bandage: 6s
+[10/20/2024 12:22]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:22]  Razor: Bandage: 5s
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  Ailiin: 50 arcane essence remaining.
+[10/20/2024 12:22]  a skeletal guardian: -148
+[10/20/2024 12:22]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:22]  Razor: Bandage: 3s
+[10/20/2024 12:22]  System: You must wait a few moments before you may provoke or pacify another creature.
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  Ailiin: -20
+[10/20/2024 12:22]  System: Your fingers slip!
+[10/20/2024 12:22]  System: You must wait a few moments to use another skill.
+[10/20/2024 12:22]  Razor: Bandage: 2s
+[10/20/2024 12:22]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:22]  a skeletal guardian: -150
+[10/20/2024 12:22]  Razor: Target: a snowdrift
+[10/20/2024 12:22]  System: That is too far away.
+[10/20/2024 12:22]  Razor: Bandage: 1s
+[10/20/2024 12:22]  Ailiin: -15
+[10/20/2024 12:22]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: You finish applying the bandages.
+[10/20/2024 12:22]  Ailiin: +39
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.016%
+[10/20/2024 12:22]  System: That is too far away.
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.160%
+[10/20/2024 12:22]  a skeletal guardian: -92
+[10/20/2024 12:22]  Razor: Attack: a skeletal guardian
+[10/20/2024 12:22]  Ailiin: +0
+[10/20/2024 12:22]  Razor: Attack: a skeletal guardian
+[10/20/2024 12:22]  Ailiin: +0
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:22]  a skeletal guardian: -102
+[10/20/2024 12:22]  Ailiin: +0
+[10/20/2024 12:22]  Ailiin: -21
+[10/20/2024 12:22]  System: Who will you use the bandages on?
+[10/20/2024 12:22]  System: You begin applying the bandages.
+[10/20/2024 12:22]  Razor: Bandage: 7s
+[10/20/2024 12:22]  System: You must wait to perform another action.
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  You see: a snow flurry corpse
+[10/20/2024 12:22]  System: The world is saving, please wait.
+[10/20/2024 12:22]  System: World save complete. The entire process took 2.6 seconds.
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:22]  System: Your shot hinders your target!
+[10/20/2024 12:22]  a skeletal guardian: -157
+[10/20/2024 12:22]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:22]  Razor: Bandage: 3s
+[10/20/2024 12:22]  a frostbane priest: *restoration*
+[10/20/2024 12:22]  a skeletal guardian: *restored*
+[10/20/2024 12:22]  Razor: Target: a frostbane priest
+[10/20/2024 12:22]  System: Whom do you wish them to attack?
+[10/20/2024 12:22]  Razor: Target: a snowdrift
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: Target cannot be seen.
+[10/20/2024 12:22]  Razor: Bandage: 2s
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.138%
+[10/20/2024 12:22]  a skeletal guardian: -75
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  a frostbane priest: a frostbane priest
+[10/20/2024 12:22]  Razor: Bandage: 1s
+[10/20/2024 12:22]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 12:22]  Razor: Target: a frostbane priest
+[10/20/2024 12:22]  System: Whom do you wish them to attack?
+[10/20/2024 12:22]  Razor: Target: a snowdrift
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: Target cannot be seen.
+[10/20/2024 12:22]  System: Who will you use the bandages on?
+[10/20/2024 12:22]  System: You begin applying the bandages.
+[10/20/2024 12:22]  Razor: Bandage: 7s
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a skeletal guardian: -115
+[10/20/2024 12:22]  System: Your shot ricochets.
+[10/20/2024 12:22]  System: Your shot ricochets.
+[10/20/2024 12:22]  System: You have gained some fame.
+[10/20/2024 12:22]  System: You have gained some karma.
+[10/20/2024 12:22]  Ailiin: (Lyric Aspect 3,619.4/4000 xp)
+[10/20/2024 12:22]  System: -284
+[10/20/2024 12:22]  a frostbane priest: -465
+[10/20/2024 12:22]  You see: a skeleton guardian corpse
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  Razor: Attack: a snowdrift
+[10/20/2024 12:22]  Razor: Bandage: 6s
+[10/20/2024 12:22]  Razor: Bandage: 5s
+[10/20/2024 12:22]  Razor: Attack: a frostbane priest
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.128%
+[10/20/2024 12:22]  a frostbane priest: -80
+[10/20/2024 12:22]  Ailiin: -20
+[10/20/2024 12:22]  System: Your fingers slip!
+[10/20/2024 12:22]  Razor: Bandage: 4s
+[10/20/2024 12:22]  Razor: Bandage: 3s
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.149%
+[10/20/2024 12:22]  System: You have gained a good amount of fame.
+[10/20/2024 12:22]  System: You have gained a good amount of karma.
+[10/20/2024 12:22]  Ailiin: (Lyric Aspect 3,627.9/4000 xp)
+[10/20/2024 12:22]  System: -69
+[10/20/2024 12:22]  You see: a frostbane priest corpse
+[10/20/2024 12:22]  Ailiin: -16
+[10/20/2024 12:22]  System: Your fingers slip!
+[10/20/2024 12:22]  Razor: Bandage: 2s
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  Razor: Bandage: 1s
+[10/20/2024 12:22]  System: You finish applying the bandages.
+[10/20/2024 12:22]  Ailiin: +55
+[10/20/2024 12:22]  System: Anatomy skillgain: 2.006%
+[10/20/2024 12:22]  [Razor]: Queuing dragdrop request 1... 0.8 seconds left.
+[10/20/2024 12:22]  Ailiin: +0
+[10/20/2024 12:22]  [Razor]: Queuing dragdrop request 1... 1.0 seconds left.
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  [Razor]: Queuing dragdrop request 1... 1.1 seconds left.
+[10/20/2024 12:22]  Ailiin: +0
+[10/20/2024 12:22]  a frostbane priest: a frostbane priest
+[10/20/2024 12:22]  System: That is too far away.
+[10/20/2024 12:22]  a frostbane priest: a frostbane priest
+[10/20/2024 12:22]  You see: a frostbane vicar corpse
+[10/20/2024 12:22]  a frostbane priest: a frostbane priest
+[10/20/2024 12:22]  Ailiin: +0
+[10/20/2024 12:22]  [Razor]: Queuing dragdrop request 1... 0.9 seconds left.
+[10/20/2024 12:22]  [Razor]: Queuing dragdrop request 1... 1.1 seconds left.
+[10/20/2024 12:22]  [Razor]: Queuing dragdrop request 2... 1.2 seconds left.
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: -1
+[10/20/2024 12:22]  System: 14° 3'N, 41° 45'W
+[10/20/2024 12:22]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[10/20/2024 12:22]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 12:22]  [Razor]: Finished 10 queued actions in 5.4 seconds.
+[10/20/2024 12:23]  System: You are now under the protection of the town guards.
+[10/20/2024 12:23]  a dog: a dog
+[10/20/2024 12:23]  a goat: a goat
+[10/20/2024 12:23]  Keara: Keara the stablemaster
+[10/20/2024 12:23]  Renee: Renee the stablemaster
+[10/20/2024 12:23]  Denton: Denton the innkeeper
+[10/20/2024 12:23]  Thurston: Thurston the waiter
+[10/20/2024 12:23]  a dog: a dog
+[10/20/2024 12:23]  a cat: a cat
+[10/20/2024 12:23]  Ailiin: Bank Vendor buy
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  Ailiin: Room
+[10/20/2024 12:23]  System: You have left the protection of the town guards.
+[10/20/2024 12:23]  System: You enter the rental room.
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: WorldMap loaded!
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 12:23]  [Razor]: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[10/20/2024 12:23]  [Razor]: Warning: Mandrake Root amount is now 0!
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  [Razor]: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  [Razor]: Queuing dragdrop request 1... 1.0 seconds left.
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  [Razor]: Finished 4 queued actions in 1.8 seconds.
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  You see: discipline phylactery
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  You see: an arcane scroll : 18
+[10/20/2024 12:23]  You see: an arcane scroll : 18
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  You see: arrow : 3
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:23]  System: -1
+[10/20/2024 12:24]  System: LlamaCub has completed the achievement: Monstrous Slayer (Basic).
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: Your Song of Provocation effect ends.
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: Emperor Nick V has completed the achievement: Alchemist (Basic).
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: Opening door...
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: You are now under the protection of the town guards.
+[10/20/2024 12:24]  System: You exit the rental room.
+[10/20/2024 12:24]  Hanan: Hanan the animal wrangler
+[10/20/2024 12:24]  Kama: Kama the creature broker
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  a goat: a goat
+[10/20/2024 12:24]  Keara: Keara the stablemaster
+[10/20/2024 12:24]  Renee: Renee the stablemaster
+[10/20/2024 12:24]  Denton: Denton the innkeeper
+[10/20/2024 12:24]  Thurston: Thurston the waiter
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  System: WorldMap loaded!
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  a goat: a goat
+[10/20/2024 12:24]  System: Opening door...
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  Dacey: Dacey the waiter
+[10/20/2024 12:24]  Callidora: Callidora the tavern keeper
+[10/20/2024 12:24]  a cat: a cat
+[10/20/2024 12:24]  System: Togepii has completed the achievement: Versatility (Advanced).
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  Ravi: Ravi the Town Crier
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  Donnelly: Donnelly the scribe
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  Brandi: Brandi the banker
+[10/20/2024 12:24]  Dacey: Dacey the waiter
+[10/20/2024 12:24]  Ailiin: Bank Vendor buy
+[10/20/2024 12:24]  Ailiin: Items: 37/125
+[10/20/2024 12:24]  Ailiin: Total Weight: 4,725
+[10/20/2024 12:24]  Ailiin: Room
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  [Razor]: Organize Agent queued 2 item(s) to be moved. (This may take a few moments)
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:24]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:24]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:24]  [Razor]: Finished 5 queued actions in 2.4 seconds.
+[10/20/2024 12:24]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  [Razor]: Organize Agent did not find any items to move.
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: Isaac Mendez has completed the achievement: Mini-Boss Slayer (Basic).
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  Dacey: Dacey the waiter
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  Callidora: Callidora the tavern keeper
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  Ravi: Get your very own Pumpkin Mask at Prevalia Bank, next to the Prevalian Merchant! BOO!
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  Donnelly: Donnelly the scribe
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  Thurston: Thurston the waiter
+[10/20/2024 12:24]  Denton: Denton the innkeeper
+[10/20/2024 12:24]  Renee: Renee the stablemaster
+[10/20/2024 12:24]  Keara: Keara the stablemaster
+[10/20/2024 12:24]  a goat: a goat
+[10/20/2024 12:24]  a dog: a dog
+[10/20/2024 12:24]  Ailiin: Bank Vendor buy
+[10/20/2024 12:24]  Kama: Kama the creature broker
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  Ailiin: Room
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: You have left the protection of the town guards.
+[10/20/2024 12:24]  System: You enter the rental room.
+[10/20/2024 12:24]  System: WorldMap loaded!
+[10/20/2024 12:24]  System: For next 15 seconds damage increased by 25% and can fire while moving
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:24]  System: -1
+[10/20/2024 12:25]  : wooden planks
+[10/20/2024 12:25]  Razor: [+Stop]
+[10/20/2024 12:25]  System: -1
+[10/20/2024 12:25]  System: -1
+[10/20/2024 12:25]  System: -1
+[10/20/2024 12:25]  System: -1
+[10/20/2024 12:25]  Razor: [+Stop]
+[10/20/2024 12:25]  Ailiin: [Ripe, SQzD]
+[10/20/2024 12:25]  Ailiin: Ailiin
+[10/20/2024 12:25]  System: -1
+[10/20/2024 12:25]  System: -1
+[10/20/2024 12:25]  System: -1

@@ -1,0 +1,83 @@
+
+
+@setvar! supply_chest 0x4BBF17F5
+@setvar! ammo_bag 0x63B4C088 
+
+#################################################################
+#############   SMART AMMO RESTOCK ##############################
+#################################################################
+
+dclick supply_chest
+wait 500
+dclick ammo_bag
+wait 500
+
+
+
+#"balestra" 
+if findtype 30993 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"bow" 
+if findtype 5042 backpack -1 -1 -1 as bow  
+    if findtype 3903 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"crossbow" 
+if findtype 3920 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"long bow" 
+if findtype 30990 backpack -1 -1 -1 as bow 
+    if findtype 3903 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"heavy crossbow" 
+if findtype 5117 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"composite bow" 
+if findtype 30994 backpack -1 -1 -1 as bow 
+    if findtype 3903 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"stubnose crossbow" 
+if findtype 31184 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"tower guard crossbow" 
+if findtype 31186 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"recurve bow" 
+if findtype 30995 backpack -1 -1 -1 as bow 
+    if findtype 3903 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+
+wait 1500
+
+menu 0x44891132 0

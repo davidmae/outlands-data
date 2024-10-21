@@ -110,11 +110,6 @@
 			<action code="1" subcode="0" submenutype="2" text="Black Market" />
 		</actions>
 	</macro>
-	<macro name="RestockBank" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
-		<actions>
-			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Restock Reagents" />
-		</actions>
-	</macro>
 	<macro name="CampingRecall" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\CampingRecall" />
@@ -282,6 +277,21 @@
 	<macro name="Shelter" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Mobility\Shelter" />
+		</actions>
+	</macro>
+	<macro name="Restock++" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Crafting-ItemHandling\Restock++" />
+		</actions>
+	</macro>
+	<macro name="RestockAgent" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Restock Reagents" />
+		</actions>
+	</macro>
+	<macro name="RestockAmmo" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Crafting-ItemHandling\RestockAmmo" />
 		</actions>
 	</macro>
 </macros>

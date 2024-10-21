@@ -1,0 +1,331 @@
+#removelist chests
+#createlist chests
+#
+#pushlist chests 0x4BBF4344
+#pushlist chests 0x4BBF17F5
+#
+#foreach chest in chests
+#    dclick chest
+#    wait 300
+
+
+@setvar! chest 0x4BBF4344
+@setvar! armor_bag 0x51BCA842
+@setvar! supply_chest 0x4BBF17F5
+@setvar! ammo_bag 0x63B4C088 
+
+dclick chest
+wait 500
+dclick armor_bag
+wait 500
+
+#################################################################
+#################### GET ARMOR FROM CHEST #######################
+#################################################################
+
+#platemail arms
+if findtype 5143 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#bascinet 
+if findtype 5132 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#close helm
+if findtype 5129 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#female platemail
+if findtype 7173 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#platemail gloves
+if findtype 5144 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#platemail gorget
+if findtype 5139 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#platemail helm
+if findtype 5138 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#platemail leggings
+if findtype 5146 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#platemail chest
+if findtype 5142 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#norse helm
+if findtype 5135 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#platemail skirt
+if findtype 7177 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+#platemail skirt
+if findtype 31008 armor_bag -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop backpack
+endif
+
+
+wait 500
+
+#################################################################
+#############   EQUIP ARMOR FROM BACKPACK #######################
+#################################################################
+
+#platemail arms
+if findtype 5143 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#bascinet 
+if findtype 5132 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#close helm
+if findtype 5129 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#female platemail
+if findtype 7173 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#platemail gloves
+if findtype 5144 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#platemail gorget
+if findtype 5139 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#platemail helm
+if findtype 5138 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#platemail leggings
+if findtype 5146 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#platemail chest
+if findtype 5142 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#norse helm
+if findtype 5135 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#platemail skirt
+if findtype 7177 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+#platemail skirt
+if findtype 31008 backpack -1 -1 -1 as gear
+    dclick gear
+    wait 250
+endif
+
+wait 500
+
+
+#################################################################
+#############   RETURN ARMOR TO CHEST ###########################
+#################################################################
+
+
+#platemail arms
+if findtype 5143 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#bascinet 
+if findtype 5132 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#close helm
+if findtype 5129 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#female platemail
+if findtype 7173 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#platemail gloves
+if findtype 5144 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#platemail gorget
+if findtype 5139 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#platemail helm
+if findtype 5138 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#platemail leggings
+if findtype 5146 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#platemail chest
+if findtype 5142 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#norse helm
+if findtype 5135 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#platemail skirt
+if findtype 7177 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+#platemail skirt
+if findtype 31008 backpack -1 -1 2 as gear
+    lift gear 1
+    wait 500
+    drop armor_bag
+endif
+
+
+wait 500
+
+#################################################################
+#############   SMART AMMO RESTOCK ##############################
+#################################################################
+
+dclick supply_chest
+wait 500
+dclick ammo_bag
+wait 500
+
+
+
+#"balestra" 
+if findtype 30993 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"bow" 
+if findtype 5042 backpack -1 -1 -1 as bow  
+    if findtype 3903 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"crossbow" 
+if findtype 3920 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"long bow" 
+if findtype 30990 backpack -1 -1 -1 as bow 
+    if findtype 3903 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"heavy crossbow" 
+if findtype 5117 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"composite bow" 
+if findtype 30994 backpack -1 -1 -1 as bow 
+    if findtype 3903 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"stubnose crossbow" 
+if findtype 31184 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"tower guard crossbow" 
+if findtype 31186 backpack -1 -1 -1 as bow 
+    if findtype 7163 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+#"recurve bow" 
+if findtype 30995 backpack -1 -1 -1 as bow 
+    if findtype 3903 ammo_bag -1 -1 -1 as ammo
+        lift ammo 200
+        drop backpack
+    endif
+endif
+
+
+#################################################################
+#############   RESTOCK AGENT EXECUTION #########################
+#################################################################
+
+restock 1

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="4" matrix_h="2">
+		<gump type="7" x="6" y="208" serial="1050" name="Stop" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="94" y="208" serial="0" id="38" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="94" y="208" serial="0" id="38" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="6" y="252" serial="1049" name="Minar" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="94" y="252" serial="1051" name="Fundir" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="3" matrix_h="1">
+		<gump type="7" x="702" y="360" serial="1044" name="DroopLoot" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="702" y="360" serial="1011" name="Bank" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="15" x="703" y="405" serial="0" id="29" matrix_x="0" matrix_y="0" />
+		<gump type="15" x="747" y="405" serial="0" id="32" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<gump type="9" x="541" y="1" serial="6890869" isminimized="False" />
+	<gump type="2" x="200" y="200" serial="1625778011" graphic="60" isminimized="False" iscarried="True" />
+	<gump type="5" x="378" y="283" serial="1" />
+	<gump type="27" x="550" y="478" serial="0" />
+	<gump type="5" x="183" y="2" serial="0" />
+	<gump type="24" x="457" y="3" serial="0" />
+	<gump type="1" x="210" y="24" serial="0" graphic="30079" direction="0" />
+	<gump type="3" x="429" y="452" serial="0" rows="2" columns="9" rectsize="40">
+		<controls>
+			<control graphic="7133" hue="0" />
+			<control graphic="7133" hue="2419" />
+			<control graphic="7133" hue="2406" />
+			<control graphic="7133" hue="2413" />
+			<control graphic="7133" hue="2418" />
+			<control graphic="7133" hue="2213" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="4148" hue="0" />
+			<control graphic="3980" hue="0" />
+			<control graphic="3973" hue="0" />
+			<control graphic="3981" hue="0" />
+			<control graphic="3972" hue="0" />
+			<control graphic="3962" hue="0" />
+			<control graphic="3976" hue="0" />
+			<control graphic="3963" hue="0" />
+			<control graphic="3974" hue="0" />
+			<control graphic="0" hue="0" />
+		</controls>
+	</gump>
+	<gump type="7" x="6" y="309" serial="1024" name="RestockBank" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="7" x="95" y="309" serial="1043" name="DropLootBank" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="18" x="-4" y="3" serial="0" />
+</gumps>

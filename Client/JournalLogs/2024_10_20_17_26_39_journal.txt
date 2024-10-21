@@ -1,0 +1,911 @@
+[10/20/2024 17:26]  System: WorldMap loading...
+[10/20/2024 17:26]  System: Loading WorldMap markers..
+[10/20/2024 17:26]  System: ..Banks_and_Healers.xml (39)
+[10/20/2024 17:26]  System: ..Dungeons.xml (13)
+[10/20/2024 17:26]  System: ..Dungeon_Gates.xml (392)
+[10/20/2024 17:26]  System: ..Healer_Caravans.xml (42)
+[10/20/2024 17:26]  System: ..Kings_Faire.xml (49)
+[10/20/2024 17:26]  System: ..Moongates.xml (10)
+[10/20/2024 17:26]  System: ..POI.xml (251)
+[10/20/2024 17:26]  System: ..PvP_Locations.xml (71)
+[10/20/2024 17:26]  System: ..Shrines.xml (9)
+[10/20/2024 17:26]  System: ..Sub-Dungeons.xml (4)
+[10/20/2024 17:26]  System: ..Townships.xml (10)
+[10/20/2024 17:26]  System: ..UOAM_Atlas.xml (1887)
+[10/20/2024 17:26]  System: ..UOAM_T-Map.xml (255)
+[10/20/2024 17:26]  System: ..UOAM_Treasure.xml (523)
+[10/20/2024 17:26]  System: WorldMap markers loaded (3555)
+[10/20/2024 17:26]  System: Welcome Fierro!
+[10/20/2024 17:26]  Razor: [- (s)]
+[10/20/2024 17:26]  Razor: [+Tracking Hunting (0s)]
+[10/20/2024 17:26]  Razor: [-Tracking Hunting (s)]
+[10/20/2024 17:26]  Fierro: Fierro
+[10/20/2024 17:26]  Ailiin: [Ripe, SQzD]
+[10/20/2024 17:26]  Ailiin: Ailiin
+[10/20/2024 17:26]  System: WorldMap loaded!
+[10/20/2024 17:26]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/20/2024 17:27]  You see: hatchet
+[10/20/2024 17:27]  You see: (234 uses remaining)
+[10/20/2024 17:27]  System: Your skill in Tactics has increased by 10.0.  It is now 16.8.
+[10/20/2024 17:27]  System: What do you want to use this item on?
+[10/20/2024 17:27]  System: You shape the logs into boards.
+[10/20/2024 17:27]  You see: rosewood board : 10
+[10/20/2024 17:27]  You see: shadowwood board : 16
+[10/20/2024 17:27]  System: Opening door...
+[10/20/2024 17:27]  System: Opening door...
+[10/20/2024 17:27]  You see: robe
+[10/20/2024 17:27]  System: Target arcane essence you wish to consume and add to this character.
+[10/20/2024 17:28]  System: You consume 27 arcane essence.
+[10/20/2024 17:28]  System: You are now under the effect of a Song of Peacemaking (5.4% healing amounts for 15 minutes).
+[10/20/2024 17:28]  Razor: [+Song of Peacemaking (900s)]
+[10/20/2024 17:28]  System: You are now under the effect of a Song of Discordance (5.4% reduced damage from creatures for 15 minutes).
+[10/20/2024 17:28]  Razor: [+Song of Discordance (900s)]
+[10/20/2024 17:28]  System: You are now under the effect of a Song of Provocation (+5.4% damage against creatures for 15 minutes).
+[10/20/2024 17:28]  Razor: [+Song of Provocation (900s)]
+[10/20/2024 17:28]  Ailiin: Kal Ort Por
+[10/20/2024 17:29]  System: Gruul Fire has completed the achievement: Versatility (Basic).
+[10/20/2024 17:29]  System: Flokisson has completed the achievement: Tailor (Epic).
+[10/20/2024 17:29]  System: Shadow Weaver has completed the achievement: Skill Proficiency (Advanced).
+[10/20/2024 17:29]  Ailiin: [Ripe, SQzD]
+[10/20/2024 17:29]  Ailiin: Ailiin
+[10/20/2024 17:31]  Ailiin: Kal Ort Por
+[10/20/2024 17:32]  System: SirSparHawk has completed the achievement: Animal Bond (Epic).
+[10/20/2024 17:32]  System: Opening door...
+[10/20/2024 17:32]  System: Opening door...
+[10/20/2024 17:32]  System: Opening door...
+[10/20/2024 17:32]  System: You are now under the protection of the town guards.
+[10/20/2024 17:32]  System: You exit the rental room.
+[10/20/2024 17:32]  a goat: a goat
+[10/20/2024 17:32]  Hanan: Hanan the animal wrangler
+[10/20/2024 17:32]  Kama: Kama the creature broker
+[10/20/2024 17:32]  a goat: a goat
+[10/20/2024 17:32]  Keara: Keara the stablemaster
+[10/20/2024 17:32]  Renee: Renee the stablemaster
+[10/20/2024 17:32]  a dog: a dog
+[10/20/2024 17:32]  Denton: Denton the innkeeper
+[10/20/2024 17:32]  Thurston: Thurston the waiter
+[10/20/2024 17:32]  a dog: a dog
+[10/20/2024 17:32]  System: Opening door...
+[10/20/2024 17:32]  System: Opening door...
+[10/20/2024 17:32]  System: WorldMap loaded!
+[10/20/2024 17:32]  Eleja: Lady Eleja
+[10/20/2024 17:32]  Dacey: Dacey the waiter
+[10/20/2024 17:32]  Callidora: Callidora the tavern keeper
+[10/20/2024 17:32]  a dog: a dog
+[10/20/2024 17:32]  a cat: a cat
+[10/20/2024 17:32]  a dog: a dog
+[10/20/2024 17:32]  a dog: a dog
+[10/20/2024 17:32]  Donnelly: Donnelly the scribe
+[10/20/2024 17:32]  Asta: Asta the mage
+[10/20/2024 17:32]  Ravi: Ravi the Town Crier
+[10/20/2024 17:32]  Bloempje: (bonded)
+[10/20/2024 17:32]  Bloempje: Bloempje
+[10/20/2024 17:32]  Poezel: (bonded)
+[10/20/2024 17:32]  Poezel: Poezel
+[10/20/2024 17:32]  Adena: Adena the alchemist
+[10/20/2024 17:32]  Lunt: Lunt the herbalist
+[10/20/2024 17:32]  System: The Minoc Syndicate (Syn) guild has reached prestige level 3773.
+[10/20/2024 17:32]  Razor: [+Start Minar]
+[10/20/2024 17:32]  [Razor]: Ignore List cleared
+[10/20/2024 17:32]  Razor: Target queue cleared.
+[10/20/2024 17:32]  Thurston: Thurston the waiter
+[10/20/2024 17:32]  System: Being perfectly rested, you shove them out of the way.
+[10/20/2024 17:32]  Alexander: Commando [Terran]
+[10/20/2024 17:32]  Alexander: [Ork]
+[10/20/2024 17:32]  Alexander: Alexander
+[10/20/2024 17:32]  System: What do you wish to track?
+[10/20/2024 17:32]  a cat: a cat
+[10/20/2024 17:32]  System: You will now hunt enemy players.
+[10/20/2024 17:32]  a dog: a dog
+[10/20/2024 17:32]  System: You will now hunt murderer players.
+[10/20/2024 17:32]  System: You will now hunt criminal players.
+[10/20/2024 17:32]  Squire Molly: Squire Molly the provider of vegetables
+[10/20/2024 17:32]  Daimler: Ranger [Terran]
+[10/20/2024 17:32]  Daimler: [EVIL]
+[10/20/2024 17:32]  Daimler: Daimler
+[10/20/2024 17:32]  System: You will now hunt innocent players.
+[10/20/2024 17:32]  System: You will now hunt friendly players.
+[10/20/2024 17:32]  System: You will now hunt aggressive creatures.
+[10/20/2024 17:32]  System: You will now hunt passive creatures.
+[10/20/2024 17:32]  System: You will now hunt townsfolk.
+[10/20/2024 17:32]  System: You will now hunt all players.
+[10/20/2024 17:32]  System: You will now hunt all hostile players.
+[10/20/2024 17:32]  Fierro: You begin hunting.
+[10/20/2024 17:32]  Razor: [+Tracking Hunting (0s)]
+[10/20/2024 17:32]  a crossbill: a crossbill
+[10/20/2024 17:32]  System: What do you want to use this item on?
+[10/20/2024 17:32]  System: Harvesting is not allowed in this area.
+[10/20/2024 17:32]  a wren: a wren
+[10/20/2024 17:32]  Bodo: Mythical Dungeon Curator
+[10/20/2024 17:32]  Bodo: [Not Bobo, NC]
+[10/20/2024 17:32]  Bodo: Lord Bodo
+[10/20/2024 17:32]  System: You have left the protection of the town guards.
+[10/20/2024 17:32]  a wren: a wren
+[10/20/2024 17:33]  a skylark: a skylark
+[10/20/2024 17:33]  System: What do you want to use this item on?
+[10/20/2024 17:33]  System: Captcha successful.
+[10/20/2024 17:33]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:33]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:33]  Fierro: (Harvest Aspect 428.4/500 xp)
+[10/20/2024 17:33]  Razor: [+Start Minar]
+[10/20/2024 17:33]  [Razor]: Ignore List cleared
+[10/20/2024 17:33]  Razor: Target queue cleared.
+[10/20/2024 17:33]  System: The world will save in 15 seconds.
+[10/20/2024 17:33]  System: What do you want to use this item on?
+[10/20/2024 17:33]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:33]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:33]  Fierro: (Harvest Aspect 429.4/500 xp)
+[10/20/2024 17:33]  Razor: |> log : 12 <|
+[10/20/2024 17:33]  System: What do you want to use this item on?
+[10/20/2024 17:33]  Bodo: Mythical Dungeon Curator
+[10/20/2024 17:33]  Bodo: [Not Bobo, NC]
+[10/20/2024 17:33]  Bodo: Lord Bodo
+[10/20/2024 17:33]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:33]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:33]  Fierro: (Harvest Aspect 430.6/500 xp)
+[10/20/2024 17:33]  Razor: |> log : 18 <|
+[10/20/2024 17:33]  System: What do you want to use this item on?
+[10/20/2024 17:33]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:33]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:33]  System: The world is saving, please wait.
+[10/20/2024 17:33]  System: World save complete. The entire process took 2.7 seconds.
+[10/20/2024 17:33]  Razor: *** Resource depleted ***
+[10/20/2024 17:33]  System: What do you want to use this item on?
+[10/20/2024 17:33]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:33]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:33]  System: YoshiHiro has completed the achievement: Monstrous Slayer (Basic).
+[10/20/2024 17:33]  System: Bestia has completed the achievement: Triggered (Basic).
+[10/20/2024 17:33]  Razor: *** Resource depleted ***
+[10/20/2024 17:33]  System: What do you want to use this item on?
+[10/20/2024 17:33]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:33]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:33]  Razor: *** Resource depleted ***
+[10/20/2024 17:33]  System: What do you want to use this item on?
+[10/20/2024 17:33]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:33]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:33]  Razor: *** Resource depleted ***
+[10/20/2024 17:33]  System: What do you want to use this item on?
+[10/20/2024 17:33]  System: Shane Gillis has completed the achievement: Transmutation (Advanced).
+[10/20/2024 17:33]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:33]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 13.7.
+[10/20/2024 17:33]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 89.9.
+[10/20/2024 17:33]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:33]  Fierro: (Harvest Aspect 432.0/500 xp)
+[10/20/2024 17:33]  Razor: |> log : 25 <|
+[10/20/2024 17:33]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:34]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:34]  Fierro: (Harvest Aspect 433.0/500 xp)
+[10/20/2024 17:34]  Razor: |> log : 30 <|
+[10/20/2024 17:34]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:34]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[10/20/2024 17:34]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:34]  System: You chop some dullwood logs and put them in your backpack.
+[10/20/2024 17:34]  Fierro: (Harvest Aspect 434.2/500 xp)
+[10/20/2024 17:34]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:34]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:34]  Fierro: (Harvest Aspect 436.2/500 xp)
+[10/20/2024 17:34]  Razor: |> log : 40 <|
+[10/20/2024 17:34]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:34]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:34]  Fierro: (Harvest Aspect 437.6/500 xp)
+[10/20/2024 17:34]  Razor: |> log : 47 <|
+[10/20/2024 17:34]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:34]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:34]  Razor: *** Resource depleted ***
+[10/20/2024 17:34]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:34]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:34]  System: B'y has completed the achievement: Scribe (Advanced).
+[10/20/2024 17:34]  Razor: *** Resource depleted ***
+[10/20/2024 17:34]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:34]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:34]  Razor: *** Resource depleted ***
+[10/20/2024 17:34]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:34]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:34]  Razor: *** Resource depleted ***
+[10/20/2024 17:34]  System: What do you want to use this item on?
+[10/20/2024 17:34]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:34]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:35]  System: Kaalia has completed the achievement: Echosmith (Advanced).
+[10/20/2024 17:35]  Razor: *** Resource depleted ***
+[10/20/2024 17:35]  System: What do you want to use this item on?
+[10/20/2024 17:35]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:35]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:35]  Razor: *** Resource depleted ***
+[10/20/2024 17:35]  System: What do you want to use this item on?
+[10/20/2024 17:35]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:35]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:35]  Fierro: (Harvest Aspect 439.4/500 xp)
+[10/20/2024 17:35]  Razor: |> log : 56 <|
+[10/20/2024 17:35]  System: What do you want to use this item on?
+[10/20/2024 17:35]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:35]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:35]  Fierro: (Harvest Aspect 441.2/500 xp)
+[10/20/2024 17:35]  Razor: |> log : 65 <|
+[10/20/2024 17:35]  System: What do you want to use this item on?
+[10/20/2024 17:35]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:35]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:35]  Fierro: (Harvest Aspect 442.6/500 xp)
+[10/20/2024 17:35]  Razor: |> log : 72 <|
+[10/20/2024 17:35]  System: What do you want to use this item on?
+[10/20/2024 17:35]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:35]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:35]  Fierro: (Harvest Aspect 444.4/500 xp)
+[10/20/2024 17:35]  Razor: |> log : 81 <|
+[10/20/2024 17:35]  System: What do you want to use this item on?
+[10/20/2024 17:35]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:35]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:35]  Razor: *** Resource depleted ***
+[10/20/2024 17:35]  System: What do you want to use this item on?
+[10/20/2024 17:35]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:35]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:35]  Razor: *** Resource depleted ***
+[10/20/2024 17:35]  System: What do you want to use this item on?
+[10/20/2024 17:35]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:35]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:35]  Razor: *** Resource depleted ***
+[10/20/2024 17:35]  System: What do you want to use this item on?
+[10/20/2024 17:35]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:35]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:36]  Gnomish Goods: Gnomish Goods
+[10/20/2024 17:36]  Razor: *** Resource depleted ***
+[10/20/2024 17:36]  System: What do you want to use this item on?
+[10/20/2024 17:36]  System: with a nice Butt has completed the achievement: Omni Slayer (Advanced).
+[10/20/2024 17:36]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:36]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:36]  Fierro: (Harvest Aspect 446.4/500 xp)
+[10/20/2024 17:36]  Razor: |> log : 91 <|
+[10/20/2024 17:36]  System: What do you want to use this item on?
+[10/20/2024 17:36]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:36]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:36]  Fierro: (Harvest Aspect 447.8/500 xp)
+[10/20/2024 17:36]  Razor: |> log : 98 <|
+[10/20/2024 17:36]  System: What do you want to use this item on?
+[10/20/2024 17:36]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:36]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:36]  Fierro: (Harvest Aspect 449.8/500 xp)
+[10/20/2024 17:36]  Razor: |> log : 108 <|
+[10/20/2024 17:36]  System: What do you want to use this item on?
+[10/20/2024 17:36]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:36]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:36]  Fierro: (Harvest Aspect 450.8/500 xp)
+[10/20/2024 17:36]  Razor: |> log : 113 <|
+[10/20/2024 17:36]  System: What do you want to use this item on?
+[10/20/2024 17:36]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:36]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:36]  Fierro: (Harvest Aspect 451.8/500 xp)
+[10/20/2024 17:36]  Razor: |> log : 118 <|
+[10/20/2024 17:36]  System: What do you want to use this item on?
+[10/20/2024 17:36]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:36]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:36]  Fierro: (Harvest Aspect 453.2/500 xp)
+[10/20/2024 17:36]  Razor: |> log : 125 <|
+[10/20/2024 17:36]  System: What do you want to use this item on?
+[10/20/2024 17:36]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:36]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[10/20/2024 17:36]  System: What do you want to use this item on?
+[10/20/2024 17:36]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:36]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:36]  Fierro: (Harvest Aspect 455.0/500 xp)
+[10/20/2024 17:36]  Razor: |> log : 134 <|
+[10/20/2024 17:36]  System: What do you want to use this item on?
+[10/20/2024 17:36]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:36]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:37]  Razor: *** Resource depleted ***
+[10/20/2024 17:37]  System: What do you want to use this item on?
+[10/20/2024 17:37]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:37]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:37]  Razor: *** Resource depleted ***
+[10/20/2024 17:37]  System: What do you want to use this item on?
+[10/20/2024 17:37]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:37]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:37]  Razor: *** Resource depleted ***
+[10/20/2024 17:37]  System: What do you want to use this item on?
+[10/20/2024 17:37]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:37]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:37]  Razor: *** Resource depleted ***
+[10/20/2024 17:37]  System: What do you want to use this item on?
+[10/20/2024 17:37]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:37]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:37]  Razor: *** Resource depleted ***
+[10/20/2024 17:37]  System: What do you want to use this item on?
+[10/20/2024 17:37]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:37]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:37]  Razor: *** Resource depleted ***
+[10/20/2024 17:37]  System: What do you want to use this item on?
+[10/20/2024 17:37]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:37]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:37]  Razor: *** Resource depleted ***
+[10/20/2024 17:37]  System: What do you want to use this item on?
+[10/20/2024 17:37]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:37]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:37]  Razor: *** Resource depleted ***
+[10/20/2024 17:37]  System: What do you want to use this item on?
+[10/20/2024 17:37]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:37]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:37]  Fierro: (Harvest Aspect 458.2/500 xp)
+[10/20/2024 17:37]  Razor: |> log : 150 <|
+[10/20/2024 17:37]  System: Suicidal Monkey has completed the achievement: Monstrous Slayer (Basic).
+[10/20/2024 17:37]  System: What do you want to use this item on?
+[10/20/2024 17:37]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:37]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:37]  Fierro: (Harvest Aspect 459.4/500 xp)
+[10/20/2024 17:37]  Razor: |> log : 156 <|
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: Kvetoslav has completed the achievement: Artificers Enclave Initiate.
+[10/20/2024 17:38]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:38]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:38]  Fierro: (Harvest Aspect 460.6/500 xp)
+[10/20/2024 17:38]  Razor: |> log : 162 <|
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: Lumberjacking skillgain: 7.236%
+[10/20/2024 17:38]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 13.6.
+[10/20/2024 17:38]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 90.0.
+[10/20/2024 17:38]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:38]  Fierro: (Harvest Aspect 462.4/500 xp)
+[10/20/2024 17:38]  Razor: |> log : 171 <|
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:38]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:38]  Fierro: (Harvest Aspect 464.0/500 xp)
+[10/20/2024 17:38]  Razor: |> log : 179 <|
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:38]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:38]  Fierro: (Harvest Aspect 465.6/500 xp)
+[10/20/2024 17:38]  Razor: |> log : 187 <|
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:38]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:38]  Razor: *** Resource depleted ***
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:38]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:38]  Razor: *** Resource depleted ***
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:38]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:38]  Razor: *** Resource depleted ***
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:38]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:38]  Razor: *** Resource depleted ***
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:38]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:38]  Razor: *** Resource depleted ***
+[10/20/2024 17:38]  System: What do you want to use this item on?
+[10/20/2024 17:38]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:38]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:39]  Razor: *** Resource depleted ***
+[10/20/2024 17:39]  System: What do you want to use this item on?
+[10/20/2024 17:39]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:39]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:39]  Razor: *** Resource depleted ***
+[10/20/2024 17:39]  System: What do you want to use this item on?
+[10/20/2024 17:39]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:39]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:39]  Razor: *** Resource depleted ***
+[10/20/2024 17:39]  System: What do you want to use this item on?
+[10/20/2024 17:39]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:39]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:39]  Razor: *** Resource depleted ***
+[10/20/2024 17:39]  System: What do you want to use this item on?
+[10/20/2024 17:39]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:39]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:39]  Razor: *** Resource depleted ***
+[10/20/2024 17:39]  System: What do you want to use this item on?
+[10/20/2024 17:39]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:39]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:39]  Razor: *** Resource depleted ***
+[10/20/2024 17:39]  System: Ituralde has completed the achievement: Weaponmastery (Basic).
+[10/20/2024 17:39]  System: What do you want to use this item on?
+[10/20/2024 17:39]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:39]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:39]  Razor: *** Resource depleted ***
+[10/20/2024 17:39]  System: What do you want to use this item on?
+[10/20/2024 17:39]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:39]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:39]  Razor: *** Resource depleted ***
+[10/20/2024 17:39]  System: What do you want to use this item on?
+[10/20/2024 17:39]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:39]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:39]  Razor: *** Resource depleted ***
+[10/20/2024 17:39]  System: What do you want to use this item on?
+[10/20/2024 17:39]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:39]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:40]  Razor: *** Resource depleted ***
+[10/20/2024 17:40]  System: What do you want to use this item on?
+[10/20/2024 17:40]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:40]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:40]  Razor: *** Resource depleted ***
+[10/20/2024 17:40]  System: What do you want to use this item on?
+[10/20/2024 17:40]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:40]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:40]  Razor: *** Resource depleted ***
+[10/20/2024 17:40]  System: What do you want to use this item on?
+[10/20/2024 17:40]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:40]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:40]  Razor: *** Resource depleted ***
+[10/20/2024 17:40]  System: What do you want to use this item on?
+[10/20/2024 17:40]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:40]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:40]  Razor: *** Resource depleted ***
+[10/20/2024 17:40]  System: What do you want to use this item on?
+[10/20/2024 17:40]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:40]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:40]  Razor: *** Resource depleted ***
+[10/20/2024 17:40]  System: What do you want to use this item on?
+[10/20/2024 17:40]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:40]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:40]  Razor: *** Resource depleted ***
+[10/20/2024 17:40]  System: What do you want to use this item on?
+[10/20/2024 17:40]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:40]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:40]  Razor: *** Resource depleted ***
+[10/20/2024 17:40]  System: What do you want to use this item on?
+[10/20/2024 17:40]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:40]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:40]  Razor: *** Resource depleted ***
+[10/20/2024 17:40]  System: What do you want to use this item on?
+[10/20/2024 17:40]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:40]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:41]  Razor: *** Resource depleted ***
+[10/20/2024 17:41]  System: What do you want to use this item on?
+[10/20/2024 17:41]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:41]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:41]  Gnomish Goods: Gnomish Goods
+[10/20/2024 17:41]  a skylark: a skylark
+[10/20/2024 17:41]  a skylark: a skylark
+[10/20/2024 17:41]  Razor: *** Resource depleted ***
+[10/20/2024 17:41]  System: What do you want to use this item on?
+[10/20/2024 17:41]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:41]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:41]  Fierro: (Harvest Aspect 466.8/500 xp)
+[10/20/2024 17:41]  Razor: |> log : 193 <|
+[10/20/2024 17:41]  System: What do you want to use this item on?
+[10/20/2024 17:41]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:41]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:41]  Fierro: (Harvest Aspect 468.6/500 xp)
+[10/20/2024 17:41]  System: Dafadill has completed the achievement: Scribe (Basic).
+[10/20/2024 17:41]  Razor: |> log : 202 <|
+[10/20/2024 17:41]  System: What do you want to use this item on?
+[10/20/2024 17:41]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:41]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:41]  Fierro: (Harvest Aspect 470.2/500 xp)
+[10/20/2024 17:41]  Razor: |> log : 210 <|
+[10/20/2024 17:41]  System: What do you want to use this item on?
+[10/20/2024 17:41]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:41]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:41]  Fierro: (Harvest Aspect 471.4/500 xp)
+[10/20/2024 17:41]  Razor: |> log : 216 <|
+[10/20/2024 17:41]  System: What do you want to use this item on?
+[10/20/2024 17:41]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:41]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:41]  Razor: *** Resource depleted ***
+[10/20/2024 17:41]  System: What do you want to use this item on?
+[10/20/2024 17:41]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:41]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:41]  Razor: *** Resource depleted ***
+[10/20/2024 17:41]  System: What do you want to use this item on?
+[10/20/2024 17:41]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:41]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:41]  Razor: *** Resource depleted ***
+[10/20/2024 17:41]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:42]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:42]  Fierro: (Harvest Aspect 473.4/500 xp)
+[10/20/2024 17:42]  Razor: |> log : 226 <|
+[10/20/2024 17:42]  Sin Jealousy: [AK47]
+[10/20/2024 17:42]  Sin Jealousy: Sin Jealousy
+[10/20/2024 17:42]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:42]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:42]  Fierro: (Harvest Aspect 474.4/500 xp)
+[10/20/2024 17:42]  Razor: |> log : 231 <|
+[10/20/2024 17:42]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:42]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:42]  Fierro: (Harvest Aspect 476.0/500 xp)
+[10/20/2024 17:42]  Razor: |> log : 239 <|
+[10/20/2024 17:42]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:42]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:42]  Fierro: (Harvest Aspect 480.0/500 xp)
+[10/20/2024 17:42]  Razor: |> log : 259 <|
+[10/20/2024 17:42]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:42]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:42]  Razor: *** Resource depleted ***
+[10/20/2024 17:42]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:42]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:42]  Good Guy Gucci: Legend of Aspects
+[10/20/2024 17:42]  Good Guy Gucci: [HiTi]
+[10/20/2024 17:42]  Good Guy Gucci: Lord Good Guy Gucci
+[10/20/2024 17:42]  Razor: *** Resource depleted ***
+[10/20/2024 17:42]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:42]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:42]  Razor: *** Resource depleted ***
+[10/20/2024 17:42]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:42]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:42]  Razor: *** Resource depleted ***
+[10/20/2024 17:42]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:42]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:42]  Razor: *** Resource depleted ***
+[10/20/2024 17:42]  System: What do you want to use this item on?
+[10/20/2024 17:42]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:42]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:43]  Razor: *** Resource depleted ***
+[10/20/2024 17:43]  System: What do you want to use this item on?
+[10/20/2024 17:43]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:43]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:43]  Razor: *** Resource depleted ***
+[10/20/2024 17:43]  System: What do you want to use this item on?
+[10/20/2024 17:43]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:43]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:43]  Razor: *** Resource depleted ***
+[10/20/2024 17:43]  System: What do you want to use this item on?
+[10/20/2024 17:43]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:43]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:43]  Razor: *** Resource depleted ***
+[10/20/2024 17:43]  System: Your Song of Peacemaking effect ends.
+[10/20/2024 17:43]  Razor: [-Song of Peacemaking (s)]
+[10/20/2024 17:43]  System: What do you want to use this item on?
+[10/20/2024 17:43]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:43]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:43]  Razor: *** Resource depleted ***
+[10/20/2024 17:43]  System: What do you want to use this item on?
+[10/20/2024 17:43]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:43]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:43]  Razor: *** Resource depleted ***
+[10/20/2024 17:43]  System: Your Song of Discordance effect ends.
+[10/20/2024 17:43]  Razor: [-Song of Discordance (s)]
+[10/20/2024 17:43]  System: What do you want to use this item on?
+[10/20/2024 17:43]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:43]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:43]  Razor: *** Resource depleted ***
+[10/20/2024 17:43]  System: What do you want to use this item on?
+[10/20/2024 17:43]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:43]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:43]  System: Your Song of Provocation effect ends.
+[10/20/2024 17:43]  Razor: [-Song of Provocation (s)]
+[10/20/2024 17:43]  Razor: *** Resource depleted ***
+[10/20/2024 17:43]  System: What do you want to use this item on?
+[10/20/2024 17:43]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:43]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:43]  Razor: *** Resource depleted ***
+[10/20/2024 17:43]  System: What do you want to use this item on?
+[10/20/2024 17:43]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:43]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  Razor: *** Resource depleted ***
+[10/20/2024 17:44]  System: What do you want to use this item on?
+[10/20/2024 17:44]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:44]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  Razor: *** Resource depleted ***
+[10/20/2024 17:44]  System: What do you want to use this item on?
+[10/20/2024 17:44]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:44]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  Razor: *** Resource depleted ***
+[10/20/2024 17:44]  System: a thousand has completed the achievement: Order of Armorers Dignitary.
+[10/20/2024 17:44]  System: What do you want to use this item on?
+[10/20/2024 17:44]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:44]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  Razor: *** Resource depleted ***
+[10/20/2024 17:44]  System: What do you want to use this item on?
+[10/20/2024 17:44]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:44]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  Razor: *** Resource depleted ***
+[10/20/2024 17:44]  System: What do you want to use this item on?
+[10/20/2024 17:44]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:44]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  Razor: *** Resource depleted ***
+[10/20/2024 17:44]  System: What do you want to use this item on?
+[10/20/2024 17:44]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:44]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  Razor: *** Resource depleted ***
+[10/20/2024 17:44]  System: What do you want to use this item on?
+[10/20/2024 17:44]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:44]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  Razor: *** Resource depleted ***
+[10/20/2024 17:44]  System: What do you want to use this item on?
+[10/20/2024 17:44]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:44]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  SivUO: SivUO the battle trainer
+[10/20/2024 17:44]  Razor: *** Resource depleted ***
+[10/20/2024 17:44]  System: What do you want to use this item on?
+[10/20/2024 17:44]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:44]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:44]  a crow: a crow
+[10/20/2024 17:44]  a hind: a hind
+[10/20/2024 17:44]  JERMAINE: JERMAINE
+[10/20/2024 17:45]  Razor: *** Resource depleted ***
+[10/20/2024 17:45]  System: What do you want to use this item on?
+[10/20/2024 17:45]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:45]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 13.5.
+[10/20/2024 17:45]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 90.1.
+[10/20/2024 17:45]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[10/20/2024 17:45]  System: What do you want to use this item on?
+[10/20/2024 17:45]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:45]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:45]  Fierro: (Harvest Aspect 482.0/500 xp)
+[10/20/2024 17:45]  Razor: |> log : 269 <|
+[10/20/2024 17:45]  System: What do you want to use this item on?
+[10/20/2024 17:45]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:45]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:45]  Fierro: (Harvest Aspect 483.8/500 xp)
+[10/20/2024 17:45]  Razor: |> log : 278 <|
+[10/20/2024 17:45]  System: What do you want to use this item on?
+[10/20/2024 17:45]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:45]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:45]  Fierro: (Harvest Aspect 485.6/500 xp)
+[10/20/2024 17:45]  Razor: |> log : 287 <|
+[10/20/2024 17:45]  System: What do you want to use this item on?
+[10/20/2024 17:45]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:45]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:45]  Fierro: (Harvest Aspect 486.8/500 xp)
+[10/20/2024 17:45]  Razor: |> log : 293 <|
+[10/20/2024 17:45]  System: What do you want to use this item on?
+[10/20/2024 17:45]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:45]  System: You chop some copperwood logs and put them in your backpack.
+[10/20/2024 17:45]  Fierro: (Harvest Aspect 488.0/500 xp)
+[10/20/2024 17:45]  System: What do you want to use this item on?
+[10/20/2024 17:45]  System: [CCC] A Corpse Creek Contest will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/20/2024 17:45]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:45]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 13.4.
+[10/20/2024 17:45]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 90.2.
+[10/20/2024 17:45]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:45]  Fierro: (Harvest Aspect 489.0/500 xp)
+[10/20/2024 17:45]  Razor: |> log : 298 <|
+[10/20/2024 17:45]  System: What do you want to use this item on?
+[10/20/2024 17:45]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:45]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:45]  Razor: *** Resource depleted ***
+[10/20/2024 17:45]  System: What do you want to use this item on?
+[10/20/2024 17:45]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:45]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:45]  System: Lumicide has completed the achievement: Connoisseur (Basic).
+[10/20/2024 17:45]  Razor: *** Resource depleted ***
+[10/20/2024 17:46]  System: What do you want to use this item on?
+[10/20/2024 17:46]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:46]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:46]  Razor: *** Resource depleted ***
+[10/20/2024 17:46]  System: What do you want to use this item on?
+[10/20/2024 17:46]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:46]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:46]  Razor: *** Resource depleted ***
+[10/20/2024 17:46]  120 Carpenter: 120 Carpenter
+[10/20/2024 17:46]  N of Terran Moongate: N of Terran Moongate
+[10/20/2024 17:46]  System: What do you want to use this item on?
+[10/20/2024 17:46]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:46]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:46]  Fierro: (Harvest Aspect 490.8/500 xp)
+[10/20/2024 17:46]  Razor: |> log : 307 <|
+[10/20/2024 17:46]  System: What do you want to use this item on?
+[10/20/2024 17:46]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:46]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:46]  Fierro: (Harvest Aspect 494.8/500 xp)
+[10/20/2024 17:46]  Razor: |> log : 327 <|
+[10/20/2024 17:46]  System: What do you want to use this item on?
+[10/20/2024 17:46]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:46]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 13.3.
+[10/20/2024 17:46]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 90.3.
+[10/20/2024 17:46]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:46]  Fierro: (Harvest Aspect 497.2/500 xp)
+[10/20/2024 17:46]  Razor: |> log : 339 <|
+[10/20/2024 17:46]  System: What do you want to use this item on?
+[10/20/2024 17:46]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:46]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:46]  Razor: *** Resource depleted ***
+[10/20/2024 17:46]  DOUBLOONS HERE: DOUBLOONS HERE
+[10/20/2024 17:46]  System: What do you want to use this item on?
+[10/20/2024 17:46]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:46]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:46]  JERMAINE: JERMAINE
+[10/20/2024 17:46]  WHAT I GOT: WHAT I GOT
+[10/20/2024 17:46]  Razor: *** Resource depleted ***
+[10/20/2024 17:46]  System: What do you want to use this item on?
+[10/20/2024 17:46]  System: You must wait to perform another action.
+[10/20/2024 17:46]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:46]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:46]  : cedar tree
+[10/20/2024 17:46]  Razor: *** Resource depleted ***
+[10/20/2024 17:46]  Razor: [+Start Minar]
+[10/20/2024 17:46]  [Razor]: Ignore List cleared
+[10/20/2024 17:46]  Razor: Target queue cleared.
+[10/20/2024 17:46]  CHEAPstuff Restocked: CHEAPstuff Restocked
+[10/20/2024 17:46]  a brown bear: a brown bear
+[10/20/2024 17:46]  a black bear: a black bear
+[10/20/2024 17:46]  Occlos: Occlos
+[10/20/2024 17:46]  HARROLD POTTERS SHOP: HARROLD POTTERS SHOP
+[10/20/2024 17:46]  INGOTS/BOARDS/RARES: INGOTS/BOARDS/RARES
+[10/20/2024 17:46]  Ith4n: Ith4n
+[10/20/2024 17:46]  Gayle: Gayle
+[10/20/2024 17:46]  The Cardinal: The Cardinal
+[10/20/2024 17:46]  Cheap AF: Cheap AF
+[10/20/2024 17:46]  T A M A D A: T A M A D A
+[10/20/2024 17:46]  Ker: Ker
+[10/20/2024 17:46]  The Purple Bandit: The Purple Bandit
+[10/20/2024 17:46]  Pot o' Gold: Pot o' Gold
+[10/20/2024 17:46]  The Looted Booty: The Looted Booty
+[10/20/2024 17:46]  SKILL SCROLLS: SKILL SCROLLS
+[10/20/2024 17:46]  GOONIES GOODS: GOONIES GOODS
+[10/20/2024 17:46]  Cheap Cores: Cheap Cores
+[10/20/2024 17:46]  ostrichelperxd: ostrichelperxd
+[10/20/2024 17:46]  Kateb: Kateb
+[10/20/2024 17:46]  Jiro: Jiro
+[10/20/2024 17:46]  Discount Dungeon: Discount Dungeon
+[10/20/2024 17:46]  HighEnd ITEMS!!!!!: HighEnd ITEMS!!!!!
+[10/20/2024 17:46]  The Looted Booty II: The Looted Booty II
+[10/20/2024 17:46]  Marina: Marina
+[10/20/2024 17:46]  hi dudes: hi dudes
+[10/20/2024 17:46]  REFORGE TOOLS: REFORGE TOOLS
+[10/20/2024 17:46]  IIOOOIIOOOII: IIOOOIIOOOII
+[10/20/2024 17:46]  Crodie: Crodie
+[10/20/2024 17:46]  System: What do you want to use this item on?
+[10/20/2024 17:46]  The Love Shack: The Love Shack
+[10/20/2024 17:46]  Alim: Alim
+[10/20/2024 17:46]  Zian: Zian
+[10/20/2024 17:46]  BOLTS & ARROWS: BOLTS & ARROWS
+[10/20/2024 17:46]  MELLOWEED LEAVES: MELLOWEED LEAVES
+[10/20/2024 17:46]  Codexes-Links-Cores: Codexes-Links-Cores
+[10/20/2024 17:46]  Buy Here PAPI!: Buy Here PAPI!
+[10/20/2024 17:46]  - ATO -: - ATO -
+[10/20/2024 17:46]  REAGENTS: REAGENTS
+[10/20/2024 17:46]  DOOBIE DEALS: DOOBIE DEALS
+[10/20/2024 17:46]  Random Goods: Random Goods
+[10/20/2024 17:46]  BULK REGS & SCROLLS: BULK REGS & SCROLLS
+[10/20/2024 17:46]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:46]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:46]  Marcucci Pse: Marcucci Pse
+[10/20/2024 17:46]  T8 MAPS: T8 MAPS
+[10/20/2024 17:46]  Scribe Books Scrolls: Scribe Books Scrolls
+[10/20/2024 17:46]  Wellcomm: Wellcomm
+[10/20/2024 17:46]  Amazon Shop: Amazon Shop
+[10/20/2024 17:46]  Mystic Apothecary: Mystic Apothecary
+[10/20/2024 17:46]  ! ALWAYS GOODS !: ! ALWAYS GOODS !
+[10/20/2024 17:46]  Windir's Vendor: Windir's Vendor
+[10/20/2024 17:46]  Speshul Ed @ 1CE: Speshul Ed @ 1CE
+[10/20/2024 17:46]  !AAA GOOD SHIT!: !AAA GOOD SHIT!
+[10/20/2024 17:46]  ON SALE CHEST! CORES: ON SALE CHEST! CORES
+[10/20/2024 17:46]  The everything shop: The everything shop
+[10/20/2024 17:46]  New Good Stuff: New Good Stuff
+[10/20/2024 17:46]  Deanomyte: Deanomyte
+[10/20/2024 17:46]  ----LEATHER&WOOD----: ----LEATHER&WOOD----
+[10/20/2024 17:46]  POTION KEGS: POTION KEGS
+[10/20/2024 17:46]  IRON SETS + WEAPONS: IRON SETS + WEAPONS
+[10/20/2024 17:46]  Haldis: Haldis
+[10/20/2024 17:46]  *DUNGEON LOOT*: *DUNGEON LOOT*
+[10/20/2024 17:46]  X MISC X: X MISC X
+[10/20/2024 17:46]  ---CONCEITED---: ---CONCEITED---
+[10/20/2024 17:46]  Easome: Easome
+[10/20/2024 17:46]  5 and Dime: 5 and Dime
+[10/20/2024 17:47]  SCROLLS/RARES & MORE: SCROLLS/RARES & MORE
+[10/20/2024 17:47]  Cheap Kegs !!: Cheap Kegs !!
+[10/20/2024 17:47]  Warg Guudz!: Warg Guudz!
+[10/20/2024 17:47]  Neron: Neron
+[10/20/2024 17:47]  RHEC 22: RHEC 22
+[10/20/2024 17:47]  Needful Thingz: Needful Thingz
+[10/20/2024 17:47]  LEATHER DISTILL CORE: LEATHER DISTILL CORE
+[10/20/2024 17:47]  Thai: Thai
+[10/20/2024 17:47]  Black Market Goods: Black Market Goods
+[10/20/2024 17:47]  RHEC 21: RHEC 21
+[10/20/2024 17:47]  Keane: Keane
+[10/20/2024 17:47]  Byron: Byron
+[10/20/2024 17:47]  a cougar: a cougar
+[10/20/2024 17:47]  Fabio: Fabio the stablemaster
+[10/20/2024 17:47]  a magpie: a magpie
+[10/20/2024 17:47]  Kalinda: Kalinda
+[10/20/2024 17:47]  a hawk: a hawk
+[10/20/2024 17:47]  Terran Moon N: Terran Moon N
+[10/20/2024 17:47]  Top Stuff Low Prices: Top Stuff Low Prices
+[10/20/2024 17:47]  Everything must go: Everything must go
+[10/20/2024 17:47]  Leland: Leland
+[10/20/2024 17:47]  Rich's Crack Den: Rich's Crack Den
+[10/20/2024 17:47]  Toby's Cool Stuff4$$: Toby's Cool Stuff4$$
+[10/20/2024 17:47]  Cecilia: Cecilia
+[10/20/2024 17:47]  Da Bess: Da Bess
+[10/20/2024 17:47]  an eagle: an eagle
+[10/20/2024 17:47]  North of Terran MG: North of Terran MG
+[10/20/2024 17:47]  Buy Now: Buy Now
+[10/20/2024 17:47]  Denver: Denver
+[10/20/2024 17:47]  Puppey: Puppey
+[10/20/2024 17:47]  jjidol(Cheap): jjidol(Cheap)
+[10/20/2024 17:47]  Ingots & More: Ingots & More
+[10/20/2024 17:47]  Razor: *** Resource depleted ***
+[10/20/2024 17:47]  Mo's: Mo's
+[10/20/2024 17:47]  Rares and Cores: Rares and Cores
+[10/20/2024 17:47]  Dyes & Cloths: Dyes & Cloths
+[10/20/2024 17:47]  Cores and rares: Cores and rares
+[10/20/2024 17:47]  System: What do you want to use this item on?
+[10/20/2024 17:47]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:47]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:47]  a wisp: a wisp
+[10/20/2024 17:47]  a cougar: a cougar
+[10/20/2024 17:47]  a brown bear: a brown bear
+[10/20/2024 17:47]  a wolf: a wolf
+[10/20/2024 17:47]  a great hart: a great hart
+[10/20/2024 17:47]  a magpie: a magpie
+[10/20/2024 17:47]  Razor: *** Resource depleted ***
+[10/20/2024 17:47]  System: What do you want to use this item on?
+[10/20/2024 17:47]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:47]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:47]  Fierro: (Harvest Aspect 498.8/500 xp)
+[10/20/2024 17:47]  Razor: |> log : 347 <|
+[10/20/2024 17:47]  System: What do you want to use this item on?
+[10/20/2024 17:47]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:47]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 13.2.
+[10/20/2024 17:47]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 90.4.
+[10/20/2024 17:47]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:47]  System: You have acquired enough experience to upgrade your Harvest Mastery Level.
+[10/20/2024 17:47]  Fierro: (Harvest Aspect 500.0/500 xp)
+[10/20/2024 17:47]  Razor: |> log : 357 <|
+[10/20/2024 17:47]  System: What do you want to use this item on?
+[10/20/2024 17:47]  Razor: [Last Target]
+[10/20/2024 17:47]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:47]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:47]  Fierro: (Harvest Aspect 500.0/500 xp)
+[10/20/2024 17:47]  Fierro: Fierro
+[10/20/2024 17:47]  Razor: |> log : 362 <|
+[10/20/2024 17:47]  System: What do you want to use this item on?
+[10/20/2024 17:47]  : white flowers
+[10/20/2024 17:47]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:47]  System: You hack at the tree for a while, but fail to produce any useable wood.
+[10/20/2024 17:47]  System: What do you want to use this item on?
+[10/20/2024 17:47]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:47]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:47]  Fierro: (Harvest Aspect 500.0/500 xp)
+[10/20/2024 17:47]  Razor: |> log : 368 <|
+[10/20/2024 17:47]  System: What do you want to use this item on?
+[10/20/2024 17:47]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:47]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:47]  Fierro: (Harvest Aspect 500.0/500 xp)
+[10/20/2024 17:47]  Razor: |> log : 373 <|
+[10/20/2024 17:47]  System: What do you want to use this item on?
+[10/20/2024 17:47]  a wisp: a wisp
+[10/20/2024 17:47]  System: Lumberjacking skillgain: 5.787%
+[10/20/2024 17:47]  System: Your skill in Blacksmithy has decreased by 0.1.  It is now 13.1.
+[10/20/2024 17:47]  System: Your skill in Lumberjacking has increased by 0.1.  It is now 90.5.
+[10/20/2024 17:47]  System: You chop some logs and put them in your backpack.
+[10/20/2024 17:47]  Fierro: (Harvest Aspect 500.0/500 xp)
+[10/20/2024 17:47]  Razor: |> log : 381 <|
+[10/20/2024 17:47]  System: What do you want to use this item on?
+[10/20/2024 17:47]  System: You do not see any harvestable resources nearby.
+[10/20/2024 17:47]  Fierro: You cannot produce any wood from that.
+[10/20/2024 17:48]  System: The world will save in 15 seconds.
+[10/20/2024 17:48]  : cedar tree
+[10/20/2024 17:48]  Razor: [+Stop]
+[10/20/2024 17:48]  System: The world is saving, please wait.
+[10/20/2024 17:48]  System: World save complete. The entire process took 2.5 seconds.
+[10/20/2024 17:48]  a wolf: a wolf
+[10/20/2024 17:48]  System: Your skill in Tactics has decreased by 10.0.  It is now 6.8.
+[10/20/2024 17:48]  Fierro: Kal Ort Por
+[10/20/2024 17:48]  Fierro: Select Marked item.
+[10/20/2024 17:48]  System: SpiritSpeak skillgain: 7.535%
+[10/20/2024 17:48]  System: Necromancy skillgain: 16.576%
+[10/20/2024 17:48]  System: You are now under the protection of the town guards.
+[10/20/2024 17:48]  a goat: a goat
+[10/20/2024 17:48]  Keara: Keara the stablemaster
+[10/20/2024 17:48]  Renee: Renee the stablemaster
+[10/20/2024 17:48]  a dog: a dog
+[10/20/2024 17:48]  Denton: Denton the innkeeper
+[10/20/2024 17:48]  Thurston: Thurston the waiter
+[10/20/2024 17:48]  Dacey: Dacey the waiter
+[10/20/2024 17:48]  Callidora: Callidora the tavern keeper
+[10/20/2024 17:48]  Fierro: Bank Vendor buy Room
+[10/20/2024 17:48]  System: You have left the protection of the town guards.
+[10/20/2024 17:48]  System: You enter the rental room.
+[10/20/2024 17:48]  Ailiin: [Ripe, SQzD]
+[10/20/2024 17:48]  Ailiin: Ailiin
+[10/20/2024 17:48]  System: WorldMap loaded!

@@ -1,5 +1,6 @@
-if hits < 40
-    hotkey "Bandage Self"
-    wait 17000
+if findtype 3821 backpack -1 6 -1 as gp
+    lift gp 6
+    drop ground
 endif
+wait 1000
 loop

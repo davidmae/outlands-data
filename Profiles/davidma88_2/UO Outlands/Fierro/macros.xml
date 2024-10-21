@@ -57,7 +57,7 @@
 	</macro>
 	<macro name="Bank" key="1073741883" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="1" subcode="0" submenutype="2" text="bank room vendor buy" />
+			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\EasySays\BankRoomAlter" />
 		</actions>
 	</macro>
 	<macro name="Lockdown Item" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">

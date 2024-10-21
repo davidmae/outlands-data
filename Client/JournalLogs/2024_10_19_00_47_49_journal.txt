@@ -1,0 +1,74 @@
+[10/19/2024 00:47]  System: WorldMap loading...
+[10/19/2024 00:47]  System: Loading WorldMap markers..
+[10/19/2024 00:47]  System: ..Banks_and_Healers.xml (39)
+[10/19/2024 00:47]  System: ..Dungeons.xml (13)
+[10/19/2024 00:47]  System: ..Dungeon_Gates.xml (392)
+[10/19/2024 00:47]  System: ..Healer_Caravans.xml (42)
+[10/19/2024 00:47]  System: ..Kings_Faire.xml (49)
+[10/19/2024 00:47]  System: ..Moongates.xml (10)
+[10/19/2024 00:47]  System: ..POI.xml (251)
+[10/19/2024 00:47]  System: ..PvP_Locations.xml (71)
+[10/19/2024 00:47]  System: ..Shrines.xml (9)
+[10/19/2024 00:47]  System: ..Sub-Dungeons.xml (4)
+[10/19/2024 00:47]  System: ..Townships.xml (10)
+[10/19/2024 00:47]  System: ..UOAM_Atlas.xml (1887)
+[10/19/2024 00:47]  System: ..UOAM_T-Map.xml (255)
+[10/19/2024 00:47]  System: ..UOAM_Treasure.xml (523)
+[10/19/2024 00:47]  System: WorldMap markers loaded (3555)
+[10/19/2024 00:47]  System: Welcome Geodoro!
+[10/19/2024 00:47]  Geodoro: Geodoro
+[10/19/2024 00:47]  a horse: (tame)
+[10/19/2024 00:47]  a horse: a horse
+[10/19/2024 00:47]  a horse: (tame)
+[10/19/2024 00:47]  a horse: a horse
+[10/19/2024 00:47]  System: WorldMap loaded!
+[10/19/2024 00:47]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/19/2024 00:48]  You see: tinker's tools
+[10/19/2024 00:48]  You see: (53 uses remaining)
+[10/19/2024 00:48]  System: Vekslak has completed the achievement: Aspect Mastery (Advanced).
+[10/19/2024 00:49]  System: Bodrum has completed the achievement: Artificers Enclave Associate.
+[10/19/2024 00:50]  System: Fish N Chips has completed the achievement: Artisan (Basic).
+[10/19/2024 00:50]  : wooden planks
+[10/19/2024 00:51]  System: Select an item or mobile to view/inspect
+[10/19/2024 00:51]  [Razor]: LanguageString "ScriptCopied" not found!
+[10/19/2024 00:51]  [Razor]: Select target for variable 'item'
+[10/19/2024 00:51]  System: Select an item or mobile to view/inspect
+[10/19/2024 00:52]  [Razor]: Select target for variable 'item'
+[10/19/2024 00:52]  [Razor]: Select target for variable 'container'
+[10/19/2024 00:53]  System: Asmus has completed the achievement: Artificers Enclave Associate.
+[10/19/2024 00:53]  : wooden planks
+[10/19/2024 00:53]  System: Jamesfett has completed the achievement: Triggered (Basic).
+[10/19/2024 00:53]  [Razor]: Select a new target this Action.
+[10/19/2024 00:53]  System: Benifold has completed the achievement: Connoisseur (Advanced).
+[10/19/2024 00:53]  [Razor]: Select a new target this Action.
+[10/19/2024 00:53]  System: Jiggalo Jack has completed the achievement: Savant (Basic).
+[10/19/2024 00:54]  System: Eriris Arobmo has completed the achievement: Guardian of Kraul Hive (Intermediate).
+[10/19/2024 00:54]  System: Boat Boy has completed the achievement: Tailor (Basic).
+[10/19/2024 00:54]  System: Select an item or mobile to view/inspect
+[10/19/2024 00:54]  [Razor]: LanguageString "ScriptCopied" not found!
+[10/19/2024 00:54]  : stone wall
+[10/19/2024 00:54]  System: Select an item or mobile to view/inspect
+[10/19/2024 00:54]  [Razor]: LanguageString "ScriptCopied" not found!
+[10/19/2024 00:55]  System: Asmus has completed the achievement: Enchanter (Basic).
+[10/19/2024 00:56]  [Razor]: Select target for variable 'item'
+[10/19/2024 00:56]  [Razor]: Select target for variable 'container'
+[10/19/2024 00:56]  System: Yawa Ka has completed the achievement: Weaponmastery (Basic).
+[10/19/2024 00:56]  System: Undead Magus has completed the achievement: Scientist (Basic).
+[10/19/2024 00:56]  System: The Shrine of Justice has fallen to corruption!
+[10/19/2024 00:56]  [Razor]: Select target for variable 'item'
+[10/19/2024 00:56]  [Razor]: Select target for variable 'container'
+[10/19/2024 00:57]  [Razor]: Select target for variable 'item'
+[10/19/2024 00:57]  System: Select an item or mobile to view/inspect
+[10/19/2024 00:57]  [Razor]: LanguageString "ScriptCopied" not found!
+[10/19/2024 00:57]  System: You must wait another moment before you may pick up an item from here.
+[10/19/2024 00:57]  [Razor]: drop - Not holding anything
+[10/19/2024 00:58]  System: NinjaScroll has completed the achievement: Wilderness Hunter (Intermediate).
+[10/19/2024 00:58]  System: Brigarama has completed the achievement: Order of Armorers Dignitary.
+[10/19/2024 00:58]  System: Renevak has completed the achievement: Savant (Advanced).
+[10/19/2024 01:00]  System: Ramon Entreri has completed the achievement: Artificers Enclave Initiate.
+[10/19/2024 01:01]  System: The world will save in 15 seconds.
+[10/19/2024 01:01]  System: The world is saving, please wait.
+[10/19/2024 01:01]  System: World save complete. The entire process took 2.6 seconds.
+[10/19/2024 01:02]  System: Staff message from Expo:
+[10/19/2024 01:02]  System: Only 58 MINUTES until the Outlands Lottery is drawn at 8PM ET! Visit the Prevalia Casino to buy a ticket for a chance at winning the Jackpot, currently worth over 29 MILLION GOLD!
+[10/19/2024 01:04]  System: Inspektor Gadget has completed the achievement: Leatherworker (Basic).

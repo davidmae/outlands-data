@@ -92,7 +92,7 @@
   "lock_follower_rename": false,
   "window_client_bounds": {
     "X": 1920,
-    "Y": 1061
+    "Y": 1107
   },
   "game_window_position": {
     "X": 11,
@@ -291,8 +291,8 @@
   "cooldown_bar_height": 30,
   "hide_inactive_cooldown_bars": false,
   "last_used_desktop": "default.gumps.xml",
-  "journal_width": 507,
-  "journal_height": 779,
+  "journal_width": 405,
+  "journal_height": 821,
   "journal_enable_resize": true,
   "journal_lock_position": false,
   "journal_use_24_hour_clock": true,

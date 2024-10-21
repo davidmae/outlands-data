@@ -2,7 +2,7 @@
 <profile>
 	<property name="DisplaySkillChanges" type="System.Boolean">False</property>
 	<property name="TitleBarText" type="System.String">UO - {char}</property>
-	<property name="TitleBarDisplay" type="System.Boolean">True</property>
+	<property name="TitleBarDisplay" type="System.Boolean">False</property>
 	<property name="AutoSearch" type="System.Boolean">True</property>
 	<property name="NoSearchPouches" type="System.Boolean">True</property>
 	<property name="CounterWarnAmount" type="System.Int32">5</property>
@@ -13,8 +13,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">True</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">619</property>
-	<property name="WindowY" type="System.Int32">141</property>
+	<property name="WindowX" type="System.Int32">200</property>
+	<property name="WindowY" type="System.Int32">399</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -27,18 +27,18 @@
 	<property name="ImageFormat" type="System.String">jpg</property>
 	<property name="UndressConflicts" type="System.Boolean">True</property>
 	<property name="Systray" type="System.Boolean">False</property>
-	<property name="RazorWidth" type="System.Int32">499</property>
-	<property name="RazorHeight" type="System.Int32">393</property>
+	<property name="RazorWidth" type="System.Int32">546</property>
+	<property name="RazorHeight" type="System.Int32">411</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
 	<property name="SkillListCol" type="System.Int32">-1</property>
 	<property name="SkillListAsc" type="System.Boolean">False</property>
 	<property name="AutoStack" type="System.Boolean">False</property>
-	<property name="ActionStatusMsg" type="System.Boolean">True</property>
+	<property name="ActionStatusMsg" type="System.Boolean">False</property>
 	<property name="RangeCheckLT" type="System.Boolean">True</property>
 	<property name="LTRange" type="System.Int32">12</property>
 	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
 	<property name="SmartLastTarget" type="System.Boolean">False</property>
-	<property name="LastTargTextFlags" type="System.Boolean">True</property>
+	<property name="LastTargTextFlags" type="System.Boolean">False</property>
 	<property name="AutoFriend" type="System.Boolean">False</property>
 	<property name="MessageLevel" type="System.Int32">0</property>
 	<property name="ForceIP" type="System.String" />
@@ -53,7 +53,7 @@
 	<property name="HotKeyStop" type="System.Boolean">False</property>
 	<property name="DiffTargetByType" type="System.Boolean">False</property>
 	<property name="StepThroughMacro" type="System.Boolean">False</property>
-	<property name="ShowTargetSelfLastClearOverhead" type="System.Boolean">True</property>
+	<property name="ShowTargetSelfLastClearOverhead" type="System.Boolean">False</property>
 	<property name="ShowOverheadMessages" type="System.Boolean">False</property>
 	<property name="OverheadFormat" type="System.String">[{msg}]</property>
 	<property name="OverheadStyle" type="System.Int32">1</property>
@@ -98,7 +98,7 @@
 	<property name="ShowBandageTimer" type="System.Boolean">True</property>
 	<property name="ShowBandageTimerFormat" type="System.String">Bandage: {count}s</property>
 	<property name="ShowBandageTimerLocation" type="System.Int32">0</property>
-	<property name="OnlyShowBandageTimerEvery" type="System.Boolean">False</property>
+	<property name="OnlyShowBandageTimerEvery" type="System.Boolean">True</property>
 	<property name="OnlyShowBandageTimerSeconds" type="System.Int32">3</property>
 	<property name="ShowBandageTimerHue" type="System.Int32">88</property>
 	<property name="TargetIndicatorHue" type="System.Int32">10</property>
@@ -224,7 +224,9 @@
 			<item id="5139" />
 			<item id="31015" />
 		</Organizer-5>
-		<Organizer-6 hotbag="0" />
+		<Organizer-6 hotbag="1756335318">
+			<item id="3827" />
+		</Organizer-6>
 		<Organizer-7 hotbag="0" />
 		<Organizer-8 hotbag="0" />
 		<Organizer-9 hotbag="0" />
@@ -240,11 +242,16 @@
 		<Organizer-19 hotbag="0" />
 		<Organizer-20 hotbag="0" />
 		<Restock-1 hotbag="1672790152">
-			<item id="7163" amount="200" />
 			<item id="3617" amount="111" />
 			<item id="5370" amount="15" />
 			<item id="3854" amount="25" />
 			<item id="8012" amount="10" />
+			<item id="3852" amount="11" />
+			<item id="3846" amount="11" />
+			<item id="3847" amount="11" />
+			<item id="3848" amount="11" />
+			<item id="3849" amount="11" />
+			<item id="3853" amount="11" />
 		</Restock-1>
 		<Restock-2 hotbag="0" />
 		<Restock-3 hotbag="0" />
@@ -265,24 +272,7 @@
 		<UseOnce />
 	</agents>
 	<dresslists>
-		<list name="pve_1">
-			<item serial="1377856117" />
-			<item serial="1138189883" />
-			<item serial="1514260661" />
-			<item serial="1669602800" />
-			<item serial="1834602897" />
-			<item serial="1146359900" />
-			<item serial="1879631214" />
-			<item serial="1547581380" />
-			<item serial="1096015105" />
-			<item serial="1197463485" />
-			<item serial="1547581378" />
-			<item serial="1669602806" />
-			<item serial="1477954420" />
-			<item serial="1547581379" />
-			<item serial="1093334050" />
-			<item serial="1892268570" />
-		</list>
+		<list name="pve_1" />
 	</dresslists>
 	<hotkeys />
 	<overheadmessages />

@@ -1,0 +1,77 @@
+[10/20/2024 11:54]  System: WorldMap loading...
+[10/20/2024 11:54]  System: Loading WorldMap markers..
+[10/20/2024 11:54]  System: ..Banks_and_Healers.xml (39)
+[10/20/2024 11:54]  System: ..Dungeons.xml (13)
+[10/20/2024 11:54]  System: ..Dungeon_Gates.xml (392)
+[10/20/2024 11:54]  System: ..Healer_Caravans.xml (42)
+[10/20/2024 11:54]  System: ..Kings_Faire.xml (49)
+[10/20/2024 11:54]  System: ..Moongates.xml (10)
+[10/20/2024 11:54]  System: ..POI.xml (251)
+[10/20/2024 11:54]  System: ..PvP_Locations.xml (71)
+[10/20/2024 11:54]  System: ..Shrines.xml (9)
+[10/20/2024 11:54]  System: ..Sub-Dungeons.xml (4)
+[10/20/2024 11:54]  System: ..Townships.xml (10)
+[10/20/2024 11:54]  System: ..UOAM_Atlas.xml (1887)
+[10/20/2024 11:54]  System: ..UOAM_T-Map.xml (255)
+[10/20/2024 11:54]  System: ..UOAM_Treasure.xml (523)
+[10/20/2024 11:54]  System: WorldMap markers loaded (3555)
+[10/20/2024 11:54]  System: WorldMap loaded!
+[10/20/2024 11:54]  System: Welcome Ailiin!
+[10/20/2024 11:54]  [Razor]: Ignoring action request (already queued).
+[10/20/2024 11:54]  Ailiin: [Ripe, SQzD]
+[10/20/2024 11:54]  Ailiin: Ailiin
+[10/20/2024 11:54]  [Razor]: Finished 7 queued actions in 0.0 seconds.
+[10/20/2024 11:54]  [Razor]: Finished 4 queued actions in 1.8 seconds.
+[10/20/2024 11:54]  [Razor]: Queuing action request 1... 1.1 seconds left.
+[10/20/2024 11:54]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 11:54]  [Razor]: Queuing action request 1... 0.6 seconds left.
+[10/20/2024 11:54]  [Razor]: Queuing dragdrop request 1... 0.6 seconds left.
+[10/20/2024 11:54]  [Razor]: Finished 4 queued actions in 1.8 seconds.
+[10/20/2024 11:54]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/20/2024 11:54]  You see: durable guarding chainmail coif
+[10/20/2024 11:54]  [Razor]: Queuing action request 1... 1.0 seconds left.
+[10/20/2024 11:54]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/20/2024 11:54]  Razor: [+Stop]
+[10/20/2024 11:54]  System: Your magic resist potion has worn off.
+[10/20/2024 11:54]  Razor: [+Stop]
+[10/20/2024 11:55]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 11:55]  System: You are now under the effect of a Song of Peacemaking (12.0% healing amounts for 15 minutes).
+[10/20/2024 11:55]  You see: durable exceedingly melodious harp
+[10/20/2024 11:55]  You see: (546/600 uses remaining)
+[10/20/2024 11:55]  You see: exceptional platemail arms
+[10/20/2024 11:55]  You see: [mastercrafted by BamBam-Joe]
+[10/20/2024 11:55]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[10/20/2024 11:55]  You see: hardening platemail arms
+[10/20/2024 11:55]  System: You are now under the effect of a Song of Discordance (12.0% reduced damage from creatures for 15 minutes).
+[10/20/2024 11:55]  System: What do you wish to incite? (you may target the ground for a group effect)
+[10/20/2024 11:55]  System: You are now under the effect of a Song of Provocation (+12.0% damage against creatures for 15 minutes).
+[10/20/2024 11:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/20/2024 11:55]  System: 14° 3'N, 41° 45'W
+[10/20/2024 11:55]  Ailiin: Kal Ort Por [Recall]
+[10/20/2024 11:55]  Razor: [+Stop]
+[10/20/2024 11:55]  Razor: [+Stop]
+[10/20/2024 11:55]  System: You are now under the protection of the town guards.
+[10/20/2024 11:55]  a dog: a dog
+[10/20/2024 11:55]  a goat: a goat
+[10/20/2024 11:55]  Keara: Keara the stablemaster
+[10/20/2024 11:55]  Renee: Renee the stablemaster
+[10/20/2024 11:55]  Denton: Denton the innkeeper
+[10/20/2024 11:55]  Thurston: Thurston the waiter
+[10/20/2024 11:55]  Slider: Slider
+[10/20/2024 11:55]  a cat: a cat
+[10/20/2024 11:55]  a dog: a dog
+[10/20/2024 11:55]  System: WorldMap loaded!
+[10/20/2024 11:55]  a dog: a dog
+[10/20/2024 11:55]  a dog: a dog
+[10/20/2024 11:55]  Donnelly: Donnelly the scribe
+[10/20/2024 11:55]  Ravi: Ravi the Town Crier
+[10/20/2024 11:55]  a cat: a cat
+[10/20/2024 11:55]  a dog: a dog
+[10/20/2024 11:55]  Brandi: Brandi the banker
+[10/20/2024 11:55]  Dacey: Dacey the waiter
+[10/20/2024 11:55]  Ailiin: Bank Vendor buy
+[10/20/2024 11:55]  Ailiin: Items: 37/125
+[10/20/2024 11:55]  Ailiin: Total Weight: 4,475
+[10/20/2024 11:55]  Ailiin: Room
+[10/20/2024 11:55]  [Razor]: Finished 4 queued actions in 1.8 seconds.
+[10/20/2024 11:56]  [Razor]: Finished 4 queued actions in 1.8 seconds.

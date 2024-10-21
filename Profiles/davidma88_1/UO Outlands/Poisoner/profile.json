@@ -1,8 +1,8 @@
 {
   "enable_sound": true,
-  "sound_volume": 62,
+  "sound_volume": 29,
   "enable_music": true,
-  "music_volume": 63,
+  "music_volume": 20,
   "foot_steps_volume": 19,
   "loop_music": true,
   "enable_footsteps_sound": true,
@@ -71,7 +71,7 @@
   "circle_of_transparency_max_value": 90,
   "circle_of_transparency_type": 2,
   "vendor_gump_height": 504,
-  "default_scale": 0.8000002,
+  "default_scale": 0.8,
   "enable_mousewheel_scale_zoom": true,
   "restore_scale_after_unpress_ctrl": false,
   "bandage_self_old": true,
@@ -102,8 +102,8 @@
   "game_window_full_size": true,
   "window_borderless": true,
   "game_window_size": {
-    "X": 1280,
-    "Y": 800
+    "X": 1920,
+    "Y": 1080
   },
   "topbar_gump_position": {
     "X": 0,

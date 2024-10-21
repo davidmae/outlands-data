@@ -1,9 +1,10 @@
-@setvar! item 2546
-@setvar! container 0x7018634A
+@setvar! item 3739
+@setvar! container 0x4BBF4344
+@setvar! qty 1
 
 while not dead 
-    if findtype item backpack -1 11 -1 as ribs
-        lift ribs 11
+    if findtype item backpack -1 qty -1 as _item
+        lift _item qty
         wait 200
         drop container
     endif
