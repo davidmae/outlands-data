@@ -1,0 +1,2534 @@
+[11/01/2024 08:56]  System: WorldMap loading...
+[11/01/2024 08:56]  System: Loading WorldMap markers..
+[11/01/2024 08:56]  System: ..Banks_and_Healers.xml (39)
+[11/01/2024 08:56]  System: ..Dungeons.xml (13)
+[11/01/2024 08:56]  System: ..Dungeon_Gates.xml (392)
+[11/01/2024 08:56]  System: ..Healer_Caravans.xml (42)
+[11/01/2024 08:56]  System: ..Kings_Faire.xml (49)
+[11/01/2024 08:56]  System: ..Moongates.xml (10)
+[11/01/2024 08:56]  System: ..POI.xml (251)
+[11/01/2024 08:56]  System: ..PvP_Locations.xml (71)
+[11/01/2024 08:56]  System: ..Shrines.xml (9)
+[11/01/2024 08:56]  System: ..Sub-Dungeons.xml (4)
+[11/01/2024 08:56]  System: ..Townships.xml (10)
+[11/01/2024 08:56]  System: ..UOAM_Atlas.xml (1887)
+[11/01/2024 08:56]  System: ..UOAM_T-Map.xml (255)
+[11/01/2024 08:56]  System: ..UOAM_Treasure.xml (523)
+[11/01/2024 08:56]  System: WorldMap markers loaded (3555)
+[11/01/2024 08:56]  System: Welcome Ailiin!
+[11/01/2024 08:56]  Ailiin: [Ripe, SQzD]
+[11/01/2024 08:56]  Ailiin: Ailiin
+[11/01/2024 08:56]  System: WorldMap loaded!
+[11/01/2024 08:56]  System: Opening door...
+[11/01/2024 08:56]  System: You are now under the protection of the town guards.
+[11/01/2024 08:56]  System: You exit the rental room.
+[11/01/2024 08:56]  Hanan: Hanan the animal wrangler
+[11/01/2024 08:56]  Kama: Kama the creature broker
+[11/01/2024 08:56]  a goat: a goat
+[11/01/2024 08:56]  Keara: Keara the stablemaster
+[11/01/2024 08:56]  Renee: Renee the stablemaster
+[11/01/2024 08:56]  a dog: a dog
+[11/01/2024 08:56]  Denton: Denton the innkeeper
+[11/01/2024 08:56]  Thurston: Thurston the waiter
+[11/01/2024 08:56]  Dacey: Dacey the waiter
+[11/01/2024 08:56]  Callidora: Callidora the tavern keeper
+[11/01/2024 08:56]  Mary: Mary the powder monkey
+[11/01/2024 08:56]  System: Opening door...
+[11/01/2024 08:56]  System: WorldMap loaded!
+[11/01/2024 08:56]  a dog: a dog
+[11/01/2024 08:56]  a cat: a cat
+[11/01/2024 08:56]  Ravi: Ravi the Town Crier
+[11/01/2024 08:56]  Donnelly: Donnelly the scribe
+[11/01/2024 08:56]  a dog: a dog
+[11/01/2024 08:56]  Arbor the tree: Legendary Carpenter
+[11/01/2024 08:56]  Arbor the tree: [Ancient, Oak]
+[11/01/2024 08:56]  Arbor the tree: Lord Arbor the tree
+[11/01/2024 08:56]  Brandi: Brandi the banker
+[11/01/2024 08:56]  a cat: *released*
+[11/01/2024 08:56]  a cat: a cat
+[11/01/2024 08:56]  Kvothe: [Ciridae, Amyr]
+[11/01/2024 08:56]  Kvothe: Kvothe
+[11/01/2024 08:56]  Cellachan: Cellachan
+[11/01/2024 08:56]  Ailiin: Bank Vendor buy
+[11/01/2024 08:56]  Ailiin: Items: 35/125
+[11/01/2024 08:56]  Ailiin: Total Weight: 2,908
+[11/01/2024 08:56]  Ailiin: Room
+[11/01/2024 08:56]  [Razor]: Organize Agent queued 5 item(s) to be moved. (This may take a few moments)
+[11/01/2024 08:56]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 08:56]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 08:56]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 08:56]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 08:56]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 08:56]  [Razor]: Finished 8 queued actions in 4.2 seconds.
+[11/01/2024 08:56]  Ravi: Happy 6th Anniversary, Outlands! To commemorate this milestone, we’re gifting every player a plush-cased Iron Ingot in a rare hue—a nod to iron being the traditional 6th anniversary gift.
+[11/01/2024 08:56]  Dacey: Dacey the waiter
+[11/01/2024 08:56]  Callidora: Callidora the tavern keeper
+[11/01/2024 08:56]  a cat: a cat
+[11/01/2024 08:56]  Donnelly: Donnelly the scribe
+[11/01/2024 08:56]  Thurston: Thurston the waiter
+[11/01/2024 08:56]  a dog: a dog
+[11/01/2024 08:56]  Denton: Denton the innkeeper
+[11/01/2024 08:56]  a dog: a dog
+[11/01/2024 08:56]  Renee: Renee the stablemaster
+[11/01/2024 08:56]  a goat: a goat
+[11/01/2024 08:56]  Keara: Keara the stablemaster
+[11/01/2024 08:56]  a dog: a dog
+[11/01/2024 08:56]  Ailiin: Bank Vendor buy
+[11/01/2024 08:56]  Ailiin: Room
+[11/01/2024 08:56]  System: You have left the protection of the town guards.
+[11/01/2024 08:56]  System: You enter the rental room.
+[11/01/2024 08:56]  System: WorldMap loaded!
+[11/01/2024 08:57]  You see: cooked ham : 2
+[11/01/2024 08:57]  You see: (meagre)
+[11/01/2024 08:57]  You see: raw bacon : 4
+[11/01/2024 08:57]  You see: raw sausage : 2
+[11/01/2024 08:57]  [Razor]: Warning: Heal Potions amount is now 0!
+[11/01/2024 08:57]  [Razor]: Warning: Cure Potions amount is now 0!
+[11/01/2024 08:57]  You see: bottle : 8
+[11/01/2024 08:58]  System: 9° 24'N, 20° 40'E
+[11/01/2024 08:58]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[11/01/2024 08:58]  Ailiin: Kal Ort Por [Recall]
+[11/01/2024 08:58]  System: You are now under the protection of the town guards.
+[11/01/2024 08:58]  Calendonia: Calendonia the banker
+[11/01/2024 08:58]  Glenn: Glenn the banker
+[11/01/2024 08:58]  Ingmar: Ingmar the banker
+[11/01/2024 08:58]  FlaFla: (bonded)
+[11/01/2024 08:58]  FlaFla: FlaFla
+[11/01/2024 08:58]  an earth drake: (bonded)
+[11/01/2024 08:58]  an earth drake: an earth drake
+[11/01/2024 08:58]  BlackWing: BlackWing
+[11/01/2024 08:58]  make A: [Guildmaster, uFo]
+[11/01/2024 08:58]  make A: make A
+[11/01/2024 08:58]  Fizzik: Fizzik
+[11/01/2024 08:58]  Plitvicka Jezera: Darkmire Legend
+[11/01/2024 08:58]  Plitvicka Jezera: [Council, NC]
+[11/01/2024 08:58]  Plitvicka Jezera: Lord Plitvicka Jezera
+[11/01/2024 08:58]  MakingStuffThree: MakingStuffThree
+[11/01/2024 08:58]  Alodie: Alodie the banker
+[11/01/2024 08:58]  Peek: Lord Peek
+[11/01/2024 08:58]  Aurelia: Aurelia the Town Crier
+[11/01/2024 08:58]  Wobin Rood: Wobin Rood
+[11/01/2024 08:58]  f: (bonded)
+[11/01/2024 08:58]  f: f
+[11/01/2024 08:58]  B: (bonded)
+[11/01/2024 08:58]  B: B
+[11/01/2024 08:58]  SonmezBard: [Veteran, poto]
+[11/01/2024 08:58]  SonmezBard: SonmezBard
+[11/01/2024 08:58]  Karlon: Karlon
+[11/01/2024 08:58]  a pack horse: (tame)
+[11/01/2024 08:58]  a pack horse: [0/2000 stones]
+[11/01/2024 08:58]  a pack horse: [0/125 items]
+[11/01/2024 08:58]  a pack horse: a pack horse
+[11/01/2024 08:58]  Hair Minning Inc: Hair Minning Inc
+[11/01/2024 08:58]  Kelem the Seeker: [Yew]
+[11/01/2024 08:58]  Kelem the Seeker: Kelem the Seeker
+[11/01/2024 08:58]  The Gravedigger: The Gravedigger
+[11/01/2024 08:58]  Tailoring.cc: Tailoring.cc
+[11/01/2024 08:58]  Hid Ingsteal: [Rebel, HR]
+[11/01/2024 08:58]  Hid Ingsteal: Hid Ingsteal
+[11/01/2024 08:58]  Dominique H: Legendary Relic Hunter
+[11/01/2024 08:58]  Dominique H: [Stock Market, UNW]
+[11/01/2024 08:58]  Dominique H: Lady Dominique H
+[11/01/2024 08:58]  Cytric: Aegis Keep Guardian
+[11/01/2024 08:58]  Cytric: [G.G]
+[11/01/2024 08:58]  Cytric: Lord Cytric
+[11/01/2024 08:58]  Rand al Thor: Rand al Thor
+[11/01/2024 08:58]  True Detective: True Detective
+[11/01/2024 08:58]  a dog: a dog
+[11/01/2024 08:58]  System: WorldMap loaded!
+[11/01/2024 08:58]  COLD HAND: [Friends, FRND]
+[11/01/2024 08:58]  COLD HAND: COLD HAND
+[11/01/2024 08:58]  Wargazim: Wargazim
+[11/01/2024 08:58]  Jakesh: Jakesh the Prevalian merchant
+[11/01/2024 08:58]  HELLO HARVESTER: HELLO HARVESTER
+[11/01/2024 08:58]  Shart Face: Shart Face
+[11/01/2024 08:58]  Soprano: Soprano
+[11/01/2024 08:58]  Flutey Fluke: Flutey Fluke
+[11/01/2024 08:58]  Flutey: Flutey
+[11/01/2024 08:58]  System: You have already received this handout.
+[11/01/2024 08:58]  Alodie: Alodie the banker
+[11/01/2024 08:58]  Shart Face: Shart Face
+[11/01/2024 08:58]  Calendonia: Calendonia the banker
+[11/01/2024 08:58]  Glenn: Glenn the banker
+[11/01/2024 08:58]  Peek: Lord Peek
+[11/01/2024 08:58]  Hair Minning Inc: Hair Minning Inc
+[11/01/2024 08:58]  a skeletal dragon: (bonded)
+[11/01/2024 08:58]  a skeletal dragon: a skeletal dragon
+[11/01/2024 08:58]  SellBlood: (bonded)
+[11/01/2024 08:58]  SellBlood: SellBlood
+[11/01/2024 08:58]  a nightmare: (bonded)
+[11/01/2024 08:58]  a nightmare: a nightmare
+[11/01/2024 08:58]  Ace: Ace the miner
+[11/01/2024 08:58]  a dog: a dog
+[11/01/2024 08:58]  Riverside Mall: == High Traffic ==
+[11/01/2024 08:58]  a horse: (tame)
+[11/01/2024 08:58]  a horse: a horse
+[11/01/2024 08:58]  Riverside Mall: Riverside Mall
+[11/01/2024 08:58]  ManMan: ManMan
+[11/01/2024 08:58]  Necrominer: [rekt]
+[11/01/2024 08:58]  Necrominer: Necrominer
+[11/01/2024 08:58]  MetalXHead: MetalXHead
+[11/01/2024 08:58]  Duster Tornado: [Recruit, Tale]
+[11/01/2024 08:58]  Duster Tornado: Duster Tornado
+[11/01/2024 08:58]  FRND VENDOR MALL: [Friends, FRND]
+[11/01/2024 08:58]  FRND VENDOR MALL: FRND VENDOR MALL
+[11/01/2024 08:58]  Crafting Bot: [Recruit, NWO]
+[11/01/2024 08:58]  Crafting Bot: Crafting Bot
+[11/01/2024 08:58]  Aegis Mall: Aegis Mall
+[11/01/2024 08:58]  Francois Toulour: Francois Toulour
+[11/01/2024 08:58]  DarkOrderTower: [Keeper Of Lies], [D^O]
+[11/01/2024 08:58]  DarkOrderTower: DarkOrderTower
+[11/01/2024 08:58]  ManMan: ONE SPOT LEFT
+[11/01/2024 08:58]  Aegis Mall: ***AEGIS MALL***
+[11/01/2024 08:58]  a cat: a cat
+[11/01/2024 08:58]  Garrett: Garrett the mage
+[11/01/2024 08:58]  a cat: a cat
+[11/01/2024 08:58]  a dog: a dog
+[11/01/2024 08:58]  a horse: (tame)
+[11/01/2024 08:58]  a horse: a horse
+[11/01/2024 08:58]  FRND VENDOR MALL: If you don't see a vendor spot open DM Mags#1016 on Discord
+[11/01/2024 08:58]  Azina: Azina the alchemist
+[11/01/2024 08:58]  Riverside Mall: ==VENDOR SPOT==
+[11/01/2024 08:58]  ManMan: THE PARROT'S BITE
+[11/01/2024 08:58]  Edwin: Edwin the scribe
+[11/01/2024 08:58]  Marden: Marden the alchemist
+[11/01/2024 08:58]  Aegis Mall: **3K/WEEK VENDOR SPOTS**
+[11/01/2024 08:58]  Riverside Mall: == High Traffic ==
+[11/01/2024 08:59]  Bess: Bess the miner
+[11/01/2024 08:59]  Francois Toulour: (1) Vendor Ledger - open the book above Repair Bench to contact renters directly.
+[11/01/2024 08:59]  Linnea: Linnea the Prevalian stylist
+[11/01/2024 08:59]  Barnett: Barnett the tinker
+[11/01/2024 08:59]  ManMan:  /=ANCHOR'S REST=\ 
+[11/01/2024 08:59]  Konrad: Konrad the Prevalian Exchange Officer
+[11/01/2024 08:59]  Ace: Ace the miner
+[11/01/2024 08:59]  Fulton: Fulton the blacksmith
+[11/01/2024 08:59]  Silva: Silva the armorer
+[11/01/2024 08:59]  Salim: Salim the weaponsmith
+[11/01/2024 08:59]  Gwenyth: Gwenyth the Lottery Official
+[11/01/2024 08:59]  a bird of paradise: (bonded)
+[11/01/2024 08:59]  a bird of paradise: a bird of paradise
+[11/01/2024 08:59]  Limonade: (bonded)
+[11/01/2024 08:59]  Limonade: Limonade
+[11/01/2024 08:59]  XK TpyDoBuK: Legendary Pirate
+[11/01/2024 08:59]  XK TpyDoBuK: [Kiss my duck, RAQ]
+[11/01/2024 08:59]  XK TpyDoBuK: Lord XK TpyDoBuK
+[11/01/2024 08:59]  Old Vescio: Old Vescio the Seafarer League Master
+[11/01/2024 08:59]  Kaliya: Kaliya the Artificer Enclave Master
+[11/01/2024 08:59]  Casino Dancer: [Beard Brother, BB]
+[11/01/2024 08:59]  Casino Dancer: Casino Dancer
+[11/01/2024 08:59]  Galvin: Galvin the Tradesman Union Master
+[11/01/2024 08:59]  Beradine: Beradine the Order of Armorers Master
+[11/01/2024 08:59]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 08:59]  Corrine: Corrine the Monster Hunter Society Master
+[11/01/2024 08:59]  Osgood: Osgood the Adventurer Lodge Master
+[11/01/2024 08:59]  QZQZ: QZQZ
+[11/01/2024 08:59]  Corrine: Corrine the Monster Hunter Society Master
+[11/01/2024 08:59]  Ailiin: [Ripe, SQzD]
+[11/01/2024 08:59]  Ailiin: Ailiin
+[11/01/2024 08:59]  Corrine: Corrine the Monster Hunter Society Master
+[11/01/2024 08:59]  Corrine: The Monster Hunter Society has the following jobs available this week.
+[11/01/2024 09:00]  Corrine: Corrine the Monster Hunter Society Master
+[11/01/2024 09:00]  System: You accept the job.
+[11/01/2024 09:00]  System: 4 remaining jobs available for account.
+[11/01/2024 09:00]  System: You accept the job.
+[11/01/2024 09:00]  System: 3 remaining jobs available for account.
+[11/01/2024 09:00]  System: You accept the job.
+[11/01/2024 09:00]  System: 2 remaining jobs available for account.
+[11/01/2024 09:00]  System: Entity not found.
+[11/01/2024 09:00]  : carpet
+[11/01/2024 09:00]  Ailiin: Kal Ort Por [Recall]
+[11/01/2024 09:00]  System: You have left the protection of the town guards.
+[11/01/2024 09:00]  Ailiin: Your mount finds a quiet place to rest safely.
+[11/01/2024 09:00]  You see: a skeletal archer corpse
+[11/01/2024 09:00]  You see: a skeletal corpse
+[11/01/2024 09:00]  You see: a skeletal corpse
+[11/01/2024 09:00]  You see: a skeletal corpse
+[11/01/2024 09:00]  You see: a ghoul corpse
+[11/01/2024 09:00]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:00]  a ghoul: a ghoul
+[11/01/2024 09:00]  a necromancer: a necromancer
+[11/01/2024 09:00]  a scarab: a scarab
+[11/01/2024 09:00]  a fire ant: a fire ant
+[11/01/2024 09:00]  You see: a skeleton guardian corpse
+[11/01/2024 09:00]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:00]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 09:00]  System: What instrument shall you play?
+[11/01/2024 09:00]  Razor: Target: Ailiin
+[11/01/2024 09:00]  System: That is not a musical instrument.
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  a skeletal knight: a skeletal knight
+[11/01/2024 09:00]  Ailiin: -10
+[11/01/2024 09:00]  a necromancer: a necromancer
+[11/01/2024 09:00]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:00]  a skeletal mage: a skeletal mage
+[11/01/2024 09:00]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[11/01/2024 09:00]  You see: a lich corpse
+[11/01/2024 09:00]  You see: a fire ant corpse
+[11/01/2024 09:00]  a fire ant: a fire ant
+[11/01/2024 09:00]  : cave floor
+[11/01/2024 09:00]  : stalagmites
+[11/01/2024 09:00]  a skeletal marksman: a skeletal marksman
+[11/01/2024 09:00]  a scarab: a scarab
+[11/01/2024 09:00]  a scarab: a scarab
+[11/01/2024 09:00]  You see: a skeletal marksman corpse
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  You see: a skeletal marksman corpse
+[11/01/2024 09:00]  a scorpion: a scorpion
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  a scarab: a scarab
+[11/01/2024 09:00]  a scorpion: a scorpion
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  a cave bat: a cave bat
+[11/01/2024 09:00]  You see: a cave bat corpse
+[11/01/2024 09:00]  You see: a sand crawler corpse
+[11/01/2024 09:00]  You see: a sand crawler corpse
+[11/01/2024 09:00]  You see: a nightmare corpse
+[11/01/2024 09:00]  You see: a lich corpse
+[11/01/2024 09:00]  a lich: a lich
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:00]  You see: a rag witch corpse
+[11/01/2024 09:00]  a nightmare: a nightmare
+[11/01/2024 09:00]  You see: a cave bat corpse
+[11/01/2024 09:00]  System: What instrument shall you play?
+[11/01/2024 09:00]  System: That is not a musical instrument.
+[11/01/2024 09:00]  a mummy: a mummy
+[11/01/2024 09:01]  a sand crawler: a sand crawler
+[11/01/2024 09:01]  System: The world will save in 15 seconds.
+[11/01/2024 09:01]  a lich: a lich
+[11/01/2024 09:01]  a lich: a lich
+[11/01/2024 09:01]  a lich magus: a lich magus
+[11/01/2024 09:01]  a ghoul: a ghoul
+[11/01/2024 09:01]  a mummy: a mummy
+[11/01/2024 09:01]  System: Your Song of Peacemaking effect ends.
+[11/01/2024 09:01]  Madeover: [Member, NC]
+[11/01/2024 09:01]  Madeover: Madeover
+[11/01/2024 09:01]  a gravebug: (bonded)
+[11/01/2024 09:01]  a gravebug: a gravebug
+[11/01/2024 09:01]  a sunscale: (bonded)
+[11/01/2024 09:01]  a sunscale: a sunscale
+[11/01/2024 09:01]  a ghoul: a ghoul
+[11/01/2024 09:01]  an ossuarian huntress: an ossuarian huntress
+[11/01/2024 09:01]  a sphinx: a sphinx
+[11/01/2024 09:01]  You see: a lich corpse
+[11/01/2024 09:01]  Stephanios: Skinner
+[11/01/2024 09:01]  Stephanios: [Citizen, Yew]
+[11/01/2024 09:01]  Stephanios: Lord Stephanios
+[11/01/2024 09:01]  You see: an ossuarian slinger corpse
+[11/01/2024 09:01]  You see: a rag witch corpse
+[11/01/2024 09:01]  You see: a rag witch corpse
+[11/01/2024 09:01]  Btlomorf: Btlomorf
+[11/01/2024 09:01]  Bapeth: Seasonal Locksmith
+[11/01/2024 09:01]  Bapeth: Lord Bapeth
+[11/01/2024 09:01]  You see: a black cat corpse
+[11/01/2024 09:01]  System: What instrument shall you play?
+[11/01/2024 09:01]  System: [CCC] The Corpse Creek Contest has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/01/2024 09:01]  System: That is not a musical instrument.
+[11/01/2024 09:01]  Razor: [+Stop]
+[11/01/2024 09:01]  System: Your Song of Discordance effect ends.
+[11/01/2024 09:01]  System: The world is saving, please wait.
+[11/01/2024 09:01]  System: World save complete. The entire process took 2.7 seconds.
+[11/01/2024 09:01]  a sphinx: a sphinx
+[11/01/2024 09:01]  You see: a lich magus corpse
+[11/01/2024 09:01]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:01]  an ossuarian fire priest: an ossuarian fire priest
+[11/01/2024 09:01]  You see: an ostard corpse
+[11/01/2024 09:01]  You see: an ossuarian huntress
+[11/01/2024 09:01]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:01]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:01]  a black cat: a black cat
+[11/01/2024 09:01]  an ossuarian huntress: an ossuarian huntress
+[11/01/2024 09:01]  You see: an ostard corpse
+[11/01/2024 09:01]  System: What instrument shall you play?
+[11/01/2024 09:01]  Razor: Target: an ossuarian fire priest
+[11/01/2024 09:01]  System: That is too far away.
+[11/01/2024 09:01]  System: Your Song of Provocation effect ends.
+[11/01/2024 09:01]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  You see: a rag witch corpse
+[11/01/2024 09:01]  Stephanios: Skinner
+[11/01/2024 09:01]  Stephanios: [Citizen, Yew]
+[11/01/2024 09:01]  Stephanios: Lord Stephanios
+[11/01/2024 09:01]  a lich magus: a lich magus
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  You see: a rag witch corpse
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  You see: a lich corpse
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  a black cat: a black cat
+[11/01/2024 09:01]  an ossuarian fire priest: an ossuarian fire priest
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  a black cat: a black cat
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  Razor: Attack: a black cat
+[11/01/2024 09:01]  System: Anatomy skillgain: 3.030%
+[11/01/2024 09:01]  System: Your shot hinders your target!
+[11/01/2024 09:01]  a black cat: -187
+[11/01/2024 09:01]  an ossuarian huntress: *readies net*
+[11/01/2024 09:01]  Stephanios: *entangled*
+[11/01/2024 09:01]  System: Perco has completed the achievement: Carpenter (Basic).
+[11/01/2024 09:01]  System: Anatomy skillgain: 2.998%
+[11/01/2024 09:01]  a black cat: -124
+[11/01/2024 09:01]  You see: an ostard corpse
+[11/01/2024 09:01]  System: What instrument shall you play?
+[11/01/2024 09:01]  Razor: Target: a black cat
+[11/01/2024 09:01]  System: That is too far away.
+[11/01/2024 09:01]  System: What instrument shall you play?
+[11/01/2024 09:01]  Razor: Target: an ossuarian fire priest
+[11/01/2024 09:01]  System: That is too far away.
+[11/01/2024 09:01]  System: Anatomy skillgain: 2.983%
+[11/01/2024 09:01]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[11/01/2024 09:01]  a black cat: -178
+[11/01/2024 09:01]  You see: an ostard corpse
+[11/01/2024 09:01]  You see: an ossuarian huntress
+[11/01/2024 09:01]  Razor: Attack: a black cat
+[11/01/2024 09:01]  You see: an ostard corpse
+[11/01/2024 09:01]  System: What instrument shall you play?
+[11/01/2024 09:01]  System: Anatomy skillgain: 2.953%
+[11/01/2024 09:01]  a black cat: -137
+[11/01/2024 09:01]  Razor: Target: a black cat
+[11/01/2024 09:01]  System: That is too far away.
+[11/01/2024 09:01]  You see: an ostard corpse
+[11/01/2024 09:01]  You see: an ossuarian huntress
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  [Razor]: Target queue cleared.
+[11/01/2024 09:01]  [Razor]: You are not holding anything.
+[11/01/2024 09:01]  [Razor]: New target set.
+[11/01/2024 09:01]  Razor: Target: a black cat
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  You see: a lich corpse
+[11/01/2024 09:01]  You see: a rag witch corpse
+[11/01/2024 09:01]  [Razor]: Ignore List cleared
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: What instrument shall you play?
+[11/01/2024 09:01]  Razor: Attack: a black cat
+[11/01/2024 09:01]  System: That is too far away.
+[11/01/2024 09:01]  Ailiin: -22
+[11/01/2024 09:01]  Razor: [Lethal Poison] a black cat
+[11/01/2024 09:01]  Razor: [+Start auto-heal]
+[11/01/2024 09:01]  System: Who will you use the bandages on?
+[11/01/2024 09:01]  System: You begin applying the bandages.
+[11/01/2024 09:01]  System: You must wait to perform another action.
+[11/01/2024 09:01]  You see: a rag witch corpse
+[11/01/2024 09:01]  You see: an ostard corpse
+[11/01/2024 09:01]  Stephanios: Skinner
+[11/01/2024 09:01]  Stephanios: [Citizen, Yew]
+[11/01/2024 09:01]  Stephanios: Lord Stephanios
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  Razor: Bandage: 6s
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:01]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: What instrument shall you play?
+[11/01/2024 09:02]  System: Anatomy skillgain: 2.968%
+[11/01/2024 09:02]  a black cat: -96
+[11/01/2024 09:02]  Ailiin: -45
+[11/01/2024 09:02]  Razor: Target: a black cat
+[11/01/2024 09:02]  System: That is too far away.
+[11/01/2024 09:02]  Razor: Bandage: 3s
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  a lich magus: a lich magus
+[11/01/2024 09:02]  You see: a lich magus corpse
+[11/01/2024 09:02]  Razor: Attack: a black cat
+[11/01/2024 09:02]  an ossuarian fire priest: an ossuarian fire priest
+[11/01/2024 09:02]  System: You finish applying the bandages.
+[11/01/2024 09:02]  Ailiin: +58
+[11/01/2024 09:02]  System: Anatomy skillgain: 2.784%
+[11/01/2024 09:02]  System: Who will you use the bandages on?
+[11/01/2024 09:02]  System: You begin applying the bandages.
+[11/01/2024 09:02]  System: You must wait to perform another action.
+[11/01/2024 09:02]  Ailiin: +6
+[11/01/2024 09:02]  Razor: Bandage: 6s
+[11/01/2024 09:02]  System: You have gained some fame.
+[11/01/2024 09:02]  System: You have gained some karma.
+[11/01/2024 09:02]  System: You have unlocked a codex upgrade point for Archery (7 available).
+[11/01/2024 09:02]  Ailiin: (Lyric Aspect 1,295.5/4500 xp)
+[11/01/2024 09:02]  System: Society Job Progress: 113/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:02]  System: Society Job Progress: 1/36 [Kill 36 Black Cat].
+[11/01/2024 09:02]  System: What instrument shall you play?
+[11/01/2024 09:02]  You see: a black cat corpse
+[11/01/2024 09:02]  Ailiin: +1
+[11/01/2024 09:02]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:02]  Ailiin: +0
+[11/01/2024 09:02]  You see: a lich magus corpse
+[11/01/2024 09:02]  Razor: Bandage: 3s
+[11/01/2024 09:02]  You see: an ostard corpse
+[11/01/2024 09:02]  Stephanios: Skinner
+[11/01/2024 09:02]  Stephanios: [Citizen, Yew]
+[11/01/2024 09:02]  Stephanios: Lord Stephanios
+[11/01/2024 09:02]  a black cat: *frenzies*
+[11/01/2024 09:02]  You see: a lich magus corpse
+[11/01/2024 09:02]  System: You heal what little damage you had.
+[11/01/2024 09:02]  System: Anatomy skillgain: 0.900%
+[11/01/2024 09:02]  You see: a lich corpse
+[11/01/2024 09:02]  You see: a rag witch corpse
+[11/01/2024 09:02]  Razor: [+Stop]
+[11/01/2024 09:02]  Razor: [+Stop]
+[11/01/2024 09:02]  [Razor]: Target queue cleared.
+[11/01/2024 09:02]  [Razor]: You are not holding anything.
+[11/01/2024 09:02]  [Razor]: New target set.
+[11/01/2024 09:02]  Razor: Target: a black cat
+[11/01/2024 09:02]  You see: a rag witch corpse
+[11/01/2024 09:02]  [Razor]: Ignore List cleared
+[11/01/2024 09:02]  System: What instrument shall you play?
+[11/01/2024 09:02]  Razor: Attack: a black cat
+[11/01/2024 09:02]  System: Anatomy skillgain: 2.953%
+[11/01/2024 09:02]  a black cat: -96
+[11/01/2024 09:02]  System: That is too far away.
+[11/01/2024 09:02]  Razor: [Lethal Poison] a black cat
+[11/01/2024 09:02]  Razor: [+Start auto-heal]
+[11/01/2024 09:02]  System: What instrument shall you play?
+[11/01/2024 09:02]  Razor: Target: a black cat
+[11/01/2024 09:02]  System: That is too far away.
+[11/01/2024 09:02]  System: Anatomy skillgain: 2.923%
+[11/01/2024 09:02]  a black cat: -135
+[11/01/2024 09:02]  System: Your shot turns the target into a pincushion.
+[11/01/2024 09:02]  System: You have gained some fame.
+[11/01/2024 09:02]  System: You have gained some karma.
+[11/01/2024 09:02]  Ailiin: (Lyric Aspect 1,298.2/4500 xp)
+[11/01/2024 09:02]  System: Society Job Progress: 223/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:02]  System: Society Job Progress: 2/36 [Kill 36 Black Cat].
+[11/01/2024 09:02]  System: -107
+[11/01/2024 09:02]  You see: a black cat corpse
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  an ossuarian fire priest: an ossuarian fire priest
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  You see: an ostard corpse
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  an ossuarian embalmer: an ossuarian embalmer
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  You see: a rag witch corpse
+[11/01/2024 09:02]  You see: a rag witch corpse
+[11/01/2024 09:02]  You see: a lich corpse
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  an ossuarian fire priest: an ossuarian fire priest
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  System: Ulfberht Inc. has completed the achievement: Leatherworker (Basic).
+[11/01/2024 09:02]  System: What instrument shall you play?
+[11/01/2024 09:02]  Razor: Target: an ossuarian fire priest
+[11/01/2024 09:02]  System: That is too far away.
+[11/01/2024 09:02]  an ossuarian embalmer: an ossuarian embalmer
+[11/01/2024 09:02]  [Razor]: Target queue cleared.
+[11/01/2024 09:02]  [Razor]: You are not holding anything.
+[11/01/2024 09:02]  [Razor]: New target set.
+[11/01/2024 09:02]  [Razor]: Ignore List cleared
+[11/01/2024 09:02]  System: What instrument shall you play?
+[11/01/2024 09:02]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:02]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:02]  an ossuarian fire priest: -153
+[11/01/2024 09:02]  System: That is too far away.
+[11/01/2024 09:02]  Razor: an ossuarian fire priest
+[11/01/2024 09:02]  Razor: [+Start auto-heal]
+[11/01/2024 09:02]  System: What instrument shall you play?
+[11/01/2024 09:02]  Btlomorf: Btlomorf
+[11/01/2024 09:02]  Ailiin: -24
+[11/01/2024 09:02]  Razor: Target: an ossuarian fire priest
+[11/01/2024 09:02]  System: Who will you use the bandages on?
+[11/01/2024 09:02]  System: You begin applying the bandages.
+[11/01/2024 09:02]  You see: an ossuarian slinger corpse
+[11/01/2024 09:02]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:02]  Razor: Bandage: 6s
+[11/01/2024 09:02]  You see: an ostard corpse
+[11/01/2024 09:02]  Ailiin: -26
+[11/01/2024 09:02]  Ailiin: -8
+[11/01/2024 09:02]  Razor: Bandage: 3s
+[11/01/2024 09:02]  You see: a black cat corpse
+[11/01/2024 09:02]  an ossuarian fire priestess: an ossuarian fire priestess
+[11/01/2024 09:02]  You see: a black cat corpse
+[11/01/2024 09:02]  You see: an ostard corpse
+[11/01/2024 09:02]  You see: an ossuarian huntress
+[11/01/2024 09:02]  System: You finish applying the bandages.
+[11/01/2024 09:02]  Ailiin: +55
+[11/01/2024 09:02]  System: Anatomy skillgain: 2.742%
+[11/01/2024 09:02]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:02]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  Ailiin: +1
+[11/01/2024 09:02]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  You see: a lich corpse
+[11/01/2024 09:02]  You see: a rag witch corpse
+[11/01/2024 09:02]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  You see: an ostard corpse
+[11/01/2024 09:02]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  Ailiin: -21
+[11/01/2024 09:02]  System: Who will you use the bandages on?
+[11/01/2024 09:02]  System: You begin applying the bandages.
+[11/01/2024 09:02]  Ailiin: +6
+[11/01/2024 09:02]  You see: a rag witch corpse
+[11/01/2024 09:02]  Ailiin: +6
+[11/01/2024 09:02]  Razor: Bandage: 6s
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  You see: a rag witch corpse
+[11/01/2024 09:02]  You see: a rag witch corpse
+[11/01/2024 09:02]  You see: a rag witch corpse
+[11/01/2024 09:02]  Razor: Bandage: 3s
+[11/01/2024 09:02]  System: You finish applying the bandages.
+[11/01/2024 09:02]  Ailiin: +8
+[11/01/2024 09:02]  System: Anatomy skillgain: 0.900%
+[11/01/2024 09:02]  You see: a lich magus corpse
+[11/01/2024 09:02]  Ailiin: +0
+[11/01/2024 09:02]  Ailiin: +0
+[11/01/2024 09:02]  a lich: a lich
+[11/01/2024 09:02]  a mummy: a mummy
+[11/01/2024 09:02]  a mummy: a mummy
+[11/01/2024 09:02]  Ailiin: +0
+[11/01/2024 09:02]  a mummy: a mummy
+[11/01/2024 09:02]  You see: a mummy corpse
+[11/01/2024 09:02]  You see: a mummy corpse
+[11/01/2024 09:02]  You see: a mummy corpse
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  You see: a lich corpse
+[11/01/2024 09:02]  You see: a nightmare corpse
+[11/01/2024 09:02]  a nightmare: a nightmare
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  You see: a nightmare corpse
+[11/01/2024 09:02]  You see: a nightmare corpse
+[11/01/2024 09:02]  a nightmare: a nightmare
+[11/01/2024 09:02]  a skeletal knight: a skeletal knight
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  a skeletal archer: a skeletal archer
+[11/01/2024 09:02]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:02]  You see: a sand crawler corpse
+[11/01/2024 09:03]  a sand crawler: a sand crawler
+[11/01/2024 09:03]  You see: a sand crawler corpse
+[11/01/2024 09:03]  You see: a cave bat corpse
+[11/01/2024 09:03]  Ailiin: -24
+[11/01/2024 09:03]  System: Who will you use the bandages on?
+[11/01/2024 09:03]  System: You begin applying the bandages.
+[11/01/2024 09:03]  System: You must wait to perform another action.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  Razor: Bandage: 6s
+[11/01/2024 09:03]  You see: a skeletal marksman corpse
+[11/01/2024 09:03]  You see: a skeletal marksman corpse
+[11/01/2024 09:03]  a scorpion: a scorpion
+[11/01/2024 09:03]  a cave bat: a cave bat
+[11/01/2024 09:03]  a skeletal marksman: a skeletal marksman
+[11/01/2024 09:03]  a skeletal marksman: a skeletal marksman
+[11/01/2024 09:03]  a lich: a lich
+[11/01/2024 09:03]  You see: a fire ant corpse
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  a skeletal marksman: a skeletal marksman
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  Razor: Bandage: 3s
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  You see: a lich corpse
+[11/01/2024 09:03]  a skeletal marksman: a skeletal marksman
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  a fire ant: a fire ant
+[11/01/2024 09:03]  System: You finish applying the bandages.
+[11/01/2024 09:03]  Ailiin: +23
+[11/01/2024 09:03]  System: Anatomy skillgain: 0.900%
+[11/01/2024 09:03]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:03]  Ailiin: +0
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  a fire ant: a fire ant
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  Ailiin: +0
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  Ailiin: +0
+[11/01/2024 09:03]  a skeletal mage: a skeletal mage
+[11/01/2024 09:03]  a fire ant: a fire ant
+[11/01/2024 09:03]  a necromancer: a necromancer
+[11/01/2024 09:03]  a scarab: a scarab
+[11/01/2024 09:03]  You see: a skeleton guardian corpse
+[11/01/2024 09:03]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:03]  You see: a ghoul corpse
+[11/01/2024 09:03]  a ghoul: a ghoul
+[11/01/2024 09:03]  a ghoul: a ghoul
+[11/01/2024 09:03]  a necromancer: a necromancer
+[11/01/2024 09:03]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  Mescalitos: Mescalitos
+[11/01/2024 09:03]  a sun wyrmling: (bonded)
+[11/01/2024 09:03]  a sun wyrmling: a sun wyrmling
+[11/01/2024 09:03]  a sun wyrm: (bonded)
+[11/01/2024 09:03]  a sun wyrm: a sun wyrm
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:03]  a necromancer: a necromancer
+[11/01/2024 09:03]  Ailiin: -5
+[11/01/2024 09:03]  System: Who will you use the bandages on?
+[11/01/2024 09:03]  System: You begin applying the bandages.
+[11/01/2024 09:03]  Ailiin: -12
+[11/01/2024 09:03]  System: Your fingers slip!
+[11/01/2024 09:03]  You see: a skeletal archer corpse
+[11/01/2024 09:03]  Razor: Bandage: 6s
+[11/01/2024 09:03]  You see: a skeletal corpse
+[11/01/2024 09:03]  You see: a skeletal corpse
+[11/01/2024 09:03]  You see: a skeletal corpse
+[11/01/2024 09:03]  You see: a skeletal corpse
+[11/01/2024 09:03]  a mummy: a mummy
+[11/01/2024 09:03]  System: 14° 3'N, 41° 45'W
+[11/01/2024 09:03]  System: Your skill in Tactics has decreased by 41.0.  It is now 100.0.
+[11/01/2024 09:03]  Ailiin: Kal Ort Por [Recall]
+[11/01/2024 09:03]  Razor: [+Stop]
+[11/01/2024 09:03]  Razor: Bandage: 3s
+[11/01/2024 09:03]  a skeletal knight: a skeletal knight
+[11/01/2024 09:03]  System: You are now under the protection of the town guards.
+[11/01/2024 09:03]  Ailiin: Your mount returns.
+[11/01/2024 09:03]  a goat: a goat
+[11/01/2024 09:03]  Keara: Keara the stablemaster
+[11/01/2024 09:03]  Renee: Renee the stablemaster
+[11/01/2024 09:03]  Sky Miaqirelle: [-_-]
+[11/01/2024 09:03]  Sky Miaqirelle: Lady Sky Miaqirelle
+[11/01/2024 09:03]  Denton: Denton the innkeeper
+[11/01/2024 09:03]  Thurston: Thurston the waiter
+[11/01/2024 09:03]  System: You finish applying the bandages.
+[11/01/2024 09:03]  Ailiin: +16
+[11/01/2024 09:03]  System: Anatomy skillgain: 0.900%
+[11/01/2024 09:03]  Ailiin: Bank Vendor buy
+[11/01/2024 09:03]  Ailiin: +0
+[11/01/2024 09:03]  Ailiin: Room
+[11/01/2024 09:03]  System: You have left the protection of the town guards.
+[11/01/2024 09:03]  System: You enter the rental room.
+[11/01/2024 09:03]  System: WorldMap loaded!
+[11/01/2024 09:03]  Ailiin: +0
+[11/01/2024 09:03]  Ailiin: +0
+[11/01/2024 09:03]  Ailiin: Kal Ort Por [Recall]
+[11/01/2024 09:03]  Ailiin: Your mount finds a quiet place to rest safely.
+[11/01/2024 09:03]  a skeletal knight: a skeletal knight
+[11/01/2024 09:03]  a skeletal archer: a skeletal archer
+[11/01/2024 09:03]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:03]  a ghoul: a ghoul
+[11/01/2024 09:03]  a ghoul: a ghoul
+[11/01/2024 09:03]  You see: a skeletal archer corpse
+[11/01/2024 09:03]  You see: a ghoul corpse
+[11/01/2024 09:03]  System: Your skill in Tactics has increased by 41.0.  It is now 141.0.
+[11/01/2024 09:03]  System: WorldMap loaded!
+[11/01/2024 09:03]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:03]  a scarab: a scarab
+[11/01/2024 09:03]  a fire ant: a fire ant
+[11/01/2024 09:03]  a necromancer: a necromancer
+[11/01/2024 09:03]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:03]  Ailiin: -8
+[11/01/2024 09:03]  You see: a skeleton guardian corpse
+[11/01/2024 09:03]  Razor: Target: Ailiin
+[11/01/2024 09:03]  a ghoul: *looks calmed*
+[11/01/2024 09:03]  a ghoul: *looks calmed*
+[11/01/2024 09:03]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[11/01/2024 09:03]  You see: a ghoul corpse
+[11/01/2024 09:04]  a necromancer: a necromancer
+[11/01/2024 09:04]  a skeletal guardian: a skeletal guardian
+[11/01/2024 09:04]  a skeletal mage: a skeletal mage
+[11/01/2024 09:04]  a necromancer: a necromancer
+[11/01/2024 09:04]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:04]  a skeletal mage: a skeletal mage
+[11/01/2024 09:04]  You see: a lich corpse
+[11/01/2024 09:04]  You see: a fire ant corpse
+[11/01/2024 09:04]  a fire ant: a fire ant
+[11/01/2024 09:04]  a lich: a lich
+[11/01/2024 09:04]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:04]  a skeletal marksman: a skeletal marksman
+[11/01/2024 09:04]  a fire ant: a fire ant
+[11/01/2024 09:04]  a scarab: a scarab
+[11/01/2024 09:04]  a skeletal marksman: a skeletal marksman
+[11/01/2024 09:04]  a scorpion: a scorpion
+[11/01/2024 09:04]  You see: a skeletal marksman corpse
+[11/01/2024 09:04]  You see: a skeletal marksman corpse
+[11/01/2024 09:04]  a scarab: a scarab
+[11/01/2024 09:04]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:04]  System: You are now under the effect of a Song of Peacemaking (12.5% healing amounts for 15 minutes).
+[11/01/2024 09:04]  System: You have gained a little fame.
+[11/01/2024 09:04]  System: You have gained a little karma.
+[11/01/2024 09:04]  Ailiin: (Lyric Aspect 1,299.2/4500 xp)
+[11/01/2024 09:04]  System: Society Job Progress: 255/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:04]  You see: a cave bat corpse
+[11/01/2024 09:04]  You see: a sand crawler corpse
+[11/01/2024 09:04]  You see: a nightmare corpse
+[11/01/2024 09:04]  You see: a lich corpse
+[11/01/2024 09:04]  a cave bat: a cave bat
+[11/01/2024 09:04]  a lich: a lich
+[11/01/2024 09:04]  a nightmare: a nightmare
+[11/01/2024 09:04]  a mummy: a mummy
+[11/01/2024 09:04]  : sandstone wall
+[11/01/2024 09:04]  : sandstone wall
+[11/01/2024 09:04]  a sand crawler: a sand crawler
+[11/01/2024 09:04]  You see: a rag witch corpse
+[11/01/2024 09:04]  You see: a rag witch corpse
+[11/01/2024 09:04]  You see: a rag witch corpse
+[11/01/2024 09:04]  You see: a nightmare corpse
+[11/01/2024 09:04]  a nightmare: a nightmare
+[11/01/2024 09:04]  You see: a lich corpse
+[11/01/2024 09:04]  a lich: a lich
+[11/01/2024 09:04]  a sand crawler: a sand crawler
+[11/01/2024 09:04]  You see: a nightmare corpse
+[11/01/2024 09:04]  a mummy: a mummy
+[11/01/2024 09:04]  You see: a rag witch corpse
+[11/01/2024 09:04]  You see: a rag witch corpse
+[11/01/2024 09:04]  a mummy: a mummy
+[11/01/2024 09:04]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  You see: a lich magus corpse
+[11/01/2024 09:04]  You see: a mummy corpse
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  You see: a mummy corpse
+[11/01/2024 09:04]  You see: an ostard corpse
+[11/01/2024 09:04]  You see: an ossuarian huntress
+[11/01/2024 09:04]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:04]  System: You are now under the effect of a Song of Discordance (12.5% reduced damage from creatures for 15 minutes).
+[11/01/2024 09:04]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:04]  You see: a black cat corpse
+[11/01/2024 09:04]  You see: an ossuarian slinger corpse
+[11/01/2024 09:04]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:04]  You see: an ossuarian slinger corpse
+[11/01/2024 09:04]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:04]  You see: an ostard corpse
+[11/01/2024 09:04]  You see: a black cat corpse
+[11/01/2024 09:04]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:04]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:04]  a lich: a lich
+[11/01/2024 09:04]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:04]  Btlomorf: Btlomorf
+[11/01/2024 09:04]  a gravebug: (bonded)
+[11/01/2024 09:04]  a gravebug: a gravebug
+[11/01/2024 09:04]  a sunscale: (bonded)
+[11/01/2024 09:04]  a sunscale: a sunscale
+[11/01/2024 09:04]  Madeover: [Member, NC]
+[11/01/2024 09:04]  Madeover: Madeover
+[11/01/2024 09:04]  System: Van Hurius has completed the achievement: Scribe (Basic).
+[11/01/2024 09:04]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:04]  System: You are now under the effect of a Song of Provocation (+12.5% damage against creatures for 15 minutes).
+[11/01/2024 09:04]  Madeover: [Member, NC]
+[11/01/2024 09:04]  Madeover: Madeover
+[11/01/2024 09:04]  a gravebug: (bonded)
+[11/01/2024 09:04]  a gravebug: a gravebug
+[11/01/2024 09:04]  a sunscale: (bonded)
+[11/01/2024 09:04]  a sunscale: a sunscale
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  a black cat: a black cat
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:04]  [Razor]: Target queue cleared.
+[11/01/2024 09:04]  [Razor]: You are not holding anything.
+[11/01/2024 09:04]  [Razor]: New target set.
+[11/01/2024 09:04]  Razor: Target: a black cat
+[11/01/2024 09:04]  Madeover: all guard
+[11/01/2024 09:04]  [Razor]: Ignore List cleared
+[11/01/2024 09:04]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:04]  Razor: Attack: a black cat
+[11/01/2024 09:04]  System: Anatomy skillgain: 3.046%
+[11/01/2024 09:04]  a black cat: -185
+[11/01/2024 09:04]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:04]  a black cat: *looks calmed*
+[11/01/2024 09:04]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:04]  Razor: *pacified 50s* a black cat
+[11/01/2024 09:04]  Razor: [+Start auto-heal]
+[11/01/2024 09:04]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:04]  [Razor]: Target queue cleared.
+[11/01/2024 09:04]  [Razor]: You are not holding anything.
+[11/01/2024 09:04]  [Razor]: New target set.
+[11/01/2024 09:04]  Razor: Target: a black cat
+[11/01/2024 09:04]  [Razor]: Ignore List cleared
+[11/01/2024 09:04]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:04]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:04]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:04]  Razor: *pacified 47s discord 1m 56s* a black cat
+[11/01/2024 09:04]  Razor: [+Start auto-heal]
+[11/01/2024 09:04]  System: Anatomy skillgain: 3.014%
+[11/01/2024 09:04]  System: Your shot hinders your target!
+[11/01/2024 09:04]  a black cat: -391
+[11/01/2024 09:04]  System: You have gained some fame.
+[11/01/2024 09:04]  System: You have gained some karma.
+[11/01/2024 09:04]  Ailiin: (Lyric Aspect 1,301.9/4500 xp)
+[11/01/2024 09:04]  System: Society Job Progress: 366/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:04]  System: Society Job Progress: 3/36 [Kill 36 Black Cat].
+[11/01/2024 09:04]  You see: a black cat corpse
+[11/01/2024 09:04]  Ailiin: [Ripe, SQzD]
+[11/01/2024 09:04]  Ailiin: Ailiin
+[11/01/2024 09:05]  System: 2 players invited to party.
+[11/01/2024 09:05]  System: Btlomorf : joined the party.
+[11/01/2024 09:05]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:05]  System: Madeover : joined the party.
+[11/01/2024 09:05]  Madeover: [Member, NC]
+[11/01/2024 09:05]  Madeover: Madeover
+[11/01/2024 09:05]  Madeover: all guard
+[11/01/2024 09:05]  Ailiin: [Ripe, SQzD]
+[11/01/2024 09:05]  Ailiin: Ailiin
+[11/01/2024 09:05]  : sandstone wall
+[11/01/2024 09:05]  You see: an ostard corpse
+[11/01/2024 09:05]  You see: an ossuarian slinger corpse
+[11/01/2024 09:05]  Madeover: In Vas Mani [Greater Heal]
+[11/01/2024 09:05]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:05]  System: You are now under the effect of a Song of Discordance (12.5% reduced damage from creatures for 15 minutes).
+[11/01/2024 09:05]  Madeover: Vas Uus Sanct [Arch Protection]
+[11/01/2024 09:05]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:06]  System: You must wait a few moments before performing another barding song.
+[11/01/2024 09:06]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:06]  System: You must wait a few moments before performing another barding song.
+[11/01/2024 09:06]  Madeover: Rel Sanct [Bless]
+[11/01/2024 09:06]  a rag witch: a rag witch
+[11/01/2024 09:06]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:06]  System: You are now under the effect of a Song of Provocation (+12.5% damage against creatures for 15 minutes).
+[11/01/2024 09:06]  Madeover: [Member, NC]
+[11/01/2024 09:06]  Madeover: Madeover
+[11/01/2024 09:06]  Madeover: Rel Sanct [Bless]
+[11/01/2024 09:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:06]  System: You must wait a few moments before performing another barding song.
+[11/01/2024 09:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:06]  System: You must wait a few moments before performing another barding song.
+[11/01/2024 09:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:06]  System: You must wait a few moments before performing another barding song.
+[11/01/2024 09:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:06]  System: You are now under the effect of a Song of Peacemaking (12.5% healing amounts for 15 minutes).
+[11/01/2024 09:06]  You see: a black cat corpse
+[11/01/2024 09:06]  You see: an ostard corpse
+[11/01/2024 09:06]  You see: an ossuarian huntress
+[11/01/2024 09:06]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:06]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:06]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:06]  a lich: a lich
+[11/01/2024 09:06]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:06]  You see: a lich corpse
+[11/01/2024 09:06]  Ailiin: That is out of my line of sight.
+[11/01/2024 09:06]  You see: an ostard corpse
+[11/01/2024 09:06]  You see: a rag witch corpse
+[11/01/2024 09:06]  Btlomorf: Btlomorf
+[11/01/2024 09:06]  Btlomorf: Btlomorf
+[11/01/2024 09:06]  Btlomorf: Btlomorf
+[11/01/2024 09:06]  an ossuarian huntress: an ossuarian huntress
+[11/01/2024 09:06]  You see: a lich magus corpse
+[11/01/2024 09:06]  a lich magus: a lich magus
+[11/01/2024 09:06]  You see: a lich magus corpse
+[11/01/2024 09:06]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:06]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:06]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:06]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:06]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:06]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:06]  Razor: Target: a lich magus
+[11/01/2024 09:06]  System: Whom do you wish them to attack?
+[11/01/2024 09:06]  Razor: Target: an ossuarian huntress
+[11/01/2024 09:06]  System: You play successfully, provoking your targets. (51s)
+[11/01/2024 09:06]  System: Anatomy skillgain: 2.908%
+[11/01/2024 09:06]  a lich magus: *looks furious*
+[11/01/2024 09:06]  an ossuarian huntress: *looks furious*
+[11/01/2024 09:06]  an ossuarian huntress: *readies net*
+[11/01/2024 09:06]  Razor: Attack: an ossuarian huntress
+[11/01/2024 09:06]  a lich magus: *entangled*
+[11/01/2024 09:06]  Ailiin: -19
+[11/01/2024 09:06]  System: Who will you use the bandages on?
+[11/01/2024 09:06]  System: You begin applying the bandages.
+[11/01/2024 09:06]  Razor: Attack: an ossuarian huntress
+[11/01/2024 09:06]  System: Anatomy skillgain: 2.923%
+[11/01/2024 09:06]  an ossuarian huntress: -195
+[11/01/2024 09:06]  an ossuarian skirmisher: an ossuarian skirmisher
+[11/01/2024 09:06]  Razor: Bandage: 6s
+[11/01/2024 09:06]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:06]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:06]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:06]  a lich magus: -39
+[11/01/2024 09:06]  Razor: Attack: an ossuarian huntress
+[11/01/2024 09:06]  an ossuarian huntress: -40
+[11/01/2024 09:06]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:06]  Madeover: all kill
+[11/01/2024 09:06]  Razor: Bandage: 3s
+[11/01/2024 09:06]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:06]  an ossuarian huntress: -396
+[11/01/2024 09:06]  Razor: Attack: an ossuarian huntress
+[11/01/2024 09:06]  System: Where should I throw this potion?
+[11/01/2024 09:06]  Ailiin: 5
+[11/01/2024 09:06]  an ossuarian huntress: -44
+[11/01/2024 09:06]  You see: an ostard corpse
+[11/01/2024 09:06]  You see: an ossuarian huntress
+[11/01/2024 09:06]  System: You finish applying the bandages.
+[11/01/2024 09:06]  Ailiin: +18
+[11/01/2024 09:06]  System: Anatomy skillgain: 2.701%
+[11/01/2024 09:06]  Ailiin: 4
+[11/01/2024 09:06]  a lich magus: -40
+[11/01/2024 09:06]  Razor: Attack: an ossuarian huntress
+[11/01/2024 09:06]  Explosion potion: 3
+[11/01/2024 09:06]  Ailiin: +0
+[11/01/2024 09:06]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:06]  Ailiin: +0
+[11/01/2024 09:06]  Explosion potion: 2
+[11/01/2024 09:06]  Ailiin: +0
+[11/01/2024 09:06]  Explosion potion: 1
+[11/01/2024 09:06]  an ossuarian huntress: -40
+[11/01/2024 09:06]  a lich magus: -161
+[11/01/2024 09:06]  an ossuarian huntress: -206
+[11/01/2024 09:06]  a gravebug: -38
+[11/01/2024 09:06]  a sunscale: -41
+[11/01/2024 09:06]  System: You have gained a little fame.
+[11/01/2024 09:06]  System: You have gained a little karma.
+[11/01/2024 09:06]  Ailiin: (Lyric Aspect 1,304.1/4500 xp)
+[11/01/2024 09:06]  System: Society Job Progress: 452/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:06]  You see: an ostard corpse
+[11/01/2024 09:06]  You see: an ossuarian huntress
+[11/01/2024 09:06]  Btlomorf: Btlomorf
+[11/01/2024 09:06]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:06]  an ossuarian pyromancer: an ossuarian pyromancer
+[11/01/2024 09:06]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:06]  a sunscale: -28
+[11/01/2024 09:06]  Razor: Target: a lich magus
+[11/01/2024 09:06]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:06]  a lich magus: *looks calmed*
+[11/01/2024 09:06]  Razor: Attack: a lich magus
+[11/01/2024 09:06]  Madeover: all kill
+[11/01/2024 09:07]  Btlomorf: Btlomorf
+[11/01/2024 09:07]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:07]  a lich magus: -356
+[11/01/2024 09:07]  System: Cacophony activated.
+[11/01/2024 09:07]  System: You have gained some fame.
+[11/01/2024 09:07]  System: You have gained some karma.
+[11/01/2024 09:07]  Ailiin: (Lyric Aspect 1,307.3/4500 xp)
+[11/01/2024 09:07]  System: Society Job Progress: 612/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:07]  System: -1851
+[11/01/2024 09:07]  You see: a lich magus corpse
+[11/01/2024 09:07]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:07]  You see: a lich magus corpse
+[11/01/2024 09:07]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 09:07]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:07]  Btlomorf: Btlomorf
+[11/01/2024 09:07]  an ossuarian skirmisher: [Lethal Poison]
+[11/01/2024 09:07]  an ossuarian skirmisher: an ossuarian skirmisher
+[11/01/2024 09:07]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:07]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:07]  You see: a black cat corpse
+[11/01/2024 09:07]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:07]  You see: a black cat corpse
+[11/01/2024 09:07]  a gravebug: *devours corpse*
+[11/01/2024 09:07]  You see: a black cat corpse
+[11/01/2024 09:07]  You see: an ossuarian slinger corpse
+[11/01/2024 09:07]  You see: a rag witch corpse
+[11/01/2024 09:07]  Madeover: all guard
+[11/01/2024 09:07]  a gravebug: (bonded)
+[11/01/2024 09:07]  a gravebug: a gravebug
+[11/01/2024 09:07]  [Razor]: Target queue cleared.
+[11/01/2024 09:07]  [Razor]: You are not holding anything.
+[11/01/2024 09:07]  [Razor]: New target set.
+[11/01/2024 09:07]  Razor: Target: an ossuarian skirmisher
+[11/01/2024 09:07]  [Razor]: Ignore List cleared
+[11/01/2024 09:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:07]  Razor: Attack: an ossuarian skirmisher
+[11/01/2024 09:07]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:07]  an ossuarian skirmisher: *looks calmed*
+[11/01/2024 09:07]  System: Anatomy skillgain: 3.030%
+[11/01/2024 09:07]  Razor: -249
+[11/01/2024 09:07]  an ossuarian skirmisher: *pacified 50s*
+[11/01/2024 09:07]  an ossuarian skirmisher: [Lethal Poison]
+[11/01/2024 09:07]  an ossuarian skirmisher: an ossuarian skirmisher
+[11/01/2024 09:07]  Razor: [+Start auto-heal]
+[11/01/2024 09:07]  a black cat: a black cat
+[11/01/2024 09:07]  You see: a black cat corpse
+[11/01/2024 09:07]  You see: a lich magus corpse
+[11/01/2024 09:07]  You see: a lich magus corpse
+[11/01/2024 09:07]  Madeover: [Member, NC]
+[11/01/2024 09:07]  Madeover: Madeover
+[11/01/2024 09:07]  You see: a lich magus corpse
+[11/01/2024 09:07]  Madeover: [Member, NC]
+[11/01/2024 09:07]  Madeover: Madeover
+[11/01/2024 09:07]  an ossuarian skirmisher: *barding break*
+[11/01/2024 09:07]  a gravebug: (bonded)
+[11/01/2024 09:07]  a gravebug: a gravebug
+[11/01/2024 09:07]  an ossuarian pyromancer: an ossuarian pyromancer
+[11/01/2024 09:07]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:07]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:07]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:07]  Razor: Attack: an ossuarian pyromancer
+[11/01/2024 09:07]  System: Anatomy skillgain: 2.998%
+[11/01/2024 09:07]  an ossuarian pyromancer: -250
+[11/01/2024 09:07]  Madeover: In Vas Mani [Greater Heal]
+[11/01/2024 09:07]  System: Anatomy skillgain: 2.968%
+[11/01/2024 09:07]  an ossuarian pyromancer: -147
+[11/01/2024 09:07]  an ossuarian lion warrior: an ossuarian lion warrior
+[11/01/2024 09:07]  System: You have gained a little fame.
+[11/01/2024 09:07]  System: You have gained a little karma.
+[11/01/2024 09:07]  Ailiin: (Lyric Aspect 1,309.3/4500 xp)
+[11/01/2024 09:07]  System: Society Job Progress: 692/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:07]  an ossuarian executioner: an ossuarian executioner
+[11/01/2024 09:07]  Razor: Target: an ossuarian lion warrior
+[11/01/2024 09:07]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:07]  an ossuarian lion warrior: *looks calmed*
+[11/01/2024 09:07]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:07]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:07]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:07]  System: You have gained some fame.
+[11/01/2024 09:07]  Ailiin: (Lyric Aspect 1,314.1/4500 xp)
+[11/01/2024 09:07]  System: Society Job Progress: 885/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:07]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:07]  Razor: Attack: an ossuarian lion warrior
+[11/01/2024 09:07]  System: Anatomy skillgain: 2.908%
+[11/01/2024 09:07]  an ossuarian lion warrior: -399
+[11/01/2024 09:07]  System: Cacophony activated.
+[11/01/2024 09:07]  System: You have gained a little fame.
+[11/01/2024 09:07]  Ailiin: (Lyric Aspect 1,315.9/4500 xp)
+[11/01/2024 09:07]  System: Society Job Progress: 976/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:07]  System: -2101
+[11/01/2024 09:07]  You see: an ossuarian lion warrior corpse
+[11/01/2024 09:07]  You see: an ossuarian embalmer corpse
+[11/01/2024 09:07]  an ossuarian hunter: an ossuarian hunter
+[11/01/2024 09:07]  an ossuarian embalmer: an ossuarian embalmer
+[11/01/2024 09:07]  a gravebug: *devours corpse*
+[11/01/2024 09:07]  You see: an ostard corpse
+[11/01/2024 09:07]  You see: an ostard corpse
+[11/01/2024 09:07]  You see: an ossuarian huntress
+[11/01/2024 09:07]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:07]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:07]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:07]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:07]  Btlomorf: Btlomorf
+[11/01/2024 09:07]  a black cat: [Lethal Poison]
+[11/01/2024 09:07]  a black cat: a black cat
+[11/01/2024 09:07]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:07]  Roronoa Zorro: [Druid, BEAR]
+[11/01/2024 09:07]  Roronoa Zorro: Lord Roronoa Zorro
+[11/01/2024 09:07]  You see: an ossuarian slinger corpse
+[11/01/2024 09:07]  You see: a rag witch corpse
+[11/01/2024 09:07]  a sand crawler: a sand crawler
+[11/01/2024 09:07]  You see: a lich corpse
+[11/01/2024 09:07]  : sandstone paver
+[11/01/2024 09:07]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 09:07]  Dennoch: Dennoch
+[11/01/2024 09:07]  System: You have gained a little fame.
+[11/01/2024 09:07]  Ailiin: (Lyric Aspect 1,318.3/4500 xp)
+[11/01/2024 09:07]  System: Society Job Progress: 1,072/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:07]  System: Society Job Progress: 4/36 [Kill 36 Black Cat].
+[11/01/2024 09:07]  You see: a black cat corpse
+[11/01/2024 09:07]  [Razor]: Target queue cleared.
+[11/01/2024 09:07]  [Razor]: You are not holding anything.
+[11/01/2024 09:07]  [Razor]: No one matching that was found on your screen.
+[11/01/2024 09:07]  Razor: Nothing to attack
+[11/01/2024 09:07]  Razor: [+Start auto-heal]
+[11/01/2024 09:07]  Madeover: In Vas Mani [Greater Heal]
+[11/01/2024 09:07]  a gravebug: *devours corpse*
+[11/01/2024 09:07]  a lich: a lich
+[11/01/2024 09:07]  You see: a black cat corpse
+[11/01/2024 09:07]  a black cat: a black cat
+[11/01/2024 09:07]  an ossuarian fire priest: an ossuarian fire priest
+[11/01/2024 09:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:07]  Razor: Target: a black cat
+[11/01/2024 09:07]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:07]  a black cat: *looks calmed*
+[11/01/2024 09:07]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:07]  Razor: Attack: a black cat
+[11/01/2024 09:07]  System: Anatomy skillgain: 2.998%
+[11/01/2024 09:07]  a black cat: -251
+[11/01/2024 09:07]  Madeover: all guard
+[11/01/2024 09:07]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:07]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:08]  Razor: Target: an ossuarian fire priest
+[11/01/2024 09:08]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:08]  an ossuarian fire priest: *looks calmed*
+[11/01/2024 09:08]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:08]  an ossuarian slinger: an ossuarian slinger
+[11/01/2024 09:08]  an ossuarian fire priestess: an ossuarian fire priestess
+[11/01/2024 09:08]  an ossuarian fire priest: *looks violently ill*
+[11/01/2024 09:08]  System: Anatomy skillgain: 2.938%
+[11/01/2024 09:08]  an ossuarian fire priest: -304
+[11/01/2024 09:08]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:08]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:08]  an ossuarian fire priest: *looks violently ill*
+[11/01/2024 09:08]  System: Anatomy skillgain: 2.923%
+[11/01/2024 09:08]  an ossuarian fire priest: -240
+[11/01/2024 09:08]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:08]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:08]  System: You have gained some fame.
+[11/01/2024 09:08]  Ailiin: (Lyric Aspect 1,323.6/4500 xp)
+[11/01/2024 09:08]  System: Society Job Progress: 1,247/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:08]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:08]  a gravebug: *devours corpse*
+[11/01/2024 09:08]  Madeover: all kill
+[11/01/2024 09:08]  Razor: Attack: a black cat
+[11/01/2024 09:08]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:08]  a black cat: -195
+[11/01/2024 09:08]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:08]  Razor: Target: an ossuarian fire priestess
+[11/01/2024 09:08]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:08]  a black cat: -223
+[11/01/2024 09:08]  an ossuarian slinger: an ossuarian slinger
+[11/01/2024 09:08]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:08]  an ossuarian fire priestess: *looks calmed*
+[11/01/2024 09:08]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:08]  an ossuarian fire priestess: *looks violently ill*
+[11/01/2024 09:08]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:08]  a black cat: -276
+[11/01/2024 09:08]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:08]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:08]  Razor: Attack: an ossuarian fire priestess
+[11/01/2024 09:08]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:08]  System: Your shot hinders your target!
+[11/01/2024 09:08]  System: You have gained some fame.
+[11/01/2024 09:08]  Ailiin: (Lyric Aspect 1,327.9/4500 xp)
+[11/01/2024 09:08]  System: Society Job Progress: 1,422/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:08]  System: -374
+[11/01/2024 09:08]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:08]  Razor: Attack: a black cat
+[11/01/2024 09:08]  System: You have gained a little fame.
+[11/01/2024 09:08]  Ailiin: (Lyric Aspect 1,330.3/4500 xp)
+[11/01/2024 09:08]  System: Society Job Progress: 1,518/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:08]  System: Society Job Progress: 5/36 [Kill 36 Black Cat].
+[11/01/2024 09:08]  You see: a black cat corpse
+[11/01/2024 09:08]  You see: an ossuarian slinger corpse
+[11/01/2024 09:08]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:08]  You see: a black cat corpse
+[11/01/2024 09:08]  an ossuarian slinger: an ossuarian slinger
+[11/01/2024 09:08]  You see: an ostard corpse
+[11/01/2024 09:08]  System: Madeover : rejoined the party.
+[11/01/2024 09:08]  Madeover: all guard
+[11/01/2024 09:08]  a gravebug: *devours corpse*
+[11/01/2024 09:08]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:08]  You see: an ostard corpse
+[11/01/2024 09:08]  You see: an ossuarian huntress
+[11/01/2024 09:08]  a lich: a lich
+[11/01/2024 09:08]  You see: a lich corpse
+[11/01/2024 09:08]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 09:08]  You see: an ossuarian slinger corpse
+[11/01/2024 09:08]  You see: a rag witch corpse
+[11/01/2024 09:08]  a rag witch: a rag witch
+[11/01/2024 09:08]  You see: an ostard corpse
+[11/01/2024 09:08]  You see: an ossuarian huntress
+[11/01/2024 09:08]  You see: a lich corpse
+[11/01/2024 09:08]  You see: a rag witch corpse
+[11/01/2024 09:08]  a rag witch: a rag witch
+[11/01/2024 09:08]  a lich: a lich
+[11/01/2024 09:08]  a lich magus: a lich magus
+[11/01/2024 09:08]  You see: a lich magus corpse
+[11/01/2024 09:08]  [Razor]: Target queue cleared.
+[11/01/2024 09:08]  [Razor]: You are not holding anything.
+[11/01/2024 09:08]  [Razor]: New target set.
+[11/01/2024 09:08]  Razor: Target: an ossuarian slinger
+[11/01/2024 09:08]  [Razor]: Ignore List cleared
+[11/01/2024 09:08]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:08]  Razor: Attack: an ossuarian slinger
+[11/01/2024 09:08]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:08]  an ossuarian slinger: *looks calmed*
+[11/01/2024 09:08]  Razor: *pacified 50s* an ossuarian slinger
+[11/01/2024 09:08]  Razor: [+Start auto-heal]
+[11/01/2024 09:08]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:08]  a rag witch: a rag witch
+[11/01/2024 09:08]  [Razor]: Target queue cleared.
+[11/01/2024 09:08]  [Razor]: You are not holding anything.
+[11/01/2024 09:08]  [Razor]: New target set.
+[11/01/2024 09:08]  Razor: Target: an ossuarian slinger
+[11/01/2024 09:08]  [Razor]: Ignore List cleared
+[11/01/2024 09:08]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:08]  Razor: *pacified 47s* an ossuarian slinger
+[11/01/2024 09:08]  Razor: [+Start auto-heal]
+[11/01/2024 09:08]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:08]  Ailiin: -17
+[11/01/2024 09:08]  System: Who will you use the bandages on?
+[11/01/2024 09:08]  System: You begin applying the bandages.
+[11/01/2024 09:08]  Razor: Attack: a rag witch
+[11/01/2024 09:08]  System: Anatomy skillgain: 3.046%
+[11/01/2024 09:08]  Razor: Bandage: 6s
+[11/01/2024 09:08]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:08]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:08]  Ailiin: -12
+[11/01/2024 09:08]  System: Your fingers slip!
+[11/01/2024 09:08]  Razor: Attack: a rag witch
+[11/01/2024 09:08]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:08]  Razor: Bandage: 3s
+[11/01/2024 09:08]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:08]  System: Anatomy skillgain: 3.030%
+[11/01/2024 09:08]  a rag witch: *dematerializes*
+[11/01/2024 09:08]  a rag witch: -161
+[11/01/2024 09:08]  Razor: Attack: a rag witch
+[11/01/2024 09:09]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:09]  a rag witch: *evasive*
+[11/01/2024 09:09]  a rag witch: a rag witch
+[11/01/2024 09:09]  a rag witch: a rag witch
+[11/01/2024 09:09]  System: You finish applying the bandages.
+[11/01/2024 09:09]  Ailiin: +28
+[11/01/2024 09:09]  System: Anatomy skillgain: 2.813%
+[11/01/2024 09:09]  You see: a rag witch corpse
+[11/01/2024 09:09]  You see: an ostard corpse
+[11/01/2024 09:09]  You see: an ossuarian huntress
+[11/01/2024 09:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:09]  Ailiin: +0
+[11/01/2024 09:09]  Razor: Target: a rag witch
+[11/01/2024 09:09]  System: Target cannot be seen.
+[11/01/2024 09:09]  System: Anatomy skillgain: 3.014%
+[11/01/2024 09:09]  a rag witch: -131
+[11/01/2024 09:09]  Ailiin: +0
+[11/01/2024 09:09]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:09]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:09]  a rag witch: *looks calmed*
+[11/01/2024 09:09]  Ailiin: +0
+[11/01/2024 09:09]  : battlement
+[11/01/2024 09:09]  Razor: Attack: a rag witch
+[11/01/2024 09:09]  a rag witch: *materializes*
+[11/01/2024 09:09]  a rag witch: *pacified 49s*
+[11/01/2024 09:09]  a rag witch: a rag witch
+[11/01/2024 09:09]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:09]  System: Guldan Oakshield has completed the achievement: Blacksmith (Advanced).
+[11/01/2024 09:09]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:09]  System: Anatomy skillgain: 2.983%
+[11/01/2024 09:09]  a rag witch: -342
+[11/01/2024 09:09]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:09]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:09]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:09]  System: Anatomy skillgain: 2.953%
+[11/01/2024 09:09]  a rag witch: -384
+[11/01/2024 09:09]  Razor: Attack: a rag witch
+[11/01/2024 09:09]  System: You have gained some fame.
+[11/01/2024 09:09]  Ailiin: (Lyric Aspect 1,332.5/4500 xp)
+[11/01/2024 09:09]  System: Society Job Progress: 1,628/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:09]  You see: an ossuarian slinger corpse
+[11/01/2024 09:09]  System: Anatomy skillgain: 2.923%
+[11/01/2024 09:09]  System: Your shot hinders your target!
+[11/01/2024 09:09]  a rag witch: -528
+[11/01/2024 09:09]  System: You have gained some fame.
+[11/01/2024 09:09]  Ailiin: (Lyric Aspect 1,335.3/4500 xp)
+[11/01/2024 09:09]  System: Society Job Progress: 1,766/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:09]  System: -454
+[11/01/2024 09:09]  You see: a rag witch corpse
+[11/01/2024 09:09]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:09]  Razor: Target: a lich magus
+[11/01/2024 09:09]  System: Whom do you wish them to attack?
+[11/01/2024 09:09]  Razor: Target: a lich
+[11/01/2024 09:09]  System: You play successfully, provoking your targets. (51s)
+[11/01/2024 09:09]  System: Anatomy skillgain: 2.908%
+[11/01/2024 09:09]  System: Your shot hinders your target!
+[11/01/2024 09:09]  a lich magus: -144
+[11/01/2024 09:09]  a lich magus: *looks furious*
+[11/01/2024 09:09]  a lich: *looks furious*
+[11/01/2024 09:09]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:09]  Madeover: [Member, NC]
+[11/01/2024 09:09]  Madeover: Madeover
+[11/01/2024 09:09]  a gravebug: (bonded)
+[11/01/2024 09:09]  a gravebug: a gravebug
+[11/01/2024 09:09]  a sunscale: (bonded)
+[11/01/2024 09:09]  a sunscale: a sunscale
+[11/01/2024 09:09]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:09]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:09]  a lich: -266
+[11/01/2024 09:09]  Ailiin: -14
+[11/01/2024 09:09]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:09]  System: Who will you use the bandages on?
+[11/01/2024 09:09]  System: You begin applying the bandages.
+[11/01/2024 09:09]  System: You must wait to perform another action.
+[11/01/2024 09:09]  Razor: Attack: a lich magus
+[11/01/2024 09:09]  a lich magus: -24
+[11/01/2024 09:09]  Razor: Bandage: 6s
+[11/01/2024 09:09]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:09]  Razor: Target: a lich magus
+[11/01/2024 09:09]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:09]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:09]  a lich magus: -264
+[11/01/2024 09:09]  Razor: Attack: a lich magus
+[11/01/2024 09:09]  a lich magus: -27
+[11/01/2024 09:09]  Razor: Bandage: 3s
+[11/01/2024 09:09]  a lich: -24
+[11/01/2024 09:09]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:09]  a lich magus: -279
+[11/01/2024 09:09]  System: Cacophony activated.
+[11/01/2024 09:09]  System: You have gained some fame.
+[11/01/2024 09:09]  Ailiin: (Lyric Aspect 1,338.5/4500 xp)
+[11/01/2024 09:09]  System: Society Job Progress: 1,926/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:09]  System: -1762
+[11/01/2024 09:09]  System: You have gained a little fame.
+[11/01/2024 09:09]  Ailiin: (Lyric Aspect 1,340.3/4500 xp)
+[11/01/2024 09:09]  System: Society Job Progress: 2,014/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:09]  System: -1210
+[11/01/2024 09:09]  You see: a lich magus corpse
+[11/01/2024 09:09]  You see: a lich corpse
+[11/01/2024 09:09]  System: You finish applying the bandages.
+[11/01/2024 09:09]  Ailiin: +13
+[11/01/2024 09:09]  System: Anatomy skillgain: 2.701%
+[11/01/2024 09:09]  Ailiin: +0
+[11/01/2024 09:09]  System: Fut'garek has completed the achievement: Connoisseur (Epic).
+[11/01/2024 09:09]  Ailiin: +0
+[11/01/2024 09:09]  Ailiin: +0
+[11/01/2024 09:09]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:09]  You see: a black cat corpse
+[11/01/2024 09:09]  You see: a rag witch corpse
+[11/01/2024 09:09]  Stephanios: Skinner
+[11/01/2024 09:09]  Stephanios: [Citizen, Yew]
+[11/01/2024 09:09]  Stephanios: Lord Stephanios
+[11/01/2024 09:09]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:09]  a rag witch: a rag witch
+[11/01/2024 09:09]  a sand crawler: a sand crawler
+[11/01/2024 09:09]  You see: an ostard corpse
+[11/01/2024 09:09]  You see: an ossuarian huntress
+[11/01/2024 09:09]  a sand crawler: a sand crawler
+[11/01/2024 09:09]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:09]  Madeover: [Member, NC]
+[11/01/2024 09:09]  Madeover: Madeover
+[11/01/2024 09:09]  a gravebug: (bonded)
+[11/01/2024 09:09]  a gravebug: a gravebug
+[11/01/2024 09:09]  a sunscale: (bonded)
+[11/01/2024 09:09]  a sunscale: a sunscale
+[11/01/2024 09:09]  You see: a black cat corpse
+[11/01/2024 09:09]  You see: a black cat corpse
+[11/01/2024 09:09]  Btlomorf: Btlomorf
+[11/01/2024 09:09]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:09]  You see: a lich corpse
+[11/01/2024 09:09]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:09]  You see: a rag witch corpse
+[11/01/2024 09:09]  a rag witch: a rag witch
+[11/01/2024 09:09]  You see: an ostard corpse
+[11/01/2024 09:09]  You see: an ossuarian huntress
+[11/01/2024 09:09]  You see: a lich magus corpse
+[11/01/2024 09:09]  You see: a lich magus corpse
+[11/01/2024 09:09]  a rag witch: a rag witch
+[11/01/2024 09:09]  a lich magus: a lich magus
+[11/01/2024 09:09]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:10]  an ossuarian pyromancer: an ossuarian pyromancer
+[11/01/2024 09:10]  You see: an ossuarian lion warrior corpse
+[11/01/2024 09:10]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:10]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:10]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:10]  Madeover: all guard
+[11/01/2024 09:10]  Razor: Target: an ossuarian pyromancer
+[11/01/2024 09:10]  System: Whom do you wish them to attack?
+[11/01/2024 09:10]  Razor: Target: a lich magus
+[11/01/2024 09:10]  System: You play successfully, provoking your targets. (51s)
+[11/01/2024 09:10]  an ossuarian pyromancer: *looks furious*
+[11/01/2024 09:10]  a lich magus: *looks furious*
+[11/01/2024 09:10]  Razor: Attack: a lich magus
+[11/01/2024 09:10]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:10]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:10]  a lich magus: -256
+[11/01/2024 09:10]  Ailiin: -19
+[11/01/2024 09:10]  a lich magus: -22
+[11/01/2024 09:10]  System: Who will you use the bandages on?
+[11/01/2024 09:10]  System: You begin applying the bandages.
+[11/01/2024 09:10]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:10]  Madeover: all follow me
+[11/01/2024 09:10]  Razor: Bandage: 6s
+[11/01/2024 09:10]  Madeover: all kill
+[11/01/2024 09:10]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:10]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:10]  an ossuarian pyromancer: -28
+[11/01/2024 09:10]  Razor: Attack: a lich magus
+[11/01/2024 09:10]  System: Anatomy skillgain: 2.908%
+[11/01/2024 09:10]  a lich magus: -378
+[11/01/2024 09:10]  System: You cannot perform that ability yet.
+[11/01/2024 09:10]  Madeover: all kill
+[11/01/2024 09:10]  Razor: Bandage: 3s
+[11/01/2024 09:10]  a lich magus: -22
+[11/01/2024 09:10]  Razor: Attack: a lich magus
+[11/01/2024 09:10]  an ossuarian pyromancer: -30
+[11/01/2024 09:10]  a lich magus: -30
+[11/01/2024 09:10]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:10]  a lich magus: -442
+[11/01/2024 09:10]  System: You finish applying the bandages.
+[11/01/2024 09:10]  Ailiin: +18
+[11/01/2024 09:10]  System: Anatomy skillgain: 2.701%
+[11/01/2024 09:10]  Razor: Attack: a lich magus
+[11/01/2024 09:10]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:10]  Ailiin: +0
+[11/01/2024 09:10]  Razor: Target: an ossuarian pyromancer
+[11/01/2024 09:10]  System: You play successfully, pacifying your target. (58s)
+[11/01/2024 09:10]  an ossuarian pyromancer: *looks calmed*
+[11/01/2024 09:10]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:10]  Ailiin: +0
+[11/01/2024 09:10]  Razor: Attack: a lich magus
+[11/01/2024 09:10]  System: You have gained some fame.
+[11/01/2024 09:10]  Ailiin: (Lyric Aspect 1,344.3/4500 xp)
+[11/01/2024 09:10]  System: Society Job Progress: 2,174/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:10]  You see: a lich magus corpse
+[11/01/2024 09:10]  Ailiin: +0
+[11/01/2024 09:10]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:10]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:10]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:10]  Madeover: all kill
+[11/01/2024 09:10]  You see: an ossuarian embalmer corpse
+[11/01/2024 09:10]  a lich magus: a lich magus
+[11/01/2024 09:10]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:10]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:10]  Razor: Attack: an ossuarian pyromancer
+[11/01/2024 09:10]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:10]  System: Your shot hinders your target!
+[11/01/2024 09:10]  an ossuarian pyromancer: -384
+[11/01/2024 09:10]  System: You have gained some fame.
+[11/01/2024 09:10]  Ailiin: (Lyric Aspect 1,349.1/4500 xp)
+[11/01/2024 09:10]  System: Society Job Progress: 2,367/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:10]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:10]  You see: an ostard corpse
+[11/01/2024 09:10]  You see: an ossuarian huntress
+[11/01/2024 09:10]  a gravebug: *devours corpse*
+[11/01/2024 09:10]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:10]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:10]  You see: a black cat corpse
+[11/01/2024 09:10]  Btlomorf: Btlomorf
+[11/01/2024 09:10]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:10]  You see: an ossuarian slinger corpse
+[11/01/2024 09:10]  You see: a rag witch corpse
+[11/01/2024 09:10]  You see: a rag witch corpse
+[11/01/2024 09:10]  Btlomorf: Btlomorf
+[11/01/2024 09:10]  You see: a lich corpse
+[11/01/2024 09:10]  You see: a black cat corpse
+[11/01/2024 09:10]  You see: a lich corpse
+[11/01/2024 09:10]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:10]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:10]  Madeover: [Member, NC]
+[11/01/2024 09:10]  Madeover: Madeover
+[11/01/2024 09:10]  a gravebug: (bonded)
+[11/01/2024 09:10]  a gravebug: a gravebug
+[11/01/2024 09:10]  a sunscale: (bonded)
+[11/01/2024 09:10]  a sunscale: a sunscale
+[11/01/2024 09:10]  You see: a rag witch corpse
+[11/01/2024 09:10]  Madeover: all guard
+[11/01/2024 09:11]  Madeover: all kill
+[11/01/2024 09:11]  Madeover: all guard
+[11/01/2024 09:11]  Madeover: all guard
+[11/01/2024 09:11]  an ossuarian slinger: an ossuarian slinger
+[11/01/2024 09:12]  Madeover: Rel Sanct [Bless]
+[11/01/2024 09:12]  Madeover: Vas Uus Sanct [Arch Protection]
+[11/01/2024 09:12]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:12]  System: You are now under the effect of a Song of Peacemaking (12.5% healing amounts for 15 minutes).
+[11/01/2024 09:12]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:12]  System: You must wait a few moments before performing another barding song.
+[11/01/2024 09:12]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:12]  Madeover: In Jux Sanct [Magic Reflection]
+[11/01/2024 09:12]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:12]  System: You must wait a few moments before performing another barding song.
+[11/01/2024 09:12]  a black cat: a black cat
+[11/01/2024 09:12]  an ossuarian fire priest: an ossuarian fire priest
+[11/01/2024 09:12]  an ossuarian fire priest: an ossuarian fire priest
+[11/01/2024 09:12]  a black cat: a black cat
+[11/01/2024 09:12]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:12]  Razor: Target: a black cat
+[11/01/2024 09:12]  System: Whom do you wish them to attack?
+[11/01/2024 09:12]  Razor: Target: an ossuarian fire priest
+[11/01/2024 09:12]  System: You play successfully, provoking your targets. (51s)
+[11/01/2024 09:12]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:12]  a black cat: -230
+[11/01/2024 09:12]  a black cat: *looks furious*
+[11/01/2024 09:12]  an ossuarian fire priest: *looks furious*
+[11/01/2024 09:12]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:12]  an ossuarian skirmisher: an ossuarian skirmisher
+[11/01/2024 09:12]  a sunscale: -10
+[11/01/2024 09:12]  an ossuarian fire priest: *looks violently ill*
+[11/01/2024 09:12]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:12]  System: Your shot hinders your target!
+[11/01/2024 09:12]  an ossuarian fire priest: -245
+[11/01/2024 09:12]  a black cat: -33
+[11/01/2024 09:12]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:12]  an ossuarian fire priest: -40
+[11/01/2024 09:12]  a black cat: *frenzies*
+[11/01/2024 09:12]  a black cat: -42
+[11/01/2024 09:12]  Razor: Attack: a black cat
+[11/01/2024 09:12]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:12]  Madeover: Por Ort Grav [Lightning]
+[11/01/2024 09:12]  Razor: Target: a black cat
+[11/01/2024 09:12]  System: Whom do you wish them to attack?
+[11/01/2024 09:12]  Razor: Target: an ossuarian fire priest
+[11/01/2024 09:12]  System: You play successfully, provoking your targets. (51s)
+[11/01/2024 09:12]  a black cat: *looks furious*
+[11/01/2024 09:12]  an ossuarian fire priest: *looks furious*
+[11/01/2024 09:12]  Razor: Attack: a black cat
+[11/01/2024 09:12]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:12]  a black cat: -257
+[11/01/2024 09:12]  a sunscale: -10
+[11/01/2024 09:12]  an ossuarian fire priest: -28
+[11/01/2024 09:12]  a black cat: *frenzies*
+[11/01/2024 09:12]  Razor: Attack: a black cat
+[11/01/2024 09:12]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:12]  System: You have gained some fame.
+[11/01/2024 09:12]  Ailiin: (Lyric Aspect 1,353.4/4500 xp)
+[11/01/2024 09:12]  System: Society Job Progress: 2,542/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:12]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:12]  Razor: Attack: a black cat
+[11/01/2024 09:12]  a black cat: -33
+[11/01/2024 09:12]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:12]  a black cat: -163
+[11/01/2024 09:12]  Razor: Attack: a black cat
+[11/01/2024 09:12]  Madeover: Des Sanct [Curse]
+[11/01/2024 09:12]  System: Path Engineer has completed the achievement: Blacksmith (Basic).
+[11/01/2024 09:12]  a gravebug: *devours corpse*
+[11/01/2024 09:12]  a black cat: -34
+[11/01/2024 09:12]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:12]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:12]  an ossuarian fire priest: -270
+[11/01/2024 09:12]  System: You have gained a little fame.
+[11/01/2024 09:12]  Ailiin: (Lyric Aspect 1,356.3/4500 xp)
+[11/01/2024 09:12]  System: Society Job Progress: 2,638/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:12]  System: Society Job Progress: 6/36 [Kill 36 Black Cat].
+[11/01/2024 09:12]  You see: a black cat corpse
+[11/01/2024 09:12]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:12]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:12]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:12]  System: You play successfully, pacifying your target. (58s)
+[11/01/2024 09:12]  an ossuarian fire priest: *looks calmed*
+[11/01/2024 09:12]  System: You have gained a little fame.
+[11/01/2024 09:12]  Ailiin: (Lyric Aspect 1,358.7/4500 xp)
+[11/01/2024 09:12]  System: Society Job Progress: 2,734/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:12]  System: Society Job Progress: 7/36 [Kill 36 Black Cat].
+[11/01/2024 09:12]  You see: a black cat corpse
+[11/01/2024 09:12]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:12]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:12]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:12]  an ossuarian fire priest: -252
+[11/01/2024 09:12]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:12]  an ossuarian fire priest: -304
+[11/01/2024 09:12]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:12]  an ossuarian fire priest: -225
+[11/01/2024 09:12]  You see: an ossuarian slinger corpse
+[11/01/2024 09:12]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:12]  You see: a black cat corpse
+[11/01/2024 09:12]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:12]  System: Your shot hinders your target!
+[11/01/2024 09:12]  System: You have gained some fame.
+[11/01/2024 09:12]  Ailiin: (Lyric Aspect 1,363.1/4500 xp)
+[11/01/2024 09:12]  System: Society Job Progress: 2,909/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:12]  System: -196
+[11/01/2024 09:12]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:12]  You see: a black cat corpse
+[11/01/2024 09:12]  an ossuarian skirmisher: an ossuarian skirmisher
+[11/01/2024 09:12]  a gravebug: *devours corpse*
+[11/01/2024 09:13]  You see: an ostard corpse
+[11/01/2024 09:13]  You see: an ossuarian huntress
+[11/01/2024 09:13]  You see: a lich corpse
+[11/01/2024 09:13]  You see: a rag witch corpse
+[11/01/2024 09:13]  You see: a lich corpse
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  You see: a rag witch corpse
+[11/01/2024 09:13]  Stephanios: Skinner
+[11/01/2024 09:13]  Stephanios: [Citizen, Yew]
+[11/01/2024 09:13]  Stephanios: Lord Stephanios
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  a rag witch: *dematerializes*
+[11/01/2024 09:13]  You see: a rag witch corpse
+[11/01/2024 09:13]  [Razor]: Target queue cleared.
+[11/01/2024 09:13]  [Razor]: You are not holding anything.
+[11/01/2024 09:13]  [Razor]: New target set.
+[11/01/2024 09:13]  Razor: Target: a rag witch
+[11/01/2024 09:13]  [Razor]: Ignore List cleared
+[11/01/2024 09:13]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:13]  a sand crawler: a sand crawler
+[11/01/2024 09:13]  a rag witch: *dematerializes*
+[11/01/2024 09:13]  Razor: *evasive*
+[11/01/2024 09:13]  a rag witch: [Lethal Poison]
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  a rag witch: [Lethal Poison]
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  Razor: [+Start auto-heal]
+[11/01/2024 09:13]  [Razor]: Target queue cleared.
+[11/01/2024 09:13]  [Razor]: You are not holding anything.
+[11/01/2024 09:13]  [Razor]: New target set.
+[11/01/2024 09:13]  Razor: Target: a rag witch
+[11/01/2024 09:13]  [Razor]: Ignore List cleared
+[11/01/2024 09:13]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:13]  Razor: Attack: a rag witch
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  a rag witch: -105
+[11/01/2024 09:13]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:13]  a rag witch: *looks calmed*
+[11/01/2024 09:13]  Razor: *pacified 50s* [Lethal Poison] a rag witch
+[11/01/2024 09:13]  a rag witch: *evasive*
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  Razor: [+Start auto-heal]
+[11/01/2024 09:13]  Ullalla: [Good day to die!!, KOR]
+[11/01/2024 09:13]  Ullalla: Lady Ullalla
+[11/01/2024 09:13]  [Razor]: Target queue cleared.
+[11/01/2024 09:13]  [Razor]: You are not holding anything.
+[11/01/2024 09:13]  [Razor]: New target set.
+[11/01/2024 09:13]  Razor: Target: a rag witch
+[11/01/2024 09:13]  [Razor]: Ignore List cleared
+[11/01/2024 09:13]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:13]  a skeletal knight: a skeletal knight
+[11/01/2024 09:13]  Razor: *pacified 47s* [Lethal Poison] a rag witch
+[11/01/2024 09:13]  Razor: [+Start auto-heal]
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  a rag witch: -171
+[11/01/2024 09:13]  a rag witch: *materializes*
+[11/01/2024 09:13]  a rag witch: *pacified 47s*
+[11/01/2024 09:13]  a rag witch: [Lethal Poison]
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  a rag witch: *materializes*
+[11/01/2024 09:13]  [Razor]: Target queue cleared.
+[11/01/2024 09:13]  [Razor]: You are not holding anything.
+[11/01/2024 09:13]  [Razor]: New target set.
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  [Razor]: Ignore List cleared
+[11/01/2024 09:13]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:13]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:13]  Razor: *pacified 45s discord 1m 56s* [Lethal Poison] a rag witch
+[11/01/2024 09:13]  Razor: [+Start auto-heal]
+[11/01/2024 09:13]  an ossuarian skirmisher: an ossuarian skirmisher
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  a rag witch: -292
+[11/01/2024 09:13]  Razor: Attack: a sand crawler
+[11/01/2024 09:13]  a lich: a lich
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  System: Your shot hinders your target!
+[11/01/2024 09:13]  System: You have gained some fame.
+[11/01/2024 09:13]  Ailiin: (Lyric Aspect 1,366.5/4500 xp)
+[11/01/2024 09:13]  System: Society Job Progress: 3,047/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:13]  System: -47
+[11/01/2024 09:13]  an ossuarian hunter: an ossuarian hunter
+[11/01/2024 09:13]  You see: a rag witch corpse
+[11/01/2024 09:13]  Madeover: [Member, NC]
+[11/01/2024 09:13]  Madeover: Madeover
+[11/01/2024 09:13]  You see: a lich corpse
+[11/01/2024 09:13]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:13]  Razor: Target: a rag witch
+[11/01/2024 09:13]  System: Whom do you wish them to attack?
+[11/01/2024 09:13]  Razor: Target: a sand crawler
+[11/01/2024 09:13]  System: You play successfully, provoking your targets. (51s)
+[11/01/2024 09:13]  a rag witch: *looks furious*
+[11/01/2024 09:13]  a sand crawler: *looks furious*
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  System: Your shot hinders your target!
+[11/01/2024 09:13]  a sand crawler: -180
+[11/01/2024 09:13]  Razor: Attack: an ossuarian skirmisher
+[11/01/2024 09:13]  Ailiin: Guards!
+[11/01/2024 09:13]  Madeover: [Member, NC]
+[11/01/2024 09:13]  Madeover: Madeover
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  a sand crawler: -26
+[11/01/2024 09:13]  Ailiin: Guards!
+[11/01/2024 09:13]  a sunscale: (bonded)
+[11/01/2024 09:13]  a sunscale: a sunscale
+[11/01/2024 09:13]  a gravebug: (bonded)
+[11/01/2024 09:13]  a gravebug: a gravebug
+[11/01/2024 09:13]  a gravebug: (bonded)
+[11/01/2024 09:13]  a gravebug: a gravebug
+[11/01/2024 09:13]  Ailiin: Guards!
+[11/01/2024 09:13]  Ailiin: Guards!
+[11/01/2024 09:13]  Madeover: all guard
+[11/01/2024 09:13]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:13]  a sand crawler: -21
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:13]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:13]  Razor: Attack: an ossuarian skirmisher
+[11/01/2024 09:13]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:13]  a sand crawler: -24
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  an ossuarian skirmisher: -161
+[11/01/2024 09:13]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:13]  Razor: Target: an ossuarian skirmisher
+[11/01/2024 09:13]  System: You have gained a little fame.
+[11/01/2024 09:13]  Ailiin: (Lyric Aspect 1,366.8/4500 xp)
+[11/01/2024 09:13]  System: Society Job Progress: 3,059/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:13]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:13]  an ossuarian skirmisher: *looks calmed*
+[11/01/2024 09:13]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:13]  You see: a sand crawler corpse
+[11/01/2024 09:13]  Razor: Attack: an ossuarian skirmisher
+[11/01/2024 09:13]  a rag witch: *dematerializes*
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  an ossuarian skirmisher: -206
+[11/01/2024 09:13]  a rag witch: *evasive*
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  Madeover: all follow me
+[11/01/2024 09:13]  [Razor]: Target queue cleared.
+[11/01/2024 09:13]  [Razor]: You are not holding anything.
+[11/01/2024 09:13]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:13]  [Razor]: New target set.
+[11/01/2024 09:13]  an ossuarian hunter: *readies net*
+[11/01/2024 09:13]  Razor: Attack: an ossuarian skirmisher
+[11/01/2024 09:13]  [Razor]: Ignore List cleared
+[11/01/2024 09:13]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:13]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:13]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:13]  Razor: *pacified 44s discord 1m 56s* [Lethal Poison] an ossuarian skirmisher
+[11/01/2024 09:13]  Razor: [+Start auto-heal]
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  System: You have gained a little fame.
+[11/01/2024 09:13]  Ailiin: (Lyric Aspect 1,368.8/4500 xp)
+[11/01/2024 09:13]  System: Society Job Progress: 3,139/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:13]  System: -48
+[11/01/2024 09:13]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:13]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:13]  a sunscale: *entangled*
+[11/01/2024 09:13]  a gravebug: *entangled*
+[11/01/2024 09:13]  Madeover: *entangled*
+[11/01/2024 09:13]  a rag witch: *materializes*
+[11/01/2024 09:13]  a rag witch: a rag witch
+[11/01/2024 09:13]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:13]  Razor: Target: a rag witch
+[11/01/2024 09:13]  Ailiin: -10
+[11/01/2024 09:13]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:13]  a rag witch: *looks calmed*
+[11/01/2024 09:13]  System: Who will you use the bandages on?
+[11/01/2024 09:13]  System: You begin applying the bandages.
+[11/01/2024 09:13]  System: You must wait to perform another action.
+[11/01/2024 09:13]  Razor: Attack: a rag witch
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.908%
+[11/01/2024 09:13]  System: Your shot hinders your target!
+[11/01/2024 09:13]  a rag witch: -460
+[11/01/2024 09:13]  a lich: a lich
+[11/01/2024 09:13]  Razor: Bandage: 6s
+[11/01/2024 09:13]  You see: a lich corpse
+[11/01/2024 09:13]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:13]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:13]  Madeover: all guard
+[11/01/2024 09:13]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:13]  You see: a lich magus corpse
+[11/01/2024 09:13]  You see: a lich magus corpse
+[11/01/2024 09:13]  a lich magus: a lich magus
+[11/01/2024 09:13]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:13]  Razor: Bandage: 3s
+[11/01/2024 09:13]  an ossuarian hunter: *looks violently ill*
+[11/01/2024 09:13]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:13]  a rag witch: -188
+[11/01/2024 09:13]  System: You finish applying the bandages.
+[11/01/2024 09:13]  Ailiin: +9
+[11/01/2024 09:13]  System: Anatomy skillgain: 2.701%
+[11/01/2024 09:13]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:13]  Ailiin: +0
+[11/01/2024 09:13]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:13]  [Razor]: Target queue cleared.
+[11/01/2024 09:13]  [Razor]: You are not holding anything.
+[11/01/2024 09:13]  [Razor]: New target set.
+[11/01/2024 09:13]  [Razor]: Ignore List cleared
+[11/01/2024 09:13]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:13]  Ailiin: +0
+[11/01/2024 09:13]  Razor: Attack: a rag witch
+[11/01/2024 09:13]  Razor: *pacified 41s* [Lethal Poison] a rag witch
+[11/01/2024 09:13]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:13]  Razor: [+Start auto-heal]
+[11/01/2024 09:13]  Ailiin: +0
+[11/01/2024 09:13]  Razor: Attack: an ossuarian hunter
+[11/01/2024 09:14]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:14]  Razor: Attack: an ossuarian hunter
+[11/01/2024 09:14]  an ossuarian hunter: *readies net*
+[11/01/2024 09:14]  Razor: Attack: an ossuarian hunter
+[11/01/2024 09:14]  System: You have gained some fame.
+[11/01/2024 09:14]  Ailiin: (Lyric Aspect 1,372.4/4500 xp)
+[11/01/2024 09:14]  System: Society Job Progress: 3,256/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:14]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:14]  You see: a rag witch corpse
+[11/01/2024 09:14]  a sunscale: *entangled*
+[11/01/2024 09:14]  a gravebug: *entangled*
+[11/01/2024 09:14]  Razor: Target: an ossuarian hunter
+[11/01/2024 09:14]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:14]  an ossuarian hunter: *looks calmed*
+[11/01/2024 09:14]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:14]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:14]  Razor: Attack: an ossuarian hunter
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:14]  an ossuarian hunter: -237
+[11/01/2024 09:14]  System: You have gained a little fame.
+[11/01/2024 09:14]  Ailiin: (Lyric Aspect 1,374.5/4500 xp)
+[11/01/2024 09:14]  System: Society Job Progress: 3,342/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:14]  You see: an ostard corpse
+[11/01/2024 09:14]  You see: an ossuarian hunter corpse
+[11/01/2024 09:14]  a gravebug: *devours corpse*
+[11/01/2024 09:14]  System: You must wait another moment before you may pick up an item from here.
+[11/01/2024 09:14]  a lich: a lich
+[11/01/2024 09:14]  You see: a lich corpse
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  [Razor]: Target queue cleared.
+[11/01/2024 09:14]  [Razor]: You are not holding anything.
+[11/01/2024 09:14]  [Razor]: New target set.
+[11/01/2024 09:14]  Razor: Target: an ossuarian slinger
+[11/01/2024 09:14]  [Razor]: Ignore List cleared
+[11/01/2024 09:14]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:14]  Razor: Attack: an ossuarian slinger
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:14]  an ossuarian slinger: -187
+[11/01/2024 09:14]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:14]  an ossuarian slinger: *looks calmed*
+[11/01/2024 09:14]  Razor: *pacified 50s* an ossuarian slinger
+[11/01/2024 09:14]  Razor: [+Start auto-heal]
+[11/01/2024 09:14]  You see: an ossuarian slinger corpse
+[11/01/2024 09:14]  Btlomorf: Btlomorf
+[11/01/2024 09:14]  [Razor]: Target queue cleared.
+[11/01/2024 09:14]  [Razor]: You are not holding anything.
+[11/01/2024 09:14]  [Razor]: New target set.
+[11/01/2024 09:14]  Razor: Target: an ossuarian slinger
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:14]  an ossuarian slinger: -218
+[11/01/2024 09:14]  [Razor]: Ignore List cleared
+[11/01/2024 09:14]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:14]  an ossuarian slinger: *barding break*
+[11/01/2024 09:14]  Razor: *barding break 3s* an ossuarian slinger
+[11/01/2024 09:14]  Razor: [+Start auto-heal]
+[11/01/2024 09:14]  Ailiin: -8
+[11/01/2024 09:14]  System: Who will you use the bandages on?
+[11/01/2024 09:14]  System: You begin applying the bandages.
+[11/01/2024 09:14]  [Razor]: Target queue cleared.
+[11/01/2024 09:14]  [Razor]: You are not holding anything.
+[11/01/2024 09:14]  [Razor]: New target set.
+[11/01/2024 09:14]  [Razor]: Ignore List cleared
+[11/01/2024 09:14]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:14]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 41s)
+[11/01/2024 09:14]  Razor: *barding break 2s discord 1m 41s* an ossuarian slinger
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  Razor: [+Start auto-heal]
+[11/01/2024 09:14]  You see: a rag witch corpse
+[11/01/2024 09:14]  Razor: Bandage: 6s
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.908%
+[11/01/2024 09:14]  an ossuarian slinger: -231
+[11/01/2024 09:14]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:14]  System: You have gained some fame.
+[11/01/2024 09:14]  Ailiin: (Lyric Aspect 1,377.3/4500 xp)
+[11/01/2024 09:14]  System: Society Job Progress: 3,452/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:14]  System: -339
+[11/01/2024 09:14]  a gravebug: *devours corpse*
+[11/01/2024 09:14]  You see: an ossuarian slinger corpse
+[11/01/2024 09:14]  Razor: Bandage: 3s
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  You see: a lich magus corpse
+[11/01/2024 09:14]  You see: a lich magus corpse
+[11/01/2024 09:14]  a lich magus: a lich magus
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  System: You finish applying the bandages.
+[11/01/2024 09:14]  Ailiin: +7
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.701%
+[11/01/2024 09:14]  Ailiin: +0
+[11/01/2024 09:14]  Ailiin: +0
+[11/01/2024 09:14]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:14]  Razor: Target: a lich
+[11/01/2024 09:14]  Ailiin: +0
+[11/01/2024 09:14]  System: Whom do you wish them to attack?
+[11/01/2024 09:14]  Razor: Target: a lich magus
+[11/01/2024 09:14]  System: You play successfully, provoking your targets. (51s)
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:14]  a lich: -198
+[11/01/2024 09:14]  a lich: *looks furious*
+[11/01/2024 09:14]  a lich magus: *looks furious*
+[11/01/2024 09:14]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:14]  Ailiin: -12
+[11/01/2024 09:14]  System: Who will you use the bandages on?
+[11/01/2024 09:14]  System: You begin applying the bandages.
+[11/01/2024 09:14]  Razor: Bandage: 6s
+[11/01/2024 09:14]  Ailiin: -19
+[11/01/2024 09:14]  System: Your fingers slip!
+[11/01/2024 09:14]  Razor: Attack: a lich magus
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.953%
+[11/01/2024 09:14]  a lich magus: -166
+[11/01/2024 09:14]  System: You cannot perform that ability yet.
+[11/01/2024 09:14]  Razor: Attack: a lich magus
+[11/01/2024 09:14]  Razor: Bandage: 3s
+[11/01/2024 09:14]  a lich magus: -22
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.923%
+[11/01/2024 09:14]  a lich magus: -257
+[11/01/2024 09:14]  a lich: -36
+[11/01/2024 09:14]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:14]  You see: a lich magus corpse
+[11/01/2024 09:14]  You see: a lich corpse
+[11/01/2024 09:14]  a lich: -26
+[11/01/2024 09:14]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:14]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:14]  Razor: Attack: a lich magus
+[11/01/2024 09:14]  System: You finish applying the bandages.
+[11/01/2024 09:14]  Ailiin: +30
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.728%
+[11/01/2024 09:14]  a lich magus: -28
+[11/01/2024 09:14]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:14]  Ailiin: +0
+[11/01/2024 09:14]  a lich: *looks violently ill*
+[11/01/2024 09:14]  Ailiin: +0
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:14]  a lich magus: -384
+[11/01/2024 09:14]  a lich: -26
+[11/01/2024 09:14]  Ailiin: +0
+[11/01/2024 09:14]  System: You have gained a little fame.
+[11/01/2024 09:14]  Ailiin: (Lyric Aspect 1,379.9/4500 xp)
+[11/01/2024 09:14]  System: Society Job Progress: 3,540/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:14]  You see: a lich corpse
+[11/01/2024 09:14]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:14]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:14]  System: You play successfully, pacifying your target. (58s)
+[11/01/2024 09:14]  a lich magus: *looks calmed*
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:14]  a lich magus: -348
+[11/01/2024 09:14]  Razor: Attack: a lich magus
+[11/01/2024 09:14]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:14]  System: You have gained some fame.
+[11/01/2024 09:14]  Ailiin: (Lyric Aspect 1,384.7/4500 xp)
+[11/01/2024 09:14]  System: Society Job Progress: 3,700/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:14]  System: -338
+[11/01/2024 09:14]  You see: a lich magus corpse
+[11/01/2024 09:14]  You see: a sand crawler corpse
+[11/01/2024 09:14]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:14]  You see: a rag witch corpse
+[11/01/2024 09:14]  You see: a rag witch corpse
+[11/01/2024 09:14]  You see: an ossuarian slinger corpse
+[11/01/2024 09:14]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:14]  You see: an ostard corpse
+[11/01/2024 09:14]  You see: an ossuarian hunter corpse
+[11/01/2024 09:14]  You see: an ostard corpse
+[11/01/2024 09:14]  You see: an ossuarian huntress
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:14]  You see: a lich magus corpse
+[11/01/2024 09:14]  You see: a lich magus corpse
+[11/01/2024 09:15]  You see: a rag witch corpse
+[11/01/2024 09:15]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:15]  Madeover: [Member, NC]
+[11/01/2024 09:15]  Madeover: Madeover
+[11/01/2024 09:15]  a gravebug: (bonded)
+[11/01/2024 09:15]  a gravebug: a gravebug
+[11/01/2024 09:15]  a sunscale: (bonded)
+[11/01/2024 09:15]  a sunscale: a sunscale
+[11/01/2024 09:15]  You see: a lich corpse
+[11/01/2024 09:15]  You see: a lich magus corpse
+[11/01/2024 09:15]  You see: a lich magus corpse
+[11/01/2024 09:15]  a lich magus: a lich magus
+[11/01/2024 09:15]  [Alliance][Zoologist]: [SQzD] 2 pk entered manor
+[11/01/2024 09:15]  a skeletal knight: a skeletal knight
+[11/01/2024 09:15]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:15]  an ossuarian pyromancer: an ossuarian pyromancer
+[11/01/2024 09:15]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:15]  You see: a lich magus corpse
+[11/01/2024 09:15]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:15]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:15]  Razor: Target: a lich magus
+[11/01/2024 09:15]  System: Whom do you wish them to attack?
+[11/01/2024 09:15]  Razor: Target: an ossuarian pyromancer
+[11/01/2024 09:15]  System: You play successfully, provoking your targets. (51s)
+[11/01/2024 09:15]  System: Anatomy skillgain: 2.908%
+[11/01/2024 09:15]  a lich magus: -246
+[11/01/2024 09:15]  a lich magus: *looks furious*
+[11/01/2024 09:15]  an ossuarian pyromancer: *looks furious*
+[11/01/2024 09:15]  a lich magus: a lich magus
+[11/01/2024 09:15]  Madeover: all guard
+[11/01/2024 09:15]  Razor: Attack: a lich magus
+[11/01/2024 09:15]  Ailiin: -15
+[11/01/2024 09:15]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:15]  System: Who will you use the bandages on?
+[11/01/2024 09:15]  System: You begin applying the bandages.
+[11/01/2024 09:15]  Ailiin: -21
+[11/01/2024 09:15]  Btlomorf: Btlomorf
+[11/01/2024 09:15]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:15]  Razor: Bandage: 6s
+[11/01/2024 09:15]  System: Anatomy skillgain: 2.953%
+[11/01/2024 09:15]  a lich magus: -268
+[11/01/2024 09:15]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:15]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:15]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:15]  Razor: Target: a lich magus
+[11/01/2024 09:15]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:15]  Razor: Bandage: 3s
+[11/01/2024 09:15]  an ossuarian pyromancer: -16
+[11/01/2024 09:15]  a lich magus: -33
+[11/01/2024 09:15]  System: You cannot perform that ability yet.
+[11/01/2024 09:15]  System: Anatomy skillgain: 2.923%
+[11/01/2024 09:15]  a lich magus: -371
+[11/01/2024 09:15]  Razor: Attack: a lich magus
+[11/01/2024 09:15]  System: You finish applying the bandages.
+[11/01/2024 09:15]  Ailiin: +35
+[11/01/2024 09:15]  System: Anatomy skillgain: 2.714%
+[11/01/2024 09:15]  You see: a lich magus corpse
+[11/01/2024 09:15]  an ossuarian pyromancer: -18
+[11/01/2024 09:15]  a lich magus: -26
+[11/01/2024 09:15]  Ailiin: +0
+[11/01/2024 09:15]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:15]  Ailiin: +0
+[11/01/2024 09:15]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:15]  a lich magus: -434
+[11/01/2024 09:15]  System: Your shot turns the target into a pincushion.
+[11/01/2024 09:15]  System: You have gained some fame.
+[11/01/2024 09:15]  Ailiin: (Lyric Aspect 1,388.7/4500 xp)
+[11/01/2024 09:15]  System: Society Job Progress: 3,860/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:15]  System: -507
+[11/01/2024 09:15]  You see: a lich magus corpse
+[11/01/2024 09:15]  Ailiin: +0
+[11/01/2024 09:15]  a gravebug: *devours corpse*
+[11/01/2024 09:15]  System: Rangeroo has completed the achievement: Monstrous Slayer (Basic).
+[11/01/2024 09:15]  [Razor]: Target queue cleared.
+[11/01/2024 09:15]  [Razor]: You are not holding anything.
+[11/01/2024 09:15]  [Razor]: New target set.
+[11/01/2024 09:15]  Razor: Target: an ossuarian pyromancer
+[11/01/2024 09:15]  [Razor]: Ignore List cleared
+[11/01/2024 09:15]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:15]  Razor: Attack: an ossuarian pyromancer
+[11/01/2024 09:15]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:15]  an ossuarian pyromancer: -161
+[11/01/2024 09:15]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:15]  an ossuarian pyromancer: *looks calmed*
+[11/01/2024 09:15]  Razor: *pacified 50s* [Lethal Poison] an ossuarian pyromancer
+[11/01/2024 09:15]  Razor: [+Start auto-heal]
+[11/01/2024 09:15]  Razor: Attack: an ossuarian pyromancer
+[11/01/2024 09:15]  Madeover: *herds followers*
+[11/01/2024 09:15]  an ossuarian pyromancer: *looks violently ill*
+[11/01/2024 09:15]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:15]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:15]  an ossuarian pyromancer: -219
+[11/01/2024 09:15]  Madeover: In Vas Mani [Greater Heal]
+[11/01/2024 09:15]  System: You have gained some fame.
+[11/01/2024 09:15]  System: You have unlocked a codex upgrade point for Archery (8 available).
+[11/01/2024 09:15]  Ailiin: (Lyric Aspect 1,394.5/4500 xp)
+[11/01/2024 09:15]  System: Society Job Progress: 4,053/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:15]  You see: an ossuarian pyromancer corpse
+[11/01/2024 09:15]  System: Shacolaca has completed the achievement: Maester (Basic).
+[11/01/2024 09:15]  a gravebug: *devours corpse*
+[11/01/2024 09:15]  You see: an ostard corpse
+[11/01/2024 09:15]  You see: an ossuarian huntress
+[11/01/2024 09:15]  You see: an ostard corpse
+[11/01/2024 09:15]  You see: an ossuarian hunter corpse
+[11/01/2024 09:15]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:15]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:15]  You see: an ossuarian slinger corpse
+[11/01/2024 09:15]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:15]  You see: a rag witch corpse
+[11/01/2024 09:15]  You see: a rag witch corpse
+[11/01/2024 09:15]  You see: a sand crawler corpse
+[11/01/2024 09:15]  You see: a rag witch corpse
+[11/01/2024 09:15]  You see: a lich corpse
+[11/01/2024 09:15]  a black cat: a black cat
+[11/01/2024 09:15]  You see: a lich corpse
+[11/01/2024 09:15]  You see: a black cat corpse
+[11/01/2024 09:15]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:15]  You see: an ossuarian fire priestess corpse
+[11/01/2024 09:15]  You see: a black cat corpse
+[11/01/2024 09:15]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:15]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:15]  System: The world will save in 15 seconds.
+[11/01/2024 09:15]  You see: a lich corpse
+[11/01/2024 09:15]  Razor: Attack: a black cat
+[11/01/2024 09:15]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:15]  System: Your shot hinders your target!
+[11/01/2024 09:15]  a black cat: -252
+[11/01/2024 09:15]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 09:15]  Madeover: In Por Ylem [Magic Arrow]
+[11/01/2024 09:15]  System: Anatomy skillgain: 3.046%
+[11/01/2024 09:15]  a black cat: -182
+[11/01/2024 09:15]  System: You have gained a little fame.
+[11/01/2024 09:15]  Ailiin: (Lyric Aspect 1,397.4/4500 xp)
+[11/01/2024 09:15]  System: Society Job Progress: 4,149/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:15]  System: Society Job Progress: 8/36 [Kill 36 Black Cat].
+[11/01/2024 09:15]  You see: a black cat corpse
+[11/01/2024 09:16]  System: The world is saving, please wait.
+[11/01/2024 09:16]  System: World save complete. The entire process took 2.7 seconds.
+[11/01/2024 09:16]  Madeover: In Mani Ylem [Create Food]
+[11/01/2024 09:16]  an ossuarian fire priest: an ossuarian fire priest
+[11/01/2024 09:16]  a black cat: a black cat
+[11/01/2024 09:16]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:16]  Razor: Target: an ossuarian fire priest
+[11/01/2024 09:16]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:16]  an ossuarian fire priest: *looks calmed*
+[11/01/2024 09:16]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:16]  Razor: Attack: a black cat
+[11/01/2024 09:16]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:16]  Razor: Attack: a black cat
+[11/01/2024 09:16]  Razor: Attack: a black cat
+[11/01/2024 09:16]  Razor: Attack: a black cat
+[11/01/2024 09:16]  Razor: Attack: a black cat
+[11/01/2024 09:16]  Razor: Attack: a black cat
+[11/01/2024 09:16]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:16]  a black cat: -178
+[11/01/2024 09:16]  Ailiin: -31
+[11/01/2024 09:16]  System: Who will you use the bandages on?
+[11/01/2024 09:16]  System: You begin applying the bandages.
+[11/01/2024 09:16]  System: You have gained a little fame.
+[11/01/2024 09:16]  Ailiin: (Lyric Aspect 1,400.3/4500 xp)
+[11/01/2024 09:16]  System: Society Job Progress: 4,245/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:16]  System: Society Job Progress: 9/36 [Kill 36 Black Cat].
+[11/01/2024 09:16]  You see: a black cat corpse
+[11/01/2024 09:16]  Razor: Bandage: 6s
+[11/01/2024 09:16]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:16]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:16]  Razor: Attack: an ossuarian fire priest
+[11/01/2024 09:16]  Madeover: all guard
+[11/01/2024 09:16]  Razor: Bandage: 3s
+[11/01/2024 09:16]  Madeover: all kill
+[11/01/2024 09:16]  System: Anatomy skillgain: 2.923%
+[11/01/2024 09:16]  System: Your shot hinders your target!
+[11/01/2024 09:16]  an ossuarian fire priest: -495
+[11/01/2024 09:16]  an ossuarian fire priest: -1077
+[11/01/2024 09:16]  a gravebug: *devours corpse*
+[11/01/2024 09:16]  System: You have gained some fame.
+[11/01/2024 09:16]  Ailiin: (Lyric Aspect 1,403.8/4500 xp)
+[11/01/2024 09:16]  System: Society Job Progress: 4,420/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:16]  System: -928
+[11/01/2024 09:16]  You see: an ossuarian fire priest corpse
+[11/01/2024 09:16]  System: You finish applying the bandages.
+[11/01/2024 09:16]  Ailiin: +30
+[11/01/2024 09:16]  System: Anatomy skillgain: 2.714%
+[11/01/2024 09:16]  Ailiin: +0
+[11/01/2024 09:16]  Ailiin: +0
+[11/01/2024 09:16]  System: You must wait another moment before you may pick up an item from here.
+[11/01/2024 09:16]  Ailiin: +0
+[11/01/2024 09:17]  You see: a lich corpse
+[11/01/2024 09:17]  You see: a rag witch corpse
+[11/01/2024 09:17]  You see: an ossuarian slinger corpse
+[11/01/2024 09:17]  You see: a rag witch corpse
+[11/01/2024 09:17]  You see: a rag witch corpse
+[11/01/2024 09:17]  You see: an ostard corpse
+[11/01/2024 09:17]  You see: an ossuarian hunter corpse
+[11/01/2024 09:17]  You see: a sand crawler corpse
+[11/01/2024 09:17]  You see: an ossuarian skirmisher corpse
+[11/01/2024 09:17]  an ossuarian huntress: an ossuarian huntress
+[11/01/2024 09:17]  [Party][Ailiin]: i have to leave guys, thanks
+[11/01/2024 09:17]  Btlomorf: Btlomorf
+[11/01/2024 09:17]  You see: a lich corpse
+[11/01/2024 09:17]  You see: a lich corpse
+[11/01/2024 09:17]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:17]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:17]  a rag witch: [Lethal Poison]
+[11/01/2024 09:17]  a rag witch: a rag witch
+[11/01/2024 09:17]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:17]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:17]  You see: a lich magus corpse
+[11/01/2024 09:17]  You see: a lich magus corpse
+[11/01/2024 09:17]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:17]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:17]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:17]  System: You are currently prevented from performing criminal looting actions.
+[11/01/2024 09:17]  a mummy: a mummy
+[11/01/2024 09:17]  a mummy: a mummy
+[11/01/2024 09:17]  a lich: a lich
+[11/01/2024 09:17]  a mummy: a mummy
+[11/01/2024 09:17]  [Razor]: Target queue cleared.
+[11/01/2024 09:17]  [Razor]: You are not holding anything.
+[11/01/2024 09:17]  [Razor]: New target set.
+[11/01/2024 09:17]  Razor: Target: a rag witch
+[11/01/2024 09:17]  a lich: a lich
+[11/01/2024 09:17]  [Razor]: Ignore List cleared
+[11/01/2024 09:17]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:17]  Razor: Attack: a rag witch
+[11/01/2024 09:17]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:17]  a rag witch: *looks calmed*
+[11/01/2024 09:17]  Razor: *materializes*
+[11/01/2024 09:17]  a rag witch: *pacified 50s*
+[11/01/2024 09:17]  a rag witch: [Lethal Poison]
+[11/01/2024 09:17]  a rag witch: a rag witch
+[11/01/2024 09:17]  a rag witch: *pacified 50s*
+[11/01/2024 09:17]  a rag witch: [Lethal Poison]
+[11/01/2024 09:17]  a rag witch: a rag witch
+[11/01/2024 09:17]  Razor: [+Start auto-heal]
+[11/01/2024 09:17]  a sand crawler: a sand crawler
+[11/01/2024 09:17]  a nightmare: a nightmare
+[11/01/2024 09:17]  a nightmare: a nightmare
+[11/01/2024 09:17]  System: You have gained some fame.
+[11/01/2024 09:17]  Ailiin: (Lyric Aspect 1,407.3/4500 xp)
+[11/01/2024 09:17]  System: Society Job Progress: 4,558/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:17]  a lich: a lich
+[11/01/2024 09:17]  You see: a rag witch corpse
+[11/01/2024 09:17]  Madeover: [Member, NC]
+[11/01/2024 09:17]  Madeover: Madeover
+[11/01/2024 09:17]  a gravebug: (bonded)
+[11/01/2024 09:17]  a gravebug: a gravebug
+[11/01/2024 09:17]  a sunscale: (bonded)
+[11/01/2024 09:17]  a sunscale: a sunscale
+[11/01/2024 09:17]  a mummy: a mummy
+[11/01/2024 09:17]  [Razor]: Target queue cleared.
+[11/01/2024 09:17]  [Razor]: You are not holding anything.
+[11/01/2024 09:17]  [Razor]: New target set.
+[11/01/2024 09:17]  Razor: Target: a lich
+[11/01/2024 09:17]  [Razor]: Ignore List cleared
+[11/01/2024 09:17]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:17]  Razor: Attack: a lich
+[11/01/2024 09:17]  System: Anatomy skillgain: 2.908%
+[11/01/2024 09:17]  a lich: -198
+[11/01/2024 09:17]  Razor: a lich
+[11/01/2024 09:17]  Razor: [+Start auto-heal]
+[11/01/2024 09:17]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:17]  Razor: Target: a mummy
+[11/01/2024 09:17]  System: Whom do you wish them to attack?
+[11/01/2024 09:17]  Razor: Target: a lich
+[11/01/2024 09:17]  System: You play successfully, provoking your targets. (51s)
+[11/01/2024 09:17]  a mummy: *looks furious*
+[11/01/2024 09:17]  a lich: *looks furious*
+[11/01/2024 09:17]  a lich: -44
+[11/01/2024 09:17]  a lich: *cursed*
+[11/01/2024 09:17]  a lich: *looks violently ill*
+[11/01/2024 09:17]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 09:17]  System: Anatomy skillgain: 3.046%
+[11/01/2024 09:17]  a lich: -308
+[11/01/2024 09:17]  Ailiin: -15
+[11/01/2024 09:17]  System: Who will you use the bandages on?
+[11/01/2024 09:17]  System: You begin applying the bandages.
+[11/01/2024 09:17]  System: You must wait to perform another action.
+[11/01/2024 09:17]  a mummy: -34
+[11/01/2024 09:17]  Razor: Bandage: 6s
+[11/01/2024 09:17]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:17]  System: Anatomy skillgain: 3.030%
+[11/01/2024 09:17]  a lich: -276
+[11/01/2024 09:17]  a mummy: -22
+[11/01/2024 09:17]  Razor: Attack: a sand crawler
+[11/01/2024 09:17]  a lich: -15
+[11/01/2024 09:17]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:17]  Razor: Bandage: 3s
+[11/01/2024 09:17]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:17]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:17]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:17]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:17]  System: You must wait a few moments before you may provoke or pacify another creature.
+[11/01/2024 09:17]  System: You finish applying the bandages.
+[11/01/2024 09:17]  Ailiin: +14
+[11/01/2024 09:17]  System: Anatomy skillgain: 2.799%
+[11/01/2024 09:17]  System: Anatomy skillgain: 2.998%
+[11/01/2024 09:17]  a sand crawler: -105
+[11/01/2024 09:17]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:17]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:17]  System: You have gained a little fame.
+[11/01/2024 09:17]  Ailiin: (Lyric Aspect 1,409.5/4500 xp)
+[11/01/2024 09:17]  System: Society Job Progress: 4,646/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:17]  Ailiin: +0
+[11/01/2024 09:17]  a mummy: -33
+[11/01/2024 09:17]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:17]  Razor: Target: a sand crawler
+[11/01/2024 09:17]  a lich: -15
+[11/01/2024 09:17]  System: You play successfully, pacifying your target. (51s)
+[11/01/2024 09:17]  a sand crawler: *looks calmed*
+[11/01/2024 09:17]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:17]  Ailiin: +0
+[11/01/2024 09:17]  Ailiin: +0
+[11/01/2024 09:17]  System: Anatomy skillgain: 2.968%
+[11/01/2024 09:17]  a sand crawler: -123
+[11/01/2024 09:17]  a mummy: -33
+[11/01/2024 09:17]  a lich: -44
+[11/01/2024 09:17]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:17]  a lich: -15
+[11/01/2024 09:17]  a mummy: -24
+[11/01/2024 09:17]  System: Whom do you wish them to attack?
+[11/01/2024 09:17]  Razor: Target: a mummy
+[11/01/2024 09:17]  System: You play successfully, provoking your targets. (58s)
+[11/01/2024 09:17]  a sand crawler: *looks furious*
+[11/01/2024 09:17]  a mummy: *looks furious*
+[11/01/2024 09:17]  Ailiin: Your barding skill cooldowns reset.
+[11/01/2024 09:17]  a mummy: -46
+[11/01/2024 09:17]  Razor: Attack: a lich
+[11/01/2024 09:17]  System: Anatomy skillgain: 2.953%
+[11/01/2024 09:17]  a lich: -233
+[11/01/2024 09:17]  a lich: *cursed*
+[11/01/2024 09:17]  a lich: *looks violently ill*
+[11/01/2024 09:17]  a sand crawler: *cursed*
+[11/01/2024 09:17]  a sand crawler: *looks violently ill*
+[11/01/2024 09:17]  System: What do you wish to discord? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:17]  System: You play successfully, disrupting your opponent and weakening them significantly. (1m 56s)
+[11/01/2024 09:17]  a mummy: -62
+[11/01/2024 09:17]  a mummy: -33
+[11/01/2024 09:17]  a lich: -15
+[11/01/2024 09:17]  System: Anatomy skillgain: 2.923%
+[11/01/2024 09:17]  a lich: -228
+[11/01/2024 09:17]  System: Your shot turns the target into a pincushion.
+[11/01/2024 09:17]  System: You have gained a little fame.
+[11/01/2024 09:17]  Ailiin: (Lyric Aspect 1,411.2/4500 xp)
+[11/01/2024 09:17]  System: Society Job Progress: 4,734/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:17]  System: -96
+[11/01/2024 09:17]  You see: a lich corpse
+[11/01/2024 09:18]  System: You must wait a few moments to use another skill.
+[11/01/2024 09:18]  Hazel-rah: Serial Killer [Terran]
+[11/01/2024 09:18]  Hazel-rah: [El-Ahrairah, T^C]
+[11/01/2024 09:18]  Hazel-rah: Hazel-rah
+[11/01/2024 09:18]  a sand crawler: -15
+[11/01/2024 09:18]  Razor: Attack: a mummy
+[11/01/2024 09:18]  System: Anatomy skillgain: 2.894%
+[11/01/2024 09:18]  a mummy: -384
+[11/01/2024 09:18]  System: What do you wish to incite? (you may target the ground for a group effect)
+[11/01/2024 09:18]  System: Whom do you wish them to attack?
+[11/01/2024 09:18]  Razor: Target: a sand crawler
+[11/01/2024 09:18]  System: You play successfully, provoking your targets. (58s)
+[11/01/2024 09:18]  a mummy: *looks furious*
+[11/01/2024 09:18]  a sand crawler: *looks furious*
+[11/01/2024 09:18]  a daemon: (summoned)
+[11/01/2024 09:18]  a daemon: a daemon
+[11/01/2024 09:18]  baby shark dodo: [Cocomelon, T^C]
+[11/01/2024 09:18]  baby shark dodo: baby shark dodo
+[11/01/2024 09:18]  a sand crawler: -15
+[11/01/2024 09:18]  System: Being perfectly rested, you shove them out of the way.
+[11/01/2024 09:18]  BobbyTwoFingers: [Recruit, EVIL]
+[11/01/2024 09:18]  BobbyTwoFingers: BobbyTwoFingers
+[11/01/2024 09:18]  System: Anatomy skillgain: 3.046%
+[11/01/2024 09:18]  a sand crawler: -109
+[11/01/2024 09:18]  a mummy: -64
+[11/01/2024 09:18]  Standin: Terran
+[11/01/2024 09:18]  Standin: [T^C]
+[11/01/2024 09:18]  Standin: Standin
+[11/01/2024 09:18]  Ailiin: Hazel-rah is attacking you!
+[11/01/2024 09:18]  Hazel-rah: Corp Por [Energy Bolt]
+[11/01/2024 09:18]  Ailiin: -33
+[11/01/2024 09:18]  System: Where do you wish to traverse to?
+[11/01/2024 09:18]  System: You must wait to perform another action.
+[11/01/2024 09:18]  System: You must wait to perform another action.
+[11/01/2024 09:18]  System: Who will you use the bandages on?
+[11/01/2024 09:18]  System: You begin applying the bandages.
+[11/01/2024 09:18]  System: You are no longer hindered.
+[11/01/2024 09:18]  a sand crawler: -15
+[11/01/2024 09:18]  Standin: Terran
+[11/01/2024 09:18]  Standin: [T^C]
+[11/01/2024 09:18]  Standin: Standin
+[11/01/2024 09:18]  Ailiin: -34
+[11/01/2024 09:18]  System: Your fingers slip!
+[11/01/2024 09:18]  Razor: Bandage: 9s
+[11/01/2024 09:18]  a sand crawler: *cursed*
+[11/01/2024 09:18]  a sand crawler: *looks violently ill*
+[11/01/2024 09:18]  Ailiin: +25
+[11/01/2024 09:18]  System: some damage has been healed : 25
+[11/01/2024 09:18]  Hazel-rah: 5
+[11/01/2024 09:18]  Rem Dog: [Elder, EVIL]
+[11/01/2024 09:18]  Rem Dog: Rem Dog
+[11/01/2024 09:18]  Hazel-rah: 4
+[11/01/2024 09:18]  a mummy: a mummy
+[11/01/2024 09:18]  Hazel-rah: 3
+[11/01/2024 09:18]  a mummy: -46
+[11/01/2024 09:18]  Razor: Bandage: 6s
+[11/01/2024 09:18]  Hazel-rah: 2
+[11/01/2024 09:18]  System: What do you wish to pacify? (you may target yourself for an area effect or the ground for a group effect)
+[11/01/2024 09:18]  a sand crawler: -15
+[11/01/2024 09:18]  Razor: Target: Ailiin
+[11/01/2024 09:18]  a mummy: *looks calmed*
+[11/01/2024 09:18]  a nightmare: *looks calmed*
+[11/01/2024 09:18]  System: You play successfully, briefly pacifying one or more nearby creatures.
+[11/01/2024 09:18]  Hazel-rah: 1
+[11/01/2024 09:18]  a sand crawler: -15
+[11/01/2024 09:18]  Standin: Terran
+[11/01/2024 09:18]  Standin: [T^C]
+[11/01/2024 09:18]  Standin: Standin
+[11/01/2024 09:18]  an earth elemental: (summoned)
+[11/01/2024 09:18]  an earth elemental: an earth elemental
+[11/01/2024 09:18]  Ailiin: -16
+[11/01/2024 09:18]  System: Your fingers slip!
+[11/01/2024 09:18]  Razor: Bandage: 3s
+[11/01/2024 09:18]  Khan IV: [Archon, T^C]
+[11/01/2024 09:18]  Khan IV: Khan IV
+[11/01/2024 09:18]  Ailiin: You must wait 5 seconds before using another healing potion.
+[11/01/2024 09:18]  a sand crawler: -28
+[11/01/2024 09:18]  System: You have gained a little fame.
+[11/01/2024 09:18]  Ailiin: (Lyric Aspect 1,413.2/4500 xp)
+[11/01/2024 09:18]  System: Society Job Progress: 4,814/150,000 [Kill 150,000 Gold Worth of Creatures].
+[11/01/2024 09:18]  Razor: Move closer!
+[11/01/2024 09:18]  Razor: Move closer!
+[11/01/2024 09:18]  System: You are now under the protection of the town guards.
+[11/01/2024 09:18]  [Razor]: Steps: 0
+[11/01/2024 09:18]  Ailiin: Your mount returns.
+[11/01/2024 09:18]  Candida: Candida the miner
+[11/01/2024 09:18]  Lev: Lev the fisherman
+[11/01/2024 09:18]  everynight: everynight
+[11/01/2024 09:18]  Kwisatz-Haderach: Legendary Domesticator
+[11/01/2024 09:18]  Kwisatz-Haderach: [Druid Veteran, BEAR]
+[11/01/2024 09:18]  Kwisatz-Haderach: Lord Kwisatz-Haderach
+[11/01/2024 09:18]  blightmare: (bonded)
+[11/01/2024 09:18]  blightmare: blightmare
+[11/01/2024 09:18]  Killa DJ: [Vanguard, L%C]
+[11/01/2024 09:18]  Killa DJ: Lord Killa DJ
+[11/01/2024 09:18]  Kaili: Kaili the blacksmith
+[11/01/2024 09:18]  Cayla: Cayla the mage
+[11/01/2024 09:18]  Trind: Trind the banker
+[11/01/2024 09:18]  Cam: Cam the Town Crier
+[11/01/2024 09:18]  Jacinda: Jacinda the healer
+[11/01/2024 09:18]  Nerraw: Nerraw
+[11/01/2024 09:18]  Migina: Migina the provisioner
+[11/01/2024 09:18]  Bitalo: Bitalo the beggar
+[11/01/2024 09:18]  Braden: Braden the tailor
+[11/01/2024 09:18]  Jacelyn: Jacelyn the scribe
+[11/01/2024 09:18]  Like: Like the tavern keeper
+[11/01/2024 09:18]  Zaide: Zaide the tinker
+[11/01/2024 09:18]  Camelia: Camelia the jeweler
+[11/01/2024 09:18]  Matana: Matana the innkeeper
+[11/01/2024 09:18]  Tertia: Tertia the bowyer
+[11/01/2024 09:18]  Takiyah: Takiyah the carpenter
+[11/01/2024 09:18]  Yesmina: Yesmina the bard
+[11/01/2024 09:18]  Deva: Deva the waiter
+[11/01/2024 09:18]  Maria: Maria the architect
+[11/01/2024 09:18]  Rusty: Rusty the farmer
+[11/01/2024 09:18]  System: You finish applying the bandages.
+[11/01/2024 09:18]  Ailiin: +39
+[11/01/2024 09:18]  System: Anatomy skillgain: 1.286%
+[11/01/2024 09:18]  Caron: Caron the armorer
+[11/01/2024 09:18]  Chapman: Chapman the real estate broker
+[11/01/2024 09:18]  Claire: Claire the baker
+[11/01/2024 09:18]  Gerik: Gerik the cook
+[11/01/2024 09:18]  Ailiin: Bank Vendor buy
+[11/01/2024 09:18]  Ailiin: Room
+[11/01/2024 09:18]  System: You have left the protection of the town guards.
+[11/01/2024 09:18]  System: You enter the rental room.
+[11/01/2024 09:18]  System: WorldMap loaded!
+[11/01/2024 09:18]  [Party][Ailiin]: pks
+[11/01/2024 09:18]  [Party][Ailiin]: you should run
+[11/01/2024 09:18]  [Party][Madeover]: I was killed by Standin !!
+[11/01/2024 09:18]  Ailiin: Bank Vendor buy
+[11/01/2024 09:18]  Ailiin: Room
+[11/01/2024 09:18]  [Guild][Frank Snow]: anyone is oss for a rez
+[11/01/2024 09:19]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 09:19]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[11/01/2024 09:19]  [Razor]: Organize Agent queued 5 item(s) to be moved. (This may take a few moments)
+[11/01/2024 09:19]  [Razor]: Warning: Sulfurous Ash amount is now 0!
+[11/01/2024 09:19]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 09:19]  [Razor]: Warning: Garlic amount is now 0!
+[11/01/2024 09:19]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 09:19]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 09:19]  [Razor]: Warning: Black Pearl amount is now 0!
+[11/01/2024 09:19]  [Razor]: Organize Agent did not find any items to move.
+[11/01/2024 09:19]  [Razor]: Warning: Mandrake Root amount is now 0!
+[11/01/2024 09:19]  [Razor]: Warning: Ginseng amount is now 0!
+[11/01/2024 09:19]  [Razor]: Finished 5 queued actions in 2.4 seconds.
+[11/01/2024 09:19]  You see: supremely melodious shawm
+[11/01/2024 09:19]  You see: (395/500 uses remaining)
+[11/01/2024 09:19]  You see: unidentified rampart crossbow
+[11/01/2024 09:19]  You see: unidentified hunting bow
+[11/01/2024 09:19]  : window
+[11/01/2024 09:19]  System: Opening door...

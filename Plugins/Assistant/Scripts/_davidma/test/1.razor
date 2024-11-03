@@ -57,18 +57,33 @@
 #        stop
 #    endif
 #endwhile
+##
+##createtimer time
+##dclicktype 3553
+##
+#while not dead
+#
+#    if timer time > 30000
+#        dclicktype 3553
+#        settimer time 0
+#    endif
+#
+#    skill 'spiritspeak'
+#    wait 1000
+#
+#endwhile
+#
+#while not dead 
+#    hotkey 'last skill'
+#    wait 200
+#    hotkey 'last target'
+#    wait 3000
+#endwhile
 
-createtimer time
-dclicktype 3553
 
-while not dead
-
-    if timer time > 30000
-        dclicktype 3553
-        settimer time 0
-    endif
-
-    skill 'spiritspeak'
-    wait 1000
-
+while not dead 
+    hotkey 'last object'
+    wait 200
+    hotkey 'last target'
+    wait 3000
 endwhile

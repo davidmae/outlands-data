@@ -1,0 +1,40 @@
+[10/24/2024 23:54]  System: WorldMap loading...
+[10/24/2024 23:54]  System: Loading WorldMap markers..
+[10/24/2024 23:54]  System: ..Banks_and_Healers.xml (39)
+[10/24/2024 23:54]  System: ..Dungeons.xml (13)
+[10/24/2024 23:54]  System: ..Dungeon_Gates.xml (392)
+[10/24/2024 23:54]  System: ..Healer_Caravans.xml (42)
+[10/24/2024 23:54]  System: ..Kings_Faire.xml (49)
+[10/24/2024 23:54]  System: ..Moongates.xml (10)
+[10/24/2024 23:54]  System: ..POI.xml (251)
+[10/24/2024 23:54]  System: ..PvP_Locations.xml (71)
+[10/24/2024 23:54]  System: ..Shrines.xml (9)
+[10/24/2024 23:54]  System: ..Sub-Dungeons.xml (4)
+[10/24/2024 23:54]  System: ..Townships.xml (10)
+[10/24/2024 23:54]  System: ..UOAM_Atlas.xml (1887)
+[10/24/2024 23:54]  System: ..UOAM_T-Map.xml (255)
+[10/24/2024 23:54]  System: ..UOAM_Treasure.xml (523)
+[10/24/2024 23:54]  System: WorldMap markers loaded (3555)
+[10/24/2024 23:54]  System: Welcome MrSaul!
+[10/24/2024 23:54]  System: WorldMap loaded!
+[10/24/2024 23:54]  MrSaul: MrSaul
+[10/24/2024 23:54]  Jaimito: Jaimito
+[10/24/2024 23:54]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/24/2024 23:54]  You see: plant soil : 18
+[10/24/2024 23:54]  System: Which item will use on or add to this plant?
+[10/24/2024 23:54]  System: You add the ideal amount of soil to the plant.
+[10/24/2024 23:55]  You see: table
+[10/24/2024 23:55]  You see: [locked down]
+[10/24/2024 23:55]  : You are not allowed to access this.
+[10/24/2024 23:55]  torch: [locked down]
+[10/24/2024 23:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/24/2024 23:56]  System: The world will save in 15 seconds.
+[10/24/2024 23:56]  System: The world is saving, please wait.
+[10/24/2024 23:56]  System: World save complete. The entire process took 2.7 seconds.
+[10/24/2024 23:56]  candle: [no longer locked down]
+[10/24/2024 23:57]  candle: [locked down]
+[10/24/2024 23:57]  System: That plant bowl is too far away.
+[10/24/2024 23:58]  System: Fertilizer: Increases the growth impact of achieving an ideal soil level by 50%.
+[10/24/2024 23:58]  System: Green Mushroom Troop: Increases the growth impact of achieving an ideal soil level by 50% (Fungal Effect).
+[10/24/2024 23:58]  System: Ramiel has completed the achievement: Tradesman Union Associate.
+[10/24/2024 23:58]  You see: plant soil : 4

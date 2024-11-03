@@ -1,0 +1,242 @@
+[10/31/2024 11:04]  System: WorldMap loading...
+[10/31/2024 11:04]  System: Loading WorldMap markers..
+[10/31/2024 11:04]  System: ..Banks_and_Healers.xml (39)
+[10/31/2024 11:04]  System: ..Dungeons.xml (13)
+[10/31/2024 11:04]  System: ..Dungeon_Gates.xml (392)
+[10/31/2024 11:04]  System: ..Healer_Caravans.xml (42)
+[10/31/2024 11:04]  System: ..Kings_Faire.xml (49)
+[10/31/2024 11:04]  System: ..Moongates.xml (10)
+[10/31/2024 11:04]  System: ..POI.xml (251)
+[10/31/2024 11:04]  System: ..PvP_Locations.xml (71)
+[10/31/2024 11:04]  System: ..Shrines.xml (9)
+[10/31/2024 11:04]  System: ..Sub-Dungeons.xml (4)
+[10/31/2024 11:04]  System: ..Townships.xml (10)
+[10/31/2024 11:04]  System: ..UOAM_Atlas.xml (1887)
+[10/31/2024 11:04]  System: ..UOAM_T-Map.xml (255)
+[10/31/2024 11:04]  System: ..UOAM_Treasure.xml (523)
+[10/31/2024 11:04]  System: WorldMap markers loaded (3555)
+[10/31/2024 11:04]  System: WorldMap loaded!
+[10/31/2024 11:04]  System: Welcome MrSaul!
+[10/31/2024 11:04]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[10/31/2024 11:05]  : Please wait for your web browser to start...
+[10/31/2024 11:05]  System: Which item will use on or add to this plant?
+[10/31/2024 11:06]  System: You add the ideal amount of soil to the plant.
+[10/31/2024 11:06]  System: That plant soil is no longer available.
+[10/31/2024 11:06]  System: Which item will use on or add to this plant?
+[10/31/2024 11:06]  System: You add the ideal amount of water to the plant.
+[10/31/2024 11:06]  System: Huck has completed the achievement: Captain (Basic).
+[10/31/2024 11:06]  System: You harvest a plant (Flowering Cactus Bush).
+[10/31/2024 11:06]  You see: a flowering cactus bush
+[10/31/2024 11:06]  You see: (common plant)
+[10/31/2024 11:06]  You see: [double-click to place at feet]
+[10/31/2024 11:07]  System: Goat Infestation: Reduces total growth rate by 16% (Creature Effect).
+[10/31/2024 11:07]  System: Green Mushroom Troop: Increases the growth impact of achieving an ideal soil level by 50% (Fungal Effect).
+[10/31/2024 11:07]  : window
+[10/31/2024 11:07]  : window
+[10/31/2024 11:07]  You see: water bucket
+[10/31/2024 11:07]  You see: [Water Amount: 500/500]
+[10/31/2024 11:07]  You see: fertility serum : 2
+[10/31/2024 11:07]  You see: (mount breeding item)
+[10/31/2024 11:07]  You see:  common seed : 3
+[10/31/2024 11:07]  You see: uncommon seed
+[10/31/2024 11:07]  System: Plant seeds can be placed inside of a plant bowl.
+[10/31/2024 11:07]  MrSaul: Click the 'Add Item' button from a plant bowl menu and target this seed.
+[10/31/2024 11:07]  System: Which seed will you plant?
+[10/31/2024 11:07]  System: The seed you wish to plant must be in your backpack.
+[10/31/2024 11:07]  System: Which seed will you plant?
+[10/31/2024 11:07]  System: You plant a seed.
+[10/31/2024 11:07]  System: You make an estimate of the ideal heat needed for this plant.
+[10/31/2024 11:08]  System: You make an estimate of the ideal water needed for this plant.
+[10/31/2024 11:08]  System: You make an estimate of the ideal soil needed for this plant.
+[10/31/2024 11:08]  System: Which item will use on or add to this plant?
+[10/31/2024 11:08]  System: You add the ideal amount of water to the plant.
+[10/31/2024 11:08]  System: Which item will use on or add to this plant?
+[10/31/2024 11:08]  System: You make an estimate of the ideal heat needed for this plant.
+[10/31/2024 11:08]  System: Opening door...
+[10/31/2024 11:08]  System: You are now under the protection of the town guards.
+[10/31/2024 11:08]  System: You exit the rental room.
+[10/31/2024 11:08]  Kama: Kama the creature broker
+[10/31/2024 11:08]  Hanan: Hanan the animal wrangler
+[10/31/2024 11:08]  a goat: a goat
+[10/31/2024 11:08]  Keara: Keara the stablemaster
+[10/31/2024 11:08]  Renee: Renee the stablemaster
+[10/31/2024 11:08]  a dog: a dog
+[10/31/2024 11:08]  Denton: Denton the innkeeper
+[10/31/2024 11:08]  Thurston: Thurston the waiter
+[10/31/2024 11:08]  shankara: [The Tavern], [tT]
+[10/31/2024 11:08]  shankara: shankara
+[10/31/2024 11:08]  Dr Loboto: [Officer, SD]
+[10/31/2024 11:08]  Dr Loboto: Dr Loboto
+[10/31/2024 11:08]  a dog: a dog
+[10/31/2024 11:08]  System: WorldMap loaded!
+[10/31/2024 11:08]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/31/2024 11:08]  System: Opening door...
+[10/31/2024 11:08]  Dacey: Dacey the waiter
+[10/31/2024 11:08]  Callidora: Callidora the tavern keeper
+[10/31/2024 11:08]  a dog: a dog
+[10/31/2024 11:08]  a cat: a cat
+[10/31/2024 11:08]  a cat: a cat
+[10/31/2024 11:08]  Renee: Renee the stablemaster
+[10/31/2024 11:08]  System: You dig, but find nothing nearby.
+[10/31/2024 11:08]  Dacey: Dacey the waiter
+[10/31/2024 11:09]  System: You dig, but find nothing nearby.
+[10/31/2024 11:09]  System: You dig, but find nothing nearby.
+[10/31/2024 11:09]  System: You dig, but find nothing nearby.
+[10/31/2024 11:09]  System: You dig, but find nothing nearby.
+[10/31/2024 11:09]  System: Herb Mcgruff has completed the achievement: Versatility (Advanced).
+[10/31/2024 11:09]  Brehen: Mythical Illusionist
+[10/31/2024 11:09]  Brehen: [Acolyte of Night, Vile]
+[10/31/2024 11:09]  Brehen: Lord Brehen
+[10/31/2024 11:09]  Dacey: Dacey the waiter
+[10/31/2024 11:09]  Dacey: Dacey the waiter
+[10/31/2024 11:09]  System: You dig, but find nothing nearby.
+[10/31/2024 11:09]  System: You must wait to perform another action.
+[10/31/2024 11:09]  System: You dig, but find nothing nearby.
+[10/31/2024 11:09]  System: You dig, but find nothing nearby.
+[10/31/2024 11:09]  Madeover: [Member, NC]
+[10/31/2024 11:09]  Madeover: Madeover
+[10/31/2024 11:09]  Madeover: room
+[10/31/2024 11:09]  System: You dig, but find nothing nearby.
+[10/31/2024 11:09]  System: You dig, but find nothing nearby.
+[10/31/2024 11:09]  System: Craft Machine has completed the achievement: Leatherworker (Basic).
+[10/31/2024 11:09]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:09]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:09]  You see: plant soil : 16
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  Denton: Denton the innkeeper
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  Denton: Denton the innkeeper
+[10/31/2024 11:10]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  System: You dig, but find nothing nearby.
+[10/31/2024 11:10]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  Dacey: Dacey the waiter
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  Ru Barb: Ru Barb
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:11]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:11]  System: Annomalye has completed the achievement: Undead Slayer (Advanced).
+[10/31/2024 11:11]  System: You dig, but find nothing nearby.
+[10/31/2024 11:11]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:11]  Abran: Abran
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  Ru Barb: Ru Barb
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: Cutty McCloth has completed the achievement: Carpenter (Basic).
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  System: You dig, but find nothing nearby.
+[10/31/2024 11:12]  Denton: Denton the innkeeper
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:13]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  Ru Barb: Ru Barb
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  Dacey: Dacey the waiter
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:13]  Jaimito: Jaimito
+[10/31/2024 11:13]  Jaimito: Bank Vendor buy Room
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  System: You dig, but find nothing nearby.
+[10/31/2024 11:13]  Denton: Denton the innkeeper
+[10/31/2024 11:13]  Renee: Renee the stablemaster
+[10/31/2024 11:13]  a goat: a goat
+[10/31/2024 11:13]  Keara: Keara the stablemaster
+[10/31/2024 11:14]  a dog: a dog
+[10/31/2024 11:14]  MrSaul: You dig and find some usable plant soil.
+[10/31/2024 11:14]  MrSaul: Bank Vendor buy Room
+[10/31/2024 11:14]  System: You have left the protection of the town guards.
+[10/31/2024 11:14]  System: You enter the rental room.
+[10/31/2024 11:14]  Jaimito: Jaimito
+[10/31/2024 11:14]  Ailiin: [Ripe, SQzD]
+[10/31/2024 11:14]  Ailiin: Ailiin
+[10/31/2024 11:14]  System: WorldMap loaded!
+[10/31/2024 11:14]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[10/31/2024 11:14]  : wooden planks
+[10/31/2024 11:14]  System: Which item will use on or add to this plant?
+[10/31/2024 11:14]  System: You add the ideal amount of soil to the plant.
+[10/31/2024 11:14]  You see: plant soil : 66
+[10/31/2024 11:14]  You see: gold planter's spade
+[10/31/2024 11:14]  You see: (193 uses remaining)
+[10/31/2024 11:14]  You see: exceptional shovel
+[10/31/2024 11:14]  You see: (34 uses remaining)
+[10/31/2024 11:14]  You see: Outpost Moongate
+[10/31/2024 11:14]  You see: Terran
+[10/31/2024 11:16]  Jaimito: Kal Ort Por
+[10/31/2024 11:17]  Jaimito: Kal Ort Por
+[10/31/2024 11:17]  System: Noomli has completed the achievement: Skill Mastery (Basic).
+[10/31/2024 11:18]  System: The world will save in 15 seconds.
+[10/31/2024 11:19]  System: The world is saving, please wait.
+[10/31/2024 11:19]  System: World save complete. The entire process took 2.6 seconds.
+[10/31/2024 11:19]  Jaimito: Jaimito
+[10/31/2024 11:19]  6th anniversary ingot: [locked down]
+[10/31/2024 11:19]  System: Lockdowns Used: 539 / 700
+[10/31/2024 11:19]  You see: 6th anniversary ingot
+[10/31/2024 11:19]  You see: [blessed]
+[10/31/2024 11:19]  You see: [locked down]
+[10/31/2024 11:19]  You see: (hue 2801: dark denim)
+[10/31/2024 11:19]  System: No insecure items found within house.
+[10/31/2024 11:22]  System: Suicidal Monkey has completed the achievement: Skill Mastery (Basic).
+[10/31/2024 11:22]  System: Zalmoxxis has completed the achievement: Elemental Slayer (Basic).
+[10/31/2024 11:23]  System: Elboww has completed the achievement: Versatility (Basic).
+[10/31/2024 11:31]  System: Unity (UT) guild has reached prestige level 60.
+[10/31/2024 11:31]  System: Amenpanufer has completed the achievement: Guardian of Kraul Hive (Basic).
+[10/31/2024 11:32]  System: Lefay has completed the achievement: Backstabber (Advanced).
+[10/31/2024 11:32]  Ailiin: [Ripe, SQzD]
+[10/31/2024 11:32]  Ailiin: Ailiin
+[10/31/2024 11:33]  System: The world will save in 15 seconds.
+[10/31/2024 11:33]  System: The world is saving, please wait.
+[10/31/2024 11:33]  System: World save complete. The entire process took 2.7 seconds.
+[10/31/2024 11:36]  System: Smokyy has completed the achievement: Tailor (Basic).
+[10/31/2024 11:42]  System: Suicide Messiah has completed the achievement: Connoisseur (Epic).
+[10/31/2024 11:44]  Ailiin: [Ripe, SQzD]
+[10/31/2024 11:44]  Ailiin: Ailiin

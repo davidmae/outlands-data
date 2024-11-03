@@ -70,7 +70,7 @@
 			<action code="1" subcode="0" submenutype="2" text="I wish to release this" />
 		</actions>
 	</macro>
-	<macro name="Circle Trans" key="54" mousebutton="0" alt="False" ctrl="False" shift="False">
+	<macro name="Circle Trans" key="48" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="29" subcode="0" submenutype="0" />
 		</actions>
@@ -292,6 +292,11 @@
 	<macro name="RestockAmmo" key="0" mousebutton="0" alt="False" ctrl="False" shift="False">
 		<actions>
 			<action code="1" subcode="0" submenutype="2" text="&gt;script _davidma\Crafting-ItemHandling\RestockAmmo" />
+		</actions>
+	</macro>
+	<macro name="WeaponAbility3" key="54" mousebutton="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[WeaponAbility3" />
 		</actions>
 	</macro>
 </macros>

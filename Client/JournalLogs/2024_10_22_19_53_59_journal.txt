@@ -1,0 +1,2815 @@
+[10/22/2024 19:53]  System: WorldMap loading...
+[10/22/2024 19:53]  System: Loading WorldMap markers..
+[10/22/2024 19:53]  System: ..Banks_and_Healers.xml (39)
+[10/22/2024 19:53]  System: ..Dungeons.xml (13)
+[10/22/2024 19:53]  System: ..Dungeon_Gates.xml (392)
+[10/22/2024 19:53]  System: ..Healer_Caravans.xml (42)
+[10/22/2024 19:53]  System: ..Kings_Faire.xml (49)
+[10/22/2024 19:53]  System: ..Moongates.xml (10)
+[10/22/2024 19:53]  System: ..POI.xml (251)
+[10/22/2024 19:53]  System: ..PvP_Locations.xml (71)
+[10/22/2024 19:53]  System: ..Shrines.xml (9)
+[10/22/2024 19:53]  System: ..Sub-Dungeons.xml (4)
+[10/22/2024 19:53]  System: ..Townships.xml (10)
+[10/22/2024 19:53]  System: ..UOAM_Atlas.xml (1887)
+[10/22/2024 19:53]  System: ..UOAM_T-Map.xml (255)
+[10/22/2024 19:53]  System: ..UOAM_Treasure.xml (523)
+[10/22/2024 19:53]  System: WorldMap markers loaded (3555)
+[10/22/2024 19:53]  System: Welcome MrSaul!
+[10/22/2024 19:53]  MrSaul: MrSaul
+[10/22/2024 19:53]  Carol: Carol the miner
+[10/22/2024 19:53]  Mercedes: Mercedes the ranger
+[10/22/2024 19:53]  LazMan: Monster Hunter Initiate
+[10/22/2024 19:53]  LazMan: [Private First Class, TES]
+[10/22/2024 19:53]  LazMan: LazMan
+[10/22/2024 19:53]  The Goose Man: The Goose Man
+[10/22/2024 19:53]  Harambe's Ghost: Wilderness Hero
+[10/22/2024 19:53]  Harambe's Ghost: [ASH]
+[10/22/2024 19:53]  Harambe's Ghost: Lord Harambe's Ghost
+[10/22/2024 19:53]  a phoenix: (bonded)
+[10/22/2024 19:53]  a phoenix: a phoenix
+[10/22/2024 19:53]  HARAMBEE: (bonded)
+[10/22/2024 19:53]  HARAMBEE: HARAMBEE
+[10/22/2024 19:53]  Chop n Pick: Chop n Pick
+[10/22/2024 19:53]  Fualinto: Fualinto
+[10/22/2024 19:53]  Elija: Maester
+[10/22/2024 19:53]  Elija: [Rebel, HR]
+[10/22/2024 19:53]  Elija: Lord Elija
+[10/22/2024 19:53]  chen feng: Shadowspire Legend
+[10/22/2024 19:53]  chen feng: Lord chen feng
+[10/22/2024 19:53]  Wanda: Wanda the blacksmith
+[10/22/2024 19:53]  Indika: Legendary Captain
+[10/22/2024 19:53]  Indika: [Seer, NKB]
+[10/22/2024 19:53]  Indika: Lord Indika
+[10/22/2024 19:53]  Crystal: Crystal the tinker
+[10/22/2024 19:53]  Selina: Selina the jeweler
+[10/22/2024 19:53]  a sheep: a sheep
+[10/22/2024 19:53]  Subrey: Subrey the provisioner
+[10/22/2024 19:53]  System: The world is saving, please wait.
+[10/22/2024 19:54]  System: WorldMap loaded!
+[10/22/2024 19:54]  System: World save complete. The entire process took 2.6 seconds.
+[10/22/2024 19:54]  [Razor]: Finished 3 queued actions in 3.5 seconds.
+[10/22/2024 19:54]  Tailor Swifft: Tailor Swifft (Young)
+[10/22/2024 19:54]  Moutian: Moutian
+[10/22/2024 19:54]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:54]  Crystal: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[10/22/2024 19:54]  Crystal: For less I shall teach thee less.
+[10/22/2024 19:54]  System: TasteID skillgain: 41.667%
+[10/22/2024 19:54]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:54]  Tilia Amber: [Member, NP$]
+[10/22/2024 19:54]  Tilia Amber: Tilia Amber
+[10/22/2024 19:54]  a sheep: a sheep
+[10/22/2024 19:54]  Ardith: Ardith the tailor
+[10/22/2024 19:54]  a sheep: a sheep
+[10/22/2024 19:54]  a sheep: a sheep
+[10/22/2024 19:54]  MasterGaterAlt: MasterGaterAlt
+[10/22/2024 19:54]  Red Light Market: Red Light Market
+[10/22/2024 19:54]  Saxon: Saxon the lumberjack
+[10/22/2024 19:54]  Tilia Amber: [Member, NP$]
+[10/22/2024 19:54]  Tilia Amber: Tilia Amber
+[10/22/2024 19:54]  Crystal: Crystal the tinker
+[10/22/2024 19:54]  a phoenix: (bonded)
+[10/22/2024 19:54]  a phoenix: a phoenix
+[10/22/2024 19:54]  HARAMBEE: (bonded)
+[10/22/2024 19:54]  HARAMBEE: HARAMBEE
+[10/22/2024 19:54]  Selina: Selina the jeweler
+[10/22/2024 19:54]  Saxon: Saxon the lumberjack
+[10/22/2024 19:54]  a sheep: a sheep
+[10/22/2024 19:54]  Tilia Amber: [Member, NP$]
+[10/22/2024 19:54]  Tilia Amber: Tilia Amber
+[10/22/2024 19:54]  a sheep: a sheep
+[10/22/2024 19:54]  Tailor Swifft: Tailor Swifft (Young)
+[10/22/2024 19:54]  chen feng: ty
+[10/22/2024 19:54]  K'osz: K'osz
+[10/22/2024 19:55]  chen feng: Kal Ort Por
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  System: TasteID skillgain: 41.667%
+[10/22/2024 19:55]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  a raven: a raven
+[10/22/2024 19:55]  System: TasteID skillgain: 41.667%
+[10/22/2024 19:55]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:55]  Amadis: Amadis the armorer
+[10/22/2024 19:55]  Bilal: Bilal the blacksmith
+[10/22/2024 19:55]  a sheep: a sheep
+[10/22/2024 19:55]  a sheep: a sheep
+[10/22/2024 19:55]  a sheep: a sheep
+[10/22/2024 19:55]  Paul Bunyum: Paul Bunyum (Young)
+[10/22/2024 19:55]  a raven: a raven
+[10/22/2024 19:55]  a raven: a raven
+[10/22/2024 19:55]  a sheep: a sheep
+[10/22/2024 19:55]  a sheep: a sheep
+[10/22/2024 19:55]  Boogus: Boogus (Young)
+[10/22/2024 19:55]  a sheep: a sheep
+[10/22/2024 19:55]  a sheep: a sheep
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  System: TasteID skillgain: 41.667%
+[10/22/2024 19:55]  System: Your skill in Parrying has decreased by 0.1.  It is now 55.2.
+[10/22/2024 19:55]  System: Your skill in Taste Identification has increased by 0.1.  It is now 33.4.
+[10/22/2024 19:55]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:55]  Ayisha: Ayisha the weaponsmith
+[10/22/2024 19:55]  Jolanta: Jolanta the Paladin
+[10/22/2024 19:55]  Dane: Dane the farmer
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  Len: Len the banker
+[10/22/2024 19:55]  System: TasteID skillgain: 41.667%
+[10/22/2024 19:55]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:55]  Tresor: [Le Francais, LEET]
+[10/22/2024 19:55]  Tresor: Lord Tresor
+[10/22/2024 19:55]  Jake: Jake the barkeep
+[10/22/2024 19:55]  Colon: Colon the Town Crier
+[10/22/2024 19:55]  Alicia: Alicia the tavern keeper
+[10/22/2024 19:55]  a monitor: (bonded)
+[10/22/2024 19:55]  a monitor: a monitor
+[10/22/2024 19:55]  a primordial: (bonded)
+[10/22/2024 19:55]  a primordial: a primordial
+[10/22/2024 19:55]  a primordial: (bonded)
+[10/22/2024 19:55]  a primordial: a primordial
+[10/22/2024 19:55]  a cave bear: (bonded)
+[10/22/2024 19:55]  a cave bear: a cave bear
+[10/22/2024 19:55]  Dusty: Dusty the cook
+[10/22/2024 19:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/22/2024 19:55]  a blood ape: (bonded)
+[10/22/2024 19:55]  a blood ape: a blood ape
+[10/22/2024 19:55]  Giles: Giles the thief
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  Jayne: Jayne the innkeeper
+[10/22/2024 19:55]  System: TasteID skillgain: 41.667%
+[10/22/2024 19:55]  System: Your skill in Parrying has decreased by 0.1.  It is now 55.1.
+[10/22/2024 19:55]  System: Your skill in Taste Identification has increased by 0.1.  It is now 33.5.
+[10/22/2024 19:55]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:55]  King George: King George (Young)
+[10/22/2024 19:55]  a forest ostard: (bonded)
+[10/22/2024 19:55]  a forest ostard: a forest ostard
+[10/22/2024 19:55]  Gomer: (bonded)
+[10/22/2024 19:55]  Gomer: Gomer
+[10/22/2024 19:55]  Furro Fangbottom: Furro Fangbottom
+[10/22/2024 19:55]  You see: the remains of Grand Wind
+[10/22/2024 19:55]  Chardun: [Slave, Und]
+[10/22/2024 19:55]  Chardun: Chardun
+[10/22/2024 19:55]  a cave bear: *released*
+[10/22/2024 19:55]  a cave bear: a cave bear
+[10/22/2024 19:55]  a cave bear: *released*
+[10/22/2024 19:55]  a cave bear: a cave bear
+[10/22/2024 19:55]  Van Luke: Field Captain [Terran]
+[10/22/2024 19:55]  Van Luke: [EVIL]
+[10/22/2024 19:55]  Van Luke: Van Luke
+[10/22/2024 19:55]  Valucry: Valucry (Young)
+[10/22/2024 19:55]  Pizza Sheet: [Hostile Elite, HOST]
+[10/22/2024 19:55]  Pizza Sheet: Pizza Sheet
+[10/22/2024 19:55]  Orc Dragonmaster: Orc Dragonmaster (Young)
+[10/22/2024 19:55]  a bull: (tame)
+[10/22/2024 19:55]  a bull: a bull
+[10/22/2024 19:55]  a colossal frog: (tame)
+[10/22/2024 19:55]  a colossal frog: a colossal frog
+[10/22/2024 19:55]  Evaletris: Evaletris (Young)
+[10/22/2024 19:55]  a bull: (tame)
+[10/22/2024 19:55]  a bull: a bull
+[10/22/2024 19:55]  a mongbat: (tame)
+[10/22/2024 19:55]  a mongbat: a mongbat
+[10/22/2024 19:55]  a colossal frog: (tame)
+[10/22/2024 19:55]  a colossal frog: a colossal frog
+[10/22/2024 19:55]  Zaid: Zaid the guard
+[10/22/2024 19:55]  DunglessHole: DunglessHole
+[10/22/2024 19:55]  Marti: Marti the healer
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  System: TasteID skillgain: 41.667%
+[10/22/2024 19:55]  System: Your skill in Parrying has decreased by 0.1.  It is now 55.0.
+[10/22/2024 19:55]  System: Your skill in Taste Identification has increased by 0.1.  It is now 33.6.
+[10/22/2024 19:55]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:55]  You see: training credits deed
+[10/22/2024 19:55]  You see: (6 credits remaining)
+[10/22/2024 19:55]  You see: [bound to Left Eye]
+[10/22/2024 19:55]  Pizza Sheet: All new players are welcome! We get new and old players on the right path to start enjoying this awesome game!
+[10/22/2024 19:55]  Lambipot: Lambipot (Young)
+[10/22/2024 19:55]  Jayne: Jayne the innkeeper
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: That is too far away.
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  System: TasteID skillgain: 41.667%
+[10/22/2024 19:55]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:55]  PocketPick: PocketPick
+[10/22/2024 19:55]  System: You have left the protection of the town guards.
+[10/22/2024 19:55]  MrSaul: Your mount finds a quiet place to rest safely.
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  a bull: (tame)
+[10/22/2024 19:55]  a bull: a bull
+[10/22/2024 19:55]  a mongbat: (tame)
+[10/22/2024 19:55]  a mongbat: a mongbat
+[10/22/2024 19:55]  a colossal frog: (tame)
+[10/22/2024 19:55]  a colossal frog: a colossal frog
+[10/22/2024 19:55]  CroatzOCE: Lord CroatzOCE
+[10/22/2024 19:55]  a wounded harpy: a wounded harpy
+[10/22/2024 19:55]  exa: [frog]
+[10/22/2024 19:55]  exa: exa
+[10/22/2024 19:55]  PoofPoofz: [Veteran, Syn]
+[10/22/2024 19:55]  PoofPoofz: PoofPoofz
+[10/22/2024 19:55]  Budman: [Recruit, Yew]
+[10/22/2024 19:55]  Budman: Budman
+[10/22/2024 19:55]  Riven Kuro: Riven Kuro (Young)
+[10/22/2024 19:55]  Corruptshot: [Mechanic, MMx]
+[10/22/2024 19:55]  Corruptshot: Corruptshot
+[10/22/2024 19:55]  Warner the Watch: [Knight, Sir.]
+[10/22/2024 19:55]  Warner the Watch: Warner the Watch
+[10/22/2024 19:55]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:55]  Splodge: Splodge
+[10/22/2024 19:55]  a gravebug: (bonded)
+[10/22/2024 19:55]  a gravebug: a gravebug
+[10/22/2024 19:55]  Nancy: Legendarily Colorful
+[10/22/2024 19:55]  Nancy: Lady Nancy
+[10/22/2024 19:55]  Fuzznimp: Fuzznimp (Young)
+[10/22/2024 19:55]  Leo Stronghold: Leo Stronghold
+[10/22/2024 19:55]  DaHeeler: DaHeeler
+[10/22/2024 19:55]  Alpacaccino: [Ripe, SQzD]
+[10/22/2024 19:55]  Alpacaccino: Alpacaccino
+[10/22/2024 19:55]  Snooj: Monstrous Slayer
+[10/22/2024 19:55]  Snooj: [Big Boom, CtS]
+[10/22/2024 19:55]  Snooj: Lady Snooj
+[10/22/2024 19:55]  Mass Produce: Mass Produce
+[10/22/2024 19:55]  a dragon: (tame)
+[10/22/2024 19:55]  a dragon: a dragon
+[10/22/2024 19:55]  Evaletris: Evaletris (Young)
+[10/22/2024 19:55]  a gravebug: *devours corpse*
+[10/22/2024 19:55]  System: You are now under the protection of the town guards.
+[10/22/2024 19:55]  MrSaul: Your mount returns.
+[10/22/2024 19:55]  You see: the remains of Grand Wind
+[10/22/2024 19:55]  a hind: a hind
+[10/22/2024 19:55]  a hind: a hind
+[10/22/2024 19:55]  an eagle: an eagle
+[10/22/2024 19:55]  Lambipot: Lambipot (Young)
+[10/22/2024 19:55]  a forest ostard: (bonded)
+[10/22/2024 19:55]  a forest ostard: a forest ostard
+[10/22/2024 19:55]  Zaid: Zaid the guard
+[10/22/2024 19:55]  Furro Fangbottom: Furro Fangbottom
+[10/22/2024 19:55]  Gomer: (bonded)
+[10/22/2024 19:55]  Gomer: Gomer
+[10/22/2024 19:55]  Orc Dragonmaster: Orc Dragonmaster (Young)
+[10/22/2024 19:55]  a bull: (tame)
+[10/22/2024 19:55]  a bull: a bull
+[10/22/2024 19:55]  a colossal frog: (tame)
+[10/22/2024 19:55]  a colossal frog: a colossal frog
+[10/22/2024 19:55]  Valucry: Valucry (Young)
+[10/22/2024 19:55]  King George: King George (Young)
+[10/22/2024 19:55]  Pizza Sheet: [Hostile Elite, HOST]
+[10/22/2024 19:55]  Pizza Sheet: Pizza Sheet
+[10/22/2024 19:55]  a cave bear: *released*
+[10/22/2024 19:55]  a cave bear: a cave bear
+[10/22/2024 19:55]  a cave bear: *released*
+[10/22/2024 19:55]  a cave bear: a cave bear
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  System: TasteID skillgain: 41.667%
+[10/22/2024 19:55]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:55]  System: You have left the protection of the town guards.
+[10/22/2024 19:55]  MrSaul: Your mount finds a quiet place to rest safely.
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  CroatzOCE: Lord CroatzOCE
+[10/22/2024 19:55]  a wounded harpy: a wounded harpy
+[10/22/2024 19:55]  exa: [frog]
+[10/22/2024 19:55]  exa: exa
+[10/22/2024 19:55]  PoofPoofz: [Veteran, Syn]
+[10/22/2024 19:55]  PoofPoofz: PoofPoofz
+[10/22/2024 19:55]  Budman: [Recruit, Yew]
+[10/22/2024 19:55]  Budman: Budman
+[10/22/2024 19:55]  Riven Kuro: Riven Kuro (Young)
+[10/22/2024 19:55]  Corruptshot: [Mechanic, MMx]
+[10/22/2024 19:55]  Corruptshot: Corruptshot
+[10/22/2024 19:55]  Warner the Watch: [Knight, Sir.]
+[10/22/2024 19:55]  Warner the Watch: Warner the Watch
+[10/22/2024 19:55]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:55]  Splodge: Splodge
+[10/22/2024 19:55]  a gravebug: (bonded)
+[10/22/2024 19:55]  a gravebug: a gravebug
+[10/22/2024 19:55]  Nancy: Legendarily Colorful
+[10/22/2024 19:55]  Nancy: Lady Nancy
+[10/22/2024 19:55]  Fuzznimp: Fuzznimp (Young)
+[10/22/2024 19:55]  Leo Stronghold: Leo Stronghold
+[10/22/2024 19:55]  DaHeeler: DaHeeler
+[10/22/2024 19:55]  Alpacaccino: [Ripe, SQzD]
+[10/22/2024 19:55]  Alpacaccino: Alpacaccino
+[10/22/2024 19:55]  Snooj: Monstrous Slayer
+[10/22/2024 19:55]  Snooj: [Big Boom, CtS]
+[10/22/2024 19:55]  Snooj: Lady Snooj
+[10/22/2024 19:55]  Mass Produce: Mass Produce
+[10/22/2024 19:55]  a dragon: (tame)
+[10/22/2024 19:55]  a dragon: a dragon
+[10/22/2024 19:55]  CroatzOCE: Lord CroatzOCE
+[10/22/2024 19:55]  You see: a wounded harpy corpse
+[10/22/2024 19:55]  a giant bat: a giant bat
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  You see: a mongbat corpse
+[10/22/2024 19:55]  You see: a wounded harpy corpse
+[10/22/2024 19:55]  You see: a giant rat corpse
+[10/22/2024 19:55]  You see: a giant rat corpse
+[10/22/2024 19:55]  You see: a giant rat corpse
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  You see: a giant bat corpse
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: Players cannot commit aggressive actions in that location.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: You may not loot this corpse.
+[10/22/2024 19:55]  System: TasteID skillgain: 100%
+[10/22/2024 19:55]  System: Your skill in Parrying has decreased by 0.3.  It is now 54.7.
+[10/22/2024 19:55]  System: Your skill in Taste Identification has increased by 0.3.  It is now 33.9.
+[10/22/2024 19:55]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  Sin City Forge: Armorer Luminary
+[10/22/2024 19:55]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 19:55]  Sin City Forge: Sin City Forge
+[10/22/2024 19:55]  System: TasteID skillgain: 100%
+[10/22/2024 19:55]  System: Your skill in Parrying has decreased by 0.3.  It is now 54.4.
+[10/22/2024 19:55]  System: Your skill in Taste Identification has increased by 0.3.  It is now 34.2.
+[10/22/2024 19:55]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:55]  PocketPick: PocketPick
+[10/22/2024 19:55]  You see: a wounded harpy corpse
+[10/22/2024 19:55]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:55]  System: TasteID skillgain: 100%
+[10/22/2024 19:55]  System: Your skill in Parrying has decreased by 0.3.  It is now 54.1.
+[10/22/2024 19:55]  System: Your skill in Taste Identification has increased by 0.3.  It is now 34.5.
+[10/22/2024 19:55]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:55]  System: Your dexterity has changed by -1.  It is now 98
+[10/22/2024 19:55]  System: Your intelligence has changed by 1.  It is now 54
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:56]  Splodge: Splodge
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 53.8.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 34.8.
+[10/22/2024 19:56]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:56]  a mongbat: a mongbat
+[10/22/2024 19:56]  a mongbat: a mongbat
+[10/22/2024 19:56]  a gravebug: *devours corpse*
+[10/22/2024 19:56]  Warner the Watch: *area taunt*
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 53.5.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 35.1.
+[10/22/2024 19:56]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 53.2.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 35.4.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  PocketPick: PocketPick
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  a mongbat: a mongbat
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 52.9.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 35.7.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 52.6.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 36.0.
+[10/22/2024 19:56]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 52.3.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 36.3.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  a gravebug: *devours corpse*
+[10/22/2024 19:56]  Abigail Graves: Abigail Graves (Young)
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 52.0.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 36.6.
+[10/22/2024 19:56]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:56]  Warner the Watch: *area taunt*
+[10/22/2024 19:56]  You see: a mongbat corpse
+[10/22/2024 19:56]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:56]  Splodge: Splodge
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 51.7.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 36.9.
+[10/22/2024 19:56]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:56]  Warner the Watch: Thou wilt regret thine actions, swine!
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 51.4.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 37.2.
+[10/22/2024 19:56]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:56]  Prostagma: [Bon Voyage, Co.]
+[10/22/2024 19:56]  Prostagma: Prostagma
+[10/22/2024 19:56]  a mongbat: *looks violently ill*
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 51.1.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 37.5.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  a gravebug: *devours corpse*
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 50.8.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 37.8.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  Sin City Forge: Armorer Luminary
+[10/22/2024 19:56]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 19:56]  Sin City Forge: Sin City Forge
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 50.5.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 38.1.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 50.2.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 38.4.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  Warner the Watch: *area taunt*
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 49.9.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 38.7.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:56]  Splodge: Splodge
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 49.6.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 39.0.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  a gravebug: *devours corpse*
+[10/22/2024 19:56]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 49.3.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 39.3.
+[10/22/2024 19:56]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 49.0.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 39.6.
+[10/22/2024 19:56]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:56]  a water elemental: (summoned)
+[10/22/2024 19:56]  a water elemental: a water elemental
+[10/22/2024 19:56]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:56]  System: TasteID skillgain: 100%
+[10/22/2024 19:56]  System: Your skill in Parrying has decreased by 0.3.  It is now 48.7.
+[10/22/2024 19:56]  System: Your skill in Taste Identification has increased by 0.3.  It is now 39.9.
+[10/22/2024 19:56]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:56]  Prostagma: a water elemental release
+[10/22/2024 19:56]  Warner the Watch: *area taunt*
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.3.  It is now 48.4.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.3.  It is now 40.2.
+[10/22/2024 19:57]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 48.2.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 40.4.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  a gravebug: *devours corpse*
+[10/22/2024 19:57]  a water elemental: (summoned)
+[10/22/2024 19:57]  a water elemental: a water elemental
+[10/22/2024 19:57]  Warner the Watch: Fear not! The Knights Guild shalt protect thee whilst thou trains!
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 48.0.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 40.6.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  Bathilda BagShot: Bathilda BagShot
+[10/22/2024 19:57]  Prostagma: a water elemental release
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 47.8.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 40.8.
+[10/22/2024 19:57]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:57]  You see: a mongbat corpse
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 47.6.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 41.0.
+[10/22/2024 19:57]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 47.4.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 41.2.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  Warner the Watch: *area taunt*
+[10/22/2024 19:57]  a gravebug: *devours corpse*
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 47.2.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 41.4.
+[10/22/2024 19:57]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  Olympia: Legendary Landowner
+[10/22/2024 19:57]  Olympia: Olympia
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 47.0.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 41.6.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 46.8.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 41.8.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 46.6.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 42.0.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:57]  Splodge: Splodge
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 46.4.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 42.2.
+[10/22/2024 19:57]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:57]  a gravebug: *devours corpse*
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 46.2.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 42.4.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  Warner the Watch: *area taunt*
+[10/22/2024 19:57]  Sin City Forge: Armorer Luminary
+[10/22/2024 19:57]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 19:57]  Sin City Forge: Sin City Forge
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 46.0.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 42.6.
+[10/22/2024 19:57]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:57]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 45.8.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 42.8.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  a water elemental: (summoned)
+[10/22/2024 19:57]  a water elemental: a water elemental
+[10/22/2024 19:57]  basilisklive: basilisklive (Young)
+[10/22/2024 19:57]  System: Beatrixx has completed the achievement: Engineer (Epic).
+[10/22/2024 19:57]  Ulfrik Doven: [Chevalier des liens, LDS]
+[10/22/2024 19:57]  Ulfrik Doven: Ulfrik Doven
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 45.6.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 43.0.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  Bathilda BagShot: Bathilda BagShot
+[10/22/2024 19:57]  a gravebug: *devours corpse*
+[10/22/2024 19:57]  Prostagma: a water elemental release
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 45.4.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 43.2.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:57]  Splodge: Splodge
+[10/22/2024 19:57]  You see: a mongbat corpse
+[10/22/2024 19:57]  Warner the Watch: *area taunt*
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 45.2.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 43.4.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:57]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:57]  System: TasteID skillgain: 100%
+[10/22/2024 19:57]  System: Your skill in Parrying has decreased by 0.2.  It is now 45.0.
+[10/22/2024 19:57]  System: Your skill in Taste Identification has increased by 0.2.  It is now 43.6.
+[10/22/2024 19:57]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 44.8.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 43.8.
+[10/22/2024 19:58]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 44.6.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 44.0.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  a gravebug: *devours corpse*
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 44.4.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 44.2.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  System: SammichArtist has completed the achievement: Chef (Basic).
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 44.2.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 44.4.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  Warner the Watch: *area taunt*
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 44.0.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 44.6.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 43.8.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 44.8.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  a gravebug: *devours corpse*
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 43.6.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 45.0.
+[10/22/2024 19:58]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:58]  System: Your campfire is now secure.
+[10/22/2024 19:58]  a mongbat: a mongbat
+[10/22/2024 19:58]  You see: a giant bat corpse
+[10/22/2024 19:58]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 43.4.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 45.2.
+[10/22/2024 19:58]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 43.2.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 45.4.
+[10/22/2024 19:58]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:58]  You see: a wounded harpy corpse
+[10/22/2024 19:58]  You see: a giant rat corpse
+[10/22/2024 19:58]  You see: a giant rat corpse
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 43.0.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 45.6.
+[10/22/2024 19:58]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:58]  You see: a mongbat corpse
+[10/22/2024 19:58]  Warner the Watch: *area taunt*
+[10/22/2024 19:58]  Prostagma: a water elemental release
+[10/22/2024 19:58]  You see: a giant rat corpse
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  Warner the Watch: Thou wilt regret thine actions, swine!
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 42.8.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 45.8.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 19:58]  a gravebug: *devours corpse*
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 42.6.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 46.0.
+[10/22/2024 19:58]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:58]  a water elemental: (summoned)
+[10/22/2024 19:58]  a water elemental: a water elemental
+[10/22/2024 19:58]  Sin City Forge: Armorer Luminary
+[10/22/2024 19:58]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 19:58]  Sin City Forge: Sin City Forge
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 42.4.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 46.2.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  Prostagma: a water elemental release
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 42.2.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 46.4.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 42.0.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 46.6.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  a water elemental: (summoned)
+[10/22/2024 19:58]  a water elemental: a water elemental
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 41.8.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 46.8.
+[10/22/2024 19:58]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:58]  Warner the Watch: *area taunt*
+[10/22/2024 19:58]  a gravebug: *devours corpse*
+[10/22/2024 19:58]  Prostagma: a water elemental release
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 41.6.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 47.0.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:58]  You see: a mongbat corpse
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 41.4.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 47.2.
+[10/22/2024 19:58]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:58]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:58]  Splodge: Splodge
+[10/22/2024 19:58]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:58]  System: TasteID skillgain: 100%
+[10/22/2024 19:58]  System: Your skill in Parrying has decreased by 0.2.  It is now 41.2.
+[10/22/2024 19:58]  System: Your skill in Taste Identification has increased by 0.2.  It is now 47.4.
+[10/22/2024 19:58]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  Sin City Forge: Armorer Luminary
+[10/22/2024 19:59]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 19:59]  Sin City Forge: Sin City Forge
+[10/22/2024 19:59]  Bathilda BagShot: Bathilda BagShot
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 41.0.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 47.6.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  a gravebug: *devours corpse*
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 40.8.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 47.8.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  Warner the Watch: *area taunt*
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 40.6.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 48.0.
+[10/22/2024 19:59]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 40.4.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 48.2.
+[10/22/2024 19:59]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 40.2.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 48.4.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 40.0.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 48.6.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  Ulfrik Doven: [Chevalier des liens, LDS]
+[10/22/2024 19:59]  Ulfrik Doven: Ulfrik Doven
+[10/22/2024 19:59]  a gravebug: *devours corpse*
+[10/22/2024 19:59]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:59]  Splodge: Splodge
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 39.8.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 48.8.
+[10/22/2024 19:59]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 39.6.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 49.0.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 19:59]  Warner the Watch: *area taunt*
+[10/22/2024 19:59]  You see: a giant bat corpse
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 39.4.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 49.2.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  You see: a mongbat corpse
+[10/22/2024 19:59]  a water elemental: (summoned)
+[10/22/2024 19:59]  a water elemental: a water elemental
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 39.2.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 49.4.
+[10/22/2024 19:59]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:59]  Prostagma: a water elemental release
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 39.0.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 49.6.
+[10/22/2024 19:59]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:59]  a gravebug: *devours corpse*
+[10/22/2024 19:59]  Warner the Watch: The Knights Guild stands ever in the light of Virtue
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 38.8.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 49.8.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 38.6.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 50.0.
+[10/22/2024 19:59]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:59]  Splodge: [Scallywag, Argh]
+[10/22/2024 19:59]  Splodge: Splodge
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 38.4.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 50.2.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  Warner the Watch: *area taunt*
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 38.2.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 50.4.
+[10/22/2024 19:59]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 38.0.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 50.6.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  a gravebug: *devours corpse*
+[10/22/2024 19:59]  a mongbat: a mongbat
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 37.8.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 50.8.
+[10/22/2024 19:59]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 19:59]  Bathilda BagShot: Bathilda BagShot
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 19:59]  System: TasteID skillgain: 100%
+[10/22/2024 19:59]  System: Your skill in Parrying has decreased by 0.2.  It is now 37.6.
+[10/22/2024 19:59]  System: Your skill in Taste Identification has increased by 0.2.  It is now 51.0.
+[10/22/2024 19:59]  System: It appears to be devoid of any form of poison.
+[10/22/2024 19:59]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 37.4.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 51.2.
+[10/22/2024 20:00]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:00]  Warner the Watch: *area taunt*
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 37.2.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 51.4.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  a mongbat: a mongbat
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 37.0.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 51.6.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:00]  a gravebug: *devours corpse*
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 36.8.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 51.8.
+[10/22/2024 20:00]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:00]  You see: a mongbat corpse
+[10/22/2024 20:00]  a water elemental: (summoned)
+[10/22/2024 20:00]  a water elemental: a water elemental
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 36.6.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 52.0.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  Prostagma: a water elemental release
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 36.4.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 52.2.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  You see: a mongbat corpse
+[10/22/2024 20:00]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:00]  Warner the Watch: Thou wilt regret thine actions, swine!
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 36.2.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 52.4.
+[10/22/2024 20:00]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:00]  Warner the Watch: *area taunt*
+[10/22/2024 20:00]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:00]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:00]  Sin City Forge: Sin City Forge
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  a water elemental: (summoned)
+[10/22/2024 20:00]  a water elemental: a water elemental
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 36.0.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 52.6.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  a gravebug: *devours corpse*
+[10/22/2024 20:00]  Prostagma: a water elemental release
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 35.8.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 52.8.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:00]  Splodge: Splodge
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 35.6.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 53.0.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  System: Your campfire is now secure.
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 35.4.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 53.2.
+[10/22/2024 20:00]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 35.2.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 53.4.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  a gravebug: *devours corpse*
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: [DF] A Dungeon Flashpoint for Aegis Keep has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 35.0.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 53.6.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  Warner the Watch: *area taunt*
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 34.8.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 53.8.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:00]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:00]  Sin City Forge: Sin City Forge
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 34.6.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 54.0.
+[10/22/2024 20:00]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 34.4.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 54.2.
+[10/22/2024 20:00]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:00]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:00]  Splodge: Splodge
+[10/22/2024 20:00]  a giant bat: a giant bat
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 34.2.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 54.4.
+[10/22/2024 20:00]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:00]  a gravebug: *devours corpse*
+[10/22/2024 20:00]  Ulfrik Doven: [Chevalier des liens, LDS]
+[10/22/2024 20:00]  Ulfrik Doven: Ulfrik Doven
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 34.0.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 54.6.
+[10/22/2024 20:00]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:00]  a mongbat: a mongbat
+[10/22/2024 20:00]  Bathilda BagShot: Bathilda BagShot
+[10/22/2024 20:00]  Warner the Watch: *area taunt*
+[10/22/2024 20:00]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:00]  System: TasteID skillgain: 100%
+[10/22/2024 20:00]  System: Your skill in Parrying has decreased by 0.2.  It is now 33.8.
+[10/22/2024 20:00]  System: Your skill in Taste Identification has increased by 0.2.  It is now 54.8.
+[10/22/2024 20:00]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:00]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 33.6.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 55.0.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:01]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:01]  Sin City Forge: Sin City Forge
+[10/22/2024 20:01]  You see: a mongbat corpse
+[10/22/2024 20:01]  a water elemental: (summoned)
+[10/22/2024 20:01]  a water elemental: a water elemental
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 33.4.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 55.2.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  Warner the Watch: Thou wilt regret thine actions, swine!
+[10/22/2024 20:01]  You see: a mongbat corpse
+[10/22/2024 20:01]  Prostagma: a water elemental release
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 33.2.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 55.4.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  a gravebug: *devours corpse*
+[10/22/2024 20:01]  Warner the Watch: Thou wilt regret thine actions, swine!
+[10/22/2024 20:01]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:01]  Splodge: Splodge
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 33.0.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 55.6.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 32.8.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 55.8.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  Warner the Watch: *area taunt*
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 32.6.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 56.0.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  a gravebug: *devours corpse*
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 32.4.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 56.2.
+[10/22/2024 20:01]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:01]  You see: a mongbat corpse
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 32.2.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 56.4.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 32.0.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 56.6.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 31.8.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 56.8.
+[10/22/2024 20:01]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:01]  Warner the Watch: *area taunt*
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 31.6.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 57.0.
+[10/22/2024 20:01]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:01]  a gravebug: *devours corpse*
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 31.4.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 57.2.
+[10/22/2024 20:01]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:01]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 31.2.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 57.4.
+[10/22/2024 20:01]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:01]  Ulfrik Doven: [Chevalier des liens, LDS]
+[10/22/2024 20:01]  Ulfrik Doven: Ulfrik Doven
+[10/22/2024 20:01]  a water elemental: (summoned)
+[10/22/2024 20:01]  a water elemental: a water elemental
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 31.0.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 57.6.
+[10/22/2024 20:01]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:01]  Prostagma: a water elemental release
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 30.8.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 57.8.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:01]  System: Your campfire is now secure.
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 30.6.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 58.0.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  Warner the Watch: *area taunt*
+[10/22/2024 20:01]  a gravebug: *devours corpse*
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 30.4.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 58.2.
+[10/22/2024 20:01]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:01]  a water elemental: (summoned)
+[10/22/2024 20:01]  a water elemental: a water elemental
+[10/22/2024 20:01]  Prostagma: a water elemental release
+[10/22/2024 20:01]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:01]  System: TasteID skillgain: 100%
+[10/22/2024 20:01]  System: Your skill in Parrying has decreased by 0.2.  It is now 30.2.
+[10/22/2024 20:01]  System: Your skill in Taste Identification has increased by 0.2.  It is now 58.4.
+[10/22/2024 20:01]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  Caul Shivers: The Dread Pirate
+[10/22/2024 20:02]  Caul Shivers: [Recruit, G.G]
+[10/22/2024 20:02]  Caul Shivers: Caul Shivers
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 30.0.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 58.6.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 29.8.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 58.8.
+[10/22/2024 20:02]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:02]  Splodge: Splodge
+[10/22/2024 20:02]  a llama: (bonded)
+[10/22/2024 20:02]  a llama: a llama
+[10/22/2024 20:02]  Caul Shivers: The Dread Pirate
+[10/22/2024 20:02]  Caul Shivers: [Recruit, G.G]
+[10/22/2024 20:02]  Caul Shivers: Caul Shivers
+[10/22/2024 20:02]  Warner the Watch: If ever in need of aid, see thee the Knights Guild
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  a gravebug: *devours corpse*
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 29.6.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 59.0.
+[10/22/2024 20:02]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  Left Eye: Left Eye (Young)
+[10/22/2024 20:02]  Bathilda BagShot: Bathilda BagShot
+[10/22/2024 20:02]  Warner the Watch: *area taunt*
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 29.4.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 59.2.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 29.2.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 59.4.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 29.0.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 59.6.
+[10/22/2024 20:02]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 28.8.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 59.8.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:02]  a gravebug: *devours corpse*
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 28.6.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 60.0.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:02]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:02]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:02]  Sin City Forge: Sin City Forge
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 28.4.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 60.2.
+[10/22/2024 20:02]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  Warner the Watch: *area taunt*
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 28.2.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 60.4.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:02]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 28.0.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 60.6.
+[10/22/2024 20:02]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  a water elemental: (summoned)
+[10/22/2024 20:02]  a water elemental: a water elemental
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 27.8.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 60.8.
+[10/22/2024 20:02]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  System: a Aubetoile Mage has completed the achievement: Versatility (Basic).
+[10/22/2024 20:02]  a gravebug: *devours corpse*
+[10/22/2024 20:02]  Prostagma: a water elemental release
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 27.6.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 61.0.
+[10/22/2024 20:02]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 27.4.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 61.2.
+[10/22/2024 20:02]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  a mongbat: a mongbat
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 27.2.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 61.4.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:02]  Warner the Watch: *area taunt*
+[10/22/2024 20:02]  LootGolem: (summoned)
+[10/22/2024 20:02]  LootGolem: LootGolem
+[10/22/2024 20:02]  LootGolem: (summoned)
+[10/22/2024 20:02]  LootGolem: LootGolem
+[10/22/2024 20:02]  Rolandoxd: Rolandoxd
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 27.0.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 61.6.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:02]  Rolandoxd: All Guard Me
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 26.8.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 61.8.
+[10/22/2024 20:02]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:02]  a gravebug: *devours corpse*
+[10/22/2024 20:02]  a mongbat: a mongbat
+[10/22/2024 20:02]  You see: a mongbat corpse
+[10/22/2024 20:02]  You see: a mongbat corpse
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 26.6.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 62.0.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:02]  Warner the Watch: Thou wilt regret thine actions, swine!
+[10/22/2024 20:02]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:02]  System: TasteID skillgain: 100%
+[10/22/2024 20:02]  System: Your skill in Parrying has decreased by 0.2.  It is now 26.4.
+[10/22/2024 20:02]  System: Your skill in Taste Identification has increased by 0.2.  It is now 62.2.
+[10/22/2024 20:02]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:03]  Splodge: Splodge
+[10/22/2024 20:03]  System: Your campfire is now secure.
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 26.2.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 62.4.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:03]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:03]  Sin City Forge: Sin City Forge
+[10/22/2024 20:03]  Warner the Watch: *area taunt*
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 26.0.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 62.6.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  a gravebug: *devours corpse*
+[10/22/2024 20:03]  a mongbat: a mongbat
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 25.8.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 62.8.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  Crystal Darkbane: [Druid, BEAR]
+[10/22/2024 20:03]  Crystal Darkbane: Crystal Darkbane
+[10/22/2024 20:03]  ReaverOne: ReaverOne (Young)
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 25.6.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 63.0.
+[10/22/2024 20:03]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:03]  Ulfrik Doven: [Chevalier des liens, LDS]
+[10/22/2024 20:03]  Ulfrik Doven: Ulfrik Doven
+[10/22/2024 20:03]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 25.4.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 63.2.
+[10/22/2024 20:03]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:03]  Ulfrik Doven: [Chevalier des liens, LDS]
+[10/22/2024 20:03]  Ulfrik Doven: Ulfrik Doven
+[10/22/2024 20:03]  a water elemental: (summoned)
+[10/22/2024 20:03]  a water elemental: a water elemental
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 25.2.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 63.4.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  a giant rat: a giant rat
+[10/22/2024 20:03]  Prostagma: a water elemental release
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 25.0.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 63.6.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:03]  Splodge: Splodge
+[10/22/2024 20:03]  a gravebug: *devours corpse*
+[10/22/2024 20:03]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:03]  Warner the Watch: *area taunt*
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 24.8.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 63.8.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 24.6.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 64.0.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  a water elemental: (summoned)
+[10/22/2024 20:03]  a water elemental: a water elemental
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 24.4.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 64.2.
+[10/22/2024 20:03]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:03]  Prostagma: a water elemental release
+[10/22/2024 20:03]  You see: a mongbat corpse
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 24.2.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 64.4.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  Warner the Watch: Thou wilt regret thine actions, swine!
+[10/22/2024 20:03]  You see: a mongbat corpse
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 24.0.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 64.6.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  a gravebug: *devours corpse*
+[10/22/2024 20:03]  Warner the Watch: Thou wilt regret thine actions, swine!
+[10/22/2024 20:03]  You see: a giant rat corpse
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 23.8.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 64.8.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  Warner the Watch: *area taunt*
+[10/22/2024 20:03]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:03]  Splodge: Splodge
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 23.6.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 65.0.
+[10/22/2024 20:03]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 23.4.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 65.2.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  ReaverOne: Por Ort Grav
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 23.2.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 65.4.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  ReaverOne: Por Ort Grav
+[10/22/2024 20:03]  a gravebug: *devours corpse*
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 23.0.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 65.6.
+[10/22/2024 20:03]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:03]  ReaverOne: Por Ort Grav
+[10/22/2024 20:03]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:03]  System: TasteID skillgain: 100%
+[10/22/2024 20:03]  System: Your skill in Parrying has decreased by 0.2.  It is now 22.8.
+[10/22/2024 20:03]  System: Your skill in Taste Identification has increased by 0.2.  It is now 65.8.
+[10/22/2024 20:03]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:03]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 22.6.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 66.0.
+[10/22/2024 20:04]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:04]  Warner the Watch: *area taunt*
+[10/22/2024 20:04]  Rolandoxd: Kal Vas Xen Ylem
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  Caul Shivers: The Dread Pirate
+[10/22/2024 20:04]  Caul Shivers: [Recruit, G.G]
+[10/22/2024 20:04]  Caul Shivers: Caul Shivers
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 22.4.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 66.2.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  Bathilda BagShot: Bathilda BagShot
+[10/22/2024 20:04]  an earth elemental: (summoned)
+[10/22/2024 20:04]  an earth elemental: an earth elemental
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 22.2.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 66.4.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  a gravebug: *devours corpse*
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 22.0.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 66.6.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  System: Your dexterity has changed by -1.  It is now 97
+[10/22/2024 20:04]  System: Your intelligence has changed by 1.  It is now 55
+[10/22/2024 20:04]  a water elemental: (summoned)
+[10/22/2024 20:04]  a water elemental: a water elemental
+[10/22/2024 20:04]  System: Your campfire is now secure.
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  Prostagma: a water elemental release
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 21.8.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 66.8.
+[10/22/2024 20:04]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 21.6.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 67.0.
+[10/22/2024 20:04]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  Warner the Watch: *area taunt*
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 21.4.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 67.2.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 21.2.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 67.4.
+[10/22/2024 20:04]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:04]  a gravebug: *devours corpse*
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 21.0.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 67.6.
+[10/22/2024 20:04]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:04]  Lambipot: Lambipot (Young)
+[10/22/2024 20:04]  You see: a giant bat corpse
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:04]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:04]  Sin City Forge: Sin City Forge
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 20.8.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 67.8.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 20.6.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 68.0.
+[10/22/2024 20:04]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 20.4.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 68.2.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:04]  Warner the Watch: *area taunt*
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  a gravebug: *devours corpse*
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 20.2.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 68.4.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  Warner the Watch: The Knights Guild stands ever in the light of Virtue
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 20.0.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 68.6.
+[10/22/2024 20:04]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:04]  SongofSongs: SongofSongs (Young)
+[10/22/2024 20:04]  a brown bear: (summoned)
+[10/22/2024 20:04]  a brown bear: a brown bear
+[10/22/2024 20:04]  a ghoul: (summoned)
+[10/22/2024 20:04]  a ghoul: a ghoul
+[10/22/2024 20:04]  a flamehound: (summoned)
+[10/22/2024 20:04]  a flamehound: a flamehound
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 19.8.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 68.8.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:04]  Snooj: Monstrous Slayer
+[10/22/2024 20:04]  Snooj: [Big Boom, CtS]
+[10/22/2024 20:04]  Snooj: Lady Snooj
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 19.6.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 69.0.
+[10/22/2024 20:04]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:04]  ReaverOne: In Vas Mani
+[10/22/2024 20:04]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:04]  Splodge: Splodge
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  a water elemental: (summoned)
+[10/22/2024 20:04]  a water elemental: a water elemental
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 19.4.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 69.2.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  Nyder: Nyder
+[10/22/2024 20:04]  a gravebug: *devours corpse*
+[10/22/2024 20:04]  Prostagma: a water elemental release
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 19.2.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 69.4.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  Warner the Watch: *area taunt*
+[10/22/2024 20:04]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:04]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:04]  System: TasteID skillgain: 100%
+[10/22/2024 20:04]  System: Your skill in Parrying has decreased by 0.2.  It is now 19.0.
+[10/22/2024 20:04]  System: Your skill in Taste Identification has increased by 0.2.  It is now 69.6.
+[10/22/2024 20:04]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:04]  ReaverOne: Por Ort Grav
+[10/22/2024 20:05]  basilisklive: basilisklive (Young)
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.2.  It is now 18.8.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.2.  It is now 69.8.
+[10/22/2024 20:05]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:05]  a water elemental: (summoned)
+[10/22/2024 20:05]  a water elemental: a water elemental
+[10/22/2024 20:05]  System: A house is in danger of collapsing at (1673, 2589, 0).
+[10/22/2024 20:05]  Evaletris: Evaletris (Young)
+[10/22/2024 20:05]  a bull: (tame)
+[10/22/2024 20:05]  a bull: a bull
+[10/22/2024 20:05]  a mongbat: (tame)
+[10/22/2024 20:05]  a mongbat: a mongbat
+[10/22/2024 20:05]  a colossal frog: (tame)
+[10/22/2024 20:05]  a colossal frog: a colossal frog
+[10/22/2024 20:05]  a mongbat: a mongbat
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.2.  It is now 18.6.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.2.  It is now 70.0.
+[10/22/2024 20:05]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:05]  Prostagma: a water elemental release
+[10/22/2024 20:05]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  Left Eye: Left Eye (Young)
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 18.5.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 70.1.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:05]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:05]  Sin City Forge: Sin City Forge
+[10/22/2024 20:05]  ReaverOne: Por Ort Grav
+[10/22/2024 20:05]  a gravebug: *devours corpse*
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 18.4.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 70.2.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  ReaverOne: Por Ort Grav
+[10/22/2024 20:05]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:05]  Splodge: Splodge
+[10/22/2024 20:05]  a water elemental: (summoned)
+[10/22/2024 20:05]  a water elemental: a water elemental
+[10/22/2024 20:05]  a mongbat: a mongbat
+[10/22/2024 20:05]  Warner the Watch: *area taunt*
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 18.3.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 70.3.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  Prostagma: a water elemental release
+[10/22/2024 20:05]  You see: a mongbat corpse
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 18.2.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 70.4.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  You see: a mongbat corpse
+[10/22/2024 20:05]  ReaverOne: Por Ort Grav
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 18.1.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 70.5.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  a mongbat: a mongbat
+[10/22/2024 20:05]  a gravebug: *devours corpse*
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 18.0.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 70.6.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:05]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:05]  Sin City Forge: Sin City Forge
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.9.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 70.7.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  ReaverOne: Por Ort Grav
+[10/22/2024 20:05]  Warner the Watch: *area taunt*
+[10/22/2024 20:05]  You see: a mongbat corpse
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.8.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 70.8.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:05]  Splodge: Splodge
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.7.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 70.9.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  a gravebug: *devours corpse*
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.6.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.0.
+[10/22/2024 20:05]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:05]  ReaverOne: Por Ort Grav
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.5.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.1.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.4.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.2.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.3.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.3.
+[10/22/2024 20:05]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:05]  Warner the Watch: *area taunt*
+[10/22/2024 20:05]  ReaverOne: Por Ort Grav
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.2.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.4.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  a water elemental: (summoned)
+[10/22/2024 20:05]  a water elemental: a water elemental
+[10/22/2024 20:05]  a gravebug: *devours corpse*
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:05]  Splodge: Splodge
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.1.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.5.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:05]  Boinkadonk: Boinkadonk (Young)
+[10/22/2024 20:05]  Prostagma: a water elemental release
+[10/22/2024 20:05]  You see: a mongbat corpse
+[10/22/2024 20:05]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:05]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:05]  System: TasteID skillgain: 100%
+[10/22/2024 20:05]  System: Your skill in Parrying has decreased by 0.1.  It is now 17.0.
+[10/22/2024 20:05]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.6.
+[10/22/2024 20:05]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  Boinkadonk: Boinkadonk (Young)
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.9.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.7.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  System: Your dexterity has changed by -1.  It is now 96
+[10/22/2024 20:06]  System: Your intelligence has changed by 1.  It is now 56
+[10/22/2024 20:06]  ReaverOne: In Vas Mani
+[10/22/2024 20:06]  a drake whelp: (tame)
+[10/22/2024 20:06]  a drake whelp: a drake whelp
+[10/22/2024 20:06]  a drake whelp: (tame)
+[10/22/2024 20:06]  a drake whelp: a drake whelp
+[10/22/2024 20:06]  a drake whelp: (tame)
+[10/22/2024 20:06]  a drake whelp: a drake whelp
+[10/22/2024 20:06]  a drake: (bonded)
+[10/22/2024 20:06]  a drake: a drake
+[10/22/2024 20:06]  Urzula: [The Tavern], [tT]
+[10/22/2024 20:06]  Urzula: Urzula
+[10/22/2024 20:06]  Urzula: all guard
+[10/22/2024 20:06]  a water elemental: (summoned)
+[10/22/2024 20:06]  a water elemental: a water elemental
+[10/22/2024 20:06]  You see: a mongbat corpse
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.8.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.8.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  Prostagma: a water elemental release
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  Warner the Watch: *area taunt*
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.7.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 71.9.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  a gravebug: *devours corpse*
+[10/22/2024 20:06]  You see: a mongbat corpse
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.6.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.0.
+[10/22/2024 20:06]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:06]  DingDing: DingDing
+[10/22/2024 20:06]  ReaverOne: Por Ort Grav
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.5.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.1.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  System: Pendargon has completed the achievement: Transmutation (Basic).
+[10/22/2024 20:06]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:06]  Splodge: Splodge
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.4.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.2.
+[10/22/2024 20:06]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.3.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.3.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  ReaverOne: Por Ort Grav
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  a gravebug: *devours corpse*
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.2.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.4.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  Warner the Watch: *area taunt*
+[10/22/2024 20:06]  ReaverOne: Por Ort Grav
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.1.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.5.
+[10/22/2024 20:06]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:06]  ReaverOne: Por Ort Grav
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 16.0.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.6.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.9.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.7.
+[10/22/2024 20:06]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:06]  ReaverOne: Por Ort Grav
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  You see: a wounded harpy corpse
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.8.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.8.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  a gravebug: *devours corpse*
+[10/22/2024 20:06]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:06]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:06]  Sin City Forge: Sin City Forge
+[10/22/2024 20:06]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.7.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 72.9.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.6.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.0.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  Warner the Watch: *area taunt*
+[10/22/2024 20:06]  a water elemental: (summoned)
+[10/22/2024 20:06]  a water elemental: a water elemental
+[10/22/2024 20:06]  ReaverOne: Por Ort Grav
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.5.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.1.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  Prostagma: a water elemental release
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.4.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.2.
+[10/22/2024 20:06]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:06]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:06]  Splodge: Splodge
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.3.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.3.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  a gravebug: *devours corpse*
+[10/22/2024 20:06]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:06]  System: TasteID skillgain: 100%
+[10/22/2024 20:06]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.2.
+[10/22/2024 20:06]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.4.
+[10/22/2024 20:06]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:06]  ReaverOne: Por Ort Grav
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.1.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.5.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 15.0.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.6.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  Warner the Watch: *area taunt*
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.9.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.7.
+[10/22/2024 20:07]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:07]  Prostagma: [Bon Voyage, Co.]
+[10/22/2024 20:07]  Prostagma: Prostagma
+[10/22/2024 20:07]  ReaverOne: Por Ort Grav
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.8.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.8.
+[10/22/2024 20:07]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:07]  Warner the Watch: Live by the Oath: Uphold the Principles, Maintain the Virtues and Observe the Code of Chivalry
+[10/22/2024 20:07]  a gravebug: *devours corpse*
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.7.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 73.9.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  Ulfrik Doven: [Chevalier des liens, LDS]
+[10/22/2024 20:07]  Ulfrik Doven: Ulfrik Doven
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.6.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.0.
+[10/22/2024 20:07]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:07]  a mongbat: a mongbat
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.5.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.1.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  purple parrot: purple parrot
+[10/22/2024 20:07]  ReaverOne: In Vas Mani
+[10/22/2024 20:07]  Corruptshot: [Mechanic, MMx]
+[10/22/2024 20:07]  Corruptshot: Corruptshot
+[10/22/2024 20:07]  Warner the Watch: *area taunt*
+[10/22/2024 20:07]  Prostagma: Kal Vas Xen An Flam
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.4.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.2.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:07]  Splodge: Splodge
+[10/22/2024 20:07]  a gravebug: *devours corpse*
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.3.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.3.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  a water elemental: (summoned)
+[10/22/2024 20:07]  a water elemental: a water elemental
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.2.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.4.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  ReaverOne: Por Ort Grav
+[10/22/2024 20:07]  Prostagma: a water elemental release
+[10/22/2024 20:07]  Budman: [Recruit, Yew]
+[10/22/2024 20:07]  Budman: Budman
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.1.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.5.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 14.0.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.6.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  Budman: Kal Vas Xen Ylem
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.9.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.7.
+[10/22/2024 20:07]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:07]  Warner the Watch: *area taunt*
+[10/22/2024 20:07]  a gravebug: *devours corpse*
+[10/22/2024 20:07]  ReaverOne: Por Ort Grav
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.8.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.8.
+[10/22/2024 20:07]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:07]  an earth elemental: (summoned)
+[10/22/2024 20:07]  an earth elemental: an earth elemental
+[10/22/2024 20:07]  a mongbat: *looks calmed*
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.7.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 74.9.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:07]  Splodge: Splodge
+[10/22/2024 20:07]  Budman: Kal Vas Xen An Flam
+[10/22/2024 20:07]  a mongbat: a mongbat
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 100%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.6.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.0.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  ReaverOne: Por Ort Grav
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  a water elemental: (summoned)
+[10/22/2024 20:07]  a water elemental: a water elemental
+[10/22/2024 20:07]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  Budman: all follow
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.5.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.1.
+[10/22/2024 20:07]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:07]  a gravebug: *devours corpse*
+[10/22/2024 20:07]  XoDakXo: XoDakXo (Young)
+[10/22/2024 20:07]  a mongbat: *looks calmed*
+[10/22/2024 20:07]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:07]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:07]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.4.
+[10/22/2024 20:07]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.2.
+[10/22/2024 20:07]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:07]  Caul Shivers: The Dread Pirate
+[10/22/2024 20:07]  Caul Shivers: [Recruit, G.G]
+[10/22/2024 20:07]  Caul Shivers: Caul Shivers
+[10/22/2024 20:07]  Warner the Watch: *area taunt*
+[10/22/2024 20:07]  a wounded harpy: a wounded harpy
+[10/22/2024 20:07]  You see: a mongbat corpse
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  ReaverOne: Por Ort Grav
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.3.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.3.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.2.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.4.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:08]  Splodge: Splodge
+[10/22/2024 20:08]  a gravebug: *devours corpse*
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.1.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.5.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  ReaverOne: Por Ort Grav
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 13.0.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.6.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  ReaverOne: Por Ort Grav
+[10/22/2024 20:08]  Warner the Watch: *area taunt*
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.9.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.7.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.8.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.8.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  System: Your dexterity has changed by -1.  It is now 95
+[10/22/2024 20:08]  System: Your intelligence has changed by 1.  It is now 57
+[10/22/2024 20:08]  : dungeon wall
+[10/22/2024 20:08]  Crystal Darkbane: [Druid, BEAR]
+[10/22/2024 20:08]  Crystal Darkbane: Crystal Darkbane
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.7.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 75.9.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  ReaverOne: In Vas Mani
+[10/22/2024 20:08]  a gravebug: *devours corpse*
+[10/22/2024 20:08]  a mongbat: *looks calmed*
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.6.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.0.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.5.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.1.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  System: The world will save in 15 seconds.
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  You see: a mongbat corpse
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.4.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.2.
+[10/22/2024 20:08]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:08]  Warner the Watch: *area taunt*
+[10/22/2024 20:08]  ReaverOne: Por Ort Grav
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.3.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.3.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.2.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.4.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  a gravebug: *devours corpse*
+[10/22/2024 20:08]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:08]  Splodge: Splodge
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.1.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.5.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:08]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:08]  Sin City Forge: Sin City Forge
+[10/22/2024 20:08]  Jooci: Chef
+[10/22/2024 20:08]  Jooci: [Druid Veteran, BEAR]
+[10/22/2024 20:08]  Jooci: Jooci
+[10/22/2024 20:08]  You see: a giant rat corpse
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 12.0.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.6.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  System: The world is saving, please wait.
+[10/22/2024 20:08]  System: World save complete. The entire process took 2.7 seconds.
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.9.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.7.
+[10/22/2024 20:08]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:08]  a mongbat: *looks calmed*
+[10/22/2024 20:08]  a llama: (bonded)
+[10/22/2024 20:08]  a llama: a llama
+[10/22/2024 20:08]  Caul Shivers: The Dread Pirate
+[10/22/2024 20:08]  Caul Shivers: [Recruit, G.G]
+[10/22/2024 20:08]  Caul Shivers: Caul Shivers
+[10/22/2024 20:08]  Warner the Watch: *area taunt*
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  a gravebug: *devours corpse*
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.8.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.8.
+[10/22/2024 20:08]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:08]  Budman: [Recruit, Yew]
+[10/22/2024 20:08]  Budman: Budman
+[10/22/2024 20:08]  an earth elemental: (summoned)
+[10/22/2024 20:08]  an earth elemental: an earth elemental
+[10/22/2024 20:08]  a water elemental: (summoned)
+[10/22/2024 20:08]  a water elemental: a water elemental
+[10/22/2024 20:08]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:08]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:08]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.7.
+[10/22/2024 20:08]  System: Your skill in Taste Identification has increased by 0.1.  It is now 76.9.
+[10/22/2024 20:08]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.6.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.0.
+[10/22/2024 20:09]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:09]  a headless: a headless
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.5.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.1.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  a gravebug: *devours corpse*
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  G ucci: G ucci
+[10/22/2024 20:09]  Warner the Watch: *area taunt*
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.4.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.2.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.3.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.3.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.2.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.4.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  a gravebug: *devours corpse*
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.1.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.5.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 11.0.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.6.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  Warner the Watch: *area taunt*
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.9.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.7.
+[10/22/2024 20:09]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.8.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.8.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.7.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 77.9.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  a gravebug: *devours corpse*
+[10/22/2024 20:09]  Warner the Watch: Fear not! The Knights Guild shalt protect thee whilst thou trains!
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.6.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.0.
+[10/22/2024 20:09]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:09]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:09]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:09]  Sin City Forge: Sin City Forge
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.5.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.1.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  a mongbat: *looks calmed*
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  Warner the Watch: *area taunt*
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.4.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.2.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:09]  a gravebug: *devours corpse*
+[10/22/2024 20:09]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:09]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:09]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.3.
+[10/22/2024 20:09]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.3.
+[10/22/2024 20:09]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:09]  a giant rat: (bonded)
+[10/22/2024 20:09]  a giant rat: a giant rat
+[10/22/2024 20:09]  a bull: (bonded)
+[10/22/2024 20:09]  a bull: a bull
+[10/22/2024 20:09]  a bull: (bonded)
+[10/22/2024 20:09]  a bull: a bull
+[10/22/2024 20:09]  Bogulian: Bogulian (Young)
+[10/22/2024 20:09]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:09]  Splodge: Splodge
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.2.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.4.
+[10/22/2024 20:10]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:10]  a mongbat: *looks calmed*
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.1.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.5.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  Warner the Watch: *area taunt*
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 10.0.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.6.
+[10/22/2024 20:10]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:10]  a gravebug: *devours corpse*
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.9.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.7.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.8.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.8.
+[10/22/2024 20:10]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.7.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 78.9.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  You see: a giant bat corpse
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.6.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.0.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  You see: a mongbat corpse
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.5.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.1.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  Warner the Watch: *area taunt*
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.4.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.2.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.3.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.3.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.2.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.4.
+[10/22/2024 20:10]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:10]  You see: a mongbat corpse
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.1.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.5.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 9.0.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.6.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  Bogulian: Bogulian (Young)
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 8.9.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.7.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  Warner the Watch: *area taunt*
+[10/22/2024 20:10]  a bull: (bonded)
+[10/22/2024 20:10]  a bull: a bull
+[10/22/2024 20:10]  a bull: (bonded)
+[10/22/2024 20:10]  a bull: a bull
+[10/22/2024 20:10]  a giant rat: (bonded)
+[10/22/2024 20:10]  a giant rat: a giant rat
+[10/22/2024 20:10]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:10]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:10]  Sin City Forge: Sin City Forge
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 8.8.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.8.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 8.7.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 79.9.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: TasteID skillgain: 90.909%
+[10/22/2024 20:10]  System: Your skill in Parrying has decreased by 0.1.  It is now 8.6.
+[10/22/2024 20:10]  System: Your skill in Taste Identification has increased by 0.1.  It is now 80.0.
+[10/22/2024 20:10]  System: You have reached the maximum skill gain allowed for Taste Id within New Player Dungeon and it will gain no further while you stay within.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:10]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:10]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  a mongbat: *looks calmed*
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  Warner the Watch: *area taunt*
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  You see: a mongbat corpse
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  a mongbat: *looks calmed*
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  System: RandomNPC has completed the achievement: Weaponmastery (Advanced).
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  Warner the Watch: *area taunt*
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  Redleg: Redleg
+[10/22/2024 20:11]  XoSkillsXo: XoSkillsXo
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  a headless: a headless
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:11]  Splodge: Splodge
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  Warner the Watch: *area taunt*
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  a mongbat: *looks calmed*
+[10/22/2024 20:11]  You see: a wounded harpy corpse
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:11]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:11]  Sin City Forge: Sin City Forge
+[10/22/2024 20:11]  a headless: *looks calmed*
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:11]  Warner the Watch: *area taunt*
+[10/22/2024 20:11]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:11]  a headless: *looks violently ill*
+[10/22/2024 20:11]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  You see: a mongbat corpse
+[10/22/2024 20:12]  a headless: *looks violently ill*
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  Warner the Watch: Thou wilt regret thine actions, swine!
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  You see: a headless corpse
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:12]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:12]  Splodge: Splodge
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:12]  System: Druida has completed the achievement: Transmutation (Epic).
+[10/22/2024 20:12]  Warner the Watch: If ever in need of aid, see thee the Knights Guild
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  a mongbat: *looks calmed*
+[10/22/2024 20:12]  Warner the Watch: *area taunt*
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  You see: a mongbat corpse
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  purple parrot: purple parrot
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  System: Your dexterity has changed by -1.  It is now 94
+[10/22/2024 20:12]  System: Your intelligence has changed by 1.  It is now 58
+[10/22/2024 20:12]  Warner the Watch: *area taunt*
+[10/22/2024 20:12]  purple parrot: purple parrot
+[10/22/2024 20:12]  a giant bat: a giant bat
+[10/22/2024 20:12]  a mongbat: a mongbat
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  Warner the Watch: *area taunt*
+[10/22/2024 20:12]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:12]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:12]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:12]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:12]  Sin City Forge: Sin City Forge
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  Warner the Watch: *area taunt*
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:13]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:13]  Sin City Forge: Sin City Forge
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:13]  Splodge: Splodge
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  Warner the Watch: *area taunt*
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:13]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:13]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:13]  Sin City Forge: Sin City Forge
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  Warner the Watch: *area taunt*
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:13]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:13]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  Warner the Watch: *area taunt*
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  a mongbat: a mongbat
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  a mongbat: a mongbat
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  a mongbat: *looks calmed*
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  Warner the Watch: *area taunt*
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  You see: a mongbat corpse
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:14]  Splodge: Splodge
+[10/22/2024 20:14]  a mongbat: *looks calmed*
+[10/22/2024 20:14]  XoDakXo: XoDakXo (Young)
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  a mongbat: a mongbat
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  You see: the remains of purple parrot
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  XoSkillsXo: XoSkillsXo
+[10/22/2024 20:14]  Warner the Watch: *area taunt*
+[10/22/2024 20:14]  Warner the Watch: The Knights Guild stands ever in the light of Virtue
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:14]  Ulfrik Doven: [Chevalier des liens, LDS]
+[10/22/2024 20:14]  Ulfrik Doven: Ulfrik Doven
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  You see: a mongbat corpse
+[10/22/2024 20:14]  a mongbat: a mongbat
+[10/22/2024 20:14]  Redleg: Redleg
+[10/22/2024 20:14]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:14]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:14]  Sin City Forge: Sin City Forge
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  You see: a mongbat corpse
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:14]  You see: a mongbat corpse
+[10/22/2024 20:14]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:14]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  Warner the Watch: *area taunt*
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:15]  Splodge: Splodge
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  Warner the Watch: *area taunt*
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  You see: a giant bat corpse
+[10/22/2024 20:15]  Bogulian: Bogulian (Young)
+[10/22/2024 20:15]  a bull: (bonded)
+[10/22/2024 20:15]  a bull: a bull
+[10/22/2024 20:15]  a bull: (bonded)
+[10/22/2024 20:15]  a bull: a bull
+[10/22/2024 20:15]  a giant rat: (bonded)
+[10/22/2024 20:15]  a giant rat: a giant rat
+[10/22/2024 20:15]  a mongbat: a mongbat
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  Warner the Watch: *area taunt*
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  a mongbat: *looks calmed*
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:15]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:15]  Warner the Watch: *area taunt*
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  You see: a mongbat corpse
+[10/22/2024 20:16]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:16]  Splodge: Splodge
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:16]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:16]  Sin City Forge: Sin City Forge
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:16]  a mongbat: a mongbat
+[10/22/2024 20:16]  Warner the Watch: *area taunt*
+[10/22/2024 20:16]  a mongbat: *looks calmed*
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  Redleg: Redleg
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  You see: a mongbat corpse
+[10/22/2024 20:16]  a mongbat: a mongbat
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  a headless: a headless
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  a headless: *looks calmed*
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  You see: a mongbat corpse
+[10/22/2024 20:16]  Warner the Watch: *area taunt*
+[10/22/2024 20:16]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:16]  Splodge: Splodge
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  a headless: *looks violently ill*
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:16]  Warner the Watch: *area taunt*
+[10/22/2024 20:16]  You see: a headless corpse
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:16]  System: Your dexterity has changed by -1.  It is now 93
+[10/22/2024 20:16]  System: Your intelligence has changed by 1.  It is now 59
+[10/22/2024 20:16]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:16]  Splodge: Splodge
+[10/22/2024 20:16]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:16]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  System: GoatSeeker has completed the achievement: Domestication (Master).
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  You see: a mongbat corpse
+[10/22/2024 20:17]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:17]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:17]  Sin City Forge: Sin City Forge
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  Warner the Watch: *area taunt*
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  You see: a headless corpse
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  Warner the Watch: Fear not! The Knights Guild shalt protect thee whilst thou trains!
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  You see: a mongbat corpse
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  Warner the Watch: *area taunt*
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:17]  Splodge: Splodge
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  Warner the Watch: *area taunt*
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  System: Ladock has completed the achievement: Construct Slayer (Basic).
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:17]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:17]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:17]  Sin City Forge: Sin City Forge
+[10/22/2024 20:17]  System: Bow Jihden has completed the achievement: Tailor (Basic).
+[10/22/2024 20:17]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:17]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  Warner the Watch: *area taunt*
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:18]  Splodge: Splodge
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:18]  XoDakXo: XoDakXo (Young)
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  Warner the Watch: *area taunt*
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  Sin City Forge: Armorer Luminary
+[10/22/2024 20:18]  Sin City Forge: [Grand Craftsman, C-C]
+[10/22/2024 20:18]  Sin City Forge: Sin City Forge
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:18]  Redleg: Redleg
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: You are uncertain as to the safety of this food item.
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  a mongbat: a mongbat
+[10/22/2024 20:18]  a mongbat: a mongbat
+[10/22/2024 20:18]  Warner the Watch: *area taunt*
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  Splodge: [Scallywag, Argh]
+[10/22/2024 20:18]  Splodge: Splodge
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  Bogulian: Bogulian (Young)
+[10/22/2024 20:18]  Corruptshot: [Mechanic, MMx]
+[10/22/2024 20:18]  Corruptshot: Corruptshot
+[10/22/2024 20:18]  Leo Stronghold: Leo Stronghold
+[10/22/2024 20:18]  Mass Produce: Mass Produce
+[10/22/2024 20:18]  Boinkadonk: Boinkadonk (Young)
+[10/22/2024 20:18]  a bull: (bonded)
+[10/22/2024 20:18]  a bull: a bull
+[10/22/2024 20:18]  a bull: (bonded)
+[10/22/2024 20:18]  a bull: a bull
+[10/22/2024 20:18]  a giant rat: (bonded)
+[10/22/2024 20:18]  a giant rat: a giant rat
+[10/22/2024 20:18]  System: You may not loot this corpse.
+[10/22/2024 20:18]  System: You may not loot this corpse.
+[10/22/2024 20:18]  System: You may not loot this corpse.
+[10/22/2024 20:18]  System: You may not loot this corpse.
+[10/22/2024 20:18]  System: You may not loot this corpse.
+[10/22/2024 20:18]  System: You are now under the protection of the town guards.
+[10/22/2024 20:18]  MrSaul: Your mount returns.
+[10/22/2024 20:18]  a hind: a hind
+[10/22/2024 20:18]  an eagle: an eagle
+[10/22/2024 20:18]  Zaid: Zaid the guard
+[10/22/2024 20:18]  Furro Fangbottom: Furro Fangbottom
+[10/22/2024 20:18]  XoSkillsXo: XoSkillsXo
+[10/22/2024 20:18]  Pizza Sheet: [Hostile Elite, HOST]
+[10/22/2024 20:18]  Pizza Sheet: Pizza Sheet
+[10/22/2024 20:18]  a cave bear: *released*
+[10/22/2024 20:18]  a cave bear: a cave bear
+[10/22/2024 20:18]  a cave bear: *released*
+[10/22/2024 20:18]  a cave bear: a cave bear
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  Chardun: [Slave, Und]
+[10/22/2024 20:18]  Chardun: Chardun
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.
+[10/22/2024 20:18]  Van Luke: Field Captain [Terran]
+[10/22/2024 20:18]  Van Luke: [EVIL]
+[10/22/2024 20:18]  Van Luke: Van Luke
+[10/22/2024 20:18]  Eva Morgoth: [Member, NC]
+[10/22/2024 20:18]  Eva Morgoth: Eva Morgoth (Young)
+[10/22/2024 20:18]  System: What food, potion, or player would you like to inspect.
+[10/22/2024 20:18]  System: It appears to be devoid of any form of poison.

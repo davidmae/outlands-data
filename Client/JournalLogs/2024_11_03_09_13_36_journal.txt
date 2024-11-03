@@ -1,0 +1,33 @@
+[11/03/2024 09:13]  System: WorldMap loading...
+[11/03/2024 09:13]  System: Loading WorldMap markers..
+[11/03/2024 09:13]  System: ..Banks_and_Healers.xml (39)
+[11/03/2024 09:13]  System: ..Dungeons.xml (13)
+[11/03/2024 09:13]  System: ..Dungeon_Gates.xml (392)
+[11/03/2024 09:13]  System: ..Healer_Caravans.xml (42)
+[11/03/2024 09:13]  System: ..Kings_Faire.xml (49)
+[11/03/2024 09:13]  System: ..Moongates.xml (10)
+[11/03/2024 09:13]  System: ..POI.xml (251)
+[11/03/2024 09:13]  System: ..PvP_Locations.xml (71)
+[11/03/2024 09:13]  System: ..Shrines.xml (9)
+[11/03/2024 09:13]  System: ..Sub-Dungeons.xml (4)
+[11/03/2024 09:13]  System: ..Townships.xml (10)
+[11/03/2024 09:13]  System: ..UOAM_Atlas.xml (1887)
+[11/03/2024 09:13]  System: ..UOAM_T-Map.xml (255)
+[11/03/2024 09:13]  System: ..UOAM_Treasure.xml (523)
+[11/03/2024 09:13]  System: WorldMap markers loaded (3555)
+[11/03/2024 09:13]  System: WorldMap loaded!
+[11/03/2024 09:13]  System: Welcome MrSaul!
+[11/03/2024 09:13]  MrSaul: MrSaul
+[11/03/2024 09:13]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[11/03/2024 09:13]  System: Deathmold: Reduces the growth impact of achieving an ideal water level by 75% (Pestilent Effect).
+[11/03/2024 09:14]  System: You make an estimate of the ideal water needed for this plant.
+[11/03/2024 09:14]  System: Which item will use on or add to this plant?
+[11/03/2024 09:14]  System: You add the ideal amount of water to the plant.
+[11/03/2024 09:14]  System: You cannot add that much water to a plant bowl.
+[11/03/2024 09:14]  System: You add water to the plant bowl.
+[11/03/2024 09:14]  System: You make an estimate of the ideal soil needed for this plant.
+[11/03/2024 09:14]  System: Which item will use on or add to this plant?
+[11/03/2024 09:14]  System: You add the ideal amount of soil to the plant.
+[11/03/2024 09:14]  System: Tiny Clay Plant Bowl: Increases total growth rate by 5% (Permanent).
+[11/03/2024 09:14]  You see: Outpost Moongate
+[11/03/2024 09:14]  System: White Mushroom Troop: Reduces the growth impact of achieving an ideal soil level by 50% (Fungal Effect).
